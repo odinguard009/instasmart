@@ -19,7 +19,8 @@ export function InfographicTemplate({ visual, palette, frame }: TemplateProps<Vi
       <SvgText layout={title} x={MARGIN} y={top} fill={palette.ink} weight={900} />
       {visual.points.map((point, index) => {
         const y = listTop + index * (rowHeight + rowGap);
-        const text = layoutText(point, { maxWidth: width - 190, maxLines: rowHeight > 150 ? 3 : 2, sizes: [46, 40, 35, 31] });
+        // Tinggi baris ikut dibatasi: dengan 5 poin, teks dua baris berukuran besar meluber keluar kotak.
+        const text = layoutText(point, { maxWidth: width - 190, maxLines: rowHeight > 150 ? 3 : 2, maxHeight: rowHeight - 20, sizes: [46, 40, 35, 31, 28] });
         return (
           <g key={index}>
             <rect x={MARGIN} y={y} width={width} height={rowHeight} rx={28} fill={palette.panel} />

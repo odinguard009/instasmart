@@ -1,0 +1,22 @@
+# Roadmap
+
+Hal-hal di bawah ini sengaja BELUM dikerjakan. Urutannya kira-kira dari yang paling bernilai.
+
+## Segera berguna (masih PWA)
+
+- **Verifikasi konten oleh manusia.** Semua kartu masih `draft`. Cocokkan dengan teks resmi, lalu ubah `status` menjadi `approved` di JSON (atau setujui lewat halaman Review). Prioritas: 44 kartu bertanda `needsVerification`.
+- **Kutipan teks resmi di `content/sources/`.** Saat fondasi dibuat, situs peraturan resmi menolak akses otomatis. Isi folder ini dengan teks pasal yang disalin dari sumber resmi, lalu pakai generator.
+- **Lebih banyak kartu per sub-topik.** Dengan 114 kartu dan kuota 20, materi baru habis dalam beberapa hari dan feed mulai mengulang.
+- **Lebih banyak topik**, misalnya Hukum Acara PTUN lebih dalam, Hukum Adat, Hukum Islam untuk peradilan agama, hukum perdata khusus, yurisprudensi dan SEMA/PERMA pilihan, serta soal gaya tes potensi akademik dan wawancara.
+- **Ekspor status review.** Persetujuan di halaman Review tersimpan lokal; belum ada cara menuliskannya kembali ke file JSON repo selain mengedit manual.
+- **Pengukur lebar teks sungguhan** untuk template SVG (sekarang perkiraan per karakter).
+- **Sinkron narasi dengan scene** (durasi scene mengikuti lama ucapan) dan pilihan suara.
+- **Tes komponen di peramban** sebagai bagian CI (sekarang `npm run smoke` dijalankan manual).
+
+## Fase lanjutan
+
+- **Aplikasi Android native dengan pembatasan aplikasi.** Membungkus PWA (Trusted Web Activity atau Capacitor) dan menambah modul native yang memakai izin statistik pemakaian/aksesibilitas, supaya Instagram bisa dibatasi atau baru terbuka setelah kuota belajar selesai. Ini satu-satunya jalan untuk pemblokiran sungguhan.
+- **Render MP4 otomatis.** `scripts/render-reels.ts` sudah bisa merender satu reel secara manual. Lanjutannya: render semua reel di CI, tambah audio narasi (TTS yang lisensinya jelas), dan pakai hasilnya sebagai kartu `video`.
+- **Sinkronisasi antar perangkat.** Sekarang hanya export/import JSON manual. Pilihan: berkas di penyimpanan awan milik pengguna, atau backend kecil dengan akun.
+- **Paket konten terpisah dari aplikasi**, supaya kartu bisa diperbarui tanpa build ulang.
+- **Statistik retensi** (kurva lupa per topik, prediksi kesiapan ujian).

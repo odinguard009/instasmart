@@ -1,0 +1,290 @@
+[
+  {
+    "id": "twk-pasal-1",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "\"Negara Indonesia adalah negara hukum.\" Bunyi ini terdapat dalam UUD 1945…",
+    "options": [
+      "Pasal 1 ayat (3)",
+      "Pasal 27 ayat (1)",
+      "Pasal 1 ayat (1)",
+      "Pasal 1 ayat (2)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 ayat (1): negara kesatuan berbentuk republik; ayat (2): kedaulatan di tangan rakyat dan dilaksanakan menurut UUD; ayat (3): negara hukum.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 1"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-37-ayat-5",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Bagian UUD 1945 yang menurut Pasal 37 ayat (5) tidak dapat diubah adalah…",
+    "options": [
+      "Masa jabatan presiden",
+      "Bentuk Negara Kesatuan Republik Indonesia",
+      "Jumlah kementerian",
+      "Pembukaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 37 ayat (5): khusus mengenai bentuk NKRI tidak dapat dilakukan perubahan. Pembukaan tidak diubah berdasarkan kesepakatan politik MPR, bukan bunyi Pasal 37.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 37 ayat (5)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-amandemen",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "UUD 1945 diamandemen sebanyak … kali pada periode…",
+    "options": [
+      "2 kali, 1998-1999",
+      "4 kali, 2000-2004",
+      "5 kali, 1999-2003",
+      "4 kali, 1999-2002"
+    ],
+    "answerIndex": 3,
+    "explanation": "Perubahan pertama 1999, kedua 2000, ketiga 2001, keempat 2002.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Aturan Tambahan dan riwayat perubahan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-dekrit",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Dekrit Presiden yang memberlakukan kembali UUD 1945 dikeluarkan pada…",
+    "options": [
+      "27 Desember 1949",
+      "17 Agustus 1950",
+      "5 Juli 1959",
+      "11 Maret 1966"
+    ],
+    "answerIndex": 2,
+    "explanation": "5 Juli 1959. Sebelumnya berlaku Konstitusi RIS (1949-1950) dan UUDS 1950.",
+    "source": {
+      "title": "Dekrit Presiden 5 Juli 1959",
+      "reference": "Sejarah konstitusi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-anggaran-pendidikan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "UUD 1945 mewajibkan anggaran pendidikan sekurang-kurangnya … dari APBN dan APBD.",
+    "options": [
+      "15%",
+      "20%",
+      "10%",
+      "25%"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 31 ayat (4).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 31 ayat (4)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-pasal-33-3",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "\"Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.\" Pasal…",
+    "options": [
+      "Pasal 34 ayat (1)",
+      "Pasal 28H ayat (1)",
+      "Pasal 33 ayat (1)",
+      "Pasal 33 ayat (3)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 33 ayat (3).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 33 ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-hari-bela-negara",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Hari Bela Negara diperingati setiap tanggal…",
+    "options": [
+      "20 Mei",
+      "1 Oktober",
+      "19 Desember",
+      "10 November"
+    ],
+    "answerIndex": 2,
+    "explanation": "19 Desember, mengenang berdirinya Pemerintahan Darurat Republik Indonesia (PDRI) 1948. 1 Oktober adalah Hari Kesaktian Pancasila.",
+    "source": {
+      "title": "Keputusan Presiden No. 28 Tahun 2006 tentang Hari Bela Negara",
+      "reference": "Keppres No. 28 Tahun 2006"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-baku-2",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kelompok kata baku yang benar adalah…",
+    "options": [
+      "Sekadar, silakan, hakikat",
+      "Sekadar, silahkan, hakikat",
+      "Sekedar, silakan, hakekat",
+      "Sekedar, silahkan, hakekat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Baku menurut KBBI: sekadar, silakan, hakikat.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "KBBI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-baku-3",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan kata yang baku adalah…",
+    "options": [
+      "Kwalitas, frekuensi, teoritis",
+      "Kualitas, frekwensi, teoretis",
+      "Kwalitas, frekwensi, teoritis",
+      "Kualitas, frekuensi, teoretis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Baku: kualitas, frekuensi, teoretis.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "KBBI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-kalimat-efektif",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat yang efektif adalah…",
+    "options": [
+      "Para peserta diharap hadir.",
+      "Para peserta-peserta sekalian diharap hadir.",
+      "Para peserta-peserta diharap hadir.",
+      "Bagi para peserta diharap hadir."
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Para\" sudah menyatakan jamak, jadi kata ulang \"peserta-peserta\" mubazir. \"Bagi\" di awal membuat kalimat kehilangan subjek.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V",
+      "reference": "Kalimat efektif"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-huruf-kapital",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan huruf kapital yang benar adalah…",
+    "options": [
+      "ia tinggal di Jawa Barat.",
+      "Ia Tinggal di Jawa barat.",
+      "Ia tinggal di jawa Barat.",
+      "Ia tinggal di Jawa Barat."
+    ],
+    "answerIndex": 3,
+    "explanation": "Nama geografi diawali huruf kapital pada setiap unsurnya: Jawa Barat. Kata pertama kalimat juga kapital.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V",
+      "reference": "Huruf kapital"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-konflik-kepentingan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Anda menjadi panitia seleksi, dan salah satu peserta adalah adik Anda. Sikap yang tepat…",
+    "options": [
+      "Tetap menilai karena yakin objektif",
+      "Menyatakan konflik kepentingan dan mundur dari penilaian peserta itu",
+      "Memberi nilai lebih rendah agar adil",
+      "Merahasiakan hubungan keluarga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Konflik kepentingan harus dinyatakan dan dihindari; ini bagian dari integritas dan pencegahan nepotisme.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (larangan konflik kepentingan)",
+      "reference": "Integritas"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-silakan-meme",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "\"Silahkan duduk, sekedar info hakekatnya ini rapat.\"",
+      "bottom": "Baku: silakan, sekadar, hakikat.",
+      "character": "cat",
+      "expression": "shock"
+    },
+    "caption": "Tiga jebakan ejaan yang sering keluar.",
+    "teaches": "Bentuk baku: silakan, sekadar, hakikat (KBBI).",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "KBBI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

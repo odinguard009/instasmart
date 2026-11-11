@@ -1,0 +1,684 @@
+[
+  {
+    "id": "tiu-deret-aritmetika",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 4, 11, 18, 25, 32, …",
+    "options": [
+      "41",
+      "45",
+      "36",
+      "39"
+    ],
+    "answerIndex": 3,
+    "explanation": "Selisih tetap +7.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-geometri",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 2, 6, 18, 54, 162, …",
+    "options": [
+      "483",
+      "488",
+      "486",
+      "492"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rasio tetap x3.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-kuadrat",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 1, 4, 9, 16, 25, …",
+    "options": [
+      "33",
+      "36",
+      "38",
+      "42"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bilangan kuadrat: 1², 2², ..., 6² = 36.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-fibo",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 1, 1, 2, 3, 5, 8, …",
+    "options": [
+      "13",
+      "19",
+      "15",
+      "10"
+    ],
+    "answerIndex": 0,
+    "explanation": "Setiap suku = jumlah dua suku sebelumnya (Fibonacci): 5 + 8 = 13.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-selisih-naik",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 3, 4, 6, 9, 13, …",
+    "options": [
+      "18",
+      "24",
+      "20",
+      "15"
+    ],
+    "answerIndex": 0,
+    "explanation": "Selisih naik 1, 2, 3, 4, lalu 5: 13 + 5 = 18.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-kubik",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 1, 8, 27, 64, …",
+    "options": [
+      "127",
+      "125",
+      "131",
+      "122"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bilangan kubik: 1³, 2³, 3³, 4³, lalu 5³ = 125.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-x2-tambah",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 1, 3, 7, 15, 31, …",
+    "options": [
+      "69",
+      "63",
+      "65",
+      "60"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pola x2 + 1: 31 x 2 + 1 = 63.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-bagi-dua",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 256, 128, 64, 32, 16, …",
+    "options": [
+      "14",
+      "8",
+      "10",
+      "5"
+    ],
+    "answerIndex": 1,
+    "explanation": "Setiap suku dibagi 2.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-prima",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 2, 3, 5, 7, 11, 13, …",
+    "options": [
+      "17",
+      "23",
+      "14",
+      "19"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bilangan prima berurutan; setelah 13 adalah 17.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-selang-dua",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 10, 2, 12, 4, 14, 6, …",
+    "options": [
+      "18",
+      "22",
+      "13",
+      "16"
+    ],
+    "answerIndex": 3,
+    "explanation": "Dua deret berselang: 10, 12, 14, 16 dan 2, 4, 6.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-kali-tambah",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 2, 5, 11, 23, 47, …",
+    "options": [
+      "97",
+      "92",
+      "95",
+      "101"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pola x2 + 1: 47 x 2 + 1 = 95.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-selisih-kuadrat",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 5, 6, 10, 19, 35, …",
+    "options": [
+      "66",
+      "62",
+      "60",
+      "57"
+    ],
+    "answerIndex": 2,
+    "explanation": "Selisihnya 1, 4, 9, 16 (kuadrat), lalu 25: 35 + 25 = 60.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-diskon-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Harga Rp150.000 didiskon 10%, lalu 20% dari harga setelah diskon pertama. Harga akhir…",
+    "options": [
+      "Rp135.000",
+      "Rp108.000",
+      "Rp105.000",
+      "Rp113.000"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rp150.000 x 90% = Rp135.000; lalu x 80% = Rp108.000. Bukan diskon 30% (Rp105.000).",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-diskon-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Harga Rp480.000 didiskon 25%, lalu 10% dari harga setelah diskon pertama. Harga akhir…",
+    "options": [
+      "Rp324.000",
+      "Rp312.000",
+      "Rp329.000",
+      "Rp360.000"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rp480.000 x 75% = Rp360.000; lalu x 90% = Rp324.000. Bukan diskon 35% (Rp312.000).",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-diskon-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Harga Rp250.000 didiskon 20%, lalu 20% dari harga setelah diskon pertama. Harga akhir…",
+    "options": [
+      "Rp165.000",
+      "Rp160.000",
+      "Rp200.000",
+      "Rp150.000"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rp250.000 x 80% = Rp200.000; lalu x 80% = Rp160.000. Bukan diskon 40% (Rp150.000).",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-untung-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Barang dibeli Rp80.000 dan dijual dengan untung 25%. Harga jualnya…",
+    "options": [
+      "Rp105.000",
+      "Rp100.000",
+      "Rp106.000",
+      "Rp96.000"
+    ],
+    "answerIndex": 1,
+    "explanation": "Harga jual = modal x 125% = Rp100.000.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-untung-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Barang dibeli Rp120.000 dan dijual dengan untung 15%. Harga jualnya…",
+    "options": [
+      "Rp138.000",
+      "Rp144.000",
+      "Rp135.000",
+      "Rp134.000"
+    ],
+    "answerIndex": 0,
+    "explanation": "Harga jual = modal x 115% = Rp138.000.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pekerja-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "6 orang menyelesaikan pekerjaan dalam 10 hari. Dengan 4 orang berkecepatan sama, pekerjaan selesai dalam…",
+    "options": [
+      "14 hari",
+      "15 hari",
+      "6 hari",
+      "17 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Berbalik nilai: 6 x 10 = 60 hari-orang; 60 / 4 = 15 hari.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Perbandingan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pekerja-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "8 orang menyelesaikan pekerjaan dalam 15 hari. Dengan 12 orang berkecepatan sama, pekerjaan selesai dalam…",
+    "options": [
+      "10 hari",
+      "9 hari",
+      "22 hari",
+      "12 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Berbalik nilai: 8 x 15 = 120 hari-orang; 120 / 12 = 10 hari.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Perbandingan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pekerja-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "5 orang menyelesaikan pekerjaan dalam 24 hari. Dengan 6 orang berkecepatan sama, pekerjaan selesai dalam…",
+    "options": [
+      "20 hari",
+      "19 hari",
+      "28 hari",
+      "22 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Berbalik nilai: 5 x 24 = 120 hari-orang; 120 / 6 = 20 hari.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Perbandingan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-waktu-tempuh-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Jarak 180 km ditempuh dengan kecepatan rata-rata 60 km/jam. Waktu tempuhnya…",
+    "options": [
+      "5 jam",
+      "4 jam",
+      "3 jam",
+      "2 jam"
+    ],
+    "answerIndex": 2,
+    "explanation": "Waktu = jarak / kecepatan = 180 / 60 = 3 jam.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-waktu-tempuh-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Jarak 280 km ditempuh dengan kecepatan rata-rata 70 km/jam. Waktu tempuhnya…",
+    "options": [
+      "6 jam",
+      "3 jam",
+      "5 jam",
+      "4 jam"
+    ],
+    "answerIndex": 3,
+    "explanation": "Waktu = jarak / kecepatan = 280 / 70 = 4 jam.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-waktu-tempuh-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Jarak 300 km ditempuh dengan kecepatan rata-rata 50 km/jam. Waktu tempuhnya…",
+    "options": [
+      "5 jam",
+      "7 jam",
+      "6 jam",
+      "8 jam"
+    ],
+    "answerIndex": 2,
+    "explanation": "Waktu = jarak / kecepatan = 300 / 50 = 6 jam.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rata-rata-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Rata-rata nilai 5 siswa adalah 70. Seorang siswa baru bernilai 82 bergabung. Rata-rata sekarang…",
+    "options": [
+      "73",
+      "72",
+      "76",
+      "70"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jumlah lama 5 x 70 = 350; tambah 82 = 432; dibagi 6 = 72.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Rata-rata"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rata-rata-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Rata-rata nilai 9 siswa adalah 80. Seorang siswa baru bernilai 90 bergabung. Rata-rata sekarang…",
+    "options": [
+      "81",
+      "82",
+      "80",
+      "85"
+    ],
+    "answerIndex": 0,
+    "explanation": "Jumlah lama 9 x 80 = 720; tambah 90 = 810; dibagi 10 = 81.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Rata-rata"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rata-rata-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Rata-rata nilai 4 siswa adalah 75. Seorang siswa baru bernilai 60 bergabung. Rata-rata sekarang…",
+    "options": [
+      "73",
+      "67,5",
+      "72",
+      "75"
+    ],
+    "answerIndex": 2,
+    "explanation": "Jumlah lama 4 x 75 = 300; tambah 60 = 360; dibagi 5 = 72.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Rata-rata"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rasio-uang-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Uang A dan B berbanding 2 : 3. Jumlah uang mereka Rp150.000. Uang B adalah…",
+    "options": [
+      "Rp75.000",
+      "Rp60.000",
+      "Rp90.000",
+      "Rp100.000"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bagian B = 3/5 x Rp150.000 = Rp90.000.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Perbandingan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rasio-uang-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Uang A dan B berbanding 3 : 5. Jumlah uang mereka Rp240.000. Uang B adalah…",
+    "options": [
+      "Rp90.000",
+      "Rp150.000",
+      "Rp160.000",
+      "Rp120.000"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bagian B = 5/8 x Rp240.000 = Rp150.000.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Perbandingan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pecahan-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "1/2 + 1/3 = …",
+    "options": [
+      "1/6",
+      "2/5",
+      "5/6",
+      "1"
+    ],
+    "answerIndex": 2,
+    "explanation": "Samakan penyebut: 1/2 + 1/3 = 5/6. Jangan menjumlahkan pembilang dan penyebut langsung.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Pecahan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pecahan-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "3/4 + 2/5 = …",
+    "options": [
+      "3/10",
+      "5/9",
+      "6/5",
+      "23/20"
+    ],
+    "answerIndex": 3,
+    "explanation": "Samakan penyebut: 3/4 + 2/5 = 23/20. Jangan menjumlahkan pembilang dan penyebut langsung.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Pecahan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pecahan-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "5/6 + 1/4 = …",
+    "options": [
+      "9/8",
+      "3/5",
+      "13/12",
+      "5/24"
+    ],
+    "answerIndex": 2,
+    "explanation": "Samakan penyebut: 5/6 + 1/4 = 13/12. Jangan menjumlahkan pembilang dan penyebut langsung.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Pecahan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "tiu-sinonim-prakarsa",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata PRAKARSA adalah…",
+    "options": [
+      "Pendapat",
+      "Prasangka",
+      "Perintah",
+      "Inisiatif"
+    ],
+    "answerIndex": 3,
+    "explanation": "Prakarsa = inisiatif, usaha yang mula-mula.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Sinonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-sinonim-mutakhir",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata MUTAKHIR adalah…",
+    "options": [
+      "Terakhir kali",
+      "Termahal",
+      "Tertua",
+      "Terbaru"
+    ],
+    "answerIndex": 3,
+    "explanation": "Mutakhir = terbaru, modern.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Sinonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-sinonim-pakar",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata PAKAR adalah…",
+    "options": [
+      "Pelajar",
+      "Ahli",
+      "Penonton",
+      "Pemula"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pakar = ahli.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Sinonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-sinonim-lugas",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata LUGAS adalah…",
+    "options": [
+      "Licin",
+      "Berbunga-bunga",
+      "Apa adanya, tidak berbelit",
+      "Ragu-ragu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lugas = mengenai yang pokok saja, tidak berbelit-belit.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Sinonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-sinonim-konklusi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata KONKLUSI adalah…",
+    "options": [
+      "Simpulan",
+      "Bantahan",
+      "Hipotesis",
+      "Pendahuluan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Konklusi = simpulan.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Sinonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-antonim-statis",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata STATIS adalah…",
+    "options": [
+      "Dinamis",
+      "Tetap",
+      "Diam",
+      "Stabil"
+    ],
+    "answerIndex": 0,
+    "explanation": "Statis >< dinamis.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Antonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-antonim-defisit",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata DEFISIT adalah…",
+    "options": [
+      "Surplus",
+      "Utang",
+      "Rugi",
+      "Kurang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Defisit (kekurangan) >< surplus (kelebihan).",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Antonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-antonim-apatis",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata APATIS adalah…",
+    "options": [
+      "Acuh tak acuh",
+      "Malas",
+      "Peduli",
+      "Pasif"
+    ],
+    "answerIndex": 2,
+    "explanation": "Apatis (masa bodoh) >< peduli.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Antonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-antonim-eksklusif",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata EKSKLUSIF adalah…",
+    "options": [
+      "Khusus",
+      "Inklusif",
+      "Terbatas",
+      "Mewah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Eksklusif (terpisah, khusus) >< inklusif (terbuka, mencakup).",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Antonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-antonim-sporadis",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata SPORADIS adalah…",
+    "options": [
+      "Terus-menerus",
+      "Tersebar",
+      "Jarang",
+      "Kadang-kadang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sporadis = sesekali, tidak tentu; lawannya terus-menerus.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Antonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-analogi-pilot",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "PILOT : PESAWAT = NAKHODA : …",
+    "options": [
+      "Laut",
+      "Awak",
+      "Kapal",
+      "Pelabuhan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pengemudi dan kendaraan yang dikemudikannya.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Analogi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-analogi-haus",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "AIR : HAUS = MAKANAN : …",
+    "options": [
+      "Piring",
+      "Lapar",
+      "Kenyang",
+      "Nasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sesuatu dan keadaan yang dihilangkannya.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Analogi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-analogi-es",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "API : PANAS = ES : …",
+    "options": [
+      "Air",
+      "Beku",
+      "Dingin",
+      "Kutub"
+    ],
+    "answerIndex": 2,
+    "explanation": "Benda dan sifat yang ditimbulkannya.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Analogi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-silogisme-tidak-ada",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Semua pegawai berseragam. Tidak ada yang berseragam boleh merokok di kantor. Simpulan…",
+    "options": [
+      "Tidak dapat disimpulkan",
+      "Semua yang tidak merokok adalah pegawai",
+      "Sebagian pegawai boleh merokok",
+      "Tidak ada pegawai yang boleh merokok di kantor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Semua A adalah B, tidak ada B yang C, maka tidak ada A yang C.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Logika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-silogisme-hipotetis",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Jika rajin belajar, ia lulus SKD. Jika lulus SKD, ia ikut SKB. Simpulan…",
+    "options": [
+      "Jika ikut SKB, ia rajin belajar",
+      "Ia pasti ikut SKB",
+      "Jika tidak rajin, ia tidak ikut SKB",
+      "Jika rajin belajar, ia ikut SKB"
+    ],
+    "answerIndex": 3,
+    "explanation": "Silogisme hipotetis: p -> q, q -> r, maka p -> r.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Logika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kontraposisi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Pernyataan yang setara dengan \"Jika hujan, maka jalan banjir\" adalah…",
+    "options": [
+      "Jika tidak hujan, maka jalan tidak banjir",
+      "Jika jalan banjir, maka hujan",
+      "Jika jalan tidak banjir, maka tidak hujan",
+      "Hujan dan jalan tidak banjir"
+    ],
+    "answerIndex": 2,
+    "explanation": "Implikasi setara dengan kontraposisinya: ~q -> ~p. Konvers dan invers tidak setara.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Logika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-silogisme-disjungtif",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Rapat diadakan Senin atau Selasa. Rapat tidak diadakan Senin. Simpulan…",
+    "options": [
+      "Rapat dibatalkan",
+      "Tidak dapat disimpulkan",
+      "Rapat diadakan Senin dan Selasa",
+      "Rapat diadakan Selasa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Silogisme disjungtif: p atau q, bukan p, maka q.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Logika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-ingkaran-ada",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Ingkaran dari \"Ada pegawai yang terlambat\" adalah…",
+    "options": [
+      "Sebagian pegawai terlambat",
+      "Semua pegawai terlambat",
+      "Semua pegawai tidak terlambat",
+      "Ada pegawai yang tidak terlambat"
+    ],
+    "answerIndex": 2,
+    "explanation": "~(ada x yang P) = semua x tidak P.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Logika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-ingkaran-dan",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Ingkaran dari \"Ia jujur dan disiplin\" adalah…",
+    "options": [
+      "Ia tidak jujur atau tidak disiplin",
+      "Ia tidak jujur dan tidak disiplin",
+      "Jika jujur, ia tidak disiplin",
+      "Ia jujur atau disiplin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hukum De Morgan: ~(p dan q) = ~p atau ~q.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Logika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-urutan-tinggi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Andi lebih tinggi dari Budi. Cici lebih pendek dari Budi. Dedi lebih tinggi dari Andi. Siapa yang paling tinggi?",
+    "options": [
+      "Dedi",
+      "Budi",
+      "Cici",
+      "Andi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Urutan: Dedi > Andi > Budi > Cici.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Logika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-modus-ponens",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Jika berkas lengkap, pendaftaran diterima. Berkas Rina lengkap. Simpulan…",
+    "options": [
+      "Berkas Rina tidak lengkap",
+      "Pendaftaran Rina ditolak",
+      "Tidak dapat disimpulkan",
+      "Pendaftaran Rina diterima"
+    ],
+    "answerIndex": 3,
+    "explanation": "Modus ponens: p -> q, p, maka q.",
+    "source": {
+      "title": "Latihan buatan sendiri",
+      "reference": "Logika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

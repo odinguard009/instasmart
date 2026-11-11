@@ -449,5 +449,455 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-akses-3x24",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Subjek data meminta akses atas data pribadinya. Pengendali wajib memberikannya paling lambat…",
+    "options": [
+      "14 hari kerja",
+      "3 x 24 jam",
+      "1 x 24 jam",
+      "7 hari kerja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 32 ayat (2): 3 x 24 jam sejak permintaan diterima, beserta rekam jejak pemrosesannya. Angka 3 x 24 jam juga dipakai untuk perbaikan data (Pasal 30), penghentian setelah persetujuan ditarik (Pasal 40), penundaan/pembatasan (Pasal 41), dan notifikasi kegagalan pelindungan (Pasal 46).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 32",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-tarik-persetujuan",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Subjek data menarik kembali persetujuannya. Pengendali wajib menghentikan pemrosesan paling lambat…",
+    "options": [
+      "Saat masa retensi data itu berakhir",
+      "3 x 24 jam sejak permintaan",
+      "30 hari sejak permintaan diterima",
+      "Setelah ada putusan pengadilan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 9 (hak menarik persetujuan) jo. Pasal 40: penghentian paling lambat 3 x 24 jam sejak permintaan penarikan diterima.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 9, Pasal 40",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-keputusan-otomatis",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Bank menolak kredit sepenuhnya lewat skor algoritma tanpa campur tangan manusia. Hak subjek data yang relevan menurut Pasal 10 adalah…",
+    "options": [
+      "Hak atas portabilitas data ke pihak lain",
+      "Hak menunda pemrosesan",
+      "Hak atas salinan data",
+      "Keberatan atas keputusan otomatis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 10 ayat (1): keberatan atas keputusan yang hanya didasarkan pemrosesan otomatis, termasuk pemrofilan, yang menimbulkan akibat hukum atau berdampak signifikan. Tata caranya diserahkan ke PP.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-portabilitas",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Hak subjek data memperoleh datanya dalam format yang lazim/dapat dibaca mesin dan mengirimkannya ke pengendali lain diatur dalam…",
+    "options": [
+      "Pasal 13 (pengiriman data)",
+      "Pasal 6 (perbaikan data yang keliru)",
+      "Pasal 11 (pembatasan)",
+      "Pasal 8 (penghapusan)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 13 ayat (1)-(2), sering disebut hak portabilitas data. Pengiriman ke pengendali lain berlaku sepanjang sistemnya dapat saling berkomunikasi secara aman.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 13",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-pengecualian-hak",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Hak tertentu subjek data (misalnya menghapus data, menarik persetujuan) dikecualikan untuk kepentingan berikut, KECUALI…",
+    "options": [
+      "Pemasaran produk",
+      "Statistik dan penelitian ilmiah",
+      "Pertahanan dan keamanan nasional",
+      "Penegakan hukum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 15 ayat (1): pertahanan dan keamanan nasional; penegakan hukum; kepentingan umum dalam penyelenggaraan negara; pengawasan sektor jasa keuangan, moneter, sistem pembayaran, dan stabilitas sistem keuangan; statistik dan penelitian ilmiah. Pengecualian hanya untuk melaksanakan UU (ayat (2)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 15",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-data-anak",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Pemrosesan data pribadi anak menurut Pasal 25 wajib mendapat persetujuan dari…",
+    "options": [
+      "Anak itu sendiri",
+      "Orang tua dan/atau wali",
+      "Sekolah tempat anak itu belajar",
+      "Komisi Perlindungan Anak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 25: pemrosesan data anak diselenggarakan secara khusus dan wajib mendapat persetujuan orang tua dan/atau wali. Untuk penyandang disabilitas: persetujuan yang bersangkutan dan/atau walinya, lewat cara komunikasi tertentu (Pasal 26).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 25, 26",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-dpia",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Penilaian dampak pelindungan data pribadi (DPIA) WAJIB dilakukan pengendali bila pemrosesan…",
+    "options": [
+      "Dilakukan oleh instansi pemerintah",
+      "Memakai jasa prosesor dalam negeri",
+      "Berisiko tinggi bagi subjek data",
+      "Melibatkan lebih dari 100 orang subjek"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 34: bila berpotensi risiko tinggi, antara lain keputusan otomatis berdampak signifikan, data spesifik, skala besar, penskoran/pemantauan sistematis, pencocokan/penggabungan data, teknologi baru, dan pemrosesan yang membatasi hak subjek.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 34",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-dpo-wajib",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Kapan pengendali/prosesor WAJIB menunjuk pejabat/petugas pelindungan data pribadi (DPO)?",
+    "options": [
+      "Selalu, untuk setiap pengendali",
+      "Pelayanan publik/skala besar tertentu",
+      "Hanya bila pernah terjadi kebocoran data",
+      "Hanya bila memproses data di luar negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 53 ayat (1): pemrosesan untuk pelayanan publik; kegiatan inti yang memerlukan pemantauan teratur dan sistematis skala besar; atau kegiatan inti berupa pemrosesan skala besar atas data spesifik/data terkait tindak pidana. DPO boleh dari dalam atau luar organisasi (ayat (3)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 53",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-transfer-urutan",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Transfer data ke luar negeri: negara penerima TIDAK punya pelindungan setara dan TIDAK ada pelindungan memadai yang mengikat. Syarat yang tersisa…",
+    "options": [
+      "Izin tertulis dari Menteri Luar Negeri",
+      "Transfer dilarang sama sekali",
+      "Persetujuan subjek data pribadi",
+      "Cukup didaftarkan ke lembaga PDP"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 56: berjenjang. (2) negara penerima setara atau lebih tinggi; (3) bila tidak, pelindungan yang memadai dan mengikat; (4) bila keduanya tidak terpenuhi, wajib persetujuan subjek data.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 56",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-denda-2-persen",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Denda administratif menurut UU PDP paling tinggi…",
+    "options": [
+      "4% dari omzet global",
+      "Rp5 miliar per pelanggaran",
+      "10% dari laba bersih tahunan perusahaan induk",
+      "2% pendapatan tahunan (variabel pelanggaran)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 57 ayat (3): paling tinggi 2% dari pendapatan tahunan atau penerimaan tahunan terhadap variabel pelanggaran. Angka 4% omzet global adalah GDPR Uni Eropa, bukan UU PDP. Sanksi dijatuhkan oleh lembaga (ayat (4)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 57 ayat (3)-(4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-lembaga-pdp",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Lembaga penyelenggara pelindungan data pribadi menurut Pasal 58 ditetapkan oleh dan bertanggung jawab kepada…",
+    "options": [
+      "Mahkamah Agung",
+      "Presiden",
+      "DPR",
+      "Menteri Komunikasi dan Digital"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 58 ayat (3)-(4): ditetapkan oleh Presiden dan bertanggung jawab kepada Presiden; diatur lebih lanjut dengan Perpres (ayat (5)). Status pembentukannya belum dicocokkan di sini.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 58",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-sidang-tertutup",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Dalam sengketa pelindungan data pribadi, persidangan dapat dilakukan secara tertutup bila…",
+    "options": [
+      "Perlu demi melindungi data pribadi",
+      "Para pihak sama-sama memintanya",
+      "Salah satu pihak adalah instansi negara",
+      "Nilai sengketa di atas Rp1 miliar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 64 ayat (4). Penyelesaian sengketa lewat arbitrase, pengadilan, atau lembaga alternatif lain (ayat (1)); alat bukti termasuk informasi/dokumen elektronik (ayat (3)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 64",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-tolak-akses-perubahan",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Pengendali WAJIB menolak memberikan akses perubahan data kepada subjek data bila…",
+    "options": [
+      "Datanya sudah berumur lebih dari 5 tahun",
+      "Permintaannya diajukan secara lisan",
+      "Akan mengungkap data pribadi orang lain",
+      "Subjek data belum membayar biaya administrasi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 33: bila membahayakan keamanan/kesehatan fisik atau mental subjek data atau orang lain; berdampak pada pengungkapan data orang lain; atau bertentangan dengan kepentingan pertahanan dan keamanan nasional.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 33",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-akhiri-vs-musnahkan",
+    "type": "review",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "front": "Kapan pengendali wajib MENGAKHIRI pemrosesan (Pasal 42) dan kapan wajib MEMUSNAHKAN data (Pasal 44)?",
+    "back": "Mengakhiri: masa retensi tercapai, tujuan tercapai, atau ada permintaan subjek data. Memusnahkan: masa retensi habis dan berketerangan dimusnahkan menurut jadwal retensi arsip, ada permintaan subjek data, tidak berkaitan dengan penyelesaian proses hukum suatu perkara, dan/atau data diperoleh/diproses secara melawan hukum.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 42, 44",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-sanksi-admin-pdp",
+    "type": "review",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "front": "Empat bentuk sanksi administratif dalam Pasal 57 ayat (2) UU PDP?",
+    "back": "Peringatan tertulis; penghentian sementara kegiatan pemrosesan; penghapusan atau pemusnahan data pribadi; dan/atau denda administratif (paling tinggi 2% pendapatan/penerimaan tahunan terhadap variabel pelanggaran).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 57",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-angka-3x24",
+    "type": "fact",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "visual": {
+      "template": "infographic",
+      "title": "Serba 3 x 24 jam",
+      "points": [
+        "Beri akses data",
+        "Perbaiki data",
+        "Stop saat izin ditarik",
+        "Tunda/batasi pemrosesan",
+        "Lapor kegagalan pelindungan"
+      ]
+    },
+    "caption": "Satu angka untuk banyak kewajiban pengendali di UU PDP: Pasal 32 (akses), 30 (perbaikan), 40 (penghentian setelah persetujuan ditarik), 41 (penundaan/pembatasan), dan 46 (pemberitahuan kegagalan pelindungan). Hitungannya sejak permintaan diterima (untuk Pasal 46: cek bunyinya).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 30, 32, 40, 41, 46",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-transfer-luar-negeri",
+    "type": "carousel",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Pasal 56 UU PDP",
+          "title": "Data mau ke luar negeri?",
+          "subtitle": "cek tiga anak tangga",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Anak tangga",
+          "points": [
+            "1. Negara penerima setara",
+            "2. Pelindungan memadai mengikat",
+            "3. Persetujuan subjek data"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Negara penerima tidak setara, tetapi ada perjanjian pelindungan data yang memadai dan mengikat. Perlu persetujuan subjek data?",
+        "options": [
+          "Transfer dilarang",
+          "Ya, selalu",
+          "Ya, ditambah izin lembaga",
+          "Tidak, anak tangga kedua sudah terpenuhi"
+        ],
+        "answerIndex": 3,
+        "explanation": "Persetujuan subjek data baru menjadi syarat bila ayat (2) dan ayat (3) Pasal 56 sama-sama tidak terpenuhi (ayat (4))."
+      }
+    ],
+    "caption": "Transfer data pribadi lintas negara di UU PDP bersifat berjenjang. Rinciannya diserahkan ke Peraturan Pemerintah (Pasal 56 ayat (5)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 56",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-humor-hapus-akun",
+    "type": "humor",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "visual": {
+      "template": "meme",
+      "top": "Minta data dihapus",
+      "bottom": "\"Tunggu 3 bulan ya kak\"",
+      "character": "cat",
+      "expression": "shock"
+    },
+    "caption": "Dalih \"sistem kami memang lama\" tidak menghapus kewajiban. Pengendali wajib menghentikan pemrosesan paling lambat 3 x 24 jam setelah persetujuan ditarik, dan wajib memusnahkan data bila subjek data memintanya (dengan pengecualian Pasal 15).",
+    "teaches": "Subjek data berhak menarik persetujuan dan meminta penghapusan; penghentian pemrosesan setelah persetujuan ditarik paling lambat 3 x 24 jam (Pasal 9, 40, 44 UU 27/2022).",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 8, 9, 40, 44",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-27-tahun-2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

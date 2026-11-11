@@ -317,5 +317,448 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-utang-tak-dipenjara",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut UU 39/1999, bolehkah seseorang dipidana penjara karena tidak mampu memenuhi kewajiban dalam perjanjian utang piutang?",
+    "options": [
+      "Boleh bila kreditur adalah negara",
+      "Boleh setelah somasi ketiga",
+      "Tidak boleh, atas alasan itu semata",
+      "Boleh bila utangnya di atas Rp1 miliar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 19 ayat (2): tidak seorang pun atas putusan pengadilan boleh dipidana penjara kurungan berdasarkan alasan ketidakmampuan memenuhi kewajiban dalam perjanjian utang piutang. Lain halnya bila ada tindak pidana tersendiri, misalnya penipuan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 19 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-rampas-seluruh-harta",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Pasal 19 ayat (1) UU HAM melarang ancaman hukuman berupa…",
+    "options": [
+      "Denda yang melebihi penghasilan setahun",
+      "Perampasan seluruh harta kekayaan milik yang bersalah",
+      "Pembayaran uang pengganti",
+      "Perampasan barang yang dipakai untuk melakukan kejahatan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Yang dilarang adalah perampasan SELURUH harta kekayaan. Perampasan barang tertentu (misalnya hasil atau alat kejahatan) tidak termasuk larangan ini.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 19 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-paling-menguntungkan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Peraturan berubah saat perkara berjalan. Menurut Pasal 18 ayat (3) UU HAM, yang berlaku adalah ketentuan…",
+    "options": [
+      "Yang paling baru, karena aturan lama otomatis gugur",
+      "Yang berlaku saat perbuatan, tanpa pengecualian",
+      "Yang dipilih penuntut umum",
+      "Yang paling menguntungkan bagi tersangka"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 18 ayat (3): setiap ada perubahan dalam peraturan perundang-undangan, berlaku ketentuan yang paling menguntungkan bagi tersangka. Asas yang sama dikenal di hukum pidana materiil (KUHP Nasional mengaturnya sendiri di Pasal 3; cek teksnya).",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 18 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-bantuan-hukum-sejak",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 18 ayat (4) UU HAM, hak atas bantuan hukum bagi orang yang diperiksa berlaku sejak…",
+    "options": [
+      "Saat penyidikan sampai putusan berkekuatan hukum tetap",
+      "Penetapan sebagai terdakwa",
+      "Sidang pertama sampai putusan banding dibacakan",
+      "Pelimpahan berkas ke pengadilan sampai putusan kasasi turun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bunyinya: sejak saat penyidikan sampai adanya putusan pengadilan yang telah memperoleh kekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 18 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-ne-bis-in-idem-uuham",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "\"Setiap orang tidak dapat dituntut untuk kedua kalinya dalam perkara yang sama atas suatu perbuatan yang telah memperoleh putusan berkekuatan hukum tetap.\" Asas ini dikenal sebagai…",
+    "options": [
+      "Praduga tak bersalah",
+      "Ultra petita",
+      "Ne bis in idem",
+      "Non-retroaktif"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 18 ayat (5) UU HAM memuat ne bis in idem. Ayat (1) praduga tak bersalah, ayat (2) larangan berlaku surut.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 18 ayat (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-definisi-anak",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 1 angka 5 UU HAM, anak adalah setiap manusia yang…",
+    "options": [
+      "Belum berusia 17 tahun atau belum menikah",
+      "Di bawah 18 tahun dan belum menikah",
+      "Di bawah 16 tahun, termasuk yang sudah menikah",
+      "Berusia di bawah 21 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Di bawah 18 tahun dan belum menikah, termasuk anak dalam kandungan apabila demi kepentingannya. UU lain (misalnya UU SPPA) punya definisi sendiri untuk keperluannya.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 1 angka 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-anak-tanpa-mati",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Pasal 66 ayat (2) UU HAM: untuk pelaku tindak pidana yang masih anak, hukuman yang TIDAK dapat dijatuhkan adalah…",
+    "options": [
+      "Hukuman mati atau seumur hidup",
+      "Tindakan perawatan di lembaga",
+      "Pidana penjara dalam bentuk apa pun",
+      "Pidana denda yang dibayar orang tua"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penjara anak tetap dimungkinkan, tetapi hanya sesuai hukum dan sebagai upaya terakhir (ayat (4)); anak harus dipisahkan dari orang dewasa kecuali demi kepentingannya (ayat (5)).",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 66 ayat (2) dan (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-kawin-asing",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Perempuan WNI menikah dengan pria warga negara asing. Menurut Pasal 47 UU HAM, kewarganegaraannya…",
+    "options": [
+      "Otomatis hilang setelah 1 tahun",
+      "Tidak otomatis ikut suami",
+      "Ditentukan pengadilan negeri",
+      "Otomatis ikut suami"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ia tidak otomatis mengikuti status kewarganegaraan suami, dan berhak mempertahankan, mengganti, atau memperoleh kembali status kewarganegaraannya. Prosedurnya diatur UU Kewarganegaraan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 47",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-suaka",
+    "type": "fact",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Pasal 28 UU HAM",
+      "text": "SUAKA",
+      "sub": "hak mencari perlindungan politik dari negara lain"
+    },
+    "caption": "Setiap orang berhak mencari suaka untuk memperoleh perlindungan politik dari negara lain (ayat 1). Pengecualian (ayat 2): tidak berlaku bagi pelaku kejahatan non-politik atau perbuatan yang bertentangan dengan tujuan dan prinsip PBB. Jadi pelaku kejahatan biasa tidak bisa berlindung di balik suaka.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 28",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-komnas-ham-peta",
+    "type": "carousel",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Peta singkat",
+          "title": "Komnas HAM dalam UU 39/1999",
+          "subtitle": "Pasal 1, 76, 79, 97",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "5 fungsi Komnas HAM",
+          "points": [
+            "Pengkajian",
+            "Penelitian",
+            "Penyuluhan",
+            "Pemantauan",
+            "Mediasi"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Kedudukan",
+          "points": [
+            "Lembaga mandiri, setingkat lembaga negara lain",
+            "Berkedudukan di ibu kota",
+            "Perwakilan dapat didirikan di daerah",
+            "Kekuasaan tertinggi: Sidang Paripurna"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Organ pemegang kekuasaan tertinggi Komnas HAM menurut Pasal 79 adalah…",
+        "options": [
+          "Sidang Paripurna",
+          "Ketua Komnas HAM",
+          "Subkomisi Pemantauan",
+          "Sekretaris Jenderal"
+        ],
+        "answerIndex": 0,
+        "explanation": "Pasal 79 ayat (1). Sidang Paripurna terdiri dari seluruh anggota dan menetapkan tata tertib, program kerja, serta mekanisme kerja."
+      }
+    ],
+    "caption": "Komnas HAM bukan pengadilan: ia mengkaji, meneliti, menyuluh, memantau, dan memediasi. Laporan tahunannya disampaikan ke DPR dan Presiden dengan tembusan ke MA (Pasal 97).",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 1 angka 7, 76, 79, 97",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-mediasi-mengikat",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Kesepakatan tertulis hasil mediasi Komnas HAM (ditandatangani para pihak, dikukuhkan mediator) menurut Pasal 96 UU HAM…",
+    "options": [
+      "Batal bila salah satu pihak menolak",
+      "Baru mengikat setelah disahkan DPR dalam rapat paripurna",
+      "Mengikat secara hukum dan berlaku sebagai alat bukti sah",
+      "Hanya rekomendasi moral"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 96 ayat (3). Bila tidak dilaksanakan, pihak lain dapat meminta Pengadilan Negeri setempat membubuhkan irah-irah \"Demi Keadilan Berdasarkan Ketuhanan Yang Maha Esa\", dan pengadilan tidak dapat menolak (ayat (4)-(5)).",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 96",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-pengaduan-dihentikan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Mana yang BUKAN alasan Komnas HAM tidak memeriksa atau menghentikan pemeriksaan pengaduan menurut Pasal 91 ayat (1)?",
+    "options": [
+      "Teradu adalah pejabat negara",
+      "Pengaduan beritikad buruk",
+      "Ada upaya hukum yang lebih efektif",
+      "Tidak ada bukti awal yang memadai"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alasan di Pasal 91 ayat (1): bukti awal tidak memadai, bukan masalah HAM, itikad buruk/tidak sungguh-sungguh, ada upaya hukum lebih efektif, atau sedang berlangsung penyelesaian melalui upaya hukum. Jabatan teradu bukan alasan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 91 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-pemeriksaan-tertutup",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 93 UU HAM, pemeriksaan pelanggaran HAM oleh Komnas HAM pada dasarnya dilakukan secara…",
+    "options": [
+      "Tertutup tanpa pengecualian apa pun",
+      "Terbuka untuk umum agar dapat diawasi oleh masyarakat",
+      "Daring dan disiarkan",
+      "Tertutup, kecuali ditentukan lain oleh Komnas HAM"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 93: tertutup, kecuali ditentukan lain oleh Komnas HAM. Pemanggilan paksa saksi yang tidak datang dilakukan dengan meminta bantuan Ketua Pengadilan (Pasal 95).",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 93, 95",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-laporan-tahunan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Laporan tahunan Komnas HAM menurut Pasal 97 UU HAM disampaikan kepada…",
+    "options": [
+      "DPR dan Presiden, tembusan ke MA",
+      "Presiden saja, tanpa tembusan",
+      "MPR, dengan tembusan ke DPD dan DPR",
+      "MA dan MK, tembusan ke Presiden"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 97: kepada DPR dan Presiden dengan tembusan kepada Mahkamah Agung.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 97",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-pengadilan-ham-lingkungan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Pasal 104 UU 39/1999 menentukan Pengadilan HAM dibentuk di lingkungan peradilan…",
+    "options": [
+      "Militer",
+      "Tata usaha negara",
+      "Agama",
+      "Umum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 104 ayat (1): di lingkungan Peradilan Umum, dibentuk dengan undang-undang (ayat (2)). Undang-undang itu kemudian adalah UU 26/2000.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 104",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-pengaduan-syarat",
+    "type": "review",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "front": "Syarat pengaduan ke Komnas HAM agar dilayani (Pasal 90 ayat (2))?",
+    "back": "Disertai identitas pengadu yang benar dan keterangan atau bukti awal yang jelas tentang materi yang diadukan. Bila diadukan pihak lain, perlu persetujuan korban, kecuali pelanggaran tertentu menurut pertimbangan Komnas HAM (ayat (3)).",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 90",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-humor-utang-penjara",
+    "type": "humor",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "visual": {
+      "template": "meme",
+      "top": "Ditagih utang arisan:\n\"Nanti kupenjarakan kamu!\"",
+      "bottom": "Pasal 19 ayat (2) UU HAM: gagal bayar utang saja bukan alasan memenjarakan orang.",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Ancaman \"dipenjara karena utang\" sering dipakai penagih. Menurut UU HAM, ketidakmampuan memenuhi kewajiban utang piutang bukan alasan pidana penjara. Utang ditagih lewat jalur perdata (gugatan wanprestasi). Kalau ada penipuan atau penggelapan, itu perkara pidana tersendiri.",
+    "teaches": "Pasal 19 ayat (2) UU 39/1999 melarang pidana penjara/kurungan atas alasan tidak mampu membayar utang; jalurnya perdata.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 19 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-39-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

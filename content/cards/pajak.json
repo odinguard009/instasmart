@@ -312,5 +312,144 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-reel-alur-sengketa-pajak",
+    "type": "reel",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Tidak setuju tagihan pajak?",
+        "caption": "Ada jalurnya, dan tidak ada kasasi.",
+        "kicker": "Sengketa pajak",
+        "character": "kancil",
+        "expression": "shock"
+      },
+      {
+        "durationMs": 4500,
+        "text": "1. Keberatan",
+        "caption": "Diajukan ke Direktorat Jenderal Pajak.",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "2. Banding",
+        "caption": "Atas keputusan keberatan, ke Pengadilan Pajak.",
+        "character": "gecko",
+        "expression": "happy",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "3. Peninjauan kembali",
+        "caption": "Putusan Pengadilan Pajak bersifat akhir; upaya hukumnya PK ke MA.",
+        "character": "cat",
+        "expression": "smug"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Surat paksa? Itu gugatan",
+        "caption": "Pelaksanaan penagihan dilawan lewat gugatan, bukan banding.",
+        "character": "kancil",
+        "expression": "smug",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 25 detik: keberatan, banding, PK, dan gugatan dalam sengketa pajak.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (KUP), sebagaimana telah beberapa kali diubah",
+      "reference": "UU KUP (keberatan) dan UU 14/2002 tentang Pengadilan Pajak (banding, gugatan, PK)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-carousel-tiga-sistem-pungut",
+    "type": "carousel",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Siapa yang menghitung pajakmu?",
+          "subtitle": "Tiga sistem pemungutan",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Self assessment",
+          "points": [
+            "Wajib pajak menghitung, membayar, melapor sendiri",
+            "Fiskus mengawasi dan memeriksa"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Official assessment",
+          "points": [
+            "Fiskus yang menetapkan besarnya pajak",
+            "Contoh klasik: PBB pada masa lalu"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Withholding",
+          "points": [
+            "Pihak ketiga memotong atau memungut",
+            "Contoh: PPh 21 dipotong pemberi kerja"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Gaji karyawan dipotong PPh 21 oleh perusahaan sebelum dibayarkan. Sistem ini disebut…",
+        "options": [
+          "Self assessment",
+          "Withholding system",
+          "Official assessment",
+          "Tax amnesty"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pemberi kerja sebagai pihak ketiga memotong pajak karyawan: withholding system."
+      },
+      {
+        "kind": "quiz",
+        "question": "Cukai rokok dinaikkan agar konsumsi turun. Fungsi pajak yang paling menonjol adalah…",
+        "options": [
+          "Regulerend (mengatur)",
+          "Distribusi pendapatan",
+          "Stabilisasi harga",
+          "Budgetair (mengisi kas)"
+        ],
+        "answerIndex": 0,
+        "explanation": "Tujuan utamanya mengatur perilaku: fungsi regulerend. Budgetair adalah fungsi mengisi kas negara."
+      }
+    ],
+    "caption": "Self assessment, official assessment, withholding, ditambah fungsi pajak.",
+    "source": {
+      "title": "Doktrin hukum pajak",
+      "reference": "Doktrin hukum pajak"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

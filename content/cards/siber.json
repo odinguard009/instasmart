@@ -315,5 +315,139 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-reel-data-bocor",
+    "type": "reel",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Data pelanggan bocor!",
+        "caption": "Apa kewajiban pengendali data?",
+        "kicker": "UU PDP",
+        "character": "gecko",
+        "expression": "shock"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Pengendali vs prosesor",
+        "caption": "Pengendali menentukan tujuan; prosesor memproses atas nama pengendali.",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Lapor maksimal 3 x 24 jam",
+        "caption": "Pemberitahuan tertulis kepada subjek data dan lembaga.",
+        "character": "cat",
+        "expression": "shock",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Spesifik vs umum",
+        "caption": "Data kesehatan, biometrik, genetika, catatan kejahatan, data anak, keuangan pribadi: spesifik.",
+        "character": "kancil",
+        "expression": "smug"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Data kamu, hak kamu",
+        "caption": "Subjek data punya hak, antara lain akses, pembetulan, dan penghapusan.",
+        "character": "gecko",
+        "expression": "happy",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 25 detik: inti UU PDP saat terjadi kebocoran data.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Ketentuan pengendali/prosesor, data spesifik, dan pemberitahuan kegagalan pelindungan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-carousel-dasar-pemrosesan",
+    "type": "carousel",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Boleh olah data pribadi kalau…",
+          "subtitle": "Dasar pemrosesan menurut UU PDP",
+          "character": "gecko",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Dasar pemrosesan (Pasal 20 ayat 2)",
+          "points": [
+            "Persetujuan yang sah dan eksplisit",
+            "Pemenuhan kewajiban perjanjian",
+            "Pemenuhan kewajiban hukum pengendali",
+            "Kepentingan vital dari subjek data",
+            "Tugas pelayanan publik; kepentingan sah lainnya"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Data spesifik",
+          "points": [
+            "Kesehatan, biometrik, genetika",
+            "Catatan kejahatan",
+            "Data anak",
+            "Data keuangan pribadi"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Toko daring memproses alamat pembeli agar paket bisa dikirim. Dasar pemrosesan yang paling tepat adalah…",
+        "options": [
+          "Pemenuhan kewajiban perjanjian",
+          "Tugas pelayanan publik",
+          "Kepentingan vital dari subjek data",
+          "Persetujuan wali subjek data"
+        ],
+        "answerIndex": 0,
+        "explanation": "Alamat diperlukan untuk melaksanakan perjanjian jual beli dengan pembeli itu sendiri."
+      },
+      {
+        "kind": "quiz",
+        "question": "Mana yang termasuk data pribadi yang bersifat spesifik?",
+        "options": [
+          "Kewarganegaraan",
+          "Jenis kelamin",
+          "Data biometrik",
+          "Nama lengkap"
+        ],
+        "answerIndex": 2,
+        "explanation": "Nama, jenis kelamin, dan kewarganegaraan adalah data umum. Biometrik termasuk data spesifik."
+      }
+    ],
+    "caption": "Enam dasar pemrosesan dan daftar data spesifik dalam UU PDP.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 4 dan Pasal 20 ayat (2)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

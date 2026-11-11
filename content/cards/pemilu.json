@@ -312,5 +312,131 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-reel-tiga-penyelenggara",
+    "type": "reel",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Pemilu punya tiga penjaga",
+        "caption": "Satu kesatuan fungsi penyelenggaraan pemilu.",
+        "kicker": "UU 7/2017",
+        "character": "cat",
+        "expression": "happy"
+      },
+      {
+        "durationMs": 4500,
+        "text": "KPU",
+        "caption": "Melaksanakan tahapan pemilu.",
+        "character": "owl",
+        "expression": "happy",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Bawaslu",
+        "caption": "Mengawasi penyelenggaraan dan menangani pelanggaran.",
+        "character": "gecko",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "DKPP",
+        "caption": "Memeriksa pelanggaran kode etik penyelenggara.",
+        "character": "kancil",
+        "expression": "smug"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Hasil pemilu digugat?",
+        "caption": "Perselisihan hasil pemilu diputus Mahkamah Konstitusi (Pasal 24C UUD).",
+        "character": "cat",
+        "expression": "shock",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 25 detik: siapa mengerjakan apa dalam pemilu.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Ketentuan umum tentang penyelenggara pemilu; Pasal 24C UUD"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-carousel-luber-jurdil",
+    "type": "carousel",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Luber jurdil, satu per satu",
+          "subtitle": "Pasal 22E ayat (1) UUD 1945",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Luber",
+          "points": [
+            "Langsung: memilih sendiri tanpa perantara",
+            "Umum: semua WNI yang memenuhi syarat",
+            "Bebas: tanpa tekanan",
+            "Rahasia: pilihan tidak diketahui orang lain"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Jurdil",
+          "points": [
+            "Jujur: penyelenggara, peserta, pemilih bertindak jujur",
+            "Adil: perlakuan sama bagi peserta dan pemilih"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 22E ayat (1)",
+          "text": "Setiap lima tahun sekali",
+          "sub": "Memilih DPR, DPD, Presiden dan Wakil Presiden, serta DPRD."
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Pemilih memotret surat suaranya lalu dipaksa menunjukkannya ke atasan. Asas yang paling terancam adalah…",
+        "options": [
+          "Asas rahasia",
+          "Asas umum",
+          "Asas periodik",
+          "Asas langsung"
+        ],
+        "answerIndex": 0,
+        "explanation": "Asas rahasia menjamin pilihan pemilih tidak diketahui pihak mana pun. Paksaan juga melanggar asas bebas."
+      }
+    ],
+    "caption": "Asas pemilu dari Pasal 22E ayat (1) UUD 1945, dengan contoh kasus.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22E ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

@@ -358,5 +358,146 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-reel-tiga-asas-lex",
+    "type": "reel",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Dua aturan bentrok. Pilih yang mana?",
+        "caption": "Tiga asas penyelesaian konflik norma.",
+        "kicker": "Lex-lex-lex",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Lex superior",
+        "caption": "Peraturan yang lebih tinggi mengalahkan yang lebih rendah.",
+        "character": "kancil",
+        "expression": "smug",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Lex specialis",
+        "caption": "Yang khusus mengalahkan yang umum (sederajat).",
+        "character": "gecko",
+        "expression": "happy"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Lex posterior",
+        "caption": "Yang baru mengalahkan yang lama (sederajat).",
+        "character": "cat",
+        "expression": "happy"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Hierarki dulu, baru khusus/baru",
+        "caption": "Urutan: UUD, Tap MPR, UU/Perppu, PP, Perpres, Perda Prov, Perda Kab/Kota.",
+        "character": "owl",
+        "expression": "smug",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 25 detik: tiga asas lex untuk konflik norma, ditutup dengan hierarki Pasal 7 UU 12/2011.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 7 ayat (1); doktrin asas preferensi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-carousel-uji-materi",
+    "type": "carousel",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Uji ke MK atau ke MA?",
+          "subtitle": "Peta pengujian peraturan",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Mahkamah Konstitusi",
+          "points": [
+            "Menguji UU terhadap UUD",
+            "Dasar: Pasal 24C ayat (1) UUD 1945",
+            "Termasuk uji formil (proses pembentukan)"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Mahkamah Agung",
+          "points": [
+            "Menguji peraturan di bawah UU terhadap UU",
+            "Dasar: Pasal 24A ayat (1) UUD 1945",
+            "Contoh: PP, Perpres, Perda, Permen"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Perppu",
+          "points": [
+            "Ditetapkan Presiden dalam kegentingan memaksa",
+            "Harus mendapat persetujuan DPR di persidangan berikut",
+            "Tidak disetujui: harus dicabut (Pasal 22 ayat 3)"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Perda kabupaten diduga bertentangan dengan UU. Permohonan pengujiannya diajukan ke…",
+        "options": [
+          "Pengadilan Tata Usaha Negara",
+          "Mahkamah Konstitusi",
+          "Kementerian Dalam Negeri",
+          "Mahkamah Agung"
+        ],
+        "answerIndex": 3,
+        "explanation": "Perda adalah peraturan di bawah UU, sehingga pengujiannya terhadap UU merupakan kewenangan MA (Pasal 24A ayat 1 UUD)."
+      },
+      {
+        "kind": "quiz",
+        "question": "Undang-undang diduga dibentuk tanpa partisipasi publik yang bermakna. Jalur yang tepat adalah…",
+        "options": [
+          "Gugatan ke PTUN",
+          "Uji formil ke MK",
+          "Uji materiil ke MA",
+          "Gugatan PMH ke PN"
+        ],
+        "answerIndex": 1,
+        "explanation": "Cacat prosedur pembentukan UU diuji lewat uji formil di MK, seperti dalam Putusan MK 91/PUU-XVIII/2020 tentang UU Cipta Kerja."
+      }
+    ],
+    "caption": "MK menguji UU terhadap UUD; MA menguji peraturan di bawah UU terhadap UU. Jangan tertukar.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22, 24A ayat (1), 24C ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

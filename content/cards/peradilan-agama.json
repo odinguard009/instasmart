@@ -409,5 +409,540 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-hukum-acara-berlaku",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Hukum acara yang berlaku di pengadilan agama menurut Pasal 54 UU 7/1989 adalah…",
+    "options": [
+      "Hukum acara pidana",
+      "Hukum acara peradilan tata usaha negara",
+      "Acara perdata peradilan umum, kecuali diatur khusus",
+      "Hukum acara khusus yang seluruhnya diatur dalam KHI"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hukum acara perdata yang berlaku di peradilan umum, kecuali yang telah diatur secara khusus dalam UU Peradilan Agama (misalnya acara perceraian Pasal 65-91).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 54",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-tak-terbuka-batal",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Bila sidang yang wajib terbuka untuk umum ternyata tidak terbuka, akibatnya menurut Pasal 59 ayat (2)…",
+    "options": [
+      "Batal menurut hukum",
+      "Cukup ditegur ketua pengadilan tinggi",
+      "Tetap sah bila disetujui para pihak",
+      "Dapat dibatalkan atas permintaan pihak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Seluruh pemeriksaan beserta penetapan atau putusannya batal menurut hukum. Pengecualian: undang-undang menentukan lain atau hakim memerintahkan sidang tertutup dengan alasan penting yang dicatat dalam berita acara (ayat (1)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 59",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-tertutup-terbuka",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Pemeriksaan perkara cerai di pengadilan agama dilakukan dalam sidang…, sedangkan putusannya diucapkan dalam sidang…",
+    "options": [
+      "Tertutup; terbuka",
+      "Terbuka; terbuka",
+      "Tertutup; tertutup",
+      "Terbuka; tertutup"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pemeriksaan cerai talak dan cerai gugat dalam sidang tertutup (Pasal 68 ayat (2), Pasal 80 ayat (2)); putusan diucapkan dalam sidang terbuka untuk umum (Pasal 81 ayat (1), sejalan dengan Pasal 60).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 60, 68, 80, 81",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-periksa-30-hari",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Majelis hakim memeriksa permohonan cerai talak atau gugatan cerai selambat-lambatnya … setelah didaftarkan.",
+    "options": [
+      "30 hari",
+      "14 hari",
+      "7 hari",
+      "60 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "30 (tiga puluh) hari setelah berkas atau surat permohonan/gugatan didaftarkan di kepaniteraan (Pasal 68 ayat (1) dan Pasal 80 ayat (1)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 68, Pasal 80",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-cerai-talak-tempat",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Permohonan cerai talak pada asasnya diajukan ke pengadilan yang daerah hukumnya meliputi tempat kediaman…",
+    "options": [
+      "Pemohon (suami)",
+      "Termohon (istri)",
+      "Orang tua suami",
+      "Tempat akad nikah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 66 ayat (2): tempat kediaman termohon, kecuali termohon sengaja meninggalkan tempat kediaman bersama tanpa izin pemohon. Bila termohon di luar negeri, ke pengadilan tempat kediaman pemohon (ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 66",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-banding-istri",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Terhadap penetapan yang mengabulkan permohonan cerai talak (Pasal 70 ayat (1)), siapa yang dapat mengajukan banding?",
+    "options": [
+      "Pegawai pencatat nikah",
+      "Hanya jaksa",
+      "Tidak ada, langsung final",
+      "Istri"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 70 ayat (2): istri dapat mengajukan banding. Sidang ikrar talak baru ditentukan setelah penetapan itu berkekuatan hukum tetap (ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 70",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-ikrar-6-bulan",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Suami tidak datang ke sidang ikrar talak dalam 6 bulan meski dipanggil sah. Akibatnya…",
+    "options": [
+      "Hakim mengucapkan ikrar",
+      "Istri dapat mengikrarkan sendiri",
+      "Penetapan gugur",
+      "Ikrar dianggap diucapkan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 70 ayat (6): kekuatan penetapan gugur, dan perceraian tidak dapat diajukan lagi berdasarkan alasan yang sama.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 70 ayat (6)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-ikrar-final",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Penetapan hakim yang menyatakan perkawinan putus sejak ikrar talak diucapkan…",
+    "options": [
+      "Dapat diperiksa ulang oleh pengadilan tinggi agama",
+      "Dapat dibanding istri",
+      "Tidak dapat dibanding atau dikasasi",
+      "Hanya dapat dikasasi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 71 ayat (2). Yang dapat dibanding istri adalah penetapan pengabulan permohonan sebelum ikrar (Pasal 70 ayat (2)), bukan penetapan sesudah ikrar.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 70, Pasal 71",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-cerai-gugat-kapan",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Dalam cerai gugat, perceraian dianggap terjadi beserta segala akibat hukumnya terhitung sejak…",
+    "options": [
+      "Gugatan didaftarkan",
+      "Putusan berkekuatan hukum tetap",
+      "Akta cerai diterbitkan panitera pengadilan",
+      "Putusan diucapkan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 81 ayat (2). Bandingkan cerai talak: perkawinan putus sejak ikrar talak diucapkan (Pasal 71 ayat (2)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 71, Pasal 81",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-gugur-meninggal",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Gugatan perceraian gugur apabila…",
+    "options": [
+      "Mediasi berhasil sebagian dan para pihak setuju menunda",
+      "Tergugat tidak hadir",
+      "Tidak ada saksi",
+      "Suami atau istri meninggal sebelum putusan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 79. Ketentuan ini juga berlaku untuk cerai talak (Pasal 69).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 69, Pasal 79",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-damai-hadir-pribadi",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Pada sidang perdamaian perkara cerai, suami istri…",
+    "options": [
+      "Harus datang secara pribadi, kecuali di luar negeri",
+      "Boleh diwakili kuasa hukum kapan saja tanpa syarat apa pun",
+      "Cukup diwakili orang tua",
+      "Tidak perlu hadir"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 82 ayat (2): wajib datang pribadi, kecuali salah satu bertempat kediaman di luar negeri dan tidak dapat datang, maka dapat diwakili kuasa khusus. Usaha damai dapat dilakukan di setiap sidang selama perkara belum diputus (ayat (4)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 82",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-damai-tercapai",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Setelah perdamaian tercapai, gugatan perceraian baru TIDAK dapat diajukan berdasarkan…",
+    "options": [
+      "Alasan yang ada dan diketahui sebelum perdamaian",
+      "Alasan apa pun",
+      "Alasan dari pihak ketiga",
+      "Alasan yang baru timbul sesudah perdamaian tercapai"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 83. Alasan baru yang muncul sesudah perdamaian tetap dapat menjadi dasar gugatan baru.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 83",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-akta-cerai",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Panitera wajib memberikan akta cerai kepada para pihak selambat-lambatnya … setelah putusan berkekuatan hukum tetap diberitahukan.",
+    "options": [
+      "30 hari",
+      "3 hari",
+      "7 hari",
+      "14 hari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 84 ayat (4): 7 (tujuh) hari. Salinan putusan dikirim ke pegawai pencatat nikah selambat-lambatnya 30 hari (ayat (1)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 84",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-harta-bersama-pihak-ketiga",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Ada tuntutan pihak ketiga atas harta bersama yang digugat di pengadilan agama. Pengadilan agama…",
+    "options": [
+      "Tetap memutus semuanya",
+      "Menunda perkara harta bersama sampai ada putusan peradilan umum",
+      "Menolak gugatan cerai",
+      "Menyerahkan seluruh sengketa harta ke kantor pertanahan setempat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 86 ayat (2) (rumusan UU 7/1989): menunda perkara harta bersama sampai ada putusan pengadilan di lingkungan peradilan umum yang berkekuatan hukum tetap. Cek apakah perubahan kewenangan sesudahnya memengaruhi hal ini.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 86",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-sumpah-zina",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Cerai atas alasan zina, bukti tidak lengkap dan disanggah, alat bukti lain tidak mungkin diperoleh. Hakim karena jabatannya dapat…",
+    "options": [
+      "Memerintahkan tes DNA kedua belah pihak",
+      "Menyuruh pemohon/penggugat bersumpah",
+      "Menolak gugatan",
+      "Menyerahkan ke polisi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 87 ayat (1); termohon/tergugat diberi kesempatan meneguhkan sanggahannya dengan cara yang sama (ayat (2)). Pasal 88 membedakan penyelesaian bila sumpah dilakukan suami atau istri.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 87, Pasal 88",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-biaya-perkawinan",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Biaya perkara dalam bidang perkawinan dibebankan kepada…",
+    "options": [
+      "Dibagi dua",
+      "Pihak yang kalah perkara",
+      "Negara",
+      "Penggugat atau pemohon"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 89 ayat (1) UU 7/1989. Ini berbeda dari asas umum acara perdata (yang kalah membayar). Pasal 90 tentang rincian biaya telah diubah UU 3/2006.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 89",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-kumulasi-cerai",
+    "type": "review",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "front": "Gugatan apa saja yang dapat diajukan bersama gugatan cerai atau sesudahnya (Pasal 66 ayat (5), 86 ayat (1))?",
+    "back": "Penguasaan anak, nafkah anak, nafkah istri, dan harta bersama suami istri. Diajukan bersama-sama dengan permohonan/gugatan cerai, atau sesudah ikrar talak / sesudah putusan cerai berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 66 ayat (5), Pasal 86 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-selama-proses-cerai",
+    "type": "review",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "front": "Selama gugatan cerai berlangsung, apa yang dapat dilakukan pengadilan (Pasal 77-78)?",
+    "back": "Mengizinkan suami istri tidak tinggal serumah (atas permohonan atau karena pertimbangan bahaya); atas permohonan penggugat menentukan nafkah yang ditanggung suami, hal-hal untuk menjamin pemeliharaan dan pendidikan anak, serta terpeliharanya barang bersama, barang hak suami, atau barang hak istri.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 77, Pasal 78",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-angka-acara-cerai",
+    "type": "fact",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "infographic",
+      "title": "Angka acara cerai",
+      "points": [
+        "Diperiksa ≤ 30 hari",
+        "Ikrar talak: batas 6 bulan",
+        "Salinan ke PPN ≤ 30 hari",
+        "Akta cerai ≤ 7 hari"
+      ]
+    },
+    "caption": "Pasal 68 ayat (1), 80 ayat (1), 70 ayat (6), 84 ayat (1) dan (4) UU 7/1989. PPN = pegawai pencatat nikah.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 68, 70, 80, 84",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-talak-vs-gugat-putus",
+    "type": "carousel",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 7/1989",
+          "title": "Kapan perkawinan putus?",
+          "subtitle": "cerai talak vs cerai gugat",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Cerai talak",
+          "points": [
+            "Suami memohon",
+            "Penetapan: istri bisa banding",
+            "Sidang ikrar talak",
+            "Putus sejak ikrar diucapkan"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Cerai gugat",
+          "points": [
+            "Istri menggugat",
+            "Diperiksa tertutup",
+            "Putusan diucapkan terbuka",
+            "Putus sejak putusan BHT"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Putusan cerai gugat dibacakan 1 Mei, berkekuatan hukum tetap 20 Mei. Perceraian terjadi sejak…",
+        "options": [
+          "20 Mei",
+          "Saat akta cerai terbit",
+          "1 Mei",
+          "Saat gugatan didaftarkan"
+        ],
+        "answerIndex": 0,
+        "explanation": "Sejak putusan berkekuatan hukum tetap (Pasal 81 ayat (2))."
+      }
+    ],
+    "caption": "Dua jalur perceraian di pengadilan agama punya titik putus berbeda. BHT = berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 70, 71, 80, 81",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-humor-ikrar-mangkir",
+    "type": "humor",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "meme",
+      "top": "Sudah menang permohonan cerai talak, tapi 6 bulan tak datang ikrar",
+      "bottom": "Penetapannya gugur",
+      "character": "cat",
+      "expression": "shock"
+    },
+    "caption": "Menang di atas kertas belum tentu selesai. Kalau suami tidak datang ke sidang ikrar talak dalam 6 bulan padahal sudah dipanggil sah, penetapannya gugur.",
+    "teaches": "Jika suami dalam 6 bulan sejak ditetapkan hari sidang ikrar talak tidak hadir atau mengirim wakil meski dipanggil sah, kekuatan penetapan gugur dan perceraian tidak dapat diajukan lagi dengan alasan yang sama (Pasal 70 ayat (6) UU 7/1989).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 70 ayat (6)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

@@ -253,5 +253,689 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-tiga-dasar",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pasal 5 UU AP: penyelenggaraan Administrasi Pemerintahan berdasarkan asas legalitas, asas pelindungan HAM, dan…",
+    "options": [
+      "Asas kekeluargaan",
+      "AUPB",
+      "Asas praduga tak bersalah",
+      "Asas efisiensi anggaran"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 5: (a) asas legalitas, (b) asas pelindungan terhadap hak asasi manusia, (c) AUPB.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 5",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-aupb-lain",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 10 ayat (2), asas umum di luar delapan AUPB dalam ayat (1) dapat diterapkan sepanjang…",
+    "options": [
+      "Dipakai hakim dalam putusan inkrah",
+      "Disepakati seluruh warga yang terdampak",
+      "Ditetapkan dengan peraturan menteri terkait",
+      "Tercantum dalam kode etik instansi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (2): sepanjang dijadikan dasar penilaian hakim yang tertuang dalam putusan Pengadilan yang berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 10 ayat (2)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-batas-wewenang",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pasal 15 ayat (1): wewenang Badan/Pejabat Pemerintahan dibatasi oleh masa atau tenggang waktu, wilayah berlakunya, dan…",
+    "options": [
+      "Besaran anggaran yang tersedia di DIPA",
+      "Jumlah pegawai di instansi itu",
+      "Persetujuan DPRD setempat",
+      "Cakupan bidang atau materi wewenang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tiga batas wewenang: waktu, wilayah, dan cakupan bidang/materi. Pejabat yang masa wewenangnya berakhir tidak dibenarkan mengambil keputusan/tindakan (ayat (2)).",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 15",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-sengketa-kewenangan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Terjadi sengketa kewenangan antarpejabat di lingkungan pemerintahan. Menurut Pasal 16 ayat (2), penyelesaiannya berada pada…",
+    "options": [
+      "Ombudsman Republik Indonesia",
+      "Atasan para pejabat, lewat koordinasi",
+      "Mahkamah Konstitusi lewat SKLN",
+      "Pengadilan Tata Usaha Negara setempat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (2): pada antar atasan Pejabat Pemerintahan yang bersengketa melalui koordinasi untuk menghasilkan kesepakatan, kecuali ditentukan lain dalam peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 16 ayat (2)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-akibat-campur-aduk",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 19, keputusan yang mencampuradukkan wewenang (setelah diuji dan ada putusan berkekuatan hukum tetap) berakibat…",
+    "options": [
+      "Batal demi hukum sejak awal",
+      "Tetap sah tanpa akibat",
+      "Tidak sah",
+      "Dapat dibatalkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 19: melampaui wewenang dan sewenang-wenang -> tidak sah (ayat (1)); mencampuradukkan wewenang -> dapat dibatalkan (ayat (2)); keduanya setelah diuji dan ada putusan berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 19",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-apip",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pengawasan terhadap larangan penyalahgunaan wewenang menurut Pasal 20 ayat (1) dilakukan oleh…",
+    "options": [
+      "Kejaksaan Agung Republik Indonesia RI",
+      "Komisi Pemberantasan Korupsi (KPK)",
+      "Badan Pemeriksa Keuangan (BPK)",
+      "Aparat pengawasan intern pemerintah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (1): aparat pengawasan intern pemerintah. Hasilnya: tidak ada kesalahan, kesalahan administratif, atau kesalahan administratif yang menimbulkan kerugian keuangan negara (ayat (2)).",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 20 ayat (1) dan (2)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-kembalikan-10-hari",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Hasil pengawasan intern: kesalahan administratif yang menimbulkan kerugian keuangan negara. Pasal 20 ayat (4) mewajibkan pengembalian kerugian paling lama…",
+    "options": [
+      "14 hari kalender",
+      "30 hari kerja",
+      "10 hari kerja",
+      "60 hari kalender"
+    ],
+    "answerIndex": 2,
+    "explanation": "Paling lama 10 (sepuluh) hari kerja sejak diputuskan dan diterbitkannya hasil pengawasan. Untuk kesalahan administratif tanpa kerugian: penyempurnaan administrasi (ayat (3)).",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 20 ayat (3) dan (4)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-uji-penyalahgunaan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 21 ayat (3), pengadilan wajib memutus permohonan penilaian unsur penyalahgunaan wewenang paling lama…",
+    "options": [
+      "90 hari kalender",
+      "21 hari kerja",
+      "14 hari kerja",
+      "30 hari kalender"
+    ],
+    "answerIndex": 1,
+    "explanation": "21 hari kerja sejak permohonan diajukan. Banding ke PT TUN juga diputus paling lama 21 hari kerja, dan putusan PT TUN bersifat final dan mengikat (ayat (4)-(6)).",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 21",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-pt-tun-final",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Putusan Pengadilan Tinggi TUN atas banding permohonan penilaian penyalahgunaan wewenang (Pasal 21 ayat (6)) bersifat…",
+    "options": [
+      "Hanya berupa rekomendasi",
+      "Final dan mengikat",
+      "Dapat ditinjau kembali",
+      "Dapat dikasasi ke MA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 21 ayat (6): final dan mengikat.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 21 ayat (6)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-diskresi-anggaran",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 25 ayat (1), diskresi yang berpotensi mengubah alokasi anggaran wajib memperoleh…",
+    "options": [
+      "Persetujuan DPR atau DPRD terkait",
+      "Persetujuan dari Atasan Pejabat",
+      "Izin dari Menteri Keuangan",
+      "Rekomendasi tertulis dari BPK"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): wajib memperoleh persetujuan dari Atasan Pejabat sesuai ketentuan peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 25 ayat (1)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-diskresi-tak-berwenang",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Diskresi dikeluarkan oleh pejabat yang tidak berwenang. Menurut Pasal 32, akibat hukumnya…",
+    "options": [
+      "Tetap sah sampai dicabut",
+      "Sah bila disetujui atasan",
+      "Dapat dibatalkan",
+      "Tidak sah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 32: dikategorikan tindakan sewenang-wenang, akibat hukumnya tidak sah. Bandingkan Pasal 31: diskresi yang mencampuradukkan wewenang akibatnya dapat dibatalkan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 31 dan 32",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-konflik-kepentingan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pejabat berpotensi memiliki konflik kepentingan atas suatu keputusan. Menurut Pasal 42, keputusan itu ditetapkan oleh…",
+    "options": [
+      "Atasan Pejabat atau pejabat lain",
+      "Inspektorat jenderal kementerian",
+      "Pengadilan Tata Usaha Negara",
+      "Pejabat itu sendiri dengan catatan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (1): pejabat itu dilarang menetapkan keputusan. Ayat (2): ditetapkan oleh Atasan Pejabat atau pejabat lain sesuai ketentuan peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 42",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-atasan-kepala-daerah",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pasal 42 ayat (3): bagi menteri/pimpinan lembaga dan kepala daerah yang berkonflik kepentingan, Atasan Pejabat-nya adalah…",
+    "options": [
+      "Gubernur",
+      "Presiden",
+      "Menteri Dalam Negeri",
+      "Ketua DPR"
+    ],
+    "answerIndex": 1,
+    "explanation": "Huruf a: Presiden bagi menteri/pimpinan lembaga dan kepala daerah. Huruf c: kepala daerah bagi pejabat daerah.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 42 ayat (3)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-akses-dokumen",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Hak warga mengakses dokumen Administrasi Pemerintahan menurut Pasal 51 ayat (2) tidak berlaku jika dokumen itu…",
+    "options": [
+      "Rahasia negara atau rahasia pihak ketiga",
+      "Berumur lebih dari lima tahun sejak dibuat",
+      "Ditandatangani pejabat eselon I",
+      "Belum diarsipkan secara digital oleh instansi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (2): tidak berlaku jika termasuk kategori rahasia negara dan/atau melanggar kerahasiaan pihak ketiga.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 51",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-syarat-sah",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 52 ayat (1), syarat sahnya Keputusan meliputi ditetapkan pejabat berwenang, dibuat sesuai prosedur, dan…",
+    "options": [
+      "Dibubuhi meterai yang cukup dan sah",
+      "Disetujui seluruh pihak yang dituju",
+      "Diumumkan di media massa nasional",
+      "Substansinya sesuai objek Keputusan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (1): (a) pejabat berwenang, (b) sesuai prosedur, (c) substansi sesuai objek Keputusan. Ayat (2): didasarkan pada peraturan perundang-undangan dan AUPB.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 52",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-cacat-prosedur",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Keputusan dibuat pejabat berwenang tetapi tidak sesuai prosedur. Menurut Pasal 56 ayat (2), keputusan itu…",
+    "options": [
+      "Batal atau dapat dibatalkan",
+      "Tetap sah tanpa catatan",
+      "Otomatis dianggap dikabulkan",
+      "Tidak sah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 56: tidak memenuhi syarat pejabat berwenang (Pasal 52 ayat (1) huruf a) -> tidak sah; tidak memenuhi syarat prosedur/substansi (huruf b dan c) -> batal atau dapat dibatalkan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 56",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-berlaku-mengikat",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Menurut UU AP, Keputusan BERLAKU pada tanggal ditetapkan (Pasal 57), sedangkan memiliki DAYA MENGIKAT sejak…",
+    "options": [
+      "Diumumkan atau diterima pihak terkait",
+      "Disahkan atasan pejabat yang menetapkan",
+      "Didaftarkan di pengadilan negeri setempat",
+      "Lewat 90 hari setelah tanggal ditetapkan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 60 ayat (1): daya mengikat sejak diumumkan atau diterimanya Keputusan oleh pihak yang tersebut dalam Keputusan. Pasal 57: berlaku pada tanggal ditetapkan, kecuali ditentukan lain.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 57 dan 60",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-alasan-ubah",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Manakah yang BUKAN alasan perubahan Keputusan menurut Pasal 63 ayat (1)?",
+    "options": [
+      "Kesalahan redaksional",
+      "Pergantian pejabat yang menjabat",
+      "Kesalahan konsideran dalam Keputusan",
+      "Fakta baru"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alasan perubahan: kesalahan konsideran, kesalahan redaksional, perubahan dasar pembuatan Keputusan, dan/atau fakta baru.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 63 ayat (1)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-cabut-5-hari",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Pencabutan Keputusan oleh pejabat/atasan pejabat menurut Pasal 64 ayat (4) dilakukan paling lama…",
+    "options": [
+      "30 hari sejak ada laporan warga",
+      "90 hari sejak keputusan diumumkan",
+      "5 hari kerja sejak dasarnya ditemukan",
+      "14 hari kerja sejak dasarnya ditemukan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayat (1): pencabutan hanya bila ada cacat wewenang, prosedur, dan/atau substansi. Ayat (4): paling lama 5 hari kerja sejak ditemukannya dasar pencabutan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 64",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-penundaan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 65 ayat (1), Keputusan yang sudah ditetapkan tidak dapat ditunda, kecuali berpotensi menimbulkan kerugian negara, kerusakan lingkungan hidup, dan/atau…",
+    "options": [
+      "Konflik sosial",
+      "Protes di media sosial",
+      "Kerugian bagi pejabat",
+      "Perubahan kabinet"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pengecualian: kerugian negara, kerusakan lingkungan hidup, dan/atau konflik sosial. Penundaan oleh pejabat yang menetapkan dan/atau Atasan Pejabat (ayat (2)).",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 65",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-tidak-sah-akibat",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 70 ayat (2), akibat hukum Keputusan yang TIDAK SAH adalah…",
+    "options": [
+      "Tidak mengikat sejak awal ditetapkan",
+      "Tetap sah sampai ada pembatalan oleh atasan pejabat",
+      "Tidak mengikat hanya sejak saat dibatalkan",
+      "Tetap mengikat sampai ada putusan kasasi MA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 70 ayat (2): tidak mengikat sejak ditetapkan dan segala akibat hukumnya dianggap tidak pernah ada. Bandingkan Pasal 71 ayat (2) untuk keputusan yang dapat dibatalkan: tidak mengikat sejak dibatalkan atau tetap sah sampai ada pembatalan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 70 dan 71",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-upaya-tidak-menunda",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 75 ayat (3), upaya administratif terhadap Keputusan…",
+    "options": [
+      "Membatalkan Keputusan untuk sementara waktu",
+      "Hanya boleh diajukan melalui kuasa hukum",
+      "Otomatis menunda pelaksanaan Keputusan",
+      "Pada dasarnya tidak menunda pelaksanaan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tidak menunda pelaksanaan, kecuali ditentukan lain dalam undang-undang dan menimbulkan kerugian yang lebih besar. Pengajuannya tidak dibebani biaya (ayat (5)).",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 75",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-keberatan-21",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 77 ayat (1), keberatan atas Keputusan diajukan paling lama…",
+    "options": [
+      "90 hari kalender sejak Keputusan diterima",
+      "14 hari kalender sejak ditetapkan",
+      "21 hari kerja sejak Keputusan diumumkan",
+      "10 hari kerja sejak Keputusan diterima"
+    ],
+    "answerIndex": 2,
+    "explanation": "Keberatan: 21 hari kerja sejak diumumkan, tertulis kepada pejabat yang menetapkan. Banding: 10 hari kerja sejak keputusan keberatan diterima, tertulis kepada Atasan Pejabat (Pasal 78).",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 77 ayat (1) dan Pasal 78 ayat (1)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-keberatan-didiamkan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Pejabat tidak menyelesaikan keberatan dalam 10 hari kerja. Menurut Pasal 77 ayat (5), keberatan itu…",
+    "options": [
+      "Dianggap dikabulkan",
+      "Otomatis diteruskan ke PTUN",
+      "Dianggap ditolak",
+      "Gugur demi hukum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (4): keberatan diselesaikan paling lama 10 hari kerja. Ayat (5): bila tidak diselesaikan, keberatan dianggap dikabulkan. Pasal 78 ayat (5) mengatur hal serupa untuk banding.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 77 ayat (4) dan (5)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-konflik-6",
+    "type": "review",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "front": "Latar konflik kepentingan (Pasal 43 ayat (1))",
+    "back": "a. kepentingan pribadi dan/atau bisnis; b. hubungan dengan kerabat dan keluarga; c. hubungan dengan wakil pihak yang terlibat; d. hubungan dengan pihak yang bekerja dan digaji pihak yang terlibat; e. hubungan dengan pihak yang memberi rekomendasi bagi pihak yang terlibat; f. hubungan lain yang dilarang peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 43 ayat (1)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-carousel-tidak-sah-vs-batal",
+    "type": "carousel",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 30/2014",
+          "title": "Tidak sah vs dapat dibatalkan",
+          "subtitle": "Pasal 52, 56, 70, 71",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Tidak sah",
+          "points": [
+            "Pejabat tidak berwenang",
+            "Melampaui wewenang atau sewenang-wenang",
+            "Tidak mengikat sejak ditetapkan",
+            "Akibatnya dianggap tidak pernah ada"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Dapat dibatalkan",
+          "points": [
+            "Salah prosedur atau substansi",
+            "Mencampuradukkan wewenang",
+            "Tetap sah sampai dibatalkan",
+            "Berakhir setelah ada pembatalan"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Keputusan dibuat pejabat yang tidak berwenang. Akibatnya…",
+        "options": [
+          "Dianggap dikabulkan",
+          "Tidak sah",
+          "Dapat dibatalkan",
+          "Sah sampai dicabut"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pasal 56 ayat (1) dan Pasal 70 ayat (1) huruf a."
+      }
+    ],
+    "caption": "Dua akibat hukum cacat keputusan menurut UU Administrasi Pemerintahan.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 52, 56, 70, dan 71",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ap-humor-keberatan",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "visual": {
+      "template": "meme",
+      "top": "Keberatan sudah 10 hari kerja tidak dijawab",
+      "bottom": "Menurut UU AP: dianggap dikabulkan",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Diamnya pejabat atas keberatan punya akibat hukum.",
+    "teaches": "Keberatan yang tidak diselesaikan dalam 10 hari kerja dianggap dikabulkan (Pasal 77 ayat (4) dan (5) UU 30/2014, teks asli).",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 77 ayat (4) dan (5)",
+      "url": "https://bkpsdm.serangkab.go.id/download_produk_hukum/UNDANG-UNDANG_REPUBLIK_INDONESIA_NOMOR_30_TAHUN_2014.PDF"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

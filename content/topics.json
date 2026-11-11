@@ -346,6 +346,10 @@
       {
         "id": "batas-umur",
         "name": "Batas Umur & Sanksi"
+      },
+      {
+        "id": "acara-anak",
+        "name": "Acara Peradilan Anak"
       }
     ]
   },

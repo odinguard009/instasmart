@@ -268,5 +268,684 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-tangkap-24-jam",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Penangkapan terhadap Anak guna kepentingan penyidikan paling lama…",
+    "options": [
+      "48 jam",
+      "24 jam",
+      "12 jam",
+      "3 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 30 ayat (1) UU 11/2012: paling lama 24 jam. Anak yang ditangkap wajib ditempatkan di ruang pelayanan khusus Anak; bila belum ada, dititipkan di LPKS (ayat (2)-(3)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 30",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-tahan-penyidik",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Penahanan Anak untuk kepentingan penyidikan paling lama … dan dapat diperpanjang penuntut umum paling lama …",
+    "options": [
+      "5 hari; 5 hari",
+      "7 hari; 8 hari",
+      "10 hari; 15 hari",
+      "20 hari; 40 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 33 ayat (1)-(2): 7 hari, diperpanjang penuntut umum paling lama 8 hari. Setelah itu Anak wajib dikeluarkan demi hukum (ayat (3)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 33",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-tahan-pu",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Penahanan Anak oleh penuntut umum paling lama 5 hari. Perpanjangannya diberikan oleh…",
+    "options": [
+      "Kajati, paling lama 8 hari",
+      "Hakim PN, paling lama 5 hari",
+      "Ketua PT, paling lama 10 hari",
+      "Penyidik, paling lama 7 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 34 ayat (2): atas permintaan penuntut umum, diperpanjang oleh hakim pengadilan negeri paling lama 5 hari.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 34",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-tahan-hakim-pn",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Penahanan Anak untuk pemeriksaan di sidang pengadilan negeri: oleh hakim … lalu diperpanjang ketua PN …",
+    "options": [
+      "10 hari + 15 hari",
+      "30 hari + 60 hari",
+      "15 hari + 20 hari",
+      "7 hari + 8 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 35 ayat (1)-(2): hakim paling lama 10 hari, diperpanjang ketua pengadilan negeri paling lama 15 hari. Bila habis dan belum diputus, Anak wajib dikeluarkan demi hukum.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 35",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-tahan-kasasi",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Penahanan Anak di tingkat kasasi: oleh hakim kasasi paling lama … dan diperpanjang Ketua MA paling lama …",
+    "options": [
+      "15 + 20 hari",
+      "10 + 15 hari",
+      "50 + 60 hari",
+      "5 + 5 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 38: hakim kasasi 15 hari, diperpanjang Ketua Mahkamah Agung paling lama 20 hari. Di tingkat banding: 10 + 15 hari (Pasal 37).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 37, Pasal 38",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-tanpa-info-bantuan-hukum",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Pejabat yang menangkap Anak tidak memberitahukan hak memperoleh bantuan hukum kepada Anak dan orang tua/Wali. Akibatnya…",
+    "options": [
+      "Penangkapan batal demi hukum",
+      "Penangkapan tetap sah",
+      "Hanya sanksi disiplin bagi pejabat",
+      "Dapat dibatalkan lewat praperadilan saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 40 ayat (2): penangkapan atau penahanan terhadap Anak batal demi hukum.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 40",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-bersama-dewasa",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Anak melakukan tindak pidana bersama-sama orang dewasa. Anak diajukan ke…",
+    "options": [
+      "Pengadilan Anak",
+      "Pengadilan bagi orang dewasa itu",
+      "Pengadilan militer bila ada TNI",
+      "Pengadilan pilihan penuntut umum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 24: Anak diajukan ke pengadilan Anak, sedangkan orang dewasa atau anggota TNI diajukan ke pengadilan yang berwenang.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 24",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-umur-20-tetap-anak",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Tindak pidana dilakukan saat pelaku berumur 17 tahun; perkaranya baru diajukan ke sidang saat ia berumur 20 tahun. Ia diajukan ke…",
+    "options": [
+      "Tidak dapat dituntut",
+      "Sidang orang dewasa",
+      "Sidang Anak",
+      "Pilihan hakim"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20: dilakukan sebelum genap 18 tahun dan diajukan setelah melampaui 18 tetapi belum 21 tahun, tetap diajukan ke sidang Anak.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 20",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-situasi-darurat",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Anak diperiksa karena tindak pidana yang dilakukannya dalam situasi darurat. Pelindungan khusus baginya dilaksanakan melalui…",
+    "options": [
+      "Sanksi tanpa pemberatan",
+      "Penghapusan hak menuntut",
+      "Pembebasan dari segala dakwaan",
+      "Pengurangan pidana separuh"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 17 ayat (2): melalui penjatuhan sanksi tanpa pemberatan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 17",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-penetapan-diversi",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Kesepakatan diversi disampaikan ke pengadilan negeri paling lama … sejak dicapai, dan penetapan dibuat paling lama … sejak diterima.",
+    "options": [
+      "3 hari; 3 hari",
+      "30 hari; 7 hari",
+      "14 hari; 3 hari",
+      "7 hari; 7 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 12 ayat (2)-(3): 3 hari dan 3 hari. Penetapan disampaikan ke PK, penyidik, penuntut umum, atau hakim paling lama 3 hari sejak ditetapkan (ayat (4)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 12",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-pasca-penetapan-diversi",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Setelah menerima penetapan kesepakatan diversi di tahap penyidikan, penyidik menerbitkan penetapan…",
+    "options": [
+      "SP3 karena kurang bukti",
+      "Penahanan lanjutan anak",
+      "Penghentian penyidikan",
+      "Pelimpahan berkas ke jaksa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 12 ayat (5): penyidik menerbitkan penetapan penghentian penyidikan; di tahap penuntutan, penuntut umum menerbitkan penetapan penghentian penuntutan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 12 ayat (5)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-diversi-lanjut",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Proses peradilan pidana Anak dilanjutkan apabila…",
+    "options": [
+      "Anak genap berumur 18 tahun",
+      "Orang tua menolak hadir",
+      "Diversi tidak dilaksanakan",
+      "Penyidiknya diganti atasan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 13: proses dilanjutkan bila diversi tidak menghasilkan kesepakatan atau kesepakatan diversi tidak dilaksanakan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 13",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-ortu-tak-hadir",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Dalam sidang Anak, orang tua/Wali dan pendamping tidak hadir. Sidang…",
+    "options": [
+      "Langsung batal demi hukum",
+      "Wajib ditunda sampai orang tua datang",
+      "Diganti dengan sidang in absentia",
+      "Tetap lanjut, didampingi advokat/PK"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 55 ayat (2): sidang tetap dilanjutkan dengan didampingi advokat atau pemberi bantuan hukum lainnya dan/atau Pembimbing Kemasyarakatan (PK). Bila hakim tidak melaksanakannya, sidang Anak batal demi hukum (ayat (3)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 55",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-litmas-diabaikan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Laporan penelitian kemasyarakatan dari PK tidak dipertimbangkan dalam putusan hakim. Akibatnya…",
+    "options": [
+      "Putusan batal demi hukum",
+      "Hakim ditegur KY",
+      "Putusan tetap sah",
+      "Putusan dapat dibanding saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 60 ayat (3)-(4): hakim wajib mempertimbangkan laporan itu; bila tidak dipertimbangkan, putusan batal demi hukum.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 60",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-litmas-dibacakan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Setelah surat dakwaan dibacakan, hakim memerintahkan PK membacakan laporan penelitian kemasyarakatan…",
+    "options": [
+      "Di depan Anak dan korban",
+      "Setelah tuntutan dibacakan",
+      "Tanpa kehadiran Anak",
+      "Secara tertulis saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 57 ayat (1): dibacakan tanpa kehadiran Anak, kecuali hakim berpendapat lain.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 57",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-anak-keluar-ruang",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Saat memeriksa Anak Korban atau Anak Saksi, hakim dapat…",
+    "options": [
+      "Mengeluarkan orang tua Anak",
+      "Menunda sidang tujuh hari",
+      "Menutup sidang bagi advokat",
+      "Menyuruh Anak keluar ruang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 58 ayat (1): hakim dapat memerintahkan agar Anak (pelaku) dibawa keluar ruang sidang; orang tua/Wali, advokat, dan PK tetap hadir (ayat (2)). Sidang dilanjutkan setelah Anak diberi tahu keterangan yang diberikan (Pasal 59).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 58, Pasal 59",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-putusan-terbuka",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Pembacaan putusan perkara Anak dilakukan dalam sidang…",
+    "options": [
+      "Tertutup, wajib dihadiri Anak",
+      "Terbuka, boleh tanpa Anak",
+      "Terbuka, wajib dihadiri Anak",
+      "Tertutup, tanpa kehadiran Anak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 61 ayat (1): terbuka untuk umum dan dapat tidak dihadiri Anak. Identitas Anak tetap dirahasiakan media massa: hanya inisial tanpa gambar (ayat (2)). Pemeriksaannya sendiri tertutup (Pasal 56).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 56, Pasal 61",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-salinan-putusan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Pengadilan wajib memberikan salinan putusan perkara Anak paling lama … sejak putusan diucapkan.",
+    "options": [
+      "3 hari",
+      "5 hari",
+      "1 hari",
+      "14 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 62 ayat (2): 5 hari. Petikan putusan diberikan pada hari putusan diucapkan (ayat (1)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 62",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-banding-hakim-tunggal",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Perkara Anak di tingkat banding pada asasnya diperiksa dan diputus oleh…",
+    "options": [
+      "Hakim ad hoc",
+      "Majelis 5 hakim",
+      "Majelis 3 hakim",
+      "Hakim tunggal"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 47 ayat (1): hakim tunggal. Ketua pengadilan tinggi dapat menetapkan majelis bila ancaman pidana penjara 7 tahun atau lebih atau sulit pembuktiannya (ayat (2)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 47",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-tindakan-1-tahun",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Tindakan perawatan di LPKS, kewajiban mengikuti pendidikan/pelatihan, dan pencabutan SIM dikenakan paling lama…",
+    "options": [
+      "3 tahun",
+      "1 tahun",
+      "2 tahun",
+      "6 bulan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 82 ayat (2): paling lama 1 tahun. Tindakan tidak dapat diajukan penuntut umum bila tindak pidana diancam penjara paling singkat 7 tahun (ayat (3)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 82",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-lpas-lpka",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Anak yang ditahan ditempatkan di …, sedangkan Anak yang dijatuhi pidana penjara ditempatkan di …",
+    "options": [
+      "LPKA; LPAS",
+      "LPAS; LPKA",
+      "Rutan; LPKA",
+      "LPKS; Lapas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 33 ayat (4): penahanan di LPAS (bila tidak ada, di LPKS setempat). Pasal 85 ayat (1): pidana penjara dijalani di LPKA.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 33, Pasal 85",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-saran-pk",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Dalam penyidikan perkara Anak, penyidik WAJIB meminta pertimbangan atau saran dari…",
+    "options": [
+      "Psikolog anak dari rumah sakit",
+      "Pembimbing Kemasyarakatan",
+      "Kepala sekolah si Anak",
+      "Komisi Perlindungan Anak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 27 ayat (1): dari Pembimbing Kemasyarakatan setelah tindak pidana dilaporkan atau diadukan. Ahli lain (psikolog, tokoh agama, dan sebagainya) bersifat 'dapat' (ayat (2)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 27",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-syarat-aph-anak",
+    "type": "review",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "front": "Apa syarat penyidik, penuntut umum, dan hakim yang menangani perkara Anak menurut UU 11/2012?",
+    "back": "Berpengalaman sebagai penyidik/penuntut umum/hakim (hakim: di lingkungan peradilan umum); mempunyai minat, perhatian, dedikasi, dan memahami masalah Anak; telah mengikuti pelatihan teknis tentang peradilan Anak. Bila belum ada yang memenuhi syarat, tugas dilaksanakan oleh pejabat yang menangani perkara orang dewasa.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 26, Pasal 41, Pasal 43",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-petugas-kemasyarakatan",
+    "type": "review",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "front": "Siapa saja petugas kemasyarakatan dalam UU SPPA, dan apa tugas utama Pembimbing Kemasyarakatan?",
+    "back": "Pembimbing Kemasyarakatan, Pekerja Sosial Profesional, dan Tenaga Kesejahteraan Sosial (Pasal 63). PK antara lain membuat laporan penelitian kemasyarakatan untuk diversi, penyidikan, penuntutan, dan persidangan, serta mendampingi, membimbing, dan mengawasi Anak (Pasal 65).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 63, Pasal 65",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-angka-penahanan-anak",
+    "type": "fact",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "infographic",
+      "title": "Penahanan Anak (hari)",
+      "points": [
+        "Penyidik 7 + JPU 8",
+        "JPU 5 + hakim PN 5",
+        "Hakim 10 + ketua PN 15",
+        "Banding 10+15, kasasi 15+20"
+      ]
+    },
+    "caption": "Pasal 33-38 UU 11/2012. Begitu jangka waktu habis, petugas tempat Anak ditahan harus segera mengeluarkan Anak demi hukum (Pasal 39).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 33-39",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-ruang-sidang-anak",
+    "type": "carousel",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 11/2012",
+          "title": "Sidang Anak itu beda",
+          "subtitle": "dari ruang tunggu sampai putusan",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Sebelum & saat sidang",
+          "points": [
+            "Ruang sidang khusus Anak",
+            "Ruang tunggu dipisah",
+            "Didahulukan dari dewasa",
+            "Sidang tertutup untuk umum"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Pendamping wajib",
+          "points": [
+            "Orang tua/Wali",
+            "Advokat/bantuan hukum",
+            "Pembimbing Kemasyarakatan",
+            "Tanpa pendamping: batal"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Identitas Anak dalam pemberitaan putusan ditulis dengan…",
+        "options": [
+          "Inisial tanpa gambar",
+          "Nama lengkap tanpa foto",
+          "Nama panggilan saja",
+          "Foto wajah disamarkan"
+        ],
+        "answerIndex": 0,
+        "explanation": "Hanya inisial tanpa gambar (Pasal 61 ayat (2) jo. Pasal 19)."
+      }
+    ],
+    "caption": "Pasal 53, 55, 56, dan 61 UU 11/2012. 'Tanpa pendamping: batal' maksudnya: bila hakim tidak memastikan Anak didampingi advokat dan/atau PK saat orang tua tidak hadir, sidang batal demi hukum (Pasal 55 ayat (3)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 53, 55, 56, 61",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-humor-tangkap-24-jam",
+    "type": "humor",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "meme",
+      "top": "Ditangkap kemarin pagi, sekarang sudah lewat sehari",
+      "bottom": "Batasnya 24 jam",
+      "character": "owl",
+      "expression": "shock"
+    },
+    "caption": "Untuk Anak, penangkapan guna penyidikan dibatasi 24 jam. Selama itu Anak wajib ditempatkan di ruang pelayanan khusus Anak.",
+    "teaches": "Penangkapan terhadap Anak guna kepentingan penyidikan paling lama 24 jam dan Anak wajib ditempatkan di ruang pelayanan khusus Anak (Pasal 30 ayat (1)-(2) UU 11/2012).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 30",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2012/11TAHUN2012UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

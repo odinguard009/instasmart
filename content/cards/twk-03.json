@@ -1,0 +1,339 @@
+[
+  {
+    "id": "twk-bpupki-sidang-1",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Sidang pertama BPUPKI yang membahas dasar negara berlangsung pada…",
+    "options": [
+      "18 Agustus 1945",
+      "22 Juni 1945",
+      "29 Mei - 1 Juni 1945",
+      "10 - 17 Juli 1945"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sidang kedua (10-17 Juli 1945) membahas rancangan UUD. 22 Juni 1945: Piagam Jakarta. 18 Agustus 1945: PPKI mengesahkan UUD.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku teks sejarah)",
+      "reference": "Sejarah perumusan Pancasila"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-ppki-18",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Hasil sidang PPKI 18 Agustus 1945 antara lain…",
+    "options": [
+      "Mengeluarkan Dekrit",
+      "Membacakan Proklamasi",
+      "Membentuk BPUPKI",
+      "Mengesahkan UUD 1945 serta memilih Presiden dan Wakil Presiden"
+    ],
+    "answerIndex": 3,
+    "explanation": "PPKI juga menetapkan bahwa untuk sementara Presiden dibantu Komite Nasional.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku teks sejarah)",
+      "reference": "Sejarah PPKI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-tujuh-kata",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Rumusan sila pertama dalam Piagam Jakarta diubah pada 18 Agustus 1945 menjadi…",
+    "options": [
+      "Ketuhanan yang berkebudayaan",
+      "Ketuhanan dengan kewajiban menjalankan syariat",
+      "Ketuhanan Yang Maha Esa",
+      "Kebangsaan Indonesia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tujuh kata setelah \"Ketuhanan\" dihapus demi persatuan, atas masukan dari wakil Indonesia bagian timur.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku teks sejarah)",
+      "reference": "Sejarah perumusan Pancasila"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-konstitusi-berlaku",
+    "type": "fact",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "visual": {
+      "template": "infographic",
+      "title": "Konstitusi yang pernah berlaku",
+      "points": [
+        "UUD 1945: 18 Agustus 1945 - 27 Desember 1949",
+        "Konstitusi RIS: 1949 - 1950",
+        "UUDS 1950: 1950 - 5 Juli 1959",
+        "UUD 1945 (Dekrit 5 Juli 1959)",
+        "UUD NRI 1945 setelah 4 kali perubahan (1999-2002)"
+      ]
+    },
+    "caption": "Urutan ini sering keluar di TWK.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku teks sejarah)",
+      "reference": "Sejarah ketatanegaraan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-pasal-37-usul",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Usul perubahan pasal UUD 1945 dapat diagendakan dalam sidang MPR bila diajukan sekurang-kurangnya oleh…",
+    "options": [
+      "Presiden",
+      "1/2 anggota MPR",
+      "2/3 anggota DPR",
+      "1/3 jumlah anggota MPR"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 37: usul oleh ≥1/3 anggota MPR; sidang dihadiri ≥2/3 anggota; putusan disetujui ≥50% + 1 dari seluruh anggota MPR.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 37"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-kedaulatan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Setelah perubahan UUD, Pasal 1 ayat (2) berbunyi kedaulatan berada di tangan rakyat dan…",
+    "options": [
+      "Dilaksanakan sepenuhnya oleh MPR",
+      "Dilaksanakan oleh Presiden",
+      "Dilaksanakan oleh DPR",
+      "Dilaksanakan menurut Undang-Undang Dasar"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sebelum perubahan: \"dilakukan sepenuhnya oleh Majelis Permusyawaratan Rakyat\".",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 1 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-budi-utomo",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Tanggal berdirinya Budi Utomo yang diperingati sebagai Hari Kebangkitan Nasional adalah…",
+    "options": [
+      "1 Juni 1945",
+      "20 Mei 1908",
+      "10 November 1945",
+      "28 Oktober 1928"
+    ],
+    "answerIndex": 1,
+    "explanation": "Budi Utomo berdiri 20 Mei 1908.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku teks sejarah)",
+      "reference": "Sejarah pergerakan nasional"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-sishankamrata",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Usaha pertahanan dan keamanan negara dilaksanakan melalui sistem…",
+    "options": [
+      "Pertahanan dan keamanan rakyat semesta",
+      "Wajib militer universal",
+      "Aliansi militer",
+      "Pertahanan oleh TNI saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 30 ayat (2): TNI dan Polri sebagai kekuatan utama, rakyat sebagai kekuatan pendukung.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 30 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-28j",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Pembatasan pelaksanaan hak asasi manusia hanya dapat ditetapkan dengan…",
+    "options": [
+      "Peraturan Presiden",
+      "Keputusan Menteri",
+      "Kesepakatan masyarakat",
+      "Undang-undang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 28J ayat (2): pembatasan ditetapkan dengan undang-undang untuk menghormati hak orang lain dan memenuhi tuntutan yang adil.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28J ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-integritas-plagiat",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Anda menemukan laporan rekan yang akan dikirim ke pimpinan menyalin data dari unit lain tanpa menyebut sumber. Sikap berintegritas…",
+    "options": [
+      "Mengingatkan rekan agar mencantumkan sumber sebelum dikirim",
+      "Ikut menyalin agar adil",
+      "Melaporkan langsung ke media",
+      "Diam saja karena bukan urusan Anda"
+    ],
+    "answerIndex": 0,
+    "explanation": "Integritas: jujur dan bertanggung jawab; koreksi dimulai dari mengingatkan secara langsung.",
+    "source": {
+      "title": "Materi TWK (integritas)",
+      "reference": "Nilai integritas"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-kata-serapan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kelompok kata serapan yang baku adalah…",
+    "options": [
+      "Analisis, kuitansi, sertifikat",
+      "Analisa, kwitansi, sertifikat",
+      "Analisa, kuitansi, sertipikat",
+      "Analisis, kwitansi, sertipikat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Baku: analisis, kuitansi, sertifikat.",
+    "source": {
+      "title": "Pedoman Umum Ejaan Bahasa Indonesia (EYD Edisi V) dan KBBI",
+      "reference": "KBBI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-baku-4",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan yang baku adalah…",
+    "options": [
+      "Apotik, praktik, jadual",
+      "Apotik, praktek, jadual",
+      "Apotek, praktik, jadwal",
+      "Apotek, praktek, jadwal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Baku: apotek, praktik, jadwal.",
+    "source": {
+      "title": "Pedoman Umum Ejaan Bahasa Indonesia (EYD Edisi V) dan KBBI",
+      "reference": "KBBI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-eyd-v",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Pedoman ejaan bahasa Indonesia yang berlaku sejak 2022 adalah…",
+    "options": [
+      "Ejaan Van Ophuijsen",
+      "PUEBI",
+      "Ejaan Soewandi",
+      "EYD Edisi V"
+    ],
+    "answerIndex": 3,
+    "explanation": "EYD Edisi V menggantikan PUEBI.",
+    "source": {
+      "title": "Pedoman Umum Ejaan Bahasa Indonesia (EYD Edisi V) dan KBBI",
+      "reference": "EYD Edisi V"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-kata-depan-ke",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan yang benar adalah…",
+    "options": [
+      "Kemana-mana kamu pergi?",
+      "Ke mana kamu pergi?",
+      "Ke-mana kamu pergi?",
+      "Kemana kamu pergi?"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"Ke\" sebagai kata depan ditulis terpisah: ke mana, ke luar kota. Kecuali kata yang sudah padu seperti \"kepada\" dan \"keluar\" (verba).",
+    "source": {
+      "title": "Pedoman Umum Ejaan Bahasa Indonesia (EYD Edisi V) dan KBBI",
+      "reference": "EYD"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-sidang-bpupki",
+    "type": "mnemonic",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "visual": {
+      "template": "bigtype",
+      "text": "Ya-So-Soe",
+      "sub": "29, 31 Mei, 1 Juni 1945"
+    },
+    "caption": "Urutan pidato dasar negara di sidang pertama BPUPKI.",
+    "phrase": "Ya-So-Soe",
+    "expansion": [
+      "Yamin: 29 Mei 1945",
+      "Soepomo: 31 Mei 1945",
+      "Soekarno: 1 Juni 1945 (istilah Pancasila)"
+    ],
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku teks sejarah)",
+      "reference": "Sejarah perumusan Pancasila"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": "tiu-kpk-lampu-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Tiga lampu berkedip setiap 12, 18, dan 30 detik. Jika berkedip bersamaan sekarang, mereka berkedip bersamaan lagi setelah…",
+    "options": [
+      "360 detik",
+      "180 detik",
+      "6480 detik",
+      "90 detik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cari KPK(12, 18, 30) = 180 detik.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "KPK"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kpk-lampu-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Tiga lampu berkedip setiap 8, 12, dan 20 detik. Jika berkedip bersamaan sekarang, mereka berkedip bersamaan lagi setelah…",
+    "options": [
+      "1920 detik",
+      "60 detik",
+      "120 detik",
+      "240 detik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cari KPK(8, 12, 20) = 120 detik.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "KPK"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kpk-lampu-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Tiga lampu berkedip setiap 6, 10, dan 15 detik. Jika berkedip bersamaan sekarang, mereka berkedip bersamaan lagi setelah…",
+    "options": [
+      "30 detik",
+      "15 detik",
+      "900 detik",
+      "60 detik"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cari KPK(6, 10, 15) = 30 detik.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "KPK"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-fpb-bingkisan-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "48 buku dan 72 pensil dibagi sama banyak ke sejumlah bingkisan tanpa sisa. Jumlah bingkisan terbanyak…",
+    "options": [
+      "120 bingkisan",
+      "48 bingkisan",
+      "24 bingkisan",
+      "12 bingkisan"
+    ],
+    "answerIndex": 2,
+    "explanation": "FPB(48, 72) = 24: tiap bingkisan berisi 2 buku dan 3 pensil.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "FPB"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-fpb-bingkisan-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "36 buku dan 60 pensil dibagi sama banyak ke sejumlah bingkisan tanpa sisa. Jumlah bingkisan terbanyak…",
+    "options": [
+      "24 bingkisan",
+      "96 bingkisan",
+      "12 bingkisan",
+      "6 bingkisan"
+    ],
+    "answerIndex": 2,
+    "explanation": "FPB(36, 60) = 12: tiap bingkisan berisi 3 buku dan 5 pensil.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "FPB"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-fpb-bingkisan-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "84 buku dan 126 pensil dibagi sama banyak ke sejumlah bingkisan tanpa sisa. Jumlah bingkisan terbanyak…",
+    "options": [
+      "21 bingkisan",
+      "210 bingkisan",
+      "84 bingkisan",
+      "42 bingkisan"
+    ],
+    "answerIndex": 3,
+    "explanation": "FPB(84, 126) = 42: tiap bingkisan berisi 2 buku dan 3 pensil.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "FPB"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-bunga-tunggal-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Tabungan Rp2.000.000 dengan bunga tunggal 6% per tahun. Besar bunga setelah 3 tahun…",
+    "options": [
+      "Rp720.000",
+      "Rp120.000",
+      "Rp360.000",
+      "Rp480.000"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bunga = Rp2.000.000 x 6% x 3 = Rp360.000.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Bunga tunggal"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-bunga-tunggal-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Tabungan Rp5.000.000 dengan bunga tunggal 8% per tahun. Besar bunga setelah 2 tahun…",
+    "options": [
+      "Rp800.000",
+      "Rp400.000",
+      "Rp1.200.000",
+      "Rp1.600.000"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bunga = Rp5.000.000 x 8% x 2 = Rp800.000.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Bunga tunggal"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-persen-ubah-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Nilai berubah dari 40000 menjadi 50000. Persentase perubahannya…",
+    "options": [
+      "20%",
+      "30%",
+      "50%",
+      "25%"
+    ],
+    "answerIndex": 3,
+    "explanation": "Perubahan dibagi nilai AWAL: |50000-40000| / 40000 x 100% = 25% (naik). Jangan membagi dengan nilai akhir.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-persen-ubah-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Nilai berubah dari 250 menjadi 200. Persentase perubahannya…",
+    "options": [
+      "25%",
+      "40%",
+      "20%",
+      "30%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Perubahan dibagi nilai AWAL: |200-250| / 250 x 100% = 20% (turun). Jangan membagi dengan nilai akhir.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-persen-ubah-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Nilai berubah dari 80 menjadi 100. Persentase perubahannya…",
+    "options": [
+      "50%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Perubahan dibagi nilai AWAL: |100-80| / 80 x 100% = 25% (naik). Jangan membagi dengan nilai akhir.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-papasan-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Dua kendaraan berangkat bersamaan dari kota yang berjarak 210 km dan saling mendekat, kecepatan 40 dan 30 km/jam. Mereka berpapasan setelah…",
+    "options": [
+      "2 jam",
+      "3 jam",
+      "4 jam",
+      "21 jam"
+    ],
+    "answerIndex": 1,
+    "explanation": "Saling mendekat: kecepatan dijumlah. 210 / (40+30) = 3 jam.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-papasan-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Dua kendaraan berangkat bersamaan dari kota yang berjarak 360 km dan saling mendekat, kecepatan 50 dan 70 km/jam. Mereka berpapasan setelah…",
+    "options": [
+      "3 jam",
+      "4 jam",
+      "2 jam",
+      "18 jam"
+    ],
+    "answerIndex": 0,
+    "explanation": "Saling mendekat: kecepatan dijumlah. 360 / (50+70) = 3 jam.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-umur-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Umur ayah 3 kali umur anak, dan selisih umur mereka 24 tahun. Umur anak 6 tahun lagi…",
+    "options": [
+      "12 tahun",
+      "20 tahun",
+      "18 tahun",
+      "42 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayah - anak = (3-1) x anak = 24, jadi anak = 12. 6 tahun lagi: 18.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Umur"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-umur-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Umur ayah 2 kali umur anak, dan selisih umur mereka 20 tahun. Umur anak 5 tahun lagi…",
+    "options": [
+      "45 tahun",
+      "25 tahun",
+      "20 tahun",
+      "27 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayah - anak = (2-1) x anak = 20, jadi anak = 20. 5 tahun lagi: 25.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Umur"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-diagonal-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Persegi panjang berukuran 12 x 5 cm. Panjang diagonalnya…",
+    "options": [
+      "14 cm",
+      "17 cm",
+      "11 cm",
+      "13 cm"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pythagoras: √(12² + 5²) = √169 = 13 cm.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Geometri"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-diagonal-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Persegi panjang berukuran 20 x 15 cm. Panjang diagonalnya…",
+    "options": [
+      "26 cm",
+      "35 cm",
+      "25 cm",
+      "23 cm"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pythagoras: √(20² + 15²) = √625 = 25 cm.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Geometri"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kombinasi-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Dari 5 orang akan dipilih 2 orang sebagai tim (urutan tidak penting). Banyak cara…",
+    "options": [
+      "15",
+      "11",
+      "10",
+      "20"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kombinasi C(5,2) = 10. Jika urutan penting (permutasi) hasilnya 20.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kombinatorik"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kombinasi-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Dari 6 orang akan dipilih 3 orang sebagai tim (urutan tidak penting). Banyak cara…",
+    "options": [
+      "18",
+      "20",
+      "26",
+      "120"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kombinasi C(6,3) = 20. Jika urutan penting (permutasi) hasilnya 120.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kombinatorik"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kombinasi-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Dari 7 orang akan dipilih 2 orang sebagai tim (urutan tidak penting). Banyak cara…",
+    "options": [
+      "28",
+      "21",
+      "14",
+      "42"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kombinasi C(7,2) = 21. Jika urutan penting (permutasi) hasilnya 42.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kombinatorik"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-peluang-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Kantong berisi 3 bola merah dan 5 bola biru. Peluang terambil satu bola merah…",
+    "options": [
+      "1/2",
+      "3/8",
+      "5/8",
+      "3/5"
+    ],
+    "answerIndex": 1,
+    "explanation": "Peluang = merah / total = 3/8.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Peluang"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-peluang-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Kantong berisi 4 bola merah dan 6 bola biru. Peluang terambil satu bola merah…",
+    "options": [
+      "2/5",
+      "2/3",
+      "1/2",
+      "3/5"
+    ],
+    "answerIndex": 0,
+    "explanation": "Peluang = merah / total = 4/10 = 2/5.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Peluang"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pangkat-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Nilai 3² + 4³ = …",
+    "options": [
+      "18",
+      "74",
+      "73",
+      "49"
+    ],
+    "answerIndex": 2,
+    "explanation": "3² = 9; 4³ = 64; jumlah 73.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Pangkat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pangkat-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Nilai 2² + 5³ = …",
+    "options": [
+      "19",
+      "130",
+      "49",
+      "129"
+    ],
+    "answerIndex": 3,
+    "explanation": "2² = 4; 5³ = 125; jumlah 129.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Pangkat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

@@ -554,5 +554,543 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-tugas-asn",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Manakah yang BUKAN tugas Pegawai ASN menurut Pasal 11 UU 20/2023?",
+    "options": [
+      "Melaksanakan kebijakan publik yang dibuat PPK",
+      "Membuat undang-undang bersama DPR",
+      "Mempererat persatuan dan kesatuan NKRI",
+      "Memberikan pelayanan publik yang profesional"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11: ASN bertugas (a) melaksanakan kebijakan publik yang dibuat oleh Pejabat Pembina Kepegawaian, (b) memberikan pelayanan publik yang profesional dan berkualitas, (c) mempererat persatuan dan kesatuan NKRI.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 11",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-peran-asn",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Menurut Pasal 12, Pegawai ASN berperan sebagai…",
+    "options": [
+      "Perencana, pelaksana, dan pengawas",
+      "Regulator, operator, dan evaluator",
+      "Pemimpin, pelayan, dan teladan",
+      "Penggerak, fasilitator, dan mediator"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 12: perencana, pelaksana, dan pengawas penyelenggaraan tugas umum pemerintahan dan pembangunan nasional, bebas dari intervensi politik dan bersih dari KKN.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 12",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-tni-polri",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Menurut Pasal 19 ayat (2), jabatan ASN tertentu dapat diisi dari…",
+    "options": [
+      "Anggota partai politik terdaftar",
+      "Tenaga ahli asing berkontrak",
+      "Prajurit TNI dan anggota Polri",
+      "Pegawai BUMN dan BUMD"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 19: jabatan ASN diisi dari Pegawai ASN; jabatan ASN tertentu dapat diisi dari prajurit TNI dan anggota Polri, dilaksanakan pada Instansi Pusat (ayat (3)).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 19",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-tni-polri-instansi",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Pengisian jabatan ASN tertentu oleh prajurit TNI/anggota Polri menurut Pasal 19 ayat (3) dilaksanakan pada…",
+    "options": [
+      "Semua Instansi Pemerintah",
+      "Instansi Daerah kabupaten/kota",
+      "Instansi Pusat",
+      "Instansi Daerah provinsi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 19 ayat (3): dilaksanakan pada Instansi Pusat sebagaimana diatur dalam UU TNI dan UU Polri.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 19 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-komponen-penghargaan",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Manakah yang TIDAK disebut sebagai komponen penghargaan dan pengakuan Pegawai ASN dalam Pasal 21 ayat (2)?",
+    "options": [
+      "Lingkungan kerja fisik/nonfisik",
+      "Bantuan hukum litigasi/nonlitigasi",
+      "Saham instansi",
+      "Pengembangan diri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 21 ayat (2): penghasilan; penghargaan yang bersifat motivasi; tunjangan dan fasilitas; jaminan sosial; lingkungan kerja; pengembangan diri; bantuan hukum.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 21 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-penghasilan",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Pasal 21 ayat (3): penghasilan Pegawai ASN dapat berupa…",
+    "options": [
+      "Tunjangan atau bonus",
+      "Gaji dan honorarium",
+      "Upah dan insentif kinerja",
+      "Gaji atau upah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penghasilan dapat berupa (a) gaji atau (b) upah.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 21 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-presiden-tertinggi",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Menurut Pasal 26 ayat (1), pemegang kekuasaan tertinggi dalam kebijakan, pembinaan profesi, dan Manajemen ASN adalah…",
+    "options": [
+      "Pejabat Pembina Kepegawaian",
+      "Kepala BKN",
+      "Menteri PANRB",
+      "Presiden"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 26 ayat (1): Presiden selaku pemegang kekuasaan pemerintahan. Sebagian kewenangannya didelegasikan kepada kementerian/lembaga (ayat (2)).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 26 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-manajemen-merit",
+    "type": "review",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "front": "Manajemen ASN meliputi apa, dan diselenggarakan berdasarkan apa? (Pasal 27)",
+    "back": "Manajemen ASN meliputi manajemen PNS dan manajemen PPPK, dan diselenggarakan berdasarkan Sistem Merit.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 27",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-delegasi-ppk",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Pasal 29 ayat (1): Presiden dapat mendelegasikan kewenangan pengangkatan, pemindahan, dan pemberhentian pejabat (selain JPT utama, JPT madya, dan fungsional tertinggi) di kabupaten kepada…",
+    "options": [
+      "Gubernur",
+      "Kepala BKD kabupaten",
+      "Bupati",
+      "Sekretaris daerah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 29 ayat (1) huruf e: bupati/walikota di kabupaten/kota. Untuk provinsi: gubernur; kementerian: menteri; LPNK: pimpinan lembaga.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 29 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-ppk-merit",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Menurut Pasal 29 ayat (2), Pejabat Pembina Kepegawaian dalam melaksanakan kewenangannya wajib melaksanakan…",
+    "options": [
+      "Kuota per daerah",
+      "Asas senioritas",
+      "Sistem Merit",
+      "Rekomendasi DPRD"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 29 ayat (2): PPK wajib melaksanakan Sistem Merit dalam pelaksanaan kewenangannya.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 29 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-pengumuman-terbuka",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Pasal 36: setiap Instansi Pemerintah wajib berbuat apa terkait kebutuhan jabatan yang akan diisi dari calon Pegawai ASN?",
+    "options": [
+      "Merahasiakan sampai seleksi",
+      "Mengumumkan secara terbuka",
+      "Mengisi lewat penunjukan langsung",
+      "Mendahulukan pegawai honorer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 36: setiap Instansi Pemerintah mengumumkan secara terbuka adanya kebutuhan jabatan untuk diisi dari calon Pegawai ASN.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 36",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-kesempatan-sama",
+    "type": "review",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "front": "Siapa yang berhak menjadi Pegawai ASN menurut Pasal 37?",
+    "back": "Setiap warga negara Indonesia mempunyai kesempatan yang sama untuk menjadi Pegawai ASN setelah memenuhi persyaratan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 37",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-kompetensi-wajib",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Menurut Pasal 49 ayat (1), pengembangan kompetensi melalui pembelajaran terus-menerus bagi Pegawai ASN bersifat…",
+    "options": [
+      "Sukarela",
+      "Hanya bagi pejabat",
+      "Wajib",
+      "Hanya bagi PPPK"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 49 ayat (1): setiap Pegawai ASN wajib melakukan pengembangan kompetensi melalui pembelajaran secara terus menerus agar tetap relevan dengan tuntutan organisasi.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 49 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-prinsip-penghargaan",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Pasal 50 ayat (1): komponen penghargaan dan pengakuan ASN diberikan secara…",
+    "options": [
+      "Sesuai kemampuan instansi",
+      "Sama rata untuk semua",
+      "Berdasarkan masa kerja saja",
+      "Adil, layak, dan kompetitif"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 50 ayat (1): adil, layak, dan kompetitif. Pendanaan dari APBN untuk Instansi Pusat dan APBD untuk Instansi Daerah (ayat (2)-(3)).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 50",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-dana-daerah",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Penghargaan dan pengakuan bagi Pegawai ASN di Instansi Daerah didanai dari… (Pasal 50 ayat (3))",
+    "options": [
+      "APBN",
+      "APBD",
+      "Dana desa",
+      "Iuran pegawai"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 50: Instansi Pusat bersumber dari APBN (ayat (2)); Instansi Daerah bersumber dari APBD (ayat (3)).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 50 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-aps",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Menurut Pasal 52 ayat (2), pemberhentian atas permintaan sendiri dilakukan apabila Pegawai ASN…",
+    "options": [
+      "Tidak berkinerja",
+      "Mengundurkan diri",
+      "Terdampak perampingan",
+      "Mencapai batas usia pensiun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 52 ayat (2). Batas usia pensiun, tidak berkinerja, dan perampingan organisasi termasuk pemberhentian tidak atas permintaan sendiri (ayat (3)).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 52 ayat (1)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-berhenti-sementara",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Manakah yang TIDAK menjadi alasan PNS diberhentikan sementara menurut Pasal 53 ayat (1)?",
+    "options": [
+      "Mendapat hukuman disiplin ringan",
+      "Diangkat menjadi pejabat negara",
+      "Diangkat menjadi komisioner lembaga nonstruktural",
+      "Menjalani cuti di luar tanggungan negara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 53 ayat (1): diangkat menjadi pejabat negara; diangkat menjadi komisioner/anggota lembaga nonstruktural; menjalani cuti di luar tanggungan negara. Ayat (2): ASN yang ditahan sebagai tersangka/terdakwa juga diberhentikan sementara.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 53",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-ditahan",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Pegawai ASN ditahan karena menjadi tersangka. Menurut Pasal 53 ayat (2), ia…",
+    "options": [
+      "Diberhentikan sementara",
+      "Langsung diberhentikan tidak dengan hormat",
+      "Tetap bekerja seperti biasa",
+      "Dimutasi ke instansi lain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 53 ayat (2): ASN yang ditahan karena menjadi tersangka atau terdakwa diberhentikan sementara untuk mendukung proses hukum. Pengaktifan kembali oleh PPK (ayat (3)).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 53 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-jpt-pilkada",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "JPT pratama akan mencalonkan diri menjadi bupati. Menurut Pasal 56, ia wajib menyatakan pengunduran diri secara tertulis dari PNS sejak…",
+    "options": [
+      "Mendaftar ke partai pengusung",
+      "Dilantik sebagai bupati",
+      "Menang dalam pemungutan suara",
+      "Ditetapkan sebagai calon"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 56: JPT madya dan JPT pratama yang akan mencalonkan diri menjadi gubernur/wakil, bupati/walikota/wakil wajib menyatakan pengunduran diri secara tertulis dari PNS sejak ditetapkan sebagai calon.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 56",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-pejabat-negara-bukan",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Manakah yang TIDAK termasuk pejabat negara menurut daftar Pasal 58 UU ASN?",
+    "options": [
+      "Ketua KPK",
+      "Anggota Komisi Yudisial",
+      "Hakim agung",
+      "Hakim ad hoc"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 58 huruf e menyebut hakim pada semua badan peradilan KECUALI hakim ad hoc. Untuk KPK yang disebut hanya ketua dan wakil ketua (huruf i).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 58",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-tidak-menjabat-lagi",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "PNS selesai menjabat sebagai pejabat negara dan tidak ada lowongan jabatan ASN. Menurut Pasal 60 ayat (2), paling lambat berapa lama sebelum ia diberhentikan dengan hormat?",
+    "options": [
+      "5 tahun",
+      "1 tahun",
+      "3 tahun",
+      "2 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 60: ia dapat menduduki jabatan ASN sepanjang tersedia lowongan; bila tidak tersedia dalam waktu paling lambat 5 (lima) tahun, ia diberhentikan dengan hormat.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 60",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-organisasi-profesi",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Pasal 62 ayat (1): Pegawai ASN berhimpun dalam…",
+    "options": [
+      "Partai politik pilihannya",
+      "Organisasi profesi ASN",
+      "Serikat pekerja nasional",
+      "Koperasi pegawai negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 62 ayat (1). Tujuannya antara lain menjaga kode etik profesi, mewujudkan jiwa korps ASN sebagai pemersatu bangsa, dan meningkatkan kolaborasi (ayat (2)).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 62",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-digitalisasi",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Menurut Pasal 63 ayat (4), digitalisasi Manajemen ASN wajib memperhatikan prinsip keberlangsungan, kerahasiaan, dan…",
+    "options": [
+      "Keamanan siber",
+      "Keterbukaan data penuh",
+      "Biaya serendah mungkin",
+      "Kecepatan internet"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 63 ayat (4): keberlangsungan, kerahasiaan, dan keamanan siber sesuai ketentuan peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 63 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

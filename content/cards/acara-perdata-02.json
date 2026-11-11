@@ -287,5 +287,461 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-wewenang-ma",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Manakah yang BUKAN tugas dan wewenang MA menurut Pasal 28 ayat (1) UU MA?",
+    "options": [
+      "Memeriksa perkara tingkat banding",
+      "Memutus permohonan peninjauan kembali",
+      "Memutus permohonan kasasi",
+      "Memutus sengketa kewenangan mengadili"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 28 ayat (1): kasasi, sengketa tentang kewenangan mengadili, dan peninjauan kembali. Banding diperiksa pengadilan tingkat banding.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 28 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-alasan-kasasi",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Manakah yang BUKAN alasan MA membatalkan putusan di tingkat kasasi menurut Pasal 30?",
+    "options": [
+      "Salah menerapkan atau melanggar hukum",
+      "Lalai memenuhi syarat yang diancam batal",
+      "Tidak berwenang atau melampaui wewenang",
+      "Hakim keliru menilai fakta dan bukti"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 30 ayat (1): (a) tidak berwenang/melampaui batas wewenang, (b) salah menerapkan atau melanggar hukum, (c) lalai memenuhi syarat yang diancam batal. Penilaian ulang fakta tidak termasuk; kasasi memeriksa penerapan hukum (judex juris).",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 30",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-dissenting",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 30 ayat (3) (diubah UU 5/2004), bila musyawarah majelis kasasi tidak mencapai mufakat bulat, pendapat hakim agung yang berbeda…",
+    "options": [
+      "Dirahasiakan dalam arsip",
+      "Wajib dimuat dalam putusan",
+      "Dibacakan tapi tidak dimuat",
+      "Diputus ulang oleh Ketua MA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 30 ayat (2)-(3) versi UU 5/2004: setiap hakim agung wajib menyampaikan pertimbangan/pendapat tertulis, dan pendapat yang berbeda (dissenting opinion) wajib dimuat dalam putusan.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 30 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-majelis-ma",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 40 ayat (1), MA memeriksa dan memutus dengan sekurang-kurangnya…",
+    "options": [
+      "3 hakim",
+      "7 hakim",
+      "5 hakim",
+      "1 hakim"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 40: sekurang-kurangnya 3 (tiga) orang hakim; putusan diucapkan dalam sidang terbuka untuk umum.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 40",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-syarat-banding-dulu",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 43 ayat (1), permohonan kasasi hanya dapat diajukan jika pemohon…",
+    "options": [
+      "Sudah melunasi biaya eksekusi",
+      "Sudah menempuh banding",
+      "Sudah mengajukan verzet",
+      "Sudah mencoba mediasi ulang"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 43: kasasi hanya jika pemohon telah menggunakan upaya hukum banding, kecuali ditentukan lain oleh Undang-Undang; dan hanya dapat diajukan 1 (satu) kali.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 43",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-kdkh",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Kasasi demi kepentingan hukum dalam perkara perdata menurut Pasal 45 dapat diajukan oleh…",
+    "options": [
+      "Komisi Yudisial",
+      "Pihak yang kalah dalam perkara",
+      "Jaksa Agung karena jabatannya",
+      "Ketua Pengadilan Tinggi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 45 ayat (1)-(3): oleh Jaksa Agung karena jabatannya, hanya 1 kali, dan putusannya tidak boleh merugikan pihak yang berperkara.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 45",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-kdkh-akibat",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Putusan kasasi demi kepentingan hukum menurut Pasal 45 ayat (3)…",
+    "options": [
+      "Membatalkan eksekusi yang sudah jalan",
+      "Mengikat sebagai yurisprudensi tetap",
+      "Tidak boleh merugikan pihak berperkara",
+      "Hanya berlaku bila disetujui para pihak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 45 ayat (3): putusan kasasi demi kepentingan hukum tidak boleh merugikan pihak yang berperkara.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 45 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-45a-tun",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Pasal 45A (sisipan UU 5/2004) membatasi kasasi untuk perkara TUN yang objek gugatannya berupa…",
+    "options": [
+      "Keputusan pejabat daerah, berlaku lokal",
+      "Keputusan presiden tentang kepegawaian",
+      "Keputusan menteri yang berlaku nasional",
+      "Semua keputusan fiktif-positif"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 45A ayat (2): dikecualikan dari kasasi (a) putusan praperadilan, (b) pidana dengan ancaman penjara paling lama 1 tahun dan/atau denda, (c) TUN yang objeknya keputusan pejabat daerah yang jangkauannya berlaku di wilayah daerah itu.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 45A ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-45a-penetapan",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Kasasi diajukan atas perkara yang dikecualikan Pasal 45A. Menurut ayat (3), permohonan itu…",
+    "options": [
+      "Diperiksa ulang oleh pengadilan tinggi",
+      "Tidak dapat diterima lewat penetapan",
+      "Dialihkan menjadi permohonan PK oleh MA",
+      "Tetap dikirim dan diputus MA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 45A ayat (3): dinyatakan tidak dapat diterima dengan penetapan ketua pengadilan tingkat pertama dan berkasnya tidak dikirimkan ke MA.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 45A ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-cabut-kasasi",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Pemohon mencabut permohonan kasasi sebelum diputus, padahal tenggang waktu kasasi belum lewat. Menurut Pasal 49 ayat (1), ia…",
+    "options": [
+      "Dapat mengajukan ulang sebelum lewat waktu",
+      "Tidak dapat mengajukan kasasi lagi",
+      "Otomatis dianggap mengajukan PK",
+      "Dapat mengajukan ulang dengan izin ketua PN"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 49 ayat (1): setelah dicabut, pemohon tidak dapat lagi mengajukan kasasi dalam perkara itu meskipun tenggang waktu kasasi belum lampau.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 49",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-periksa-surat",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 50 ayat (1), pemeriksaan kasasi dilakukan MA berdasarkan…",
+    "options": [
+      "Sidang pembuktian ulang",
+      "Surat-surat (berkas)",
+      "Keterangan ahli wajib",
+      "Pemeriksaan setempat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 50 ayat (1): berdasarkan surat-surat; hanya jika dipandang perlu MA mendengar sendiri para pihak/saksi atau memerintahkan pengadilan bawah mendengarnya.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 50",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-tidak-terikat",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 52, dalam mengambil putusan MA terikat pada alasan-alasan pemohon kasasi?",
+    "options": [
+      "Tidak; boleh memakai alasan hukum lain",
+      "Ya; kecuali disetujui termohon",
+      "Ya; hanya alasan dalam memori kasasi",
+      "Tidak; tetapi hanya untuk perkara pidana"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 52: MA tidak terikat pada alasan-alasan yang diajukan oleh pemohon kasasi dan dapat memakai alasan-alasan hukum lain.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 52",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-pk-eksekusi",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 66 ayat (2), apakah permohonan PK menangguhkan pelaksanaan putusan?",
+    "options": [
+      "Tidak menangguhkan eksekusi",
+      "Ya, otomatis menangguhkan",
+      "Ya, bila ada jaminan uang tunai",
+      "Hanya bila diajukan dalam 30 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 66: PK hanya 1 kali (ayat (1)), tidak menangguhkan/menghentikan pelaksanaan putusan (ayat (2)), dan bila dicabut tidak dapat diajukan lagi (ayat (3)).",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 66",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-alasan-pk-bukan",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Manakah yang BUKAN alasan PK perkara perdata menurut Pasal 67?",
+    "options": [
+      "Terdapat kekhilafan hakim yang nyata",
+      "Pemohon menemukan pengacara yang lebih baik",
+      "Dikabulkan hal yang tidak dituntut",
+      "Ditemukan surat bukti yang bersifat menentukan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 67 huruf a–f: kebohongan/tipu muslihat atau bukti yang dinyatakan palsu; novum; ultra petita; bagian tuntutan belum diputus; putusan saling bertentangan; kekhilafan hakim atau kekeliruan nyata.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 67",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-pk-ultra-petita",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Putusan berkekuatan hukum tetap mengabulkan lebih dari yang dituntut. Menurut Pasal 67, ini dapat menjadi alasan…",
+    "options": [
+      "Peninjauan kembali (huruf c)",
+      "Banding luar biasa",
+      "Perlawanan pihak ketiga",
+      "Kasasi demi kepentingan hukum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 67 huruf c: apabila telah dikabulkan suatu hal yang tidak dituntut atau lebih dari pada yang dituntut.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 67 huruf c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-pk-ahli-waris",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Pemohon PK meninggal dunia saat proses PK berjalan. Menurut Pasal 68 ayat (2)…",
+    "options": [
+      "Harus diajukan ulang dari awal",
+      "Dapat dilanjutkan ahli waris",
+      "Jaksa Agung mengambil alih",
+      "Permohonan otomatis gugur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 68: PK diajukan sendiri oleh para pihak, ahli warisnya, atau wakil yang dikuasakan khusus; bila pemohon meninggal, dapat dilanjutkan oleh ahli warisnya.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 68",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-pk-melalui",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Permohonan PK perkara perdata diajukan kepada MA melalui… (Pasal 70 ayat (1))",
+    "options": [
+      "Ketua Kamar Perdata di MA",
+      "Ketua PN tingkat pertama",
+      "Ketua Pengadilan Tinggi",
+      "Panitera MA secara langsung saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 70 ayat (1): melalui Ketua Pengadilan Negeri yang memutus perkara dalam tingkat pertama, dengan membayar biaya perkara. MA memutus PK pada tingkat pertama dan terakhir (ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 70",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-jawaban-pk",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "PK diajukan dengan alasan novum (Pasal 67 huruf b). Menurut Pasal 72 ayat (2), pihak lawan dapat mengajukan jawaban dalam…",
+    "options": [
+      "14 hari sejak menerima salinan",
+      "7 hari sejak menerima salinan",
+      "180 hari sejak menerima salinan",
+      "30 hari sejak menerima salinan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 72: panitera mengirim salinan permohonan kepada lawan paling lambat 14 hari; untuk alasan huruf a atau b, lawan dapat menjawab dalam 30 hari setelah menerima salinan.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 72",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ma-pk-dikabulkan",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 74 ayat (1), jika MA mengabulkan PK, MA…",
+    "options": [
+      "Mengembalikan perkara ke PN",
+      "Memerintahkan sidang ulang di PT",
+      "Hanya menyatakan putusannya keliru",
+      "Membatalkan dan memutus sendiri"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 74 ayat (1): MA membatalkan putusan yang dimohonkan PK lalu memeriksa serta memutus sendiri perkaranya. Bila tidak beralasan, PK ditolak (ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana diubah UU 5/2004 dan UU 3/2009)",
+      "reference": "Pasal 74",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-1985"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

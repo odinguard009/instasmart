@@ -235,5 +235,578 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-ganti-rugi-7-hari",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Menurut Pasal 19 ayat (3), pemberian ganti rugi kepada konsumen dilaksanakan dalam tenggang waktu…",
+    "options": [
+      "7 hari setelah tanggal transaksi",
+      "14 hari setelah barang diterima",
+      "3 hari kerja setelah pengaduan",
+      "30 hari setelah tanggal transaksi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 19 ayat (3): 7 (tujuh) hari setelah tanggal transaksi. Bentuknya (ayat (2)): pengembalian uang, penggantian barang/jasa sejenis atau setara, perawatan kesehatan, dan/atau santunan.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 19 ayat (2)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-ganti-rugi-tak-hapus-pidana",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Pelaku usaha sudah membayar ganti rugi kepada konsumen. Bagaimana dengan kemungkinan tuntutan pidananya?",
+    "options": [
+      "Pidana diganti sanksi administratif BPSK",
+      "Tidak menghapus kemungkinan tuntutan pidana",
+      "Tuntutan pidana otomatis gugur",
+      "Pidana hanya dapat dituntut atas aduan konsumen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 19 ayat (4): ganti rugi tidak menghapuskan kemungkinan tuntutan pidana berdasarkan pembuktian lebih lanjut mengenai unsur kesalahan. Sejalan dengan Pasal 45 ayat (3) untuk penyelesaian di luar pengadilan.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 19 ayat (4), Pasal 45 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-kesalahan-konsumen",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Kewajiban ganti rugi menurut Pasal 19 ayat (1)-(2) tidak berlaku bila pelaku usaha dapat membuktikan bahwa kesalahan itu merupakan…",
+    "options": [
+      "Kesalahan konsumen",
+      "Kerusakan setelah masa garansi",
+      "Kesalahan pihak distributor",
+      "Akibat keadaan memaksa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 19 ayat (5): tidak berlaku apabila pelaku usaha dapat membuktikan bahwa kesalahan tersebut merupakan kesalahan konsumen. Beban membuktikannya ada pada pelaku usaha (lihat juga Pasal 28).",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 19 ayat (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-tempat-gugat",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Pelaku usaha menolak tuntutan ganti rugi. Menurut Pasal 23, konsumen dapat menggugat melalui BPSK atau ke badan peradilan di…",
+    "options": [
+      "Tempat kedudukan pelaku usaha",
+      "Tempat kedudukan konsumen",
+      "Tempat transaksi dilakukan",
+      "Tempat barang itu diproduksi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 23: di tempat kedudukan konsumen. Ini memudahkan konsumen dan menyimpang dari asas umum gugatan di tempat tergugat.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 23",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-luar-pengadilan-dulu",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Para pihak sudah memilih penyelesaian sengketa konsumen di luar pengadilan. Gugatan ke pengadilan baru dapat ditempuh bila…",
+    "options": [
+      "Sudah lewat 90 hari sejak pengaduan",
+      "Pelaku usaha menyetujuinya secara tertulis",
+      "Upaya itu dinyatakan tidak berhasil",
+      "Nilai kerugian melebihi Rp200 juta"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 45 ayat (4): bila upaya di luar pengadilan dinyatakan tidak berhasil oleh salah satu pihak atau oleh para pihak. Pilihan jalurnya sukarela (ayat (2)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 45 ayat (2), (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-legal-standing",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Mana yang TIDAK disebut Pasal 46 ayat (1) sebagai pihak yang dapat menggugat pelanggaran pelaku usaha?",
+    "options": [
+      "LPKSM berbadan hukum/yayasan yang memenuhi syarat",
+      "Pemerintah, bila kerugian materi besar",
+      "Sekelompok konsumen berkepentingan sama",
+      "Asosiasi pelaku usaha pesaing"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 46 ayat (1): konsumen atau ahli warisnya; sekelompok konsumen berkepentingan sama; lembaga perlindungan konsumen swadaya masyarakat (LPKSM) yang memenuhi syarat; pemerintah/instansi terkait bila kerugian materi besar dan/atau korban tidak sedikit.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 46 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-gugatan-kelompok-peradilan-umum",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Gugatan yang diajukan oleh kelompok konsumen, LPKSM, atau pemerintah (Pasal 46 ayat (1) huruf b-d) diajukan kepada…",
+    "options": [
+      "Komisi Pengawas Persaingan Usaha",
+      "BPSK setempat",
+      "Peradilan tata usaha negara",
+      "Peradilan umum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 46 ayat (2): diajukan kepada peradilan umum, bukan BPSK.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 46 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-bpsk-unsur",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Anggota BPSK terdiri atas tiga unsur, yaitu…",
+    "options": [
+      "Konsumen, pelaku usaha, kepolisian",
+      "Pemerintah, konsumen, pelaku usaha",
+      "Hakim, advokat, dan akademisi hukum",
+      "Pemerintah, DPRD, dan konsumen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 49 ayat (3)-(4): unsur pemerintah, konsumen, dan pelaku usaha; tiap unsur sedikitnya 3 dan sebanyak-banyaknya 5 orang. Pengangkatan dan pemberhentiannya ditetapkan Menteri (ayat (5)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 49 ayat (3)-(5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-bpsk-usia",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Syarat usia untuk diangkat menjadi anggota BPSK adalah sekurang-kurangnya…",
+    "options": [
+      "35 tahun",
+      "30 tahun",
+      "40 tahun",
+      "25 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 49 ayat (2) huruf f: berusia sekurang-kurangnya 30 tahun. Syarat lain: WNI, sehat, berkelakuan baik, tidak pernah dihukum karena kejahatan, berpengetahuan dan berpengalaman di bidang perlindungan konsumen.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 49 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-majelis-bpsk",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Majelis BPSK yang menangani sengketa konsumen berjumlah…",
+    "options": [
+      "Lima orang, semuanya unsur pemerintah",
+      "Satu arbiter tunggal pilihan para pihak",
+      "Genap, minimal 2: konsumen dan pelaku usaha",
+      "Ganjil, minimal 3, mewakili semua unsur"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 54 ayat (2): ganjil dan sedikit-dikitnya 3 orang yang mewakili semua unsur, dibantu seorang panitera. Ayat (3): putusan majelis bersifat final dan mengikat.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 54 ayat (1)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-bpsk-laksana-7-hari",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Sejak menerima putusan BPSK, pelaku usaha wajib melaksanakannya paling lambat…",
+    "options": [
+      "21 hari kerja",
+      "3 hari kerja",
+      "14 hari kerja",
+      "7 hari kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 56 ayat (1): 7 hari kerja. Jangan tertukar dengan tenggat keberatan ke PN: 14 hari kerja (ayat (2)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 56 ayat (1)-(2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-keberatan-14-hari",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Keberatan atas putusan BPSK diajukan ke Pengadilan Negeri paling lambat… setelah menerima pemberitahuan putusan.",
+    "options": [
+      "7 hari kerja",
+      "14 hari kerja",
+      "21 hari kalender",
+      "30 hari kalender"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 56 ayat (2): 14 hari kerja. Pelaku usaha yang tidak mengajukan keberatan dalam tenggat itu dianggap menerima putusan (ayat (3)). Tata cara keberatan juga diatur PERMA; cek versi yang berlaku.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 56 ayat (2)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-putusan-ke-penyidik",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Pelaku usaha tidak mengajukan keberatan dan tidak melaksanakan putusan BPSK. Langkah BPSK menurut Pasal 56 ayat (4)…",
+    "options": [
+      "Menyita sendiri seluruh harta pelaku usaha",
+      "Menyerahkan putusan kepada penyidik",
+      "Menjatuhkan pidana denda langsung",
+      "Mencabut izin usaha pelaku usaha"
+    ],
+    "answerIndex": 1,
+    "explanation": "BPSK menyerahkan putusan kepada penyidik; putusan itu menjadi bukti permulaan yang cukup untuk penyidikan (Pasal 56 ayat (4)-(5)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 56 ayat (4)-(5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-pn-21-hari",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Pengadilan Negeri wajib memutus keberatan atas putusan BPSK paling lambat…",
+    "options": [
+      "21 hari sejak keberatan diterima",
+      "50 hari kerja sejak sidang pertama",
+      "30 hari sejak keberatan diterima",
+      "14 hari sejak keberatan diterima"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 58: PN 21 hari; kasasi diajukan paling lambat 14 hari; MA memutus paling lambat 30 hari sejak menerima permohonan kasasi.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 58",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-sanksi-admin-200",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Sanksi administratif yang dapat dijatuhkan BPSK berupa penetapan ganti rugi paling banyak…",
+    "options": [
+      "Rp200 juta",
+      "Rp500 juta",
+      "Rp50 juta",
+      "Rp2 miliar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 60 ayat (2): paling banyak Rp200.000.000,00, untuk pelanggaran Pasal 19 ayat (2)-(3), Pasal 20, 25, dan 26.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 60",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-klausula-tersembunyi",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Klausula baku dicetak sangat kecil di balik tiket sehingga sulit dibaca. Menurut Pasal 18, klausula itu…",
+    "options": [
+      "Sah karena konsumen sudah membeli tiket",
+      "Dapat dibatalkan atas permintaan konsumen",
+      "Batal demi hukum",
+      "Sah, tetapi pelaku usaha ditegur BPSK"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 18 ayat (2) melarang klausula baku yang letak/bentuknya sulit terlihat, tidak dapat dibaca jelas, atau sulit dimengerti; ayat (3) menyatakannya batal demi hukum.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 18 ayat (2)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-klausula-angsuran",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Klausula: \"Pembeli memberi kuasa kepada penjual untuk melakukan segala tindakan sepihak atas barang bila angsuran terlambat.\" Menurut Pasal 18 ayat (1)…",
+    "options": [
+      "Hanya dilarang untuk barang di atas Rp10 juta",
+      "Sah karena sudah disepakati",
+      "Sah bila dicetak dengan huruf tebal",
+      "Dilarang dan batal demi hukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 18 ayat (1) huruf d melarang klausula baku yang memberi kuasa dari konsumen kepada pelaku usaha untuk segala tindakan sepihak atas barang yang dibeli secara angsuran; ayat (3): batal demi hukum.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 18 ayat (1) huruf d, ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-kewajiban-konsumen",
+    "type": "review",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "front": "Empat kewajiban konsumen menurut Pasal 5 UU 8/1999?",
+    "back": "1) Membaca/mengikuti petunjuk informasi dan prosedur pemakaian demi keamanan dan keselamatan; 2) beritikad baik dalam bertransaksi; 3) membayar sesuai nilai tukar yang disepakati; 4) mengikuti upaya penyelesaian hukum sengketa konsumen secara patut.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-hak-pelaku-usaha",
+    "type": "review",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "front": "Hak pelaku usaha bila terbukti kerugian konsumen tidak diakibatkan barang/jasanya?",
+    "back": "Hak untuk rehabilitasi nama baik (Pasal 6 huruf d). Hak lain: menerima pembayaran sesuai kesepakatan, perlindungan dari konsumen beritikad tidak baik, dan membela diri sepatutnya dalam penyelesaian sengketa.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-siapa-boleh-gugat",
+    "type": "fact",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "infographic",
+      "title": "Yang dapat menggugat (Pasal 46)",
+      "points": [
+        "Konsumen/ahli warisnya",
+        "Kelompok konsumen",
+        "LPKSM yang memenuhi syarat",
+        "Pemerintah: kerugian besar"
+      ]
+    },
+    "caption": "Selain konsumen sendiri, UU 8/1999 membuka gugatan kelompok, gugatan LPKSM (berbadan hukum/yayasan, tujuan perlindungan konsumen tegas di anggaran dasar, dan sudah berkegiatan), dan gugatan pemerintah. Tiga yang terakhir diajukan ke peradilan umum (Pasal 46 ayat (2)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 46",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-alur-bpsk",
+    "type": "carousel",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 8/1999",
+          "title": "Alur sengketa di BPSK",
+          "subtitle": "dari pengaduan sampai kasasi",
+          "character": "gecko",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Di BPSK",
+          "points": [
+            "Mediasi/konsiliasi/arbitrase",
+            "Majelis ganjil, minimal 3",
+            "Putusan final dan mengikat"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Setelah putusan",
+          "points": [
+            "Laksanakan: 7 hari kerja",
+            "Keberatan PN: 14 hari kerja",
+            "PN memutus: 21 hari",
+            "Kasasi: 14 hari",
+            "MA memutus: 30 hari"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Pelaku usaha tidak keberatan dalam 14 hari kerja dan tidak melaksanakan putusan BPSK. Yang terjadi…",
+        "options": [
+          "BPSK mengeksekusi sendiri",
+          "Putusan BPSK gugur",
+          "Putusan diserahkan ke penyidik",
+          "Sengketa diulang dari awal"
+        ],
+        "answerIndex": 2,
+        "explanation": "Pasal 56 ayat (3)-(5): ia dianggap menerima putusan; bila tidak dijalankan, BPSK menyerahkannya ke penyidik sebagai bukti permulaan yang cukup."
+      }
+    ],
+    "caption": "Peta jalur sengketa konsumen lewat BPSK. Pasal 54 ayat (3) menyebut putusan majelis final dan mengikat, tetapi Pasal 56 ayat (2) tetap membuka keberatan ke PN; ketegangan ini sering dibahas dalam literatur.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 52, 54, 56, 58",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-humor-huruf-semut",
+    "type": "humor",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "comic",
+      "title": "Huruf semut",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Syarat dan ketentuan ada di balik tiket. Hurufnya mini sekali."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 18 ayat (2): letak/bentuk sulit terlihat itu dilarang."
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Dan ayat (3): klausulanya batal demi hukum."
+        }
+      ]
+    },
+    "caption": "Mencetak klausula baku dengan huruf semut tidak membuatnya berlaku. UU Perlindungan Konsumen melarang klausula yang sulit terlihat, tidak terbaca jelas, atau sulit dimengerti.",
+    "teaches": "Klausula baku yang letak/bentuknya sulit terlihat, tidak dapat dibaca jelas, atau sulit dimengerti dilarang dan batal demi hukum (Pasal 18 ayat (2)-(3) UU 8/1999).",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 18 ayat (2)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

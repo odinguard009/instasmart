@@ -211,5 +211,529 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-majelis-tiga",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Menurut Pasal 11 ayat (1) UU 48/2009, pengadilan memeriksa dan memutus perkara dengan majelis…",
+    "options": [
+      "Tepat 5 hakim",
+      "Satu hakim tunggal",
+      "Sekurang-kurangnya 2 hakim",
+      "Sekurang-kurangnya 3 hakim"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sekurang-kurangnya 3 orang hakim (seorang hakim ketua dan dua hakim anggota), kecuali undang-undang menentukan lain. Pengecualian semacam itu ada, misalnya hakim tunggal dalam acara tertentu; lihat undang-undang acaranya.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 11 ayat (1)-(2)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-penuntut-umum-hadir",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Dalam perkara pidana, selain majelis dan panitera, siapa yang wajib hadir menurut Pasal 11 ayat (4)?",
+    "options": [
+      "Penyidik perkara",
+      "Penuntut umum",
+      "Saksi korban",
+      "Advokat terdakwa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11 ayat (4): dalam perkara pidana wajib hadir pula seorang penuntut umum, kecuali undang-undang menentukan lain. Hakim juga dibantu panitera (ayat (3)).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 11 ayat (3)-(4)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-ma-uji-peraturan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Putusan MA tentang tidak sahnya peraturan di bawah undang-undang dapat diambil melalui…",
+    "options": [
+      "Hanya pemeriksaan kasasi",
+      "Hanya permohonan dari pemerintah daerah",
+      "Kasasi maupun permohonan langsung",
+      "Hanya permohonan langsung"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20 ayat (3): dapat diambil baik berhubungan dengan pemeriksaan tingkat kasasi maupun berdasarkan permohonan langsung kepada MA. Yang diuji: peraturan di bawah UU terhadap UU (ayat (2) huruf b).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 20 ayat (2)-(3)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-pk-atas-pk",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Menurut Pasal 24 ayat (2) UU 48/2009, terhadap putusan peninjauan kembali…",
+    "options": [
+      "Dapat diajukan PK sekali lagi oleh ahli waris",
+      "Dapat diajukan banding",
+      "Dapat diajukan kasasi",
+      "Tidak dapat diajukan PK lagi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Rumusan Pasal 24 ayat (2): terhadap putusan PK tidak dapat dilakukan PK. Untuk perkara pidana, soal PK lebih dari sekali pernah diperkarakan di Mahkamah Konstitusi dan kini juga diatur KUHAP baru (UU 20/2025); cek sumbernya sebelum menjawab soal pidana.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 24",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-banding-bebas",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Pasal 26 ayat (2) UU 48/2009 mengecualikan dari banding putusan tingkat pertama yang berupa…",
+    "options": [
+      "Putusan pemidanaan",
+      "Putusan bebas atau lepas",
+      "Putusan pidana denda",
+      "Putusan pidana bersyarat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Yang dapat dibanding adalah putusan yang tidak merupakan pembebasan dari dakwaan atau putusan lepas dari segala tuntutan hukum. Upaya hukum atas putusan bebas kini juga diatur KUHAP baru (UU 20/2025); cocokkan dengan kutipan KUHAP 2025.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 26",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-hakim-pejabat-negara",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Status hakim pada pengadilan di bawah Mahkamah Agung menurut Pasal 31 ayat (1) adalah…",
+    "options": [
+      "Pegawai pemerintah kontrak",
+      "Pejabat negara",
+      "Pejabat struktural",
+      "Pegawai negeri sipil"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hakim adalah pejabat negara yang melaksanakan kekuasaan kehakiman, dan tidak dapat merangkap jabatan kecuali undang-undang menentukan lain (ayat (2)). Pasal 19 juga menyebut hakim dan hakim konstitusi sebagai pejabat negara.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 19, Pasal 31",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-ky-analisis-putusan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Komisi Yudisial dapat menganalisis putusan berkekuatan hukum tetap sebagai dasar rekomendasi untuk…",
+    "options": [
+      "Membatalkan putusan",
+      "Mengajukan PK",
+      "Mutasi hakim",
+      "Menghentikan perkara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 42: dalam rangka menjaga kehormatan, keluhuran martabat, dan perilaku hakim. Analisis itu tidak mengubah putusannya.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 42",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-eksekusi-pidana",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Pelaksanaan putusan pengadilan dalam perkara pidana dilakukan oleh…",
+    "options": [
+      "Panitera",
+      "Ketua pengadilan",
+      "Jaksa",
+      "Juru sita"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 54 ayat (1). Putusan perdata dilaksanakan panitera dan juru sita dipimpin ketua pengadilan (ayat (2)).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 54",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-eksekusi-perdata",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Pelaksanaan putusan perkara perdata menurut Pasal 54 ayat (2) dilakukan oleh…",
+    "options": [
+      "Kepolisian atas permohonan pihak yang menang perkara",
+      "Jaksa pengacara negara",
+      "Hakim yang memutus perkara",
+      "Panitera dan juru sita dipimpin ketua pengadilan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Panitera dan juru sita, dipimpin ketua pengadilan. Putusan dilaksanakan dengan memperhatikan nilai kemanusiaan dan keadilan (ayat (3)).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 54",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-pengawas-eksekusi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Siapa yang wajib mengawasi pelaksanaan putusan berkekuatan hukum tetap menurut Pasal 55?",
+    "options": [
+      "Panitera muda perdata",
+      "Komisi Yudisial",
+      "Jaksa Agung",
+      "Ketua pengadilan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 55 ayat (1): ketua pengadilan wajib mengawasi pelaksanaan putusan pengadilan yang telah memperoleh kekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 55",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-posbakum",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Bantuan hukum dari pos bantuan hukum diberikan cuma-cuma pada semua tingkat peradilan sampai…",
+    "options": [
+      "Perkara dilimpahkan ke pengadilan",
+      "Pemeriksaan tingkat banding selesai diputus",
+      "Putusan berkekuatan hukum tetap",
+      "Putusan tingkat pertama dibacakan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 57 ayat (2). Pos bantuan hukum dibentuk pada setiap pengadilan negeri untuk pencari keadilan yang tidak mampu (ayat (1)); negara menanggung biaya perkara bagi yang tidak mampu (Pasal 56 ayat (2)).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 56, Pasal 57",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-arbitrase-eksekusi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Jika pihak tidak melaksanakan putusan arbitrase secara sukarela, putusan dilaksanakan berdasarkan…",
+    "options": [
+      "Perintah ketua pengadilan negeri",
+      "Penetapan arbiter sendiri",
+      "Perintah badan arbitrase nasional",
+      "Putusan Mahkamah Agung"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 59 ayat (3): atas permohonan salah satu pihak. Putusan arbitrase bersifat final, berkekuatan hukum tetap, dan mengikat para pihak (ayat (2)).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 59",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-bukan-aps",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Manakah yang TIDAK disebut Pasal 60 ayat (1) sebagai cara alternatif penyelesaian sengketa?",
+    "options": [
+      "Penilaian ahli",
+      "Arbitrase",
+      "Negosiasi",
+      "Konsultasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "APS: konsultasi, negosiasi, mediasi, konsiliasi, atau penilaian ahli. Arbitrase disebut terpisah (Pasal 58-59): sengketa perdata di luar pengadilan dapat diselesaikan melalui arbitrase ATAU APS.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 58, Pasal 60",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-dasar-pidana",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Menurut Pasal 6 ayat (2), seseorang dapat dijatuhi pidana bila pengadilan, karena alat pembuktian yang sah, mendapat…",
+    "options": [
+      "Persetujuan korban",
+      "Pengakuan terdakwa",
+      "Tuntutan penuntut umum yang didukung laporan polisi",
+      "Keyakinan bahwa ia bersalah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Keyakinan bahwa orang yang dianggap dapat bertanggung jawab telah bersalah atas perbuatan yang didakwakan. Ketentuan pembuktian rinci ada di hukum acara pidana (kini KUHAP baru, UU 20/2025).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 6",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-salah-tangkap",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Orang yang ditangkap atau diadili karena kekeliruan mengenai orangnya berhak menuntut…",
+    "options": [
+      "Grasi dari Presiden",
+      "Remisi dan pembebasan bersyarat",
+      "Amnesti",
+      "Ganti kerugian dan rehabilitasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 9 ayat (1); juga bila tanpa alasan berdasarkan undang-undang atau keliru mengenai hukum yang diterapkan. Pejabat yang sengaja melakukannya dipidana sesuai peraturan (ayat (2)).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 9",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-upaya-paksa-tertulis",
+    "type": "review",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "front": "Syarat penangkapan, penahanan, penggeledahan, dan penyitaan menurut Pasal 7 UU 48/2009?",
+    "back": "Hanya atas perintah tertulis dari kekuasaan yang sah, dalam hal dan menurut cara yang diatur dalam undang-undang.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 7",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-akses-putusan",
+    "type": "review",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "front": "Dua kewajiban pengadilan soal informasi putusan (Pasal 52 UU 48/2009)?",
+    "back": "Memberi akses kepada masyarakat atas informasi putusan dan biaya perkara; menyampaikan salinan putusan kepada para pihak dalam jangka waktu menurut peraturan. Dalam perkara pidana, putusan juga disampaikan ke instansi pelaksana putusan.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 52",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-pelaksana-putusan",
+    "type": "fact",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "infographic",
+      "title": "Siapa melaksanakan putusan?",
+      "points": [
+        "Pidana: jaksa",
+        "Perdata: panitera & juru sita",
+        "Eksekusi perdata dipimpin ketua PN",
+        "Pengawas: ketua pengadilan"
+      ]
+    },
+    "caption": "Pasal 54-55 UU 48/2009. Putusan dilaksanakan dengan memperhatikan nilai kemanusiaan dan keadilan; ketua pengadilan wajib mengawasi pelaksanaan putusan yang berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 54, Pasal 55",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-luar-pengadilan",
+    "type": "carousel",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Pasal 58-60 UU 48/2009",
+          "title": "Sengketa perdata di luar pengadilan",
+          "subtitle": "arbitrase atau APS",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Arbitrase",
+          "points": [
+            "Perjanjian tertulis",
+            "Putusan final & mengikat",
+            "Tak sukarela: perintah ketua PN"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Alternatif penyelesaian",
+          "points": [
+            "Konsultasi, negosiasi",
+            "Mediasi, konsiliasi",
+            "Penilaian ahli",
+            "Hasil: kesepakatan tertulis"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Kesepakatan tertulis hasil mediasi di luar pengadilan bersifat…",
+        "options": [
+          "Hanya saran",
+          "Final dan mengikat",
+          "Wajib disahkan MA",
+          "Bisa dibanding"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pasal 60 ayat (3): final dan mengikat para pihak untuk dilaksanakan dengan itikad baik."
+      }
+    ],
+    "caption": "Dua jalur penyelesaian sengketa perdata di luar pengadilan negara menurut UU Kekuasaan Kehakiman. Rincian arbitrase ada di undang-undang arbitrase tersendiri.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 58, 59, 60",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-humor-majelis-tiga",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Majelis hakim",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Kenapa hakimnya tiga orang?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Pasal 11: sekurang-kurangnya tiga."
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Ketua satu, anggota dua. Pas!"
+        }
+      ]
+    },
+    "caption": "Bukan soal kursi yang tersedia. Susunan majelis diatur undang-undang: sekurang-kurangnya tiga hakim, satu ketua dan dua anggota, kecuali undang-undang menentukan lain.",
+    "teaches": "Pengadilan memeriksa dan memutus perkara dengan majelis sekurang-kurangnya 3 hakim (1 ketua, 2 anggota), kecuali undang-undang menentukan lain (Pasal 11 UU 48/2009).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 11",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

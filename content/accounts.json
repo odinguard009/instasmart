@@ -190,5 +190,17 @@
     "displayName": "Data Pribadi",
     "character": "gecko",
     "bio": "Akun fiktif. Hukum siber dan pelindungan data pribadi."
+  },
+  {
+    "username": "saldo.aman",
+    "displayName": "Saldo Aman",
+    "character": "owl",
+    "bio": "Akun fiktif. Hukum perbankan dan pasar modal."
+  },
+  {
+    "username": "rekam.medis",
+    "displayName": "Rekam Medis",
+    "character": "cat",
+    "bio": "Akun fiktif. Hukum kesehatan: hak pasien dan tanggung jawab tenaga medis."
   }
 ]

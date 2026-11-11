@@ -1,0 +1,279 @@
+[
+  {
+    "id": "kesehatan-omnibus-kesehatan",
+    "type": "fact",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "UU 17/2023 (omnibus)",
+      "text": "Satu UU menggantikan banyak UU",
+      "sub": "Antara lain mencabut UU Kesehatan 2009, UU Praktik Kedokteran, UU Rumah Sakit, UU Tenaga Kesehatan."
+    },
+    "caption": "UU Kesehatan 2023 disusun dengan metode omnibus. Jika bukumu masih mengutip UU 29/2004 tentang Praktik Kedokteran, itu versi lama. Cek daftar lengkap UU yang dicabut di ketentuan penutup.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Ketentuan penutup"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-informed-consent",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Sebelum operasi, dokter menjelaskan diagnosis, tindakan, risiko, dan alternatifnya, lalu pasien menyetujui. Ini disebut…",
+    "options": [
+      "Rujukan berjenjang antarfasilitas kesehatan",
+      "Pendapat kedua (second opinion)",
+      "Rekam medis elektronik pasien",
+      "Persetujuan tindakan (informed consent)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Persetujuan tindakan diberikan setelah pasien mendapat penjelasan yang cukup. Untuk tindakan berisiko tinggi, persetujuan diberikan secara tertulis.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Ketentuan persetujuan tindakan pelayanan kesehatan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-rahasia-rekam-medis",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Isi rekam medis pada asasnya…",
+    "options": [
+      "Hanya rahasia bila pasien pejabat",
+      "Boleh dibagikan ke pemberi kerja pasien",
+      "Milik umum setelah pasien sembuh",
+      "Wajib dijaga kerahasiaannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Rekam medis wajib dijaga kerahasiaannya. Pembukaannya hanya dalam keadaan tertentu, mis. atas persetujuan pasien, untuk kepentingan penegakan hukum, atau perintah undang-undang.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Ketentuan rekam medis dan rahasia kesehatan pasien"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-inspanning",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Perikatan antara dokter dan pasien pada umumnya merupakan perikatan…",
+    "options": [
+      "Tanggung renteng (hoofdelijk)",
+      "Upaya (inspanningsverbintenis)",
+      "Alternatif (alternatieve verbintenis)",
+      "Hasil (resultaatsverbintenis)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dokter berjanji berupaya sebaik-baiknya sesuai standar profesi, bukan menjamin kesembuhan. Karena itu ukuran kelalaiannya adalah penyimpangan dari standar, bukan sekadar hasil yang buruk.",
+    "source": {
+      "title": "Doktrin hukum kesehatan",
+      "reference": "Doktrin hukum kesehatan (perikatan terapeutik)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-tiga-jalur",
+    "type": "fact",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "visual": {
+      "template": "infographic",
+      "title": "Dugaan kelalaian medis: jalurnya",
+      "points": [
+        "Disiplin profesi: majelis disiplin",
+        "Etik: organisasi profesi",
+        "Perdata: gugatan ganti rugi (wanprestasi/PMH)",
+        "Pidana: bila ada unsur tindak pidana"
+      ]
+    },
+    "caption": "Jalur-jalur ini bisa berjalan terpisah. UU 17/2023 mengatur penegakan disiplin oleh majelis yang dibentuk menurut UU itu; cek nama dan kewenangannya di teks UU.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Ketentuan penegakan disiplin dan penyelesaian perselisihan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-transaksi-terapeutik",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Hubungan hukum antara dokter dan pasien dalam pelayanan medis lazim disebut…",
+    "options": [
+      "Hubungan kerja",
+      "Perjanjian pemborongan",
+      "Transaksi terapeutik",
+      "Perjanjian penanggungan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Transaksi terapeutik: perjanjian untuk mencari atau menemukan upaya penyembuhan yang tepat. Objeknya upaya, bukan hasil.",
+    "source": {
+      "title": "Doktrin hukum kesehatan",
+      "reference": "Doktrin hukum kesehatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-gawat-darurat",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasien gawat darurat datang ke rumah sakit tanpa membawa uang. Rumah sakit…",
+    "options": [
+      "Boleh meminta uang muka dulu",
+      "Hanya wajib bila pasien peserta BPJS",
+      "Boleh merujuk tanpa pertolongan pertama",
+      "Dilarang menolak dan meminta uang muka"
+    ],
+    "answerIndex": 3,
+    "explanation": "Dalam keadaan gawat darurat, fasilitas pelayanan kesehatan wajib memberikan pelayanan untuk penyelamatan nyawa dan dilarang menolak pasien atau meminta uang muka.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Ketentuan pelayanan gawat darurat"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-hak-pasien",
+    "type": "fact",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "visual": {
+      "template": "infographic",
+      "title": "Beberapa hak pasien",
+      "points": [
+        "Informasi tentang kesehatannya",
+        "Penjelasan tindakan yang akan dilakukan",
+        "Menolak atau menyetujui tindakan",
+        "Pendapat kedua (second opinion)",
+        "Kerahasiaan data kesehatan"
+      ]
+    },
+    "caption": "Daftar ringkas; rumusan persis ada dalam UU 17/2023.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Ketentuan hak dan kewajiban pasien"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-tidak-jamin-sembuh",
+    "type": "humor",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "visual": {
+      "template": "comic",
+      "title": "Inspanning, bukan resultaat",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Dok, saya sudah berobat tapi belum sembuh. Saya tuntut!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Perikatannya upaya, bukan hasil. Yang diuji: sudah sesuai standar atau belum."
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Oh, jadi yang dicari kelalaiannya, bukan cuma hasilnya."
+        }
+      ]
+    },
+    "caption": "Hasil buruk tidak otomatis berarti malpraktik.",
+    "teaches": "Perikatan terapeutik adalah perikatan upaya (inspanningsverbintenis): ukurannya kepatuhan pada standar profesi dan standar pelayanan.",
+    "source": {
+      "title": "Doktrin hukum kesehatan",
+      "reference": "Doktrin hukum kesehatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-story-kesehatan-kilat",
+    "type": "story",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "title": "Hukum kesehatan kilat",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Kilat",
+          "title": "Pasien juga punya hak",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Informed consent",
+          "sub": "Setuju setelah dijelaskan; tindakan berisiko tinggi: tertulis."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Rekam medis",
+          "sub": "Rahasia, dibuka hanya dalam keadaan tertentu."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Gawat darurat",
+          "sub": "Tidak boleh ditolak dan tidak boleh diminta uang muka."
+        }
+      },
+      {
+        "visual": {
+          "template": "meme",
+          "top": "Belum sembuh = malpraktik?",
+          "bottom": "Belum tentu. Perikatannya upaya, bukan hasil.",
+          "character": "owl",
+          "expression": "think"
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "UU 17/2023 tentang Kesehatan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

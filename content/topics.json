@@ -503,6 +503,40 @@
     ]
   },
   {
+    "id": "perbankan-pasar-modal",
+    "group": "hukum",
+    "name": "Hukum Perbankan & Pasar Modal",
+    "shortName": "Bank & Pasar Modal",
+    "palette": "emas",
+    "subTopics": [
+      {
+        "id": "perbankan",
+        "name": "Perbankan, BI, OJK & LPS"
+      },
+      {
+        "id": "pasar-modal",
+        "name": "Pasar Modal"
+      }
+    ]
+  },
+  {
+    "id": "kesehatan",
+    "group": "hukum",
+    "name": "Hukum Kesehatan",
+    "shortName": "Kesehatan",
+    "palette": "mawar",
+    "subTopics": [
+      {
+        "id": "hak-pasien",
+        "name": "Hak Pasien & Rekam Medis"
+      },
+      {
+        "id": "tanggung-jawab-medis",
+        "name": "Tanggung Jawab Tenaga Medis"
+      }
+    ]
+  },
+  {
     "id": "twk",
     "group": "cpns",
     "name": "Tes Wawasan Kebangsaan (TWK)",

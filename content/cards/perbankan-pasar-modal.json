@@ -1,0 +1,310 @@
+[
+  {
+    "id": "perbankan-pasar-modal-tiga-lembaga",
+    "type": "fact",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "infographic",
+      "title": "Siapa mengurus apa?",
+      "points": [
+        "Bank Indonesia: bank sentral, kebijakan moneter, sistem pembayaran",
+        "OJK: mengatur dan mengawasi bank, pasar modal, IKNB",
+        "LPS: menjamin simpanan nasabah, resolusi bank",
+        "Kementerian Keuangan: fiskal"
+      ]
+    },
+    "caption": "Pengawasan bank (mikroprudensial) beralih dari BI ke OJK berdasarkan UU 21/2011 tentang OJK. BI tetap memegang makroprudensial dan sistem pembayaran.",
+    "source": {
+      "title": "UU No. 21 Tahun 2011 tentang Otoritas Jasa Keuangan",
+      "reference": "UU 21/2011 tentang OJK; UU BI; UU 24/2004 tentang LPS"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-pengawas-bank",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Sejak berlakunya UU 21/2011, fungsi pengaturan dan pengawasan mikroprudensial bank dijalankan oleh…",
+    "options": [
+      "Bank Indonesia",
+      "Kementerian Keuangan",
+      "Otoritas Jasa Keuangan",
+      "Lembaga Penjamin Simpanan"
+    ],
+    "answerIndex": 2,
+    "explanation": "OJK mengambil alih pengaturan dan pengawasan perbankan dari BI (efektif untuk perbankan sejak 31 Desember 2013). BI tetap menjalankan fungsi makroprudensial.",
+    "source": {
+      "title": "UU No. 21 Tahun 2011 tentang Otoritas Jasa Keuangan",
+      "reference": "Ketentuan peralihan fungsi pengawasan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-rahasia-bank",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Rahasia bank menurut UU Perbankan adalah segala sesuatu yang berhubungan dengan keterangan mengenai…",
+    "options": [
+      "Laporan keuangan tahunan bank",
+      "Seluruh nasabah dan semua utangnya",
+      "Direksi dan komisaris bank",
+      "Nasabah penyimpan dan simpanannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sejak UU 10/1998, rahasia bank dipersempit menjadi keterangan mengenai nasabah penyimpan dan simpanannya. Pengecualian antara lain untuk kepentingan perpajakan dan peradilan pidana dengan izin yang ditentukan.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah UU No. 10 Tahun 1998 (dan UU 4/2023 tentang P2SK)",
+      "reference": "Pasal 1 angka 28 dan Pasal 40"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-penjaminan-lps",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Nilai simpanan yang dijamin LPS untuk setiap nasabah pada satu bank paling banyak…",
+    "options": [
+      "Rp100 juta",
+      "Tanpa batas",
+      "Rp500 juta",
+      "Rp2 miliar"
+    ],
+    "answerIndex": 3,
+    "explanation": "Rp2 miliar per nasabah per bank, ditetapkan sejak 2008. Simpanan juga harus memenuhi syarat layak bayar, antara lain tingkat bunganya tidak melebihi tingkat bunga penjaminan LPS.",
+    "source": {
+      "title": "UU No. 24 Tahun 2004 tentang LPS; PP No. 66 Tahun 2008",
+      "reference": "Nilai penjaminan simpanan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-prinsip-kehati-hatian",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Bank wajib menjalankan usaha secara sehat dan tidak merugikan kepentingan bank serta nasabah. Prinsip ini disebut…",
+    "options": [
+      "Prinsip mengenal nasabah",
+      "Prinsip kehati-hatian",
+      "Prinsip kebebasan berkontrak",
+      "Prinsip itikad baik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Prinsip kehati-hatian (prudential banking) adalah prinsip utama usaha bank. Prinsip mengenal nasabah (KYC) adalah bagian dari penerapan anti pencucian uang.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah UU No. 10 Tahun 1998 (dan UU 4/2023 tentang P2SK)",
+      "reference": "Pasal 2 dan Pasal 29"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-dual-banking",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Indonesia menganut dual banking system, artinya…",
+    "options": [
+      "Ada bank pusat di Jakarta dan bank pembangunan daerah",
+      "Bank konvensional dan syariah beroperasi berdampingan",
+      "Bank umum wajib memegang dua izin usaha sekaligus",
+      "Bank milik negara dan bank milik asing bersaing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bank konvensional dan bank berdasarkan prinsip syariah beroperasi berdampingan. Perbankan syariah diatur khusus dalam UU 21/2008.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah UU No. 10 Tahun 1998 (dan UU 4/2023 tentang P2SK)",
+      "reference": "UU 10/1998 dan UU 21/2008 tentang Perbankan Syariah"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-bi-tujuan",
+    "type": "fact",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Bank Indonesia",
+      "text": "Tujuan BI: stabilitas",
+      "sub": "Stabilitas nilai rupiah, stabilitas sistem pembayaran, dan turut menjaga stabilitas sistem keuangan."
+    },
+    "caption": "Rumusan tujuan BI diperluas oleh UU P2SK (UU 4/2023). Dulu, menurut UU 23/1999 jo. UU 3/2004, tujuannya tunggal: mencapai dan memelihara kestabilan nilai rupiah. Cek rumusan persisnya.",
+    "source": {
+      "title": "UU No. 23 Tahun 1999 tentang Bank Indonesia sebagaimana diubah, terakhir dengan UU 4/2023 (P2SK)",
+      "reference": "Tujuan Bank Indonesia"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-insider-trading",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Direktur emiten membeli saham perusahaannya sendiri setelah mengetahui informasi akuisisi yang belum diumumkan. Perbuatan ini disebut…",
+    "options": [
+      "Manipulasi pasar",
+      "Pembelian kembali saham",
+      "Penawaran umum terbatas",
+      "Perdagangan orang dalam"
+    ],
+    "answerIndex": 3,
+    "explanation": "Perdagangan orang dalam (insider trading): orang dalam yang memiliki informasi orang dalam dilarang bertransaksi efek emiten tersebut. Bersama penipuan dan manipulasi pasar, ini kejahatan pasar modal.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal (sebagaimana diubah UU 4/2023 tentang P2SK)",
+      "reference": "Bab XI tentang penipuan, manipulasi pasar, dan perdagangan orang dalam"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-sro-pasar-modal",
+    "type": "fact",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "infographic",
+      "title": "Tiga SRO pasar modal",
+      "points": [
+        "Bursa Efek (BEI): tempat transaksi",
+        "Lembaga Kliring dan Penjaminan (KPEI)",
+        "Lembaga Penyimpanan dan Penyelesaian (KSEI)"
+      ]
+    },
+    "caption": "SRO (self-regulatory organization) berwenang membuat aturan bagi anggotanya, di bawah pengawasan OJK.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal (sebagaimana diubah UU 4/2023 tentang P2SK)",
+      "reference": "Ketentuan bursa efek, LKP, dan LPP"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-prospektus",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Dokumen tertulis berisi informasi emiten yang wajib tersedia agar investor dapat membeli efek dalam penawaran umum disebut…",
+    "options": [
+      "Surat kolektif saham",
+      "Laporan tahunan",
+      "Akta pendirian",
+      "Prospektus"
+    ],
+    "answerIndex": 3,
+    "explanation": "Prospektus mewujudkan prinsip keterbukaan (full disclosure). Informasi yang menyesatkan dalam prospektus dapat menimbulkan tanggung jawab perdata dan pidana.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal (sebagaimana diubah UU 4/2023 tentang P2SK)",
+      "reference": "Ketentuan prospektus dan keterbukaan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-lps-dua-m",
+    "type": "humor",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "meme",
+      "top": "Saldo Rp3 miliar di satu bank",
+      "bottom": "LPS: \"Yang dijamin cuma Rp2 miliar, Bos.\"",
+      "character": "owl",
+      "expression": "shock"
+    },
+    "caption": "Penjaminan LPS ada batasnya per nasabah per bank.",
+    "teaches": "Simpanan dijamin LPS paling banyak Rp2 miliar per nasabah per bank, dan harus memenuhi syarat layak bayar.",
+    "source": {
+      "title": "UU No. 24 Tahun 2004 tentang LPS; PP No. 66 Tahun 2008",
+      "reference": "Nilai penjaminan simpanan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-story-bank-kilat",
+    "type": "story",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "title": "Bank & pasar modal kilat",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Kilat",
+          "title": "Uang, bank, saham",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "BI",
+          "sub": "Bank sentral: moneter dan sistem pembayaran."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "OJK",
+          "sub": "Mengawasi bank, pasar modal, dan IKNB."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "LPS",
+          "sub": "Menjamin simpanan sampai Rp2 miliar per nasabah per bank."
+        }
+      },
+      {
+        "visual": {
+          "template": "meme",
+          "top": "Info akuisisi belum diumumkan, beli saham?",
+          "bottom": "Itu insider trading.",
+          "character": "kancil",
+          "expression": "smug"
+        }
+      }
+    ],
+    "source": {
+      "title": "Peraturan sektor jasa keuangan",
+      "reference": "UU OJK, UU LPS, UU Pasar Modal"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

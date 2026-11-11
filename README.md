@@ -18,7 +18,7 @@ Instasmart mengubah kebiasaan doom-scrolling menjadi smart-scrolling. Tampilanny
 | Favorit | Koleksi pribadi (disukai/disimpan) per topik |
 | Profil | Streak, statistik, akurasi per sub-topik, topik terlemah, pengaturan, cadangan JSON, pintu ke Review |
 
-Topik (31): ilmu hukum (pengantar ilmu hukum, perdata, acara perdata, pidana KUHP Nasional, acara pidana KUHAP baru, pidana khusus, HTN, HAN & PTUN, perundang-undangan, etika hakim, keluarga & waris, peradilan agama, peradilan anak, peradilan militer, dagang & bisnis, internasional, HAM, agraria, ketenagakerjaan, lingkungan, adat, HKI, konsumen & persaingan, pemilu, pajak, siber & PDP, wawasan kebangsaan) dan CPNS (TWK, TIU, TKP, ASN & seleksi). Kedalaman tiap topik berbeda; lihat peta cakupan di `ROADMAP.md`.
+Topik (33): ilmu hukum (pengantar ilmu hukum, perdata, acara perdata, pidana KUHP Nasional, acara pidana KUHAP baru, pidana khusus, HTN, HAN & PTUN, perundang-undangan, etika hakim, keluarga & waris, peradilan agama, peradilan anak, peradilan militer, dagang & bisnis, internasional, HAM, agraria, ketenagakerjaan, lingkungan, adat, HKI, konsumen & persaingan, pemilu, pajak, siber & PDP, perbankan & pasar modal, hukum kesehatan, wawasan kebangsaan) dan CPNS (TWK, TIU, TKP, ASN & seleksi). Kedalaman tiap topik berbeda; lihat peta cakupan di `ROADMAP.md`.
 
 ## Menjalankan di komputer
 

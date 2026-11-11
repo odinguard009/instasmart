@@ -506,5 +506,503 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-bendera-perbandingan",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Menurut Pasal 4 ayat (1) UU 24/2009, lebar Bendera Negara adalah…",
+    "options": [
+      "Sama dengan panjang",
+      "3/4 dari panjang",
+      "2/3 dari panjang",
+      "1/2 dari panjang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Empat persegi panjang, lebar 2/3 dari panjang; merah di atas, putih di bawah, kedua bagian berukuran sama; kainnya tidak luntur (ayat (2)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 4 ayat (1)-(2)",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-bendera-istana",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Ukuran Bendera Negara untuk lapangan istana kepresidenan adalah…",
+    "options": [
+      "150 cm x 225 cm",
+      "120 cm x 180 cm",
+      "200 cm x 300 cm",
+      "100 cm x 150 cm"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 4 ayat (3): istana 200 x 300 cm; lapangan umum 120 x 180 cm; ruangan, kapal, kereta api 100 x 150 cm; meja 10 x 15 cm.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 4 ayat (3)",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-bendera-pusaka",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Bendera Pusaka Sang Saka Merah Putih menurut Pasal 5 ayat (2) disimpan dan dipelihara di…",
+    "options": [
+      "Monumen Nasional Jakarta",
+      "Gedung Joang 45",
+      "Museum Perumusan Naskah Proklamasi",
+      "Istana Merdeka"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 5: bendera yang dikibarkan saat Proklamasi di Jalan Pegangsaan Timur 56 disebut Bendera Pusaka dan disimpan di Monumen Nasional Jakarta.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 5",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-waktu-kibar",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Pengibaran Bendera Negara pada asasnya dilakukan pada waktu…",
+    "options": [
+      "Pukul 06.00 sampai 18.00 WIB",
+      "Matahari terbit sampai terbenam",
+      "Hanya saat upacara bendera berlangsung",
+      "Sepanjang hari, 24 jam penuh"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 7 ayat (1); dalam keadaan tertentu boleh malam hari (ayat (2)). Tiap 17 Agustus wajib dikibarkan oleh warga yang menguasai rumah, gedung, kantor, sekolah, dan kendaraan (ayat (3)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 7",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-setengah-tiang-presiden",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Presiden meninggal dunia. Bendera dikibarkan setengah tiang di seluruh Indonesia selama…",
+    "options": [
+      "40 hari",
+      "7 hari berturut-turut",
+      "3 hari berturut-turut",
+      "1 hari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 12 ayat (6): tiga hari berturut-turut di seluruh wilayah RI dan semua perwakilan RI di luar negeri.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 12 ayat (6)",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-setengah-tiang-menteri",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Seorang menteri meninggal dunia. Bendera setengah tiang dikibarkan…",
+    "options": [
+      "1 hari, di seluruh Indonesia",
+      "3 hari, di seluruh Indonesia",
+      "7 hari, terbatas di kantornya",
+      "2 hari, terbatas di kantornya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 12 ayat (7): pimpinan lembaga negara dan menteri/pejabat setingkat menteri: dua hari berturut-turut, terbatas pada gedung/kantor pejabat itu. Anggota lembaga negara, kepala daerah, pimpinan DPRD: satu hari (ayat (8)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 12 ayat (7)-(8)",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-berdampingan-satu",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Bendera Merah Putih dikibarkan berdampingan dengan SATU bendera negara lain. Merah Putih ditempatkan di…",
+    "options": [
+      "Posisi lebih tinggi",
+      "Sebelah kiri",
+      "Barisan depan",
+      "Sebelah kanan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 17 ayat (2) huruf a: di sebelah kanan. Ukuran bendera seimbang dan tiangnya sama (ayat (1)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 17",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-berdampingan-genap",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Merah Putih dikibarkan sebaris dengan bendera negara lain, dan jumlah semua bendera GENAP. Merah Putih ditempatkan…",
+    "options": [
+      "Di tengah sebelah kiri",
+      "Di tengah sebelah kanan",
+      "Di ujung paling kanan barisan",
+      "Paling kiri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 17 ayat (2) huruf b: ganjil di tengah; genap di tengah sebelah kanan. Dalam acara internasional yang dihadiri kepala negara/pemerintahan dapat mengikuti kebiasaan internasional (ayat (3)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 17",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-larangan-bendera",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Mana yang TIDAK termasuk larangan Pasal 24 UU 24/2009?",
+    "options": [
+      "Mengibarkan bendera yang kusam",
+      "Menulis huruf atau gambar pada Bendera",
+      "Mengibarkannya di rumah saat 17 Agustus",
+      "Memakai Bendera Negara untuk iklan komersial"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mengibarkan di rumah tiap 17 Agustus justru wajib (Pasal 7 ayat (3)). Pasal 24 melarang antara lain menodai bendera, memakainya untuk reklame/iklan komersial, mengibarkan bendera rusak/robek/luntur/kusut/kusam, menulisi atau memasang benda padanya, dan memakainya sebagai atap atau pembungkus barang.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 7, 24",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-bahasa-sumpah-pemuda",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Bahasa Indonesia sebagai bahasa resmi negara menurut Pasal 25 ayat (1) bersumber dari bahasa yang diikrarkan dalam…",
+    "options": [
+      "Sidang BPUPKI 1945",
+      "Proklamasi 17 Agustus 1945",
+      "Sumpah Pemuda 28 Oktober 1928",
+      "Kongres Bahasa Indonesia I 1938"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 25 ayat (1): Sumpah Pemuda 28 Oktober 1928, sebagai bahasa persatuan. Fungsinya: jati diri bangsa, kebanggaan nasional, pemersatu suku bangsa, sarana komunikasi antardaerah (ayat (2)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 25",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-mou-asing",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Nota kesepahaman antara lembaga negara RI dan pihak asing ditulis dalam…",
+    "options": [
+      "Indonesia, plus bahasa asing itu/Inggris",
+      "Bahasa Indonesia saja",
+      "Bahasa pihak asing saja",
+      "Bahasa Inggris saja, sebagai bahasa internasional"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 31: wajib bahasa Indonesia, dan karena melibatkan pihak asing ditulis juga dalam bahasa nasional pihak asing dan/atau bahasa Inggris.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 31",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-forum-internasional",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Dalam forum internasional yang diselenggarakan DI INDONESIA, penggunaan bahasa Indonesia…",
+    "options": [
+      "Wajib",
+      "Hanya untuk pembukaan",
+      "Dapat (boleh)",
+      "Dilarang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 32: wajib dalam forum nasional dan forum internasional di Indonesia (ayat (1)); untuk forum internasional di luar negeri: dapat (ayat (2)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 32",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-nama-geografi",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Menurut Pasal 36 ayat (2), satu nama geografi di Indonesia memiliki…",
+    "options": [
+      "2 nama: Indonesia dan daerah",
+      "3 nama resmi",
+      "1 nama resmi",
+      "Nama resmi bebas jumlahnya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hanya satu nama resmi. Nama bangunan, jalan, permukiman, dan sebagainya wajib berbahasa Indonesia, tetapi dapat memakai bahasa daerah/asing bila bernilai sejarah, budaya, adat, atau keagamaan (ayat (3)-(4)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 36",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-lagu-diiringi-musik",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Lagu Kebangsaan yang diiringi alat musik dinyanyikan…",
+    "options": [
+      "Satu strofe + sekali ulang refrein",
+      "Refrein saja",
+      "Stanza pertama saja, tanpa ulangan",
+      "Lengkap tiga stanza"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 60 ayat (2): lengkap satu strofe, satu kali ulangan pada refrein. Tanpa alat musik: lengkap stanza pertama, satu kali ulangan pada bait ketiga stanza pertama (ayat (3)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 60",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-lagu-wajib",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Lagu Kebangsaan WAJIB diperdengarkan/dinyanyikan dalam…",
+    "options": [
+      "Pernyataan rasa kebangsaan",
+      "Program pendidikan dan pengajaran",
+      "Kegiatan olahraga internasional",
+      "Acara resmi partai politik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 59 ayat (1) huruf f. Tiga opsi lain termasuk 'dapat' (ayat (2)), bukan 'wajib'.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 59",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-bahasa-wajib",
+    "type": "review",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "front": "Sebutkan lima keadaan yang mewajibkan bahasa Indonesia menurut UU 24/2009.",
+    "back": "Antara lain: peraturan perundang-undangan (Pasal 26); dokumen resmi negara (27); pidato resmi Presiden, Wapres, pejabat negara, di dalam atau luar negeri (28); bahasa pengantar pendidikan nasional (29); pelayanan administrasi publik (30); komunikasi resmi di lingkungan kerja pemerintah dan swasta (33); rambu umum dan penunjuk jalan (38).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 26-38",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-larangan-lagu",
+    "type": "review",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "front": "Tiga larangan terkait Lagu Kebangsaan (Pasal 64)?",
+    "back": "Mengubah nada, irama, kata-kata, atau gubahan dengan maksud menghina; memperdengarkan/menyebarluaskan hasil ubahan untuk tujuan komersial; memakai Lagu Kebangsaan untuk iklan komersial. Yang hadir saat lagu diperdengarkan wajib berdiri tegak dengan sikap hormat (Pasal 62).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 62, 64",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-setengah-tiang",
+    "type": "fact",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "infographic",
+      "title": "Setengah tiang (Pasal 12)",
+      "points": [
+        "Presiden/Wapres: 3 hari",
+        "Menteri: 2 hari, kantornya",
+        "Kepala daerah: 1 hari",
+        "Wafat di LN: sejak tiba"
+      ]
+    },
+    "caption": "Lamanya bendera setengah tiang bergantung pada jabatan yang wafat. Untuk Presiden/Wapres berlaku di seluruh Indonesia dan perwakilan RI; untuk pejabat lain terbatas pada kantornya. Bila wafat di luar negeri, dihitung sejak jenazah tiba di Indonesia (ayat (9)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 12 ayat (4)-(10)",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-bendera-berdampingan",
+    "type": "carousel",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Pasal 17 UU 24/2009",
+          "title": "Merah Putih bersama bendera lain",
+          "subtitle": "di mana posisinya?",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Aturan posisi",
+          "points": [
+            "1 bendera asing: RI di kanan",
+            "Total ganjil: RI di tengah",
+            "Total genap: tengah kanan",
+            "Ukuran & tiang sama"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Ada 5 bendera dalam satu baris, termasuk Merah Putih. Posisi Merah Putih…",
+        "options": [
+          "Paling kanan",
+          "Di tengah sebelah kanan",
+          "Paling kiri",
+          "Di tengah"
+        ],
+        "answerIndex": 3,
+        "explanation": "Jumlah semua bendera ganjil (5), jadi Merah Putih di tengah (Pasal 17 ayat (2) huruf b)."
+      }
+    ],
+    "caption": "Penempatan bendera saat dikibarkan bersama bendera negara lain. Aturan yang sama berlaku dalam pawai atau defile (ayat (4)); dalam acara internasional tingkat kepala negara dapat mengikuti kebiasaan internasional (ayat (3)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 17",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-humor-bendera-kusam",
+    "type": "humor",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "meme",
+      "top": "Bendera tahun lalu, warnanya pudar",
+      "bottom": "Pasal 24: dilarang dikibarkan",
+      "character": "cat",
+      "expression": "think"
+    },
+    "caption": "Semangatnya bagus, benderanya yang perlu diganti. Bendera yang rusak, robek, luntur, kusut, atau kusam dilarang dikibarkan.",
+    "teaches": "Pasal 24 UU 24/2009 melarang mengibarkan Bendera Negara yang rusak, robek, luntur, kusut, atau kusam.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 24",
+      "url": "https://peraturan.info/uu/2009/24/isi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

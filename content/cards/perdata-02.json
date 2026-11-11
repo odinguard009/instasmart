@@ -1,0 +1,374 @@
+[
+  {
+    "id": "perdata-tiga-prestasi",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1234 KUHPerdata, bentuk prestasi dalam perikatan adalah…",
+    "options": [
+      "Berjanji, bersepakat, melaksanakan",
+      "Membayar, menyerahkan, menjamin",
+      "Memberikan sesuatu, berbuat sesuatu, tidak berbuat sesuatu",
+      "Menjual, menyewa, meminjam"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1234: tiap perikatan adalah untuk memberikan sesuatu, untuk berbuat sesuatu, atau untuk tidak berbuat sesuatu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1234"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-somasi",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1238 KUHPerdata, debitur dinyatakan lalai dengan…",
+    "options": [
+      "Teguran lisan dari kreditur",
+      "Pengumuman di surat kabar",
+      "Putusan pengadilan",
+      "Surat perintah atau akta sejenis, atau berdasarkan kekuatan perikatan itu sendiri bila ditetapkan lewatnya waktu menjadikannya lalai"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pernyataan lalai ini dikenal sebagai somasi (ingebrekestelling).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1238"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-unsur-ganti-rugi",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Ganti rugi karena wanprestasi menurut Pasal 1243 KUHPerdata terdiri atas…",
+    "options": [
+      "Denda, bunga, dan pidana",
+      "Biaya perkara dan honor advokat",
+      "Biaya, rugi, dan bunga",
+      "Ganti rugi immateriil saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Biaya (kosten), rugi (schaden), dan bunga (interessen). Ganti rugi terutang setelah debitur dinyatakan lalai.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1243"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-cacat-kehendak",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1321 KUHPerdata, sepakat tidak sah bila diberikan karena…",
+    "options": [
+      "Kekeliruan hitung saja",
+      "Kelalaian, kesengajaan, atau keadaan memaksa",
+      "Wanprestasi atau PMH",
+      "Kekhilafan, paksaan, atau penipuan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tiga cacat kehendak dalam KUHPerdata. Penyalahgunaan keadaan (misbruik van omstandigheden) diakui melalui doktrin dan yurisprudensi.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1321"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-tidak-cakap",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut KUHPerdata, batas usia dewasa (Pasal 330) adalah…",
+    "options": [
+      "18 tahun",
+      "25 tahun",
+      "21 tahun atau sudah kawin",
+      "17 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 330 KUHPerdata: belum dewasa adalah yang belum 21 tahun dan belum kawin. Undang-undang lain memakai batas berbeda (mis. 18 tahun di UU Perkawinan untuk kekuasaan orang tua dan UU Jabatan Notaris untuk penghadap); perhatikan konteks soal.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 330"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-privity",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Asas bahwa perjanjian hanya berlaku bagi para pihak yang membuatnya terdapat dalam Pasal…",
+    "options": [
+      "1340",
+      "1317",
+      "1365",
+      "1338"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1340 (asas kepribadian/privity). Pengecualiannya janji untuk kepentingan pihak ketiga (Pasal 1317).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1340, 1317"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-tanggung-jawab-majikan",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Pasal 1367 KUHPerdata mengatur tanggung jawab atas kerugian yang disebabkan…",
+    "options": [
+      "Orang yang menjadi tanggungannya atau barang di bawah pengawasannya",
+      "Gedung yang roboh",
+      "Hewan peliharaan",
+      "Diri sendiri karena kelalaian"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mis. orang tua atas anak belum dewasa, majikan atas bawahan dalam pekerjaannya. Hewan: Pasal 1368; gedung: Pasal 1369; kelalaian sendiri: Pasal 1366.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1366-1369"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-pmh-1365-1369",
+    "type": "fact",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "visual": {
+      "template": "infographic",
+      "title": "Peta pasal PMH",
+      "points": [
+        "1365: perbuatan melawan hukum",
+        "1366: kelalaian / kurang hati-hati",
+        "1367: orang & barang di bawah tanggungan",
+        "1368: hewan",
+        "1369: gedung yang roboh"
+      ]
+    },
+    "caption": "Peta cepat tanggung jawab perdata di luar perjanjian dalam KUHPerdata.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1365-1369"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-akta-autentik",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Akta yang dibuat dalam bentuk yang ditentukan undang-undang oleh atau di hadapan pejabat umum yang berwenang disebut…",
+    "options": [
+      "Surat keterangan",
+      "Akta autentik",
+      "Akta van dading",
+      "Akta di bawah tangan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1868 KUHPerdata. Akta autentik memberikan bukti sempurna bagi para pihak dan ahli warisnya (Pasal 1870).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1868, 1870"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-unus-testis",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "\"Unus testis nullus testis\" dalam hukum perdata berarti…",
+    "options": [
+      "Saksi tidak boleh keluarga",
+      "Satu saksi cukup bila disumpah",
+      "Keterangan seorang saksi saja tanpa alat bukti lain tidak dapat dipercaya",
+      "Saksi harus lebih dari tiga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1905 KUHPerdata (dan Pasal 169 HIR).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1905"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-bezit-1977",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Terhadap benda bergerak yang tidak berupa bunga atau piutang yang tidak harus dibayar kepada pembawa, barang siapa menguasainya dianggap sebagai pemiliknya. Ini bunyi Pasal…",
+    "options": [
+      "1365",
+      "584",
+      "1977 ayat (1)",
+      "1963"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1977 ayat (1): bezit atas benda bergerak berlaku sebagai titel yang sempurna. Ayat (2) memberi hak menuntut kembali barang hilang atau dicuri dalam 3 tahun.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1977"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-jaminan-umum",
+    "type": "fact",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "visual": {
+      "template": "infographic",
+      "title": "Jaminan umum kreditur",
+      "points": [
+        "Pasal 1131: seluruh harta debitur jadi jaminan utangnya",
+        "Pasal 1132: dibagi seimbang antarkreditur (paritas creditorum)",
+        "Kecuali ada alasan sah untuk didahulukan"
+      ]
+    },
+    "caption": "Kreditur yang didahulukan antara lain pemegang hak tanggungan, gadai, fidusia, dan hak istimewa (privilege).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1131-1132"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-somasi-dulu",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "visual": {
+      "template": "comic",
+      "title": "Somasi dulu",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Kreditur: kamu telat bayar, aku gugat ganti rugi!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Debitur: sudah somasi?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Kreditur: eh, perlu ya?"
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Narator: ganti rugi baru wajib setelah debitur dinyatakan lalai."
+        }
+      ]
+    },
+    "caption": "Pasal 1243 KUHPerdata mensyaratkan debitur telah dinyatakan lalai.",
+    "teaches": "Ganti rugi wanprestasi baru wajib setelah debitur dinyatakan lalai (somasi), kecuali dalam keadaan tertentu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1238, 1243"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-carousel-syarat-jual-beli",
+    "type": "carousel",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Jual beli menurut KUHPerdata",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 1457",
+          "sub": "Penjual menyerahkan barang, pembeli membayar harga."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 1458",
+          "sub": "Jual beli terjadi saat sepakat barang dan harga, walau belum diserahkan/dibayar."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 1459",
+          "sub": "Hak milik baru beralih saat penyerahan (levering)."
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Kapan hak milik atas barang beralih dalam jual beli?",
+        "options": [
+          "Saat sepakat",
+          "Saat pembayaran lunas",
+          "Saat akta ditandatangani",
+          "Saat penyerahan (levering)"
+        ],
+        "answerIndex": 3,
+        "explanation": "Pasal 1459: hak milik beralih dengan penyerahan menurut Pasal 612, 613, 616."
+      }
+    ],
+    "caption": "Bedakan saat jual beli terjadi dan saat hak milik beralih.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1457-1459"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

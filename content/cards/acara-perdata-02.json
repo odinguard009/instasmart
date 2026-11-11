@@ -1,0 +1,291 @@
+[
+  {
+    "id": "acara-perdata-akta-perdamaian",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Akta perdamaian yang dibuat di persidangan (Pasal 130 HIR) memiliki kekuatan…",
+    "options": [
+      "Hanya sebagai bukti permulaan",
+      "Seperti putusan berkekuatan hukum tetap dan tidak dapat dibanding",
+      "Sebagai penetapan yang dapat dikasasi",
+      "Sebagai perjanjian biasa yang dapat dibanding"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 130 ayat (2) dan (3) HIR.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 130"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-rekonvensi",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Gugatan balik tergugat terhadap penggugat dalam perkara yang sama disebut…",
+    "options": [
+      "Intervensi",
+      "Verzet",
+      "Rekonvensi",
+      "Vrijwaring"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rekonvensi diajukan bersama jawaban (Pasal 132a-132b HIR).",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 132a-132b"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-eksepsi-relatif",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Eksepsi kompetensi relatif harus diajukan…",
+    "options": [
+      "Kapan saja, bahkan di tingkat kasasi",
+      "Pada jawaban pertama; bila terlambat, tidak diperhatikan",
+      "Setelah pembuktian",
+      "Saat banding"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 133 HIR. Bandingkan kompetensi absolut yang dapat diajukan kapan saja dan wajib diperiksa hakim karena jabatan (Pasal 134).",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 133-134"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-pengakuan-tak-terpisah",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Pengakuan di muka hakim tidak boleh dipisah-pisahkan untuk merugikan yang mengaku. Asas ini disebut…",
+    "options": [
+      "Ultra petita",
+      "Onsplitsbare aveu",
+      "Ne bis in idem",
+      "Res judicata"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 176 HIR. Pengakuan di persidangan merupakan bukti sempurna (Pasal 174).",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 174, 176"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-sumpah-decisoir",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Sumpah yang dibebankan satu pihak kepada lawannya untuk menggantungkan putusan perkara disebut…",
+    "options": [
+      "Sumpah pelengkap (suppletoir)",
+      "Sumpah jabatan",
+      "Sumpah penaksir (aestimatoir)",
+      "Sumpah pemutus (decisoir)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sumpah pemutus (Pasal 156 HIR) dapat dibebankan walau tidak ada bukti sama sekali. Sumpah pelengkap (Pasal 155) dibebankan hakim karena jabatan bila bukti belum cukup.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 155-156"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-sita-jaminan",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Sita atas harta tergugat untuk menjamin gugatan tidak sia-sia karena dikhawatirkan barang digelapkan disebut…",
+    "options": [
+      "Sita eksekusi",
+      "Sita revindikasi",
+      "Sita marital",
+      "Sita jaminan (conservatoir beslag)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 227 HIR. Sita revindikasi (Pasal 226) untuk barang bergerak milik penggugat yang dikuasai tergugat.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 226-227"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-aanmaning",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Bila pihak yang kalah tidak memenuhi putusan secara sukarela, ketua PN memanggil dan menegurnya (aanmaning) agar memenuhi putusan dalam waktu paling lama…",
+    "options": [
+      "3 hari",
+      "8 hari",
+      "14 hari",
+      "30 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 196 HIR: 8 hari.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 196"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-tenggang-banding",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Permohonan banding perkara perdata diajukan dalam tenggang…",
+    "options": [
+      "90 hari",
+      "7 hari",
+      "14 hari sejak putusan diucapkan atau diberitahukan",
+      "30 hari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 7 UU No. 20 Tahun 1947 tentang Peradilan Ulangan: 14 hari; 30 hari bila pemohon berdiam di luar keresidenan tempat PN.",
+    "source": {
+      "title": "UU No. 20 Tahun 1947 tentang Peradilan Ulangan di Jawa dan Madura",
+      "reference": "Pasal 7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-intervensi",
+    "type": "fact",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "visual": {
+      "template": "infographic",
+      "title": "Tiga bentuk intervensi",
+      "points": [
+        "Voeging: menyertai salah satu pihak",
+        "Tussenkomst: menengahi, membela kepentingan sendiri",
+        "Vrijwaring: ditarik sebagai penanggung"
+      ]
+    },
+    "caption": "Diatur dalam Rv (Pasal 279-282), dipakai dalam praktik karena HIR tidak mengaturnya.",
+    "source": {
+      "title": "Reglement op de Rechtsvordering (Rv)",
+      "reference": "Rv Pasal 279-282"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-obscuur-libel",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Gugatan yang posita dan petitumnya tidak jelas atau saling bertentangan disebut…, dan biasanya diputus…",
+    "options": [
+      "Ne bis in idem; dikabulkan",
+      "Prematur; ditolak",
+      "Error in persona; ditolak",
+      "Obscuur libel; tidak dapat diterima (NO)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Gugatan kabur (obscuur libel) menyangkut syarat formil sehingga putusannya NO, bukan menolak pokok perkara.",
+    "source": {
+      "title": "Doktrin dan praktik hukum acara perdata",
+      "reference": "Praktik peradilan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-eksepsi-telat",
+    "type": "humor",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "visual": {
+      "template": "meme",
+      "top": "Eksepsi kompetensi relatif diajukan setelah replik-duplik",
+      "bottom": "Hakim: terlambat. Harus pada jawaban pertama (Pasal 133 HIR).",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Eksepsi relatif punya batas waktu, eksepsi absolut tidak.",
+    "teaches": "Eksepsi kompetensi relatif harus diajukan pada jawaban pertama (Pasal 133 HIR).",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 133"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-reel-alur-perdata",
+    "type": "reel",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Gugatan masuk.",
+        "caption": "Diajukan ke PN tempat tinggal tergugat (Pasal 118 HIR).",
+        "kicker": "Alur sidang perdata",
+        "character": "owl",
+        "expression": "happy",
+        "characterMotion": "enter-left"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Mediasi dulu.",
+        "caption": "Wajib menurut PERMA mediasi; bila berhasil, akta perdamaian.",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Jawab-jinawab.",
+        "caption": "Jawaban (+ eksepsi, rekonvensi), replik, duplik.",
+        "textMotion": "slide-up"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Pembuktian, kesimpulan, putusan.",
+        "caption": "Lalu upaya hukum: banding, kasasi, PK.",
+        "effect": "zoom"
+      }
+    ],
+    "caption": "Alur ringkas persidangan perdata di pengadilan negeri.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 118, 130, 164 HIR"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

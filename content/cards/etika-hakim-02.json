@@ -1,0 +1,215 @@
+[
+  {
+    "id": "etika-hakim-menggali-nilai",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "\"Hakim wajib menggali, mengikuti, dan memahami nilai-nilai hukum dan rasa keadilan yang hidup dalam masyarakat.\" Ketentuan ini ada di UU 48/2009…",
+    "options": [
+      "Pasal 5 ayat (1)",
+      "Pasal 10 ayat (1)",
+      "Pasal 17 ayat (3)",
+      "Pasal 13 ayat (1)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 5 ayat (1).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 5 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-campur-tangan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Segala campur tangan dalam urusan peradilan oleh pihak lain di luar kekuasaan kehakiman…",
+    "options": [
+      "Diperbolehkan bila untuk kepentingan umum",
+      "Dilarang, kecuali dalam hal-hal sebagaimana disebut UUD 1945",
+      "Diperbolehkan oleh Presiden",
+      "Diperbolehkan oleh DPR"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 3 ayat (2) UU 48/2009.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 3 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-putusan-alasan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Putusan pengadilan selain memuat alasan dan dasar putusan juga wajib memuat…",
+    "options": [
+      "Nama semua pengunjung sidang",
+      "Pendapat media",
+      "Rekomendasi Komisi Yudisial",
+      "Pasal tertentu dari peraturan yang bersangkutan atau sumber hukum tak tertulis yang dijadikan dasar mengadili"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 50 ayat (1) UU 48/2009.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 50 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-nemo-judex",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Asas \"nemo judex in causa sua\" berarti…",
+    "options": [
+      "Hakim dianggap tahu hukum",
+      "Dengarkan juga pihak lain",
+      "Tidak seorang pun boleh menjadi hakim dalam perkaranya sendiri",
+      "Tidak ada pidana tanpa kesalahan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dasar kewajiban hakim mengundurkan diri bila punya kepentingan (lihat Pasal 17 UU 48/2009). \"Hakim dianggap tahu hukum\" = ius curia novit; \"dengarkan pihak lain\" = audi et alteram partem.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 17"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-audi-alteram",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Asas yang mewajibkan hakim mendengar kedua belah pihak secara seimbang adalah…",
+    "options": [
+      "Res judicata pro veritate habetur",
+      "Audi et alteram partem",
+      "Lex specialis",
+      "Ius curia novit"
+    ],
+    "answerIndex": 1,
+    "explanation": "Audi et alteram partem. Pasal 4 ayat (1) UU 48/2009: pengadilan mengadili menurut hukum dengan tidak membeda-bedakan orang.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 4 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-res-judicata",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "\"Res judicata pro veritate habetur\" berarti…",
+    "options": [
+      "Perkara yang sama tidak boleh diadili dua kali",
+      "Hakim pasif",
+      "Hakim tidak boleh menolak perkara",
+      "Putusan hakim harus dianggap benar sampai dibatalkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Putusan dianggap benar; dasar kepastian hukum. Asas yang melarang mengadili perkara yang sama dua kali adalah ne bis in idem.",
+    "source": {
+      "title": "Doktrin hukum acara",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-ius-curia-novit",
+    "type": "fact",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "infographic",
+      "title": "Ius curia novit",
+      "points": [
+        "Hakim dianggap tahu hukum",
+        "Pasal 10 (1) UU 48/2009: dilarang menolak perkara karena hukum tidak ada/kurang jelas",
+        "Hakim wajib menemukan hukum (rechtsvinding)"
+      ]
+    },
+    "caption": "Karena dianggap tahu hukum, hakim tidak boleh berlindung di balik kekosongan hukum.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 10 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-mkh",
+    "type": "review",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "front": "Apa itu Majelis Kehormatan Hakim (MKH)?",
+    "back": "Forum pembelaan diri bagi hakim yang diusulkan diberhentikan karena pelanggaran KEPPH; dibentuk bersama oleh Mahkamah Agung dan Komisi Yudisial.",
+    "source": {
+      "title": "UU No. 3 Tahun 2009 tentang Mahkamah Agung; UU No. 18 Tahun 2011 tentang Komisi Yudisial",
+      "reference": "UU MA dan UU KY (cek pasal)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-hakim-medsos",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Jempol hakim",
+      "panels": [
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim muda: boleh komentar perkara yang sedang saya adili di medsos?"
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Senior: jangan."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim muda: walau anonim?"
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Senior: tetap jangan. Jaga imparsialitas dan martabat."
+        }
+      ]
+    },
+    "caption": "Hakim tidak mengomentari perkara yang sedang diperiksa di luar persidangan.",
+    "teaches": "KEPPH: hakim tidak boleh memberi keterangan atau pendapat mengenai substansi perkara yang sedang diproses di luar persidangan.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY tentang Kode Etik dan Pedoman Perilaku Hakim (2009)",
+      "reference": "Prinsip berperilaku arif dan bijaksana (KEPPH)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

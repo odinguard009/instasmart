@@ -1,0 +1,246 @@
+[
+  {
+    "id": "htn-7c",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Menurut Pasal 7C UUD 1945, Presiden…",
+    "options": [
+      "Dapat membubarkan DPD",
+      "Dapat membekukan DPR dalam keadaan darurat",
+      "Dapat membubarkan DPR dengan persetujuan MPR",
+      "Tidak dapat membekukan dan/atau membubarkan DPR"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 7C.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 7C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-6a-syarat-menang",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Pasangan calon presiden terpilih dalam satu putaran bila memperoleh…",
+    "options": [
+      "Dua pertiga suara",
+      "Lebih dari 50% suara di semua provinsi",
+      "Suara terbanyak saja",
+      "Lebih dari 50% suara dengan sedikitnya 20% suara di lebih dari setengah jumlah provinsi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 6A ayat (3).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 6A ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-triumvirat",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Jika Presiden dan Wakil Presiden berhalangan tetap secara bersamaan, pelaksana tugas kepresidenan adalah…",
+    "options": [
+      "Ketua DPR",
+      "Ketua Mahkamah Agung",
+      "Ketua MPR",
+      "Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 8 ayat (3). Paling lambat 30 hari kemudian MPR memilih presiden dan wapres dari dua pasangan calon partai/gabungan peraih suara terbanyak pertama dan kedua.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 8 ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-komposisi-mpr",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "MPR terdiri atas…",
+    "options": [
+      "Anggota DPR, DPD, dan DPRD",
+      "Anggota DPD saja",
+      "Anggota DPR dan utusan golongan",
+      "Anggota DPR dan anggota DPD"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 2 ayat (1).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 2 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-hakim-agung-ky",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "question": "Calon hakim agung diusulkan … kepada DPR untuk mendapat persetujuan, lalu ditetapkan Presiden.",
+    "options": [
+      "Menteri Hukum",
+      "Presiden",
+      "Mahkamah Agung",
+      "Komisi Yudisial"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 24A ayat (3).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24A ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-wewenang-ky",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "question": "Wewenang Komisi Yudisial menurut UUD 1945 adalah…",
+    "options": [
+      "Memutus sengketa pemilu",
+      "Mengusulkan pengangkatan hakim agung dan menjaga serta menegakkan kehormatan, keluhuran martabat, dan perilaku hakim",
+      "Mengangkat semua hakim",
+      "Menguji peraturan di bawah UU"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 24B ayat (1).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24B ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-pemilu-asas",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Asas pemilu menurut Pasal 22E ayat (1) UUD 1945 adalah…",
+    "options": [
+      "Langsung, umum, bebas, rahasia, jujur, adil",
+      "Langsung, bebas, terbuka, adil",
+      "Jujur, adil, transparan",
+      "Umum, rahasia, demokratis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Luber jurdil, setiap lima tahun sekali.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22E ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-perjanjian-dpr",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Presiden membuat perdamaian dan perjanjian dengan negara lain dengan persetujuan…",
+    "options": [
+      "DPD",
+      "MPR",
+      "MK",
+      "DPR"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 11 ayat (1).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 11 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-materi-perda",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "perundang-undangan",
+    "account": "konstitusi.kece",
+    "question": "Menurut UU 12/2011, materi muatan yang berisi ketentuan pidana hanya dapat dimuat dalam…",
+    "options": [
+      "PP dan Perpres",
+      "Semua jenis peraturan",
+      "UU saja",
+      "UU, Perda Provinsi, dan Perda Kabupaten/Kota"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 15 ayat (1) UU 12/2011.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah)",
+      "reference": "Pasal 15 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-mpr-wewenang",
+    "type": "fact",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "infographic",
+      "title": "Wewenang MPR (Pasal 3)",
+      "points": [
+        "Mengubah dan menetapkan UUD",
+        "Melantik Presiden dan/atau Wakil Presiden",
+        "Hanya dapat memberhentikan Presiden/Wapres menurut UUD"
+      ]
+    },
+    "caption": "MPR tidak lagi lembaga tertinggi dan tidak menetapkan GBHN setelah amandemen.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 3"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-presiden-bubarkan-dpr",
+    "type": "humor",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "meme",
+      "top": "\"DPR menolak RUU saya. Bubarkan saja!\"",
+      "bottom": "Pasal 7C: Presiden tidak dapat membekukan atau membubarkan DPR.",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Sistem presidensial: presiden dan DPR sama-sama dipilih rakyat dan tidak saling membubarkan.",
+    "teaches": "Pasal 7C UUD 1945.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 7C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

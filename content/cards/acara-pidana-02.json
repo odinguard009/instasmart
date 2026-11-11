@@ -1915,5 +1915,312 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-tiga-alasan",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Alasan PK (Pasal 318 ayat (5))",
+      "points": [
+        "a. keadaan/bukti baru",
+        "b. dua putusan bertentangan",
+        "c. kekhilafan/kekeliruan nyata"
+      ]
+    },
+    "caption": "Menurut artikel Hakim Agung Pudjoharsoyo (MARINews, 14 September 2026), KUHAP baru mempertahankan tiga alasan klasik peninjauan kembali dari Pasal 263 KUHAP 1981. PK tidak memeriksa apakah putusan benar, tetapi apakah ada alasan undang-undang untuk membukanya kembali.",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "Baru, Bentrok, Khilaf"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "PK upaya hukum luar biasa, ruangnya sempit"
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 318 ayat (5) KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-kedua",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "PK kedua (Pasal 318 ayat (6))",
+      "points": [
+        "Asas: PK hanya satu kali",
+        "Kecuali: keadaan/bukti baru",
+        "Kecuali: dua putusan bertentangan",
+        "Kekhilafan hakim: TIDAK dikecualikan"
+      ]
+    },
+    "caption": "Menurut artikel MARINews, kekhilafan hakim sengaja tidak dijadikan pengecualian karena pada hakikatnya ia perbedaan penilaian atas bahan yang sama; di situlah pintu paling mudah dibuka dan paling sulit ditutup.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 318 ayat (6) KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-satu-kali-sejarah",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "front": "Urutkan perjalanan aturan \"PK hanya satu kali\" sampai KUHAP baru (menurut artikel MARINews).",
+    "back": "1) Pasal 268 ayat (3) KUHAP 1981: PK hanya satu kali. 2) Putusan MK 34/PUU-XI/2013: pembatasan itu inkonstitusional. 3) SEMA 7/2014: MA menegaskan PK tetap satu kali (bersandar pada UU Kekuasaan Kehakiman dan UU MA). 4) Pasal 318 ayat (6) KUHAP baru: satu kali, kecuali novum atau dua putusan bertentangan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 268 ayat (3) KUHAP 1981; Putusan MK 34/PUU-XI/2013; SEMA 7/2014; Pasal 318 ayat (6) KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-novum-syarat",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel MARINews, mana yang BISA menjadi keadaan baru (novum) untuk PK?",
+    "options": [
+      "Perdamaian dengan korban setahun setelah vonis",
+      "Kelakuan baik selama menjalani pidana di lapas",
+      "CCTV yang sudah ada saat sidang, belum terungkap",
+      "Pelunasan uang pengganti setelah putusan inkracht"
+    ],
+    "answerIndex": 2,
+    "explanation": "Novum harus sudah ada pada waktu sidang tetapi belum terungkap, layak dinilai sebagai alat bukti, dan menentukan hasil (bebas, lepas, tuntutan tidak diterima, atau ketentuan pidana lebih ringan). Keadaan yang lahir setelah putusan tidak termasuk.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 318 ayat (5) huruf a KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-disparitas-bukan-bertentangan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Dua pelaku dalam satu rangkaian tindak pidana dipidana 3 tahun dan 6 tahun. Menurut artikel MARINews, apakah ini \"pertentangan putusan\" untuk PK?",
+    "options": [
+      "Tidak, karena PK hanya untuk penuntut umum",
+      "Tidak; itu individualisasi pemidanaan",
+      "Ya, karena pidananya berbeda untuk perbuatan sama",
+      "Ya, asalkan kedua putusan sudah inkracht"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pertentangan berarti dua putusan saling meniadakan pada pokok yang sama (mis. perbuatan sama dinyatakan dilakukan A di satu putusan dan B di putusan lain). Beda lamanya pidana adalah buah asas individualisasi pemidanaan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 318 ayat (5) huruf b KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-kekhilafan-objektif",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel MARINews, mana contoh kekhilafan hakim yang sah sebagai alasan PK?",
+    "options": [
+      "Hakim PK menilai bukti secara berbeda",
+      "Pidana dirasa terlalu berat bagi terpidana",
+      "Pidana melampaui ancaman maksimum",
+      "Putusan dianggap kurang memenuhi rasa keadilan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kekhilafan adalah cacat objektif yang tampak dari putusan itu sendiri tanpa menilai ulang fakta: pidana melampaui ancaman maksimum, unsur dinyatakan terbukti padahal tidak dibuktikan, pasal yang tidak didakwakan diterapkan. Penilaian berbeda atas bahan yang sama bukan kekhilafan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 318 ayat (5) huruf c KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-jalan-satu-arah",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "PK: jalan satu arah",
+      "points": [
+        "Hak terpidana/ahli waris",
+        "Putusan MK 33/PUU-XIV/2016: PU tak bisa PK",
+        "Non reformatio in peius",
+        "Hasil PK tak boleh lebih berat"
+      ]
+    },
+    "caption": "Menurut artikel MARINews, dua ketentuan yang masing-masing sah membuat PK hanya bisa meringankan: PK tertutup bagi penuntut umum, dan larangan memperberat (Pasal 266 ayat (3) KUHAP lama, diteruskan KUHAP baru). Penulis mengingatkan risiko penyelundupan hukum bila penuntut umum pasif dan hakim PK mudah mengabulkan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Putusan MK 33/PUU-XIV/2016; Pasal 266 ayat (3) KUHAP 1981; KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-perubahan-uu",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Setelah KUHP Nasional dan UU 1/2026, denda narkotika yang dulu kumulatif kini dibaca kumulatif alternatif. Menurut penulis artikel MARINews, terpidana lama yang ingin dendanya dihapus…",
+    "options": [
+      "Mengajukan PK dengan alasan keadaan baru",
+      "Mengajukan PK dengan alasan kekhilafan hakim",
+      "Mengajukan kasasi demi kepentingan hukum",
+      "Tidak lewat PK; perubahan UU bukan alasan PK"
+    ],
+    "answerIndex": 3,
+    "explanation": "Perubahan UU bukan novum, bukan pertentangan putusan, dan bukan kekhilafan: hakim yang memutus menurut hukum yang berlaku saat itu tidak khilaf. Ketentuan lebih menguntungkan setelah inkracht diselesaikan lewat Pasal 3 KUHP Nasional dan UU 1/2026 di tahap pelaksanaan pidana, dan hanya bila pidana melampaui maksimum baru.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 318 ayat (5) KUHAP baru; Pasal 3 KUHP Nasional; UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-rasa-keadilan",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "PK bukan banding ronde empat",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Yang Mulia, hukuman klien saya terlalu berat. PK ya!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Novumnya mana? Putusan bertentangan? Kekhilafan nyata?"
+        },
+        {
+          "character": "kancil",
+          "expression": "sad",
+          "text": "Eh... rasa keadilan, Yang Mulia?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Itu bahasa banding, bukan bahasa PK."
+        }
+      ]
+    },
+    "caption": "\"Terlalu berat\" dan \"rasa keadilan\" bukan alasan PK.",
+    "teaches": "Menurut artikel MARINews, berat ringannya pidana dalam batas ancaman undang-undang dan rasa keadilan berada di luar tiga alasan PK Pasal 318 ayat (5) KUHAP baru; ungkapan seperti \"terlalu berat\" adalah bahasa banding, bukan bahasa PK.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 318 ayat (5) KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pk-enam-lapis",
+    "type": "carousel",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Usulan Pudjoharsoyo",
+          "title": "Enam lapis disiplin memeriksa PK",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Lapis 1-3",
+          "points": [
+            "1. Uji ambang: alasan termasuk ayat (5)/(6)?",
+            "2. Periksa terikat dalil pemohon",
+            "3. Kekhilafan harus cacat objektif"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Lapis 4-6",
+          "points": [
+            "4. Strafmaat dalam batas UU tak disentuh",
+            "5. Pisahkan PK dari penyesuaian pidana",
+            "6. Waspadai penyelundupan hukum"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Saat membaca berkas PK, hakim menemukan kekeliruan yang tidak didalilkan pemohon. Menurut usulan penulis, hakim…",
+        "options": [
+          "Hanya mencatatnya untuk pembinaan",
+          "Mengabulkan PK atas dasar temuan itu",
+          "Mengoreksinya ex officio seperti kasasi",
+          "Menaikkan pidana sebagai gantinya"
+        ],
+        "answerIndex": 0,
+        "explanation": "Lapis kedua: hakim tidak mencari alasan lain yang tidak diajukan. Temuan dapat dicatat sebagai bahan pembinaan atau rumusan kamar, bukan dasar pengabulan. PK bukan wadah ultra petita."
+      }
+    ],
+    "caption": "Kerangka berlapis yang diusulkan Hakim Agung Pudjoharsoyo (MARINews, 14 September 2026) untuk memeriksa PK. Ini pendapat pribadi penulis, bukan rumusan resmi MA.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 14 September 2026)",
+      "reference": "Pasal 318 KUHAP baru (usulan penulis artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menjaga-rigiditas-alasan-peninjauan-kembali-0bwJ"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

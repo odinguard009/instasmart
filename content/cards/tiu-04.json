@@ -526,5 +526,359 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-mt-tunjangan",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Jika pegawai terlambat, tunjangannya dipotong. Tunjangan Sari tidak dipotong. Simpulan yang tepat…",
+    "options": [
+      "Tunjangan Sari dipotong",
+      "Sari tidak terlambat",
+      "Sari terlambat, tetapi diberi izin",
+      "Sari terlambat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Modus tollens: p → q dan bukan q, maka bukan p.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Modus tollens"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-ingkaran-implikasi-harga",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Ingkaran dari \"Jika harga naik, permintaan turun\" adalah…",
+    "options": [
+      "Harga tidak naik dan permintaan turun",
+      "Jika permintaan tidak turun, harga tidak naik",
+      "Jika harga tidak naik, permintaan tidak turun",
+      "Harga naik dan permintaan tidak turun"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ingkaran p → q adalah p ∧ ¬q. Pilihan 'jika permintaan tidak turun, harga tidak naik' justru SETARA dengan pernyataan awal (kontraposisi), bukan ingkarannya.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Ingkaran implikasi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-setara-atau",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Pernyataan yang setara dengan \"Jika tidak hujan, saya bersepeda\" adalah…",
+    "options": [
+      "Tidak hujan dan saya bersepeda",
+      "Jika hujan, saya tidak bersepeda",
+      "Jika saya bersepeda, maka tidak hujan",
+      "Hujan atau saya bersepeda"
+    ],
+    "answerIndex": 3,
+    "explanation": "p → q setara dengan ¬p ∨ q. Di sini p = tidak hujan, jadi ¬p ∨ q = hujan atau saya bersepeda.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Ekuivalensi implikasi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rantai-mundur",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Jika berkas lengkap, lamaran diproses. Jika lamaran diproses, peserta dipanggil tes. Rudi tidak dipanggil tes. Simpulan…",
+    "options": [
+      "Lamaran Rudi diproses",
+      "Rudi dipanggil tes susulan",
+      "Berkas Rudi tidak lengkap",
+      "Berkas Rudi lengkap"
+    ],
+    "answerIndex": 2,
+    "explanation": "Silogisme lalu modus tollens: berkas → dipanggil; tidak dipanggil, maka berkas tidak lengkap (dan lamaran tidak diproses).",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Silogisme + modus tollens"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-dilema",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Jika lembur, Tono pulang malam. Jika ada rapat, Tono pulang malam. Hari ini Tono lembur atau ada rapat. Simpulan…",
+    "options": [
+      "Tono lembur dan ada rapat",
+      "Tono lembur",
+      "Ada rapat",
+      "Tono pulang malam"
+    ],
+    "answerIndex": 3,
+    "explanation": "Dilema konstruktif: kedua kemungkinan berujung pada pulang malam. Tidak bisa dipastikan yang mana yang terjadi.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Dilema konstruktif"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-akibat-belum-tentu",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Jika jalan licin, pengendara melambat. Pengendara melambat. Simpulan yang PASTI benar…",
+    "options": [
+      "Jalan tidak licin",
+      "Jalan licin",
+      "Tidak dapat disimpulkan apakah jalan licin",
+      "Pengendara tidak melambat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Membenarkan akibat (q) tidak membuktikan sebab (p): pengendara bisa melambat karena alasan lain. Ini kesalahan 'affirming the consequent'.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Kesalahan penalaran"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-silogisme-sebagian-pegawai",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Semua hakim adalah sarjana hukum. Sebagian pegawai adalah hakim. Simpulan…",
+    "options": [
+      "Semua pegawai adalah sarjana hukum",
+      "Semua sarjana hukum adalah hakim",
+      "Sebagian sarjana hukum bukan pegawai",
+      "Sebagian pegawai adalah sarjana hukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pegawai yang hakim pasti sarjana hukum, jadi minimal sebagian pegawai adalah sarjana hukum. Selebihnya tidak dapat dipastikan.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Silogisme kategoris"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-silogisme-tidak-merokok",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Tidak ada atlet yang merokok. Sebagian mahasiswa adalah atlet. Simpulan…",
+    "options": [
+      "Semua perokok adalah mahasiswa",
+      "Semua mahasiswa tidak merokok",
+      "Sebagian mahasiswa tidak merokok",
+      "Sebagian mahasiswa merokok"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mahasiswa yang atlet pasti tidak merokok, jadi sebagian mahasiswa tidak merokok. Mahasiswa lain bisa saja merokok atau tidak.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Silogisme kategoris"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-silogisme-rantai-semua",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Semua dokter teliti. Semua orang teliti disukai pasien. Simpulan…",
+    "options": [
+      "Semua dokter disukai pasien",
+      "Sebagian orang teliti bukan dokter",
+      "Semua yang disukai pasien adalah dokter",
+      "Tidak ada dokter yang disukai pasien"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rantai 'semua': dokter ⊂ teliti ⊂ disukai pasien. Arah sebaliknya tidak berlaku.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Silogisme kategoris"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-silogisme-dua-sebagian",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Sebagian guru suka membaca. Sebagian orang yang suka membaca adalah penulis. Simpulan…",
+    "options": [
+      "Tidak dapat ditarik simpulan pasti tentang guru dan penulis",
+      "Tidak ada guru yang penulis",
+      "Semua guru adalah penulis",
+      "Sebagian guru adalah penulis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dua premis 'sebagian' tidak menghasilkan simpulan pasti: kelompok guru pembaca dan pembaca penulis bisa saja tidak beririsan.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Silogisme kategoris"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-urutan-tinggi-lima",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "A lebih tinggi dari B. C lebih pendek dari B. D lebih tinggi dari A dan merupakan yang tertinggi. E lebih pendek dari C. Siapa yang tingginya di urutan ketiga?",
+    "options": [
+      "A",
+      "C",
+      "E",
+      "B"
+    ],
+    "answerIndex": 3,
+    "explanation": "Urutan dari tertinggi: D, A, B, C, E. Urutan ketiga: B.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Urutan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kursi-tengah",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Lima orang duduk sebaris di kursi 1-5 dari kiri. Ani di kursi paling kiri, Eka paling kanan. Budi bersebelahan dengan Cici. Dodi dan Cici sama-sama duduk di sebelah kiri Budi. Siapa di kursi tengah?",
+    "options": [
+      "Eka",
+      "Budi",
+      "Cici",
+      "Dodi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ani-1, Eka-5. Budi harus di kanan Dodi dan Cici, jadi Budi di kursi 4; Cici bersebelahan dengannya di kursi 3; Dodi di kursi 2.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Posisi duduk"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-jadwal-pelatihan",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Lima pelatihan dijadwalkan Senin-Jumat, satu per hari. Etika hari Rabu. Komputer hari Jumat. Hukum tepat sehari setelah Statistik. Bahasa setelah Etika. Pelatihan hari Senin adalah…",
+    "options": [
+      "Etika",
+      "Bahasa",
+      "Statistik",
+      "Hukum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bahasa harus setelah Rabu dan Jumat sudah Komputer, jadi Bahasa Kamis. Sisa Senin-Selasa untuk Statistik lalu Hukum.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Penjadwalan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-hari-75",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Hari ini Rabu. Hari apakah 75 hari lagi?",
+    "options": [
+      "Selasa",
+      "Rabu",
+      "Senin",
+      "Kamis"
+    ],
+    "answerIndex": 2,
+    "explanation": "75 dibagi 7 sisa 5 (75 = 10 x 7 + 5). Rabu ditambah 5 hari: Kamis, Jumat, Sabtu, Minggu, Senin.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Kalender"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-pola-simpulan",
+    "type": "fact",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "visual": {
+      "template": "infographic",
+      "title": "Pola simpulan TIU",
+      "points": [
+        "p→q, p: maka q",
+        "p→q, bukan q: maka bukan p",
+        "p→q, q→r: maka p→r",
+        "Ingkaran p→q: p dan bukan q"
+      ]
+    },
+    "caption": "Empat pola paling sering keluar. Jebakan klasik: dari p→q dan q, TIDAK bisa disimpulkan p.",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Logika proposisi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-humor-jalan-basah",
+    "type": "humor",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "visual": {
+      "template": "meme",
+      "top": "Jika hujan, jalan basah. Jalannya basah.",
+      "bottom": "Berarti hujan? Belum tentu!",
+      "character": "cat",
+      "expression": "think"
+    },
+    "caption": "Bisa saja tetangga sedang menyiram tanaman. Dari akibat, kita tidak bisa memastikan sebabnya.",
+    "teaches": "Dari \"jika p maka q\" dan \"q\", tidak dapat disimpulkan p (kesalahan membenarkan akibat).",
+    "source": {
+      "title": "Latihan buatan sendiri (kunci diverifikasi skrip)",
+      "reference": "Kesalahan penalaran"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

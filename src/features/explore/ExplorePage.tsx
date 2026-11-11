@@ -9,7 +9,7 @@ import { useStore } from '@/state/store';
 
 function Chip({ active, onClick, children }: { active: boolean; onClick: () => void; children: string }) {
   return (
-    <button type="button" aria-pressed={active} onClick={onClick} className={`h-9 shrink-0 rounded-full px-3.5 text-sm font-semibold ${active ? 'bg-ink text-bg' : 'bg-raised text-ink'}`}>
+    <button type="button" aria-pressed={active} onClick={onClick} className={`h-11 shrink-0 rounded-full px-3.5 text-sm font-semibold ${active ? 'bg-ink text-bg' : 'bg-raised text-ink'}`}>
       {children}
     </button>
   );

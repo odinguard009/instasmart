@@ -12,12 +12,32 @@ export interface KeyValueStorage {
   setItem(key: string, value: string): void;
 }
 
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === 'object' && value !== null && !Array.isArray(value);
+}
+
+/**
+ * Menghidupkan state tersimpan/diimpor secara toleran:
+ * field baru yang belum ada di data lama diisi nilai default, dan rencana harian yang tak lagi valid dibuang
+ * (akan dibangun ulang). Dengan begitu menambah field/pengaturan baru tidak menghapus progres pengguna.
+ * Mengembalikan null jika data memang tidak bisa dipakai.
+ */
+export function reviveState(raw: unknown): UserState | null {
+  if (!isRecord(raw)) return null;
+  const defaults = createInitialState();
+  const candidate = { ...defaults, ...raw, settings: { ...defaults.settings, ...(isRecord(raw.settings) ? raw.settings : {}) } };
+  const full = userStateSchema.safeParse(candidate);
+  if (full.success) return full.data;
+  const withoutDay = userStateSchema.safeParse({ ...candidate, day: null });
+  return withoutDay.success ? withoutDay.data : null;
+}
+
 export function loadState(storage: KeyValueStorage | undefined): UserState {
   const raw = storage?.getItem(STORAGE_KEY);
   if (!raw || !storage) return createInitialState();
   try {
-    const parsed = userStateSchema.safeParse(JSON.parse(raw));
-    if (parsed.success) return parsed.data;
+    const revived = reviveState(JSON.parse(raw));
+    if (revived) return revived;
   } catch {
     // jatuh ke penanganan data rusak di bawah
   }

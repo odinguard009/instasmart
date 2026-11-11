@@ -31,7 +31,7 @@ export function FavoritesPage() {
         <h1 className="text-xl font-black">Favorit</h1>
         <div className="mt-2 flex gap-2" role="group" aria-label="Filter favorit">
           {(Object.keys(FILTERS) as Filter[]).map((key) => (
-            <button key={key} type="button" aria-pressed={filter === key} onClick={() => setFilter(key)} className={`h-9 rounded-full px-3.5 text-sm font-semibold ${filter === key ? 'bg-ink text-bg' : 'bg-raised'}`}>
+            <button key={key} type="button" aria-pressed={filter === key} onClick={() => setFilter(key)} className={`h-11 rounded-full px-3.5 text-sm font-semibold ${filter === key ? 'bg-ink text-bg' : 'bg-raised'}`}>
               {FILTERS[key].label}
             </button>
           ))}

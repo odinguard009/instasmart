@@ -25,7 +25,7 @@ export function CarouselMedia({ card, topicPalette }: { card: CardOf<'carousel'>
         aria-label={`Carousel ${card.slides.length} slide`}
       >
         {card.slides.map((slide, slideIndex) => (
-          <div key={slideIndex} className="flex w-full shrink-0 snap-center snap-always items-stretch" aria-label={`Slide ${slideIndex + 1} dari ${card.slides.length}`}>
+          <div key={slideIndex} className="flex w-full shrink-0 snap-center snap-always items-center bg-raised" aria-label={`Slide ${slideIndex + 1} dari ${card.slides.length}`}>
             {slide.kind === 'visual' ? (
               <VisualView visual={slide.visual} topicPalette={topicPalette} className="block h-auto w-full" />
             ) : (
@@ -45,7 +45,7 @@ export function CarouselMedia({ card, topicPalette }: { card: CardOf<'carousel'>
             aria-label={`Ke slide ${dot + 1}`}
             aria-current={dot === index}
             onClick={() => goTo(dot)}
-            className="grid h-6 w-4 place-items-center"
+            className="grid h-9 w-5 place-items-center"
           >
             <span className={`block h-1.5 rounded-full transition-all ${dot === index ? 'w-3 bg-brand' : 'w-1.5 bg-muted/50'}`} />
           </button>

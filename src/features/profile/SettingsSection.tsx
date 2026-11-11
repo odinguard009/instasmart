@@ -7,7 +7,7 @@ const THEME_LABELS: Record<Settings['theme'], string> = { dark: 'Gelap', light: 
 
 function Toggle({ label, hint, checked, onChange }: { label: string; hint?: string; checked: boolean; onChange: (value: boolean) => void }) {
   return (
-    <label className="flex min-h-12 cursor-pointer items-center justify-between gap-4 py-2">
+    <label className="relative flex min-h-12 cursor-pointer items-center justify-between gap-4 py-2">
       <span>
         <span className="block text-sm font-semibold">{label}</span>
         {hint && <span className="block text-xs text-muted">{hint}</span>}
@@ -62,7 +62,7 @@ export function SettingsSection() {
         <legend className="text-sm font-semibold">Tema</legend>
         <div className="mt-2 flex gap-2">
           {THEMES.map((theme) => (
-            <label key={theme} className={`grid h-11 flex-1 cursor-pointer place-items-center rounded-xl text-sm font-semibold ${settings.theme === theme ? 'bg-ink text-bg' : 'bg-raised'}`}>
+            <label key={theme} className={`relative grid h-11 flex-1 cursor-pointer place-items-center rounded-xl text-sm font-semibold ${settings.theme === theme ? 'bg-ink text-bg' : 'bg-raised'}`}>
               <input type="radio" name="theme" className="sr-only" checked={settings.theme === theme} onChange={() => updateSettings({ theme })} />
               {THEME_LABELS[theme]}
             </label>

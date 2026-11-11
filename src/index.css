@@ -31,10 +31,12 @@
   color-scheme: dark;
 }
 
+/* Aplikasi bergulir di dalam <main>; dokumen sendiri tidak boleh ikut bergulir. */
 html,
 body,
 #root {
   height: 100%;
+  overflow: hidden;
 }
 
 body {

@@ -61,6 +61,11 @@ class CardPool {
     }
   }
 
+  /** Peringkat kesegaran kartu (lebih kecil = lebih layak tampil). */
+  rank(card: Card): number {
+    return freshness(this.ctx.progress[card.id], this.ctx.today);
+  }
+
   remaining(type: CardType): number {
     return this.byType.get(type)?.length ?? 0;
   }
@@ -83,11 +88,11 @@ class CardPool {
     const list = this.byType.get(type) ?? [];
     const first = list[0];
     if (!first) return undefined;
-    const bestRank = freshness(this.ctx.progress[first.id], this.ctx.today);
+    const bestRank = this.rank(first);
     let best = first;
     let bestLoad = this.load(first);
     for (const card of list) {
-      if (freshness(this.ctx.progress[card.id], this.ctx.today) !== bestRank) break;
+      if (this.rank(card) !== bestRank) break;
       const load = this.load(card);
       if (load < bestLoad) {
         best = card;
@@ -190,6 +195,12 @@ export function interleaveEvenly<T>(base: readonly T[], inserts: readonly T[]): 
   return out;
 }
 
+/** Membuat fungsi item feed -> format, untuk aturan variasi. */
+export function formatLookup(cards: readonly Card[]): (item: FeedItem) => ItemFormat {
+  const typeById = new Map(cards.map((card) => [card.id, card.type]));
+  return (item) => (item.kind === 'surprise' ? 'surprise' : (typeById.get(item.cardId) ?? 'fact'));
+}
+
 /* --------------------------------- seleksi --------------------------------- */
 
 interface Selection {
@@ -198,9 +209,9 @@ interface Selection {
   surprise: Surprise | null;
 }
 
-function pickSurprise(pool: CardPool, cards: readonly Card[], config: FeedConfig, rng: Rng): Surprise | null {
-  const tagged = cards.filter((card) => card.type !== 'story' && card.tags?.includes('kejutan'));
-  const unique = tagged.find((card) => pool.list(card.type).includes(card));
+function pickSurprise(pool: CardPool, types: readonly CardType[], config: FeedConfig, rng: Rng): Surprise | null {
+  // Daftar tiap tipe sudah terurut dari yang paling segar, jadi kartu kejutan yang belum dilihat didahulukan.
+  const unique = types.flatMap((type) => pool.list(type).filter((card) => card.tags?.includes('kejutan')).slice(0, 1)).sort((a, b) => pool.rank(a) - pool.rank(b))[0];
   const canRapid = pool.remaining('quiz') >= config.rapidQuizSize;
   if (unique && (!canRapid || rng() < 0.5)) {
     pool.remove(unique);
@@ -233,7 +244,7 @@ function select(input: Required<PlanInput>, exclude: ReadonlySet<string>, count:
   }
 
   // 2. Kejutan harian (memakai satu slot kuota).
-  if (withSurprise && count >= config.surpriseMinQuota) selection.surprise = pickSurprise(pool, available, config, rng);
+  if (withSurprise && count >= config.surpriseMinQuota) selection.surprise = pickSurprise(pool, [...new Set(available.map((card) => card.type))], config, rng);
 
   // 3. Humor: kira-kira 1 dari setiap `humorEvery` item.
   const humorTarget = Math.min(Math.round(count / config.humorEvery), pool.remaining('humor'));
@@ -273,8 +284,7 @@ function select(input: Required<PlanInput>, exclude: ReadonlySet<string>, count:
 
 function toFeedItems(selection: Selection, input: Required<PlanInput>, rng: Rng, tail: readonly ItemFormat[]): FeedItem[] {
   const asItem = (card: Card, isReview: boolean): FeedItem => ({ kind: 'card', key: `c:${card.id}`, cardId: card.id, isReview });
-  const typeById = new Map(input.cards.map((card) => [card.id, card.type]));
-  const formatOfItem = (item: FeedItem): ItemFormat => (item.kind === 'surprise' ? 'surprise' : (typeById.get(item.cardId) ?? 'fact'));
+  const formatOfItem = formatLookup(input.cards);
 
   const learning = arrangeForVariety(
     selection.learning.map(({ card, isReview }) => asItem(card, isReview)),
@@ -364,10 +374,7 @@ export function extendPlan(plan: DailyPlan, rawInput: PlanInput): DailyPlan {
   const input = withDefaults(rawInput);
   if (!canExtend(plan, input.config)) return plan;
   const rng = createRng(`extra:${input.seed}:${plan.extraBatches}`);
-  const typeById = new Map(input.cards.map((card) => [card.id, card.type]));
-  const tail = plan.items
-    .slice(-input.config.maxSameTypeRun)
-    .map((item): ItemFormat => (item.kind === 'surprise' ? 'surprise' : (typeById.get(item.cardId) ?? 'fact')));
+  const tail = plan.items.slice(-input.config.maxSameTypeRun).map(formatLookup(input.cards));
   const selection = select(input, planCardIds(plan), input.config.extraBatchSize, false, rng);
   const extra = toFeedItems(selection, input, rng, tail);
   return { ...plan, items: [...plan.items, ...extra], extraBatches: plan.extraBatches + 1 };

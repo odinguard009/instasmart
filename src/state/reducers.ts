@@ -9,8 +9,8 @@ import { eligibleCards } from '@/domain/moderation';
 import { sm2Next } from '@/domain/sm2';
 import { bumpStreak } from '@/domain/streak';
 import type { DateKey } from '@/lib/date';
+import { reviveState } from './persistence';
 import {
-  userStateSchema,
   type CardProgress,
   type DayState,
   type Favorite,
@@ -164,7 +164,7 @@ export function parseImportedState(json: string): ImportResult {
   } catch {
     return { ok: false, error: 'File bukan JSON yang valid.' };
   }
-  const parsed = userStateSchema.safeParse(raw);
-  if (!parsed.success) return { ok: false, error: 'Isi file tidak cocok dengan format cadangan Instasmart.' };
-  return { ok: true, state: parsed.data };
+  const state = reviveState(raw);
+  if (!state) return { ok: false, error: 'Isi file tidak cocok dengan format cadangan Instasmart.' };
+  return { ok: true, state };
 }

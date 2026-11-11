@@ -60,11 +60,14 @@ export function layoutText(rawText: string, options: TextLayoutOptions): TextLay
   const wrapAt = (size: number) => wrapText(text, options.maxWidth / (size * charWidth));
 
   const maxHeight = options.maxHeight ?? Infinity;
-  const fits = (size: number) => {
+  const longestWord = Math.max(0, ...text.split(/\s+/).map((word) => word.length));
+  const fits = (size: number, allowSplitWords: boolean) => {
     const count = wrapAt(size).length;
-    return count <= options.maxLines && count * size * lineHeight <= maxHeight;
+    const wordsIntact = longestWord <= Math.floor(options.maxWidth / (size * charWidth));
+    return count <= options.maxLines && count * size * lineHeight <= maxHeight && (allowSplitWords || wordsIntact);
   };
-  const fontSize = options.sizes.find(fits) ?? smallest;
+  // Utamakan ukuran yang tidak memotong kata di tengah; baru longgarkan jika tidak ada yang muat.
+  const fontSize = options.sizes.find((size) => fits(size, false)) ?? options.sizes.find((size) => fits(size, true)) ?? smallest;
   let lines = wrapAt(fontSize);
   if (lines.length > options.maxLines) {
     lines = lines.slice(0, options.maxLines);

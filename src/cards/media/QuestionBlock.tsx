@@ -39,7 +39,7 @@ export function QuestionBlock({ question, cardId, answerKey, topicPalette, varia
 
   return (
     <div
-      className={`flex w-full flex-col justify-center gap-3 px-5 py-7 ${compact ? '' : 'min-h-[100vw] sm:min-h-[430px]'}`}
+      className={`flex w-full flex-col justify-center gap-3 px-5 py-7 ${compact ? '' : 'min-h-[min(100vw,480px)]'}`}
       style={{ background: `linear-gradient(160deg, ${palette.bg}, ${palette.bgDeep})`, color: palette.ink }}
     >
       <p className="w-fit rounded-full px-3 py-1 text-xs font-extrabold uppercase tracking-wider" style={{ background: palette.accent, color: palette.accentInk }}>

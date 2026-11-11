@@ -121,3 +121,11 @@ describe('render seluruh konten (tanpa peramban)', () => {
     }
   });
 });
+
+describe('layoutText dan kata panjang', () => {
+  it('mengecilkan font daripada memotong kata di tengah', () => {
+    const layout = layoutText('Konsensualisme', { maxWidth: 912, maxLines: 6, sizes: [150, 128, 110, 94, 80] });
+    expect(layout.lines).toEqual(['Konsensualisme']);
+    expect(layout.fontSize).toBeLessThan(150);
+  });
+});

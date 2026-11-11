@@ -69,6 +69,59 @@ await visit('08-favorit', '/favorit', () => expectText('Favorit'));
 await visit('09-profil', '/profil', () => expectText('Kuota harian'));
 await visit('10-review', '/review', () => expectText('Lapor salah'));
 
+await visit('11-kuis-detail', '/kartu/perdata-unsur-pmh', async () => {
+  await page.getByRole('button', { name: /Ada perjanjian tertulis sebelumnya/ }).click();
+  await page.waitForTimeout(300);
+  await expectText('Tepat!');
+  await page.getByRole('button', { name: 'Suka (masuk Favorit)' }).click();
+});
+await visit('12-favorit-terisi', '/favorit', async () => {
+  if ((await page.locator('a[href="#/kartu/perdata-unsur-pmh"]').count()) !== 1) errors.push('[cek] kartu yang disukai tidak muncul di Favorit');
+});
+await visit('13-carousel-detail', '/kartu/perdata-asas-perjanjian', async () => {
+  await page.getByRole('button', { name: 'Ke slide 3' }).click();
+  await page.waitForTimeout(700);
+  await expectText('3/7');
+});
+await visit('14-reel-detail', '/kartu/pidana-empat-hal-baru', () => page.waitForTimeout(6000));
+await visit('15-video-detail', '/kartu/kebangsaan-video-contoh-tujuan-negara', async () => {
+  await page.waitForTimeout(1500);
+  const ready = await page.locator('video').evaluate((video) => video.readyState >= 2 && video.videoWidth > 0);
+  if (!ready) errors.push('[cek] video MP4 lokal tidak termuat');
+});
+await visit('16-review-setujui', '/review', async () => {
+  await page.getByRole('button', { name: 'Tandai sudah diverifikasi' }).first().click();
+  await expectText('Disetujui · 1');
+  await page.getByRole('button', { name: 'Lapor salah', exact: true }).first().click();
+  await page.getByRole('button', { name: 'Laporkan', exact: true }).click();
+  await expectText('Dilaporkan · 1');
+});
+await visit('17-tema-terang', '/profil', async () => {
+  await page.getByText('Terang', { exact: true }).click();
+  await page.waitForTimeout(300);
+  if (await page.evaluate(() => document.documentElement.classList.contains('dark'))) errors.push('[cek] tema terang tidak diterapkan');
+});
+await visit('18-beranda-terang', '/');
+await visit('19-render-frame', '/render/perdata-wanprestasi-vs-pmh?t=9000');
+
+// Offline: konteks terpisah dengan service worker aktif, lalu putuskan jaringan dan muat ulang.
+const offlineContext = await browser.newContext({ viewport: { width: 390, height: 844 } });
+const offlinePage = await offlineContext.newPage();
+await offlinePage.goto(BASE);
+await offlinePage.evaluate(() => navigator.serviceWorker.ready);
+await offlinePage.waitForTimeout(2500);
+await offlineContext.setOffline(true);
+try {
+  await offlinePage.reload();
+  await offlinePage.waitForTimeout(1000);
+  const offlineOk = (await offlinePage.getByText('Instasmart').count()) > 0 && (await offlinePage.locator('article').count()) > 0;
+  if (offlineOk) console.log('ok   offline (dimuat ulang tanpa jaringan)');
+  else errors.push('[cek] aplikasi tidak tampil saat offline');
+} catch (error) {
+  errors.push(`[cek] muat ulang offline gagal: ${error.message}`);
+}
+await offlineContext.close();
+
 const manifest = await page.request.get(`${BASE}manifest.webmanifest`);
 if (!manifest.ok()) errors.push(`[cek] manifest gagal dimuat: HTTP ${manifest.status()}`);
 else console.log(`ok   manifest (${(await manifest.json()).name})`);

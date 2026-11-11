@@ -19,7 +19,7 @@ export function FlashcardMedia({ card, topicPalette }: { card: CardOf<'review'>;
   const open = revealed || graded !== undefined;
 
   return (
-    <div className="flex min-h-[100vw] flex-col justify-center gap-4 px-5 py-7 sm:min-h-[430px]" style={{ background: `linear-gradient(160deg, ${palette.bg}, ${palette.bgDeep})`, color: palette.ink }}>
+    <div className="flex min-h-[min(100vw,480px)] flex-col justify-center gap-4 px-5 py-7" style={{ background: `linear-gradient(160deg, ${palette.bg}, ${palette.bgDeep})`, color: palette.ink }}>
       <p className="w-fit rounded-full px-3 py-1 text-xs font-extrabold uppercase tracking-wider" style={{ background: palette.accent, color: palette.accentInk }}>
         Ingat lagi
       </p>

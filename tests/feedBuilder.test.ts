@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { FEED_CONFIG } from '@/config/feed';
 import { library } from '@/content';
 import type { Card } from '@/content/schema';
-import { arrangeForVariety, buildDailyPlan, canExtend, extendPlan, interleaveEvenly, longestRun, planCardIds, type ItemFormat } from '@/domain/feedBuilder';
+import { arrangeForVariety, buildDailyPlan, canExtend, extendPlan, formatLookup, interleaveEvenly, longestRun, planCardIds, type ItemFormat } from '@/domain/feedBuilder';
 import { addDays } from '@/lib/date';
 import { createRng } from '@/lib/rng';
 import type { DailyPlan, ProgressMap } from '@/state/schema';
@@ -12,8 +12,7 @@ const TODAY = '2026-03-10';
 const cards = makeLibrary();
 
 function formats(plan: DailyPlan, source: readonly Card[]): ItemFormat[] {
-  const typeById = new Map(source.map((card) => [card.id, card.type]));
-  return plan.items.map((item) => (item.kind === 'surprise' ? 'surprise' : (typeById.get(item.cardId) as ItemFormat)));
+  return plan.items.map(formatLookup(source));
 }
 
 /** Menjalankan rencana untuk banyak tanggal supaya aturan teruji pada banyak seed. */
@@ -197,11 +196,22 @@ describe('fungsi penyusun', () => {
 });
 
 describe('dengan konten asli di content/cards', () => {
-  it('30 hari berturut-turut: kuota terpenuhi dan aturan variasi dipatuhi', () => {
+  it('40 hari berturut-turut: kuota terpenuhi dan aturan variasi dipatuhi', () => {
     for (const plan of manyPlans(library.cards)) {
       expect(plan.items).toHaveLength(FEED_CONFIG.defaultQuota);
       expect(longestRun(formats(plan, library.cards))).toBeLessThanOrEqual(FEED_CONFIG.maxSameTypeRun);
       expect(plan.storyIds).toHaveLength(FEED_CONFIG.storiesPerDay);
     }
+  });
+});
+
+describe('kejutan harian tidak mengulang kartu yang sama terus-menerus', () => {
+  it('kartu kejutan yang belum dilihat didahulukan daripada yang sudah', () => {
+    const seenFirst: ProgressMap = { 'fact-0': { seenCount: 4, lastSeen: '2026-03-09', correct: 0, wrong: 0 } };
+    const picked = new Set<string>();
+    for (const plan of manyPlans(cards, 20, seenFirst)) {
+      for (const item of plan.items) if (item.kind === 'surprise' && item.surprise.type === 'unique-card') picked.add(item.surprise.cardId);
+    }
+    expect(picked).toEqual(new Set(['fact-1']));
   });
 });

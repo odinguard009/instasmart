@@ -33,7 +33,7 @@ function Comments({ card }: { card: Card }) {
         </p>
       ))}
       {!expanded && comments.length > COMMENTS_PREVIEW && (
-        <button type="button" className="py-1 text-muted" onClick={() => setExpanded(true)}>
+        <button type="button" className="min-h-11 text-muted" onClick={() => setExpanded(true)}>
           Lihat semua {comments.length} komentar
         </button>
       )}
@@ -82,6 +82,7 @@ export function PostShell({ card, ribbon, caption, extra, children }: PostShellP
           <button type="button" className="grid h-11 w-11 place-items-center" aria-label="Menu post" aria-expanded={menuOpen} onClick={() => setMenuOpen((open) => !open)}>
             <Icon name="more" className="h-6 w-6" />
           </button>
+          {menuOpen && <button type="button" className="fixed inset-0 z-10 cursor-default" aria-label="Tutup menu" onClick={() => setMenuOpen(false)} />}
           {menuOpen && (
             <div className="absolute right-2 top-11 z-20 w-56 overflow-hidden rounded-xl border border-line bg-surface text-sm shadow-xl">
               <p className="border-b border-line px-4 py-2.5 text-xs text-muted">{accountOf(card)?.bio}</p>

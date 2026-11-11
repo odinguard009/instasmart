@@ -4,7 +4,7 @@ import { planCardIds } from '@/domain/feedBuilder';
 import { effectiveStatus, eligibleCards } from '@/domain/moderation';
 import { bumpStreak, visibleStreak } from '@/domain/streak';
 import { accuracyBySubTopic, totals, weakestTopics } from '@/domain/stats';
-import { loadState, saveState, STORAGE_KEY, type KeyValueStorage } from '@/state/persistence';
+import { loadState, reviveState, saveState, STORAGE_KEY, type KeyValueStorage } from '@/state/persistence';
 import * as r from '@/state/reducers';
 import { createInitialState, userStateSchema, type UserState } from '@/state/schema';
 import { makeCard, makeLibrary } from './fixtures';
@@ -196,6 +196,25 @@ describe('penyimpanan dan export/import', () => {
     expect(loadState(storage)).toEqual(createInitialState());
     expect([...storage.data.keys()].some((key) => key.includes('rusak'))).toBe(true);
     expect(loadState(undefined)).toEqual(createInitialState());
+  });
+
+  it('data versi lama tanpa field baru tetap dimuat: yang hilang diisi default, progres utuh', () => {
+    const state = r.recordAnswer(started(), { answerKey: 'quiz-0', cardId: 'quiz-0', selected: 1, correct: true, quality: 4 }, TODAY);
+    const { sound: _sound, ...oldSettings } = state.settings;
+    const { history: _history, ...oldState } = { ...state, settings: oldSettings };
+    const revived = reviveState(oldState);
+    expect(revived?.settings.sound).toBe(false);
+    expect(revived?.history).toEqual({});
+    expect(revived?.progress).toEqual(state.progress);
+  });
+
+  it('rencana harian yang tak valid dibuang, sisanya dipertahankan', () => {
+    const state = r.toggleFavorite(started(), 'fact-0', 'liked', 't');
+    const revived = reviveState({ ...state, day: { rusak: true } });
+    expect(revived?.day).toBeNull();
+    expect(revived?.favorites).toEqual(state.favorites);
+    expect(reviveState('bukan objek')).toBeNull();
+    expect(reviveState({ ...state, version: 99 })).toBeNull();
   });
 
   it('export -> import bolak-balik utuh; file asing ditolak dengan pesan', () => {

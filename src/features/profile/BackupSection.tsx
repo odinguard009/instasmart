@@ -38,7 +38,7 @@ export function BackupSection() {
         Cadangan progres
       </h2>
       <p className="mt-1 text-xs text-muted">Semua data tersimpan hanya di perangkat ini. Ekspor secara berkala, terutama sebelum ganti HP atau menghapus data peramban.</p>
-      <div className="mt-3 flex gap-2">
+      <div className="relative mt-3 flex gap-2">
         <button type="button" className="h-12 flex-1 rounded-xl bg-raised text-sm font-bold" onClick={exportJson}>
           Export JSON
         </button>

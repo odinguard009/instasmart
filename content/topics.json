@@ -499,6 +499,10 @@
       {
         "id": "peradilan-militer-umum",
         "name": "Susunan & Kewenangan"
+      },
+      {
+        "id": "acara-militer",
+        "name": "Acara Peradilan Militer"
       }
     ]
   },

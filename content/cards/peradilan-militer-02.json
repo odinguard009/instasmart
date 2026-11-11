@@ -304,5 +304,636 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-ankum-tahan-20",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Untuk kepentingan penyidikan, Atasan yang Berhak Menghukum (Ankum) dapat menahan tersangka paling lama…",
+    "options": [
+      "40 hari",
+      "20 hari",
+      "60 hari",
+      "30 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 78 ayat (1) UU 31/1997: dengan surat keputusannya, Ankum berwenang menahan tersangka paling lama 20 (dua puluh) hari.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 78 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-perpanjang-papera",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Penahanan oleh Ankum perlu diperpanjang. Yang berwenang memperpanjang adalah…",
+    "options": [
+      "Ketua Pengadilan Militer",
+      "Ankum itu sendiri",
+      "Perwira Penyerah Perkara",
+      "Oditur Jenderal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 78 ayat (2): diperpanjang oleh Perwira Penyerah Perkara (Papera) yang berwenang, setiap kali 30 hari dan paling lama 180 hari. Kewenangan ini juga tercantum dalam daftar wewenang Papera (Pasal 123 ayat (1) huruf d).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 78 ayat (2), Pasal 123",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-batas-200-hari",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Pada tahap penyidikan, setelah berapa hari tersangka harus sudah dikeluarkan dari tahanan demi hukum?",
+    "options": [
+      "200 hari",
+      "210 hari",
+      "120 hari",
+      "180 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 78 ayat (4): sesudah 200 hari. Angkanya = 20 hari penahanan Ankum + paling lama 180 hari perpanjangan Papera.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 78",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-syarat-ancaman-3-bulan",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Penahanan tersangka dalam UU Peradilan Militer hanya dapat dikenakan untuk tindak pidana yang diancam pidana penjara…",
+    "options": [
+      "3 bulan atau lebih",
+      "5 tahun atau lebih",
+      "1 tahun atau lebih",
+      "1 bulan atau lebih"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 79 ayat (2): 3 (tiga) bulan atau lebih, termasuk percobaan maupun pemberian bantuan. Selain itu harus ada dugaan keras berdasar bukti cukup dan kekhawatiran melarikan diri, merusak/menghilangkan barang bukti, mengulangi tindak pidana, atau membuat keonaran (ayat (1)).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 79",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-tertangkap-tangan",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Dalam hal tertangkap tangan, penangkapan terhadap prajurit…",
+    "options": [
+      "Boleh tanpa surat perintah",
+      "Harus seizin Oditur lebih dulu",
+      "Hanya boleh oleh Polisi Militer",
+      "Wajib menunggu surat perintah Ankum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 77 ayat (2): dilakukan tanpa surat perintah, dengan ketentuan penangkap segera menyerahkan tersangka beserta barang bukti kepada penyidik terdekat.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 77 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-tembusan-keluarga",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Tembusan surat perintah penangkapan wajib diberikan segera sesudah penangkapan kepada…",
+    "options": [
+      "Panglima TNI",
+      "Oditur Jenderal",
+      "Ketua Pengadilan Militer",
+      "Keluarganya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 77 ayat (3): tembusan diberikan kepada keluarganya segera sesudah penangkapan. Sesudahnya penyidik wajib segera melapor kepada Ankum yang bersangkutan (ayat (4)).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 77",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-papera-tunjuk-korem",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Papera dapat menunjuk komandan/kepala kesatuan bawahan untuk bertindak selaku Papera, paling rendah setingkat…",
+    "options": [
+      "Panglima Kodam",
+      "Komandan Kodim",
+      "Komandan Batalyon",
+      "Komandan Korem"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 122 ayat (2): paling rendah setingkat Komandan Komando Resor Militer (Korem).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 122 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-tutup-kepentingan-umum",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Kewenangan menutup perkara demi kepentingan umum/militer hanya ada pada…",
+    "options": [
+      "Oditur",
+      "Ankum",
+      "Setiap Papera",
+      "Panglima"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 123 ayat (2): hanya pada Papera menurut Pasal 122 ayat (1) huruf a, yaitu Panglima. Penutupan demi kepentingan hukum tidak dibatasi demikian.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 123 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-papera-tak-sependapat",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Papera tidak sependapat dengan pendapat hukum Oditur tentang penyelesaian perkara. Papera…",
+    "options": [
+      "Harus mengikuti pendapat Oditur",
+      "Membawa perkara ke Jaksa Agung",
+      "Menyerahkan ke Mahkamah Agung",
+      "Wajib memberi jawaban tertulis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 125 ayat (2): Papera wajib memberikan jawaban tertulis. Pendapat hukum Oditur dapat berupa permintaan agar perkara diserahkan ke pengadilan, diselesaikan menurut Hukum Disiplin Prajurit, atau ditutup (ayat (1)).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 125",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-desersi-bap",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Berkas perkara desersi yang tersangkanya tidak ditemukan: berita acara pemeriksaan (BAP) tersangka…",
+    "options": [
+      "Tetap wajib dilampirkan",
+      "Diganti BAP komandan satuan",
+      "Diganti keterangan keluarganya",
+      "Bukan syarat kelengkapan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 124 ayat (4): BAP tersangka tidak merupakan persyaratan lengkapnya berkas perkara desersi yang tersangkanya tidak diketemukan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 124 ayat (4)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-desersi-in-absentia",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Perkara desersi dapat diperiksa dan diputus tanpa hadirnya terdakwa bila terdakwa tidak ditemukan dalam … berturut-turut dan sudah dipanggil sah 3 kali berturut-turut.",
+    "options": [
+      "1 tahun",
+      "30 hari",
+      "3 bulan",
+      "6 bulan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 143: 6 (enam) bulan berturut-turut, dipanggil secara sah 3 (tiga) kali berturut-turut, dan tidak hadir tanpa suatu alasan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 143",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-tertutup-kesusilaan",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 141 UU 31/1997, sidang pengadilan militer WAJIB dinyatakan tertutup untuk umum dalam perkara…",
+    "options": [
+      "Kesusilaan",
+      "Insubordinasi",
+      "Desersi",
+      "Koneksitas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 141 ayat (2): kesusilaan. Untuk perkara yang menyangkut rahasia militer dan/atau rahasia negara, hakim ketua DAPAT menyatakan sidang tertutup (ayat (3)).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 141",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-batal-demi-hukum",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Hakim ketua tidak membuka sidang untuk umum padahal bukan perkara kesusilaan. Akibatnya menurut Pasal 141 ayat (9)…",
+    "options": [
+      "Putusan batal demi hukum",
+      "Putusan dapat dibatalkan",
+      "Sidang diulang hakim lain",
+      "Hanya teguran bagi hakim ketua"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 141 ayat (9): tidak dipenuhinya ayat (2) (sidang terbuka), ayat (4) (pemeriksaan lisan dalam bahasa Indonesia), dan ayat (8) (jawaban bebas) mengakibatkan batalnya putusan demi hukum.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 141 ayat (9)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-koneksitas-asas",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Menurut UU 31/1997, tindak pidana yang dilakukan bersama-sama oleh yustisiabel peradilan militer dan peradilan umum pada asasnya diadili oleh…",
+    "options": [
+      "Pengadilan dalam lingkungan peradilan umum",
+      "Mahkamah Agung secara langsung",
+      "Pengadilan dalam lingkungan peradilan militer",
+      "Pengadilan HAM ad hoc"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 198 ayat (1): peradilan umum, kecuali menurut keputusan Menteri dengan persetujuan Menteri Kehakiman perkara itu harus diadili peradilan militer. Ketentuan koneksitas ini perlu dicek terhadap KUHAP baru (UU 20/2025) yang berlaku sejak 2 Januari 2026.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 198 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-titik-berat-kerugian",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Dalam perkara koneksitas, ukuran untuk menentukan perkara diadili peradilan umum atau militer adalah…",
+    "options": [
+      "Jumlah pelaku terbanyak",
+      "Titik berat kerugian",
+      "Tempat kejadian perkara",
+      "Pangkat pelaku tertinggi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 200: titik berat kerugian yang ditimbulkan. Bila pada kepentingan umum, diadili peradilan umum; bila pada kepentingan militer, diadili peradilan militer. Ketentuan koneksitas ini perlu dicek terhadap KUHAP baru (UU 20/2025) yang berlaku sejak 2 Januari 2026.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 200",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-beda-jagung-orjen",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Jaksa Agung dan Oditur Jenderal berbeda pendapat tentang pengadilan yang berwenang mengadili perkara koneksitas. Yang menentukan…",
+    "options": [
+      "Pendapat Oditur Jenderal",
+      "Diputus Mahkamah Agung",
+      "Pendapat Jaksa Agung",
+      "Diputus Presiden"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 202 ayat (3): pendapat Jaksa Agung yang menentukan. Ketentuan koneksitas ini perlu dicek terhadap KUHAP baru (UU 20/2025) yang berlaku sejak 2 Januari 2026.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 202",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-majelis-koneksitas",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Perkara koneksitas diadili oleh majelis hakim yang terdiri dari sekurang-kurangnya…",
+    "options": [
+      "7 orang hakim",
+      "1 orang hakim",
+      "3 orang hakim",
+      "5 orang hakim"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 203 ayat (1): sekurang-kurangnya 3 orang hakim. Hakim ketua berasal dari lingkungan peradilan yang mengadili, hakim anggota ditetapkan berimbang dari kedua lingkungan (ayat (2)-(3)). Ketentuan koneksitas ini perlu dicek terhadap KUHAP baru (UU 20/2025) yang berlaku sejak 2 Januari 2026.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 203",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-banding-7-hari",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Permintaan banding atas putusan pengadilan militer tingkat pertama dapat diterima panitera dalam waktu…",
+    "options": [
+      "30 hari",
+      "3 hari",
+      "7 hari",
+      "14 hari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 220 ayat (2): 7 (tujuh) hari sesudah putusan dijatuhkan atau sesudah putusan diberitahukan kepada terdakwa yang tidak hadir. Untuk putusan tanpa hadirnya terdakwa: 7 hari sesudah putusan diumumkan (ayat (4)).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 220",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-banding-pengecualian",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 219, putusan mana yang TIDAK dapat dimintakan banding?",
+    "options": [
+      "Putusan pemecatan dari dinas militer",
+      "Putusan bebas dari segala dakwaan",
+      "Putusan pidana denda acara biasa",
+      "Putusan pemidanaan penjara 2 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 219 mengecualikan putusan bebas dari segala dakwaan, putusan lepas dari segala tuntutan hukum yang menyangkut kurang tepatnya penerapan hukum, dan putusan acara cepat berupa pidana perampasan kemerdekaan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 219",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-izin-penasihat-hukum",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Penasihat hukum yang mendampingi tersangka prajurit di tingkat penyidikan harus atas perintah atau seizin…",
+    "options": [
+      "Perwira Penyerah Perkara",
+      "Kepala Pengadilan Militer",
+      "Oditur Jenderal",
+      "Komandan Polisi Militer"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 216 ayat (1): atas perintah atau seizin Papera atau pejabat lain yang ditunjuknya. Untuk terdakwa sipil dalam perkara koneksitas: seizin Kepala Pengadilan (ayat (2)). Bantuan hukum diutamakan dari dinas bantuan hukum di lingkungan Angkatan Bersenjata (Pasal 215 ayat (2)).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 215, Pasal 216",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-wewenang-papera",
+    "type": "review",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "front": "Sebutkan wewenang Perwira Penyerah Perkara menurut Pasal 123 ayat (1) UU 31/1997.",
+    "back": "Memerintahkan penyidikan; menerima laporan penyidikan; memerintahkan upaya paksa; memperpanjang penahanan; menerima/meminta pendapat hukum Oditur; menyerahkan perkara ke pengadilan; menentukan perkara diselesaikan menurut Hukum Disiplin Prajurit; menutup perkara demi kepentingan hukum atau kepentingan umum/militer.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 123 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-wewenang-ankum-sidik",
+    "type": "review",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "front": "Apa wewenang Ankum dalam penyidikan menurut Pasal 74 UU 31/1997?",
+    "back": "Melakukan penyidikan terhadap prajurit bawahannya (pelaksanaannya oleh penyidik Polisi Militer atau Oditur), menerima laporan pelaksanaan penyidikan, menerima berkas perkara hasil penyidikan, dan menahan tersangka anggota bawahannya.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 74",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-angka-penahanan-militer",
+    "type": "fact",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "visual": {
+      "template": "infographic",
+      "title": "Penahanan tahap penyidikan",
+      "points": [
+        "Ankum: ≤ 20 hari",
+        "Papera: +30 hari per kali",
+        "Perpanjangan ≤ 180 hari",
+        "Hari ke-200: keluar demi hukum"
+      ]
+    },
+    "caption": "Pasal 78 UU 31/1997. Tersangka dapat dikeluarkan lebih awal bila kepentingan pemeriksaan sudah terpenuhi (ayat (3)).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 78",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-alur-koneksitas",
+    "type": "carousel",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 31/1997",
+          "title": "Koneksitas: diadili di mana?",
+          "subtitle": "sipil + militer bersama",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Langkahnya",
+          "points": [
+            "Tim tetap menyidik",
+            "Jaksa + Oditur meneliti",
+            "Ukur titik berat kerugian",
+            "Beda pendapat: Jaksa Agung"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Hasilnya",
+          "points": [
+            "Kepentingan umum: PN",
+            "Kepentingan militer: Dilmil",
+            "Majelis ≥ 3 hakim",
+            "Hakim anggota berimbang"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Titik berat kerugian perkara koneksitas ada pada kepentingan umum. Perkara diadili…",
+        "options": [
+          "Pengadilan Militer Tinggi",
+          "Pengadilan Negeri",
+          "Pengadilan Militer",
+          "Mahkamah Agung"
+        ],
+        "answerIndex": 1,
+        "explanation": "Diadili peradilan umum (Pasal 200 ayat (1))."
+      }
+    ],
+    "caption": "Alur koneksitas menurut UU 31/1997 Pasal 198-203. Tim tetap = Polisi Militer, Oditur, dan penyidik peradilan umum. Ketentuan koneksitas ini perlu dicek terhadap KUHAP baru (UU 20/2025) yang berlaku sejak 2 Januari 2026.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 198-203",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-humor-desersi-kabur",
+    "type": "humor",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "visual": {
+      "template": "meme",
+      "top": "Kabur dari kesatuan biar sidangnya tak jalan",
+      "bottom": "Diputus tanpa hadir",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Kabur tidak menghentikan perkara desersi. Setelah 6 bulan tidak ditemukan dan 3 kali dipanggil sah, sidang jalan tanpa terdakwa.",
+    "teaches": "Perkara desersi yang terdakwanya melarikan diri dan tidak ditemukan 6 bulan berturut-turut serta sudah dipanggil sah 3 kali berturut-turut dapat diperiksa dan diputus tanpa hadirnya terdakwa (Pasal 143 UU 31/1997).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 143",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

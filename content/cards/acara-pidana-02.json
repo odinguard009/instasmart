@@ -1,0 +1,544 @@
+[
+  {
+    "id": "acara-pidana-sembilan-upaya-paksa",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Upaya paksa di KUHAP baru",
+      "points": [
+        "Penetapan tersangka, penangkapan, penahanan",
+        "Penggeledahan, penyitaan",
+        "Penyadapan, pemeriksaan surat",
+        "Pemblokiran",
+        "Larangan keluar wilayah Indonesia"
+      ]
+    },
+    "caption": "Menurut artikel MARINews, Pasal 89 KUHAP baru menyebut sembilan bentuk upaya paksa. Penetapan tersangka kini tercantum sebagai upaya paksa, bukan lagi hanya hasil tafsir putusan MK.",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "penyadapan masuk daftar, catat"
+      },
+      {
+        "user": "saksi.cicak",
+        "text": "saya cuma cicak, bukan alat sadap"
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 89 (menurut artikel MARINews; cek teks UU)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/perluasan-objek-praperadilan-pasca-kuhap-baru-0Kp"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-upaya-paksa-bukan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Menurut daftar upaya paksa KUHAP baru (Pasal 89, menurut ulasan MARINews), manakah yang TIDAK termasuk?",
+    "options": [
+      "Pemblokiran",
+      "Pembacaan tuntutan",
+      "Penyadapan",
+      "Penetapan tersangka"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pembacaan tuntutan adalah tahap persidangan, bukan upaya paksa. Daftar upaya paksa: penetapan tersangka, penangkapan, penahanan, penggeledahan, penyitaan, penyadapan, pemeriksaan surat, pemblokiran, dan larangan keluar wilayah Indonesia.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 89 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/perluasan-objek-praperadilan-pasca-kuhap-baru-0Kp"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-objek-praperadilan-baru",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Objek praperadilan (KUHAP baru)",
+      "points": [
+        "Sah/tidaknya upaya paksa",
+        "Sah/tidaknya penghentian penyidikan atau penuntutan",
+        "Ganti rugi dan/atau rehabilitasi",
+        "Sita atas benda yang tak terkait tindak pidana",
+        "Penundaan perkara tanpa alasan sah; penangguhan pembantaran"
+      ]
+    },
+    "caption": "Enam objek menurut MARINews (Pasal 158). Yang baru dibanding KUHAP lama: penyitaan benda yang tidak terkait tindak pidana, penundaan perkara tanpa alasan yang sah (undue delay), dan penangguhan pembantaran penahanan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 158 (menurut artikel MARINews; cek teks UU)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/perluasan-objek-praperadilan-pasca-kuhap-baru-0Kp"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-undue-delay",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Penyidik membiarkan perkara mangkrak tanpa alasan yang sah. Menurut ulasan MARINews atas KUHAP baru, keadaan ini…",
+    "options": [
+      "Hanya bisa diadukan ke DPR",
+      "Langsung menggugurkan perkara",
+      "Bisa dimohonkan ke praperadilan",
+      "Hanya bisa dilaporkan ke Ombudsman"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penundaan penanganan perkara tanpa alasan yang sah (undue delay) disebut sebagai salah satu objek praperadilan yang baru dalam Pasal 158 KUHAP baru.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 158 huruf e (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/perluasan-objek-praperadilan-pasca-kuhap-baru-0Kp"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-banding-praperadilan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Menurut ulasan MARINews atas Pasal 164 KUHAP baru, putusan praperadilan pada asasnya…",
+    "options": [
+      "Selalu bisa dibanding ke PT",
+      "Tidak bisa dibanding, dengan satu pengecualian",
+      "Bisa diajukan kasasi langsung ke Mahkamah Agung",
+      "Bisa dimohonkan PK sekali"
+    ],
+    "answerIndex": 1,
+    "explanation": "Putusan praperadilan tidak dapat dibanding, kecuali putusan yang menetapkan tidak sahnya penghentian penyidikan atau penuntutan: untuk itu dapat dimintakan putusan akhir ke pengadilan tinggi.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 164 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/perluasan-objek-praperadilan-pasca-kuhap-baru-0Kp"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-letak-praperadilan",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "front": "Di bab dan pasal berapa praperadilan diatur dalam KUHAP baru (menurut MARINews)?",
+    "back": "Bab XI bagian kesatu, Pasal 158 sampai dengan Pasal 164. Pasal 158 memuat objek, Pasal 163 acara pemeriksaan dan putusan, Pasal 164 soal banding.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 158-164 (menurut artikel MARINews)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-praperadilan-satpam",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Mangkrak bukan hobi",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Klien saya ditahan, tapi berkasnya diam setahun."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Undue delay? Itu bisa diuji di praperadilan sekarang."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Jadi \"nanti dulu\" pun ada batasnya!"
+        }
+      ]
+    },
+    "caption": "Ulasan MARINews: KUHAP baru memperluas objek praperadilan, termasuk penundaan perkara tanpa alasan yang sah.",
+    "teaches": "Undue delay (penundaan penanganan perkara tanpa alasan yang sah) termasuk objek praperadilan menurut Pasal 158 KUHAP baru, sebagaimana diulas MARINews.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 158 (menurut artikel MARINews)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-dpa-korporasi",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Penundaan penuntutan (DPA)",
+      "text": "DPA hanya untuk korporasi",
+      "sub": "Penuntut umum menunda penuntutan selama korporasi memenuhi kewajiban dalam perjanjian."
+    },
+    "caption": "Menurut Hukumonline, Pasal 328 KUHAP baru membatasi DPA pada perkara pidana yang dilakukan korporasi, jadi tidak berlaku bagi pelaku perorangan. Penundaannya bersyarat: berlaku sepanjang korporasi memenuhi kewajiban yang disepakati.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 1 angka 17 dan Pasal 328 (menurut artikel Hukumonline dan MARINews)",
+      "url": "https://www.hukumonline.com/berita/a/dpa-jadi-instrumen-baru-penyelesaian-pidana-korporasi-dalam-kuhap-baru-lt69b105177df68/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-dpa-siapa",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Seorang direktur (pribadi) meminta Deferred Prosecution Agreement atas kasusnya sendiri. Menurut ulasan atas KUHAP baru…",
+    "options": [
+      "Tidak bisa, DPA hanya untuk korporasi",
+      "Bisa, atas izin Ketua PN",
+      "Bisa, asal mengaku bersalah",
+      "Bisa, bila kerugian negara di bawah Rp1 miliar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 angka 17 mendefinisikan DPA sebagai mekanisme menunda penuntutan terhadap terdakwa yang pelakunya korporasi. Menurut Hukumonline, Pasal 328 menegaskan DPA tidak berlaku bagi pelaku perorangan. Pengakuan bersalah perorangan adalah mekanisme lain (plea bargain).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 1 angka 17 dan Pasal 328 (menurut artikel Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/dpa-jadi-instrumen-baru-penyelesaian-pidana-korporasi-dalam-kuhap-baru-lt69b105177df68/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-dpa-tujuan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Menurut ulasan Hukumonline atas Pasal 328 ayat (1) KUHAP baru, manakah yang BUKAN tujuan DPA?",
+    "options": [
+      "Efisiensi sistem peradilan",
+      "Pemulihan kerugian",
+      "Menghapus pidana direksi",
+      "Kepatuhan hukum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tiga tujuan yang disebut: kepatuhan hukum, pemulihan kerugian, dan efisiensi sistem peradilan. DPA menunda penuntutan korporasi secara bersyarat; ulasan itu tidak menyebut penghapusan pidana pengurus.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 328 ayat (1) (menurut artikel Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/dpa-jadi-instrumen-baru-penyelesaian-pidana-korporasi-dalam-kuhap-baru-lt69b105177df68/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-empat-tahap",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Keadilan restoratif: kapan bisa?",
+      "points": [
+        "Tahap penyelidikan",
+        "Tahap penyidikan",
+        "Tahap penuntutan",
+        "Tahap pemeriksaan di sidang pengadilan"
+      ]
+    },
+    "caption": "Menurut artikel BPSDM Hukum, mekanisme keadilan restoratif KUHAP baru bisa ditempuh di empat tahap. Jalannya lewat permohonan para pihak atau penawaran dari penyelidik, penyidik, penuntut umum, atau hakim.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 79-82 (menurut artikel BPSDM Hukum; cek teks UU)",
+      "url": "https://bpsdm.kemenkum.go.id/artikel-bpsdm/keadilan-restoratif-berdasarkan-kuhap-2025"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-tujuh-hari",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel BPSDM Hukum, kesepakatan pemulihan dalam mekanisme keadilan restoratif KUHAP baru wajib dilaksanakan paling lama…",
+    "options": [
+      "14 hari",
+      "7 hari",
+      "30 hari",
+      "3 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Paling lama 7 hari. Laporan baru boleh dicabut setelah pelaku memenuhi seluruh kesepakatan; setelah itu perkara wajib dihentikan dan dimintakan penetapan pengadilan. Bila tidak dilaksanakan, penyidik membuat berita acara dan proses berlanjut.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Ketentuan keadilan restoratif (menurut artikel BPSDM Hukum)",
+      "url": "https://bpsdm.kemenkum.go.id/artikel-bpsdm/keadilan-restoratif-berdasarkan-kuhap-2025"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-dikecualikan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel BPSDM Hukum, tindak pidana mana yang DIKECUALIKAN dari mekanisme keadilan restoratif KUHAP baru?",
+    "options": [
+      "Kelalaian dengan ancaman denda",
+      "Tindak pidana korupsi",
+      "Pencurian ringan pertama kali",
+      "Penganiayaan ringan pertama kali"
+    ],
+    "answerIndex": 1,
+    "explanation": "Yang dikecualikan antara lain: keamanan negara, terorisme, korupsi, kekerasan seksual, tindak pidana terhadap nyawa, yang diancam pidana minimum khusus, dan narkotika (kecuali pengguna/penyalahguna).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pengecualian keadilan restoratif (menurut artikel BPSDM Hukum)",
+      "url": "https://bpsdm.kemenkum.go.id/artikel-bpsdm/keadilan-restoratif-berdasarkan-kuhap-2025"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-narkotika",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel BPSDM Hukum, untuk tindak pidana narkotika, keadilan restoratif KUHAP baru…",
+    "options": [
+      "Dikecualikan, kecuali bagi pengguna/penyalahguna",
+      "Hanya untuk bandar yang baru pertama kali tertangkap",
+      "Hanya di tahap kasasi",
+      "Berlaku untuk semua pelaku"
+    ],
+    "answerIndex": 0,
+    "explanation": "Narkotika masuk daftar pengecualian, dengan pengecualian lagi untuk yang berstatus pengguna atau penyalahguna.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pengecualian keadilan restoratif (menurut artikel BPSDM Hukum)",
+      "url": "https://bpsdm.kemenkum.go.id/artikel-bpsdm/keadilan-restoratif-berdasarkan-kuhap-2025"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-pengecualian",
+    "type": "mnemonic",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jembatan keledai",
+      "text": "TeKoS-NyaMiN",
+      "sub": "Terorisme, Korupsi, Seksual · Nyawa, Minimum khusus, Narkotika"
+    },
+    "caption": "Sebagian pengecualian keadilan restoratif menurut artikel BPSDM Hukum. Daftar lengkapnya lebih panjang (antara lain keamanan negara dan negara sahabat).",
+    "phrase": "TeKoS-NyaMiN",
+    "expansion": [
+      "Te: terorisme",
+      "Ko: korupsi",
+      "S: kekerasan seksual",
+      "Nya: tindak pidana terhadap nyawa",
+      "Mi: diancam pidana minimum khusus",
+      "N: narkotika (kecuali pengguna/penyalahguna)"
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pengecualian keadilan restoratif (menurut artikel BPSDM Hukum)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-cabut-laporan",
+    "type": "poll",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Korban dan pelaku sudah berdamai di tahap penyidikan. Kapan laporan boleh dicabut menurut ulasan BPSDM Hukum?",
+    "options": [
+      "Begitu damai ditandatangani",
+      "Setelah pelaku memenuhi seluruh kesepakatan",
+      "Setelah putusan berkekuatan tetap",
+      "Kapan saja, sesuka korban"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pencabutan laporan atau pengaduan hanya dapat dilakukan setelah pelaku memenuhi seluruh kesepakatan. Damai di atas kertas saja belum cukup.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Ketentuan keadilan restoratif (menurut artikel BPSDM Hukum)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-carousel-rj-dpa",
+    "type": "carousel",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "RJ vs DPA vs Plea bargain",
+          "subtitle": "Tiga jalan baru di KUHAP 2025 (menurut ulasan)",
+          "character": "gecko",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Keadilan restoratif",
+          "points": [
+            "Melibatkan korban, pelaku, keluarga",
+            "Tujuan: memulihkan keadaan semula",
+            "Kesepakatan dilaksanakan maks. 7 hari",
+            "Ada daftar tindak pidana yang dikecualikan"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "DPA",
+          "points": [
+            "Hanya untuk pelaku korporasi",
+            "Penuntutan ditunda secara bersyarat",
+            "Tujuan: kepatuhan, pemulihan kerugian, efisiensi"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Pengakuan bersalah",
+          "points": [
+            "Disebut di abstrak resmi UU 20/2025",
+            "Pengakuan saja tidak cukup untuk memidana",
+            "Rincian syaratnya: cek teks UU"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Korporasi tambang mencemari sungai. Jalan yang hanya tersedia untuk pelaku seperti ini adalah…",
+        "options": [
+          "Keadilan restoratif di tahap penyidikan",
+          "Diversi",
+          "Praperadilan",
+          "Deferred Prosecution Agreement"
+        ],
+        "answerIndex": 3,
+        "explanation": "DPA dirancang khusus untuk korporasi. Keadilan restoratif tidak khusus korporasi; diversi adalah mekanisme peradilan anak."
+      }
+    ],
+    "caption": "Tiga mekanisme yang sering tertukar. Semua rincian di sini diambil dari artikel ulasan, bukan teks UU.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 79-82, Pasal 1 angka 17, Pasal 328 (menurut artikel ulasan)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-reel-praperadilan-baru",
+    "type": "reel",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "meme.meja.hijau",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Praperadilan naik kelas",
+        "caption": "KUHAP baru memperluas objek praperadilan.",
+        "kicker": "KUHAP 2025",
+        "character": "owl",
+        "expression": "happy",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Dulu: tangkap, tahan, henti",
+        "caption": "KUHAP lama: penangkapan, penahanan, penghentian penyidikan atau penuntutan, ganti rugi.",
+        "character": "gecko",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Sekarang: semua upaya paksa",
+        "caption": "Termasuk penetapan tersangka, penyadapan, pemblokiran.",
+        "character": "kancil",
+        "expression": "smug"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Plus: perkara mangkrak",
+        "caption": "Penundaan tanpa alasan sah (undue delay) juga bisa diuji.",
+        "character": "cat",
+        "expression": "shock"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Cek teks UU-nya",
+        "caption": "Rinciannya dari ulasan MARINews; verifikasi Pasal 158 sebelum menghafal.",
+        "character": "owl",
+        "expression": "think",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 25 detik: apa yang berubah di praperadilan menurut ulasan MARINews.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel ulasan",
+      "reference": "Pasal 89 dan 158 (menurut artikel MARINews)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

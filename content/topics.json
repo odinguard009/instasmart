@@ -72,6 +72,14 @@
       {
         "id": "asas-peradilan-pidana",
         "name": "Asas Peradilan Pidana"
+      },
+      {
+        "id": "praperadilan-upaya-paksa",
+        "name": "Praperadilan & Upaya Paksa"
+      },
+      {
+        "id": "restoratif-dpa",
+        "name": "Keadilan Restoratif & DPA"
       }
     ]
   },

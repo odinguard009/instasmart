@@ -239,5 +239,70 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-carousel-istilah-militer",
+    "type": "carousel",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Kamus kilat peradilan militer",
+          "subtitle": "Istilah yang sering tertukar",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Siapa melakukan apa",
+          "points": [
+            "Ankum: atasan yang berhak menghukum",
+            "Papera: perwira penyerah perkara",
+            "Oditur: penuntut (juga dapat menyidik)",
+            "Polisi Militer: penyidik"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Pengadilan tingkat pertama",
+          "points": [
+            "Kapten ke bawah: Pengadilan Militer",
+            "Mayor ke atas: Pengadilan Militer Tinggi",
+            "Sengketa TUN militer: Pengadilan Militer Tinggi"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Pejabat yang menerbitkan keputusan penyerahan perkara ke pengadilan militer adalah…",
+        "options": [
+          "Ankum",
+          "Papera",
+          "Polisi Militer",
+          "Oditur militer"
+        ],
+        "answerIndex": 1,
+        "explanation": "Papera menerbitkan keputusan penyerahan perkara (Skeppera)."
+      }
+    ],
+    "caption": "Ringkasan istilah dan kompetensi dalam peradilan militer.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Ketentuan penyidikan, penyerahan perkara, dan kompetensi pengadilan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

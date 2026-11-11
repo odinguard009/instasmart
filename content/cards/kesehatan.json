@@ -275,5 +275,125 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-reel-sebelum-operasi",
+    "type": "reel",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Besok operasi",
+        "caption": "Apa saja hak pasien sebelum tindakan?",
+        "kicker": "Hak pasien",
+        "character": "cat",
+        "expression": "shock"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Dijelaskan dulu",
+        "caption": "Diagnosis, tindakan, risiko, dan alternatifnya.",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Baru setuju",
+        "caption": "Tindakan berisiko tinggi: persetujuan tertulis.",
+        "character": "gecko",
+        "expression": "happy",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Rekam medis rahasia",
+        "caption": "Dibuka hanya dalam keadaan tertentu, mis. atas persetujuan pasien.",
+        "character": "kancil",
+        "expression": "smug"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Dokter tidak menjamin sembuh",
+        "caption": "Perikatannya upaya (inspanning), diukur dari standar profesi.",
+        "character": "owl",
+        "expression": "happy",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 22 detik: persetujuan tindakan, rekam medis, dan sifat perikatan medis.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Persetujuan tindakan, rekam medis, dan hubungan dokter-pasien"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-carousel-kalau-ada-sengketa",
+    "type": "carousel",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Hasil buruk = malpraktik?",
+          "subtitle": "Belum tentu",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Transaksi terapeutik",
+          "points": [
+            "Objeknya upaya, bukan hasil",
+            "Perikatan upaya (inspanningsverbintenis)",
+            "Ukuran: penyimpangan dari standar profesi"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Jalur yang bisa ditempuh",
+          "points": [
+            "Disiplin profesi",
+            "Gugatan perdata",
+            "Laporan pidana",
+            "Jalur-jalur ini bisa berjalan terpisah"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Pasien tidak sembuh meski dokter bekerja sesuai standar profesi. Pada asasnya…",
+        "options": [
+          "Rumah sakit wajib mengembalikan semua biaya",
+          "Dokter otomatis wajib ganti rugi",
+          "Belum tentu lalai; perikatannya upaya",
+          "Dokter langsung dipidana"
+        ],
+        "answerIndex": 2,
+        "explanation": "Dalam perikatan upaya, dokter berjanji berupaya sesuai standar, bukan menjamin kesembuhan."
+      }
+    ],
+    "caption": "Ringkasan sifat hubungan dokter-pasien dan jalur sengketa medis.",
+    "source": {
+      "title": "Doktrin hukum kesehatan; UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Transaksi terapeutik dan jalur penyelesaian sengketa medis"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

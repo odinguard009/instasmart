@@ -306,5 +306,135 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-reel-tiga-penjaga",
+    "type": "reel",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Siapa menjaga uangmu di bank?",
+        "caption": "Ada tiga lembaga dengan tugas berbeda.",
+        "kicker": "Perbankan",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "OJK",
+        "caption": "Mengatur dan mengawasi bank secara mikroprudensial (sejak UU 21/2011).",
+        "character": "cat",
+        "expression": "happy"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Bank Indonesia",
+        "caption": "Makroprudensial dan sistem pembayaran.",
+        "character": "gecko",
+        "expression": "happy",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "LPS",
+        "caption": "Menjamin simpanan nasabah, ada batasnya per nasabah per bank.",
+        "character": "kancil",
+        "expression": "smug"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Kalau bank gagal?",
+        "caption": "Simpanan yang layak bayar diganti LPS sampai batas penjaminan.",
+        "character": "owl",
+        "expression": "happy",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 22 detik: pembagian tugas OJK, BI, dan LPS.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah UU No. 10 Tahun 1998 (dan UU 4/2023 tentang P2SK)",
+      "reference": "Pembagian kewenangan OJK, BI, dan LPS"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-carousel-pasar-modal-bersih",
+    "type": "carousel",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Pasar modal yang bersih",
+          "subtitle": "Keterbukaan dan larangan curang",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Prinsip keterbukaan",
+          "points": [
+            "Prospektus wajib tersedia sebelum penawaran umum",
+            "Informasi menyesatkan: tanggung jawab perdata dan pidana"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Tiga kejahatan klasik",
+          "points": [
+            "Penipuan",
+            "Manipulasi pasar",
+            "Perdagangan orang dalam (insider trading)"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Penjaga pasar",
+          "points": [
+            "OJK mengawasi pasar modal",
+            "SRO: bursa, lembaga kliring, lembaga penyimpanan",
+            "SRO membuat aturan bagi anggotanya"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Komisaris emiten menjual saham sebelum kabar rugi besar diumumkan. Ini…",
+        "options": [
+          "Diversifikasi portofolio yang wajar",
+          "Pembelian kembali saham",
+          "Perdagangan orang dalam",
+          "Penawaran umum terbatas"
+        ],
+        "answerIndex": 2,
+        "explanation": "Orang dalam yang memiliki informasi orang dalam dilarang bertransaksi efek emiten tersebut."
+      }
+    ],
+    "caption": "Ringkasan prinsip keterbukaan dan larangan di pasar modal.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal (sebagaimana diubah UU 4/2023 tentang P2SK)",
+      "reference": "Prinsip keterbukaan, penipuan, manipulasi pasar, dan perdagangan orang dalam"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

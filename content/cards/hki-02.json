@@ -258,5 +258,60 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-reel-merek-lahir-dari-daftar",
+    "type": "reel",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Punya merek keren?",
+        "caption": "Di Indonesia, hak atas merek lahir dari pendaftaran.",
+        "kicker": "Merek",
+        "character": "kancil",
+        "expression": "smug"
+      },
+      {
+        "durationMs": 4500,
+        "text": "First to file",
+        "caption": "Yang mendaftar lebih dulu yang dilindungi (sistem konstitutif).",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "10 tahun",
+        "caption": "Merek terdaftar dilindungi 10 tahun dan dapat diperpanjang.",
+        "character": "cat",
+        "expression": "happy",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Jangan didiamkan",
+        "caption": "Tidak dipakai 5 tahun berturut-turut: dapat digugat hapus (Putusan MK 144/PUU-XXI/2023).",
+        "character": "gecko",
+        "expression": "shock"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Iktikad tidak baik?",
+        "caption": "Gugatan pembatalan tidak dibatasi waktu.",
+        "character": "owl",
+        "expression": "happy",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 22 detik: lahirnya hak atas merek, jangka perlindungan, penghapusan, dan pembatalan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
+      "reference": "Pasal 35, 74, dan 77 jo. Putusan MK No. 144/PUU-XXI/2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

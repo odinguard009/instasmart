@@ -560,5 +560,462 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-kuorum-rups-biasa",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "RUPS biasa dapat dilangsungkan bila hadir atau diwakili lebih dari … saham dengan hak suara; bila gagal, RUPS kedua sah dengan kehadiran paling sedikit…",
+    "options": [
+      "1/3; lalu 1/4",
+      "2/3; lalu 3/5",
+      "1/2; lalu 1/3",
+      "3/4; lalu 2/3"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 86 ayat (1) dan (4), kecuali UU dan/atau anggaran dasar menentukan kuorum yang lebih besar.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 86",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-kuorum-ubah-ad",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "RUPS untuk mengubah anggaran dasar sah bila…",
+    "options": [
+      "2/3 hadir, 2/3 suara setuju",
+      "3/4 hadir, 3/4 suara setuju",
+      "1/3 hadir, suara terbanyak",
+      "1/2 hadir, 1/2 suara setuju"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 88 ayat (1): kuorum kehadiran paling sedikit 2/3 saham dengan hak suara dan keputusan disetujui paling sedikit 2/3 suara yang dikeluarkan, kecuali anggaran dasar menentukan lebih besar.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 88 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-rups-tahunan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "RUPS tahunan wajib diadakan paling lambat…",
+    "options": [
+      "12 bulan setelah tahun buku berakhir",
+      "1 bulan setelah tahun buku berakhir",
+      "6 bulan setelah tahun buku berakhir",
+      "3 bulan setelah tahun buku berakhir"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 78 ayat (2). RUPS lainnya dapat diadakan setiap waktu sesuai kebutuhan (ayat (4)).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 78 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-minta-rups",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Pemegang saham dapat meminta Direksi menyelenggarakan RUPS bila bersama-sama mewakili paling sedikit…",
+    "options": [
+      "1/3 saham dengan hak suara",
+      "1/20 saham dengan hak suara",
+      "1/10 saham dengan hak suara",
+      "1/2 saham dengan hak suara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 79 ayat (2) huruf a: 1/10 atau lebih, kecuali anggaran dasar menentukan jumlah yang lebih kecil. Dewan Komisaris juga dapat meminta (huruf b).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 79 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-mata-acara-lain",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Dalam mata acara 'lain-lain', RUPS…",
+    "options": [
+      "Hanya boleh memutus soal dividen",
+      "Bebas memutus apa saja dengan suara terbanyak biasa",
+      "Boleh memutus bila kuorum 1/2 tercapai",
+      "Tak berhak memutus, kecuali semua hadir & setuju"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 75 ayat (3): kecuali semua pemegang saham hadir dan/atau diwakili dan menyetujui penambahan mata acara. Keputusan atas mata acara tambahan harus dengan suara bulat (ayat (4)).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 75 ayat (3)-(4)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-cadangan-wajib",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Penyisihan laba bersih untuk cadangan dilakukan sampai cadangan mencapai paling sedikit…",
+    "options": [
+      "10% dari modal dasar perseroan",
+      "25% modal ditempatkan dan disetor",
+      "50% laba bersih tahun berjalan",
+      "20% modal ditempatkan dan disetor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 70 ayat (3). Kewajiban menyisihkan berlaku bila saldo laba positif (ayat (2)).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 70",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-tjsl",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Kewajiban Tanggung Jawab Sosial dan Lingkungan menurut Pasal 74 ayat (1) dibebankan kepada Perseroan yang…",
+    "options": [
+      "Berusaha di bidang atau terkait SDA",
+      "Mempekerjakan lebih dari 100 orang",
+      "Modal dasarnya di atas Rp50 miliar rupiah",
+      "Berstatus perseroan terbuka"
+    ],
+    "answerIndex": 0,
+    "explanation": "Perseroan yang menjalankan kegiatan usaha di bidang dan/atau berkaitan dengan sumber daya alam. TJSL dianggarkan dan diperhitungkan sebagai biaya Perseroan (ayat (2)).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 74",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-direksi-mewakili",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Direksi beranggota lebih dari satu orang. Yang berwenang mewakili Perseroan adalah…",
+    "options": [
+      "Setiap anggota, kecuali AD lain",
+      "Seluruh anggota Direksi bersama-sama",
+      "Direktur yang ditunjuk Dewan Komisaris",
+      "Hanya Direktur Utama"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 98 ayat (2): setiap anggota Direksi, kecuali ditentukan lain dalam anggaran dasar.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 98 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-benturan-semua",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Seluruh anggota Direksi mempunyai benturan kepentingan dengan Perseroan. Yang berhak mewakili Perseroan adalah…",
+    "options": [
+      "Direktur utama tetap",
+      "Notaris pembuat akta",
+      "Dewan Komisaris",
+      "Pemegang saham mayoritas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 99 ayat (2) huruf b. Bila seluruh Direksi dan Dewan Komisaris berbenturan kepentingan: pihak lain yang ditunjuk RUPS (huruf c).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 99",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-aset-lima-puluh",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Direksi wajib meminta persetujuan RUPS untuk mengalihkan atau menjaminkan kekayaan Perseroan yang nilainya lebih dari…",
+    "options": [
+      "10% modal disetor",
+      "50% kekayaan bersih",
+      "25% kekayaan bersih",
+      "75% total aset"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 102 ayat (1): lebih dari 50% jumlah kekayaan bersih, dalam satu transaksi atau lebih, berkaitan satu sama lain maupun tidak.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 102 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-berhentikan-direksi",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "RUPS dapat memberhentikan anggota Direksi sewaktu-waktu dengan syarat…",
+    "options": [
+      "Masa jabatannya sudah lewat separuh periode",
+      "Ada putusan pengadilan lebih dulu",
+      "Disetujui Dewan Komisaris",
+      "Ada alasan & kesempatan membela diri"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 105 ayat (1)-(2): dengan menyebutkan alasannya, setelah yang bersangkutan diberi kesempatan membela diri dalam RUPS.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 105",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-komisaris-majelis",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Dewan Komisaris yang beranggota lebih dari satu orang merupakan majelis; setiap anggotanya…",
+    "options": [
+      "Tak dapat bertindak sendiri-sendiri",
+      "Hanya boleh bertindak bila diminta RUPS",
+      "Bebas bertindak sendiri-sendiri",
+      "Bertindak atas perintah Direksi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 108 ayat (4): bertindak berdasarkan keputusan Dewan Komisaris. Bandingkan Direksi: setiap anggota berwenang mewakili (Pasal 98 ayat (2)).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 108 ayat (4)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-komisaris-independen",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Komisaris independen diangkat RUPS dari pihak yang…",
+    "options": [
+      "Dipilih oleh karyawan Perseroan",
+      "Tak terafiliasi pemegang saham utama/organ",
+      "Diusulkan oleh OJK atau kementerian teknis",
+      "Ditunjuk oleh rapat Dewan Komisaris"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 120 ayat (2): tidak terafiliasi dengan pemegang saham utama, anggota Direksi dan/atau anggota Dewan Komisaris lainnya. Yang ditunjuk rapat Dewan Komisaris adalah komisaris utusan (ayat (3)).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 120 ayat (2)-(3)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-beli-kembali-saham",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Nilai nominal saham yang dibeli kembali Perseroan (ditambah gadai/fidusia atas saham itu) tidak boleh melebihi…",
+    "options": [
+      "10% modal ditempatkan",
+      "20% modal ditempatkan",
+      "5% modal ditempatkan",
+      "50% modal ditempatkan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 37 ayat (1) huruf b, kecuali diatur lain di bidang pasar modal. Syarat lain (huruf a): kekayaan bersih tidak menjadi lebih kecil dari modal ditempatkan ditambah cadangan wajib.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 37 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-tangga-kuorum",
+    "type": "carousel",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU PT",
+          "title": "Tiga tangga kuorum RUPS",
+          "subtitle": "Pasal 86, 88, 89",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Kuorum kehadiran",
+          "points": [
+            "RUPS biasa: lebih dari 1/2",
+            "Ubah AD: paling sedikit 2/3",
+            "Merger, pailit, bubar: 3/4",
+            "AD boleh menetapkan lebih besar"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "RUPS akan memutus pengajuan permohonan pailit Perseroan. Keputusannya sah bila disetujui paling sedikit…",
+        "options": [
+          "1/2 suara yang dikeluarkan",
+          "Seluruh suara (bulat)",
+          "3/4 suara yang dikeluarkan",
+          "2/3 suara yang dikeluarkan"
+        ],
+        "answerIndex": 2,
+        "explanation": "Pasal 89 ayat (1): kehadiran paling sedikit 3/4 dan keputusan paling sedikit 3/4 suara yang dikeluarkan; berlaku juga untuk penggabungan, peleburan, pengambilalihan, pemisahan, perpanjangan jangka waktu, dan pembubaran."
+      }
+    ],
+    "caption": "Makin berat akibat keputusannya, makin tinggi kuorumnya.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 86, 88, 89",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-bubar-pt",
+    "type": "review",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "front": "Sebutkan enam sebab pembubaran Perseroan menurut Pasal 142 ayat (1) UU PT.",
+    "back": "a. keputusan RUPS; b. jangka waktu berdiri dalam anggaran dasar berakhir; c. penetapan pengadilan; d. pencabutan kepailitan karena harta pailit tidak cukup membayar biaya kepailitan (putusan pengadilan niaga berkekuatan hukum tetap); e. harta pailit dalam keadaan insolvensi; f. dicabutnya izin usaha sehingga wajib likuidasi.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 142 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-angkat-organ",
+    "type": "fact",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "infographic",
+      "title": "Siapa mengangkat organ PT?",
+      "points": [
+        "Direksi: diangkat RUPS",
+        "Dewan Komisaris: diangkat RUPS",
+        "Pertama kali: pendiri di akta",
+        "Masa tertentu, bisa diangkat lagi"
+      ]
+    },
+    "caption": "Pasal 94 ayat (1)-(3) untuk Direksi dan Pasal 111 ayat (1)-(3) untuk Dewan Komisaris memakai pola yang sama.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 94, Pasal 111",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-humor-direktur-lawan-pt",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "meme",
+      "top": "Direktur menggugat PT, lalu mau mewakili PT juga",
+      "bottom": "Tidak berwenang",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Kalau ada perkara antara Perseroan dan seorang anggota Direksi, anggota Direksi itu tidak berwenang mewakili Perseroan.",
+    "teaches": "Anggota Direksi tidak berwenang mewakili Perseroan apabila terjadi perkara di pengadilan antara Perseroan dengan anggota Direksi yang bersangkutan, atau ia mempunyai benturan kepentingan dengan Perseroan (Pasal 99 ayat (1) UU 40/2007).",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 99 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2021/03/Undang-Undang-No.-40-Tahun-2007-tentang-Perseoran-Terbatas.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

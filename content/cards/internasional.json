@@ -399,5 +399,351 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-definisi-pi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 1 angka 1 UU 24/2000, perjanjian internasional menimbulkan hak dan kewajiban di bidang…",
+    "options": [
+      "Hukum publik",
+      "Hukum perdata internasional",
+      "Hukum adat antarbangsa",
+      "Hukum dagang internasional"
+    ],
+    "answerIndex": 0,
+    "explanation": "Perjanjian dalam bentuk dan nama tertentu, diatur hukum internasional, dibuat secara tertulis, serta menimbulkan hak dan kewajiban di bidang hukum publik. Kontrak bisnis antar-perusahaan bukan perjanjian internasional dalam arti UU ini.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 1 angka 1",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-bentuk-pengesahan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Bentuk pengesahan menurut Pasal 1 angka 2 UU 24/2000 adalah ratifikasi, aksesi, penerimaan, dan…",
+    "options": [
+      "Penandatanganan naskah",
+      "Penyetujuan (approval)",
+      "Pertukaran nota diplomatik",
+      "Notifikasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ratifikasi (ratification), aksesi (accession), penerimaan (acceptance), dan penyetujuan (approval). Penandatanganan dan pertukaran nota adalah cara mengikatkan diri yang lain (Pasal 3), bukan bentuk pengesahan.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 1 angka 2, Pasal 3",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-reservasi-vs-deklarasi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Pernyataan sepihak negara untuk TIDAK menerima berlakunya ketentuan tertentu dalam perjanjian multilateral disebut…",
+    "options": [
+      "Deklarasi interpretatif (declaration)",
+      "Pensyaratan (reservation)",
+      "Aksesi (accession)",
+      "Suksesi negara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 5. Deklarasi (angka 6) hanya menyatakan pemahaman/penafsiran dan tidak dimaksudkan memengaruhi hak dan kewajiban.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 1 angka 5-6",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-full-powers",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Pejabat yang TIDAK memerlukan Surat Kuasa (full powers) untuk menandatangani perjanjian internasional menurut Pasal 7 ayat (2) adalah…",
+    "options": [
+      "Presiden dan Menteri Luar Negeri",
+      "Semua menteri kabinet",
+      "Ketua DPR dan Presiden",
+      "Duta besar dan para kepala perwakilan RI"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 7 ayat (2): Presiden dan Menteri; 'Menteri' di UU ini adalah menteri yang membidangi hubungan luar negeri (Pasal 1 angka 9). Penandatanganan kerja sama teknis pelaksana perjanjian yang sudah berlaku juga tanpa Surat Kuasa (ayat (5)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 1 angka 9, Pasal 7",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-credentials",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Surat untuk menghadiri, merundingkan, dan/atau menerima hasil akhir suatu pertemuan internasional disebut…",
+    "options": [
+      "Piagam pengesahan perjanjian internasional",
+      "Nota diplomatik",
+      "Surat Kepercayaan (Credentials)",
+      "Surat Kuasa (Full Powers)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 4 dan Pasal 7 ayat (3). Surat Kuasa untuk menandatangani/menerima naskah dan mengikatkan diri (Pasal 1 angka 3).",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 1 angka 3-4, Pasal 7",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-reservasi-ditegaskan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Pensyaratan yang dibuat saat penandatanganan perjanjian, agar tetap berlaku, harus…",
+    "options": [
+      "Disetujui semua negara pihak",
+      "Ditegaskan lagi saat pengesahan",
+      "Dimuat dalam Keppres tersendiri",
+      "Diumumkan di Berita Negara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 8 ayat (2). Pensyaratan dan pernyataan dapat ditarik kembali setiap saat lewat pernyataan tertulis (ayat (3)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 8",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-pengesahan-uu",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut rumusan Pasal 10, perjanjian mana yang disahkan dengan UNDANG-UNDANG?",
+    "options": [
+      "Kerja sama kebudayaan antarkota",
+      "Pertukaran pelajar",
+      "Kerja sama teknis antar-kementerian",
+      "Penetapan batas wilayah negara"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 10: politik, perdamaian, pertahanan, keamanan; perubahan wilayah/penetapan batas wilayah; kedaulatan atau hak berdaulat; HAM dan lingkungan hidup; pembentukan kaidah hukum baru; pinjaman dan/atau hibah luar negeri. Pasal 10 pernah diuji MK (13/PUU-XVI/2018); cek tafsirnya sekarang.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 10",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-pengesahan-keppres",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Salinan keputusan presiden yang mengesahkan perjanjian internasional disampaikan kepada DPR untuk…",
+    "options": [
+      "Disetujui",
+      "Dievaluasi",
+      "Dibatalkan bila perlu",
+      "Diundangkan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11 ayat (2): untuk dievaluasi. Perjanjian yang materinya di luar Pasal 10 disahkan dengan keputusan presiden (ayat (1)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 11",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-tanpa-pengesahan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Pengesahan perjanjian internasional oleh Pemerintah RI dilakukan…",
+    "options": [
+      "Hanya bila DPR memintanya",
+      "Selalu, untuk setiap perjanjian",
+      "Hanya untuk perjanjian multilateral",
+      "Bila dipersyaratkan perjanjian itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 9 ayat (1). Ada perjanjian yang langsung berlaku setelah penandatanganan atau pertukaran nota diplomatik (Pasal 15 ayat (1)).",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 9, Pasal 15",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-berakhir-suksesi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Negara pihak mengalami suksesi negara. Menurut Pasal 20 UU 24/2000, perjanjiannya…",
+    "options": [
+      "Berlaku 5 tahun lagi",
+      "Ditangguhkan sampai diratifikasi ulang oleh parlemen",
+      "Berlaku bila negara pengganti terikat",
+      "Otomatis berakhir"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20: tidak berakhir karena suksesi negara, tetapi tetap berlaku selama negara pengganti menyatakan terikat.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 20",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-berakhir-bukan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Mana yang TIDAK disebut Pasal 18 sebagai sebab berakhirnya perjanjian internasional?",
+    "options": [
+      "Tujuan perjanjian telah tercapai",
+      "Muncul norma baru dalam hukum internasional",
+      "Pergantian kepala negara pihak",
+      "Objek perjanjian hilang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 18 antara lain: kesepakatan para pihak, tujuan tercapai, perubahan mendasar (rebus sic stantibus), pelanggaran oleh pihak lain, perjanjian baru menggantikan, norma baru hukum internasional, objek hilang, hal yang merugikan kepentingan nasional. Pergantian pemerintah/kepala negara tidak termasuk.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 18",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-cara-mengikatkan-diri",
+    "type": "review",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "front": "Empat cara Pemerintah RI mengikatkan diri pada perjanjian internasional (Pasal 3 UU 24/2000)?",
+    "back": "Penandatanganan; pengesahan; pertukaran dokumen perjanjian/nota diplomatik; cara lain yang disepakati para pihak.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 3",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-uu-atau-perpres",
+    "type": "fact",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "infographic",
+      "title": "Disahkan dengan UU bila soal…",
+      "points": [
+        "Politik, pertahanan, keamanan",
+        "Wilayah & batas negara",
+        "Kedaulatan/hak berdaulat",
+        "HAM & lingkungan hidup",
+        "Kaidah baru, pinjaman/hibah"
+      ]
+    },
+    "caption": "Daftar Pasal 10 UU 24/2000. Di luar itu, rumusan UU menyebut keputusan presiden (Pasal 11). Tafsir Pasal 10 sudah disentuh Putusan MK 13/PUU-XVI/2018, jadi untuk ujian cek juga putusan itu.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 10, 11",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-humor-full-powers",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "comic",
+      "title": "Tanda tangan dulu?",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Saya pejabat, saya tanda tangan perjanjian ini."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Surat Kuasanya mana?"
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Hanya Presiden dan Menlu yang tidak perlu (Pasal 7 ayat 2)."
+        }
+      ]
+    },
+    "caption": "Di meja perundingan, jabatan saja tidak cukup. Wakil Pemerintah RI yang menandatangani atau mengikatkan diri pada perjanjian internasional perlu Surat Kuasa (full powers), kecuali Presiden dan Menteri Luar Negeri.",
+    "teaches": "Penandatanganan perjanjian internasional atas nama RI memerlukan Surat Kuasa, kecuali oleh Presiden dan Menteri yang membidangi hubungan luar negeri (Pasal 7 ayat (1)-(2) UU 24/2000).",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 7",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2000/24TAHUN2000UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

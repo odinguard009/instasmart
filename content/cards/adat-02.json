@@ -277,5 +277,451 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-dua-jenis",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Pasal 6 ayat (1) UU Desa, Desa terdiri atas…",
+    "options": [
+      "Desa dan kelurahan",
+      "Desa induk dan desa persiapan",
+      "Desa dan Desa Adat",
+      "Desa swadaya dan desa swakarya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 6 ayat (1): Desa terdiri atas Desa dan Desa Adat. Penyebutannya disesuaikan dengan sebutan setempat (ayat (2)).",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-syarat-penetapan",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 97 ayat (1): penetapan Desa Adat mensyaratkan kesatuan masyarakat hukum adat beserta hak tradisionalnya masih hidup, sesuai perkembangan masyarakat, dan…",
+    "options": [
+      "Berpenduduk paling sedikit 1.000 jiwa",
+      "Sudah tercatat di Kementerian ATR",
+      "Diakui putusan Mahkamah Konstitusi",
+      "Sesuai prinsip NKRI"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tiga syarat Pasal 97 ayat (1): (a) secara nyata masih hidup, (b) dipandang sesuai dengan perkembangan masyarakat, (c) sesuai dengan prinsip NKRI.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 97 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-sifat-mha",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Pasal 97 ayat (1) huruf a, kesatuan masyarakat hukum adat yang masih hidup dapat bersifat…",
+    "options": [
+      "Patrilineal, matrilineal, maupun bilateral",
+      "Agraris, maritim, maupun campuran",
+      "Primer, sekunder, maupun tersier",
+      "Teritorial, genealogis, maupun fungsional"
+    ],
+    "answerIndex": 3,
+    "explanation": "Huruf a: baik yang bersifat teritorial, genealogis, maupun yang bersifat fungsional.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 97 ayat (1) huruf a",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-unsur-masih-hidup",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Pasal 97 ayat (2), MHA yang masih hidup harus memiliki wilayah dan paling kurang memenuhi salah satu/gabungan unsur. Manakah yang BUKAN unsur itu?",
+    "options": [
+      "Harta kekayaan dan/atau benda adat",
+      "Perangkat norma hukum adat",
+      "Pranata pemerintahan adat yang masih dijalankan",
+      "Sertifikat hak milik atas tanah ulayat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Unsurnya: (a) masyarakat yang warganya memiliki perasaan bersama dalam kelompok, (b) pranata pemerintahan adat, (c) harta kekayaan dan/atau benda adat, (d) perangkat norma hukum adat.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 97 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-ditetapkan-perda",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 98 ayat (1): Desa Adat ditetapkan dengan…",
+    "options": [
+      "Keputusan musyawarah adat",
+      "Peraturan Daerah Kabupaten/Kota",
+      "Peraturan Gubernur setempat",
+      "Keputusan Menteri Dalam Negeri RI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Desa Adat ditetapkan dengan Peraturan Daerah Kabupaten/Kota.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 98 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-ubah-status",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Pasal 100 ayat (1), perubahan status (misalnya Desa menjadi Desa Adat) dilakukan berdasarkan prakarsa masyarakat melalui Musyawarah Desa dan disetujui oleh…",
+    "options": [
+      "Badan Permusyawaratan Desa setempat",
+      "Pemerintah Daerah Kabupaten/Kota",
+      "Kementerian Dalam Negeri RI",
+      "Pemerintah Daerah Provinsi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 100 ayat (1): prakarsa masyarakat melalui Musyawarah Desa dan disetujui oleh Pemerintah Daerah Kabupaten/Kota.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 100 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-kekayaan-ke-kelurahan",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Desa Adat berubah menjadi kelurahan. Menurut Pasal 100 ayat (2), kekayaan Desa Adat beralih menjadi kekayaan…",
+    "options": [
+      "Pemerintah Daerah Kabupaten/Kota",
+      "Pemerintah Daerah Provinsi",
+      "Kelurahan sebagai badan hukum publik",
+      "Lembaga adat setempat yang diakui"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dalam hal Desa Adat berubah menjadi kelurahan, kekayaannya beralih menjadi kekayaan Pemerintah Daerah Kabupaten/Kota. (Bila berubah menjadi Desa, kekayaannya menjadi kekayaan Desa.)",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 100 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-bukan-kewenangan",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Manakah yang TIDAK termasuk kewenangan Desa Adat berdasarkan hak asal usul menurut Pasal 103?",
+    "options": [
+      "Mengadili perkara pidana berat",
+      "Penyelenggaraan sidang perdamaian peradilan Desa Adat",
+      "Pelestarian nilai sosial budaya Desa Adat",
+      "Pengaturan dan pengurusan ulayat atau wilayah adat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 103 menyebut antara lain pengurusan ulayat, pelestarian nilai sosial budaya, penyelesaian sengketa adat (mengutamakan musyawarah), dan sidang perdamaian peradilan Desa Adat sesuai peraturan perundang-undangan. Tidak ada kewenangan mengadili perkara pidana sebagai pengadilan negara.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 103",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-sengketa-adat",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Penyelesaian sengketa adat oleh Desa Adat menurut Pasal 103 huruf d harus selaras dengan prinsip HAM dan…",
+    "options": [
+      "Disetujui kepala kepolisian sektor",
+      "Mengutamakan penyelesaian secara musyawarah",
+      "Dikukuhkan lebih dulu oleh pengadilan negeri",
+      "Diputus paling lambat 30 hari kerja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Huruf d: penyelesaian sengketa adat berdasarkan hukum adat … selaras dengan prinsip hak asasi manusia dengan mengutamakan penyelesaian secara musyawarah.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 103 huruf d",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-penugasan-biaya",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 106 ayat (2): penugasan dari Pemerintah dan/atau Pemerintah Daerah kepada Desa Adat…",
+    "options": [
+      "Dibiayai dari kas adat",
+      "Tidak boleh menyangkut pembangunan",
+      "Disertai dengan biaya",
+      "Hanya boleh dari Pemerintah Pusat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penugasan meliputi pemerintahan, pembangunan, pembinaan kemasyarakatan, dan pemberdayaan masyarakat Desa Adat (ayat (1)), dan disertai dengan biaya (ayat (2)).",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 106",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-kepala-desa-adat",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Pasal 109, susunan kelembagaan, pengisian jabatan, dan masa jabatan Kepala Desa Adat berdasarkan hukum adat ditetapkan dalam…",
+    "options": [
+      "Peraturan Daerah Kabupaten/Kota",
+      "Peraturan Desa Adat",
+      "Peraturan daerah Provinsi",
+      "Peraturan Menteri Dalam Negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 109 menyebut peraturan daerah Provinsi (bandingkan: penetapan Desa Adat dengan Perda Kabupaten/Kota, Pasal 98).",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 109",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-perdes-adat",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 110: Peraturan Desa Adat disesuaikan dengan hukum adat dan norma adat istiadat setempat sepanjang…",
+    "options": [
+      "Tertulis dalam aksara daerah setempat",
+      "Tidak bertentangan dengan peraturan",
+      "Disetujui seluruh warga dewasa desa itu",
+      "Telah berlaku turun-temurun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 110",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-berlaku-desa",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Pasal 111 ayat (2), ketentuan tentang Desa berlaku juga untuk Desa Adat…",
+    "options": [
+      "Hanya untuk urusan keuangan desa",
+      "Sepanjang tidak diatur secara khusus",
+      "Hanya bila disetujui Musyawarah Desa Adat",
+      "Sama sekali tidak berlaku bagi Desa Adat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): ketentuan khusus Pasal 96–110 hanya berlaku untuk Desa Adat. Ayat (2): ketentuan tentang Desa berlaku juga untuk Desa Adat sepanjang tidak diatur dalam ketentuan khusus.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 111",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-empat-kewenangan",
+    "type": "review",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "front": "Empat jenis kewenangan Desa (Pasal 19)",
+    "back": "a. berdasarkan hak asal usul; b. lokal berskala Desa; c. yang ditugaskan oleh Pemerintah/Pemda; d. kewenangan lain yang ditugaskan sesuai peraturan perundang-undangan. Pasal 103 merinci huruf a untuk Desa Adat.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 19",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-penggabungan",
+    "type": "review",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "front": "Penggabungan Desa Adat (Pasal 99)",
+    "back": "Atas prakarsa dan kesepakatan antar-Desa Adat; Pemerintah Daerah Kabupaten/Kota memfasilitasi pelaksanaannya.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 99",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-carousel-syarat",
+    "type": "carousel",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 6/2014 Pasal 97",
+          "title": "Syarat Desa Adat",
+          "subtitle": "Tiga syarat penetapan",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "1. Masih hidup",
+          "points": [
+            "Teritorial, genealogis, atau fungsional",
+            "Punya wilayah + minimal satu unsur",
+            "Unsur: rasa bersama, pranata adat, harta adat, norma adat"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "2. Sesuai perkembangan",
+          "points": [
+            "Diakui UU umum atau sektoral",
+            "Hak tradisional dihormati warga",
+            "Tidak bertentangan dengan HAM"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "3. Sesuai prinsip NKRI",
+          "points": [
+            "Tidak mengancam kedaulatan",
+            "Norma adat tidak bertentangan dengan peraturan"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Desa Adat ditetapkan dengan…",
+        "options": [
+          "Keputusan Menteri",
+          "Perda Kabupaten/Kota",
+          "Peraturan Desa",
+          "Perda Provinsi"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pasal 98 ayat (1). Perda Provinsi dipakai untuk susunan dan masa jabatan Kepala Desa Adat (Pasal 109)."
+      }
+    ],
+    "caption": "Tiga syarat penetapan Desa Adat menurut Pasal 97 UU Desa.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 97 dan 98",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-humor-perda",
+    "type": "humor",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "visual": {
+      "template": "meme",
+      "top": "Desa adat cukup ditetapkan lewat surat camat?",
+      "bottom": "Perda Kabupaten/Kota, bukan surat camat.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Penetapan Desa Adat memakai Perda Kabupaten/Kota.",
+    "teaches": "Desa Adat ditetapkan dengan Peraturan Daerah Kabupaten/Kota (Pasal 98 ayat (1) UU 6/2014).",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Pasal 98 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-6-tahun-2014"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

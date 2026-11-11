@@ -760,5 +760,622 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-kedudukan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 2 UU 26/2000, Pengadilan HAM merupakan pengadilan khusus di lingkungan…",
+    "options": [
+      "Peradilan Militer",
+      "Mahkamah Konstitusi",
+      "Peradilan Umum",
+      "Peradilan Tata Usaha Negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 2: Pengadilan HAM merupakan pengadilan khusus yang berada di lingkungan Peradilan Umum.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 2",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-luar-wilayah",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "WNI melakukan pelanggaran HAM berat di luar wilayah Indonesia. Menurut Pasal 5, Pengadilan HAM…",
+    "options": [
+      "Tidak berwenang sama sekali",
+      "Hanya berwenang bila korban WNI",
+      "Berwenang memeriksa dan memutus",
+      "Harus menyerahkan ke ICC"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 5: Pengadilan HAM berwenang juga memeriksa dan memutus perkara pelanggaran HAM berat yang dilakukan di luar batas teritorial wilayah RI oleh warga negara Indonesia.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-bawah-18",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Pengadilan HAM tidak berwenang mengadili pelaku pelanggaran HAM berat yang pada saat kejahatan dilakukan berumur di bawah… (Pasal 6)",
+    "options": [
+      "21 tahun",
+      "18 tahun",
+      "12 tahun",
+      "16 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 6: tidak berwenang terhadap seseorang yang berumur di bawah 18 (delapan belas) tahun pada saat kejahatan dilakukan.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-genosida-unsur",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Unsur maksud pada kejahatan genosida (Pasal 8) adalah menghancurkan/memusnahkan seluruh atau sebagian kelompok…",
+    "options": [
+      "Penduduk sipil dalam serangan",
+      "Pekerja, petani, atau buruh",
+      "Politik, ekonomi, atau budaya lokal",
+      "Bangsa, ras, etnis, atau agama"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 8: kelompok bangsa, ras, kelompok etnis, kelompok agama. Kelompok politik tidak disebut dalam definisi genosida.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 8",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-genosida-bukan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Manakah yang BUKAN cara genosida menurut Pasal 8?",
+    "options": [
+      "Membunuh anggota kelompok",
+      "Mencegah kelahiran di dalam kelompok",
+      "Memindahkan paksa anak-anak kelompok",
+      "Pengusiran penduduk sipil"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 8 huruf a–e: membunuh; menimbulkan penderitaan fisik/mental berat; menciptakan kondisi yang memusnahkan; mencegah kelahiran; memindahkan paksa anak-anak. Pengusiran penduduk termasuk daftar kejahatan terhadap kemanusiaan (Pasal 9).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 8 dan 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-kemanusiaan-unsur",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Kejahatan terhadap kemanusiaan (Pasal 9) adalah perbuatan sebagai bagian dari serangan yang meluas atau sistematik yang ditujukan langsung terhadap…",
+    "options": [
+      "Penduduk sipil",
+      "Kombatan musuh",
+      "Kelompok agama tertentu",
+      "Aparat negara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 9: serangan yang meluas atau sistematik yang diketahuinya ditujukan secara langsung terhadap penduduk sipil.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-kemanusiaan-bukan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Manakah yang TIDAK tercantum dalam daftar kejahatan terhadap kemanusiaan Pasal 9?",
+    "options": [
+      "Penghilangan orang secara paksa",
+      "Kejahatan apartheid",
+      "Perbudakan",
+      "Korupsi dana bantuan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 9 angka 1–10: pembunuhan, pemusnahan, perbudakan, pengusiran paksa, perampasan kemerdekaan, penyiksaan, kekerasan seksual, penganiayaan kelompok, penghilangan paksa, apartheid.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-hukum-acara",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Hukum acara perkara pelanggaran HAM berat menurut Pasal 10, sepanjang tidak ditentukan lain dalam UU 26/2000, mengikuti…",
+    "options": [
+      "Hukum acara pidana",
+      "Hukum acara PTUN",
+      "Hukum acara perdata",
+      "Statuta Roma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 10. Catatan: KUHAP baru (UU 20/2025) berlaku sejak 2 Januari 2026; hubungannya dengan UU 26/2000 perlu dicek.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-penyidik",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Siapa penyidik perkara pelanggaran HAM berat menurut Pasal 11 ayat (1)?",
+    "options": [
+      "Kepolisian RI",
+      "Ketua Pengadilan HAM",
+      "Jaksa Agung",
+      "Komnas HAM"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 11 ayat (1): Jaksa Agung sebagai penyidik. Komnas HAM adalah penyelidik.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 11 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-tangkap",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 11 ayat (5), penangkapan dalam perkara HAM berat dilakukan paling lama…",
+    "options": [
+      "7 hari",
+      "3 hari",
+      "20 hari",
+      "1 hari"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 11 ayat (5): paling lama 1 (satu) hari. Masa penangkapan dikurangkan dari pidana yang dijatuhkan (ayat (6)).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 11 ayat (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-serah-hasil",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Pasal 20 ayat (2): paling lambat berapa hari kerja setelah kesimpulan disampaikan, Komnas HAM menyerahkan seluruh hasil penyelidikan kepada penyidik?",
+    "options": [
+      "7 hari kerja",
+      "3 hari kerja",
+      "14 hari kerja",
+      "30 hari kerja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 20 ayat (2): 7 (tujuh) hari kerja. Bila kurang lengkap, penyelidik wajib melengkapi dalam 30 hari (ayat (3)).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 20",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-lengkapi",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Penyidik menilai hasil penyelidikan kurang lengkap dan mengembalikannya. Menurut Pasal 20 ayat (3), penyelidik wajib melengkapinya dalam…",
+    "options": [
+      "60 hari",
+      "30 hari",
+      "14 hari",
+      "7 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 20 ayat (3): dalam waktu 30 (tiga puluh) hari sejak tanggal diterimanya hasil penyelidikan.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 20 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-waktu-sidik",
+    "type": "review",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "front": "Berapa lama batas waktu penyidikan perkara HAM berat menurut Pasal 22, termasuk perpanjangannya?",
+    "back": "Paling lambat 90 hari, dapat diperpanjang paling lama 90 hari, lalu dapat diperpanjang lagi paling lama 60 hari (keduanya oleh Ketua Pengadilan HAM). Total maksimal 240 hari. Bila tidak cukup bukti, Jaksa Agung wajib mengeluarkan SP3 (ayat (4)).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 22",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-praperadilan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Korban tidak menerima penghentian penyidikan perkara HAM berat. Menurut Pasal 22 ayat (6), ia dapat mengajukan praperadilan kepada…",
+    "options": [
+      "Jaksa Agung Muda Pidsus",
+      "Ketua Pengadilan HAM",
+      "Mahkamah Agung",
+      "Komnas HAM"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 22 ayat (6): korban atau keluarga sedarah/semenda garis lurus sampai derajat ketiga berhak mengajukan praperadilan kepada Ketua Pengadilan HAM sesuai daerah hukumnya.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 22 ayat (6)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-tuntut",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Pasal 24: penuntutan perkara HAM berat wajib dilaksanakan paling lambat… sejak hasil penyidikan diterima.",
+    "options": [
+      "60 hari",
+      "30 hari",
+      "90 hari",
+      "70 hari"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 24: paling lambat 70 (tujuh puluh) hari terhitung sejak tanggal hasil penyidikan diterima.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 24",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-majelis",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Komposisi majelis hakim Pengadilan HAM tingkat pertama menurut Pasal 27 ayat (2) adalah…",
+    "options": [
+      "3 hakim karier saja",
+      "1 hakim karier + 4 hakim ad hoc",
+      "2 hakim karier + 3 hakim ad hoc",
+      "3 hakim karier + 2 hakim ad hoc"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 27 ayat (2)-(3): 5 orang, terdiri atas 2 hakim Pengadilan HAM dan 3 hakim ad hoc; diketuai hakim dari Pengadilan HAM yang bersangkutan. Pola 2+3 juga dipakai di tingkat banding dan kasasi (Pasal 32, 33).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 27",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-ketua-majelis",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Siapa yang mengetuai majelis hakim Pengadilan HAM tingkat pertama (Pasal 27 ayat (3))?",
+    "options": [
+      "Ketua Pengadilan Tinggi",
+      "Hakim dari Pengadilan HAM itu",
+      "Dipilih bergilir oleh anggota",
+      "Hakim ad hoc yang paling senior"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 27 ayat (3): majelis diketuai oleh hakim dari Pengadilan HAM yang bersangkutan, bukan hakim ad hoc.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 27 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-adhoc-angkat",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 28, hakim ad hoc Pengadilan HAM diangkat dan diberhentikan oleh…",
+    "options": [
+      "Ketua MA atas usul Komisi Yudisial",
+      "Presiden atas usul Ketua MA",
+      "Menteri Hukum atas usul Komnas HAM",
+      "DPR atas usul Presiden"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 28 ayat (1): oleh Presiden selaku Kepala Negara atas usul Ketua Mahkamah Agung. Masa jabatan 5 tahun dan dapat diangkat kembali 1 kali (ayat (3)).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 28",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-adhoc-umur",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Syarat umur hakim ad hoc pada Pengadilan HAM tingkat pertama menurut Pasal 29 angka 3 adalah…",
+    "options": [
+      "40 sampai 60 tahun",
+      "35 sampai 67 tahun",
+      "45 sampai 65 tahun",
+      "Minimal 50 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 29 angka 3: sekurang-kurangnya 45 tahun dan paling tinggi 65 tahun. Untuk hakim ad hoc di MA: sekurang-kurangnya 50 tahun (Pasal 33 ayat (6) huruf c).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 29 dan 33 ayat (6)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-adhoc-ma",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Hakim ad hoc pada Mahkamah Agung untuk perkara HAM berat menurut Pasal 33 ayat (4) diangkat oleh Presiden atas usulan…",
+    "options": [
+      "DPR",
+      "Komisi Yudisial",
+      "Komnas HAM",
+      "Ketua MA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 33 ayat (4)-(5): Presiden selaku Kepala Negara atas usulan DPR, untuk satu kali masa jabatan 5 tahun. Bandingkan hakim ad hoc tingkat pertama: atas usul Ketua MA (Pasal 28).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 33",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-waktu-putus",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Pasal 31: perkara HAM berat diperiksa dan diputus Pengadilan HAM paling lama… sejak dilimpahkan.",
+    "options": [
+      "90 hari",
+      "240 hari",
+      "180 hari",
+      "120 hari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 31: 180 hari di tingkat pertama. Banding dan kasasi masing-masing paling lama 90 hari (Pasal 32 dan 33).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 31-33",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-perlindungan-saksi",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 34 ayat (2), perlindungan fisik dan mental bagi korban dan saksi pelanggaran HAM berat dilaksanakan oleh aparat penegak hukum dan aparat keamanan secara…",
+    "options": [
+      "Cuma-cuma",
+      "Berbayar sesuai tarif",
+      "Atas biaya terdakwa",
+      "Atas biaya Komnas HAM"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 34 ayat (2): wajib dilaksanakan secara cuma-cuma.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 34",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-krr",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 35, kompensasi, restitusi, dan rehabilitasi bagi korban pelanggaran HAM berat dicantumkan dalam…",
+    "options": [
+      "Surat tuntutan jaksa",
+      "Rekomendasi tertulis Komnas HAM",
+      "Amar putusan Pengadilan HAM",
+      "Keputusan Presiden"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 35 ayat (2): dicantumkan dalam amar putusan Pengadilan HAM.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 35",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-komando",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 42 ayat (1), komandan militer dapat dipertanggungjawabkan atas pelanggaran HAM berat oleh pasukannya bila ia mengetahui atau seharusnya mengetahui, dan…",
+    "options": [
+      "Berada langsung di lokasi kejadian",
+      "Tidak bertindak layak untuk mencegah atau menindaknya",
+      "Mendapat keuntungan dari perbuatan itu",
+      "Ikut memberi perintah tertulis kepada seluruh pasukannya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 42 ayat (1): dua unsur kumulatif, (a) mengetahui/seharusnya mengetahui, dan (b) tidak melakukan tindakan yang layak dan diperlukan untuk mencegah, menghentikan, atau menyerahkan pelaku. Ayat (2) mengatur hal serupa untuk atasan polisi atau sipil.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 42",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-atasan-sipil",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Pasal 42 ayat (2): tanggung jawab atasan juga berlaku bagi atasan…",
+    "options": [
+      "Militer aktif saja",
+      "Polisi maupun sipil lainnya",
+      "Pejabat setingkat menteri saja",
+      "Kepala daerah saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 42 ayat (2): seorang atasan, baik polisi maupun sipil lainnya, bertanggung jawab secara pidana atas pelanggaran HAM berat bawahannya di bawah kekuasaan dan pengendaliannya yang efektif.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 42 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-26-empat-kota",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Pasal 45 ayat (1): untuk pertama kali Pengadilan HAM dibentuk di…",
+    "options": [
+      "Jakarta Pusat, Semarang, Palembang, Makassar",
+      "Jakarta, Bandung, Yogyakarta, Surabaya",
+      "Jakarta Pusat, Surabaya, Medan, Makassar",
+      "Jakarta Pusat, Medan, Denpasar, Jayapura"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 45 ayat (1): Jakarta Pusat, Surabaya, Medan, dan Makassar.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 45",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-26-tahun-2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

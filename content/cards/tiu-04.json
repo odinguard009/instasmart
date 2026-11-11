@@ -880,5 +880,599 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-median-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Median dari data 7, 3, 9, 5, 8, 6 adalah…",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "6,5"
+    ],
+    "answerIndex": 3,
+    "explanation": "Urutkan dulu: 3, 5, 6, 7, 8, 9. Jumlah data genap: rata-rata dua nilai tengah = 6,5.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Statistika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-median-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Median dari data 12, 15, 11, 18, 14 adalah…",
+    "options": [
+      "14,5",
+      "14",
+      "15",
+      "11"
+    ],
+    "answerIndex": 1,
+    "explanation": "Urutkan dulu: 11, 12, 14, 15, 18. Nilai tengahnya = 14.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Statistika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-median-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Median dari data 6, 9, 4, 8, 10, 7, 5, 9 adalah…",
+    "options": [
+      "7,5",
+      "7,25",
+      "10",
+      "8"
+    ],
+    "answerIndex": 0,
+    "explanation": "Urutkan dulu: 4, 5, 6, 7, 8, 9, 9, 10. Jumlah data genap: rata-rata dua nilai tengah = 7,5.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Statistika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rata-pp-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Pergi dengan kecepatan 60 km/jam dan pulang melalui jalan yang sama dengan 40 km/jam. Kecepatan rata-rata seluruh perjalanan…",
+    "options": [
+      "50 km/jam",
+      "48 km/jam",
+      "49 km/jam",
+      "46 km/jam"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jarak sama, jadi rata-rata = 2 x 60 x 40 / (60+40) = 48 km/jam, bukan (60+40)/2.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rata-pp-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Pergi dengan kecepatan 30 km/jam dan pulang melalui jalan yang sama dengan 60 km/jam. Kecepatan rata-rata seluruh perjalanan…",
+    "options": [
+      "40 km/jam",
+      "45 km/jam",
+      "38 km/jam",
+      "42 km/jam"
+    ],
+    "answerIndex": 0,
+    "explanation": "Jarak sama, jadi rata-rata = 2 x 30 x 60 / (30+60) = 40 km/jam, bukan (30+60)/2.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-rata-pp-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Pergi dengan kecepatan 40 km/jam dan pulang melalui jalan yang sama dengan 60 km/jam. Kecepatan rata-rata seluruh perjalanan…",
+    "options": [
+      "50 km/jam",
+      "46 km/jam",
+      "48 km/jam",
+      "49 km/jam"
+    ],
+    "answerIndex": 2,
+    "explanation": "Jarak sama, jadi rata-rata = 2 x 40 x 60 / (40+60) = 48 km/jam, bukan (40+60)/2.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kerja-bersama-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "A menyelesaikan pekerjaan dalam 6 hari, B dalam 12 hari. Jika bekerja bersama, pekerjaan selesai dalam…",
+    "options": [
+      "4 hari",
+      "9 hari",
+      "18 hari",
+      "5 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Per hari: 1/6 + 1/12 = 1/4. Waktu = 4 hari.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Pekerjaan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kerja-bersama-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "A menyelesaikan pekerjaan dalam 10 hari, B dalam 15 hari. Jika bekerja bersama, pekerjaan selesai dalam…",
+    "options": [
+      "7 hari",
+      "6 hari",
+      "25 hari",
+      "12 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Per hari: 1/10 + 1/15 = 1/6. Waktu = 6 hari.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Pekerjaan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-kerja-bersama-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "A menyelesaikan pekerjaan dalam 12 hari, B dalam 24 hari. Jika bekerja bersama, pekerjaan selesai dalam…",
+    "options": [
+      "9 hari",
+      "36 hari",
+      "18 hari",
+      "8 hari"
+    ],
+    "answerIndex": 3,
+    "explanation": "Per hari: 1/12 + 1/24 = 1/8. Waktu = 8 hari.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Pekerjaan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-campuran-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "200 ml larutan gula 10% dicampur dengan 300 ml larutan gula 20%. Kadar gula campurannya…",
+    "options": [
+      "16%",
+      "17%",
+      "15%",
+      "18%"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gula = 200x10% + 300x20% = 80 ml dari 500 ml, kadar 16%.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Campuran"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-campuran-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "400 ml larutan gula 5% dicampur dengan 100 ml larutan gula 30%. Kadar gula campurannya…",
+    "options": [
+      "9%",
+      "13%",
+      "12%",
+      "10%"
+    ],
+    "answerIndex": 3,
+    "explanation": "Gula = 400x5% + 100x30% = 50 ml dari 500 ml, kadar 10%.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Campuran"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-campuran-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "300 ml larutan gula 12% dicampur dengan 200 ml larutan gula 2%. Kadar gula campurannya…",
+    "options": [
+      "9%",
+      "7%",
+      "8%",
+      "10%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gula = 300x12% + 200x2% = 40 ml dari 500 ml, kadar 8%.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Campuran"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-jumlah-aritmetika-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Deret 3, 7, 11, … Jumlah 10 suku pertamanya…",
+    "options": [
+      "210",
+      "214",
+      "171",
+      "39"
+    ],
+    "answerIndex": 0,
+    "explanation": "U10 = 3 + (10-1)x4 = 39. S10 = 10/2 x (3 + 39) = 210.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret aritmetika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-jumlah-aritmetika-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Deret 5, 8, 11, … Jumlah 12 suku pertamanya…",
+    "options": [
+      "38",
+      "258",
+      "261",
+      "220"
+    ],
+    "answerIndex": 1,
+    "explanation": "U12 = 5 + (12-1)x3 = 38. S12 = 12/2 x (5 + 38) = 258.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret aritmetika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-jumlah-aritmetika-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Deret 2, 7, 12, … Jumlah 8 suku pertamanya…",
+    "options": [
+      "161",
+      "156",
+      "37",
+      "119"
+    ],
+    "answerIndex": 1,
+    "explanation": "U8 = 2 + (8-1)x5 = 37. S8 = 8/2 x (2 + 37) = 156.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Deret aritmetika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-persen-dari-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "35% dari 240 adalah…",
+    "options": [
+      "156",
+      "840",
+      "84",
+      "94"
+    ],
+    "answerIndex": 2,
+    "explanation": "35/100 x 240 = 84.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-persen-dari-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "12,5% dari 640 adalah…",
+    "options": [
+      "800",
+      "90",
+      "560",
+      "80"
+    ],
+    "answerIndex": 3,
+    "explanation": "12,5/100 x 640 = 80.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-persen-dari-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "45% dari 180 adalah…",
+    "options": [
+      "810",
+      "91",
+      "81",
+      "99"
+    ],
+    "answerIndex": 2,
+    "explanation": "45/100 x 180 = 81.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-akar-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "√144 + √81 = …",
+    "options": [
+      "15",
+      "22",
+      "21",
+      "19"
+    ],
+    "answerIndex": 2,
+    "explanation": "√144 = 12; √81 = 9; jumlah 21. Bukan √225.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Akar"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-akar-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "√196 + √49 = …",
+    "options": [
+      "19",
+      "24",
+      "22",
+      "21"
+    ],
+    "answerIndex": 3,
+    "explanation": "√196 = 14; √49 = 7; jumlah 21.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Akar"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-akar-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "√225 + √64 = …",
+    "options": [
+      "17",
+      "21",
+      "23",
+      "24"
+    ],
+    "answerIndex": 2,
+    "explanation": "√225 = 15; √64 = 8; jumlah 23. Bukan √289.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Akar"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-jam-tiba-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Bus berangkat pukul 07.15, menempuh 150 km dengan kecepatan rata-rata 60 km/jam. Bus tiba pukul…",
+    "options": [
+      "09.30",
+      "10.15",
+      "09.45",
+      "09.15"
+    ],
+    "answerIndex": 2,
+    "explanation": "Waktu = 150/60 jam = 150 menit. 07.15 + 150 menit = 09.45.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-jam-tiba-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Bus berangkat pukul 09.40, menempuh 120 km dengan kecepatan rata-rata 80 km/jam. Bus tiba pukul…",
+    "options": [
+      "11.40",
+      "10.40",
+      "12.10",
+      "11.10"
+    ],
+    "answerIndex": 3,
+    "explanation": "Waktu = 120/80 jam = 90 menit. 09.40 + 90 menit = 11.10.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-jam-tiba-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Bus berangkat pukul 13.30, menempuh 245 km dengan kecepatan rata-rata 70 km/jam. Bus tiba pukul…",
+    "options": [
+      "17.00",
+      "16.30",
+      "16.00",
+      "17.30"
+    ],
+    "answerIndex": 0,
+    "explanation": "Waktu = 245/70 jam = 210 menit. 13.30 + 210 menit = 17.00.",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-lingkaran-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Luas lingkaran berjari-jari 7 cm (π = 22/7) adalah…",
+    "options": [
+      "44 cm²",
+      "154 cm²",
+      "308 cm²",
+      "155 cm²"
+    ],
+    "answerIndex": 1,
+    "explanation": "L = 22/7 x 7 x 7 = 154 cm². Keliling = 44 cm (jangan tertukar).",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Geometri"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-lingkaran-2",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Luas lingkaran berjari-jari 14 cm (π = 22/7) adalah…",
+    "options": [
+      "1232 cm²",
+      "88 cm²",
+      "616 cm²",
+      "617 cm²"
+    ],
+    "answerIndex": 2,
+    "explanation": "L = 22/7 x 14 x 14 = 616 cm². Keliling = 88 cm (jangan tertukar).",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Geometri"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-lingkaran-3",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Luas lingkaran berjari-jari 21 cm (π = 22/7) adalah…",
+    "options": [
+      "132 cm²",
+      "2772 cm²",
+      "1386 cm²",
+      "1387 cm²"
+    ],
+    "answerIndex": 2,
+    "explanation": "L = 22/7 x 21 x 21 = 1386 cm². Keliling = 132 cm (jangan tertukar).",
+    "source": {
+      "title": "Latihan buatan sendiri (soal dan kunci dihasilkan skrip)",
+      "reference": "Geometri"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

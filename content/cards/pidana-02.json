@@ -358,5 +358,366 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-iter-criminis",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "infographic",
+      "title": "Iter criminis: 4 tahap",
+      "points": [
+        "1. Kehendak jahat (voornemen)",
+        "2. Persiapan",
+        "3. Pelaksanaan",
+        "4. Delik selesai"
+      ]
+    },
+    "caption": "Tahap 1 tidak pernah dipidana (cogitationis poenam nemo patitur). Tahap 4 tidak bermasalah. Persoalan ada di batas tahap 2 dan 3: di situ garis antara kebebasan warga dan jangkauan sanksi pidana.",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "niat doang belum bisa dipidana, catat"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "yang sulit justru batas persiapan dan pelaksanaan"
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Doktrin iter criminis; Pasal 15 dan 17 KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-tiga-perluasan",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "infographic",
+      "title": "Tiga perluasan di Buku Kesatu",
+      "points": [
+        "Pasal 13-14: permufakatan jahat",
+        "Pasal 15-16: persiapan",
+        "Pasal 17-19: percobaan",
+        "Makin dekat delik, makin berat"
+      ]
+    },
+    "caption": "Menurut artikel MARINews, KUHP lama hanya mengenal percobaan (Pasal 53-54) sebagai perluasan umum. KUHP Nasional menambah permufakatan jahat dan persiapan di Buku Kesatu, tetapi keduanya tetap hanya dipidana bila ditentukan tegas dalam UU. Yang berubah adalah kepastian pengertiannya, bukan luas pemidanaannya.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 13-19 KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-plafon-persiapan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut artikel MARINews, pidana untuk persiapan melakukan tindak pidana (Pasal 15 ayat (3) KUHP Nasional) paling banyak…",
+    "options": [
+      "Dua pertiga maksimum ancaman pidana pokok",
+      "Sama dengan maksimum ancaman pidana pokok",
+      "Setengah maksimum ancaman pidana pokok",
+      "Sepertiga maksimum ancaman pidana pokok"
+    ],
+    "answerIndex": 2,
+    "explanation": "Persiapan: paling banyak 1/2 maksimum; untuk delik yang diancam mati/seumur hidup paling lama 10 tahun (ayat (4)); pidana tambahan disamakan (ayat (5)). Percobaan: 2/3 maksimum, paling lama 15 tahun untuk delik ancaman mati/seumur hidup.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 15 ayat (3)-(5), Pasal 17 ayat (3)-(4) KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-plafon-perluasan-mnemonik",
+    "type": "mnemonic",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Makin dekat, makin berat",
+      "text": "1/3 · 1/2 · 2/3",
+      "sub": "Mufakat · Siap · Coba"
+    },
+    "caption": "Plafon pidana tiga bentuk perluasan menurut urutan iter criminis (versi artikel MARINews).",
+    "phrase": "Mufakat-Siap-Coba: 1/3, 1/2, 2/3",
+    "expansion": [
+      "Permufakatan jahat: sepertiga maksimum",
+      "Persiapan: satu per dua maksimum",
+      "Percobaan: dua per tiga maksimum",
+      "Cek angka pastinya di teks Pasal 13, 15, 17"
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 13, 15, 17 KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-persiapan-kapan-dipidana",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut artikel MARINews, kapan persiapan melakukan tindak pidana bisa dipidana?",
+    "options": [
+      "Hanya bila ditentukan tegas dalam undang-undang",
+      "Bila pelaku mengakui niatnya di persidangan",
+      "Selalu, karena Pasal 15 ayat (1) sudah mendefinisikannya",
+      "Bila alat yang disiapkan tergolong berbahaya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 15 ayat (1) hanya norma definisi, bukan norma pemidanaan. Ayat (2): persiapan dipidana jika ditentukan secara tegas dalam undang-undang. Menjadikan ayat (1) dasar pemidanaan melanggar nullum crimen sine lege stricta.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 15 ayat (1)-(2) KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-congkel-jendela",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "A mencongkel jendela rumah orang untuk mencuri, lalu tertangkap sebelum masuk. Menurut tafsir artikel MARINews atas Pasal 17 ayat (2) KUHP Nasional…",
+    "options": [
+      "Sudah percobaan: perbuatannya langsung berpotensi",
+      "Bukan apa-apa karena barang belum diambil",
+      "Pencurian selesai karena niatnya sudah jelas",
+      "Belum percobaan: belum ada unsur pencurian terpenuhi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Teori objektif formil: belum percobaan (belum ada unsur delik terpenuhi). Teori objektif materiil: sudah percobaan. Penulis membaca Pasal 17 ayat (2) huruf b (\"langsung berpotensi\") lebih dekat ke objektif materiil, dengan huruf a sebagai pengendali subjektif.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 17 ayat (2) KUHP Nasional (tafsir penulis, artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-mundur-sukarela-amar",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pelaku sudah menyelesaikan seluruh perbuatannya, lalu atas kehendak sendiri mencegah akibatnya (Pasal 18 ayat (1) huruf b). Menurut artikel MARINews, amarnya…",
+    "options": [
+      "Lepas dari segala tuntutan hukum",
+      "Dipidana dua pertiga dari ancaman maksimum",
+      "Tuntutan penuntut umum tidak dapat diterima",
+      "Bebas, karena unsur percobaan tidak terpenuhi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Huruf a (tidak menyelesaikan perbuatan secara sukarela) mencerminkan unsur negatif Pasal 17 ayat (1): unsur tidak terpenuhi, amar bebas. Huruf b: semua unsur Pasal 17 ayat (1) terpenuhi; peniadaan pidana datang dari luar rumusan delik (alasan penghapus pidana pribadi), amar lepas. Tidak menjalar ke peserta lain yang tidak ikut mundur.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 17 ayat (1), Pasal 18 ayat (1) KUHP Nasional (tafsir penulis, artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-percobaan-tidak-mampu",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "B mencoba membunuh dengan \"racun\" yang ternyata gula pasir murni (mutlak tidak mungkin mematikan). Menurut artikel MARINews, di bawah KUHP Nasional…",
+    "options": [
+      "Tetap percobaan karena niat membunuhnya nyata",
+      "Percobaan, tetapi pidananya dikurangi setengah",
+      "Delik selesai karena perbuatannya sudah dilakukan",
+      "Bukan percobaan: tak pernah langsung berpotensi"
+    ],
+    "answerIndex": 3,
+    "explanation": "KUHP Nasional tidak mengatur ondeugdelijke poging secara khusus, tetapi Pasal 17 ayat (2) huruf b menyelesaikannya: alat/objek yang mutlak tidak mampu berarti perbuatan tidak pernah langsung berpotensi, sehingga permulaan pelaksanaan tidak ada. Ketidakmampuan relatif tetap bisa dipidana.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 17 ayat (2) huruf b KUHP Nasional (tafsir penulis, artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-pasal-19-ganti-54",
+    "type": "review",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "front": "KUHP Nasional tidak lagi membedakan kejahatan dan pelanggaran. Lalu apa pengganti Pasal 54 KUHP lama (percobaan pelanggaran tidak dipidana)?",
+    "back": "Pasal 19 KUHP Nasional (menurut artikel MARINews): percobaan tindak pidana yang hanya diancam pidana denda paling banyak kategori II tidak dipidana. Kriterianya bergeser dari klasifikasi delik ke bobot ancaman pidana.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 19 KUHP Nasional; Pasal 54 KUHP lama (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-permufakatan-sepihak",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "C mengajak D merampok bank; D diam saja lalu bertanya balik \"serius?\". Menurut artikel MARINews, apakah sudah ada permufakatan jahat?",
+    "options": [
+      "Belum; belum ada kehendak yang bertemu",
+      "Sudah, karena diam berarti setuju",
+      "Belum, karena perampokan tidak bisa dimufakati",
+      "Sudah, karena ajakan C sudah diucapkan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Permufakatan jahat (Pasal 13) butuh kesepakatan dua orang atau lebih (wilsovereenstemming). Ajakan yang belum diterima, diam, atau pertanyaan balik bukan penerimaan. Permufakatan pun hanya dipidana bila UU menentukannya secara tegas.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 13 KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-persiapan-atau-pelaksanaan",
+    "type": "carousel",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Lima indikator",
+          "title": "Persiapan atau sudah pelaksanaan?",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Lima indikator (usulan penulis)",
+          "points": [
+            "1. Kesiapan sarana",
+            "2. Masih ada langkah antara?",
+            "3. Kedekatan ruang dan waktu",
+            "4. Kepentingan hukum terpapar bahaya?",
+            "5. Bermakna tunggal atau ganda?"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Dua jalan pintas yang salah",
+          "points": [
+            "Niat jelas = sudah pelaksanaan",
+            "Sarana berbahaya = perbuatan berbahaya",
+            "Ukurannya: jarak ke delik selesai"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Setelah semua indikator diuji, hasilnya tetap berimbang. Menurut penulis, hakim sebaiknya menempatkan perbuatan pada…",
+        "options": [
+          "Fase mana saja sesuai keyakinan majelis",
+          "Delik selesai agar tidak ada celah",
+          "Fase yang lebih awal (persiapan)",
+          "Fase pelaksanaan, demi perlindungan korban"
+        ],
+        "answerIndex": 2,
+        "explanation": "Kekeliruan tidak sama bobotnya: salah menempatkan persiapan sebagai percobaan bisa memidana perbuatan yang belum dinyatakan dapat dipidana (menyentuh asas legalitas). Karena itu, bila berimbang, pilih fase lebih awal (in dubio pro reo)."
+      }
+    ],
+    "caption": "Indikator usulan Hakim Agung Pudjoharsoyo (MARINews, 15 Oktober 2026) untuk membedakan persiapan (Pasal 15) dari permulaan pelaksanaan (Pasal 17 ayat (2)). Pendapat pribadi penulis, bukan pedoman resmi MA.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 15 ayat (1), Pasal 17 ayat (2) KUHP Nasional (usulan penulis artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-niat-bukan-pelaksanaan",
+    "type": "humor",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Niat jelas, perbuatan jauh",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Dia sudah ngaku mau maling. Niatnya terang benderang!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Lalu perbuatannya sudah langsung berpotensi?"
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Eh... baru beli linggis di toko, Yang Mulia."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Niat jelas belum tentu permulaan pelaksanaan."
+        }
+      ]
+    },
+    "caption": "Pengakuan niat tidak menggeser perbuatan ke tahap pelaksanaan.",
+    "teaches": "Menurut artikel MARINews, Pasal 17 ayat (2) KUHP Nasional mensyaratkan secara kumulatif niat (huruf a) dan perbuatan yang langsung berpotensi menimbulkan tindak pidana (huruf b). Menyamakan niat jelas dengan permulaan pelaksanaan berarti kembali ke teori subjektif murni.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 15 Oktober 2026)",
+      "reference": "Pasal 17 ayat (2) KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penafsiran-perbuatan-dalam-tindak-pidana-menurut-kuhp-0b1D"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

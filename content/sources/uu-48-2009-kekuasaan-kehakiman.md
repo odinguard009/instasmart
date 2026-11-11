@@ -19,9 +19,7 @@
 
 > (1) Setiap orang yang ditangkap, ditahan, dituntut, atau diadili tanpa alasan berdasarkan undang-undang atau karena kekeliruan mengenai orangnya atau hukum yang diterapkannya, berhak menuntut ganti kerugian dan rehabilitasi.
 
-> (2) Pejabat yang dengan sengaja melakukan perbuatan sebagaimana dimaksud pada ayat
-
-> (1) dipidana sesuai dengan ketentuan peraturan perundang-undangan.
+> (2) Pejabat yang dengan sengaja melakukan perbuatan sebagaimana dimaksud pada ayat (1) dipidana sesuai dengan ketentuan peraturan perundang-undangan.
 
 > (3) Ketentuan mengenai tata cara penuntutan ganti kerugian, rehabilitasi, dan pembebanan ganti kerugian diatur dalam undang-undang.
 
@@ -29,9 +27,7 @@
 
 > (1) Pengadilan memeriksa, mengadili, dan memutus perkara dengan susunan majelis sekurang-kurangnya 3 (tiga) orang hakim, kecuali undang-undang menentukan lain.
 
-> (2) Susunan hakim sebagaimana dimaksud pada ayat
-
-> (1) terdiri dari seorang hakim ketua dan dua orang hakim anggota.
+> (2) Susunan hakim sebagaimana dimaksud pada ayat (1) terdiri dari seorang hakim ketua dan dua orang hakim anggota.
 
 > (3) Hakim dalam memeriksa, mengadili, dan memutus perkara dibantu oleh seorang panitera atau seorang yang ditugaskan melakukan pekerjaan panitera.
 
@@ -47,9 +43,7 @@
 
 > (2) Mahkamah Agung berwenang: a. mengadili pada tingkat kasasi terhadap putusan yang diberikan pada tingkat terakhir oleh pengadilan di semua lingkungan peradilan yang berada di bawah Mahkamah Agung, kecuali undang-undang menentukan lain; b. menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang; dan c. kewenangan lainnya yang diberikan undang-undang.
 
-> (3) Putusan mengenai tidak sahnya peraturan perundang-undangan sebagai hasil pengujian sebagaimana dimaksud pada ayat
-
-> (2) huruf b dapat diambil baik berhubungan dengan pemeriksaan pada tingkat kasasi maupun berdasarkan permohonan langsung pada Mahkamah Agung.
+> (3) Putusan mengenai tidak sahnya peraturan perundang-undangan sebagai hasil pengujian sebagaimana dimaksud pada ayat (2) huruf b dapat diambil baik berhubungan dengan pemeriksaan pada tingkat kasasi maupun berdasarkan permohonan langsung pada Mahkamah Agung.
 
 ## Pasal 24
 
@@ -67,9 +61,7 @@
 
 > (1) Hakim pengadilan di bawah Mahkamah Agung merupakan pejabat negara yang melaksanakan kekuasaan kehakiman yang berada pada badan peradilan di bawah Mahkamah Agung.
 
-> (2) Hakim sebagaimana dimaksud pada ayat
-
-> (1) tidak dapat merangkap jabatan, kecuali undang-undang menentukan lain.
+> (2) Hakim sebagaimana dimaksud pada ayat (1) tidak dapat merangkap jabatan, kecuali undang-undang menentukan lain.
 
 ## Pasal 42
 
@@ -79,9 +71,7 @@
 
 > (1) Negara memberikan jaminan keamanan dan kesejahteraan hakim dan hakim konstitusi dalam menjalankan tugas dan tanggung jawab penyelenggaraan kekuasaan kehakiman.
 
-> (2) Jaminan keamanan dan kesejahteraan hakim dan hakim konstitusi sebagaimana dimaksud pada ayat
-
-> (1) diatur sesuai dengan ketentuan peraturan perundang-undangan.
+> (2) Jaminan keamanan dan kesejahteraan hakim dan hakim konstitusi sebagaimana dimaksud pada ayat (1) diatur sesuai dengan ketentuan peraturan perundang-undangan.
 
 ## Pasal 52
 
@@ -89,9 +79,7 @@
 
 > (2) Pengadilan wajib menyampaikan salinan putusan kepada para pihak dalam jangka waktu yang ditentukan berdasarkan peraturan perundang-undangan.
 
-> (3) Dalam perkara pidana, putusan selain sebagaimana dimaksud pada ayat
-
-> (2) disampaikan kepada instansi yang terkait dengan pelaksanaan putusan.
+> (3) Dalam perkara pidana, putusan selain sebagaimana dimaksud pada ayat (2) disampaikan kepada instansi yang terkait dengan pelaksanaan putusan.
 
 ## Pasal 54
 
@@ -105,9 +93,7 @@
 
 > (1) Ketua pengadilan wajib mengawasi pelaksanaan putusan pengadilan yang telah memperoleh kekuatan hukum tetap.
 
-> (2) Pengawasan pelaksanaan putusan pengadilan sebagaimana dimaksud pada ayat
-
-> (1) dilakukan sesuai dengan peraturan perundang-undangan.
+> (2) Pengawasan pelaksanaan putusan pengadilan sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan peraturan perundang-undangan.
 
 ## Pasal 56
 
@@ -121,9 +107,7 @@
 
 > (2) Bantuan hukum sebagaimana dimaksud pada ayat (1), diberikan secara cuma-cuma pada semua tingkat peradilan sampai putusan terhadap perkara tersebut telah memperoleh kekuatan hukum tetap.
 
-> (3) Bantuan hukum dan pos bantuan hukum sebagaimana dimaksud pada ayat
-
-> (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-udangan.
+> (3) Bantuan hukum dan pos bantuan hukum sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-udangan.
 
 ## Pasal 58
 
@@ -141,10 +125,6 @@
 
 > (1) Alternatif penyelesaian sengketa merupakan lembaga penyelesaian sengketa atau beda pendapat melalui prosedur yang disepakati para pihak, yakni penyelesaian di luar pengadilan dengan cara konsultasi, negosiasi, mediasi, konsiliasi, atau penilaian ahli.
 
-> (2) Penyelesaian sengketa melalui alternatif penyelesaian sengketa sebagaimana dimaksud pada ayat
+> (2) Penyelesaian sengketa melalui alternatif penyelesaian sengketa sebagaimana dimaksud pada ayat (1) hasilnya dituangkan dalam kesepakatan tertulis.
 
-> (1) hasilnya dituangkan dalam kesepakatan tertulis.
-
-> (3) Kesepakatan secara tertulis sebagaimana dimaksud pada ayat
-
-> (2) bersifat final dan mengikat para pihak untuk dilaksanakan dengan itikad baik.
+> (3) Kesepakatan secara tertulis sebagaimana dimaksud pada ayat (2) bersifat final dan mengikat para pihak untuk dilaksanakan dengan itikad baik.

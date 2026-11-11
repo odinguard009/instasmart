@@ -3,7 +3,7 @@
 > Diambil pada 11 November 2026 dari PDF teks undang-undang di situs Hukumonline (pihak ketiga):
 > https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_7_1989.pdf
 > Teks asli UU 7/1989, belum dicocokkan dengan Lembaran Negara. Baris yang terpotong digabung; selebihnya disalin persis.
-> Status perubahan: daftar "Ketentuan Pasal ... diubah" dalam UU 3/2006 (teks JDIH Kemenkeu, https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UU.htm) tidak menyebut pasal-pasal di bawah ini. Perubahan kedua (UU 50/2009) BELUM dicek karena teksnya tidak berhasil diunduh; anggap kartu dari kutipan ini perlu verifikasi.
+> Status perubahan: 42 butir perubahan dalam UU 3/2006 (teks JDIH Kemenkeu, https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UU.htm) sudah dihitung satu per satu; di rentang Pasal 54-91 hanya Pasal 90 yang diubah (tidak dikutip di sini). Untuk UU 50/2009, teks resmi tidak berhasil diunduh; menurut salinan di Slideshare (https://www.slideshare.net/slideshow/uu-50-tahun2009/31613680, dibaca 11 November 2026, dirangkum, bukan dikutip) perubahan di rentang ini hanya berupa sisipan Pasal 60A-60C, 64A, dan 91A-91B. Daftar itu belum dicocokkan dengan naskah resmi.
 
 ## Pasal 54
 
@@ -54,6 +54,10 @@
 > (1) Pemeriksaan permohonan cerai talak dilakukan oleh Majelis Hakim selambat-lambatnya 30 (tiga puluh) hari setelah berkas atau surat permohonan cerai talak didaftarkan di Kepaniteraan.
 
 > (2) Pemeriksaan permohonan cerai talak dilakukan dalam sidang tertutup.
+
+## Pasal 69
+
+> Dalam pemeriksaan perkara cerai talak ini berlaku ketentuan-ketentuan Pasal 79, Pasal 80 ayat (2), Pasal 82, dan Pasal 83.
 
 ## Pasal 70
 
@@ -140,6 +144,12 @@
 > (1) Apabila permohonan atau gugatan cerai diajukan atas alasan salah satu pihak melakukan zina, sedangkan pemohon atau penggugat tidak dapat melengkapi bukti-bukti dan termohon atau tergugat menyanggah alasan tersebut, dan Hakim berpendapat bahwa permohonan atau gugatan itu bukan tiada pembuktian sama sekali serta upaya peneguhan alat bukti tidak mungkin lagi diperoleh baik dari pemohon atau penggugat maupun dari termohon atau tergugat, maka Hakim karena jabatannya dapat menyuruh pemohon atau penggugat untuk bersumpah.
 
 > (2) Pihak termohon atau tergugat diberi kesempatan pula untuk meneguhkan sanggahannya dengan cara yang sama.
+
+## Pasal 88
+
+> (1) Apabila sumpah sebagaimana yang dimaksud dalam Pasal 87 ayat (1) dilakukan oleh suami, maka penyelesaiannya dapat dilaksanakan dengan cara lain.
+
+> (2) Apabila sumpah sebagaimana yang dimaksud dalam Pasal 87 ayat (1) dilakukan oleh istri maka penyelesaiannya dilaksanakan dengan hukum acara yang berlaku.
 
 ## Pasal 89
 

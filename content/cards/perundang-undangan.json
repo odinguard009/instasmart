@@ -1,0 +1,362 @@
+[
+  {
+    "id": "perundang-undangan-hierarki",
+    "type": "fact",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "visual": {
+      "template": "infographic",
+      "title": "Hierarki (Pasal 7 ayat 1)",
+      "points": [
+        "UUD 1945",
+        "Ketetapan MPR",
+        "UU / Perppu",
+        "PP, lalu Perpres",
+        "Perda Provinsi, lalu Perda Kabupaten/Kota"
+      ]
+    },
+    "caption": "Kekuatan hukum peraturan sesuai hierarkinya. Perhatikan: Tap MPR berada di bawah UUD dan di atas UU.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-hierarki-urut",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Urutan yang benar menurut Pasal 7 ayat (1) UU 12/2011 adalah…",
+    "options": [
+      "UUD, Tap MPR, UU/Perppu, PP, Perpres",
+      "UUD, UU, Perpres, PP",
+      "UUD, UU, Tap MPR, PP",
+      "UUD, Tap MPR, PP, UU"
+    ],
+    "answerIndex": 0,
+    "explanation": "UUD 1945, Tap MPR, UU/Perppu, PP, Perpres, Perda Provinsi, Perda Kabupaten/Kota.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-pasal8",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Peraturan Menteri atau Peraturan Mahkamah Agung (yang tidak tercantum di Pasal 7) tetap diakui dan mengikat bila…",
+    "options": [
+      "Disetujui DPR",
+      "Diperintahkan peraturan yang lebih tinggi atau dibentuk berdasarkan kewenangan",
+      "Diumumkan di media massa",
+      "Tidak pernah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 8 UU 12/2011 mengakui jenis peraturan lain sepanjang diperintahkan peraturan yang lebih tinggi atau dibentuk berdasarkan kewenangan.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 8"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-ketentuan-pidana",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Materi muatan ketentuan pidana hanya dapat dimuat dalam…",
+    "options": [
+      "Semua jenis peraturan",
+      "PP dan Perpres",
+      "UU dan Perda (provinsi/kabupaten/kota)",
+      "Peraturan Menteri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 15 ayat (1) UU 12/2011.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 15"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-asas-pembentukan",
+    "type": "fact",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "visual": {
+      "template": "infographic",
+      "title": "Asas pembentukan (Pasal 5)",
+      "points": [
+        "Kejelasan tujuan; kelembagaan/pejabat yang tepat",
+        "Kesesuaian jenis, hierarki, dan materi muatan",
+        "Dapat dilaksanakan",
+        "Kedayagunaan dan kehasilgunaan",
+        "Kejelasan rumusan; keterbukaan"
+      ]
+    },
+    "caption": "Asas formal pembentukan. Asas materi muatan (Pasal 6) lain lagi: pengayoman, kemanusiaan, kebangsaan, kekeluargaan, kenusantaraan, bhinneka tunggal ika, keadilan, dan seterusnya.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 5-6"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-lex-specialis",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Bila UU umum dan UU khusus yang sederajat mengatur hal yang sama secara berbeda, yang didahulukan adalah UU khusus. Asas ini…",
+    "options": [
+      "Lex specialis derogat legi generali",
+      "Lex superior derogat legi inferiori",
+      "Lex posterior derogat legi priori",
+      "Lex non scripta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lex superior: yang lebih tinggi mengalahkan yang lebih rendah. Lex posterior: yang baru mengalahkan yang lama (sederajat).",
+    "source": {
+      "title": "Doktrin ilmu perundang-undangan",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-perppu",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Perppu yang tidak mendapat persetujuan DPR dalam persidangan berikutnya…",
+    "options": [
+      "Berlaku 5 tahun",
+      "Tetap berlaku sampai diuji MK",
+      "Otomatis menjadi PP",
+      "Harus dicabut"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 22 ayat (3) UUD 1945: jika tidak mendapat persetujuan, Perppu harus dicabut. Perppu ditetapkan Presiden dalam hal ihwal kegentingan yang memaksa.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-pengujian",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Peraturan Pemerintah yang diduga bertentangan dengan UU diuji oleh…",
+    "options": [
+      "Komisi Yudisial",
+      "Mahkamah Konstitusi",
+      "DPR",
+      "Mahkamah Agung"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 24A ayat (1) UUD: MA menguji peraturan di bawah UU terhadap UU. Pasal 24C ayat (1): MK menguji UU terhadap UUD.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24A, 24C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-omnibus",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Metode omnibus dalam pembentukan peraturan diberi dasar hukum secara tegas melalui…",
+    "options": [
+      "UU 13/2022 (perubahan kedua UU 12/2011)",
+      "Perpres",
+      "UU 12/2011 sejak awal",
+      "Putusan MA"
+    ],
+    "answerIndex": 0,
+    "explanation": "UU 13/2022 menambahkan pengaturan metode omnibus serta memperkuat partisipasi masyarakat, setelah Putusan MK 91/PUU-XVIII/2020 tentang UU Cipta Kerja.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "UU 13/2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-partisipasi-bermakna",
+    "type": "fact",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "visual": {
+      "template": "infographic",
+      "title": "Partisipasi bermakna",
+      "points": [
+        "Hak untuk didengar",
+        "Hak untuk dipertimbangkan pendapatnya",
+        "Hak mendapat penjelasan atas pendapatnya"
+      ]
+    },
+    "caption": "Tiga unsur meaningful participation yang dirumuskan MK dalam Putusan 91/PUU-XVIII/2020 (uji formil UU Cipta Kerja).",
+    "source": {
+      "title": "Putusan Mahkamah Konstitusi No. 91/PUU-XVIII/2020",
+      "reference": "Putusan MK 91/PUU-XVIII/2020"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-naskah-akademik",
+    "type": "review",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "front": "Apa itu naskah akademik?",
+    "back": "Naskah hasil penelitian/pengkajian hukum suatu masalah yang dapat dipertanggungjawabkan secara ilmiah, sebagai solusi dan dasar pengaturan dalam rancangan UU atau Perda.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 1 angka 11"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-prolegnas",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Instrumen perencanaan penyusunan undang-undang disebut…",
+    "options": [
+      "Prolegnas (Program Legislasi Nasional)",
+      "RPJMN",
+      "Propemperda",
+      "Naskah akademik"
+    ],
+    "answerIndex": 0,
+    "explanation": "Prolegnas untuk UU; Propemperda untuk Perda.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 16-17"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-superior-meme",
+    "type": "humor",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "visual": {
+      "template": "meme",
+      "top": "Perbup: \"Aku mengatur beda dari UU.\"",
+      "bottom": "UU: lex superior derogat legi inferiori. Duduk dulu, Dik.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Peraturan lebih rendah tidak boleh bertentangan dengan yang lebih tinggi.",
+    "teaches": "Lex superior: peraturan yang lebih tinggi mengesampingkan yang lebih rendah; yang bertentangan dapat diuji (ke MA bila di bawah UU).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Doktrin; Pasal 7 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-asas-tiga",
+    "type": "mnemonic",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "visual": {
+      "template": "bigtype",
+      "text": "SuSpe-Po",
+      "sub": "Superior, Specialis, Posterior"
+    },
+    "caption": "Tiga asas penyelesaian konflik norma.",
+    "phrase": "SuSpe-Po",
+    "expansion": [
+      "Superior: yang lebih tinggi menang",
+      "Specialis: yang khusus menang",
+      "Posterior: yang lebih baru menang (sederajat)"
+    ],
+    "source": {
+      "title": "Doktrin ilmu perundang-undangan",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-story",
+    "type": "story",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "title": "Tangga peraturan",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Pasal 7 UU 12/2011",
+          "title": "Hierarki peraturan",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "UUD 1945",
+          "sub": "Puncak."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Tap MPR",
+          "sub": "Di bawah UUD, di atas UU."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "UU/Perppu → PP → Perpres",
+          "sub": "Lalu Perda Provinsi dan Perda Kabupaten/Kota."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana diubah UU 15/2019 dan UU 13/2022)",
+      "reference": "Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

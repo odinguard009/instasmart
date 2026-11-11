@@ -131,6 +131,74 @@
     ]
   },
   {
+    "id": "perundang-undangan",
+    "group": "hukum",
+    "name": "Ilmu Perundang-undangan",
+    "shortName": "Perundang-undangan",
+    "palette": "nila",
+    "subTopics": [
+      {
+        "id": "hierarki-asas",
+        "name": "Jenis, Hierarki & Asas"
+      },
+      {
+        "id": "pembentukan-pengujian",
+        "name": "Pembentukan & Pengujian"
+      }
+    ]
+  },
+  {
+    "id": "pemilu",
+    "group": "hukum",
+    "name": "Hukum Pemilu",
+    "shortName": "Pemilu",
+    "palette": "senja",
+    "subTopics": [
+      {
+        "id": "penyelenggara-asas",
+        "name": "Asas & Penyelenggara"
+      },
+      {
+        "id": "sengketa-pemilu",
+        "name": "Pelanggaran & Sengketa"
+      }
+    ]
+  },
+  {
+    "id": "pajak",
+    "group": "hukum",
+    "name": "Hukum Pajak",
+    "shortName": "Pajak",
+    "palette": "kopi",
+    "subTopics": [
+      {
+        "id": "dasar-pajak",
+        "name": "Dasar & Asas Pajak"
+      },
+      {
+        "id": "sengketa-pajak",
+        "name": "Sengketa & Pengadilan Pajak"
+      }
+    ]
+  },
+  {
+    "id": "siber",
+    "group": "hukum",
+    "name": "Hukum Siber & Pelindungan Data Pribadi",
+    "shortName": "Siber & PDP",
+    "palette": "arang",
+    "subTopics": [
+      {
+        "id": "ite",
+        "name": "Informasi & Transaksi Elektronik"
+      },
+      {
+        "id": "pdp",
+        "name": "Pelindungan Data Pribadi"
+      }
+    ]
+  },
+  {
     "id": "kebangsaan",
     "group": "cpns",
     "name": "Wawasan Kebangsaan (Pancasila, UUD 1945, NKRI, Bhinneka Tunggal Ika)",

@@ -1,0 +1,319 @@
+[
+  {
+    "id": "siber-alat-bukti",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "ite",
+    "account": "data.pribadi",
+    "question": "Menurut UU ITE, informasi elektronik, dokumen elektronik, dan hasil cetaknya…",
+    "options": [
+      "Hanya petunjuk",
+      "Tidak bisa dipakai di pengadilan",
+      "Hanya sah di perkara perdata",
+      "Merupakan alat bukti hukum yang sah (perluasan alat bukti)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5 ayat (1)-(2) UU ITE. Ada pengecualian, mis. surat yang menurut UU harus berbentuk tertulis atau akta notaril (Pasal 5 ayat 4).",
+    "source": {
+      "title": "UU No. 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (sebagaimana diubah UU 19/2016 dan UU 1/2024)",
+      "reference": "Pasal 5"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-ttd-elektronik",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "ite",
+    "account": "data.pribadi",
+    "question": "Tanda tangan elektronik memiliki kekuatan hukum dan akibat hukum yang sah selama…",
+    "options": [
+      "Dicetak di kertas",
+      "Disaksikan notaris",
+      "Dibubuhi meterai",
+      "Memenuhi persyaratan Pasal 11 (mis. data pembuatan terkait hanya dengan penanda tangan)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 11 UU ITE.",
+    "source": {
+      "title": "UU No. 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (sebagaimana diubah UU 19/2016 dan UU 1/2024)",
+      "reference": "Pasal 11"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-kuhp-ite",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "ite",
+    "account": "data.pribadi",
+    "question": "Setelah KUHP Nasional berlaku (2 Januari 2026), sejumlah pasal pidana UU ITE seperti Pasal 27 ayat (3) dan Pasal 28 ayat (2)…",
+    "options": [
+      "Diperberat",
+      "Tetap berlaku tanpa perubahan",
+      "Tercantum sebagai dicabut oleh UU 1/2023",
+      "Dipindah ke UU PDP"
+    ],
+    "answerIndex": 2,
+    "explanation": "Daftar pencabutan menurut JDIH BPK (lihat content/sources/kuhp-2023-pencabutan.md). UU 1/2024 juga mengubah UU ITE; cek status pasal per tanggal.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP; JDIH BPK",
+      "reference": "UU 1/2023 (ketentuan penutup)",
+      "url": "https://peraturan.bpk.go.id/Details/234935/uu-no-1-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-ekstrateritorial",
+    "type": "fact",
+    "topicId": "siber",
+    "subTopicId": "ite",
+    "account": "data.pribadi",
+    "visual": {
+      "template": "bigtype",
+      "text": "UU ITE menjangkau perbuatan di luar negeri",
+      "sub": "Bila akibat hukumnya di Indonesia atau merugikan kepentingan Indonesia (Pasal 2)."
+    },
+    "caption": "Ciri hukum siber: yurisdiksi tidak berhenti di batas wilayah.",
+    "source": {
+      "title": "UU No. 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (sebagaimana diubah UU 19/2016 dan UU 1/2024)",
+      "reference": "Pasal 2"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-jenis-data",
+    "type": "fact",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "visual": {
+      "template": "infographic",
+      "title": "Data pribadi spesifik (Pasal 4)",
+      "points": [
+        "Kesehatan; biometrik; genetika",
+        "Catatan kejahatan",
+        "Data anak",
+        "Data keuangan pribadi",
+        "Data lain sesuai peraturan"
+      ]
+    },
+    "caption": "Data umum: nama lengkap, jenis kelamin, kewarganegaraan, agama, status perkawinan, dan data yang dikombinasikan untuk mengidentifikasi seseorang.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 4"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-pengendali-prosesor",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Perusahaan menyewa vendor cloud untuk mengolah data pelanggan atas instruksinya. Vendor itu berkedudukan sebagai…",
+    "options": [
+      "Pengendali data pribadi",
+      "Subjek data pribadi",
+      "Prosesor data pribadi",
+      "Pihak ketiga tanpa kewajiban"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pengendali menentukan tujuan dan mengendalikan pemrosesan; prosesor memproses atas nama pengendali.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 1"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-dasar-pemrosesan",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Selain persetujuan eksplisit, salah satu dasar pemrosesan data pribadi yang sah menurut UU PDP adalah…",
+    "options": [
+      "Kepentingan pemasaran pihak ketiga tanpa batas",
+      "Popularitas",
+      "Rasa ingin tahu",
+      "Pemenuhan kewajiban perjanjian dengan subjek data"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 20 ayat (2): persetujuan, perjanjian, kewajiban hukum, kepentingan vital, tugas pelayanan publik/kewenangan, dan kepentingan sah lainnya.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 20"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-notifikasi",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "Bila terjadi kegagalan pelindungan data pribadi, pengendali wajib memberi pemberitahuan tertulis paling lambat…",
+    "options": [
+      "14 hari",
+      "1 x 24 jam",
+      "3 x 24 jam",
+      "30 hari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kepada subjek data dan lembaga.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 46"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-transisi",
+    "type": "quiz",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "question": "UU PDP diundangkan Oktober 2022 dengan masa penyesuaian bagi pengendali dan prosesor selama…",
+    "options": [
+      "6 bulan",
+      "2 tahun",
+      "1 tahun",
+      "5 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 74: penyesuaian paling lama 2 tahun sejak diundangkan.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 74"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-hak-subjek",
+    "type": "fact",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "visual": {
+      "template": "infographic",
+      "title": "Beberapa hak subjek data",
+      "points": [
+        "Mendapat informasi tujuan pemrosesan",
+        "Mengakses dan memperbaiki data",
+        "Mengakhiri pemrosesan, menghapus data",
+        "Menarik persetujuan",
+        "Keberatan atas keputusan otomatis (profiling)"
+      ]
+    },
+    "caption": "Diatur di Bab IV UU PDP.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 5-15"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-persetujuan-meme",
+    "type": "humor",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "visual": {
+      "template": "comic",
+      "title": "Klik setuju",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Aplikasi: setuju syarat 80 halaman? [Ya]"
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Mpus: persetujuan harus jelas tujuannya."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Aplikasi: tujuannya... semuanya?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Pak Hoot: itu bukan persetujuan yang sah."
+        }
+      ]
+    },
+    "caption": "Persetujuan pemrosesan harus spesifik dan eksplisit.",
+    "teaches": "UU PDP mensyaratkan persetujuan sah yang eksplisit untuk tujuan tertentu; subjek data berhak menarik persetujuan.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 20-22"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-story",
+    "type": "story",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "title": "Data pribadimu",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 27/2022",
+          "title": "UU PDP",
+          "character": "gecko",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Umum vs spesifik",
+          "sub": "Kesehatan, biometrik, data anak: spesifik."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pengendali vs prosesor",
+          "sub": "Yang menentukan tujuan vs yang mengerjakan."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Bocor? 3 x 24 jam",
+          "sub": "Wajib memberi tahu."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 4, 46"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

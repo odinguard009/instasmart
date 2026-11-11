@@ -1,0 +1,316 @@
+[
+  {
+    "id": "pajak-dasar-konstitusi",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Dasar konstitusional bahwa pajak dan pungutan lain yang bersifat memaksa harus diatur dengan undang-undang adalah…",
+    "options": [
+      "Pasal 28D UUD 1945",
+      "Pasal 18B UUD 1945",
+      "Pasal 23A UUD 1945",
+      "Pasal 33 UUD 1945"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 23A. Sering dikaitkan dengan prinsip \"no taxation without representation\".",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 23A"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-definisi",
+    "type": "fact",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "infographic",
+      "title": "Unsur pajak (Pasal 1 angka 1 UU KUP)",
+      "points": [
+        "Kontribusi wajib kepada negara",
+        "Terutang oleh orang pribadi atau badan",
+        "Memaksa berdasarkan undang-undang",
+        "Tanpa imbalan langsung",
+        "Untuk keperluan negara, kemakmuran rakyat"
+      ]
+    },
+    "caption": "Perbedaan dengan retribusi: retribusi memberi kontraprestasi langsung.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (KUP), sebagaimana telah beberapa kali diubah",
+      "reference": "Pasal 1 angka 1"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-self-assessment",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Sistem yang memberi kepercayaan kepada wajib pajak menghitung, membayar, dan melaporkan sendiri pajaknya disebut…",
+    "options": [
+      "Official assessment",
+      "Withholding system",
+      "Self assessment",
+      "Flat system"
+    ],
+    "answerIndex": 2,
+    "explanation": "Official assessment: fiskus yang menetapkan (mis. dahulu PBB). Withholding: pihak ketiga memotong/memungut (mis. PPh 21 oleh pemberi kerja).",
+    "source": {
+      "title": "Doktrin hukum pajak",
+      "reference": "Doktrin; UU KUP"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-fungsi",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Cukai tinggi pada rokok untuk menekan konsumsi menunjukkan fungsi pajak…",
+    "options": [
+      "Regulerend (mengatur)",
+      "Kontraprestasi",
+      "Budgetair",
+      "Redistribusi semata"
+    ],
+    "answerIndex": 0,
+    "explanation": "Budgetair: mengisi kas negara. Regulerend: alat mengatur kebijakan sosial-ekonomi.",
+    "source": {
+      "title": "Doktrin hukum pajak",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-canon-smith",
+    "type": "fact",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "infographic",
+      "title": "Asas pemungutan (Adam Smith)",
+      "points": [
+        "Equality: sesuai kemampuan",
+        "Certainty: pasti, tidak sewenang-wenang",
+        "Convenience: saat yang tepat bagi wajib pajak",
+        "Economy: biaya pemungutan seminimal mungkin"
+      ]
+    },
+    "caption": "Empat canon of taxation dari The Wealth of Nations.",
+    "source": {
+      "title": "Doktrin hukum pajak",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-pusat-daerah",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Bea Perolehan Hak atas Tanah dan Bangunan (BPHTB) termasuk…",
+    "options": [
+      "Pajak pusat",
+      "Retribusi",
+      "Pajak daerah",
+      "Bea cukai"
+    ],
+    "answerIndex": 2,
+    "explanation": "BPHTB dan PBB perdesaan-perkotaan adalah pajak daerah (kini diatur UU 1/2022 tentang Hubungan Keuangan Pusat dan Daerah). PPh dan PPN adalah pajak pusat.",
+    "source": {
+      "title": "UU No. 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah",
+      "reference": "UU 1/2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-alur-sengketa",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Wajib pajak tidak setuju dengan surat ketetapan pajak. Urutan upaya hukumnya…",
+    "options": [
+      "Keberatan ke DJP, banding ke Pengadilan Pajak, peninjauan kembali ke MA",
+      "Keberatan ke PTUN",
+      "Gugatan ke PN, banding, kasasi",
+      "Langsung kasasi ke MA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tidak ada kasasi dalam sengketa pajak; putusan Pengadilan Pajak bersifat akhir dan hanya dapat diajukan peninjauan kembali ke MA.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 25-27 UU KUP; Pasal 77 UU Pengadilan Pajak"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-pk-pajak",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Upaya hukum atas putusan Pengadilan Pajak adalah…",
+    "options": [
+      "Banding ke PTTUN",
+      "Kasasi",
+      "Peninjauan kembali ke Mahkamah Agung",
+      "Verzet"
+    ],
+    "answerIndex": 2,
+    "explanation": "Putusan Pengadilan Pajak merupakan putusan akhir dan berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 77"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-pembinaan-ma",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Putusan MK 26/PUU-XXI/2023 menentukan bahwa pembinaan organisasi, administrasi, dan finansial Pengadilan Pajak…",
+    "options": [
+      "Dihapus",
+      "Dialihkan ke Komisi Yudisial",
+      "Tetap di Kementerian Keuangan",
+      "Dialihkan ke Mahkamah Agung (paling lambat 31 Desember 2026)"
+    ],
+    "answerIndex": 3,
+    "explanation": "MK memerintahkan pembinaan satu atap di bawah MA. Cek perkembangan pelaksanaannya.",
+    "source": {
+      "title": "Putusan Mahkamah Konstitusi No. 26/PUU-XXI/2023",
+      "reference": "Putusan MK 26/PUU-XXI/2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-banding-gugatan",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Di Pengadilan Pajak, upaya terhadap pelaksanaan penagihan (mis. surat paksa) ditempuh melalui…",
+    "options": [
+      "Kasasi",
+      "Keberatan",
+      "Banding",
+      "Gugatan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Banding untuk keputusan keberatan; gugatan untuk pelaksanaan penagihan dan keputusan tertentu lainnya.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 23 UU KUP; Pasal 31 UU Pengadilan Pajak"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-surat-paksa",
+    "type": "review",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "front": "Apa kekuatan surat paksa dalam penagihan pajak?",
+    "back": "Surat paksa berkepala \"Demi Keadilan Berdasarkan Ketuhanan Yang Maha Esa\" dan berkekuatan eksekutorial sama dengan putusan berkekuatan hukum tetap (UU Penagihan Pajak dengan Surat Paksa).",
+    "source": {
+      "title": "UU No. 19 Tahun 1997 tentang Penagihan Pajak dengan Surat Paksa sebagaimana diubah UU 19/2000",
+      "reference": "UU 19/1997 jo. UU 19/2000"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-retribusi-meme",
+    "type": "humor",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "meme",
+      "top": "\"Saya bayar pajak, jadi jalan depan rumah saya harus mulus duluan!\"",
+      "bottom": "Pajak: tanpa imbalan langsung. Itu ciri retribusi, Bang.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Bedakan pajak dan retribusi.",
+    "teaches": "Pajak tidak memberi kontraprestasi langsung; retribusi dipungut sebagai pembayaran atas jasa/izin tertentu.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (KUP), sebagaimana telah beberapa kali diubah",
+      "reference": "Pasal 1 angka 1 UU KUP"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-story",
+    "type": "story",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "title": "Pajak dalam 4 slide",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Dasar",
+          "title": "Hukum pajak",
+          "character": "kancil",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 23A UUD",
+          "sub": "Pajak diatur dengan undang-undang."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Self assessment",
+          "sub": "Hitung, bayar, lapor sendiri."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Keberatan → Banding → PK",
+          "sub": "Tanpa kasasi."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (KUP), sebagaimana telah beberapa kali diubah",
+      "reference": "Pasal 23A UUD; UU KUP"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

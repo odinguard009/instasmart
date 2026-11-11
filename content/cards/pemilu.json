@@ -1,0 +1,316 @@
+[
+  {
+    "id": "pemilu-luber-jurdil",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Asas pemilu menurut Pasal 22E ayat (1) UUD 1945 adalah…",
+    "options": [
+      "Langsung, umum, bebas, rahasia, jujur, adil",
+      "Bebas, aktif, jujur, adil",
+      "Langsung, terbuka, bebas, rahasia",
+      "Umum, terbuka, jujur, efisien"
+    ],
+    "answerIndex": 0,
+    "explanation": "Disingkat luber jurdil; diselenggarakan setiap lima tahun sekali.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22E ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-penyelenggara",
+    "type": "fact",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "infographic",
+      "title": "Penyelenggara pemilu",
+      "points": [
+        "KPU: menyelenggarakan tahapan",
+        "Bawaslu: mengawasi",
+        "DKPP: memeriksa pelanggaran kode etik penyelenggara"
+      ]
+    },
+    "caption": "Ketiganya disebut satu kesatuan fungsi penyelenggaraan pemilu dalam UU 7/2017.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 1"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-dkpp",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Anggota KPU daerah diduga menerima suap dari peserta. Aspek kode etiknya diperiksa…",
+    "options": [
+      "Ombudsman",
+      "DKPP",
+      "Bawaslu",
+      "MK"
+    ],
+    "answerIndex": 1,
+    "explanation": "DKPP menangani pelanggaran kode etik penyelenggara pemilu; aspek pidananya tetap melalui penegak hukum.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "UU 7/2017"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-syarat-presiden",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Pasangan calon presiden terpilih menurut Pasal 6A ayat (3) UUD harus memperoleh…",
+    "options": [
+      "2/3 suara",
+      "Suara terbanyak saja",
+      "50% suara di semua provinsi",
+      "Lebih dari 50% suara dengan sedikitnya 20% suara di lebih dari separuh jumlah provinsi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bila tidak ada yang memenuhi, dua pasangan peraih suara terbanyak dipilih langsung oleh rakyat (putaran kedua).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 6A ayat (3)-(4)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-sengketa-hasil",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Perselisihan tentang hasil pemilu (pileg/pilpres) diputus oleh…",
+    "options": [
+      "Mahkamah Konstitusi",
+      "PTUN",
+      "Mahkamah Agung",
+      "Bawaslu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 24C ayat (1) UUD 1945.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24C ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-presidential-threshold",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Ambang batas pencalonan presiden (Pasal 222 UU 7/2017) dinyatakan inkonstitusional oleh MK melalui putusan…",
+    "options": [
+      "91/PUU-XVIII/2020",
+      "90/PUU-XXI/2023",
+      "Belum pernah",
+      "62/PUU-XXII/2024"
+    ],
+    "answerIndex": 3,
+    "explanation": "Putusan MK 62/PUU-XXII/2024 (diucapkan Januari 2025). Cek amar dan rekayasa konstitusional yang diminta MK.",
+    "source": {
+      "title": "Putusan Mahkamah Konstitusi No. 62/PUU-XXII/2024",
+      "reference": "Putusan MK 62/PUU-XXII/2024"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-jalur-pelanggaran",
+    "type": "fact",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "infographic",
+      "title": "Jalur penanganan",
+      "points": [
+        "Pelanggaran kode etik: DKPP",
+        "Pelanggaran administratif: Bawaslu",
+        "Sengketa proses: Bawaslu (sebagian dapat ke PTUN)",
+        "Tindak pidana pemilu: Gakkumdu, lalu pengadilan negeri",
+        "Perselisihan hasil: MK"
+      ]
+    },
+    "caption": "Peta umum; cek rincian tiap jalur di UU 7/2017.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "UU 7/2017"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-gakkumdu",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Sentra Gakkumdu terdiri atas unsur…",
+    "options": [
+      "KPK, Polri, TNI",
+      "KPU, Bawaslu, DKPP",
+      "Bawaslu, Kepolisian, Kejaksaan",
+      "MK, MA, KY"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gakkumdu menyatukan pemahaman penanganan tindak pidana pemilu.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "UU 7/2017"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-pilkada-mk",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Perselisihan hasil pemilihan kepala daerah saat ini diadili oleh…",
+    "options": [
+      "Mahkamah Konstitusi",
+      "Badan peradilan khusus yang sudah berdiri",
+      "Mahkamah Agung",
+      "Pengadilan Tinggi"
+    ],
+    "answerIndex": 0,
+    "explanation": "MK semula hanya berwenang sampai badan peradilan khusus terbentuk; Putusan MK 85/PUU-XX/2022 menyatakan kewenangan itu tidak lagi bersifat sementara.",
+    "source": {
+      "title": "UU No. 10 Tahun 2016 tentang Pilkada; Putusan MK 85/PUU-XX/2022",
+      "reference": "Putusan MK 85/PUU-XX/2022"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-usia-pemilih",
+    "type": "poll",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Menurut tebakanmu, siapa yang punya hak memilih?",
+    "options": [
+      "WNI 17 tahun atau sudah/pernah kawin",
+      "Hanya WNI 21 tahun",
+      "Semua penduduk termasuk WNA"
+    ],
+    "answerIndex": 0,
+    "explanation": "UU 7/2017: WNI yang pada hari pemungutan suara sudah berumur 17 tahun atau lebih, sudah kawin, atau sudah pernah kawin. Anggota TNI/Polri aktif tidak menggunakan hak pilih.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 1 angka 34"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-kotak-meme",
+    "type": "humor",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "comic",
+      "title": "Salah alamat",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Caleg: aku kalah, mau gugat hasilnya ke PN!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pak Hoot: hasil pemilu itu ke MK."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Caleg: kalau lawanku bagi-bagi uang?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pak Hoot: itu pidana pemilu, lapor ke Bawaslu."
+        }
+      ]
+    },
+    "caption": "Tiap pelanggaran punya pintu sendiri.",
+    "teaches": "Perselisihan hasil ke MK; dugaan politik uang adalah tindak pidana pemilu yang dilaporkan ke Bawaslu/Gakkumdu.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 24C UUD; UU 7/2017"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-story",
+    "type": "story",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "title": "Pemilu dalam 4 slide",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Dasar",
+          "title": "Hukum pemilu",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Luber jurdil",
+          "sub": "Pasal 22E ayat (1) UUD."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "KPU · Bawaslu · DKPP",
+          "sub": "Tiga penyelenggara."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Hasil → MK",
+          "sub": "Pasal 24C UUD."
+        }
+      }
+    ],
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22E, 24C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

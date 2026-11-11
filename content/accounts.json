@@ -166,5 +166,29 @@
     "displayName": "ASN BerAKHLAK",
     "character": "gecko",
     "bio": "Akun fiktif. Nilai dasar ASN dan seluk-beluk seleksi."
+  },
+  {
+    "username": "hierarki.uu",
+    "displayName": "Hierarki UU",
+    "character": "owl",
+    "bio": "Akun fiktif. Jenis, hierarki, dan cara membentuk peraturan."
+  },
+  {
+    "username": "kotak.suara",
+    "displayName": "Kotak Suara",
+    "character": "cat",
+    "bio": "Akun fiktif. Asas, penyelenggara, dan sengketa pemilu."
+  },
+  {
+    "username": "npwp.santai",
+    "displayName": "NPWP Santai",
+    "character": "kancil",
+    "bio": "Akun fiktif. Dasar hukum pajak dan sengketanya."
+  },
+  {
+    "username": "data.pribadi",
+    "displayName": "Data Pribadi",
+    "character": "gecko",
+    "bio": "Akun fiktif. Hukum siber dan pelindungan data pribadi."
   }
 ]

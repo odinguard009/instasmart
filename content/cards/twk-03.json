@@ -335,5 +335,274 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-sembilan-nilai-antikorupsi",
+    "type": "fact",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "infographic",
+      "title": "9 nilai antikorupsi",
+      "points": [
+        "Inti: jujur, disiplin, tanggung jawab",
+        "Etos: kerja keras, sederhana, mandiri",
+        "Sikap: adil, berani, peduli"
+      ]
+    },
+    "caption": "Sembilan nilai antikorupsi yang dipopulerkan KPK: jujur, peduli, mandiri, disiplin, tanggung jawab, kerja keras, sederhana, berani, adil. Pengelompokan inti/etos/sikap di sini dipakai di banyak modul pendidikan antikorupsi; kalau ragu, hafal sembilan katanya saja.",
+    "source": {
+      "title": "Materi pendidikan antikorupsi KPK",
+      "reference": "Sembilan nilai antikorupsi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-jembatan-nilai-antikorupsi",
+    "type": "mnemonic",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "9 nilai antikorupsi",
+      "text": "JUPE MANDIS TAKER SEBER ADIL",
+      "sub": "Jembatan keledai buatan Instasmart"
+    },
+    "caption": "Ucapkan cepat sembilan suku kata ini; tiap suku kata membuka satu nilai.",
+    "phrase": "JU-PE-MAN-DIS-TA-KER-SE-BER-ADIL",
+    "expansion": [
+      "JU: jujur",
+      "PE: peduli",
+      "MAN: mandiri",
+      "DIS: disiplin",
+      "TA: tanggung jawab",
+      "KER: kerja keras",
+      "SE: sederhana",
+      "BER: berani",
+      "ADIL: adil"
+    ],
+    "source": {
+      "title": "Materi pendidikan antikorupsi KPK",
+      "reference": "Sembilan nilai antikorupsi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-gratifikasi-30-hari",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Pegawai negeri yang menerima gratifikasi tidak dianggap menerima suap bila melaporkannya kepada KPK paling lambat…",
+    "options": [
+      "7 hari kerja sejak gratifikasi diterima",
+      "14 hari kalender sejak acara pemberian",
+      "30 hari kerja sejak gratifikasi diterima",
+      "Sebelum masa jabatan penerimanya berakhir"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 12C UU Tipikor: ketentuan gratifikasi dianggap suap (Pasal 12B) tidak berlaku bila penerima melapor ke KPK paling lambat 30 hari kerja sejak tanggal gratifikasi diterima. Pasal 12B-12C tidak termasuk pasal yang dicabut KUHP Nasional.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "Pasal 12B dan 12C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-gratifikasi-status",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Setelah gratifikasi dilaporkan, siapa yang menetapkan apakah barang itu menjadi milik penerima atau milik negara?",
+    "options": [
+      "Atasan langsung penerima",
+      "Inspektorat instansi",
+      "Pengadilan negeri",
+      "KPK"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 12C ayat (3) UU Tipikor: KPK menetapkan status kepemilikan gratifikasi dalam waktu paling lambat 30 hari kerja sejak laporan diterima.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "Pasal 12C ayat (3)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-konflik-hibah",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Anda diminta menilai proposal hibah, dan salah satu pengusulnya adalah yayasan milik pasangan Anda. Sikap berintegritas…",
+    "options": [
+      "Menilai seobjektif mungkin tanpa memberi tahu siapa pun juga",
+      "Menyatakan konflik kepentingan dan mundur dari penilaian",
+      "Memberi nilai lebih rendah agar tidak dituduh berpihak",
+      "Meminta pasangan menarik proposalnya secara diam-diam"
+    ],
+    "answerIndex": 1,
+    "explanation": "Konflik kepentingan diungkapkan dan dihindari, bukan dikelola diam-diam. Memberi nilai lebih rendah juga tidak objektif.",
+    "source": {
+      "title": "Materi TWK (integritas)",
+      "reference": "Nilai integritas"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-humor-uang-terima-kasih",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "comic",
+      "title": "Ucapan terima kasih",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Pak, ini cuma ucapan terima kasih, bukan suap kok."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Kalau saya bukan pejabat, apa Bapak tetap kasih?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "...Ya nggak juga sih."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Nah. Itu sebabnya wajib lapor."
+        }
+      ]
+    },
+    "caption": "Tes sederhana: apakah pemberian itu datang karena jabatan?",
+    "teaches": "Gratifikasi kepada pegawai negeri yang berhubungan dengan jabatan dan berlawanan dengan kewajibannya dianggap suap (Pasal 12B UU Tipikor), kecuali dilaporkan ke KPK paling lambat 30 hari kerja (Pasal 12C).",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "Pasal 12B dan 12C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-27-vs-30",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "\"Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara\" adalah bunyi…",
+    "options": [
+      "Pasal 27 ayat (3) UUD 1945",
+      "Pasal 31 ayat (1) UUD 1945",
+      "Pasal 30 ayat (1) UUD 1945",
+      "Pasal 28J ayat (1) UUD 1945"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 30 ayat (1) memakai frasa \"usaha pertahanan dan keamanan negara\". Pasal 27 ayat (3) memakai frasa \"upaya pembelaan negara\". Keduanya hak sekaligus kewajiban.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 27 ayat (3) dan Pasal 30 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-hari-bela-negara-asal",
+    "type": "review",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "front": "Peristiwa apa yang melatarbelakangi Hari Bela Negara 19 Desember?",
+    "back": "Pembentukan Pemerintahan Darurat Republik Indonesia (PDRI) di Sumatra Barat, dipimpin Sjafruddin Prawiranegara, pada 19 Desember 1948 setelah Belanda melancarkan Agresi Militer II dan menduduki Yogyakarta. PDRI menjaga keberlangsungan pemerintahan RI.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku teks sejarah)",
+      "reference": "Sejarah PDRI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-tiga-komponen-pertahanan",
+    "type": "fact",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "visual": {
+      "template": "infographic",
+      "title": "Komponen pertahanan negara",
+      "points": [
+        "Utama: TNI",
+        "Cadangan: warga terlatih, sukarela",
+        "Pendukung: SDM, SDA, sarana"
+      ]
+    },
+    "caption": "UU 23/2019 membagi sumber daya pertahanan menjadi komponen utama, komponen cadangan, dan komponen pendukung. Pendaftaran komponen cadangan bersifat sukarela. Rincian syarat dan pasalnya cek di teks UU.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Komponen pertahanan negara"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-bela-negara-asn",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Bagi ASN di masa damai, wujud bela negara yang paling relevan adalah…",
+    "options": [
+      "Mengikuti upacara bendera setiap tanggal 17 tiap bulan",
+      "Bekerja jujur dan profesional melayani publik",
+      "Ikut latihan militer setiap akhir pekan",
+      "Menghafal seluruh lagu perjuangan nasional"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bela negara tidak selalu fisik-militer; pengabdian sesuai profesi termasuk wujudnya. Upacara dan lagu perjuangan boleh, tetapi bukan inti.",
+    "source": {
+      "title": "Materi TWK (bela negara)",
+      "reference": "Wujud bela negara"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-humor-bela-negara-push-up",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "\"Bela negara? Berarti aku harus push-up 100 kali tiap pagi.\"",
+      "bottom": "Bela negara juga: kerja jujur, bayar pajak, tidak sebar hoaks.",
+      "character": "gecko",
+      "expression": "shock"
+    },
+    "caption": "Push-up boleh, tetapi itu bukan satu-satunya bentuk bela negara.",
+    "teaches": "Bela negara mencakup upaya nonfisik: pengabdian sesuai profesi, sikap cinta tanah air, dan menjaga persatuan, tidak hanya kegiatan militer.",
+    "source": {
+      "title": "Materi TWK (bela negara)",
+      "reference": "Wujud bela negara"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

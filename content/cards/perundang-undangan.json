@@ -499,5 +499,529 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-tindak-lanjut-mk",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Tindak lanjut atas putusan Mahkamah Konstitusi sebagai materi muatan undang-undang dilakukan oleh…",
+    "options": [
+      "Mahkamah Agung",
+      "MPR",
+      "Mahkamah Konstitusi sendiri",
+      "DPR atau Presiden"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 10 ayat (2). Materi muatan UU (ayat (1)): pengaturan lebih lanjut UUD 1945, perintah UU, pengesahan perjanjian internasional tertentu, tindak lanjut putusan MK, dan pemenuhan kebutuhan hukum masyarakat.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-materi-perppu",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Materi muatan Perppu menurut Pasal 11 UU 12/2011 adalah…",
+    "options": [
+      "Hanya soal anggaran negara",
+      "Sama dengan materi muatan UU",
+      "Hanya keadaan darurat militer",
+      "Sama dengan materi muatan PP"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11: sama dengan materi muatan undang-undang. Bedanya pada syarat pembentukan (hal ihwal kegentingan yang memaksa, Pasal 22 UUD 1945) dan keharusan diajukan ke DPR.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 11",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-materi-pp",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Materi muatan Peraturan Pemerintah berisi…",
+    "options": [
+      "Materi untuk menjalankan UU sebagaimana mestinya",
+      "Materi baru yang tidak diperintahkan dan tidak terkait UU",
+      "Ketentuan pidana penjara",
+      "Penafsiran resmi UUD 1945"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 12. PP tidak dibentuk tanpa UU yang dijalankannya. Ketentuan pidana hanya boleh dimuat dalam UU dan Perda (Pasal 15).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 12, Pasal 15",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-bukan-materi-perpres",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Manakah yang BUKAN materi muatan Peraturan Presiden menurut Pasal 13?",
+    "options": [
+      "Materi yang diperintahkan UU",
+      "Penyelenggaraan kekuasaan pemerintahan",
+      "Materi untuk melaksanakan PP",
+      "Tindak lanjut putusan MK"
+    ],
+    "answerIndex": 3,
+    "explanation": "Perpres: materi yang diperintahkan UU, untuk melaksanakan PP, atau untuk melaksanakan penyelenggaraan kekuasaan pemerintahan. Tindak lanjut putusan MK adalah materi muatan UU (Pasal 10).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 10, Pasal 13",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-tanpa-naskah-akademik",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "RUU mana yang TIDAK wajib disertai Naskah Akademik?",
+    "options": [
+      "RUU tentang perlindungan data",
+      "RUU tentang APBN",
+      "RUU tentang pemilihan umum",
+      "RUU tentang hukum acara pidana"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 43 ayat (4): RUU APBN, penetapan Perppu menjadi UU, dan pencabutan UU atau Perppu. RUU itu cukup disertai keterangan yang memuat pokok pikiran dan materi muatan (ayat (5)).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 43 ayat (3)-(5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-dpr-60-hari",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "DPR mulai membahas RUU dari Presiden paling lama … sejak surat Presiden diterima.",
+    "options": [
+      "60 hari",
+      "1 masa sidang",
+      "30 hari",
+      "90 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 50 ayat (3). Surat Presiden memuat penunjukan menteri yang mewakili Presiden dalam pembahasan (ayat (2)).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 50",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-dpr-perppu-hanya",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Terhadap Perppu yang diajukan Presiden, DPR…",
+    "options": [
+      "Hanya menyetujui atau tidak menyetujui",
+      "Wajib menyetujui",
+      "Boleh mengubah isinya pasal demi pasal",
+      "Meminta MK menguji lebih dulu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 52 ayat (3). Perppu diajukan dalam bentuk RUU penetapan Perppu menjadi UU pada persidangan berikutnya (ayat (1)-(2)).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 52",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-cabut-perppu-paripurna-sama",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Jika Perppu ditolak DPR, RUU Pencabutan Perppu ditetapkan menjadi UU…",
+    "options": [
+      "Dalam rapat paripurna yang sama",
+      "Paling lambat 30 hari setelah paripurna yang menolak",
+      "Setelah ada putusan MK",
+      "Pada masa sidang berikutnya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 52 ayat (6)-(8) dan Pasal 71 ayat (3): RUU pencabutan diajukan DPR atau Presiden dan diputus dalam rapat paripurna yang sama dengan penolakan Perppu. RUU itu mengatur segala akibat hukum pencabutan.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 52, Pasal 71",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-ruu-ditolak",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "RUU yang tidak mendapat persetujuan bersama DPR dan Presiden…",
+    "options": [
+      "Tak boleh diajukan lagi di masa sidang itu",
+      "Diserahkan ke MPR untuk diputus dalam sidang tahunan",
+      "Otomatis sah setelah 30 hari",
+      "Diuji ke MK"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 69 ayat (3). Jangan tertukar dengan RUU yang SUDAH disetujui bersama tetapi tidak ditandatangani Presiden dalam 30 hari: itu sah menjadi UU (Pasal 20 ayat (5) UUD 1945).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 69 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-suara-terbanyak",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Pada pembicaraan tingkat II, bila persetujuan tidak dapat dicapai secara musyawarah untuk mufakat…",
+    "options": [
+      "Diserahkan ke DPD",
+      "Diputus dengan suara terbanyak",
+      "Presiden memutus sendiri lewat Perppu",
+      "RUU otomatis ditolak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 69 ayat (2). Pembicaraan tingkat II adalah pengambilan keputusan dalam rapat paripurna (ayat (1)).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 69",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-tarik-ruu",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "RUU yang SEDANG dibahas dapat ditarik kembali…",
+    "options": [
+      "Tidak dapat ditarik sama sekali dalam keadaan apa pun",
+      "Oleh pimpinan DPR sendiri",
+      "Dengan persetujuan bersama DPR dan Presiden",
+      "Kapan saja oleh pengusul"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 70 ayat (2). Sebelum dibahas bersama, RUU dapat ditarik kembali (ayat (1)). Aturan serupa untuk Raperda (Pasal 76).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 70, Pasal 76",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-raperda-30-hari",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Raperda Provinsi yang sudah disetujui bersama tidak ditandatangani gubernur dalam 30 hari. Akibatnya…",
+    "options": [
+      "Batal demi hukum",
+      "Sah menjadi Perda",
+      "Dikembalikan ke DPRD",
+      "Menunggu persetujuan Mendagri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 79 ayat (2). Kalimat pengesahannya: \"Peraturan Daerah ini dinyatakan sah.\" (ayat (3)), dibubuhkan pada halaman terakhir sebelum pengundangan (ayat (4)).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 79",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-bukan-lembaran-negara",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Manakah yang TIDAK diundangkan dalam Lembaran Negara RI menurut Pasal 82?",
+    "options": [
+      "Peraturan Pemerintah",
+      "Perda Provinsi",
+      "Undang-Undang",
+      "Peraturan Presiden (Perpres)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Lembaran Negara: UU/Perppu, PP, Perpres, dan peraturan lain yang menurut peraturan harus diundangkan di sana. Perda diundangkan dalam Lembaran Daerah (Pasal 81 huruf e).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 81, Pasal 82",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-mulai-berlaku",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Peraturan perundang-undangan mulai berlaku dan mengikat pada…",
+    "options": [
+      "Tanggal disahkan",
+      "Tanggal disetujui DPR",
+      "Tanggal diundangkan, kecuali diatur lain",
+      "30 hari setelah diundangkan dalam Lembaran Negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 87. Contoh 'ditentukan lain': KUHP Nasional (UU 1/2023) diundangkan 2023 tetapi berlaku 2 Januari 2026.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 87",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-prolegnas-keputusan-dpr",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Prolegnas hasil penyusunan DPR dan Pemerintah ditetapkan dalam rapat paripurna DPR dengan…",
+    "options": [
+      "Peraturan Presiden",
+      "Keputusan bersama menteri",
+      "Keputusan DPR",
+      "Undang-undang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 22 ayat (1)-(2) UU 12/2011.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 22",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-materi-perda",
+    "type": "review",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "front": "Materi muatan Perda Provinsi dan Perda Kabupaten/Kota (Pasal 14 UU 12/2011)?",
+    "back": "Materi dalam rangka penyelenggaraan otonomi daerah dan tugas pembantuan, serta menampung kondisi khusus daerah dan/atau penjabaran lebih lanjut peraturan perundang-undangan yang lebih tinggi.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 14",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-raperda-keterangan",
+    "type": "review",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "front": "Raperda Provinsi apa saja yang cukup disertai keterangan pokok pikiran, tanpa Naskah Akademik (Pasal 56 ayat (3))?",
+    "back": "Raperda tentang APBD Provinsi; pencabutan Perda Provinsi; dan perubahan Perda Provinsi yang hanya terbatas mengubah beberapa materi. Raperda Provinsi dapat berasal dari DPRD Provinsi atau Gubernur (ayat (1)).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 56",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-materi-muatan",
+    "type": "fact",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "visual": {
+      "template": "infographic",
+      "title": "Materi muatan, ringkas",
+      "points": [
+        "UU: 5 sumber (Pasal 10)",
+        "Perppu = materi UU",
+        "PP: menjalankan UU",
+        "Perpres: 3 sumber",
+        "Perda: otonomi daerah"
+      ]
+    },
+    "caption": "Pasal 10-14 UU 12/2011. Lima sumber materi UU: pengaturan lebih lanjut UUD 1945, perintah UU, pengesahan perjanjian internasional tertentu, tindak lanjut putusan MK, kebutuhan hukum masyarakat.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 10-14",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-nasib-perppu",
+    "type": "carousel",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Pasal 52 UU 12/2011",
+          "title": "Perppu masuk DPR",
+          "subtitle": "lalu bagaimana?",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Alurnya",
+          "points": [
+            "Diajukan persidangan berikut",
+            "Bentuk: RUU penetapan",
+            "DPR: setuju atau tidak saja"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Dua kemungkinan",
+          "points": [
+            "Disetujui: ditetapkan jadi UU",
+            "Ditolak: wajib dicabut",
+            "RUU pencabutan: paripurna sama"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "DPR setuju Perppu tetapi ingin mengubah dua pasalnya. Menurut Pasal 52 ayat (3)…",
+        "options": [
+          "Boleh dengan izin Presiden",
+          "Boleh, lewat rapat paripurna",
+          "Tidak bisa; hanya setuju atau tidak",
+          "Harus lewat MK"
+        ],
+        "answerIndex": 2,
+        "explanation": "DPR hanya memberikan atau tidak memberikan persetujuan. Perubahan dilakukan lewat UU lain sesudahnya."
+      }
+    ],
+    "caption": "Perppu wajib diuji secara politik di DPR pada persidangan berikutnya. Jawabannya hanya ya atau tidak.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 52, Pasal 71",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-humor-perda-sah-sendiri",
+    "type": "humor",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "visual": {
+      "template": "comic",
+      "title": "Lupa tanda tangan",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Belum diteken sebulan. Batal?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Lewat 30 hari, sah sendiri."
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Tulisannya: Perda ini dinyatakan sah."
+        }
+      ]
+    },
+    "caption": "Tanda tangan yang tak kunjung datang tidak membatalkan Raperda yang sudah disetujui bersama. Lewat 30 hari, Raperda sah menjadi Perda dan wajib diundangkan.",
+    "teaches": "Raperda Provinsi yang disetujui bersama tetapi tidak ditandatangani gubernur dalam 30 hari sah menjadi Perda dan wajib diundangkan, dengan kalimat pengesahan \"Peraturan Daerah ini dinyatakan sah.\" (Pasal 79 UU 12/2011).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 79",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-12-tahun-2011"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "agraria-publikasi-negatif",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Sistem publikasi pendaftaran tanah di Indonesia lazim disebut…",
+    "options": [
+      "Tanpa publikasi",
+      "Positif murni",
+      "Negatif bertendensi positif",
+      "Negatif murni"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sertifikat alat bukti yang kuat (bukan mutlak), tetapi ada perlindungan setelah jangka waktu tertentu (Pasal 32 ayat 2 PP 24/1997).",
+    "source": {
+      "title": "PP No. 24 Tahun 1997 tentang Pendaftaran Tanah",
+      "reference": "Pasal 19 UUPA; Pasal 32 PP 24/1997"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-lima-tahun",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 32 ayat (2) PP 24/1997, pihak lain tidak dapat lagi menuntut hak atas tanah bersertifikat yang diperoleh dengan itikad baik dan dikuasai nyata bila tidak mengajukan keberatan dalam waktu…",
+    "options": [
+      "10 tahun",
+      "1 tahun",
+      "30 tahun",
+      "5 tahun"
+    ],
+    "answerIndex": 3,
+    "explanation": "5 tahun sejak sertifikat diterbitkan.",
+    "source": {
+      "title": "PP No. 24 Tahun 1997 tentang Pendaftaran Tanah",
+      "reference": "Pasal 32 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-pemisahan-horizontal",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Asas bahwa pemilikan tanah terpisah dari bangunan/tanaman di atasnya, yang diambil dari hukum adat, disebut…",
+    "options": [
+      "Asas perlekatan (accessie)",
+      "Asas fungsi sosial",
+      "Asas pemisahan horizontal",
+      "Asas nasionalitas"
+    ],
+    "answerIndex": 2,
+    "explanation": "KUHPerdata menganut asas perlekatan; UUPA berdasar hukum adat menganut pemisahan horizontal.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Doktrin; Pasal 5 UUPA"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-konsinyasi",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Dalam pengadaan tanah untuk kepentingan umum, bila pihak yang berhak menolak bentuk/besaran ganti kerugian setelah putusan, ganti kerugian…",
+    "options": [
+      "Dititipkan di pengadilan negeri (konsinyasi)",
+      "Ditunda tanpa batas",
+      "Dibatalkan",
+      "Diserahkan ke kepala desa"
+    ],
+    "answerIndex": 0,
+    "explanation": "UU 2/2012 mengenal penitipan ganti kerugian di pengadilan negeri.",
+    "source": {
+      "title": "UU No. 2 Tahun 2012 tentang Pengadaan Tanah bagi Pembangunan untuk Kepentingan Umum",
+      "reference": "UU 2/2012"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-wna-tanah",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Orang asing yang berkedudukan di Indonesia dapat mempunyai…",
+    "options": [
+      "Semua hak atas tanah",
+      "HGU",
+      "Hak pakai",
+      "Hak milik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 42 UUPA: orang asing yang berkedudukan di Indonesia dapat mempunyai hak pakai. Hak milik hanya untuk WNI (Pasal 21).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 21, 42"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "asn-merit",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Kebijakan dan manajemen ASN berdasarkan kualifikasi, kompetensi, dan kinerja tanpa membedakan latar belakang disebut…",
+    "options": [
+      "Sistem patronase",
+      "Sistem merit",
+      "Sistem senioritas",
+      "Sistem karier tertutup"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sistem merit adalah dasar manajemen ASN.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "UU 20/2023"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-netralitas",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "ASN diundang menjadi pembicara kampanye salah satu calon kepala daerah. Menurut prinsip netralitas, ia…",
+    "options": [
+      "Boleh bila calon itu atasannya",
+      "Boleh asal di luar jam kerja",
+      "Boleh asal tanpa seragam",
+      "Tidak boleh terlibat; ASN wajib netral dari pengaruh semua golongan dan partai politik"
+    ],
+    "answerIndex": 3,
+    "explanation": "ASN dilarang menjadi anggota/pengurus partai politik dan wajib netral.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "UU 20/2023; UU 7/2017"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-pppk",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Pegawai ASN yang diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu disebut…",
+    "options": [
+      "PNS",
+      "Honorer",
+      "PPPK",
+      "Tenaga outsourcing"
+    ],
+    "answerIndex": 2,
+    "explanation": "UU 20/2023: pegawai ASN terdiri atas PNS dan PPPK.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "UU 20/2023"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-cat-skd",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "question": "SKD CPNS dilaksanakan dengan sistem…",
+    "options": [
+      "Wawancara saja",
+      "Ujian tertulis kertas",
+      "Ujian lisan",
+      "Computer Assisted Test (CAT)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Nilai dapat dilihat langsung setelah ujian selesai.",
+    "source": {
+      "title": "Pedoman seleksi CASN (BKN/KemenPAN-RB)",
+      "reference": "Pengumuman seleksi CASN"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "lingkungan-pencemar-membayar",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Asas yang mewajibkan penanggung jawab usaha yang mencemari menanggung biaya pemulihan disebut…",
+    "options": [
+      "Asas pencemar membayar",
+      "Asas kearifan lokal",
+      "Asas kehati-hatian",
+      "Asas partisipatif"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 2 UU 32/2009 memuat asas pencemar membayar.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 2"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-amdal-ukl",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Usaha yang tidak berdampak penting tetapi wajib dokumen lingkungan menyusun…",
+    "options": [
+      "KLHS",
+      "AMDAL",
+      "Tidak ada kewajiban",
+      "UKL-UPL"
+    ],
+    "answerIndex": 3,
+    "explanation": "Berdampak penting: AMDAL. Tidak berdampak penting: UKL-UPL. Usaha mikro/kecil yang tidak wajib keduanya: SPPL.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 22, 34-35"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-klhs",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Kajian yang wajib dibuat pemerintah untuk kebijakan, rencana, dan/atau program (mis. RTRW) disebut…",
+    "options": [
+      "KLHS",
+      "UKL-UPL",
+      "Audit lingkungan",
+      "AMDAL"
+    ],
+    "answerIndex": 0,
+    "explanation": "KLHS memastikan pembangunan berkelanjutan menjadi dasar kebijakan, rencana, dan program.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 15"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-persetujuan-lingkungan",
+    "type": "fact",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "visual": {
+      "template": "bigtype",
+      "text": "Izin lingkungan → persetujuan lingkungan",
+      "sub": "Perubahan oleh UU Cipta Kerja (kini UU 6/2023)."
+    },
+    "caption": "Persetujuan lingkungan menjadi prasyarat perizinan berusaha. Cek rumusan dan peraturan pelaksananya (PP 22/2021).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (sebagaimana diubah UU 6/2023)",
+      "reference": "UU 6/2023; PP 22/2021"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-in-dubio",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Prinsip bahwa bila hakim ragu dalam perkara lingkungan, ia memihak pada perlindungan lingkungan disebut…",
+    "options": [
+      "Ultimum remedium",
+      "In dubio pro natura",
+      "Res judicata",
+      "In dubio pro reo"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dikenal dalam pedoman mengadili perkara lingkungan hidup (kini PERMA 1/2023).",
+    "source": {
+      "title": "PERMA No. 1 Tahun 2023 tentang Pedoman Mengadili Perkara Lingkungan Hidup",
+      "reference": "PERMA 1/2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-ultimum-remedium-lh",
+    "type": "review",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "front": "Kapan pidana lingkungan diposisikan sebagai ultimum remedium?",
+    "back": "Untuk pelanggaran baku mutu air limbah, emisi, dan gangguan tertentu, pidana dikenakan bila sanksi administratif tidak dipatuhi atau pelanggaran berulang (Pasal 100 dan Penjelasan Umum UU 32/2009). Tindak pidana lain tidak menunggu sanksi administratif.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 100; Penjelasan Umum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

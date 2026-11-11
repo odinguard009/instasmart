@@ -1,0 +1,140 @@
+[
+  {
+    "id": "konsumen-persaingan-hak-konsumen",
+    "type": "fact",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "infographic",
+      "title": "Beberapa hak konsumen (Pasal 4)",
+      "points": [
+        "Kenyamanan, keamanan, keselamatan",
+        "Memilih barang/jasa",
+        "Informasi yang benar, jelas, jujur",
+        "Didengar pendapat dan keluhannya",
+        "Kompensasi atau ganti rugi"
+      ]
+    },
+    "caption": "Imbangannya: kewajiban pelaku usaha di Pasal 7.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 4, 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-bpsk-keberatan",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Pihak yang tidak menerima putusan BPSK dapat mengajukan…",
+    "options": [
+      "Keberatan ke Pengadilan Negeri",
+      "Kasasi langsung",
+      "Gugatan ke PTUN",
+      "Banding ke Pengadilan Tinggi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 56 UU 8/1999; tata caranya diatur PERMA. Cek tenggatnya.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 56"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-keberatan-kppu",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Setelah UU Cipta Kerja, keberatan atas putusan KPPU diajukan ke…",
+    "options": [
+      "Pengadilan Negeri",
+      "PTUN",
+      "Mahkamah Konstitusi",
+      "Pengadilan Niaga"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sebelumnya ke Pengadilan Negeri.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 44"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-kartel",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Perjanjian antarpesaing untuk mengatur produksi atau pemasaran agar memengaruhi harga disebut…",
+    "options": [
+      "Waralaba",
+      "Integrasi vertikal",
+      "Kartel",
+      "Merger"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kartel dilarang UU 5/1999 bila dapat mengakibatkan monopoli/persaingan tidak sehat.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat (sebagaimana diubah UU 6/2023)",
+      "reference": "UU 5/1999"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-predatory",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Menjual rugi atau dengan harga sangat rendah untuk menyingkirkan pesaing disebut…",
+    "options": [
+      "Tying",
+      "Diskriminasi harga yang sah",
+      "Predatory pricing (jual rugi)",
+      "Price fixing"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dilarang bila bertujuan menyingkirkan atau mematikan usaha pesaing.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat (sebagaimana diubah UU 6/2023)",
+      "reference": "UU 5/1999"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-notifikasi-merger",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Penggabungan/pengambilalihan yang memenuhi ambang nilai aset/penjualan tertentu wajib…",
+    "options": [
+      "Diberitahukan kepada KPPU (notifikasi)",
+      "Diumumkan di Berita Negara saja",
+      "Tidak ada kewajiban",
+      "Mendapat izin DPR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Indonesia memakai rezim notifikasi pasca-merger dengan batas waktu tertentu; cek ambang dan tenggatnya di PP 57/2010 dan Peraturan KPPU.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 29"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

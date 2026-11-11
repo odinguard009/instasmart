@@ -44,3 +44,5 @@ Format: keputusan, lalu alasannya dalam satu baris. Tambahkan baris baru di bawa
 
 30. **Tidak ada subagent yang dipakai.** Instruksi pemilik repo; dicatat juga di `CLAUDE.md`.
 31. **Generator kartu dan skrip foto Pexels tidak dijalankan dengan kunci sungguhan.** Tidak ada kunci di lingkungan pembuat dan instruksinya melarang memanggil API saat membangun; yang diuji hanya jalur "tanpa kunci" dan pemeriksaan tipe.
+32. **Commit dikirim ke `main` (sesuai permintaan pemilik) dan juga ke branch kerja sesi `claude/dreamy-clarke-jqsuk3`.** Lingkungan sesi menetapkan branch kerja sendiri; keduanya menunjuk commit yang sama, dan branch kerja boleh dihapus.
+33. **Langkah deploy di CI bergantung pada pengaturan Pages di repo.** Workflow sudah benar secara sintaks, tetapi job `deploy` baru bisa berhasil setelah Settings > Pages > Source diset ke "GitHub Actions"; itu langkah manual pemilik repo (lihat README).

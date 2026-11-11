@@ -1,0 +1,243 @@
+[
+  {
+    "id": "peradilan-militer-empat-pengadilan",
+    "type": "fact",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "visual": {
+      "template": "infographic",
+      "title": "Pengadilan di lingkungan peradilan militer",
+      "points": [
+        "Pengadilan Militer (Dilmil)",
+        "Pengadilan Militer Tinggi (Dilmilti)",
+        "Pengadilan Militer Utama (Dilmiltama)",
+        "Pengadilan Militer Pertempuran"
+      ]
+    },
+    "caption": "Pengadilan Militer Pertempuran dibentuk dalam keadaan perang dan bersidang di daerah pertempuran. Puncaknya tetap Mahkamah Agung.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 12"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-empat-oditurat",
+    "type": "fact",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "visual": {
+      "template": "infographic",
+      "title": "Oditurat (penuntut) militer",
+      "points": [
+        "Oditurat Militer",
+        "Oditurat Militer Tinggi",
+        "Oditurat Jenderal",
+        "Oditurat Militer Pertempuran"
+      ]
+    },
+    "caption": "Oditurat berpasangan dengan pengadilannya. Oditur menjalankan fungsi penuntutan dan juga dapat menjadi penyidik.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Ketentuan tentang oditurat"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-penyidik-militer",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut UU Peradilan Militer, yang termasuk penyidik adalah…",
+    "options": [
+      "Hanya Polisi Militer setempat",
+      "Polri bersama Polisi Militer dan Ankum",
+      "Panglima TNI dan Papera",
+      "Ankum, Polisi Militer, dan Oditur"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penyidik dalam peradilan militer: Atasan yang Berhak Menghukum (Ankum), Polisi Militer, dan Oditur. Papera berwenang menyerahkan perkara ke pengadilan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 69 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-papera",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Pejabat yang berwenang menentukan suatu perkara pidana prajurit diserahkan ke pengadilan militer atau diselesaikan di luar pengadilan adalah…",
+    "options": [
+      "Oditur Jenderal TNI di Jakarta",
+      "Perwira Penyerah Perkara (Papera)",
+      "Komandan Polisi Militer Kodam setempat",
+      "Ketua Pengadilan Militer Utama"
+    ],
+    "answerIndex": 1,
+    "explanation": "Papera menerbitkan keputusan penyerahan perkara (Skeppera). Tanpa itu, oditur tidak melimpahkan perkara ke pengadilan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Ketentuan tentang Papera"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-kapten-ke-bawah",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Prajurit berpangkat Kapten didakwa melakukan tindak pidana. Pada tingkat pertama, ia diadili oleh…",
+    "options": [
+      "Pengadilan negeri setempat",
+      "Pengadilan Militer Utama",
+      "Pengadilan Militer Tinggi",
+      "Pengadilan Militer"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pengadilan Militer mengadili prajurit berpangkat Kapten ke bawah. Mayor ke atas: Pengadilan Militer Tinggi pada tingkat pertama.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 40"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-tun-militer",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Sengketa tata usaha angkatan bersenjata pada tingkat pertama diperiksa oleh…",
+    "options": [
+      "PTUN di tempat kedudukan tergugat",
+      "Pengadilan Militer Tinggi",
+      "Mahkamah Agung langsung",
+      "Pengadilan Militer"
+    ],
+    "answerIndex": 1,
+    "explanation": "UU Peradilan Militer memberi kewenangan memeriksa sengketa tata usaha angkatan bersenjata kepada Pengadilan Militer Tinggi pada tingkat pertama, lalu banding ke Pengadilan Militer Utama.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 9 angka 2 dan Pasal 41"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-uu-tni-peradilan-umum",
+    "type": "fact",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "UU TNI",
+      "text": "Pidana umum oleh prajurit: ke peradilan umum?",
+      "sub": "Arah UU 34/2004, tetapi berlaku setelah UU peradilan militer yang baru terbentuk."
+    },
+    "caption": "UU TNI menyatakan prajurit tunduk pada peradilan umum untuk pelanggaran hukum pidana umum, namun ketentuan peralihannya menunda pelaksanaan sampai ada UU peradilan militer yang baru. UU TNI telah diubah pada 2025; cek apakah ketentuan ini ikut berubah.",
+    "source": {
+      "title": "UU No. 34 Tahun 2004 tentang Tentara Nasional Indonesia",
+      "reference": "Pasal 65 ayat (2) dan Pasal 74"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-pangkat-pintu",
+    "type": "humor",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "visual": {
+      "template": "meme",
+      "top": "Mayor masuk ke Dilmil",
+      "bottom": "Panitera: \"Maaf Pak, pintu Dilmilti sebelah.\"",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Pangkat menentukan pengadilan tingkat pertama dalam lingkungan peradilan militer.",
+    "teaches": "Kapten ke bawah diadili Pengadilan Militer; Mayor ke atas diadili Pengadilan Militer Tinggi pada tingkat pertama.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 40 dan 41"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-reel-alur-perkara-militer",
+    "type": "reel",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Prajurit diduga melanggar pidana",
+        "caption": "Bagaimana alurnya di peradilan militer?",
+        "kicker": "Alur",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Penyidikan",
+        "caption": "Oleh Ankum, Polisi Militer, atau Oditur.",
+        "character": "gecko",
+        "expression": "happy"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Penyerahan perkara",
+        "caption": "Papera memutuskan: ke pengadilan atau tidak.",
+        "character": "kancil",
+        "expression": "smug",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Penuntutan",
+        "caption": "Oditur militer mendakwa di Pengadilan Militer sesuai pangkat.",
+        "character": "cat",
+        "expression": "happy"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Puncaknya MA",
+        "caption": "Kasasi tetap ke Mahkamah Agung.",
+        "character": "owl",
+        "expression": "happy",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 25 detik: alur perkara pidana prajurit menurut UU Peradilan Militer.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Ketentuan penyidikan, penyerahan perkara, dan penuntutan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

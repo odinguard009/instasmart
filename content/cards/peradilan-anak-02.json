@@ -1,0 +1,271 @@
+[
+  {
+    "id": "peradilan-anak-pidana-pokok-anak",
+    "type": "fact",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "infographic",
+      "title": "Pidana pokok bagi anak",
+      "points": [
+        "Pidana peringatan",
+        "Pidana dengan syarat (pembinaan di luar lembaga, pelayanan masyarakat, pengawasan)",
+        "Pelatihan kerja",
+        "Pembinaan dalam lembaga",
+        "Penjara"
+      ]
+    },
+    "caption": "Urutannya dari yang paling ringan. Penjara bagi anak adalah upaya terakhir (ultimum remedium). Pidana tambahan: perampasan keuntungan dari tindak pidana atau pemenuhan kewajiban adat.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 71"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-hanya-tindakan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Anak yang belum berumur 14 tahun dan terbukti melakukan tindak pidana hanya dapat dikenai…",
+    "options": [
+      "Pidana penjara yang dikurangi",
+      "Pidana pelatihan kerja",
+      "Tindakan",
+      "Pidana denda"
+    ],
+    "answerIndex": 2,
+    "explanation": "Anak di bawah 14 tahun hanya dapat dikenai tindakan, bukan pidana. Contoh tindakan: pengembalian kepada orang tua/wali, perawatan di LPKS, kewajiban mengikuti pendidikan atau pelatihan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 69 ayat (2)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-ancaman-mati",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Anak melakukan tindak pidana yang diancam pidana mati atau penjara seumur hidup. Pidana yang dijatuhkan kepadanya paling lama…",
+    "options": [
+      "Dua puluh tahun penjara",
+      "Setengah dari seumur hidup",
+      "Sepuluh tahun penjara",
+      "Lima tahun penjara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pidana mati dan seumur hidup tidak dapat dijatuhkan kepada anak; penggantinya pidana penjara paling lama 10 tahun.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 81 ayat (6)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-waktu-diversi",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Proses diversi di setiap tingkat pemeriksaan dilaksanakan paling lama…",
+    "options": [
+      "7 hari",
+      "60 hari",
+      "14 hari",
+      "30 hari"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diversi wajib dimulai paling lama 7 hari setelah tahap pemeriksaan dimulai, dan prosesnya berlangsung paling lama 30 hari.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 29, 42, dan 52"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-tanpa-persetujuan-korban",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Kesepakatan diversi pada asasnya butuh persetujuan korban. Pengecualiannya antara lain bila perbuatan anak berupa…",
+    "options": [
+      "Tindak pidana dengan ancaman 6 tahun",
+      "Pengulangan tindak pidana",
+      "Tindak pidana terhadap nyawa",
+      "Tindak pidana tanpa korban"
+    ],
+    "answerIndex": 3,
+    "explanation": "Persetujuan korban tidak diperlukan untuk pelanggaran, tindak pidana ringan, tindak pidana tanpa korban, atau nilai kerugian tidak lebih dari upah minimum provinsi setempat.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 9 ayat (2)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-lembaga-anak",
+    "type": "fact",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "infographic",
+      "title": "Singkatan yang wajib hafal",
+      "points": [
+        "LPKA: Lembaga Pembinaan Khusus Anak (menjalani pidana)",
+        "LPAS: Lembaga Penempatan Anak Sementara (selama proses)",
+        "LPKS: Lembaga Penyelenggaraan Kesejahteraan Sosial",
+        "Bapas: Balai Pemasyarakatan (pembimbing kemasyarakatan)"
+      ]
+    },
+    "caption": "Anak tidak ditempatkan di lapas dewasa. Penahanan anak di LPAS; pidana penjara dijalani di LPKA.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 1 dan ketentuan tentang penempatan anak"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-identitas-rahasia",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Media online menulis berita perkara anak lengkap dengan nama sekolah dan foto wajahnya. Menurut UU SPPA, hal ini…",
+    "options": [
+      "Boleh bila anak sudah berumur 17 tahun",
+      "Dilarang: identitas anak wajib dirahasiakan",
+      "Boleh setelah putusan berkekuatan hukum tetap",
+      "Boleh asal wajah anak diburamkan sebagian"
+    ],
+    "answerIndex": 1,
+    "explanation": "Identitas anak, anak korban, dan anak saksi wajib dirahasiakan dalam pemberitaan, termasuk nama, alamat, wajah, dan hal lain yang dapat mengungkap jati dirinya.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 19"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-pidana-anak-urut",
+    "type": "mnemonic",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jembatan keledai",
+      "text": "PeSyaLaBiPen",
+      "sub": "Peringatan · Syarat · Latihan kerja · Bina dalam lembaga · Penjara"
+    },
+    "caption": "Lima pidana pokok bagi anak, dari yang paling ringan ke paling berat.",
+    "phrase": "PeSyaLaBiPen",
+    "expansion": [
+      "Pe: pidana peringatan",
+      "Sya: pidana dengan syarat",
+      "La: pelatihan kerja",
+      "Bi: pembinaan dalam lembaga",
+      "Pen: penjara"
+    ],
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 71"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-carousel-anak-umur",
+    "type": "carousel",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Umur menentukan segalanya",
+          "subtitle": "Peta umur dalam UU SPPA",
+          "character": "cat",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Di bawah 12 tahun",
+          "points": [
+            "Tidak diproses pidana",
+            "Dikembalikan ke orang tua/wali atau ikut program pembinaan"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "12 sampai belum 14 tahun",
+          "points": [
+            "Bisa diproses",
+            "Hanya dapat dikenai tindakan",
+            "Tidak boleh ditahan"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "14 sampai belum 18 tahun",
+          "points": [
+            "Dapat dijatuhi pidana",
+            "Penahanan bila diancam 7 tahun atau lebih",
+            "Penjara maks. 1/2 ancaman orang dewasa"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Anak berumur 13 tahun diduga mencuri dengan ancaman 7 tahun penjara. Bolehkah ia ditahan?",
+        "options": [
+          "Boleh, ancamannya 7 tahun",
+          "Tidak boleh, belum 14 tahun",
+          "Boleh, paling lama 3 hari",
+          "Boleh, atas izin hakim anak"
+        ],
+        "answerIndex": 1,
+        "explanation": "Penahanan anak mensyaratkan umur 14 tahun atau lebih DAN ancaman 7 tahun atau lebih. Syarat umurnya tidak terpenuhi."
+      }
+    ],
+    "caption": "Batas umur 12, 14, dan 18 tahun dalam UU SPPA.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 1 angka 3, Pasal 21, 32, 69, 81"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

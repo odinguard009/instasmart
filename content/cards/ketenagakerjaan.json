@@ -286,5 +286,469 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-pilihan-7-hari",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Bipartit gagal dan sudah dicatatkan. Para pihak tidak memilih konsiliasi atau arbitrase dalam 7 hari kerja. Akibatnya…",
+    "options": [
+      "Dianggap selesai dengan damai",
+      "Dilimpahkan ke mediator",
+      "Perkara langsung masuk PHI",
+      "Pencatatan dinyatakan gugur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 4 ayat (4): instansi ketenagakerjaan melimpahkan penyelesaian kepada mediator. Mediasi adalah jalur bawaan bila tidak ada pilihan.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 4 ayat (3)-(4)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-perselisihan-hak-jalur",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Perselisihan HAK yang gagal di bipartit, sebelum ke PHI, diselesaikan melalui…",
+    "options": [
+      "Langsung gugatan ke PHI",
+      "Arbitrase saja",
+      "Konsiliasi atau arbitrase, sesuai pilihan",
+      "Mediasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Konsiliasi hanya untuk perselisihan kepentingan, PHK, dan antar-serikat (Pasal 4 ayat (5)); arbitrase hanya kepentingan dan antar-serikat (ayat (6)). Jadi perselisihan hak tinggal punya mediasi.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 4 ayat (5)-(6)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-pb-didaftar",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Perjanjian Bersama hasil bipartit wajib didaftarkan ke…",
+    "options": [
+      "PHI pada PN di wilayah para pihak membuat PB",
+      "Kementerian Ketenagakerjaan",
+      "Dinas tenaga kerja kabupaten/kota",
+      "Notaris yang ditunjuk bersama oleh para pihak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 7 ayat (3). PB yang didaftar mendapat akta bukti pendaftaran; bila tidak dilaksanakan, pihak yang dirugikan dapat memohon penetapan eksekusi ke PHI tempat PB didaftar (ayat (5)).",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 7 ayat (3)-(5)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-anjuran-diam",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Mediator mengeluarkan anjuran tertulis. Salah satu pihak tidak menjawab dalam 10 hari kerja. Menurut Pasal 13 ayat (2) huruf d, pihak itu…",
+    "options": [
+      "Dianggap menyetujui anjuran",
+      "Dianggap menolak anjuran",
+      "Diberi tambahan 10 hari kerja",
+      "Dikenai denda administratif"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pihak yang tidak memberikan pendapat dianggap menolak anjuran tertulis, sehingga perkara dapat dilanjutkan ke PHI lewat gugatan (Pasal 14). Catatan: Pasal 13 ayat (2) huruf a pernah diuji MK (68/PUU-XIII/2015); cek bunyinya sekarang.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 13 ayat (2), Pasal 14",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-mediator-30-hari",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Mediator wajib menyelesaikan tugasnya paling lama… sejak menerima pelimpahan.",
+    "options": [
+      "30 hari kerja",
+      "50 hari kerja",
+      "14 hari kerja",
+      "3 bulan kalender"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 15: 30 hari kerja. Angka 30 juga muncul di bipartit (Pasal 3) dan di kasasi MA (Pasal 115); 50 hari kerja untuk putusan PHI tingkat pertama (Pasal 103).",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 15",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-kompetensi-relatif",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Gugatan perselisihan hubungan industrial diajukan ke PHI pada PN yang daerah hukumnya meliputi…",
+    "options": [
+      "Domisili tergugat (pengusaha)",
+      "Kantor pusat perusahaan",
+      "Tempat pekerja/buruh bekerja",
+      "Domisili penggugat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 81: tempat pekerja/buruh bekerja. Ini menyimpang dari asas actor sequitur forum rei di HIR, karena Pasal 57 membuka pengaturan khusus.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 81",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-hukum-acara",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Hukum acara yang berlaku di Pengadilan Hubungan Industrial adalah…",
+    "options": [
+      "Hukum acara PTUN",
+      "Hukum acara pidana dengan penyesuaian",
+      "Hukum acara perdata, kecuali diatur khusus",
+      "Hukum acara tersendiri, terpisah penuh dari HIR"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 57: hukum acara perdata yang berlaku di peradilan umum, kecuali yang diatur secara khusus dalam UU 2/2004.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 57",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-biaya-150-juta",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Di PHI, para pihak tidak dikenakan biaya (termasuk eksekusi) bila nilai gugatannya…",
+    "options": [
+      "Di bawah Rp500 juta",
+      "Berapa pun nilainya",
+      "Di bawah Rp50 juta",
+      "Di bawah Rp150 juta"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 58: nilai gugatan di bawah Rp150.000.000,00.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 58",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-majelis-phi",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Susunan majelis hakim PHI pada PN menurut Pasal 88 adalah…",
+    "options": [
+      "Hakim tunggal",
+      "3 hakim karier dari pengadilan negeri",
+      "1 hakim karier (ketua) dan 2 hakim ad hoc",
+      "2 hakim karier dan 1 hakim ad hoc dari pengusaha"
+    ],
+    "answerIndex": 2,
+    "explanation": "Satu hakim karier sebagai ketua dan dua hakim ad hoc: satu diusulkan serikat pekerja/buruh, satu diusulkan organisasi pengusaha (Pasal 88 ayat (1)-(2)). Majelis ditetapkan paling lambat 7 hari kerja setelah gugatan diterima.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 88",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-putusan-50-hari",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Majelis hakim PHI wajib memutus paling lama…",
+    "options": [
+      "30 hari kerja sejak gugatan didaftar",
+      "60 hari kalender sejak sidang pertama",
+      "50 hari kerja sejak sidang pertama",
+      "90 hari kalender sejak gugatan didaftar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 103: 50 hari kerja terhitung sejak sidang pertama.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 103",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-kasasi-14-hari",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Putusan PHI soal perselisihan PHK berkekuatan hukum tetap bila tidak dikasasi dalam… (bagi pihak yang hadir, sejak putusan dibacakan)",
+    "options": [
+      "7 hari kerja",
+      "14 hari kalender",
+      "14 hari kerja",
+      "30 hari kerja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 110: 14 hari kerja; bagi pihak yang tidak hadir dihitung sejak menerima pemberitahuan putusan. Tidak ada banding ke PT.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 110",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-ma-30-hari",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "MA menyelesaikan perselisihan hak atau PHK di tingkat kasasi paling lambat…",
+    "options": [
+      "90 hari kalender sejak berkas lengkap",
+      "30 hari kerja sejak permohonan diterima",
+      "50 hari kerja sejak berkas lengkap",
+      "14 hari kerja sejak permohonan diterima"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 115: 30 hari kerja terhitung sejak tanggal penerimaan permohonan kasasi.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 115",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-serta-merta",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Ketua majelis PHI dapat menjatuhkan putusan yang dapat dilaksanakan lebih dahulu, meskipun putusan itu…",
+    "options": [
+      "Belum didaftarkan di kepaniteraan",
+      "Belum ditandatangani panitera",
+      "Belum diberitahukan ke para pihak",
+      "Diajukan perlawanan atau kasasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 108 (putusan serta-merta/uitvoerbaar bij voorraad).",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 108",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-gugatan-phk-1-tahun",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Setelah Putusan MK 94/PUU-XXI/2023, gugatan pekerja atas PHK dapat diajukan hanya dalam tenggang waktu…",
+    "options": [
+      "6 bulan sejak pekerja berhenti menerima upah",
+      "1 tahun sejak keputusan PHK diterima/diberitahukan",
+      "30 hari kerja sejak tanggal surat PHK ditandatangani",
+      "2 tahun sejak hak timbul"
+    ],
+    "answerIndex": 1,
+    "explanation": "MK memaknai Pasal 82 menjadi: gugatan pekerja/buruh atas PHK dapat diajukan hanya dalam 1 tahun sejak diterimanya atau diberitahukannya keputusan pengusaha (rujukan ke pasal-pasal UU 13/2003 tidak lagi dipakai). Ada permohonan uji baru atas Pasal 82 (132/PUU-XXIII/2025); hasilnya belum diperiksa.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial; Putusan MK 94/PUU-XXI/2023",
+      "reference": "Pasal 82 jo. Putusan MK 94/PUU-XXI/2023",
+      "url": "https://jdih.kemnaker.go.id/peraturan/detail/1237/undang-undang-nomor-2-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-serikat-kuasa",
+    "type": "fact",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Pasal 87 UU 2/2004",
+      "text": "SERIKAT = KUASA",
+      "sub": "serikat pekerja & organisasi pengusaha boleh beracara mewakili anggotanya"
+    },
+    "caption": "Di PHI, serikat pekerja/serikat buruh dan organisasi pengusaha dapat bertindak sebagai kuasa hukum mewakili anggotanya (Pasal 87). Jadi pekerja tidak harus memakai advokat.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 87",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-alur-pphi",
+    "type": "carousel",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 2/2004",
+          "title": "Alur sengketa buruh",
+          "subtitle": "dari bipartit sampai kasasi",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Di luar pengadilan",
+          "points": [
+            "Bipartit: maks. 30 hari kerja",
+            "Gagal: catatkan ke dinas",
+            "Pilih konsiliasi/arbitrase dalam 7 hari kerja",
+            "Tidak memilih: mediasi"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Di pengadilan",
+          "points": [
+            "Gugatan + risalah mediasi/konsiliasi",
+            "PHI di PN: putus 50 hari kerja",
+            "Tanpa banding",
+            "Kasasi (hak & PHK): 14 hari kerja",
+            "MA: 30 hari kerja"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Perselisihan kepentingan sudah diputus PHI. Upaya hukum yang tersedia…",
+        "options": [
+          "Banding ke PT",
+          "Peninjauan kembali langsung",
+          "Tidak ada; putusan akhir dan tetap",
+          "Kasasi ke MA"
+        ],
+        "answerIndex": 2,
+        "explanation": "Pasal 109: putusan PHI tentang perselisihan kepentingan dan antar-serikat dalam satu perusahaan bersifat akhir dan tetap."
+      }
+    ],
+    "caption": "Peta jalur penyelesaian perselisihan hubungan industrial. Arbitrase hanya untuk perselisihan kepentingan dan antar-serikat, dan perkara yang sedang/telah diarbitrase tidak dapat diajukan ke PHI (Pasal 53).",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 3, 4, 56, 83, 103, 109, 110, 115",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-humor-anjuran-dicuekin",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "comic",
+      "title": "Strategi diam",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Anjuran mediator? Diamkan saja, nanti juga lupa."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Diam 10 hari kerja = dianggap MENOLAK."
+        },
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Berarti pekerja bisa langsung menggugat ke PHI."
+        }
+      ]
+    },
+    "caption": "Mendiamkan anjuran mediator tidak menghentikan perkara. Pasal 13 ayat (2) huruf d UU 2/2004: pihak yang tidak menjawab dianggap menolak, dan pihak lain dapat menggugat ke PHI.",
+    "teaches": "Pihak yang tidak menjawab anjuran tertulis mediator dalam 10 hari kerja dianggap menolak anjuran (Pasal 13 ayat (2) huruf d UU 2/2004).",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 13 ayat (2) huruf c-d",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2004/2TAHUN2004UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

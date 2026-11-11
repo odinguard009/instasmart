@@ -217,5 +217,391 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-ruang-lingkup",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 4, perlindungan dan pengelolaan lingkungan hidup meliputi perencanaan, pemanfaatan, pengendalian, pemeliharaan, pengawasan, dan…",
+    "options": [
+      "Perizinan berusaha",
+      "Penegakan hukum",
+      "Rehabilitasi",
+      "Pemungutan pajak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 4 huruf f: penegakan hukum.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 4",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-tiga-pengendalian",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Pengendalian pencemaran dan/atau kerusakan lingkungan hidup menurut Pasal 13 ayat (2) meliputi…",
+    "options": [
+      "Pencegahan, perizinan, pemidanaan",
+      "Perizinan, pengawasan, pemidanaan",
+      "Inventarisasi, penetapan, dan pengawasan",
+      "Pencegahan, penanggulangan, pemulihan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pencegahan, penanggulangan, dan pemulihan, dilaksanakan oleh Pemerintah, pemerintah daerah, dan penanggung jawab usaha sesuai kewenangan masing-masing (ayat (3)).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 13",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-hak-lingkungan-ham",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Pasal 65 ayat (1): hak atas lingkungan hidup yang baik dan sehat merupakan…",
+    "options": [
+      "Hak khusus masyarakat adat",
+      "Bagian dari hak asasi manusia",
+      "Hak yang lahir dari pajak lingkungan",
+      "Hak yang lahir dari izin usaha"
+    ],
+    "answerIndex": 1,
+    "explanation": "Setiap orang berhak atas lingkungan hidup yang baik dan sehat sebagai bagian dari hak asasi manusia.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 65 ayat (1)",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-kewajiban-usaha",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Manakah yang TIDAK termasuk kewajiban pelaku usaha menurut Pasal 68?",
+    "options": [
+      "Memberi informasi lingkungan secara benar dan tepat waktu",
+      "Menaati baku mutu lingkungan",
+      "Menjaga keberlanjutan fungsi lingkungan",
+      "Membagi keuntungan kepada warga sekitar"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 68: memberi informasi secara benar, akurat, terbuka, dan tepat waktu; menjaga keberlanjutan fungsi lingkungan hidup; serta menaati baku mutu dan kriteria baku kerusakan lingkungan hidup.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 68",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-bakar-lahan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Larangan membuka lahan dengan cara membakar (Pasal 69 ayat (1) huruf h) menurut ayat (2) memperhatikan dengan sungguh-sungguh…",
+    "options": [
+      "Kalender musim kemarau dari BMKG setempat",
+      "Kearifan lokal di daerah masing-masing",
+      "Luas lahan perkebunan",
+      "Izin tertulis kepala desa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (2): kearifan lokal di daerah masing-masing. Batas rinciannya ada di penjelasan pasal ini dan perlu dicek di sumber resmi.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 69",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-gugat-setelah-gagal",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Para pihak sudah memilih penyelesaian sengketa lingkungan di luar pengadilan. Gugatan ke pengadilan baru dapat ditempuh bila…",
+    "options": [
+      "Sudah lewat 30 hari",
+      "Ada laporan polisi",
+      "Sudah ada izin tertulis dari Menteri LH",
+      "Upaya itu dinyatakan tidak berhasil"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 84 ayat (3): bila upaya di luar pengadilan yang dipilih dinyatakan tidak berhasil oleh salah satu atau para pihak. Pilihan jalurnya sendiri sukarela (ayat (2)).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 84",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-pidana-tak-damai",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Penyelesaian sengketa lingkungan di luar pengadilan TIDAK berlaku terhadap…",
+    "options": [
+      "Bentuk dan besarnya ganti rugi",
+      "Tindakan pemulihan",
+      "Tindak pidana lingkungan hidup",
+      "Pencegahan dampak negatif lingkungan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 85 ayat (2). Ganti rugi, pemulihan, jaminan tidak terulang, dan pencegahan dampak justru menjadi objek kesepakatan di luar pengadilan (ayat (1)).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 85",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-uang-paksa",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Dalam sengketa lingkungan, pengadilan dapat menetapkan pembayaran uang paksa untuk…",
+    "options": [
+      "Setiap hari pencemaran sebelum gugatan diajukan",
+      "Setiap kali tergugat absen di persidangan pertama",
+      "Setiap hari keterlambatan melaksanakan putusan",
+      "Setiap pelanggaran baku mutu yang dilaporkan warga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 87 ayat (3): terhadap setiap hari keterlambatan atas pelaksanaan putusan pengadilan; besarnya diputuskan berdasarkan peraturan perundang-undangan (ayat (4)).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 87 ayat (3)-(4)",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-pindah-tangan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Badan usaha pencemar dipindahtangankan dan diubah bentuk usahanya. Tanggung jawab hukumnya…",
+    "options": [
+      "Hanya tersisa tanggung jawab pidana",
+      "Tidak lepas karena pengalihan itu",
+      "Beralih sepenuhnya kepada negara",
+      "Hapus karena subjeknya berubah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 87 ayat (2): pemindahtanganan atau pengubahan sifat dan bentuk usaha tidak melepaskan tanggung jawab hukum dan/atau kewajiban badan usaha tersebut.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 87 ayat (2)",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-kedaluwarsa-b3",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Tenggat kedaluwarsa gugatan lingkungan dihitung sejak … dan TIDAK berlaku untuk pencemaran oleh kegiatan…",
+    "options": [
+      "Izin terbit; perkebunan sawit",
+      "Kegiatan dimulai; yang memakai/mengelola B3",
+      "Diketahui pencemaran; yang memakai/mengelola B3",
+      "Diketahui pencemaran; usaha mikro dan kecil saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 89: tenggang waktunya mengikuti KUHPerdata, dihitung sejak diketahui adanya pencemaran/kerusakan (ayat (1)); tidak berlaku untuk usaha yang menggunakan/mengelola B3 atau menghasilkan/mengelola limbah B3 (ayat (2)).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 89",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-gakkum-terpadu",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Penegakan hukum pidana lingkungan terpadu antara PPNS, kepolisian, dan kejaksaan dilakukan di bawah koordinasi…",
+    "options": [
+      "Ketua Mahkamah Agung",
+      "Jaksa Agung",
+      "Menteri",
+      "Kapolri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 95 ayat (1): di bawah koordinasi Menteri (yang membidangi lingkungan hidup).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 95 ayat (1)",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-alat-bukti-lain",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Selain alat bukti yang lazim, Pasal 96 UU 32/2009 juga mengakui…",
+    "options": [
+      "Pengakuan terdakwa sebagai bukti utama",
+      "Hanya keterangan saksi dan ahli",
+      "Laporan media sebagai bukti mutlak",
+      "Alat bukti lain menurut peraturan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 96 huruf f: alat bukti lain, termasuk alat bukti yang diatur dalam peraturan perundang-undangan. Perlu dibaca bersama KUHAP baru (UU 20/2025).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 96",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-pidana-kejahatan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Pasal 97 UU 32/2009 menyatakan tindak pidana dalam undang-undang ini merupakan…",
+    "options": [
+      "Kejahatan",
+      "Pelanggaran",
+      "Kejahatan ringan",
+      "Pelanggaran administratif"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kejahatan. Catatan: KUHP Nasional (UU 1/2023) tidak lagi memakai buku terpisah untuk kejahatan dan pelanggaran; cek bagaimana pasal ini dibaca sekarang.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 97",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-pidana-korporasi",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Tindak pidana lingkungan dilakukan oleh, untuk, atau atas nama badan usaha. Tuntutan dan sanksi pidana dijatuhkan kepada…",
+    "options": [
+      "Hanya badan usaha, bukan orang",
+      "Badan usaha dan/atau pemberi perintah",
+      "Hanya pemegang saham mayoritas",
+      "Hanya pekerja lapangan yang melakukan perbuatan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 116 ayat (1): badan usaha dan/atau orang yang memberi perintah atau yang bertindak sebagai pemimpin kegiatan dalam tindak pidana tersebut. Perlu dibaca bersama ketentuan korporasi dalam KUHP Nasional.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 116 ayat (1)",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-sanksi-tambahan-korporasi",
+    "type": "fact",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "visual": {
+      "template": "infographic",
+      "title": "Pidana tambahan badan usaha",
+      "points": [
+        "Rampas keuntungan tindak pidana",
+        "Tutup tempat usaha",
+        "Perbaiki akibat & kerjakan yang dilalaikan",
+        "Pengampuan paling lama 3 tahun"
+      ]
+    },
+    "caption": "Pasal 119 UU 32/2009: pidana tambahan atau tindakan tata tertib terhadap badan usaha, selain pidana pokok.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 119",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-humor-b3-kedaluwarsa",
+    "type": "humor",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Pencemaran B3-nya sudah lama, pasti kedaluwarsa",
+      "bottom": "Untuk B3 tenggatnya tidak berlaku",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Gugatan atas pencemaran oleh kegiatan B3 tidak terhalang tenggat kedaluwarsa.",
+    "teaches": "Ketentuan tenggat kedaluwarsa gugatan tidak berlaku terhadap pencemaran/kerusakan akibat usaha yang menggunakan atau mengelola B3, atau menghasilkan atau mengelola limbah B3 (Pasal 89 ayat (2) UU 32/2009).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 89 ayat (2)",
+      "url": "https://jdih.esdm.go.id/common/dokumen-external/UU%2032%20Tahun%202009%20(PPLH).pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

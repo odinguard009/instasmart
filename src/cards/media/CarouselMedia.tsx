@@ -4,7 +4,7 @@ import type { CardOf, PaletteId } from '@/content/schema';
 import { VisualView } from '@/visuals/VisualView';
 import { QuestionBlock } from './QuestionBlock';
 
-export function CarouselMedia({ card, topicPalette }: { card: CardOf<'carousel'>; topicPalette: PaletteId }) {
+export function CarouselMedia({ card, answerKey, topicPalette }: { card: CardOf<'carousel'>; answerKey: string; topicPalette: PaletteId }) {
   const [index, setIndex] = useState(0);
   const scroller = useRef<HTMLDivElement>(null);
   const goTo = (target: number) => {
@@ -29,7 +29,7 @@ export function CarouselMedia({ card, topicPalette }: { card: CardOf<'carousel'>
             {slide.kind === 'visual' ? (
               <VisualView visual={slide.visual} topicPalette={topicPalette} className="block h-auto w-full" />
             ) : (
-              <QuestionBlock question={slide} cardId={card.id} answerKey={`${card.id}#${slideIndex}`} topicPalette={topicPalette} variant="quiz" schedule={false} />
+              <QuestionBlock question={slide} cardId={card.id} answerKey={`${answerKey}#${slideIndex}`} topicPalette={topicPalette} variant="quiz" schedule={false} />
             )}
           </div>
         ))}

@@ -57,10 +57,26 @@ describe('hari dan kuota', () => {
     expect(state.progress['fact-0']?.seenCount).toBe(1);
   });
 
-  it('extendDay menambah paket dan berhenti di batas', () => {
+  it('extendDay menambah paket tanpa batas jumlah paket', () => {
     let state = started();
     for (let i = 0; i < 5; i++) state = r.extendDay(state, cards, TODAY);
-    expect(state.day?.plan.items).toHaveLength(FEED_CONFIG.defaultQuota + FEED_CONFIG.maxExtraBatchesPerDay * FEED_CONFIG.extraBatchSize);
+    expect(state.day?.plan.items).toHaveLength(FEED_CONFIG.defaultQuota + 5 * FEED_CONFIG.extraBatchSize);
+  });
+
+  it('jawaban kartu yang tampil ulang dicatat dengan kunci putaran, terpisah dari jawaban pertama', () => {
+    const state = started();
+    const first = r.recordAnswer(state, { answerKey: 'quiz-0', cardId: 'quiz-0', selected: 1, correct: true, quality: 4 }, TODAY);
+    const again = r.recordAnswer(first, { answerKey: 'quiz-0~3', cardId: 'quiz-0', selected: 0, correct: false, quality: 1 }, TODAY);
+    expect(again.day?.answers).toEqual({ 'quiz-0': 1, 'quiz-0~3': 0 });
+    expect(again.progress['quiz-0']).toMatchObject({ correct: 1, wrong: 1 });
+  });
+
+  it('state lama (sebelum feed tanpa batas) tetap termuat', () => {
+    const old = { ...started(), settings: { dailyQuota: 40, showUnverified: true, theme: 'dark', sound: false } };
+    const raw = JSON.parse(JSON.stringify({ ...old, day: old.day && { ...old.day, plan: { ...old.day.plan, extraBatches: 2 } } })) as unknown;
+    const revived = reviveState(raw);
+    expect(revived?.day?.plan.extraBatches).toBe(2);
+    expect(revived?.settings.dailyQuota).toBe(40);
   });
 
   it('markStorySeen mencatat sekali', () => {

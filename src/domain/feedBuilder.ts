@@ -2,7 +2,7 @@
  * Pembangun feed harian. Fungsi murni dan deterministik (seed = tanggal).
  *
  * Tujuan urutan: retensi (kartu ulang SM-2 yang jatuh tempo didahulukan) dan variasi (anti-bosan),
- * BUKAN waktu di aplikasi. Feed selalu berhingga: panjangnya = kuota.
+ * BUKAN waktu di aplikasi. Paket pertama sepanjang target harian; paket lanjutan dimuat lewat extendPlan.
  * Semua angka aturan ada di src/config/feed.ts.
  */
 import { FEED_CONFIG, REVIEWABLE_TYPES, type FeedConfig } from '@/config/feed';
@@ -365,17 +365,38 @@ export function buildDailyPlan(rawInput: PlanInput): DailyPlan {
   return { ...plan, closingCardId: closing?.id ?? null };
 }
 
-export function canExtend(plan: DailyPlan, config: FeedConfig = FEED_CONFIG): boolean {
-  return plan.extraBatches < config.maxExtraBatchesPerDay;
+/** Kartu yang tampil di N item terakhir rencana (tidak boleh diulang terlalu cepat saat daur ulang). */
+function recentCardIds(plan: DailyPlan, window: number): Set<string> {
+  if (window <= 0) return new Set();
+  const recent = plan.items.slice(-window);
+  return planCardIds({ ...plan, items: recent, storyIds: [], closingCardId: null });
 }
 
-/** Paket tambahan ("tambah 5 item"): tanpa kejutan, tidak mengulang kartu hari ini, tetap patuh aturan variasi. */
+/**
+ * Paket lanjutan feed tanpa batas (dimuat otomatis saat pengguna mendekati ujung).
+ * Tanpa kejutan, tetap patuh aturan variasi. Kartu hari ini tidak diulang selama stok masih ada;
+ * setelah seluruh pustaka tampil, kartu didaur ulang (kecuali yang baru saja tampil) dengan `round` baru
+ * supaya kunci item dan jawaban tidak bertabrakan. Mengembalikan `plan` yang sama jika tidak ada yang bisa ditambah.
+ */
 export function extendPlan(plan: DailyPlan, rawInput: PlanInput): DailyPlan {
   const input = withDefaults(rawInput);
-  if (!canExtend(plan, input.config)) return plan;
+  const round = plan.extraBatches + 1;
   const rng = createRng(`extra:${input.seed}:${plan.extraBatches}`);
-  const tail = plan.items.slice(-input.config.maxSameTypeRun).map(formatLookup(input.cards));
-  const selection = select(input, planCardIds(plan), input.config.extraBatchSize, false, rng);
-  const extra = toFeedItems(selection, input, rng, tail);
-  return { ...plan, items: [...plan.items, ...extra], extraBatches: plan.extraBatches + 1 };
+  const formatOf = formatLookup(input.cards);
+  const size = input.config.extraBatchSize;
+
+  const fresh = toFeedItems(select(input, planCardIds(plan), size, false, rng), input, rng, plan.items.slice(-input.config.maxSameTypeRun).map(formatOf));
+  let recycled: FeedItem[] = [];
+  if (fresh.length < size) {
+    // Pustaka kecil (mis. hanya kartu yang disetujui): jendela dipersempit agar daur ulang tetap mungkin.
+    const feedable = input.cards.filter((card) => card.type !== 'story').length;
+    const window = Math.min(input.config.recycleWindow, Math.floor(feedable / 2));
+    const exclude = new Set([...recentCardIds(plan, window), ...planCardIds({ ...plan, items: fresh })]);
+    const tail = [...plan.items, ...fresh].slice(-input.config.maxSameTypeRun).map(formatOf);
+    recycled = toFeedItems(select(input, exclude, size - fresh.length, false, rng), input, rng, tail).map((item) =>
+      item.kind === 'card' ? { ...item, key: `${item.key}~${round}`, round } : item,
+    );
+  }
+  if (fresh.length + recycled.length === 0) return plan;
+  return { ...plan, items: [...plan.items, ...fresh, ...recycled], extraBatches: round };
 }

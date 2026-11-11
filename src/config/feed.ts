@@ -5,14 +5,19 @@
 import type { CardType } from '@/content/schema';
 
 export interface FeedConfig {
-  /** Kuota item feed per hari (bisa diubah pengguna di Profil). */
+  /**
+   * Target harian = panjang paket pertama feed dan titik "target tercapai" (bisa diubah di Profil).
+   * Feed tidak berhenti di sini: pemilik repo meminta feed tanpa batas (lihat docs/DECISIONS.md).
+   */
   defaultQuota: number;
   minQuota: number;
   maxQuota: number;
-  /** Ukuran satu paket "tambah item" di layar Selesai. */
+  /** Ukuran satu paket lanjutan yang dimuat otomatis saat pengguna mendekati ujung feed. */
   extraBatchSize: number;
-  /** Batas paket tambahan per hari, supaya feed tetap punya akhir. */
-  maxExtraBatchesPerDay: number;
+  /** Paket lanjutan dimuat saat ujung feed tinggal sejauh ini (px) di bawah layar. */
+  autoExtendMarginPx: number;
+  /** Saat seluruh pustaka sudah tampil hari itu, kartu boleh diulang kecuali N kartu terakhir yang tampil. */
+  recycleWindow: number;
   /** Story per hari (di baris Stories, di luar kuota feed). */
   storiesPerDay: number;
   /** Tidak boleh tipe yang sama lebih dari N kali berturut-turut. */
@@ -36,9 +41,10 @@ export interface FeedConfig {
 export const FEED_CONFIG: FeedConfig = {
   defaultQuota: 20,
   minQuota: 5,
-  maxQuota: 40,
-  extraBatchSize: 5,
-  maxExtraBatchesPerDay: 2,
+  maxQuota: 100,
+  extraBatchSize: 10,
+  autoExtendMarginPx: 2400,
+  recycleWindow: 40,
   storiesPerDay: 3,
   maxSameTypeRun: 2,
   humorEvery: 4,

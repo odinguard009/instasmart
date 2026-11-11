@@ -11,8 +11,8 @@ const GRADES = [
   { label: 'Ingat', quality: SM2_QUALITY.recallEasy },
 ] as const;
 
-export function FlashcardMedia({ card, topicPalette }: { card: CardOf<'review'>; topicPalette: PaletteId }) {
-  const graded = useStore((s) => s.day?.answers[card.id]);
+export function FlashcardMedia({ card, answerKey, topicPalette }: { card: CardOf<'review'>; answerKey: string; topicPalette: PaletteId }) {
+  const graded = useStore((s) => s.day?.answers[answerKey]);
   const { recordAnswer } = useActions();
   const [revealed, setRevealed] = useState(false);
   const palette = PALETTES[topicPalette];
@@ -42,7 +42,7 @@ export function FlashcardMedia({ card, topicPalette }: { card: CardOf<'review'>;
                 key={grade.label}
                 type="button"
                 className="h-12 flex-1 rounded-xl bg-black/35 font-bold"
-                onClick={() => recordAnswer({ answerKey: card.id, cardId: card.id, selected: grade.quality, correct: grade.quality >= 3, quality: grade.quality })}
+                onClick={() => recordAnswer({ answerKey, cardId: card.id, selected: grade.quality, correct: grade.quality >= 3, quality: grade.quality })}
               >
                 {grade.label}
               </button>

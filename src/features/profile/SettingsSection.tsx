@@ -29,10 +29,10 @@ export function SettingsSection() {
 
       <label className="mt-3 block" htmlFor="quota">
         <span className="flex justify-between text-sm font-semibold">
-          <span>Kuota harian</span>
+          <span>Target harian</span>
           <span>{settings.dailyQuota} item</span>
         </span>
-        <span className="block text-xs text-muted">Berlaku mulai rencana feed berikutnya (besok).</span>
+        <span className="block text-xs text-muted">Titik "target tercapai" di feed. Feed tidak berhenti di sini; kartu berikutnya dimuat otomatis.</span>
       </label>
       <input
         id="quota"

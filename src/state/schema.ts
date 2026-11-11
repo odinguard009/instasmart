@@ -43,7 +43,14 @@ export const surpriseSchema = z.discriminatedUnion('type', [
 export type Surprise = z.infer<typeof surpriseSchema>;
 
 export const feedItemSchema = z.discriminatedUnion('kind', [
-  z.strictObject({ kind: z.literal('card'), key: z.string(), cardId: z.string(), isReview: z.boolean() }),
+  z.strictObject({
+    kind: z.literal('card'),
+    key: z.string(),
+    cardId: z.string(),
+    isReview: z.boolean(),
+    /** >0 = kartu ini tampil ulang hari ini (pustaka sudah habis tergulir); jawabannya dicatat terpisah. */
+    round: z.number().int().min(1).optional(),
+  }),
   z.strictObject({ kind: z.literal('surprise'), key: z.string(), surprise: surpriseSchema }),
 ]);
 export type FeedItem = z.infer<typeof feedItemSchema>;

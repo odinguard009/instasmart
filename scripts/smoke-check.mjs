@@ -52,12 +52,18 @@ await visit('03-beranda-scroll', '/', async () => {
     await page.screenshot({ path: `${OUT}/03-beranda-scroll-${i + 1}.png` });
   }
 });
-await visit('04-selesai', '/', async () => {
-  await page.locator('main').evaluate((node) => node.scrollTo(0, node.scrollHeight));
-  await page.waitForTimeout(500);
-  await expectText('Selesai hari ini');
-  await page.getByRole('button', { name: /^Tambah \d+ item$/ }).click();
-  if ((await page.getByRole('alertdialog').count()) === 0) errors.push('[cek] konfirmasi tambah item tidak muncul');
+await visit('04-feed-tanpa-batas', '/', async () => {
+  const main = page.locator('main');
+  const countPosts = () => page.locator('main article').count();
+  const before = await countPosts();
+  for (let i = 0; i < 4; i++) {
+    await main.evaluate((node) => node.scrollTo(0, node.scrollHeight));
+    await page.waitForTimeout(600);
+  }
+  const after = await countPosts();
+  if (after <= before) errors.push(`[cek] feed tidak bertambah saat digulir ke ujung (${before} -> ${after})`);
+  else console.log(`ok   feed bertambah otomatis: ${before} -> ${after} post`);
+  await expectText('Target harian tercapai');
 });
 await visit('05-reels', '/reels', () => page.waitForTimeout(2500));
 await visit('06-jelajah', '/jelajah', () => expectText('kartu'));
@@ -66,7 +72,7 @@ await visit('07-jelajah-cari', '/jelajah', async () => {
   await page.waitForTimeout(400);
 });
 await visit('08-favorit', '/favorit', () => expectText('Favorit'));
-await visit('09-profil', '/profil', () => expectText('Kuota harian'));
+await visit('09-profil', '/profil', () => expectText('Target harian'));
 await visit('10-review', '/review', () => expectText('Lapor salah'));
 
 await visit('11-kuis-detail', '/kartu/perdata-unsur-pmh', async () => {

@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { FEED_CONFIG } from '@/config/feed';
 import { library } from '@/content';
 import type { Card } from '@/content/schema';
-import { arrangeForVariety, buildDailyPlan, canExtend, extendPlan, formatLookup, interleaveEvenly, longestRun, planCardIds, type ItemFormat } from '@/domain/feedBuilder';
+import { arrangeForVariety, buildDailyPlan, extendPlan, formatLookup, interleaveEvenly, longestRun, planCardIds, type ItemFormat } from '@/domain/feedBuilder';
 import { addDays } from '@/lib/date';
 import { createRng } from '@/lib/rng';
 import type { DailyPlan, ProgressMap } from '@/state/schema';
@@ -164,12 +164,41 @@ describe('tambah item (extendPlan)', () => {
     expect(longestRun(formats(extended, cards))).toBeLessThanOrEqual(FEED_CONFIG.maxSameTypeRun);
   });
 
-  it('dibatasi maxExtraBatchesPerDay sehingga feed tetap punya akhir', () => {
+  it('tidak dibatasi: paket terus bertambah, lalu kartu didaur ulang dengan kunci unik saat stok habis', () => {
     let plan = base;
-    for (let i = 0; i < FEED_CONFIG.maxExtraBatchesPerDay + 3; i++) plan = extendPlan(plan, input);
-    expect(plan.extraBatches).toBe(FEED_CONFIG.maxExtraBatchesPerDay);
-    expect(plan.items).toHaveLength(20 + FEED_CONFIG.maxExtraBatchesPerDay * FEED_CONFIG.extraBatchSize);
-    expect(canExtend(plan)).toBe(false);
+    for (let i = 0; i < 20; i++) plan = extendPlan(plan, input);
+    expect(plan.extraBatches).toBe(20);
+    expect(plan.items.length).toBeGreaterThan(cards.length);
+    expect(new Set(plan.items.map((item) => item.key)).size).toBe(plan.items.length);
+    const recycled = plan.items.filter((item) => item.kind === 'card' && item.round !== undefined);
+    expect(recycled.length).toBeGreaterThan(0);
+    for (const item of recycled) expect(item.key).toMatch(/~\d+$/);
+  });
+
+  it('kartu daur ulang tidak mengulang kartu yang baru saja tampil', () => {
+    let plan = base;
+    for (let i = 0; i < 20; i++) plan = extendPlan(plan, input);
+    const ids = plan.items.flatMap((item) => (item.kind === 'card' ? [item.cardId] : []));
+    for (let i = 0; i < ids.length; i++) {
+      const previous = ids.slice(Math.max(0, i - 10), i);
+      expect(previous).not.toContain(ids[i]);
+    }
+  });
+
+  it('pustaka satu kartu tetap bisa diperpanjang tanpa kunci ganda', () => {
+    const single = [makeCard('fact', 'satu')];
+    const one = { cards: single, progress: {}, today: TODAY, quota: 20 };
+    let plan = buildDailyPlan(one);
+    for (let i = 0; i < 3; i++) plan = extendPlan(plan, one);
+    expect(plan.items).toHaveLength(4);
+    expect(new Set(plan.items.map((item) => item.key)).size).toBe(4);
+  });
+
+  it('pustaka tanpa kartu feed: rencana yang sama dikembalikan (penanda tidak memicu ulang)', () => {
+    const onlyStories = [makeCard('story', 's-1')];
+    const none = { cards: onlyStories, progress: {}, today: TODAY, quota: 20 };
+    const plan = buildDailyPlan(none);
+    expect(extendPlan(plan, none)).toBe(plan);
   });
 });
 

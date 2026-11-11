@@ -10,15 +10,14 @@ Panduan untuk model/agen yang melanjutkan proyek ini. Baca sampai habis sebelum 
 
 ## Produk dalam satu paragraf
 
-Instasmart adalah PWA (Android, offline) yang terasa seperti Instagram, tetapi seluruh isinya materi hukum untuk persiapan seleksi calon hakim: post foto, carousel, story, reel (motion graphics), kuis, polling, humor. Tujuannya mengganti doom-scrolling dengan smart-scrolling. Tanpa backend: konten = JSON statis di `content/`, data pengguna = `localStorage`.
+Instasmart adalah PWA (Android, offline) yang terasa seperti Instagram, tetapi seluruh isinya materi belajar: ilmu hukum (persiapan seleksi calon hakim) dan persiapan SKD CPNS (TWK, TIU, TKP): post foto, carousel, story, reel (motion graphics), kuis, polling, humor. Tujuannya mengganti doom-scrolling dengan smart-scrolling. Tanpa backend: konten = JSON statis di `content/`, data pengguna = `localStorage`.
 
 ## Prinsip anti-doomscroll (jangan dilanggar saat menambah fitur)
 
-1. Feed selalu berhingga: panjangnya = kuota harian, lalu layar "Selesai hari ini". Jangan menambah infinite scroll, autoplay ke konten berikutnya tanpa akhir, atau "rekomendasi lainnya".
+1. **Feed sengaja TANPA BATAS** (instruksi pemilik repo, 2026-11-11): aplikasi ini untuk pemakaian pribadi sebagai pengganti doom-scrolling, jadi paket lanjutan dimuat otomatis saat mendekati ujung feed, dan kartu didaur ulang setelah seluruh pustaka tampil. Jangan mengembalikan kuota keras atau tombol "Tambah 5 item" berkonfirmasi. Target harian (default 20) hanya penanda "target tercapai" yang tidak memblokir.
 2. Tidak ada metrik sosial (jumlah suka, pengikut, dilihat). Hati dan simpan hanya koleksi pribadi.
 3. Tidak ada notifikasi, pengingat, timer sesi, atau interupsi berbasis waktu.
-4. Urutan konten mengoptimalkan retensi (SM-2) dan variasi, bukan lama pemakaian.
-5. "Tambah 5 item" harus tetap butuh satu langkah konfirmasi dan tetap dibatasi per hari.
+4. Urutan konten mengoptimalkan retensi (SM-2) dan variasi, bukan lama pemakaian. Isi feed tetap materi belajar; jangan menambah konten tanpa muatan belajar.
 
 Rincian: `docs/ANTI-DOOMSCROLL.md`.
 

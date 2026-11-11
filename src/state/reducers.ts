@@ -60,7 +60,7 @@ export function startDay(state: UserState, cards: readonly Card[], today: DateKe
   return { ...state, day };
 }
 
-/** "Tambah 5 item" dari layar Selesai (dibatasi maxExtraBatchesPerDay). */
+/** Paket lanjutan feed tanpa batas (dipicu otomatis saat pengguna mendekati ujung feed). */
 export function extendDay(state: UserState, cards: readonly Card[], today: DateKey): UserState {
   if (!state.day || state.day.plan.date !== today) return state;
   const plan = extendPlan(state.day.plan, planInput(state, cards, today));

@@ -19,6 +19,8 @@ interface CardViewProps {
   ribbon?: string;
   /** Dipanggil saat pengguna ingin membuka story (tipe `story` saja). */
   onOpenStory?: () => void;
+  /** Putaran tampil ulang di feed (lihat FeedItem.round): jawaban dicatat dengan kunci terpisah. */
+  round?: number;
 }
 
 interface Parts {
@@ -27,7 +29,7 @@ interface Parts {
   extra?: ReactNode;
 }
 
-function useParts(card: Card, onOpenStory: (() => void) | undefined): { parts: Parts; ref: (node: HTMLDivElement | null) => void } {
+function useParts(card: Card, onOpenStory: (() => void) | undefined, answerKey: string): { parts: Parts; ref: (node: HTMLDivElement | null) => void } {
   const palette = topicPaletteOf(card);
   const [ref, inView] = useInView<HTMLDivElement>(0.6);
   const visual = (v: Parameters<typeof VisualView>[0]['visual']) => <VisualView visual={v} topicPalette={palette} className="block h-auto w-full" />;
@@ -70,12 +72,12 @@ function useParts(card: Card, onOpenStory: (() => void) | undefined): { parts: P
     case 'poll':
       return {
         ref,
-        parts: { media: <QuestionBlock question={card} cardId={card.id} answerKey={card.id} topicPalette={palette} variant={card.type} />, caption: card.caption },
+        parts: { media: <QuestionBlock question={card} cardId={card.id} answerKey={answerKey} topicPalette={palette} variant={card.type} />, caption: card.caption },
       };
     case 'review':
-      return { ref, parts: { media: <FlashcardMedia card={card} topicPalette={palette} />, caption: card.caption } };
+      return { ref, parts: { media: <FlashcardMedia card={card} answerKey={answerKey} topicPalette={palette} />, caption: card.caption } };
     case 'carousel':
-      return { ref, parts: { media: <CarouselMedia card={card} topicPalette={palette} />, caption: card.caption } };
+      return { ref, parts: { media: <CarouselMedia card={card} answerKey={answerKey} topicPalette={palette} />, caption: card.caption } };
     case 'reel':
       return { ref, parts: { media: <ReelPlayer card={card} topicPalette={palette} active={inView} className="aspect-[4/5] w-full" />, caption: card.caption } };
     case 'video':
@@ -98,8 +100,8 @@ function useParts(card: Card, onOpenStory: (() => void) | undefined): { parts: P
   }
 }
 
-export function CardView({ card, ribbon, onOpenStory }: CardViewProps) {
-  const { parts, ref } = useParts(card, onOpenStory);
+export function CardView({ card, ribbon, onOpenStory, round }: CardViewProps) {
+  const { parts, ref } = useParts(card, onOpenStory, round ? `${card.id}~${round}` : card.id);
   return (
     <PostShell card={card} ribbon={ribbon} caption={parts.caption} extra={parts.extra}>
       <div ref={ref}>{parts.media}</div>

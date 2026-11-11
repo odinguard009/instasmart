@@ -12,7 +12,7 @@ Instasmart mengubah kebiasaan doom-scrolling menjadi smart-scrolling. Tampilanny
 
 | Tab | Isi |
 | --- | --- |
-| Beranda | Baris Stories (3 per hari), feed harian sesuai kuota (default 20 item), lalu layar "Selesai hari ini" |
+| Beranda | Baris Stories (3 per hari), feed tanpa batas (paket baru dimuat otomatis), penanda "Target harian tercapai" setelah 20 item (bisa diatur) |
 | Jelajah | Grid seluruh pustaka, pencarian teks, filter format dan topik |
 | Reels | Reel hari ini, layar penuh, snap per item, lalu kartu penutup |
 | Favorit | Koleksi pribadi (disukai/disimpan) per topik |

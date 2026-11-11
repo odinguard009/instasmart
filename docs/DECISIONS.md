@@ -46,3 +46,9 @@ Format: keputusan, lalu alasannya dalam satu baris. Tambahkan baris baru di bawa
 31. **Generator kartu dan skrip foto Pexels tidak dijalankan dengan kunci sungguhan.** Tidak ada kunci di lingkungan pembuat dan instruksinya melarang memanggil API saat membangun; yang diuji hanya jalur "tanpa kunci" dan pemeriksaan tipe.
 32. **Commit dikirim ke `main` (sesuai permintaan pemilik) dan juga ke branch kerja sesi `claude/dreamy-clarke-jqsuk3`.** Lingkungan sesi menetapkan branch kerja sendiri; keduanya menunjuk commit yang sama, dan branch kerja boleh dihapus.
 33. **Langkah deploy di CI bergantung pada pengaturan Pages di repo.** Workflow sudah benar secara sintaks, tetapi job `deploy` baru bisa berhasil setelah Settings > Pages > Source diset ke "GitHub Actions"; itu langkah manual pemilik repo (lihat README).
+
+## Putaran 2 (2026-11-11)
+
+34. **Feed tanpa batas menggantikan kuota keras.** Instruksi langsung pemilik repo ("hilangkan batas 20 per hari, ini untuk konsumsi pribadi dan mengatasi kebiasaan doomscrolling saya"). Tombol "Tambah 5 item" berkonfirmasi dan batas 2 paket dihapus; paket 10 item dimuat otomatis. Hanya ada satu mode (tanpa sakelar terbatas/tanpa batas) supaya jalur kode dan tes tidak berlipat.
+35. **Target harian dipertahankan sebagai penanda, bukan batas.** `settings.dailyQuota` tetap dipakai (state lama tetap valid) untuk panjang paket pertama dan posisi panel "Target harian tercapai".
+36. **Daur ulang kartu setelah pustaka habis.** Kartu yang sama tidak diulang dalam 40 item terakhir (`recycleWindow`, dipersempit ke separuh pustaka bila pustaka kecil). Kartu ulang mendapat `round` agar kunci React, item feed, dan jawaban kuis tidak bertabrakan; jawaban ulang tetap memperbarui akurasi dan SM-2.

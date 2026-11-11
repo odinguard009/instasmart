@@ -1,0 +1,346 @@
+[
+  {
+    "id": "twk-piagam-jakarta",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Rumusan dasar negara yang disepakati Panitia Sembilan pada 22 Juni 1945 dikenal sebagai…",
+    "options": [
+      "Pidato Lahirnya Pancasila",
+      "Piagam Jakarta",
+      "Dekrit Presiden",
+      "Maklumat X"
+    ],
+    "answerIndex": 1,
+    "explanation": "Piagam Jakarta (Jakarta Charter). Sila pertama kemudian diubah PPKI pada 18 Agustus 1945 menjadi \"Ketuhanan Yang Maha Esa\".",
+    "source": {
+      "title": "Risalah sidang BPUPKI-PPKI (Sekretariat Negara)",
+      "reference": "Sejarah perumusan Pancasila"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-pidato-1-juni",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Soekarno menyampaikan pidato yang memperkenalkan istilah \"Pancasila\" dalam sidang BPUPKI pada tanggal…",
+    "options": [
+      "29 Mei 1945",
+      "1 Juni 1945",
+      "22 Juni 1945",
+      "18 Agustus 1945"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 Juni 1945, kini ditetapkan sebagai Hari Lahir Pancasila. Sidang pertama BPUPKI berlangsung 29 Mei-1 Juni 1945.",
+    "source": {
+      "title": "Risalah sidang BPUPKI-PPKI (Sekretariat Negara)",
+      "reference": "Sejarah perumusan Pancasila"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-sumpah-pemuda",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Sumpah Pemuda diikrarkan pada Kongres Pemuda II tanggal…",
+    "options": [
+      "20 Mei 1908",
+      "28 Oktober 1928",
+      "17 Agustus 1945",
+      "10 November 1945"
+    ],
+    "answerIndex": 1,
+    "explanation": "28 Oktober 1928. 20 Mei 1908 adalah berdirinya Budi Utomo (Hari Kebangkitan Nasional).",
+    "source": {
+      "title": "Sejarah pergerakan nasional Indonesia",
+      "reference": "Sejarah pergerakan nasional"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-garuda-angka",
+    "type": "fact",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "visual": {
+      "template": "infographic",
+      "title": "Angka pada Garuda Pancasila",
+      "points": [
+        "17 helai bulu di tiap sayap",
+        "8 helai bulu ekor",
+        "19 helai bulu pangkal ekor",
+        "45 helai bulu leher"
+      ]
+    },
+    "caption": "Melambangkan 17-8-1945. Semboyan Bhinneka Tunggal Ika berasal dari Kakawin Sutasoma karya Mpu Tantular.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Pasal 46-48"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-bela-negara-pasal",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "\"Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.\" Bunyi ini terdapat dalam UUD 1945 pasal…",
+    "options": [
+      "Pasal 27 ayat (3)",
+      "Pasal 28 ayat (1)",
+      "Pasal 30 ayat (2)",
+      "Pasal 31 ayat (1)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 27 ayat (3). Pasal 30 ayat (1) mengatur hak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara; ayat (2) sistem pertahanan dan keamanan rakyat semesta.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 27 ayat (3), 30"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-nilai-bela-negara",
+    "type": "fact",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "visual": {
+      "template": "infographic",
+      "title": "Nilai dasar bela negara",
+      "points": [
+        "Cinta tanah air",
+        "Sadar berbangsa dan bernegara",
+        "Setia pada Pancasila",
+        "Rela berkorban",
+        "Kemampuan awal bela negara"
+      ]
+    },
+    "caption": "Rumusan nilai ini dipakai dalam pembinaan kesadaran bela negara (UU 23/2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang PSDN untuk Pertahanan Negara",
+      "reference": "Pasal 7 ayat (3)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-integritas-gratifikasi",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Seorang pegawai menerima bingkisan dari rekanan yang sedang mengikuti pengadaan di kantornya. Sikap yang sesuai prinsip integritas adalah…",
+    "options": [
+      "Menerima karena nilainya kecil",
+      "Menolak, atau melaporkan bila terlanjur diterima",
+      "Membagikannya ke rekan kerja",
+      "Menerima setelah pengadaan selesai"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gratifikasi terkait jabatan wajib ditolak atau dilaporkan. Dalam UU Tipikor, gratifikasi yang dilaporkan ke KPK paling lambat 30 hari kerja sejak diterima tidak dianggap suap (Pasal 12C).",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 (Tipikor)",
+      "reference": "Pasal 12B-12C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-kata-baku-1",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Manakah kelompok kata yang semuanya baku?",
+    "options": [
+      "Apotek, praktik, risiko",
+      "Apotik, praktek, resiko",
+      "Apotek, praktek, risiko",
+      "Apotik, praktik, resiko"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bentuk baku menurut KBBI: apotek, praktik, risiko. Contoh lain: analisis, objek, izin, jadwal, nasihat.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "KBBI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-di-prefiks",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat dengan penulisan \"di\" yang benar adalah…",
+    "options": [
+      "Buku itu di letakkan dimeja.",
+      "Buku itu diletakkan di meja.",
+      "Buku itu di letakkan di meja.",
+      "Buku itu diletakkan dimeja."
+    ],
+    "answerIndex": 1,
+    "explanation": "\"di\" sebagai awalan ditulis serangkai (diletakkan); sebagai kata depan ditulis terpisah (di meja).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V",
+      "reference": "Bentuk dan pilihan kata"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-simbol-negara",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Bendera, bahasa, lambang negara, serta lagu kebangsaan diatur dalam UUD 1945 pasal…",
+    "options": [
+      "Pasal 33-34",
+      "Pasal 35-36C",
+      "Pasal 37",
+      "Pasal 18-18B"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 35 bendera, 36 bahasa, 36A lambang negara, 36B lagu kebangsaan, 36C pengaturan lebih lanjut dengan UU (UU 24/2009).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 35-36C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-kata-baku-meme",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "\"Saya sudah praktek di apotik, resikonya kecil.\"",
+      "bottom": "Baku: praktik, apotek, risiko.",
+      "character": "owl",
+      "expression": "shock"
+    },
+    "caption": "Tiga kata tidak baku yang paling sering muncul di soal TWK.",
+    "teaches": "Bentuk baku: praktik, apotek, risiko (KBBI).",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "KBBI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-reel-pancasila",
+    "type": "reel",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "29 Mei-1 Juni 1945",
+        "caption": "Sidang pertama BPUPKI membahas dasar negara.",
+        "kicker": "Sejarah Pancasila",
+        "character": "owl",
+        "expression": "think",
+        "characterMotion": "enter-left"
+      },
+      {
+        "durationMs": 4500,
+        "text": "1 Juni: pidato Soekarno",
+        "caption": "Istilah Pancasila diperkenalkan.",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4500,
+        "text": "22 Juni: Piagam Jakarta",
+        "caption": "Disusun Panitia Sembilan.",
+        "textMotion": "slide-up"
+      },
+      {
+        "durationMs": 4500,
+        "text": "18 Agustus: disahkan PPKI",
+        "caption": "Sila pertama menjadi Ketuhanan Yang Maha Esa.",
+        "effect": "zoom"
+      }
+    ],
+    "caption": "Empat tanggal perumusan Pancasila.",
+    "source": {
+      "title": "Risalah sidang BPUPKI-PPKI (Sekretariat Negara)",
+      "reference": "Sejarah perumusan Pancasila"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-story-twk",
+    "type": "story",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "title": "4 pilar & simbol negara",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "CPNS",
+          "title": "TWK: hafalan wajib",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 35",
+          "sub": "Bendera: Sang Merah Putih."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 36",
+          "sub": "Bahasa negara: Bahasa Indonesia."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 36A",
+          "sub": "Lambang: Garuda Pancasila, semboyan Bhinneka Tunggal Ika."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 36B",
+          "sub": "Lagu kebangsaan: Indonesia Raya."
+        }
+      }
+    ],
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 35-36B"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

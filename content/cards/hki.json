@@ -1,0 +1,243 @@
+[
+  {
+    "id": "hki-hak-cipta-otomatis",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Kapan hak cipta timbul menurut UU 28/2014?",
+    "options": [
+      "Sejak didaftarkan di DJKI",
+      "Secara otomatis berdasarkan prinsip deklaratif setelah ciptaan diwujudkan dalam bentuk nyata",
+      "Sejak diumumkan di media massa",
+      "Sejak dijual pertama kali"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 1. Pencatatan ciptaan bukan syarat untuk mendapatkan hak cipta (Pasal 64 ayat 2).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 1 angka 1, 64 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-masa-hak-cipta",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Perlindungan hak ekonomi atas ciptaan buku oleh pencipta perorangan berlaku…",
+    "options": [
+      "50 tahun sejak diumumkan",
+      "Seumur hidup pencipta + 70 tahun setelah meninggal",
+      "20 tahun sejak penerimaan",
+      "10 tahun dan dapat diperpanjang"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 58 ayat (1) UU 28/2014. Bila pemegang hak cipta badan hukum, 50 tahun sejak pertama kali diumumkan (ayat 3).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 58"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-moral-ekonomi",
+    "type": "fact",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "infographic",
+      "title": "Dua hak dalam hak cipta",
+      "points": [
+        "Hak moral: melekat abadi pada pencipta (mis. namanya dicantumkan)",
+        "Hak ekonomi: mendapat manfaat ekonomi, dapat dialihkan"
+      ]
+    },
+    "caption": "Hak moral tidak dapat dialihkan selama pencipta hidup; hak ekonomi dapat dialihkan, misalnya lewat lisensi atau pewarisan.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 4-5, 8"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-syarat-paten",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Syarat invensi agar dapat diberi paten (biasa) adalah…",
+    "options": [
+      "Baru, mengandung langkah inventif, dapat diterapkan dalam industri",
+      "Orisinal dan sudah diumumkan",
+      "Terdaftar dan dipakai di pasar",
+      "Baru dan berbentuk karya seni"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 3 ayat (1) UU 13/2016. Paten sederhana cukup baru, pengembangan produk/proses yang ada, dan dapat diterapkan dalam industri.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten",
+      "reference": "Pasal 3"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-jangka-paten",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Paten diberikan untuk jangka waktu…",
+    "options": [
+      "10 tahun, dapat diperpanjang",
+      "20 tahun sejak tanggal penerimaan, tidak dapat diperpanjang",
+      "Seumur hidup inventor",
+      "70 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 22 UU 13/2016. Paten sederhana 10 tahun sejak tanggal penerimaan, juga tidak dapat diperpanjang (Pasal 23).",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten",
+      "reference": "Pasal 22-23"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-jangka-merek",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Merek terdaftar mendapat perlindungan hukum selama…",
+    "options": [
+      "5 tahun, tidak dapat diperpanjang",
+      "10 tahun sejak tanggal penerimaan, dapat diperpanjang untuk jangka waktu yang sama",
+      "20 tahun",
+      "Selama dipakai"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 35 UU 20/2016. Hak atas merek diperoleh setelah merek terdaftar (sistem konstitutif, first to file).",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
+      "reference": "Pasal 3, 35"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-pengadilan-niaga-hki",
+    "type": "review",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "front": "Pengadilan mana yang berwenang mengadili gugatan perdata pelanggaran hak cipta, paten, dan merek?",
+    "back": "Pengadilan Niaga (mis. Pasal 95 ayat (2) UU Hak Cipta). Untuk hak cipta, para pihak juga dapat memakai alternatif penyelesaian sengketa atau arbitrase.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 95"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-mnemonik-jangka-hki",
+    "type": "mnemonic",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jangka waktu HKI",
+      "text": "70-20-10",
+      "sub": "Cipta +70, Paten 20, Merek 10 (bisa diperpanjang)"
+    },
+    "caption": "Tiga angka yang sering tertukar.",
+    "phrase": "70-20-10",
+    "expansion": [
+      "70: hak cipta, seumur hidup pencipta + 70 tahun",
+      "20: paten, tidak dapat diperpanjang",
+      "10: merek, dapat diperpanjang 10 tahun lagi; juga paten sederhana"
+    ],
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 58 UU HC; Pasal 22 UU Paten; Pasal 35 UU Merek"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-daftar-dulu",
+    "type": "humor",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "meme",
+      "top": "\"Saya duluan pakai merek ini sejak 2010, jadi pasti milik saya!\"",
+      "bottom": "Merek: siapa mendaftar duluan (first to file), dengan itikad baik.",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Hak atas merek di Indonesia lahir dari pendaftaran (sistem konstitutif).",
+    "teaches": "Hak atas merek diperoleh setelah merek terdaftar (Pasal 3 UU 20/2016); permohonan beritikad tidak baik dapat ditolak.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
+      "reference": "Pasal 3, 21"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-story-hki",
+    "type": "story",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "title": "HKI kilat",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Kilat",
+          "title": "Rezim HKI",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Hak cipta",
+          "sub": "Otomatis (deklaratif), tanpa wajib dicatat."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Paten",
+          "sub": "Invensi teknologi, 20 tahun."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Merek",
+          "sub": "Lahir dari pendaftaran, 10 tahun dan bisa diperpanjang."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "UU 28/2014, 13/2016, 20/2016"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

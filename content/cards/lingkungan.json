@@ -1,0 +1,221 @@
+[
+  {
+    "id": "lingkungan-anti-slapp",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Orang yang memperjuangkan hak atas lingkungan hidup yang baik dan sehat tidak dapat dituntut pidana maupun digugat perdata. Ini dikenal sebagai ketentuan…",
+    "options": [
+      "Strict liability",
+      "Anti-SLAPP",
+      "Class action",
+      "Polluter pays"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 66 UU 32/2009: perlindungan dari Strategic Lawsuit Against Public Participation (SLAPP).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 66"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-strict-liability",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Pelaku usaha yang kegiatannya menggunakan atau menghasilkan B3, atau menimbulkan ancaman serius, bertanggung jawab atas kerugian yang terjadi berdasarkan prinsip…",
+    "options": [
+      "Tanggung jawab berdasarkan kesalahan",
+      "Tanggung jawab mutlak (strict liability)",
+      "Tanggung jawab praduga tidak bersalah",
+      "Tanggung jawab renteng negara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 88. Rumusan pasal ini diubah UU Cipta Kerja (frasa \"tanpa perlu pembuktian unsur kesalahan\" tidak lagi tercantum); periksa rumusan yang berlaku.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 88"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-hak-gugat-organisasi",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Hak gugat organisasi lingkungan hidup (legal standing) menurut UU 32/2009 terbatas pada tuntutan…",
+    "options": [
+      "Ganti rugi materiil yang besar",
+      "Melakukan tindakan tertentu, tanpa ganti rugi kecuali biaya riil",
+      "Pidana penjara",
+      "Pembubaran perusahaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 92 ayat (2). Organisasi harus berbadan hukum, anggaran dasarnya menyebut tujuan pelestarian lingkungan, dan telah melaksanakan kegiatan nyata paling singkat 2 tahun (ayat 3).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 92"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-asas-lingkungan-kunci",
+    "type": "fact",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "visual": {
+      "template": "infographic",
+      "title": "Asas kunci hukum lingkungan",
+      "points": [
+        "Kehati-hatian: ketidakpastian ilmiah bukan alasan menunda tindakan",
+        "Pencemar membayar",
+        "Keadilan antargenerasi",
+        "Partisipatif"
+      ]
+    },
+    "caption": "Asas-asas ini tercantum dalam Pasal 2 UU 32/2009 bersama asas lain seperti tanggung jawab negara, keberlanjutan, dan kearifan lokal.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 2"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-amdal-fungsi",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Dokumen kajian dampak penting suatu rencana usaha terhadap lingkungan yang diperlukan dalam proses pengambilan keputusan disebut…",
+    "options": [
+      "UKL-UPL",
+      "AMDAL",
+      "SPPL",
+      "RTRW"
+    ],
+    "answerIndex": 1,
+    "explanation": "AMDAL untuk usaha berdampak penting. UKL-UPL untuk yang tidak berdampak penting; SPPL untuk usaha di luar keduanya. Setelah UU Cipta Kerja, AMDAL/UKL-UPL menjadi dasar persetujuan lingkungan.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 1 angka 11-12, Pasal 22"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-class-action-lh",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Masyarakat korban pencemaran yang jumlahnya banyak dan bernasib sama dapat mengajukan…",
+    "options": [
+      "Gugatan perwakilan kelompok (class action)",
+      "Legal standing organisasi",
+      "Permohonan uji materi",
+      "Praperadilan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 91 UU 32/2009. Hukum acaranya diatur PERMA No. 1 Tahun 2002 tentang Acara Gugatan Perwakilan Kelompok.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 91"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-hak-gugat-pemerintah",
+    "type": "review",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "front": "Siapa yang berwenang mengajukan gugatan ganti rugi dan tindakan tertentu atas kerusakan lingkungan yang merugikan lingkungan hidup (bukan kerugian pribadi)?",
+    "back": "Instansi pemerintah dan pemerintah daerah yang bertanggung jawab di bidang lingkungan hidup (Pasal 90 UU 32/2009).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 90"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-kehati-hatian",
+    "type": "humor",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "\"Belum ada bukti ilmiah pasti, jadi buang limbah dulu saja.\"",
+      "bottom": "Asas kehati-hatian: ketidakpastian ilmiah bukan alasan menunda pencegahan.",
+      "character": "gecko",
+      "expression": "shock"
+    },
+    "caption": "Asas kehati-hatian (precautionary principle) dalam hukum lingkungan.",
+    "teaches": "Ketidakpastian ilmiah tidak boleh dijadikan alasan menunda langkah meminimalkan ancaman kerusakan lingkungan.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 2 huruf f dan penjelasan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-story-lingkungan",
+    "type": "story",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "title": "3 jalur gugatan lingkungan",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Hukum lingkungan",
+          "title": "Siapa boleh menggugat?",
+          "character": "gecko",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pemerintah",
+          "sub": "Pasal 90: hak gugat instansi pemerintah."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Masyarakat",
+          "sub": "Pasal 91: gugatan perwakilan kelompok."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Organisasi LH",
+          "sub": "Pasal 92: tuntutan tindakan tertentu."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
+      "reference": "Pasal 90-92"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

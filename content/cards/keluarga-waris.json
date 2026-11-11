@@ -1,0 +1,629 @@
+[
+  {
+    "id": "keluarga-waris-definisi-perkawinan",
+    "type": "fact",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "quote",
+      "label": "Pasal 1 UU Perkawinan",
+      "text": "Ikatan lahir batin antara seorang pria dengan seorang wanita sebagai suami isteri dengan tujuan membentuk keluarga (rumah tangga) yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa.",
+      "footer": "Inti rumusan definisi perkawinan"
+    },
+    "caption": "Perhatikan unsur-unsurnya: lahir batin, pria-wanita, suami isteri, tujuan keluarga bahagia dan kekal, dasar Ketuhanan Yang Maha Esa. Rumusan di gambar adalah inti norma; cek teks resminya sebelum dikutip.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 1"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-syarat-sah-perkawinan",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut UU Perkawinan, kapan perkawinan dianggap sah?",
+    "options": [
+      "Setelah dicatat di kantor catatan sipil/KUA saja",
+      "Apabila dilakukan menurut hukum masing-masing agama dan kepercayaannya",
+      "Setelah resepsi dan ada saksi",
+      "Setelah mendapat izin orang tua"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 ayat (1): sah bila dilakukan menurut hukum agama dan kepercayaan masing-masing. Pasal 2 ayat (2): tiap perkawinan dicatat menurut peraturan perundang-undangan. Pencatatan penting untuk bukti dan perlindungan hukum.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 2 ayat (1) dan (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-usia-minimal-kawin",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Setelah perubahan tahun 2019, berapa usia minimal untuk menikah?",
+    "options": [
+      "Pria 19, wanita 16",
+      "Pria dan wanita 19 tahun",
+      "Pria dan wanita 21 tahun",
+      "Pria 21, wanita 18"
+    ],
+    "answerIndex": 1,
+    "explanation": "UU 16/2019 mengubah Pasal 7 ayat (1): perkawinan hanya diizinkan bila pria dan wanita sudah mencapai umur 19 tahun. Penyimpangan hanya lewat dispensasi pengadilan dengan alasan sangat mendesak dan bukti yang cukup.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 7 ayat (1) dan (2) sebagaimana diubah UU 16/2019"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-harta-bersama",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Gaji yang diterima suami selama perkawinan (tanpa perjanjian kawin) termasuk…",
+    "options": [
+      "Harta bawaan suami",
+      "Harta bersama",
+      "Harta warisan",
+      "Hadiah pribadi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 35 ayat (1): harta benda yang diperoleh selama perkawinan menjadi harta bersama. Harta bawaan dan harta yang diperoleh sebagai hadiah atau warisan tetap di bawah penguasaan masing-masing selama tidak ditentukan lain (Pasal 35 ayat (2)).",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 35"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-perjanjian-kawin-mk",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Setelah Putusan MK No. 69/PUU-XIII/2015, kapan perjanjian perkawinan boleh dibuat?",
+    "options": [
+      "Hanya sebelum perkawinan",
+      "Hanya saat perkawinan dilangsungkan",
+      "Sebelum, pada saat, atau selama dalam ikatan perkawinan",
+      "Hanya setelah cerai"
+    ],
+    "answerIndex": 2,
+    "explanation": "MK memperluas Pasal 29 ayat (1) UU Perkawinan sehingga perjanjian perkawinan juga dapat dibuat selama dalam ikatan perkawinan. Relevan untuk perkawinan campuran yang ingin memisahkan harta agar dapat memiliki tanah hak milik.",
+    "source": {
+      "title": "Putusan Mahkamah Konstitusi No. 69/PUU-XIII/2015",
+      "reference": "Putusan MK No. 69/PUU-XIII/2015 atas Pasal 29"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-anak-luar-kawin-mk",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Putusan MK No. 46/PUU-VIII/2010 menyatakan anak yang dilahirkan di luar perkawinan mempunyai hubungan perdata dengan…",
+    "options": [
+      "Ibunya saja",
+      "Ibunya dan keluarga ibunya saja",
+      "Ibu dan keluarga ibunya, serta ayahnya bila dapat dibuktikan dengan iptek dan/atau alat bukti lain",
+      "Negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "MK memaknai Pasal 43 ayat (1) UU Perkawinan secara bersyarat. Pembuktiannya bisa memakai ilmu pengetahuan dan teknologi (misalnya tes DNA) dan/atau alat bukti lain menurut hukum.",
+    "source": {
+      "title": "Putusan Mahkamah Konstitusi No. 46/PUU-VIII/2010",
+      "reference": "Putusan MK No. 46/PUU-VIII/2010 atas Pasal 43 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-perceraian-di-pengadilan",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut UU Perkawinan, perceraian hanya dapat dilakukan…",
+    "options": [
+      "Dengan pernyataan lisan di depan keluarga",
+      "Di depan sidang pengadilan setelah pengadilan gagal mendamaikan",
+      "Dengan surat dari kepala desa",
+      "Dengan kesepakatan tertulis notaris"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 39 ayat (1): perceraian hanya dapat dilakukan di depan sidang Pengadilan setelah Pengadilan berusaha dan tidak berhasil mendamaikan kedua pihak. Ayat (2): harus ada cukup alasan bahwa suami isteri tidak akan dapat hidup rukun.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 39"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-masa-tunggu",
+    "type": "fact",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "infographic",
+      "title": "Masa tunggu (iddah) janda",
+      "points": [
+        "Cerai mati: 130 hari",
+        "Cerai hidup, masih datang bulan: 3 kali suci, minimal 90 hari",
+        "Cerai hidup, tidak datang bulan: 90 hari",
+        "Sedang hamil: sampai melahirkan"
+      ]
+    },
+    "caption": "Diatur dalam peraturan pelaksana UU Perkawinan. Tidak ada masa tunggu bagi janda yang belum pernah bercampur dengan bekas suaminya (cerai sebelum dukhul).",
+    "source": {
+      "title": "PP No. 9 Tahun 1975 tentang Pelaksanaan UU Perkawinan",
+      "reference": "Pasal 39"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-alasan-poligami",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Mana yang BUKAN alasan pengadilan dapat memberi izin beristri lebih dari seorang menurut UU Perkawinan?",
+    "options": [
+      "Isteri tidak dapat menjalankan kewajiban sebagai isteri",
+      "Isteri mendapat cacat badan atau penyakit yang tidak dapat disembuhkan",
+      "Isteri tidak dapat melahirkan keturunan",
+      "Suami memiliki penghasilan sangat besar"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 4 ayat (2) menyebut tiga alasan. Selain alasan, ada syarat kumulatif dalam Pasal 5: persetujuan isteri, kepastian suami mampu menjamin keperluan hidup, dan jaminan berlaku adil. Penghasilan besar bukan alasan.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 4 ayat (2) dan Pasal 5"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-golongan-ahli-waris-bw",
+    "type": "fact",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "infographic",
+      "title": "4 golongan ahli waris menurut BW",
+      "points": [
+        "I: suami/isteri yang hidup terlama + anak & keturunannya",
+        "II: orang tua + saudara & keturunannya",
+        "III: keluarga sedarah garis lurus ke atas sesudah orang tua",
+        "IV: keluarga garis menyamping (sampai derajat keenam)"
+      ]
+    },
+    "caption": "Golongan yang lebih dekat menutup golongan yang lebih jauh. Dalam BW, suami/isteri yang hidup terlama disamakan dengan anak sah (Pasal 852a).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 832, 852, 852a, 854-861"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-pewarisan-karena-kematian",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut KUHPerdata, pewarisan terjadi karena…",
+    "options": [
+      "Perjanjian antara orang tua dan anak",
+      "Kematian",
+      "Putusan pengadilan",
+      "Pewaris berusia 60 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 830 KUHPerdata: pewarisan hanya berlangsung karena kematian. Membagi harta saat orang tua masih hidup secara hukum adalah hibah, bukan waris.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 830"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-legitime-portie",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Bagian warisan yang dijamin undang-undang bagi ahli waris garis lurus dan tidak dapat dikurangi dengan wasiat disebut…",
+    "options": [
+      "Inbreng",
+      "Legitime portie (bagian mutlak)",
+      "Boedel",
+      "Fideicommis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Legitime portie diatur mulai Pasal 913 KUHPerdata. Hibah atau wasiat yang melanggar bagian mutlak dapat dituntut pengurangannya (inkorting).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 913"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-anak-laki-perempuan-khi",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Menurut KHI, bila anak perempuan bersama-sama dengan anak laki-laki, perbandingan bagiannya adalah…",
+    "options": [
+      "1 : 1",
+      "Anak laki-laki 2 : anak perempuan 1",
+      "Anak laki-laki 3 : anak perempuan 1",
+      "Ditentukan musyawarah saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "KHI: anak perempuan bila hanya seorang mendapat 1/2, dua orang atau lebih bersama-sama 2/3; bila bersama anak laki-laki, bagian laki-laki dua berbanding satu. Ahli waris juga dapat bersepakat melakukan perdamaian pembagian setelah menyadari bagiannya.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 176 (dan Pasal 183 soal perdamaian)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-bagian-janda-khi",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris meninggalkan isteri dan anak. Berapa bagian isteri (janda) menurut KHI?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "1/3"
+    ],
+    "answerIndex": 2,
+    "explanation": "Janda mendapat 1/4 bila pewaris tidak meninggalkan anak, dan 1/8 bila pewaris meninggalkan anak. Duda: 1/2 bila tidak ada anak, 1/4 bila ada anak.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 179-180"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-batas-wasiat",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Menurut KHI, wasiat paling banyak sebesar… dari harta warisan, kecuali ahli waris menyetujui.",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "Tidak dibatasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Batas sepertiga untuk wasiat. Anak angkat dan orang tua angkat yang tidak menerima wasiat diberi wasiat wajibah, juga paling banyak 1/3.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 195 ayat (2) dan Pasal 209"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-jembatan-golongan-waris",
+    "type": "mnemonic",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Golongan waris BW",
+      "text": "PASANGAN-ANAK · ORTU-SAUDARA · KAKEK · SEPUPU",
+      "sub": "I, II, III, IV: makin jauh dari pewaris"
+    },
+    "caption": "Urutan golongan ahli waris BW dari yang paling dekat. Golongan di depan menutup golongan di belakangnya.",
+    "phrase": "ANAK-ORTU-KAKEK-SEPUPU",
+    "expansion": [
+      "I: pasangan + anak (keturunan)",
+      "II: orang tua + saudara",
+      "III: kakek-nenek dan seterusnya ke atas",
+      "IV: keluarga menyamping, mis. sepupu, sampai derajat 6"
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 852-861"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-hibah-bukan-waris",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "comic",
+      "title": "Waris atau hibah?",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Ayah: rumah ini Ayah wariskan ke kamu sekarang ya."
+        },
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Anak: tapi Ayah kan masih sehat?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Pak Hoot: kalau masih hidup itu hibah, bukan waris."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Ayah: oh, jadi perlu akta, bukan doa."
+        }
+      ]
+    },
+    "caption": "Pewarisan baru terjadi karena kematian. Peralihan semasa hidup adalah hibah, dengan aturan dan bentuknya sendiri.",
+    "teaches": "Pasal 830 KUHPerdata: pewarisan hanya berlangsung karena kematian; pemberian semasa hidup tunduk pada aturan hibah.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 830"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-usia-19",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "meme",
+      "top": "\"Umurku 17, udah siap nikah.\"",
+      "bottom": "UU 16/2019: \"Tunggu 19 dulu, Nak.\"",
+      "character": "owl",
+      "expression": "shock"
+    },
+    "caption": "Batas umur kawin pria dan wanita disamakan menjadi 19 tahun sejak perubahan UU Perkawinan tahun 2019.",
+    "teaches": "Pasal 7 ayat (1) UU Perkawinan setelah diubah UU 16/2019: umur minimal kawin 19 tahun bagi pria dan wanita.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 7 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-asas-monogami",
+    "type": "review",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "front": "Asas perkawinan dalam Pasal 3 ayat (1) UU Perkawinan?",
+    "back": "Asas monogami: seorang pria hanya boleh mempunyai seorang isteri dan sebaliknya. Pengecualian (beristri lebih dari seorang) hanya dengan izin pengadilan bila hukum agamanya mengizinkan dan alasan serta syaratnya terpenuhi (Pasal 3 ayat (2), 4, 5).",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 3"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-pembagian-waris-islam",
+    "type": "carousel",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Waris Islam",
+          "title": "Bagian pasti (furudh) yang sering keluar",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Anak perempuan",
+          "points": [
+            "Seorang: 1/2",
+            "Dua orang atau lebih: 2/3",
+            "Bersama anak laki-laki: 2 banding 1"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Suami (duda)",
+          "points": [
+            "Tanpa anak: 1/2",
+            "Ada anak: 1/4"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Isteri (janda)",
+          "points": [
+            "Tanpa anak: 1/4",
+            "Ada anak: 1/8"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Pewaris meninggalkan suami dan seorang anak. Bagian suami?",
+        "options": [
+          "1/2",
+          "1/4",
+          "1/8"
+        ],
+        "answerIndex": 1,
+        "explanation": "Suami mendapat 1/4 bila ada anak."
+      }
+    ],
+    "caption": "Ringkasan pecahan dasar menurut KHI. Kasus nyata bisa melibatkan hijab, aul, dan radd; cek ketentuan lengkapnya.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 176-180"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-reel-sah-dan-catat",
+    "type": "reel",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Sah menurut agama. Lalu?",
+        "caption": "Pasal 2 ayat (1) UU Perkawinan: perkawinan sah bila dilakukan menurut hukum agama dan kepercayaannya.",
+        "kicker": "Perkawinan",
+        "character": "cat",
+        "expression": "happy",
+        "characterMotion": "enter-right"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Wajib dicatat.",
+        "caption": "Pasal 2 ayat (2): tiap perkawinan dicatat menurut peraturan perundang-undangan.",
+        "textMotion": "pop",
+        "effect": "zoom"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Tanpa catatan, bukti dan perlindungan hukum lemah.",
+        "caption": "Akta perkawinan menjadi bukti otentik, penting untuk status anak, harta bersama, dan waris.",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Umur minimal: 19 tahun.",
+        "caption": "Sejak UU 16 Tahun 2019, batas umur pria dan wanita sama: 19 tahun.",
+        "textMotion": "slide-up",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Dua ayat Pasal 2 dan satu angka dari Pasal 7 yang paling sering ditanyakan.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 2 dan Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-story-harta-perkawinan",
+    "type": "story",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "title": "Harta dalam perkawinan",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Harta perkawinan",
+          "title": "Punya siapa harta ini?",
+          "character": "cat",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Harta bersama",
+          "sub": "Diperoleh selama perkawinan (Pasal 35 ayat (1))."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Harta bawaan",
+          "sub": "Dibawa masing-masing, termasuk hadiah dan warisan, tetap dikuasai masing-masing (Pasal 35 ayat (2))."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Perjanjian kawin",
+          "sub": "Bisa mengatur lain; setelah Putusan MK 69/2015 bisa dibuat juga selama perkawinan."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 35 dan Pasal 29"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-poll-cerai-lisan",
+    "type": "poll",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Suami mengucapkan talak di rumah tanpa ke pengadilan. Menurut UU Perkawinan, apakah perceraian itu sudah berakibat hukum?",
+    "options": [
+      "Sudah, karena sah menurut agama",
+      "Belum, perceraian hanya dapat dilakukan di depan sidang pengadilan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 39 ayat (1) UU Perkawinan mensyaratkan perceraian di depan sidang pengadilan. Bagi yang beragama Islam, perkaranya di Pengadilan Agama.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
+      "reference": "Pasal 39 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

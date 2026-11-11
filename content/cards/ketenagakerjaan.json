@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ketenagakerjaan-pkwt-percobaan",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Bolehkah perjanjian kerja waktu tertentu (PKWT) mensyaratkan masa percobaan kerja?",
+    "options": [
+      "Boleh, maksimal 3 bulan",
+      "Boleh, maksimal 6 bulan",
+      "Tidak boleh; jika disyaratkan, batal demi hukum",
+      "Boleh bila disepakati tertulis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 58 UU 13/2003: PKWT tidak dapat mensyaratkan masa percobaan; jika disyaratkan, batal demi hukum dan masa kerja tetap dihitung. Masa percobaan (maks. 3 bulan, Pasal 60) hanya untuk PKWTT.",
+    "source": {
+      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
+      "reference": "Pasal 58, 60"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-unsur-hubungan-kerja",
+    "type": "fact",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "infographic",
+      "title": "Unsur hubungan kerja",
+      "points": [
+        "Pekerjaan",
+        "Upah",
+        "Perintah"
+      ]
+    },
+    "caption": "Hubungan kerja adalah hubungan pengusaha dan pekerja berdasarkan perjanjian kerja yang mempunyai unsur pekerjaan, upah, dan perintah (Pasal 1 angka 15 UU 13/2003).",
+    "source": {
+      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
+      "reference": "Pasal 1 angka 15"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-jenis-perselisihan",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Menurut UU 2/2004, jenis perselisihan hubungan industrial ada…",
+    "options": [
+      "2: hak dan kepentingan",
+      "3: hak, kepentingan, PHK",
+      "4: hak, kepentingan, PHK, antar serikat pekerja dalam satu perusahaan",
+      "5: termasuk perselisihan upah minimum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 2 UU 2/2004 menyebut empat jenis perselisihan.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 2"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-bipartit-30",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Perundingan bipartit wajib diselesaikan paling lama…",
+    "options": [
+      "7 hari kerja",
+      "14 hari kerja",
+      "30 hari kerja",
+      "60 hari kerja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 3 UU 2/2004: 30 hari kerja sejak dimulai. Bila gagal atau salah satu pihak menolak berunding, perundingan bipartit dianggap gagal.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 3"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-arbitrase-phi",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Arbitrase hubungan industrial hanya dapat menyelesaikan perselisihan…",
+    "options": [
+      "Hak dan PHK",
+      "Kepentingan dan antar serikat pekerja dalam satu perusahaan",
+      "Semua jenis perselisihan",
+      "PHK saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Arbitrase dan konsiliasi tidak untuk perselisihan hak. Mediasi dapat menangani keempat jenis perselisihan.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 1 angka 13-15"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-upaya-hukum-phi",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "question": "Putusan Pengadilan Hubungan Industrial yang bersifat akhir dan tetap (tidak dapat dikasasi) adalah putusan mengenai perselisihan…",
+    "options": [
+      "Hak",
+      "PHK",
+      "Kepentingan dan antar serikat pekerja dalam satu perusahaan",
+      "Semua jenis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 109 UU 2/2004. Untuk perselisihan hak dan PHK, kasasi dapat diajukan ke Mahkamah Agung (Pasal 110).",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 109-110"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-phi-pengadilan-khusus",
+    "type": "fact",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "infographic",
+      "title": "Pengadilan Hubungan Industrial",
+      "points": [
+        "Pengadilan khusus di lingkungan peradilan umum",
+        "Dibentuk di PN di ibu kota provinsi",
+        "Majelis: hakim karier + 2 hakim ad hoc (unsur pekerja & pengusaha)"
+      ]
+    },
+    "caption": "Gugatan ke PHI wajib dilampiri risalah mediasi atau konsiliasi; tanpa itu hakim mengembalikan gugatan.",
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 55, 59, 83"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-mogok-hak",
+    "type": "review",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "front": "Apakah mogok kerja merupakan hak pekerja?",
+    "back": "Ya. Mogok kerja adalah hak dasar pekerja/buruh dan serikat pekerja yang dilakukan secara sah, tertib, dan damai sebagai akibat gagalnya perundingan (Pasal 137 UU 13/2003).",
+    "source": {
+      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
+      "reference": "Pasal 137"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-poll-pkwt",
+    "type": "poll",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Pekerjaan inti yang bersifat tetap dan terus-menerus idealnya memakai perjanjian…",
+    "options": [
+      "PKWT (kontrak)",
+      "PKWTT (tetap)"
+    ],
+    "answerIndex": 1,
+    "explanation": "PKWT dibatasi untuk pekerjaan yang menurut jenis dan sifatnya akan selesai dalam waktu tertentu. Rincian setelah UU Cipta Kerja diatur PP 35/2021; cek ketentuan terbaru.",
+    "source": {
+      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
+      "reference": "Pasal 59"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-percobaan-kontrak",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "comic",
+      "title": "Kontrak rasa coba-coba",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "HRD: kontrak 1 tahun, 3 bulan pertama masa percobaan ya."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pelamar: PKWT tidak boleh masa percobaan, Pak."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "HRD: dari mana tahu?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pelamar: Pasal 58 UU Ketenagakerjaan."
+        }
+      ]
+    },
+    "caption": "Masa percobaan dalam PKWT batal demi hukum.",
+    "teaches": "PKWT tidak dapat mensyaratkan masa percobaan (Pasal 58 UU 13/2003).",
+    "source": {
+      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
+      "reference": "Pasal 58"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-story-phi",
+    "type": "story",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phi",
+    "account": "buruh.paham",
+    "title": "Alur sengketa kerja",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Alur PHI",
+          "title": "Ada sengketa kerja?",
+          "character": "cat",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "1. Bipartit",
+          "sub": "Wajib, maksimal 30 hari kerja."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "2. Tripartit",
+          "sub": "Mediasi, konsiliasi, atau arbitrase."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "3. Pengadilan HI",
+          "sub": "Gugatan dilampiri risalah mediasi/konsiliasi."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "4. Kasasi",
+          "sub": "Hanya untuk perselisihan hak dan PHK."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "reference": "Pasal 3-4, 83, 109-110"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

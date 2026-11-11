@@ -1,0 +1,271 @@
+[
+  {
+    "id": "agraria-macam-hak-atas-tanah",
+    "type": "fact",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "infographic",
+      "title": "Hak atas tanah (Pasal 16 UUPA)",
+      "points": [
+        "Hak milik",
+        "Hak guna usaha (HGU)",
+        "Hak guna bangunan (HGB)",
+        "Hak pakai",
+        "Hak sewa, membuka tanah, memungut hasil hutan"
+      ]
+    },
+    "caption": "Daftar Pasal 16 ayat (1) UUPA. Hak yang sifatnya sementara (gadai, usaha bagi hasil, menumpang, sewa tanah pertanian) diatur Pasal 53.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 16 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-subjek-hak-milik",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Menurut UUPA, yang dapat mempunyai hak milik atas tanah pada prinsipnya adalah…",
+    "options": [
+      "Setiap orang yang tinggal di Indonesia",
+      "Hanya warga negara Indonesia",
+      "WNI dan WNA yang menikah dengan WNI",
+      "Semua badan hukum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 21 ayat (1): hanya WNI. Badan hukum hanya yang ditetapkan pemerintah (ayat 2). WNA yang memperoleh hak milik karena pewarisan/percampuran harta wajib melepaskannya dalam 1 tahun (ayat 3).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 21"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hak-milik-terkuat",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Hak atas tanah yang bersifat turun-temurun, terkuat, dan terpenuh adalah…",
+    "options": [
+      "Hak guna usaha",
+      "Hak guna bangunan",
+      "Hak milik",
+      "Hak pakai"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20 ayat (1) UUPA. \"Terkuat dan terpenuh\" membedakannya dari hak lain, tetapi tetap tunduk pada fungsi sosial (Pasal 6).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 20 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-jangka-hgb-uupa",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Menurut rumusan asli UUPA, HGB diberikan paling lama … tahun dan dapat diperpanjang paling lama … tahun.",
+    "options": [
+      "25; 20",
+      "30; 20",
+      "35; 25",
+      "60; 0"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 35 UUPA: 30 tahun, perpanjangan paling lama 20 tahun. Peraturan pelaksana terbaru (PP 18/2021) mengatur jangka pemberian, perpanjangan, dan pembaruan secara lebih rinci; cek peraturan yang berlaku.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 35"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-fungsi-sosial",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "\"Semua hak atas tanah mempunyai fungsi sosial.\" Ketentuan ini terdapat dalam UUPA pasal…",
+    "options": [
+      "Pasal 2",
+      "Pasal 5",
+      "Pasal 6",
+      "Pasal 10"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 6 UUPA. Pasal 2 mengatur hak menguasai negara, Pasal 5 hukum adat sebagai dasar hukum agraria, Pasal 10 kewajiban mengerjakan tanah pertanian secara aktif.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 6"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hak-menguasai-negara",
+    "type": "fact",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "infographic",
+      "title": "Hak menguasai negara (Pasal 2 UUPA)",
+      "points": [
+        "Mengatur peruntukan, penggunaan, persediaan, pemeliharaan",
+        "Menentukan hubungan hukum orang dengan bumi, air, ruang angkasa",
+        "Menentukan hubungan hukum & perbuatan hukum mengenai agraria"
+      ]
+    },
+    "caption": "Negara bukan pemilik tanah, melainkan organisasi kekuasaan seluruh rakyat yang menguasai. Konsep domein verklaring kolonial (tanah tak terbukti milik = milik negara) ditinggalkan UUPA.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 2 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hukum-adat-dasar",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Hukum agraria yang berlaku atas bumi, air, dan ruang angkasa menurut UUPA ialah…",
+    "options": [
+      "Hukum perdata Barat (BW Buku II)",
+      "Hukum adat, sepanjang tidak bertentangan dengan kepentingan nasional",
+      "Hukum Islam",
+      "Hukum internasional"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 5 UUPA: hukum adat dengan sejumlah syarat (tidak bertentangan dengan kepentingan nasional, sosialisme Indonesia, peraturan UUPA, dan unsur agama). Buku II BW sepanjang mengenai bumi, air, dan kekayaan alam dicabut.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 5"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-absentee",
+    "type": "review",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "front": "Apa yang dimaksud larangan tanah absentee (guntai)?",
+    "back": "Pemilikan tanah pertanian oleh orang yang bertempat tinggal di luar kecamatan letak tanah. Dasarnya kewajiban mengerjakan tanah pertanian secara aktif oleh pemiliknya sendiri (Pasal 10 UUPA); larangan rincinya diatur peraturan pelaksana landreform.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 10"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-mnemonik-hak-tanah",
+    "type": "mnemonic",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Hak atas tanah utama",
+      "text": "MU-BAN-PAK",
+      "sub": "Milik, gUna usaha, gUna BANgunan, PAKai"
+    },
+    "caption": "Empat hak primer yang paling sering ditanya, berurutan dari yang terkuat.",
+    "phrase": "MU-BAN-PAK",
+    "expansion": [
+      "MU: hak Milik dan hak gUna Usaha",
+      "BAN: hak guna BANgunan",
+      "PAK: hak PAKai"
+    ],
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 16"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hgu-bukan-milik",
+    "type": "humor",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "meme",
+      "top": "\"Kebun ini HGU saya, jadi saya wariskan selamanya.\"",
+      "bottom": "HGU itu berjangka waktu. Yang turun-temurun tanpa batas waktu: hak milik.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "HGU adalah hak mengusahakan tanah negara untuk pertanian/perkebunan dengan jangka waktu tertentu (Pasal 28-29 UUPA).",
+    "teaches": "HGU dibatasi jangka waktu; hanya hak milik yang turun-temurun, terkuat, dan terpenuh.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 20, 28, 29"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-story-uupa",
+    "type": "story",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "title": "UUPA dalam 4 slide",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Undang-undang agraria",
+          "title": "UUPA 1960",
+          "character": "gecko",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "24 September",
+          "sub": "Tanggal UUPA diundangkan; kini diperingati sebagai Hari Tani Nasional."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Fungsi sosial",
+          "sub": "Pasal 6: hak atas tanah tidak boleh dipakai semata untuk kepentingan pribadi."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Hanya WNI",
+          "sub": "Pasal 9 dan 21: asas nasionalitas, hak milik hanya untuk WNI."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 6, 9, 21"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

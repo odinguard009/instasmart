@@ -1,6 +1,6 @@
 # Instasmart
 
-Instasmart mengubah kebiasaan doom-scrolling menjadi smart-scrolling. Tampilannya seperti Instagram (feed foto, carousel, stories, reels, kuis, polling, komentar netizen), tetapi seluruh isinya materi hukum untuk persiapan seleksi calon hakim, dikemas dengan humor. Bedanya yang paling penting: feed-nya punya ujung.
+Instasmart mengubah kebiasaan doom-scrolling menjadi smart-scrolling. Tampilannya seperti Instagram (feed foto, carousel, stories, reels, kuis, polling, komentar netizen), tetapi seluruh isinya materi belajar: ilmu hukum (persiapan seleksi calon hakim) dan persiapan SKD CPNS (TWK, TIU, TKP), dikemas dengan humor. Feed-nya tanpa batas, tetapi setiap item berisi materi yang dijadwalkan ulang dengan SM-2.
 
 - PWA: bisa dipasang dari Chrome Android dan berjalan offline.
 - Tanpa backend dan tanpa akun. Progres tersimpan di perangkat (localStorage) dan bisa diekspor/diimpor sebagai JSON.
@@ -13,7 +13,7 @@ Instasmart mengubah kebiasaan doom-scrolling menjadi smart-scrolling. Tampilanny
 | Tab | Isi |
 | --- | --- |
 | Beranda | Baris Stories (3 per hari), feed tanpa batas (paket baru dimuat otomatis), penanda "Target harian tercapai" setelah 20 item (bisa diatur) |
-| Jelajah | Grid seluruh pustaka, pencarian teks, filter format dan topik |
+| Jelajah | Grid seluruh pustaka, pencarian teks, filter kelompok (Ilmu Hukum / CPNS), format, dan topik |
 | Reels | Reel hari ini, layar penuh, snap per item, lalu kartu penutup |
 | Favorit | Koleksi pribadi (disukai/disimpan) per topik |
 | Profil | Streak, statistik, akurasi per sub-topik, topik terlemah, pengaturan, cadangan JSON, pintu ke Review |

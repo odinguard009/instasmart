@@ -1,7 +1,7 @@
 /** Soal pilihan ganda interaktif: dipakai kuis, polling, slide kuis carousel, dan tantangan cepat. */
-import { SM2_QUALITY } from '@/config/feed';
-import type { ChoiceQuestion, PaletteId } from '@/content/schema';
 import { Icon } from '@/components/Icon';
+import type { ChoiceQuestion, PaletteId } from '@/content/schema';
+import { gradeChoice } from '@/domain/grading';
 import { useActions, useStore } from '@/state/store';
 import { PALETTES } from '@/visuals/palettes';
 
@@ -23,18 +23,14 @@ export function QuestionBlock({ question, cardId, answerKey, topicPalette, varia
   const { recordAnswer } = useActions();
   const palette = PALETTES[topicPalette];
   const answered = selected !== undefined;
-  const isCorrect = selected === question.answerIndex;
+  const grade = answered ? gradeChoice(question, selected) : undefined;
+  const isCorrect = grade?.correct ?? false;
+  const graded = question.scores !== undefined;
 
   const choose = (index: number) => {
     if (answered) return;
-    const correct = index === question.answerIndex;
-    recordAnswer({
-      answerKey,
-      cardId,
-      selected: index,
-      correct,
-      quality: schedule ? (correct ? SM2_QUALITY.quizCorrect : SM2_QUALITY.quizWrong) : undefined,
-    });
+    const { correct, quality } = gradeChoice(question, index);
+    recordAnswer({ answerKey, cardId, selected: index, correct, quality: schedule ? quality : undefined });
   };
 
   return (
@@ -43,13 +39,14 @@ export function QuestionBlock({ question, cardId, answerKey, topicPalette, varia
       style={{ background: `linear-gradient(160deg, ${palette.bg}, ${palette.bgDeep})`, color: palette.ink }}
     >
       <p className="w-fit rounded-full px-3 py-1 text-xs font-extrabold uppercase tracking-wider" style={{ background: palette.accent, color: palette.accentInk }}>
-        {variant === 'poll' ? 'Kamu pilih mana?' : 'Kuis'}
+        {variant === 'poll' ? 'Kamu pilih mana?' : graded ? 'Soal TKP · skor 1-5' : 'Kuis'}
       </p>
       <h3 className="text-xl font-extrabold leading-snug">{question.question}</h3>
       <div className="mt-1 space-y-2.5">
         {question.options.map((option, index) => {
           const right = answered && index === question.answerIndex;
-          const wrong = answered && index === selected && !isCorrect;
+          const wrong = answered && index === selected && index !== question.answerIndex;
+          const score = answered ? question.scores?.[index] : undefined;
           return (
             <button
               key={index}
@@ -63,14 +60,23 @@ export function QuestionBlock({ question, cardId, answerKey, topicPalette, varia
               <span className="grid h-7 w-7 shrink-0 place-items-center rounded-full bg-black/10 text-sm font-bold">
                 {right ? <Icon name="check" className="h-4 w-4" /> : wrong ? <Icon name="close" className="h-4 w-4" /> : String.fromCharCode(65 + index)}
               </span>
-              <span>{option}</span>
+              <span className="flex-1">{option}</span>
+              {score !== undefined && <span className="shrink-0 rounded-full bg-black/15 px-2 py-0.5 text-xs font-bold">Skor {score}</span>}
             </button>
           );
         })}
       </div>
       {answered && (
         <div className="animate-fade-up rounded-xl bg-black/35 p-3.5 text-sm leading-relaxed" role="status">
-          <p className="font-bold">{isCorrect ? 'Tepat!' : variant === 'poll' ? 'Jawaban yang tepat berbeda:' : 'Belum tepat.'}</p>
+          <p className="font-bold">
+            {grade?.score !== undefined
+              ? `Skor pilihanmu ${grade.score} dari 5${grade.score === 5 ? '. Terbaik!' : isCorrect ? '. Cukup baik.' : '.'}`
+              : isCorrect
+                ? 'Tepat!'
+                : variant === 'poll'
+                  ? 'Jawaban yang tepat berbeda:'
+                  : 'Belum tepat.'}
+          </p>
           <p className="mt-1">{question.explanation}</p>
         </div>
       )}

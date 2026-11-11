@@ -1,0 +1,403 @@
+[
+  {
+    "id": "internasional-sumber-pasal-38",
+    "type": "fact",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "infographic",
+      "title": "Sumber hukum internasional (Pasal 38 ayat 1 Statuta ICJ)",
+      "points": [
+        "Perjanjian internasional",
+        "Kebiasaan internasional",
+        "Prinsip hukum umum yang diakui bangsa beradab",
+        "Putusan pengadilan & ajaran ahli (sumber tambahan)"
+      ]
+    },
+    "caption": "Putusan pengadilan dan doktrin hanya \"subsidiary means\" untuk menentukan hukum. Ayat (2) memungkinkan ICJ memutus ex aequo et bono bila para pihak setuju.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (ICJ Statute)",
+      "reference": "Pasal 38 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-unsur-kebiasaan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Dua unsur kebiasaan internasional adalah…",
+    "options": [
+      "Praktik negara yang umum (usus) dan opinio juris sive necessitatis",
+      "Perjanjian tertulis dan ratifikasi",
+      "Putusan ICJ dan resolusi Majelis Umum",
+      "Doktrin dan prinsip umum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kebiasaan internasional lahir dari praktik negara yang konsisten dan umum (unsur material) disertai keyakinan bahwa praktik itu diwajibkan hukum (opinio juris, unsur psikologis).",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (ICJ Statute)",
+      "reference": "Pasal 38 ayat (1) huruf b dan doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-pacta-sunt-servanda-hi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "\"Setiap perjanjian yang berlaku mengikat para pihak dan harus dilaksanakan dengan itikad baik.\" Asas ini tercantum dalam Konvensi Wina 1969 pasal…",
+    "options": [
+      "Pasal 2",
+      "Pasal 26",
+      "Pasal 53",
+      "Pasal 62"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 26 VCLT: pacta sunt servanda. Pasal 53 tentang jus cogens (norma memaksa), Pasal 62 tentang perubahan keadaan yang fundamental (rebus sic stantibus).",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Pasal 26"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-jus-cogens",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Perjanjian internasional yang bertentangan dengan norma dasar hukum internasional umum yang tidak boleh disimpangi (misalnya larangan genosida) adalah…",
+    "options": [
+      "Tetap sah bila diratifikasi",
+      "Batal (void)",
+      "Dapat dibatalkan oleh ICJ saja",
+      "Ditangguhkan 5 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 53 VCLT: perjanjian batal bila saat dibuat bertentangan dengan peremptory norm (jus cogens).",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Pasal 53"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-rebus-sic-stantibus",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Negara ingin mengakhiri perjanjian karena terjadi perubahan keadaan yang mendasar dan tidak terduga. Asas yang dirujuk adalah…",
+    "options": [
+      "Pacta sunt servanda",
+      "Rebus sic stantibus",
+      "Pacta tertiis nec nocent nec prosunt",
+      "Uti possidetis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rebus sic stantibus (Pasal 62 VCLT) dapat dipakai dengan syarat ketat dan tidak berlaku untuk perjanjian penetapan batas wilayah.",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Pasal 62"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-unsur-negara-montevideo",
+    "type": "fact",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "infographic",
+      "title": "Unsur negara (Konvensi Montevideo 1933)",
+      "points": [
+        "Penduduk tetap",
+        "Wilayah tertentu",
+        "Pemerintahan",
+        "Kemampuan berhubungan dengan negara lain"
+      ]
+    },
+    "caption": "Pengakuan negara lain bukan unsur dalam rumusan ini. Teori deklaratif: pengakuan hanya menyatakan negara yang sudah ada; teori konstitutif: pengakuan yang membuat negara menjadi subjek hukum internasional.",
+    "source": {
+      "title": "Konvensi Montevideo 1933 tentang Hak dan Kewajiban Negara",
+      "reference": "Pasal 1"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-prinsip-yurisdiksi",
+    "type": "fact",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "infographic",
+      "title": "Prinsip yurisdiksi pidana negara",
+      "points": [
+        "Teritorial: tempat perbuatan",
+        "Nasionalitas aktif: pelaku warga negaranya",
+        "Nasionalitas pasif: korban warga negaranya",
+        "Protektif: kepentingan vital negara",
+        "Universal: kejahatan serius (mis. perompakan)"
+      ]
+    },
+    "caption": "Prinsip universal memungkinkan setiap negara mengadili kejahatan tertentu tanpa kaitan wilayah atau kewarganegaraan. KUHP Indonesia juga memuat asas-asas berlakunya hukum pidana yang serupa.",
+    "source": {
+      "title": "Doktrin hukum internasional",
+      "reference": "Doktrin hukum internasional"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-zona-laut",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut UNCLOS 1982, lebar laut teritorial paling jauh … dari garis pangkal.",
+    "options": [
+      "3 mil laut",
+      "12 mil laut",
+      "24 mil laut",
+      "200 mil laut"
+    ],
+    "answerIndex": 1,
+    "explanation": "Laut teritorial maks. 12 mil laut, zona tambahan maks. 24 mil laut, ZEE maks. 200 mil laut dari garis pangkal. Indonesia meratifikasi UNCLOS dengan UU No. 17 Tahun 1985.",
+    "source": {
+      "title": "UNCLOS 1982 (Konvensi PBB tentang Hukum Laut)",
+      "reference": "Pasal 3, 33, 57"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-persona-non-grata",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Negara penerima tidak lagi menghendaki seorang diplomat asing. Tindakan yang dapat diambil tanpa memberi alasan adalah…",
+    "options": [
+      "Menangkap dan mengadilinya",
+      "Menyatakannya persona non grata",
+      "Menyita kedutaan",
+      "Mencabut kewarganegaraannya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 9 Konvensi Wina 1961 tentang Hubungan Diplomatik: negara penerima dapat sewaktu-waktu menyatakan diplomat persona non grata tanpa wajib menjelaskan alasannya. Diplomat menikmati kekebalan dari yurisdiksi pidana negara penerima.",
+    "source": {
+      "title": "Konvensi Wina 1961 tentang Hubungan Diplomatik",
+      "reference": "Pasal 9"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-monisme-dualisme",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Aliran yang memandang hukum internasional dan hukum nasional sebagai dua sistem hukum yang terpisah disebut…",
+    "options": [
+      "Monisme",
+      "Dualisme",
+      "Positivisme",
+      "Naturalisme"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dualisme: dua sistem terpisah sehingga hukum internasional perlu ditransformasikan agar berlaku di dalam negeri. Monisme: satu kesatuan sistem, dengan varian primat hukum internasional atau primat hukum nasional.",
+    "source": {
+      "title": "Doktrin hukum internasional",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-uu-perjanjian-internasional",
+    "type": "review",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "front": "Undang-undang Indonesia yang mengatur pembuatan dan pengesahan perjanjian internasional?",
+    "back": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional. Pengesahan dilakukan dengan undang-undang (untuk materi tertentu, mis. politik, perdamaian, pertahanan, batas wilayah) atau dengan peraturan presiden.",
+    "source": {
+      "title": "UU No. 24 Tahun 2000 tentang Perjanjian Internasional",
+      "reference": "Pasal 9-11"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-pacta-tertiis",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "comic",
+      "title": "Perjanjian pihak ketiga",
+      "panels": [
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Negara A dan B: kami sepakat, Negara C wajib bayar."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Negara C: lho, saya tidak ikut tanda tangan."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Cika: pacta tertiis nec nocent nec prosunt."
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Negara C: artinya saya aman, kan?"
+        }
+      ]
+    },
+    "caption": "Perjanjian tidak membebani atau memberi hak kepada negara ketiga tanpa persetujuannya (Pasal 34 VCLT).",
+    "teaches": "Asas pacta tertiis nec nocent nec prosunt dalam Pasal 34 Konvensi Wina 1969.",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Pasal 34"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-reel-zona-laut",
+    "type": "reel",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Dari garis pangkal, kita berlayar.",
+        "caption": "UNCLOS 1982 membagi laut menjadi zona-zona dengan hak berbeda.",
+        "kicker": "Hukum laut",
+        "character": "owl",
+        "expression": "happy",
+        "characterMotion": "enter-left",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 4500,
+        "text": "12 mil: laut teritorial.",
+        "caption": "Negara pantai berdaulat penuh, dengan hak lintas damai bagi kapal asing.",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4500,
+        "text": "24 mil: zona tambahan.",
+        "caption": "Negara pantai dapat mengawasi untuk mencegah pelanggaran bea cukai, fiskal, imigrasi, dan sanitasi.",
+        "textMotion": "slide-up"
+      },
+      {
+        "durationMs": 4500,
+        "text": "200 mil: ZEE.",
+        "caption": "Hak berdaulat atas sumber daya alam, bukan kedaulatan penuh.",
+        "effect": "zoom"
+      }
+    ],
+    "caption": "Tiga angka hukum laut yang sering keluar.",
+    "source": {
+      "title": "UNCLOS 1982 (Konvensi PBB tentang Hukum Laut)",
+      "reference": "Pasal 3, 33, 57"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-story-sumber-hi",
+    "type": "story",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "title": "Sumber hukum internasional",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Pasal 38 Statuta ICJ",
+          "title": "Hukum internasional bersumber dari mana?",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Perjanjian",
+          "sub": "Mengikat negara yang menjadi pihak."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Kebiasaan",
+          "sub": "Praktik umum + opinio juris."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Prinsip hukum umum",
+          "sub": "Diakui bangsa-bangsa beradab, mis. itikad baik."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Putusan & doktrin",
+          "sub": "Sumber tambahan untuk menemukan hukum."
+        }
+      }
+    ],
+    "source": {
+      "title": "Statuta Mahkamah Internasional (ICJ Statute)",
+      "reference": "Pasal 38 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-poll-pengakuan",
+    "type": "poll",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut teori deklaratif, apakah suatu negara baru ada hanya setelah diakui negara lain?",
+    "options": [
+      "Ya, pengakuan yang melahirkan negara",
+      "Tidak, pengakuan hanya menyatakan negara yang sudah memenuhi unsur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Itu teori deklaratif. Teori konstitutif berpendapat sebaliknya.",
+    "source": {
+      "title": "Doktrin hukum internasional",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

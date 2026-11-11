@@ -182,8 +182,8 @@ describe('pengaturan, streak, statistik', () => {
     const b = makeCard('quiz', 'b', { topicId: 't2', subTopicId: 's2' });
     const progress = { a: { seenCount: 1, lastSeen: TODAY, correct: 1, wrong: 3 }, b: { seenCount: 1, lastSeen: TODAY, correct: 4, wrong: 0 } };
     const topics = [
-      { id: 't1', name: 'T1', shortName: 'T1', palette: 'bata' as const, subTopics: [{ id: 's1', name: 'S1' }, { id: 's9', name: 'S9' }] },
-      { id: 't2', name: 'T2', shortName: 'T2', palette: 'laut' as const, subTopics: [{ id: 's2', name: 'S2' }] },
+      { id: 't1', group: 'hukum' as const, name: 'T1', shortName: 'T1', palette: 'bata' as const, subTopics: [{ id: 's1', name: 'S1' }, { id: 's9', name: 'S9' }] },
+      { id: 't2', group: 'hukum' as const, name: 'T2', shortName: 'T2', palette: 'laut' as const, subTopics: [{ id: 's2', name: 'S2' }] },
     ];
     const rows = accuracyBySubTopic(topics, [a, b], progress);
     expect(rows.map((row) => row.ratio)).toEqual([0.25, null, 1]);

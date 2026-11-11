@@ -1,86 +1,525 @@
 [
   {
     "id": "perdata",
+    "group": "hukum",
     "name": "Hukum Perdata",
     "shortName": "Perdata",
     "palette": "bata",
     "subTopics": [
-      { "id": "perjanjian", "name": "Perikatan & Perjanjian" },
-      { "id": "pmh", "name": "Perbuatan Melawan Hukum" },
-      { "id": "bukti-daluwarsa", "name": "Pembuktian & Daluwarsa" }
+      {
+        "id": "perjanjian",
+        "name": "Perikatan & Perjanjian"
+      },
+      {
+        "id": "pmh",
+        "name": "Perbuatan Melawan Hukum"
+      },
+      {
+        "id": "bukti-daluwarsa",
+        "name": "Pembuktian & Daluwarsa"
+      }
     ]
   },
   {
     "id": "acara-perdata",
+    "group": "hukum",
     "name": "Hukum Acara Perdata",
     "shortName": "Acara Perdata",
     "palette": "laut",
     "subTopics": [
-      { "id": "gugatan-kompetensi", "name": "Gugatan & Kompetensi" },
-      { "id": "pembuktian-putusan", "name": "Pembuktian & Putusan" },
-      { "id": "upaya-hukum", "name": "Upaya Hukum & Eksekusi" }
+      {
+        "id": "gugatan-kompetensi",
+        "name": "Gugatan & Kompetensi"
+      },
+      {
+        "id": "pembuktian-putusan",
+        "name": "Pembuktian & Putusan"
+      },
+      {
+        "id": "upaya-hukum",
+        "name": "Upaya Hukum & Eksekusi"
+      }
     ]
   },
   {
     "id": "pidana",
+    "group": "hukum",
     "name": "Hukum Pidana",
     "shortName": "Pidana",
     "palette": "anggur",
     "subTopics": [
-      { "id": "asas-umum", "name": "Asas & Aturan Umum KUHP Nasional" },
-      { "id": "pemidanaan", "name": "Pidana & Pemidanaan" }
+      {
+        "id": "asas-umum",
+        "name": "Asas & Aturan Umum KUHP Nasional"
+      },
+      {
+        "id": "pemidanaan",
+        "name": "Pidana & Pemidanaan"
+      }
     ]
   },
   {
     "id": "acara-pidana",
+    "group": "hukum",
     "name": "Hukum Acara Pidana",
     "shortName": "Acara Pidana",
     "palette": "arang",
     "subTopics": [
-      { "id": "kuhap-baru", "name": "KUHAP Baru (UU 20/2025)" },
-      { "id": "asas-peradilan-pidana", "name": "Asas Peradilan Pidana" }
+      {
+        "id": "kuhap-baru",
+        "name": "KUHAP Baru (UU 20/2025)"
+      },
+      {
+        "id": "asas-peradilan-pidana",
+        "name": "Asas Peradilan Pidana"
+      }
     ]
   },
   {
     "id": "htn",
+    "group": "hukum",
     "name": "Hukum Tata Negara & Konstitusi (UUD 1945)",
     "shortName": "Tata Negara",
     "palette": "emas",
     "subTopics": [
-      { "id": "lembaga-negara", "name": "Lembaga Negara" },
-      { "id": "kekuasaan-kehakiman", "name": "Kekuasaan Kehakiman" },
-      { "id": "perundang-undangan", "name": "Peraturan Perundang-undangan" }
+      {
+        "id": "lembaga-negara",
+        "name": "Lembaga Negara"
+      },
+      {
+        "id": "kekuasaan-kehakiman",
+        "name": "Kekuasaan Kehakiman"
+      },
+      {
+        "id": "perundang-undangan",
+        "name": "Peraturan Perundang-undangan"
+      }
     ]
   },
   {
     "id": "han-ptun",
+    "group": "hukum",
     "name": "Hukum Administrasi Negara & PTUN",
     "shortName": "HAN & PTUN",
     "palette": "toska",
     "subTopics": [
-      { "id": "ktun-gugatan", "name": "KTUN & Gugatan" },
-      { "id": "aupb-wewenang", "name": "AUPB & Wewenang" }
+      {
+        "id": "ktun-gugatan",
+        "name": "KTUN & Gugatan"
+      },
+      {
+        "id": "aupb-wewenang",
+        "name": "AUPB & Wewenang"
+      }
     ]
   },
   {
     "id": "etika-hakim",
+    "group": "hukum",
     "name": "Kode Etik dan Pedoman Perilaku Hakim",
     "shortName": "Etika Hakim",
     "palette": "hutan",
     "subTopics": [
-      { "id": "kepph", "name": "Kode Etik (KEPPH)" },
-      { "id": "asas-peradilan", "name": "Asas Penyelenggaraan Peradilan" }
+      {
+        "id": "kepph",
+        "name": "Kode Etik (KEPPH)"
+      },
+      {
+        "id": "asas-peradilan",
+        "name": "Asas Penyelenggaraan Peradilan"
+      }
     ]
   },
   {
     "id": "kebangsaan",
+    "group": "cpns",
     "name": "Wawasan Kebangsaan (Pancasila, UUD 1945, NKRI, Bhinneka Tunggal Ika)",
     "shortName": "Kebangsaan",
     "palette": "senja",
     "subTopics": [
-      { "id": "pancasila", "name": "Pancasila" },
-      { "id": "simbol-negara", "name": "Simbol & Identitas Negara" },
-      { "id": "sejarah-konstitusi", "name": "Sejarah & Konstitusi" }
+      {
+        "id": "pancasila",
+        "name": "Pancasila"
+      },
+      {
+        "id": "simbol-negara",
+        "name": "Simbol & Identitas Negara"
+      },
+      {
+        "id": "sejarah-konstitusi",
+        "name": "Sejarah & Konstitusi"
+      }
+    ]
+  },
+  {
+    "id": "pengantar-hukum",
+    "group": "hukum",
+    "name": "Pengantar Ilmu Hukum, Teori & Filsafat Hukum",
+    "shortName": "PIH & Teori",
+    "palette": "nila",
+    "subTopics": [
+      {
+        "id": "sumber-asas",
+        "name": "Sumber & Asas Hukum"
+      },
+      {
+        "id": "penafsiran",
+        "name": "Penafsiran & Penemuan Hukum"
+      },
+      {
+        "id": "aliran-filsafat",
+        "name": "Aliran Filsafat Hukum"
+      }
+    ]
+  },
+  {
+    "id": "keluarga-waris",
+    "group": "hukum",
+    "name": "Hukum Perkawinan, Keluarga & Waris",
+    "shortName": "Keluarga & Waris",
+    "palette": "mawar",
+    "subTopics": [
+      {
+        "id": "perkawinan",
+        "name": "Perkawinan"
+      },
+      {
+        "id": "waris-perdata",
+        "name": "Waris BW"
+      },
+      {
+        "id": "waris-islam",
+        "name": "Waris Islam (KHI)"
+      }
+    ]
+  },
+  {
+    "id": "peradilan-agama",
+    "group": "hukum",
+    "name": "Hukum Islam & Peradilan Agama",
+    "shortName": "Peradilan Agama",
+    "palette": "hutan",
+    "subTopics": [
+      {
+        "id": "kewenangan-pa",
+        "name": "Kewenangan Peradilan Agama"
+      },
+      {
+        "id": "ekonomi-syariah",
+        "name": "Ekonomi Syariah"
+      },
+      {
+        "id": "acara-pa",
+        "name": "Acara Peradilan Agama"
+      }
+    ]
+  },
+  {
+    "id": "dagang-bisnis",
+    "group": "hukum",
+    "name": "Hukum Dagang, Perusahaan & Kepailitan",
+    "shortName": "Dagang & Bisnis",
+    "palette": "kopi",
+    "subTopics": [
+      {
+        "id": "perseroan",
+        "name": "Perseroan Terbatas"
+      },
+      {
+        "id": "kepailitan",
+        "name": "Kepailitan & PKPU"
+      },
+      {
+        "id": "dagang-umum",
+        "name": "Hukum Dagang Umum"
+      }
+    ]
+  },
+  {
+    "id": "pidana-khusus",
+    "group": "hukum",
+    "name": "Tindak Pidana Khusus (Korupsi, Pencucian Uang, Narkotika)",
+    "shortName": "Pidana Khusus",
+    "palette": "anggur",
+    "subTopics": [
+      {
+        "id": "korupsi",
+        "name": "Tindak Pidana Korupsi"
+      },
+      {
+        "id": "tppu",
+        "name": "Pencucian Uang"
+      },
+      {
+        "id": "narkotika",
+        "name": "Narkotika"
+      }
+    ]
+  },
+  {
+    "id": "peradilan-anak",
+    "group": "hukum",
+    "name": "Sistem Peradilan Pidana Anak",
+    "shortName": "Peradilan Anak",
+    "palette": "senja",
+    "subTopics": [
+      {
+        "id": "diversi",
+        "name": "Diversi & Keadilan Restoratif"
+      },
+      {
+        "id": "batas-umur",
+        "name": "Batas Umur & Sanksi"
+      }
+    ]
+  },
+  {
+    "id": "internasional",
+    "group": "hukum",
+    "name": "Hukum Internasional",
+    "shortName": "Internasional",
+    "palette": "laut",
+    "subTopics": [
+      {
+        "id": "sumber-hi",
+        "name": "Sumber Hukum Internasional"
+      },
+      {
+        "id": "perjanjian-internasional",
+        "name": "Perjanjian Internasional"
+      },
+      {
+        "id": "yurisdiksi-negara",
+        "name": "Negara & Yurisdiksi"
+      }
+    ]
+  },
+  {
+    "id": "ham",
+    "group": "hukum",
+    "name": "Hak Asasi Manusia",
+    "shortName": "HAM",
+    "palette": "bata",
+    "subTopics": [
+      {
+        "id": "konsep-ham",
+        "name": "Konsep & Instrumen HAM"
+      },
+      {
+        "id": "pengadilan-ham",
+        "name": "Pengadilan HAM"
+      }
+    ]
+  },
+  {
+    "id": "agraria",
+    "group": "hukum",
+    "name": "Hukum Agraria",
+    "shortName": "Agraria",
+    "palette": "zaitun",
+    "subTopics": [
+      {
+        "id": "hak-atas-tanah",
+        "name": "Hak atas Tanah"
+      },
+      {
+        "id": "asas-agraria",
+        "name": "Asas UUPA & Pendaftaran Tanah"
+      }
+    ]
+  },
+  {
+    "id": "ketenagakerjaan",
+    "group": "hukum",
+    "name": "Hukum Ketenagakerjaan",
+    "shortName": "Ketenagakerjaan",
+    "palette": "arang",
+    "subTopics": [
+      {
+        "id": "hubungan-kerja",
+        "name": "Hubungan Kerja"
+      },
+      {
+        "id": "phi",
+        "name": "Perselisihan Hubungan Industrial"
+      }
+    ]
+  },
+  {
+    "id": "lingkungan",
+    "group": "hukum",
+    "name": "Hukum Lingkungan",
+    "shortName": "Lingkungan",
+    "palette": "hutan",
+    "subTopics": [
+      {
+        "id": "asas-lingkungan",
+        "name": "Asas & Instrumen"
+      },
+      {
+        "id": "penegakan-lingkungan",
+        "name": "Penegakan & Tanggung Jawab"
+      }
+    ]
+  },
+  {
+    "id": "adat",
+    "group": "hukum",
+    "name": "Hukum Adat",
+    "shortName": "Hukum Adat",
+    "palette": "emas",
+    "subTopics": [
+      {
+        "id": "masyarakat-adat",
+        "name": "Masyarakat & Persekutuan Adat"
+      },
+      {
+        "id": "delik-adat",
+        "name": "Delik & Tanah Adat"
+      }
+    ]
+  },
+  {
+    "id": "hki",
+    "group": "hukum",
+    "name": "Hak Kekayaan Intelektual",
+    "shortName": "HKI",
+    "palette": "nila",
+    "subTopics": [
+      {
+        "id": "hak-cipta",
+        "name": "Hak Cipta"
+      },
+      {
+        "id": "paten-merek",
+        "name": "Paten, Merek & Lainnya"
+      }
+    ]
+  },
+  {
+    "id": "konsumen-persaingan",
+    "group": "hukum",
+    "name": "Perlindungan Konsumen & Persaingan Usaha",
+    "shortName": "Konsumen & Persaingan",
+    "palette": "toska",
+    "subTopics": [
+      {
+        "id": "konsumen",
+        "name": "Perlindungan Konsumen"
+      },
+      {
+        "id": "persaingan",
+        "name": "Persaingan Usaha"
+      }
+    ]
+  },
+  {
+    "id": "peradilan-militer",
+    "group": "hukum",
+    "name": "Hukum & Peradilan Militer",
+    "shortName": "Peradilan Militer",
+    "palette": "zaitun",
+    "subTopics": [
+      {
+        "id": "peradilan-militer-umum",
+        "name": "Susunan & Kewenangan"
+      }
+    ]
+  },
+  {
+    "id": "twk",
+    "group": "cpns",
+    "name": "Tes Wawasan Kebangsaan (TWK)",
+    "shortName": "TWK",
+    "palette": "bata",
+    "subTopics": [
+      {
+        "id": "nasionalisme",
+        "name": "Nasionalisme"
+      },
+      {
+        "id": "integritas",
+        "name": "Integritas"
+      },
+      {
+        "id": "bela-negara",
+        "name": "Bela Negara"
+      },
+      {
+        "id": "bahasa-indonesia",
+        "name": "Bahasa Indonesia"
+      }
+    ]
+  },
+  {
+    "id": "tiu",
+    "group": "cpns",
+    "name": "Tes Intelegensia Umum (TIU)",
+    "shortName": "TIU",
+    "palette": "laut",
+    "subTopics": [
+      {
+        "id": "verbal",
+        "name": "Kemampuan Verbal"
+      },
+      {
+        "id": "numerik",
+        "name": "Kemampuan Numerik"
+      },
+      {
+        "id": "logika",
+        "name": "Penalaran Logis & Analitis"
+      }
+    ]
+  },
+  {
+    "id": "tkp",
+    "group": "cpns",
+    "name": "Tes Karakteristik Pribadi (TKP)",
+    "shortName": "TKP",
+    "palette": "toska",
+    "subTopics": [
+      {
+        "id": "pelayanan-publik",
+        "name": "Pelayanan Publik"
+      },
+      {
+        "id": "jejaring-kerja",
+        "name": "Jejaring Kerja"
+      },
+      {
+        "id": "sosial-budaya",
+        "name": "Sosial Budaya"
+      },
+      {
+        "id": "tik",
+        "name": "Teknologi Informasi & Komunikasi"
+      },
+      {
+        "id": "profesionalisme",
+        "name": "Profesionalisme"
+      },
+      {
+        "id": "anti-radikalisme",
+        "name": "Anti-Radikalisme"
+      }
+    ]
+  },
+  {
+    "id": "asn",
+    "group": "cpns",
+    "name": "Aparatur Sipil Negara (ASN) & Seleksi CPNS",
+    "shortName": "ASN & Seleksi",
+    "palette": "mawar",
+    "subTopics": [
+      {
+        "id": "nilai-asn",
+        "name": "Nilai Dasar & Kode Etik ASN"
+      },
+      {
+        "id": "seleksi-skd",
+        "name": "Seleksi & SKD"
+      }
     ]
   }
 ]

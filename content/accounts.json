@@ -1,11 +1,170 @@
 [
-  { "username": "bw.receh", "displayName": "BW Receh", "character": "kancil", "bio": "Akun fiktif. Hukum perdata rasa obrolan warung kopi." },
-  { "username": "hir.hari.ini", "displayName": "HIR Hari Ini", "character": "cat", "bio": "Akun fiktif. Catatan panitera Mpus soal hukum acara perdata." },
-  { "username": "ngopi.kuhp", "displayName": "Ngopi KUHP", "character": "owl", "bio": "Akun fiktif. KUHP Nasional (UU 1/2023) sambil ngopi." },
-  { "username": "saksi.cicak", "displayName": "Saksi Cicak", "character": "gecko", "bio": "Akun fiktif. Cika si cicak melihat semuanya dari dinding ruang sidang." },
-  { "username": "konstitusi.kece", "displayName": "Konstitusi Kece", "character": "owl", "bio": "Akun fiktif. UUD 1945 tanpa bikin ngantuk." },
-  { "username": "ktun.final", "displayName": "KTUN Final", "character": "kancil", "bio": "Akun fiktif. Konkret, individual, final, dan agak receh." },
-  { "username": "pakhoot.bijak", "displayName": "Pak Hoot Bijak", "character": "owl", "bio": "Akun fiktif. Etika dan perilaku hakim ala Pak Hoot." },
-  { "username": "nusantara.pintar", "displayName": "Nusantara Pintar", "character": "kancil", "bio": "Akun fiktif. Wawasan kebangsaan yang nggak kaku." },
-  { "username": "meme.meja.hijau", "displayName": "Meme Meja Hijau", "character": "cat", "bio": "Akun fiktif. Humor hukum yang tetap taat sumber." }
+  {
+    "username": "bw.receh",
+    "displayName": "BW Receh",
+    "character": "kancil",
+    "bio": "Akun fiktif. Hukum perdata rasa obrolan warung kopi."
+  },
+  {
+    "username": "hir.hari.ini",
+    "displayName": "HIR Hari Ini",
+    "character": "cat",
+    "bio": "Akun fiktif. Catatan panitera Mpus soal hukum acara perdata."
+  },
+  {
+    "username": "ngopi.kuhp",
+    "displayName": "Ngopi KUHP",
+    "character": "owl",
+    "bio": "Akun fiktif. KUHP Nasional (UU 1/2023) sambil ngopi."
+  },
+  {
+    "username": "saksi.cicak",
+    "displayName": "Saksi Cicak",
+    "character": "gecko",
+    "bio": "Akun fiktif. Cika si cicak melihat semuanya dari dinding ruang sidang."
+  },
+  {
+    "username": "konstitusi.kece",
+    "displayName": "Konstitusi Kece",
+    "character": "owl",
+    "bio": "Akun fiktif. UUD 1945 tanpa bikin ngantuk."
+  },
+  {
+    "username": "ktun.final",
+    "displayName": "KTUN Final",
+    "character": "kancil",
+    "bio": "Akun fiktif. Konkret, individual, final, dan agak receh."
+  },
+  {
+    "username": "pakhoot.bijak",
+    "displayName": "Pak Hoot Bijak",
+    "character": "owl",
+    "bio": "Akun fiktif. Etika dan perilaku hakim ala Pak Hoot."
+  },
+  {
+    "username": "nusantara.pintar",
+    "displayName": "Nusantara Pintar",
+    "character": "kancil",
+    "bio": "Akun fiktif. Wawasan kebangsaan yang nggak kaku."
+  },
+  {
+    "username": "meme.meja.hijau",
+    "displayName": "Meme Meja Hijau",
+    "character": "cat",
+    "bio": "Akun fiktif. Humor hukum yang tetap taat sumber."
+  },
+  {
+    "username": "teori.hukum.santai",
+    "displayName": "Teori Hukum Santai",
+    "character": "owl",
+    "bio": "Akun fiktif. Pengantar ilmu hukum dan filsafat hukum tanpa pusing."
+  },
+  {
+    "username": "nikah.waris.notes",
+    "displayName": "Catatan Nikah & Waris",
+    "character": "cat",
+    "bio": "Akun fiktif. Perkawinan, keluarga, dan pembagian waris."
+  },
+  {
+    "username": "serambi.syariah",
+    "displayName": "Serambi Syariah",
+    "character": "kancil",
+    "bio": "Akun fiktif. Hukum Islam dan peradilan agama."
+  },
+  {
+    "username": "pasal.dagang",
+    "displayName": "Pasal Dagang",
+    "character": "cat",
+    "bio": "Akun fiktif. PT, pailit, dan dunia usaha."
+  },
+  {
+    "username": "anti.rasuah",
+    "displayName": "Anti Rasuah",
+    "character": "gecko",
+    "bio": "Akun fiktif. Tipikor, pencucian uang, narkotika."
+  },
+  {
+    "username": "ruang.anak",
+    "displayName": "Ruang Anak",
+    "character": "kancil",
+    "bio": "Akun fiktif. Peradilan pidana anak dan diversi."
+  },
+  {
+    "username": "lintas.negara",
+    "displayName": "Lintas Negara",
+    "character": "owl",
+    "bio": "Akun fiktif. Hukum internasional dari meja diplomat."
+  },
+  {
+    "username": "ham.harian",
+    "displayName": "HAM Harian",
+    "character": "cat",
+    "bio": "Akun fiktif. Hak asasi manusia sehari-hari."
+  },
+  {
+    "username": "tanah.kita",
+    "displayName": "Tanah Kita",
+    "character": "kancil",
+    "bio": "Akun fiktif. Hak atas tanah dan UUPA."
+  },
+  {
+    "username": "buruh.paham",
+    "displayName": "Buruh Paham",
+    "character": "gecko",
+    "bio": "Akun fiktif. Hubungan kerja dan perselisihan industrial."
+  },
+  {
+    "username": "bumi.hijau",
+    "displayName": "Bumi Hijau",
+    "character": "gecko",
+    "bio": "Akun fiktif. Hukum lingkungan."
+  },
+  {
+    "username": "adat.nusantara",
+    "displayName": "Adat Nusantara",
+    "character": "kancil",
+    "bio": "Akun fiktif. Hukum adat dari Sabang sampai Merauke."
+  },
+  {
+    "username": "karya.cipta",
+    "displayName": "Karya Cipta",
+    "character": "cat",
+    "bio": "Akun fiktif. Hak cipta, paten, merek."
+  },
+  {
+    "username": "pasar.adil",
+    "displayName": "Pasar Adil",
+    "character": "owl",
+    "bio": "Akun fiktif. Konsumen dan persaingan usaha."
+  },
+  {
+    "username": "mahmil.notes",
+    "displayName": "Catatan Mahmil",
+    "character": "owl",
+    "bio": "Akun fiktif. Peradilan militer."
+  },
+  {
+    "username": "twk.harian",
+    "displayName": "TWK Harian",
+    "character": "owl",
+    "bio": "Akun fiktif. Wawasan kebangsaan untuk SKD CPNS."
+  },
+  {
+    "username": "tiu.ngebut",
+    "displayName": "TIU Ngebut",
+    "character": "cat",
+    "bio": "Akun fiktif. Hitung cepat, logika, dan kata."
+  },
+  {
+    "username": "tkp.bijak",
+    "displayName": "TKP Bijak",
+    "character": "kancil",
+    "bio": "Akun fiktif. Memilih sikap terbaik ala TKP."
+  },
+  {
+    "username": "asn.berakhlak",
+    "displayName": "ASN BerAKHLAK",
+    "character": "gecko",
+    "bio": "Akun fiktif. Nilai dasar ASN dan seluk-beluk seleksi."
+  }
 ]

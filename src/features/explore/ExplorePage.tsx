@@ -3,6 +3,7 @@ import { useMemo, useState } from 'react';
 import { CardThumb } from '@/components/CardThumb';
 import { Icon } from '@/components/Icon';
 import { library } from '@/content';
+import { TOPIC_GROUP_LABELS, TOPIC_GROUPS, type TopicGroup } from '@/content/schema';
 import { filterCards, FORMAT_FILTERS, type FormatFilter } from '@/domain/explore';
 import { eligibleCards } from '@/domain/moderation';
 import { useStore } from '@/state/store';
@@ -19,11 +20,20 @@ export function ExplorePage() {
   const moderation = useStore((s) => s.moderation);
   const showUnverified = useStore((s) => s.settings.showUnverified);
   const [text, setText] = useState('');
+  const [group, setGroup] = useState<TopicGroup | null>(null);
   const [topicId, setTopicId] = useState<string | null>(null);
+  const groupTopics = useMemo(() => library.topics.filter((topic) => group === null || topic.group === group), [group]);
   const [format, setFormat] = useState<FormatFilter>('semua');
 
   const visible = useMemo(() => eligibleCards(library.cards, moderation, showUnverified), [moderation, showUnverified]);
-  const results = useMemo(() => filterCards(visible, { text, topicId, format }), [visible, text, topicId, format]);
+  const results = useMemo(() => {
+    const inGroup = new Set(groupTopics.map((topic) => topic.id));
+    return filterCards(visible, { text, topicId, format }).filter((card) => inGroup.has(card.topicId));
+  }, [visible, text, topicId, format, groupTopics]);
+  const pickGroup = (next: TopicGroup | null) => {
+    setGroup(next);
+    setTopicId(null);
+  };
 
   return (
     <div>
@@ -40,11 +50,21 @@ export function ExplorePage() {
             </Chip>
           ))}
         </div>
+        <div className="no-scrollbar flex gap-2 overflow-x-auto" role="group" aria-label="Filter kelompok materi">
+          <Chip active={group === null} onClick={() => pickGroup(null)}>
+            Semua materi
+          </Chip>
+          {TOPIC_GROUPS.map((key) => (
+            <Chip key={key} active={group === key} onClick={() => pickGroup(key)}>
+              {TOPIC_GROUP_LABELS[key]}
+            </Chip>
+          ))}
+        </div>
         <div className="no-scrollbar flex gap-2 overflow-x-auto" role="group" aria-label="Filter topik">
           <Chip active={topicId === null} onClick={() => setTopicId(null)}>
             Semua topik
           </Chip>
-          {library.topics.map((topic) => (
+          {groupTopics.map((topic) => (
             <Chip key={topic.id} active={topicId === topic.id} onClick={() => setTopicId(topic.id)}>
               {topic.shortName}
             </Chip>

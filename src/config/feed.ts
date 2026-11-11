@@ -68,5 +68,11 @@ export const SM2_QUALITY = {
   recallEasy: 5,
 } as const;
 
+/** Soal TKP (skor 1-5 per pilihan): skor minimal yang dihitung "benar" dan kualitas SM-2 per skor. */
+export const TKP_GRADING = {
+  passScore: 4,
+  qualityByScore: { 5: 4, 4: 3, 3: 2, 2: 1, 1: 0 } as Record<number, number>,
+} as const;
+
 /** Durasi default satu slide story (ms). */
 export const STORY_SLIDE_MS = 6000;

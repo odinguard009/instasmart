@@ -1,0 +1,413 @@
+[
+  {
+    "id": "peradilan-agama-sembilan-bidang",
+    "type": "fact",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "infographic",
+      "title": "Kewenangan absolut Peradilan Agama",
+      "points": [
+        "Perkawinan, waris, wasiat",
+        "Hibah, wakaf",
+        "Zakat, infaq, shadaqah",
+        "Ekonomi syari'ah",
+        "Antara orang-orang yang beragama Islam"
+      ]
+    },
+    "caption": "Sembilan bidang: perkawinan, waris, wasiat, hibah, wakaf, zakat, infaq, shadaqah, dan ekonomi syari'ah. Ekonomi syariah ditambahkan lewat perubahan tahun 2006.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 49 sebagaimana diubah UU 3/2006"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-jembatan-sembilan-bidang",
+    "type": "mnemonic",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jembatan keledai",
+      "text": "KaWaWa · HiWa · ZIS · EkSya",
+      "sub": "Kawin, Waris, Wasiat · Hibah, Wakaf · Zakat, Infaq, Shadaqah · Ekonomi Syariah"
+    },
+    "caption": "Empat kelompok untuk sembilan bidang kewenangan Peradilan Agama.",
+    "phrase": "KaWaWa-HiWa-ZIS-EkSya",
+    "expansion": [
+      "KaWaWa: perkawinan, waris, wasiat",
+      "HiWa: hibah, wakaf",
+      "ZIS: zakat, infaq, shadaqah",
+      "EkSya: ekonomi syari'ah"
+    ],
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 49"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-asas-personalitas",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Asas yang menentukan Peradilan Agama mengadili perkara antara orang-orang yang beragama Islam disebut asas…",
+    "options": [
+      "Personalitas keislaman",
+      "Teritorialitas",
+      "Nasionalitas aktif",
+      "Legalitas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Asas personalitas keislaman melekat pada kewenangan PA. Dalam perkara ekonomi syariah, penjelasan Pasal 49 menyebut juga orang atau badan hukum yang dengan sendirinya menundukkan diri pada hukum Islam.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 49 dan Penjelasannya"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-sengketa-bank-syariah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Setelah Putusan MK No. 93/PUU-X/2012, sengketa perbankan syariah (di luar pilihan arbitrase/musyawarah) diselesaikan oleh…",
+    "options": [
+      "Pengadilan Negeri",
+      "Pengadilan Agama",
+      "PTUN",
+      "Pengadilan Niaga"
+    ],
+    "answerIndex": 1,
+    "explanation": "MK menyatakan Penjelasan Pasal 55 ayat (2) UU Perbankan Syariah yang membuka pilihan ke peradilan umum tidak berkekuatan hukum mengikat. Hasilnya, kewenangan litigasi perbankan syariah ada pada Peradilan Agama.",
+    "source": {
+      "title": "Putusan Mahkamah Konstitusi No. 93/PUU-X/2012",
+      "reference": "Putusan MK No. 93/PUU-X/2012 atas Penjelasan Pasal 55 ayat (2) UU 21/2008"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-cerai-talak-vs-gugat",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Isteri ingin bercerai. Perkara yang diajukannya ke Pengadilan Agama disebut…",
+    "options": [
+      "Cerai talak (permohonan)",
+      "Cerai gugat (gugatan)",
+      "Itsbat nikah",
+      "Pembatalan wakaf"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cerai talak diajukan suami sebagai permohonan untuk menyaksikan ikrar talak. Cerai gugat diajukan isteri sebagai gugatan.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 66 dan Pasal 73"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-kompetensi-relatif-cerai",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Cerai gugat pada asasnya diajukan ke Pengadilan Agama yang daerah hukumnya meliputi tempat kediaman…",
+    "options": [
+      "Tergugat (suami)",
+      "Penggugat (isteri)",
+      "Tempat akad nikah",
+      "Kantor KUA terdekat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Berbeda dari asas umum actor sequitur forum rei, UU Peradilan Agama melindungi isteri: cerai gugat diajukan di tempat kediaman penggugat, kecuali penggugat sengaja meninggalkan tempat kediaman bersama tanpa izin tergugat.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 73 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-itsbat-nikah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Pasangan menikah secara agama tetapi tidak tercatat, lalu meminta pengesahan ke Pengadilan Agama. Perkara ini disebut…",
+    "options": [
+      "Isbat (itsbat) nikah",
+      "Dispensasi kawin",
+      "Pembatalan perkawinan",
+      "Pencegahan perkawinan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Itsbat nikah adalah pengesahan perkawinan yang tidak dapat dibuktikan dengan akta nikah. KHI membatasi untuk keperluan tertentu, misalnya penyelesaian perceraian atau perkawinan sebelum UU 1/1974.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 7 ayat (2) dan (3)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-sumber-hukum-islam",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Urutan sumber hukum Islam yang disepakati jumhur ulama adalah…",
+    "options": [
+      "Al-Qur'an, Sunnah, Ijma', Qiyas",
+      "Sunnah, Al-Qur'an, Qiyas, Ijma'",
+      "Ijma', Al-Qur'an, Sunnah, Qiyas",
+      "Al-Qur'an, Qiyas, Sunnah, Ijma'"
+    ],
+    "answerIndex": 0,
+    "explanation": "Empat sumber yang disepakati: Al-Qur'an, Sunnah (hadits), Ijma' (konsensus ulama), Qiyas (analogi). Metode lain (istihsan, maslahah mursalah, 'urf) diperselisihkan penggunaannya.",
+    "source": {
+      "title": "Doktrin ushul fiqh",
+      "reference": "Ushul fiqh"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-mahkamah-syariyah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Di Provinsi Aceh, pengadilan dalam lingkungan peradilan agama bernama…",
+    "options": [
+      "Pengadilan Adat",
+      "Mahkamah Syar'iyah",
+      "Majelis Ulama",
+      "Pengadilan Syariah Niaga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mahkamah Syar'iyah di Aceh merupakan pengadilan khusus dalam lingkungan peradilan agama sepanjang kewenangannya menyangkut kewenangan peradilan agama.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009; UU No. 11 Tahun 2006 tentang Pemerintahan Aceh",
+      "reference": "UU 48/2009 tentang Kekuasaan Kehakiman dan UU Pemerintahan Aceh"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-dasar-khi",
+    "type": "fact",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Kompilasi Hukum Islam",
+      "text": "KHI berlaku lewat Instruksi Presiden No. 1 Tahun 1991",
+      "sub": "Buku I Perkawinan, Buku II Kewarisan, Buku III Perwakafan. Dipakai sebagai pedoman oleh hakim Peradilan Agama."
+    },
+    "caption": "KHI tidak berbentuk undang-undang, tetapi menjadi pedoman yang dipakai luas di Peradilan Agama. Untuk wakaf dan zakat kini ada undang-undang tersendiri: UU 41/2004 tentang Wakaf dan UU 23/2011 tentang Pengelolaan Zakat.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Inpres No. 1 Tahun 1991"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-hakam-syiqaq",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "question": "Dalam perceraian karena syiqaq (perselisihan terus-menerus), pengadilan dapat mengangkat seorang atau lebih dari keluarga masing-masing pihak sebagai…",
+    "options": [
+      "Mediator bersertifikat",
+      "Hakam",
+      "Wali hakim",
+      "Juru sita"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hakam adalah juru damai dari keluarga para pihak dalam perkara syiqaq. Ini berbeda dari mediasi wajib menurut PERMA, meski tujuannya sama: perdamaian.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 76"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-kompetensi-salah-pintu",
+    "type": "humor",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "meme",
+      "top": "Gugat waris Islam ke Pengadilan Niaga?",
+      "bottom": "Hakim: \"Pintu sebelah, Bu. Itu kewenangan absolut PA.\"",
+      "character": "kancil",
+      "expression": "shock"
+    },
+    "caption": "Kewenangan absolut menentukan lingkungan peradilan mana yang berwenang. Salah pintu = gugatan dinyatakan tidak dapat diterima.",
+    "teaches": "Waris antara orang-orang beragama Islam termasuk kewenangan absolut Peradilan Agama (Pasal 49 UU Peradilan Agama).",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 49"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-ekonomi-syariah-cakupan",
+    "type": "review",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "front": "Sebutkan contoh kegiatan yang termasuk \"ekonomi syari'ah\" dalam Penjelasan Pasal 49 UU Peradilan Agama.",
+    "back": "Antara lain: bank syariah, lembaga keuangan mikro syariah, asuransi syariah, reasuransi syariah, reksa dana syariah, obligasi dan surat berharga syariah, sekuritas syariah, pembiayaan syariah, pegadaian syariah, dana pensiun lembaga keuangan syariah, dan bisnis syariah.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Penjelasan Pasal 49 huruf i"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-story-pa-kilat",
+    "type": "story",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "title": "Peradilan Agama kilat",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Kilat",
+          "title": "Peradilan Agama dalam 4 slide",
+          "character": "kancil",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Siapa?",
+          "sub": "Orang-orang yang beragama Islam (asas personalitas keislaman)."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Apa?",
+          "sub": "Perkawinan, waris, wasiat, hibah, wakaf, zakat, infaq, shadaqah, ekonomi syari'ah."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Di Aceh?",
+          "sub": "Namanya Mahkamah Syar'iyah."
+        }
+      },
+      {
+        "visual": {
+          "template": "meme",
+          "top": "Bank syariah wanprestasi?",
+          "bottom": "Ke Pengadilan Agama (Putusan MK 93/2012).",
+          "character": "owl",
+          "expression": "smug"
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 49"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-reel-cerai-talak",
+    "type": "reel",
+    "topicId": "peradilan-agama",
+    "subTopicId": "acara-pa",
+    "account": "serambi.syariah",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Suami ingin bercerai.",
+        "caption": "Dalam perkara cerai talak, suami mengajukan permohonan ke Pengadilan Agama.",
+        "kicker": "Cerai talak",
+        "character": "cat",
+        "expression": "sad",
+        "characterMotion": "enter-left"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Hakim wajib mendamaikan dulu.",
+        "caption": "Upaya damai dilakukan di setiap sidang, ditambah mediasi wajib.",
+        "character": "owl",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Gagal damai, permohonan dikabulkan.",
+        "caption": "Bila alasan terbukti, pengadilan memberi izin kepada suami untuk mengucapkan ikrar talak.",
+        "textMotion": "slide-up"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Ikrar talak diucapkan di depan sidang.",
+        "caption": "Perceraian terjadi terhitung sejak ikrar talak diucapkan di depan sidang pengadilan.",
+        "effect": "zoom"
+      }
+    ],
+    "caption": "Alur ringkas cerai talak. Isteri yang ingin bercerai mengajukan cerai gugat.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 66-72"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-poll-zakat",
+    "type": "poll",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Sengketa zakat antara muzaki dan amil yang sama-sama beragama Islam masuk ke pengadilan mana?",
+    "options": [
+      "Pengadilan Negeri",
+      "Pengadilan Agama"
+    ],
+    "answerIndex": 1,
+    "explanation": "Zakat, infaq, dan shadaqah termasuk sembilan bidang kewenangan Peradilan Agama.",
+    "source": {
+      "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
+      "reference": "Pasal 49"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

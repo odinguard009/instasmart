@@ -1,0 +1,164 @@
+[
+  {
+    "id": "peradilan-militer-susunan-peradilan-militer",
+    "type": "fact",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "visual": {
+      "template": "infographic",
+      "title": "Pengadilan di lingkungan peradilan militer",
+      "points": [
+        "Pengadilan Militer",
+        "Pengadilan Militer Tinggi",
+        "Pengadilan Militer Utama",
+        "Pengadilan Militer Pertempuran"
+      ]
+    },
+    "caption": "Peradilan militer adalah salah satu dari empat lingkungan peradilan di bawah Mahkamah Agung. Penuntutnya disebut oditur militer.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 12"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-pangkat-dan-pengadilan",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Seorang prajurit berpangkat Mayor didakwa melakukan tindak pidana. Pengadilan tingkat pertamanya adalah…",
+    "options": [
+      "Pengadilan Militer",
+      "Pengadilan Militer Tinggi",
+      "Pengadilan Militer Utama",
+      "Pengadilan Negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pengadilan Militer memeriksa tingkat pertama perkara terdakwa berpangkat Kapten ke bawah; Pengadilan Militer Tinggi memeriksa tingkat pertama perkara terdakwa berpangkat Mayor ke atas.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 40 dan Pasal 41"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-oditur",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Pejabat yang bertindak sebagai penuntut umum di peradilan militer disebut…",
+    "options": [
+      "Jaksa agung muda",
+      "Oditur militer",
+      "Ankum",
+      "Papera"
+    ],
+    "answerIndex": 1,
+    "explanation": "Oditur militer melakukan penuntutan. Ankum adalah atasan yang berhak menghukum; Papera adalah perwira penyerah perkara yang berwenang menyerahkan perkara ke pengadilan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Ketentuan umum"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-koneksitas",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Tindak pidana yang dilakukan bersama-sama oleh warga sipil dan prajurit (koneksitas) pada asasnya diperiksa dan diadili oleh…",
+    "options": [
+      "Selalu peradilan militer",
+      "Peradilan umum, kecuali titik berat kerugian ada pada kepentingan militer",
+      "Mahkamah Konstitusi",
+      "Pengadilan adat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Asas koneksitas: peradilan umum, kecuali menurut keputusan yang berwenang titik berat kerugian terletak pada kepentingan militer sehingga diadili peradilan militer. Pengaturan hukum acaranya ada di KUHAP; periksa ketentuan KUHAP baru (UU 20/2025).",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman; KUHAP",
+      "reference": "UU 48/2009 Pasal 16 dan ketentuan koneksitas dalam KUHAP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-ankum-bukan-ankot",
+    "type": "humor",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "visual": {
+      "template": "meme",
+      "top": "Ankum itu singkatan dari angkutan umum?",
+      "bottom": "Bukan. Atasan yang Berhak Menghukum.",
+      "character": "owl",
+      "expression": "shock"
+    },
+    "caption": "Istilah khas hukum militer: Ankum (atasan yang berhak menghukum) dan Papera (perwira penyerah perkara).",
+    "teaches": "Ankum dan Papera dalam UU Peradilan Militer.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Ketentuan umum"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-story-mahmil",
+    "type": "story",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "title": "Peradilan militer kilat",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Lingkungan peradilan ke-4",
+          "title": "Peradilan militer",
+          "character": "owl",
+          "expression": "smug"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Kapten ke bawah",
+          "sub": "Tingkat pertama di Pengadilan Militer."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Mayor ke atas",
+          "sub": "Tingkat pertama di Pengadilan Militer Tinggi."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Oditur",
+          "sub": "Penuntut umum di peradilan militer."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 40-41"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

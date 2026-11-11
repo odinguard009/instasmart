@@ -1,0 +1,564 @@
+[
+  {
+    "id": "dagang-bisnis-organ-pt",
+    "type": "fact",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "infographic",
+      "title": "3 organ Perseroan Terbatas",
+      "points": [
+        "RUPS: wewenang yang tidak diberikan ke Direksi/Komisaris",
+        "Direksi: mengurus dan mewakili perseroan",
+        "Dewan Komisaris: mengawasi dan memberi nasihat"
+      ]
+    },
+    "caption": "Ketiganya disebut organ perseroan dalam Pasal 1 angka 2 UU PT. Perseroan yang menjalankan usaha berdasarkan prinsip syariah juga wajib punya Dewan Pengawas Syariah.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
+      "reference": "Pasal 1 angka 2"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-pendiri-pt",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Menurut UU PT (sebelum ada PT perorangan), perseroan didirikan oleh…",
+    "options": [
+      "Satu orang dengan akta di bawah tangan",
+      "Dua orang atau lebih dengan akta notaris dalam bahasa Indonesia",
+      "Tiga orang dengan akta notaris berbahasa asing",
+      "Satu badan hukum dengan izin camat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 7 ayat (1) UU PT. UU Cipta Kerja menambah bentuk Perseroan perorangan untuk usaha mikro dan kecil yang dapat didirikan oleh satu orang melalui pernyataan pendirian; detailnya cek teks perubahan.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
+      "reference": "Pasal 7 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-status-badan-hukum",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Kapan PT (persekutuan modal) memperoleh status badan hukum?",
+    "options": [
+      "Saat akta pendirian ditandatangani",
+      "Pada tanggal diterbitkannya Keputusan Menteri mengenai pengesahan badan hukum perseroan",
+      "Saat RUPS pertama",
+      "Saat mulai beroperasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 7 ayat (4) UU PT. Sebelum status badan hukum diperoleh, perbuatan hukum atas nama perseroan menjadi tanggung jawab pendiri/direksi secara tanggung renteng, kecuali diambil alih perseroan.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
+      "reference": "Pasal 7 ayat (4)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-piercing-corporate-veil",
+    "type": "fact",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "infographic",
+      "title": "Tanggung jawab terbatas pemegang saham HAPUS jika…",
+      "points": [
+        "Syarat badan hukum belum/tidak terpenuhi",
+        "Ia beritikad buruk memanfaatkan perseroan untuk kepentingan pribadi",
+        "Ia terlibat perbuatan melawan hukum perseroan",
+        "Ia memakai kekayaan perseroan secara melawan hukum"
+      ]
+    },
+    "caption": "Asas dasarnya: pemegang saham tidak bertanggung jawab pribadi melebihi saham yang dimiliki (Pasal 3 ayat (1)). Empat pengecualian ini dikenal sebagai piercing the corporate veil.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
+      "reference": "Pasal 3 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-business-judgment-rule",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Direksi rugi akibat keputusan bisnis yang diambil dengan itikad baik, hati-hati, tanpa benturan kepentingan, dan sudah mengambil tindakan mencegah kerugian. Prinsip yang melindunginya adalah…",
+    "options": [
+      "Piercing the corporate veil",
+      "Business judgment rule",
+      "Ultra vires",
+      "Fiduciary duty dilanggar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 97 ayat (5) UU PT memuat syarat pembebasan tanggung jawab direksi (business judgment rule). Ultra vires = tindakan di luar maksud dan tujuan perseroan.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
+      "reference": "Pasal 97 ayat (5)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-modal-disetor",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "question": "Paling sedikit berapa persen modal dasar harus ditempatkan dan disetor penuh menurut UU PT?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 33 ayat (1) UU PT: paling sedikit 25% dari modal dasar. Besaran modal dasar minimum kini ditentukan berdasarkan keputusan pendiri setelah perubahan oleh UU Cipta Kerja; untuk PT perorangan berlaku aturan khusus.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
+      "reference": "Pasal 33 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-syarat-pailit",
+    "type": "fact",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Syarat pailit",
+      "text": "≥ 2 kreditor + ≥ 1 utang jatuh waktu & dapat ditagih yang tidak dibayar lunas",
+      "sub": "Debitor dinyatakan pailit dengan putusan Pengadilan Niaga, atas permohonannya sendiri atau permohonan kreditor."
+    },
+    "caption": "Pembuktiannya sederhana (Pasal 8 ayat (4)): bila fakta dan keadaan ini terbukti secara sederhana, permohonan harus dikabulkan. Besarnya utang tidak menjadi syarat.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 2 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-upaya-hukum-pailit",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Upaya hukum terhadap putusan pernyataan pailit Pengadilan Niaga adalah…",
+    "options": [
+      "Banding ke Pengadilan Tinggi",
+      "Kasasi ke Mahkamah Agung",
+      "Verzet",
+      "Tidak ada upaya hukum"
+    ],
+    "answerIndex": 1,
+    "explanation": "UU Kepailitan meniadakan banding: upaya hukumnya langsung kasasi (Pasal 11), dan setelah itu peninjauan kembali.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 11"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-jangka-putusan-pailit",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Putusan atas permohonan pernyataan pailit harus diucapkan paling lambat … setelah tanggal permohonan didaftarkan.",
+    "options": [
+      "14 hari",
+      "30 hari",
+      "60 hari",
+      "90 hari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 8 ayat (5) UU Kepailitan: paling lambat 60 hari. Kepailitan dirancang cepat.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 8 ayat (5)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-pkpu-maksimal",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "PKPU sementara ditambah perpanjangannya tidak boleh melebihi…",
+    "options": [
+      "45 hari",
+      "90 hari",
+      "180 hari",
+      "270 hari"
+    ],
+    "answerIndex": 3,
+    "explanation": "PKPU sementara paling lama 45 hari; bila disetujui menjadi PKPU tetap, seluruhnya tidak boleh melebihi 270 hari setelah putusan PKPU sementara (Pasal 228 ayat (6)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 225 dan Pasal 228 ayat (6)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-actio-pauliana",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Sebelum pailit, debitor menghibahkan rumahnya ke adik untuk menghindari kreditor. Kurator dapat meminta pembatalan perbuatan itu melalui…",
+    "options": [
+      "Actio pauliana",
+      "Renvoi prosedur",
+      "Verzet",
+      "Derden verzet"
+    ],
+    "answerIndex": 0,
+    "explanation": "Actio pauliana (Pasal 41 UU Kepailitan; juga Pasal 1341 KUHPerdata) membatalkan perbuatan debitor yang merugikan kreditor, yang dilakukan sebelum putusan pailit dan tidak diwajibkan undang-undang atau perjanjian.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 41"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-firma-cv",
+    "type": "fact",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "infographic",
+      "title": "Firma vs CV",
+      "points": [
+        "Firma: semua sekutu bertanggung jawab tanggung renteng tanpa batas",
+        "CV: sekutu komplementer (aktif) tanggung jawab tanpa batas",
+        "CV: sekutu komanditer (pasif) terbatas pada modal yang disetor",
+        "Keduanya bukan badan hukum"
+      ]
+    },
+    "caption": "Firma diatur mulai Pasal 16 KUHD dan CV di Pasal 19 KUHD. Bila sekutu komanditer ikut mengurus, ia kehilangan perlindungan tanggung jawab terbatas (Pasal 20-21 KUHD).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Dagang (KUHD)",
+      "reference": "Pasal 16-21"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-pasal-1-kuhd",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Hubungan KUHPerdata dan KUHD menurut Pasal 1 KUHD paling tepat digambarkan dengan asas…",
+    "options": [
+      "Lex superior",
+      "Lex specialis derogat legi generali",
+      "Lex posterior",
+      "Pacta sunt servanda"
+    ],
+    "answerIndex": 1,
+    "explanation": "KUHPerdata berlaku juga untuk hal-hal dalam KUHD sepanjang KUHD tidak mengatur secara khusus. KUHD sebagai aturan khusus, KUHPerdata sebagai aturan umum.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Dagang (KUHD)",
+      "reference": "Pasal 1"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-cek",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Cek adalah surat berharga yang berisi…",
+    "options": [
+      "Janji penerbit untuk membayar pada tanggal tertentu",
+      "Perintah tanpa syarat kepada bankir untuk membayar sejumlah uang, dibayar saat diperlihatkan",
+      "Bukti kepemilikan saham",
+      "Jaminan fidusia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cek adalah surat perintah membayar kepada bank yang dapat ditagih saat diperlihatkan (atas unjuk). Surat sanggup/aksep berisi janji membayar dari penerbit sendiri.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Dagang (KUHD)",
+      "reference": "Ketentuan tentang cek dalam KUHD"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-pt-dua-orang",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "meme",
+      "top": "Mau bikin PT sendirian, 2019:",
+      "bottom": "Mau bikin PT perorangan usaha mikro, sesudah Cipta Kerja: bisa.",
+      "character": "cat",
+      "expression": "sad"
+    },
+    "caption": "Asalnya PT didirikan minimal dua orang. UU Cipta Kerja memperkenalkan PT perorangan untuk usaha mikro dan kecil.",
+    "teaches": "Pasal 7 ayat (1) UU PT (minimal dua pendiri) dan perubahan UU Cipta Kerja yang memungkinkan PT perorangan untuk usaha mikro dan kecil.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
+      "reference": "Pasal 7 dan perubahan UU Cipta Kerja"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-kurator-bukan-kurir",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "comic",
+      "title": "Sejak putusan pailit",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Debitor: jadi setelah pailit saya masih urus harta saya?"
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Mpus: tidak. Pengurusan beralih ke kurator."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Debitor: kurir paket?"
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Mpus: KURATOR. Diawasi hakim pengawas."
+        }
+      ]
+    },
+    "caption": "Sejak putusan pailit diucapkan, debitor kehilangan hak menguasai dan mengurus harta pailitnya; kurator yang mengurus dan membereskan, diawasi hakim pengawas.",
+    "teaches": "Akibat putusan pailit: debitor demi hukum kehilangan hak menguasai dan mengurus kekayaannya yang termasuk harta pailit (Pasal 24 UU Kepailitan).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 24"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-reel-pailit",
+    "type": "reel",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Dua kreditor. Satu utang macet.",
+        "caption": "Syarat pailit: dua kreditor atau lebih, dan sedikitnya satu utang jatuh waktu dan dapat ditagih tidak dibayar lunas.",
+        "kicker": "Kepailitan",
+        "character": "cat",
+        "expression": "shock",
+        "characterMotion": "enter-right"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Ke Pengadilan Niaga.",
+        "caption": "Permohonan diajukan ke Pengadilan Niaga. Pembuktiannya sederhana.",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Putus maksimal 60 hari.",
+        "caption": "Putusan pailit harus diucapkan paling lambat 60 hari setelah permohonan didaftarkan.",
+        "textMotion": "slide-up",
+        "effect": "zoom"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Tidak puas? Langsung kasasi.",
+        "caption": "Tidak ada banding dalam kepailitan. Upaya hukumnya kasasi, lalu peninjauan kembali.",
+        "character": "owl",
+        "expression": "smug",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Empat angka dan syarat kunci kepailitan.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 2, 8, 11"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-pailit-vs-pkpu",
+    "type": "carousel",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Bedanya apa?",
+          "title": "Pailit vs PKPU",
+          "character": "cat",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Pailit",
+          "points": [
+            "Tujuan: membereskan harta untuk dibagi ke kreditor",
+            "Debitor kehilangan hak mengurus hartanya",
+            "Diurus kurator"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "PKPU",
+          "points": [
+            "Tujuan: memberi waktu menyusun rencana perdamaian",
+            "Debitor tetap mengurus bersama pengurus",
+            "Maksimal 270 hari"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "PKPU gagal mencapai perdamaian. Akibatnya?",
+        "options": [
+          "Debitor dinyatakan pailit",
+          "Utang hapus",
+          "PKPU diulang dari awal"
+        ],
+        "answerIndex": 0,
+        "explanation": "Bila rencana perdamaian ditolak atau PKPU berakhir tanpa perdamaian, pengadilan menyatakan debitor pailit."
+      }
+    ],
+    "caption": "PKPU sering dipakai debitor untuk mencegah pailit.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Bab II dan Bab III"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-story-pt-kilat",
+    "type": "story",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "title": "PT dalam 5 slide",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Kilat",
+          "title": "Perseroan Terbatas",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Badan hukum",
+          "sub": "Status diperoleh dengan Keputusan Menteri pengesahan."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Tanggung jawab terbatas",
+          "sub": "Pemegang saham tanggung jawab sebatas sahamnya, kecuali piercing the corporate veil."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "3 organ",
+          "sub": "RUPS, Direksi, Dewan Komisaris."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "25%",
+          "sub": "Minimal modal dasar yang ditempatkan dan disetor penuh."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
+      "reference": "Pasal 1, 3, 7, 33"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-poll-cv-badan-hukum",
+    "type": "poll",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Apakah CV (persekutuan komanditer) merupakan badan hukum?",
+    "options": [
+      "Ya, sama seperti PT",
+      "Bukan badan hukum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Firma dan CV adalah persekutuan yang bukan badan hukum. Akibatnya harta sekutu komplementer dapat dijangkau untuk utang persekutuan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Dagang (KUHD)",
+      "reference": "Pasal 16-21"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

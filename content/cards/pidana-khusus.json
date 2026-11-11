@@ -1,0 +1,460 @@
+[
+  {
+    "id": "pidana-khusus-unsur-pasal-2",
+    "type": "fact",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "infographic",
+      "title": "Unsur Pasal 2 ayat (1) UU Tipikor",
+      "points": [
+        "Setiap orang",
+        "Secara melawan hukum",
+        "Memperkaya diri sendiri, orang lain, atau korporasi",
+        "Merugikan keuangan/perekonomian negara"
+      ]
+    },
+    "caption": "Versi UU Tipikor. Setelah Putusan MK No. 25/PUU-XIV/2016 kata \"dapat\" (dapat merugikan) dinyatakan tidak mengikat, sehingga kerugian negara harus nyata (delik materiil). Sejak 2 Januari 2026 rumusan inti Pasal 2 dan 3 juga diatur dalam KUHP Nasional; cek pasal dan ancaman yang berlaku.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "Pasal 2 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-pasal-2-vs-3",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Seorang pejabat menguntungkan diri dengan menyalahgunakan kewenangan karena jabatannya dan merugikan keuangan negara. Rumusan UU Tipikor yang paling tepat adalah…",
+    "options": [
+      "Pasal 2: melawan hukum memperkaya diri",
+      "Pasal 3: menyalahgunakan kewenangan, kesempatan, atau sarana karena jabatan",
+      "Pasal 5: suap aktif",
+      "Pasal 12B: gratifikasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 3 menekankan unsur penyalahgunaan kewenangan, kesempatan, atau sarana karena jabatan atau kedudukan, dengan tujuan menguntungkan. Pasal 2 menekankan perbuatan melawan hukum yang memperkaya. Kini rumusan sejenis ada di KUHP Nasional; cek nomor pasalnya.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "Pasal 2 dan Pasal 3"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-mk-kata-dapat",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Apa dampak Putusan MK No. 25/PUU-XIV/2016 terhadap Pasal 2 dan 3 UU Tipikor?",
+    "options": [
+      "Korupsi tidak lagi bisa dipidana",
+      "Kata \"dapat\" dihapus sehingga kerugian negara harus nyata (actual loss)",
+      "Ancaman pidana mati dihapus",
+      "KPK dibubarkan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Delik korupsi Pasal 2 dan 3 berubah dari delik formil (cukup potensi kerugian) menjadi delik materiil: kerugian keuangan negara harus benar-benar terjadi.",
+    "source": {
+      "title": "Putusan Mahkamah Konstitusi No. 25/PUU-XIV/2016",
+      "reference": "Putusan MK No. 25/PUU-XIV/2016"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-gratifikasi-lapor",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pegawai negeri menerima gratifikasi. Agar tidak dianggap suap, ia wajib melaporkannya kepada KPK paling lambat…",
+    "options": [
+      "7 hari kerja",
+      "14 hari kerja",
+      "30 hari kerja",
+      "90 hari kalender"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 12C UU Tipikor: ketentuan gratifikasi dianggap suap (Pasal 12B) tidak berlaku bila penerima melaporkannya ke KPK paling lambat 30 hari kerja sejak diterima.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "Pasal 12B dan 12C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-pengadilan-tipikor",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pengadilan Tindak Pidana Korupsi berada di lingkungan peradilan…",
+    "options": [
+      "Agama",
+      "Militer",
+      "Umum",
+      "Tata usaha negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pengadilan Tipikor adalah pengadilan khusus di lingkungan peradilan umum, dibentuk dengan UU No. 46 Tahun 2009, berkedudukan di setiap ibu kota kabupaten/kota (dalam praktik dibentuk bertahap, umumnya di ibu kota provinsi).",
+    "source": {
+      "title": "UU No. 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi",
+      "reference": "UU No. 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-tahap-pencucian-uang",
+    "type": "fact",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "infographic",
+      "title": "3 tahap pencucian uang",
+      "points": [
+        "Placement: menempatkan uang hasil kejahatan ke sistem keuangan",
+        "Layering: memindah-mindahkan untuk mengaburkan asal-usul",
+        "Integration: memakainya kembali seolah-olah sah"
+      ]
+    },
+    "caption": "Tahapan ini konsep doktrin/kriminologi, bukan unsur pasal. Unsur deliknya ada di Pasal 3, 4, dan 5 UU TPPU (aktif menempatkan/mentransfer, menyembunyikan asal-usul, dan menerima/menguasai).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Doktrin; Pasal 3-5 UU TPPU"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-pembuktian-terbalik-tppu",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Dalam pemeriksaan di sidang perkara TPPU, siapa yang wajib membuktikan bahwa harta kekayaannya bukan hasil tindak pidana?",
+    "options": [
+      "Penuntut umum",
+      "Terdakwa",
+      "PPATK",
+      "Hakim"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 77 UU TPPU: untuk kepentingan pemeriksaan di sidang pengadilan, terdakwa wajib membuktikan bahwa harta kekayaannya bukan merupakan hasil tindak pidana (pembalikan beban pembuktian).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 77"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-tppu-tanpa-predikat",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Apakah tindak pidana asal (predicate crime) harus dibuktikan terlebih dahulu sebelum perkara TPPU diperiksa?",
+    "options": [
+      "Ya, harus ada putusan berkekuatan hukum tetap atas tindak pidana asal",
+      "Tidak wajib dibuktikan terlebih dahulu",
+      "Hanya untuk korupsi",
+      "Hanya bila terdakwanya korporasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 69 UU TPPU: untuk penyidikan, penuntutan, dan pemeriksaan di sidang TPPU, tidak wajib dibuktikan terlebih dahulu tindak pidana asalnya.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 69"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-ppatk",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Lembaga yang menerima dan menganalisis laporan transaksi keuangan mencurigakan adalah…",
+    "options": [
+      "OJK",
+      "PPATK",
+      "BPK",
+      "KPK"
+    ],
+    "answerIndex": 1,
+    "explanation": "PPATK (Pusat Pelaporan dan Analisis Transaksi Keuangan) adalah lembaga intelijen keuangan Indonesia menurut UU TPPU.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Bab tentang PPATK"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-golongan-narkotika",
+    "type": "fact",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "infographic",
+      "title": "Golongan narkotika",
+      "points": [
+        "Golongan I: hanya untuk iptek, bukan terapi; potensi ketergantungan sangat tinggi",
+        "Golongan II: untuk pengobatan pilihan terakhir, potensi tinggi",
+        "Golongan III: banyak dipakai dalam terapi, potensi ringan"
+      ]
+    },
+    "caption": "Daftar zat tiap golongan ada di lampiran UU dan diperbarui lewat Peraturan Menteri Kesehatan. Psikotropika golongan I dan II menurut UU 5/1997 dipindahkan menjadi narkotika golongan I.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika",
+      "reference": "Pasal 6 dan Penjelasannya"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-rehabilitasi-pecandu",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut UU Narkotika, pecandu narkotika dan korban penyalahgunaan narkotika…",
+    "options": [
+      "Wajib menjalani rehabilitasi medis dan rehabilitasi sosial",
+      "Selalu dipidana mati",
+      "Dibebaskan tanpa tindakan apa pun",
+      "Hanya dikenai denda"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 54 UU Narkotika mewajibkan rehabilitasi medis dan sosial. Hakim dapat memutus atau menetapkan rehabilitasi bagi pecandu (Pasal 103).",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika",
+      "reference": "Pasal 54 dan Pasal 103"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-gratifikasi-parsel",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "meme",
+      "top": "Dapat parsel dari pihak berperkara?",
+      "bottom": "Lapor KPK dalam 30 hari kerja. Atau jangan terima sejak awal.",
+      "character": "owl",
+      "expression": "think"
+    },
+    "caption": "Gratifikasi kepada pegawai negeri yang berhubungan dengan jabatan dianggap suap, kecuali dilaporkan ke KPK dalam 30 hari kerja.",
+    "teaches": "Pasal 12B dan 12C UU Tipikor tentang gratifikasi dan kewajiban melapor ke KPK.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "Pasal 12B-12C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-laundry-uang",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "comic",
+      "title": "Usaha laundry",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Mpus: aku mau buka usaha laundry."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Cika: laundry baju atau laundry uang?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Mpus: BAJU! Uang dicuci itu TPPU."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Pak Hoot: placement, layering, integration."
+        }
+      ]
+    },
+    "caption": "Pencucian uang = menyamarkan asal-usul harta hasil tindak pidana agar tampak sah.",
+    "teaches": "Pencucian uang menurut UU 8/2010 dan tiga tahap doktriner: placement, layering, integration.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 3-5"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-jembatan-tahap-tppu",
+    "type": "mnemonic",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Tahap pencucian uang",
+      "text": "TARUH · PUTAR · PAKAI",
+      "sub": "Placement, layering, integration"
+    },
+    "caption": "Versi bahasa Indonesia tiga tahap pencucian uang.",
+    "phrase": "TARUH-PUTAR-PAKAI",
+    "expansion": [
+      "TARUH: placement, uang masuk sistem keuangan",
+      "PUTAR: layering, transaksi berlapis",
+      "PAKAI: integration, dipakai seolah sah"
+    ],
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-reel-korupsi-kuhp-baru",
+    "type": "reel",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Korupsi sekarang ada di dua undang-undang?",
+        "caption": "Sejak KUHP Nasional berlaku 2 Januari 2026, beberapa delik inti korupsi juga dirumuskan di KUHP.",
+        "kicker": "Perhatian versi",
+        "character": "gecko",
+        "expression": "shock",
+        "characterMotion": "enter-left"
+      },
+      {
+        "durationMs": 4500,
+        "text": "UU Tipikor tetap dipakai untuk hal yang tidak diambil alih.",
+        "caption": "Ketentuan khusus seperti gratifikasi dan hukum acara khusus tetap merujuk UU Tipikor; cek pasal peralihan KUHP Nasional.",
+        "textMotion": "slide-up"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Perkara lama? Lihat waktu perbuatan.",
+        "caption": "Asas: berlaku aturan saat perbuatan dilakukan, kecuali aturan baru lebih menguntungkan.",
+        "character": "owl",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Selalu cek teks resmi sebelum menghafal ancaman pidana.",
+        "caption": "Kartu ini sengaja tidak mencantumkan nomor pasal dan ancaman, karena belum diverifikasi.",
+        "effect": "zoom"
+      }
+    ],
+    "caption": "Peringatan versi peraturan. Kartu ini menjelaskan konsep, bukan angka.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023); UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "KUHP Nasional (UU 1/2023) dan UU Tipikor"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-story-tipikor",
+    "type": "story",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "title": "Korupsi kilat",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Pidana khusus",
+          "title": "Korupsi dalam 5 slide",
+          "character": "gecko",
+          "expression": "smug"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 2",
+          "sub": "Melawan hukum, memperkaya, merugikan keuangan negara."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 3",
+          "sub": "Menyalahgunakan kewenangan karena jabatan, menguntungkan, merugikan keuangan negara."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Kerugian nyata",
+          "sub": "Putusan MK 25/PUU-XIV/2016: kata \"dapat\" tidak mengikat."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Gratifikasi",
+          "sub": "Lapor KPK dalam 30 hari kerja (Pasal 12C)."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
+      "reference": "Pasal 2, 3, 12B, 12C"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-poll-narkotika-gol1-obat",
+    "type": "poll",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Bolehkah narkotika golongan I dipakai untuk terapi (pengobatan) pasien?",
+    "options": [
+      "Boleh dengan resep dokter",
+      "Tidak, hanya untuk pengembangan ilmu pengetahuan dan teknologi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Narkotika golongan I hanya digunakan untuk pengembangan iptek dan tidak untuk terapi (Pasal 8 dan penjelasan golongan dalam UU Narkotika).",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika",
+      "reference": "Pasal 6 dan Pasal 8"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

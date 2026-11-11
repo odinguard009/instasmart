@@ -1,0 +1,382 @@
+[
+  {
+    "id": "tiu-deret-nn1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 2, 6, 12, 20, 30, …",
+    "options": [
+      "36",
+      "40",
+      "42",
+      "48"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pola n x (n+1): 1x2, 2x3, 3x4, 4x5, 5x6, lalu 6x7 = 42. Selisihnya juga naik 4, 6, 8, 10, 12.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-2x-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 3, 5, 9, 17, 33, …",
+    "options": [
+      "49",
+      "57",
+      "65",
+      "66"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pola x2 - 1: 33 x 2 - 1 = 65. Selisihnya juga berlipat: 2, 4, 8, 16, 32.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-deret-selang",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Lanjutkan deret: 5, 8, 7, 10, 9, 12, …",
+    "options": [
+      "11",
+      "13",
+      "14",
+      "15"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pola bergantian +3, -1: 12 - 1 = 11.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-perbandingan-pekerja",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "3 pekerja menyelesaikan pekerjaan dalam 12 hari. Jika dikerjakan 4 pekerja dengan kecepatan sama, pekerjaan selesai dalam…",
+    "options": [
+      "8 hari",
+      "9 hari",
+      "10 hari",
+      "16 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perbandingan berbalik nilai: 3 x 12 = 36 hari-orang; 36 / 4 = 9 hari.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Perbandingan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-diskon-ganda",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Harga Rp200.000 didiskon 20%, lalu didiskon lagi 10% dari harga baru. Harga akhir…",
+    "options": [
+      "Rp140.000",
+      "Rp144.000",
+      "Rp150.000",
+      "Rp160.000"
+    ],
+    "answerIndex": 1,
+    "explanation": "200.000 x 0,8 = 160.000; 160.000 x 0,9 = 144.000. Diskon bertingkat tidak sama dengan diskon 30%.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Persentase"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-jarak",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "Mobil melaju 60 km/jam selama 2,5 jam. Jarak tempuhnya…",
+    "options": [
+      "120 km",
+      "140 km",
+      "150 km",
+      "160 km"
+    ],
+    "answerIndex": 2,
+    "explanation": "Jarak = kecepatan x waktu = 60 x 2,5 = 150 km.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Kecepatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-hitung-campur",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "question": "0,25 x 48 + 1/3 x 27 = …",
+    "options": [
+      "18",
+      "21",
+      "24",
+      "27"
+    ],
+    "answerIndex": 1,
+    "explanation": "0,25 x 48 = 12; 27 / 3 = 9; 12 + 9 = 21.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Aritmetika"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-analogi-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "DOKTER : STETOSKOP = TUKANG KAYU : …",
+    "options": [
+      "Rumah",
+      "Gergaji",
+      "Pohon",
+      "Meja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hubungan profesi dan alat kerjanya.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Analogi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-sinonim-nisbi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata NISBI adalah…",
+    "options": [
+      "Mutlak",
+      "Relatif",
+      "Abstrak",
+      "Pasti"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nisbi = relatif, tidak mutlak (KBBI).",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Sinonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-antonim-konkret",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata KONKRET adalah…",
+    "options": [
+      "Nyata",
+      "Abstrak",
+      "Jelas",
+      "Padat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Konkret (nyata, berwujud) berlawanan dengan abstrak.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
+      "reference": "Antonim"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-silogisme-1",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Semua pegawai di kantor itu disiplin. Sebagian pegawai di kantor itu atlet. Simpulan yang tepat…",
+    "options": [
+      "Semua atlet disiplin",
+      "Sebagian atlet disiplin",
+      "Semua yang disiplin adalah atlet",
+      "Tidak ada atlet yang disiplin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Atlet yang juga pegawai pasti disiplin, jadi sebagian atlet disiplin. Tidak bisa disimpulkan tentang atlet yang bukan pegawai.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Silogisme"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-modus-tollens",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Jika hujan, jalan basah. Jalan tidak basah. Simpulan…",
+    "options": [
+      "Hujan",
+      "Tidak hujan",
+      "Jalan kering karena panas",
+      "Tidak dapat disimpulkan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Modus tollens: p -> q, ~q, maka ~p.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Logika proposisi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-ingkaran-semua",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Ingkaran dari \"Semua siswa hadir\" adalah…",
+    "options": [
+      "Semua siswa tidak hadir",
+      "Ada siswa yang tidak hadir",
+      "Tidak ada siswa yang hadir",
+      "Sebagian siswa hadir"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ingkaran kuantor universal: \"ada/beberapa ... tidak ...\".",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Logika proposisi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-ingkaran-implikasi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "question": "Ingkaran dari \"Jika lulus, ia diangkat\" adalah…",
+    "options": [
+      "Jika tidak lulus, ia tidak diangkat",
+      "Ia lulus dan tidak diangkat",
+      "Ia tidak lulus atau diangkat",
+      "Jika diangkat, ia lulus"
+    ],
+    "answerIndex": 1,
+    "explanation": "~(p -> q) setara p dan ~q.",
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Logika proposisi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-mnemonik-ingkaran",
+    "type": "mnemonic",
+    "topicId": "tiu",
+    "subTopicId": "logika",
+    "account": "tiu.ngebut",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Ingkaran kuantor",
+      "text": "Semua jadi Ada",
+      "sub": "dan Ada jadi Semua...tidak"
+    },
+    "caption": "Pegangan cepat ingkaran kuantor.",
+    "phrase": "SEMUA <-> ADA",
+    "expansion": [
+      "~(Semua A adalah B) = Ada A yang bukan B",
+      "~(Ada A yang B) = Semua A bukan B",
+      "~(p -> q) = p dan ~q"
+    ],
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Logika proposisi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-story-tiu",
+    "type": "story",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "title": "Trik deret",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "TIU",
+          "title": "Deret angka",
+          "character": "gecko",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "1. Cek selisih",
+          "sub": "Tetap? Naik teratur?"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "2. Cek rasio",
+          "sub": "Dikali/dibagi bilangan tetap?"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "3. Cek lompat",
+          "sub": "Pola bergantian di posisi ganjil/genap."
+        }
+      }
+    ],
+    "source": {
+      "title": "Latihan buatan sendiri (jawaban dihitung ulang dengan skrip)",
+      "reference": "Deret angka"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

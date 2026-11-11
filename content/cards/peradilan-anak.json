@@ -1,0 +1,271 @@
+[
+  {
+    "id": "peradilan-anak-batas-umur-anak",
+    "type": "fact",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Anak berkonflik dg hukum",
+      "text": "12 sampai belum 18 tahun",
+      "sub": "Anak yang telah berumur 12 tahun tetapi belum berumur 18 tahun yang diduga melakukan tindak pidana."
+    },
+    "caption": "Di bawah 12 tahun tidak diproses pidana: penyidik bersama pembimbing kemasyarakatan dan pekerja sosial memutuskan mengembalikan ke orang tua/wali atau mengikutsertakan dalam program pembinaan paling lama 6 bulan (Pasal 21).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 1 angka 3 dan Pasal 21"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-syarat-diversi",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Diversi wajib diupayakan bila tindak pidana yang dilakukan anak…",
+    "options": [
+      "Diancam pidana penjara di bawah 7 tahun dan bukan pengulangan tindak pidana",
+      "Diancam pidana penjara di bawah 10 tahun",
+      "Apa pun ancamannya, asal korban setuju",
+      "Hanya tindak pidana ringan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 7 ayat (2) UU SPPA. Diversi wajib diupayakan pada tahap penyidikan, penuntutan, dan pemeriksaan di pengadilan negeri (Pasal 7 ayat (1)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-maks-penjara-anak",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Pidana penjara yang dapat dijatuhkan kepada anak paling lama…",
+    "options": [
+      "Sama dengan orang dewasa",
+      "1/3 dari maksimum ancaman bagi orang dewasa",
+      "1/2 dari maksimum ancaman bagi orang dewasa",
+      "2/3 dari maksimum ancaman bagi orang dewasa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 81 ayat (2) UU SPPA. Bila tindak pidananya diancam pidana mati atau penjara seumur hidup, pidana yang dijatuhkan paling lama 10 tahun (Pasal 81 ayat (6)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 81 ayat (2) dan (6)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-penahanan-anak",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Penahanan terhadap anak hanya dapat dilakukan bila anak berumur … atau lebih dan diancam pidana penjara 7 tahun atau lebih.",
+    "options": [
+      "12 tahun",
+      "14 tahun",
+      "16 tahun",
+      "17 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 32 ayat (2) UU SPPA. Penahanan anak adalah upaya terakhir; anak tidak boleh ditahan bila ada jaminan dari orang tua/wali atau lembaga.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 32"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-hakim-tunggal-anak",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Pada asasnya, perkara anak di tingkat pertama diperiksa oleh…",
+    "options": [
+      "Majelis tiga hakim",
+      "Hakim tunggal",
+      "Hakim ad hoc",
+      "Juri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 44 ayat (1) UU SPPA: hakim tunggal. Ketua pengadilan dapat menetapkan majelis untuk tindak pidana yang diancam penjara 7 tahun atau lebih atau yang sulit pembuktiannya.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 44"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-sidang-anak-beda",
+    "type": "fact",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "infographic",
+      "title": "Sidang anak itu berbeda",
+      "points": [
+        "Tertutup untuk umum; putusan dibacakan terbuka",
+        "Hakim, penuntut, penyidik, advokat tidak memakai toga/atribut dinas",
+        "Identitas anak wajib dirahasiakan",
+        "Didampingi orang tua/wali dan pembimbing kemasyarakatan"
+      ]
+    },
+    "caption": "Semua demi kepentingan terbaik bagi anak. Media dilarang membuka identitas anak, anak korban, dan anak saksi.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 19, 22, 54, 55, 61"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-keadilan-restoratif",
+    "type": "review",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "front": "Apa yang dimaksud keadilan restoratif dalam UU SPPA?",
+    "back": "Penyelesaian perkara tindak pidana dengan melibatkan pelaku, korban, keluarga pelaku/korban, dan pihak lain yang terkait untuk bersama-sama mencari penyelesaian yang adil dengan menekankan pemulihan kembali pada keadaan semula, dan bukan pembalasan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 1 angka 6"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-toga-dilepas",
+    "type": "humor",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "meme",
+      "top": "Sidang anak:",
+      "bottom": "Hakim tanpa toga. Bukan lupa, memang aturannya.",
+      "character": "owl",
+      "expression": "happy"
+    },
+    "caption": "Dalam sidang anak, hakim, penuntut umum, penyidik, dan advokat tidak memakai toga atau atribut kedinasan, supaya suasana tidak menakutkan anak.",
+    "teaches": "Pasal 22 UU SPPA: pejabat dalam pemeriksaan perkara anak tidak memakai toga atau atribut kedinasan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 22"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-reel-diversi",
+    "type": "reel",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Anak 15 tahun mencuri ponsel.",
+        "caption": "Ancaman pencurian biasa di bawah tujuh tahun, dan ini bukan pengulangan.",
+        "kicker": "Kasus",
+        "character": "kancil",
+        "expression": "sad",
+        "characterMotion": "enter-left"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Wajib diupayakan diversi.",
+        "caption": "Diversi wajib diupayakan di penyidikan, penuntutan, dan pengadilan.",
+        "textMotion": "pop",
+        "effect": "zoom"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Duduk bersama: anak, korban, keluarga.",
+        "caption": "Musyawarah melibatkan anak, orang tua, korban, pembimbing kemasyarakatan, dan pekerja sosial.",
+        "character": "owl",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Tujuannya pemulihan, bukan balas dendam.",
+        "caption": "Ini keadilan restoratif: memulihkan keadaan, bukan membalas.",
+        "textMotion": "slide-up",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Contoh fiktif alur diversi. Hasil kesepakatan diversi dapat berupa perdamaian dengan atau tanpa ganti kerugian, penyerahan kembali ke orang tua, dan lain-lain.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 6-11"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-story-sppa",
+    "type": "story",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "title": "Peradilan anak kilat",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "SPPA",
+          "title": "Anak berhadapan dengan hukum",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "12-18",
+          "sub": "Rentang umur anak yang berkonflik dengan hukum."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "< 7 tahun",
+          "sub": "Ancaman pidana di bawah 7 tahun dan bukan pengulangan: wajib diversi."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "½",
+          "sub": "Penjara anak paling lama separuh ancaman orang dewasa."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "10 tahun",
+          "sub": "Paling lama, bila ancamannya pidana mati atau seumur hidup."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 1, 7, 81"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

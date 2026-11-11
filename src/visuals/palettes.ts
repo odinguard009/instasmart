@@ -24,6 +24,10 @@ export const PALETTES: Record<PaletteId, Palette> = {
   senja: { id: 'senja', bg: '#EE6C3A', bgDeep: '#A3250F', ink: '#FFF6EE', accent: '#FFE08A', accentInk: '#5A1A05', panel: '#FFF6EE', panelInk: '#6A1E08' },
   toska: { id: 'toska', bg: '#0F9C9C', bgDeep: '#064F55', ink: '#EFFFFE', accent: '#FFE66D', accentInk: '#06363A', panel: '#EFFFFE', panelInk: '#064F55' },
   emas: { id: 'emas', bg: '#D9A520', bgDeep: '#8A6208', ink: '#FFFBEB', accent: '#2B1D00', accentInk: '#FFE9A8', panel: '#FFFBEB', panelInk: '#4A3300' },
+  nila: { id: 'nila', bg: '#3F4FC9', bgDeep: '#1A2170', ink: '#EEF0FF', accent: '#FFC857', accentInk: '#2A1A00', panel: '#EEF0FF', panelInk: '#1A2170' },
+  mawar: { id: 'mawar', bg: '#C2386E', bgDeep: '#6B0F38', ink: '#FFF0F5', accent: '#FFE3A3', accentInk: '#4A0A26', panel: '#FFF0F5', panelInk: '#5A0C30' },
+  zaitun: { id: 'zaitun', bg: '#6E7F1E', bgDeep: '#333D08', ink: '#FAFDEB', accent: '#FFD9A0', accentInk: '#2E2405', panel: '#FAFDEB', panelInk: '#333D08' },
+  kopi: { id: 'kopi', bg: '#7A4A2B', bgDeep: '#3A1F0E', ink: '#FFF5EC', accent: '#9FE3C8', accentInk: '#0E3325', panel: '#FFF5EC', panelInk: '#3A1F0E' },
   arang: { id: 'arang', bg: '#343844', bgDeep: '#121317', ink: '#F4F5F7', accent: '#FF7A7A', accentInk: '#2A0A0A', panel: '#F4F5F7', panelInk: '#1B1D24' },
 };
 

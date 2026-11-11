@@ -1,0 +1,321 @@
+[
+  {
+    "id": "ham-non-derogable",
+    "type": "fact",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "visual": {
+      "template": "infographic",
+      "title": "Hak yang tidak dapat dikurangi (Pasal 28I ayat 1)",
+      "points": [
+        "Hidup; tidak disiksa",
+        "Kemerdekaan pikiran & hati nurani; beragama",
+        "Tidak diperbudak; diakui sebagai pribadi di depan hukum",
+        "Tidak dituntut atas dasar hukum yang berlaku surut"
+      ]
+    },
+    "caption": "Hak-hak ini tidak dapat dikurangi dalam keadaan apa pun. Pembatasan HAM lain hanya boleh dengan undang-undang untuk tujuan dalam Pasal 28J ayat (2).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-pembatasan-ham",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut UUD 1945, pembatasan terhadap pelaksanaan hak asasi hanya dapat ditetapkan dengan…",
+    "options": [
+      "Peraturan pemerintah",
+      "Undang-undang",
+      "Keputusan presiden",
+      "Peraturan daerah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 28J ayat (2): pembatasan ditetapkan dengan undang-undang untuk menjamin pengakuan serta penghormatan atas hak orang lain dan memenuhi tuntutan yang adil sesuai moral, nilai agama, keamanan, dan ketertiban umum.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28J ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-berat",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Menurut UU Pengadilan HAM, pelanggaran HAM yang berat meliputi…",
+    "options": [
+      "Genosida dan kejahatan terhadap kemanusiaan",
+      "Korupsi dan terorisme",
+      "Narkotika dan pencucian uang",
+      "Kejahatan perang dan agresi saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 7 UU 26/2000 hanya menyebut dua: kejahatan genosida dan kejahatan terhadap kemanusiaan.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-penyelidik-ham-berat",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Dalam perkara pelanggaran HAM berat, penyelidikan dilakukan oleh … dan penyidikan oleh …",
+    "options": [
+      "Polri; Kejaksaan",
+      "Komnas HAM; Jaksa Agung",
+      "KPK; Polri",
+      "Komnas HAM; Polri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 18: penyelidikan oleh Komnas HAM. Pasal 21: penyidikan oleh Jaksa Agung. Penuntutan juga oleh Jaksa Agung (Pasal 23).",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 18, 21, 23"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-adhoc",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Pelanggaran HAM berat yang terjadi sebelum UU 26/2000 diundangkan diperiksa oleh…",
+    "options": [
+      "Pengadilan HAM biasa",
+      "Pengadilan HAM ad hoc yang dibentuk atas usul DPR dengan Keputusan Presiden",
+      "Mahkamah Pidana Internasional",
+      "Mahkamah Konstitusi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 43 UU 26/2000. Ini pengecualian terhadap asas nonretroaktif yang diperdebatkan, dan pernah diuji di MK.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 43"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-kedaluwarsa-ham-berat",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "question": "Apakah ketentuan kedaluwarsa berlaku untuk pelanggaran HAM yang berat?",
+    "options": [
+      "Ya, 18 tahun",
+      "Ya, 12 tahun",
+      "Tidak berlaku",
+      "Hanya untuk genosida"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 46 UU 26/2000: untuk pelanggaran HAM yang berat tidak berlaku ketentuan mengenai kedaluwarsa.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 46"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-duham",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Deklarasi Universal Hak Asasi Manusia (DUHAM) diterima Majelis Umum PBB pada tanggal…",
+    "options": [
+      "17 Agustus 1945",
+      "24 Oktober 1945",
+      "10 Desember 1948",
+      "16 Desember 1966"
+    ],
+    "answerIndex": 2,
+    "explanation": "10 Desember 1948, kini diperingati sebagai Hari HAM. Dua kovenan internasional (ICCPR dan ICESCR) diadopsi 16 Desember 1966 dan diratifikasi Indonesia pada 2005.",
+    "source": {
+      "title": "Deklarasi Universal Hak Asasi Manusia",
+      "reference": "Resolusi Majelis Umum PBB 217 A (III)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-ratifikasi-kovenan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Indonesia meratifikasi Kovenan Internasional tentang Hak Sipil dan Politik (ICCPR) melalui…",
+    "options": [
+      "UU No. 39 Tahun 1999",
+      "UU No. 12 Tahun 2005",
+      "UU No. 26 Tahun 2000",
+      "Keppres No. 50 Tahun 1993"
+    ],
+    "answerIndex": 1,
+    "explanation": "ICCPR disahkan dengan UU No. 12 Tahun 2005; ICESCR (hak ekonomi, sosial, budaya) dengan UU No. 11 Tahun 2005. UU 39/1999 adalah UU HAM; Keppres 50/1993 membentuk Komnas HAM pertama kali.",
+    "source": {
+      "title": "UU No. 12 Tahun 2005 tentang Pengesahan ICCPR",
+      "reference": "UU No. 11 dan 12 Tahun 2005"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-generasi-ham",
+    "type": "fact",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "visual": {
+      "template": "infographic",
+      "title": "3 generasi HAM (Karel Vasak)",
+      "points": [
+        "I: hak sipil dan politik (kebebasan)",
+        "II: hak ekonomi, sosial, budaya (kesetaraan)",
+        "III: hak solidaritas (pembangunan, lingkungan, perdamaian)"
+      ]
+    },
+    "caption": "Pembagian ini kerangka doktrin yang populer, bukan hierarki: semua HAM universal, tidak dapat dibagi, saling bergantung.",
+    "source": {
+      "title": "Doktrin hak asasi manusia",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-hak-surut",
+    "type": "humor",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "visual": {
+      "template": "meme",
+      "top": "Pasal baru: \"Berlaku untuk perbuatanmu tahun lalu.\"",
+      "bottom": "Pasal 28I UUD: hak tidak dituntut dengan hukum yang berlaku surut.",
+      "character": "cat",
+      "expression": "shock"
+    },
+    "caption": "Larangan berlaku surut termasuk hak yang tidak dapat dikurangi dalam keadaan apa pun menurut Pasal 28I ayat (1) UUD 1945.",
+    "teaches": "Hak untuk tidak dituntut atas dasar hukum yang berlaku surut adalah non-derogable right (Pasal 28I ayat (1) UUD 1945).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-reel-ham-berat",
+    "type": "reel",
+    "topicId": "ham",
+    "subTopicId": "pengadilan-ham",
+    "account": "ham.harian",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Pelanggaran HAM berat hanya dua.",
+        "caption": "Menurut UU 26/2000: genosida dan kejahatan terhadap kemanusiaan.",
+        "kicker": "UU 26/2000",
+        "character": "cat",
+        "expression": "think",
+        "characterMotion": "enter-right"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Penyelidik: Komnas HAM.",
+        "caption": "Komnas HAM melakukan penyelidikan pelanggaran HAM yang berat.",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Penyidik dan penuntut: Jaksa Agung.",
+        "caption": "Penyidikan dan penuntutan dilakukan Jaksa Agung.",
+        "textMotion": "slide-up"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Tidak ada kedaluwarsa.",
+        "caption": "Pasal 46: ketentuan kedaluwarsa tidak berlaku.",
+        "effect": "shake"
+      }
+    ],
+    "caption": "Alur ringkas penanganan pelanggaran HAM berat.",
+    "source": {
+      "title": "UU No. 26 Tahun 2000 tentang Pengadilan HAM",
+      "reference": "Pasal 7, 18, 21, 46"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-story-ham",
+    "type": "story",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "title": "HAM dalam 5 slide",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Kilat",
+          "title": "Hak asasi manusia",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "10 Desember 1948",
+          "sub": "DUHAM diterima Majelis Umum PBB."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Pasal 28A-28J",
+          "sub": "Bab XA UUD 1945 tentang HAM, hasil amandemen kedua (2000)."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Non-derogable",
+          "sub": "Pasal 28I ayat (1): tidak dapat dikurangi dalam keadaan apa pun."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Dibatasi dengan UU",
+          "sub": "Pasal 28J ayat (2)."
+        }
+      }
+    ],
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Bab XA"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

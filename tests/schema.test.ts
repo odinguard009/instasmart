@@ -4,6 +4,7 @@ import topics from '../content/topics.json';
 import { library } from '@/content';
 import { ContentError, parseLibrary } from '@/content/library';
 import { CARD_TYPES, cardSchema } from '@/content/schema';
+import { gradeChoice } from '@/domain/grading';
 import { rawCard } from './fixtures';
 
 describe('skema kartu', () => {
@@ -114,5 +115,35 @@ describe('konten asli (content/cards/*.json)', () => {
     for (const card of library.cards.filter((c) => c.topicId === 'acara-pidana')) {
       if (!card.source.title.includes('UU No. 48 Tahun 2009')) expect(card.needsVerification, card.id).toBe(true);
     }
+  });
+});
+
+describe('soal TKP bertingkat', () => {
+  const tkp = (overrides: Record<string, unknown>) => cardSchema.safeParse(rawCard('quiz', 'tkp-1', { options: ['A', 'B', 'C', 'D'], answerIndex: 2, scores: [3, 1, 5, 4], ...overrides }));
+
+  it('lolos bila skor lengkap dan answerIndex menunjuk skor tertinggi', () => {
+    expect(tkp({}).success).toBe(true);
+  });
+
+  it('ditolak bila jumlah skor tidak sama dengan jumlah pilihan', () => {
+    expect(tkp({ scores: [3, 1, 5] }).success).toBe(false);
+  });
+
+  it('ditolak bila answerIndex bukan skor tertinggi', () => {
+    expect(tkp({ answerIndex: 3 }).success).toBe(false);
+  });
+
+  it('gradeChoice: skor >= 4 dihitung benar, kualitas SM-2 mengikuti skor', () => {
+    const question = { question: 'Q', options: ['A', 'B', 'C', 'D'], answerIndex: 2, explanation: 'E', scores: [3, 1, 5, 4] };
+    expect(gradeChoice(question, 2)).toEqual({ correct: true, quality: 4, score: 5 });
+    expect(gradeChoice(question, 3)).toEqual({ correct: true, quality: 3, score: 4 });
+    expect(gradeChoice(question, 0)).toEqual({ correct: false, quality: 2, score: 3 });
+    expect(gradeChoice(question, 1)).toEqual({ correct: false, quality: 0, score: 1 });
+  });
+
+  it('gradeChoice tanpa skor: satu jawaban benar', () => {
+    const question = { question: 'Q', options: ['A', 'B'], answerIndex: 1, explanation: 'E' };
+    expect(gradeChoice(question, 1).correct).toBe(true);
+    expect(gradeChoice(question, 0).correct).toBe(false);
   });
 });

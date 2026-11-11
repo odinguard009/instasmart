@@ -11,7 +11,8 @@ Ingat aturan akurasi di `CLAUDE.md`: kartu baru selalu `status: "draft"`, wajib 
 
 ## (a) Menambah topik atau sub-topik
 
-1. Edit `content/topics.json`: tambah objek `{ id, name, shortName, palette, subTopics: [{ id, name }] }`.
+1. Edit `content/topics.json`: tambah objek `{ id, name, shortName, group, palette, subTopics: [{ id, name }] }`.
+   `group` salah satu dari `TOPIC_GROUPS` (`hukum` atau `cpns`); dipakai filter kelompok di Jelajah.
    `id` berupa slug huruf kecil; `palette` salah satu dari `PALETTE_IDS` di `src/content/schema.ts`.
 2. (Opsional) Tambah akun fiktif untuk topik itu di `content/accounts.json` (`username`, `displayName`, `character`, `bio`).
 3. Buat `content/cards/<id-topik>.json` berisi array kartu. Sertakan minimal satu `story`, karena baris Stories memilih story per topik.
@@ -26,6 +27,7 @@ Ingat aturan akurasi di `CLAUDE.md`: kartu baru selalu `status: "draft"`, wajib 
    - `humor`: `visual`, `caption`, `teaches`
    - `mnemonic`: `visual`, `caption`, `phrase`, `expansion[]`
    - `quiz` / `poll`: `question`, `options[]`, `answerIndex`, `explanation`, `caption?`
+   - Soal TKP (kuis bertingkat): tambahkan `scores[]` (1-5, sepanjang `options`); `answerIndex` wajib menunjuk skor tertinggi. Skor 4 ke atas dihitung "benar" (`TKP_GRADING` di `src/config/feed.ts`).
    - `review` (flashcard): `front`, `back`
    - `carousel`: `caption`, `slides[]` berisi `{ kind: "visual", visual }` atau `{ kind: "quiz", ...soal }`
    - `story`: `title`, `slides[]` (4-8) berisi `{ visual, durationMs? }`

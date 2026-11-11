@@ -1,0 +1,239 @@
+[
+  {
+    "id": "konsumen-persaingan-klausula-baku",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Klausula baku dalam struk belanja: \"Barang yang sudah dibeli tidak dapat dikembalikan.\" Menurut UU Perlindungan Konsumen, klausula semacam itu…",
+    "options": [
+      "Sah karena konsumen sudah setuju",
+      "Dilarang dan dinyatakan batal demi hukum",
+      "Sah bila dicetak tebal",
+      "Hanya dapat dibatalkan BPSK"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 18 ayat (1) huruf b melarang klausula baku yang menyatakan pelaku usaha berhak menolak penyerahan kembali barang yang dibeli konsumen; ayat (3): batal demi hukum.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 18"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-beban-bukti-konsumen",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "question": "Dalam gugatan ganti rugi konsumen, pembuktian ada atau tidaknya unsur kesalahan menjadi beban…",
+    "options": [
+      "Konsumen",
+      "Pelaku usaha",
+      "BPSK",
+      "Hakim"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 28 UU 8/1999: pembuktian terbalik; beban dan tanggung jawab pembuktian ada pada pelaku usaha.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 28"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-bpsk",
+    "type": "fact",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "infographic",
+      "title": "BPSK",
+      "points": [
+        "Badan Penyelesaian Sengketa Konsumen",
+        "Cara: mediasi, konsiliasi, atau arbitrase",
+        "Di luar pengadilan; dibentuk di daerah"
+      ]
+    },
+    "caption": "Penyelesaian sengketa konsumen dapat lewat pengadilan atau di luar pengadilan; pilihan didasarkan kesukarelaan para pihak (Pasal 45). Putusan BPSK dapat diajukan keberatan ke pengadilan negeri.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 45, 49, 52, 56"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-pangsa-monopoli",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pelaku usaha patut diduga menguasai pasar (Pasal 17 UU 5/1999) bila satu pelaku atau kelompok menguasai pangsa pasar lebih dari…",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "90%"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 17 ayat (2) huruf c: lebih dari 50%. Untuk oligopoli, dua atau tiga pelaku menguasai lebih dari 75% (Pasal 4 ayat 2).",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 4, 17"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-per-se-rule-reason",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pendekatan yang menilai suatu perbuatan langsung melanggar tanpa perlu membuktikan dampaknya terhadap persaingan disebut…",
+    "options": [
+      "Rule of reason",
+      "Per se illegal",
+      "Strict liability",
+      "Ultra vires"
+    ],
+    "answerIndex": 1,
+    "explanation": "Per se illegal: cukup dibuktikan perbuatannya. Rule of reason: perlu dibuktikan akibatnya menimbulkan monopoli atau persaingan tidak sehat; dalam UU 5/1999 lazim ditandai frasa \"yang dapat mengakibatkan\".",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-kppu",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Lembaga yang mengawasi pelaksanaan UU 5/1999 adalah…",
+    "options": [
+      "OJK",
+      "KPPU",
+      "BPSK",
+      "YLKI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Komisi Pengawas Persaingan Usaha (Pasal 30). Setelah UU Cipta Kerja, keberatan atas putusan KPPU diajukan ke Pengadilan Niaga; cek ketentuan terbaru.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 30"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-persekongkolan-tender",
+    "type": "review",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "front": "Perkara persaingan usaha apa yang paling sering ditangani KPPU dan diatur Pasal 22 UU 5/1999?",
+    "back": "Persekongkolan tender: pelaku usaha bersekongkol dengan pihak lain untuk mengatur dan/atau menentukan pemenang tender sehingga dapat mengakibatkan persaingan usaha tidak sehat.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 22"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-struk-sakti",
+    "type": "humor",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "comic",
+      "title": "Struk sakti",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Kasir: di struk tertulis barang tidak bisa dikembalikan."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pembeli: tapi barangnya cacat dari pabrik."
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Narator: klausula pengalihan tanggung jawab itu batal demi hukum."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Kasir: oh."
+        }
+      ]
+    },
+    "caption": "Klausula baku yang mengalihkan tanggung jawab pelaku usaha batal demi hukum.",
+    "teaches": "Pasal 18 UU 8/1999 melarang klausula baku pengalihan tanggung jawab pelaku usaha dan menyatakannya batal demi hukum.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 18"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-story-konsumen",
+    "type": "story",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "title": "Hak konsumen",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 8/1999",
+          "title": "Konsumen punya hak",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Aman & nyaman",
+          "sub": "Hak atas kenyamanan, keamanan, dan keselamatan."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Informasi benar",
+          "sub": "Jelas dan jujur tentang kondisi barang/jasa."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Didengar & ganti rugi",
+          "sub": "Pendapat, keluhan, dan kompensasi bila barang tidak sesuai."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 4"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

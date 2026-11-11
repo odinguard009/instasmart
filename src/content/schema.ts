@@ -30,7 +30,7 @@ export const EXPRESSIONS = ['happy', 'shock', 'think', 'smug', 'sad'] as const;
 export const expressionSchema = z.enum(EXPRESSIONS);
 export type Expression = z.infer<typeof expressionSchema>;
 
-export const PALETTE_IDS = ['bata', 'laut', 'hutan', 'anggur', 'senja', 'toska', 'emas', 'arang'] as const;
+export const PALETTE_IDS = ['bata', 'laut', 'hutan', 'anggur', 'senja', 'toska', 'emas', 'arang', 'nila', 'mawar', 'zaitun', 'kopi'] as const;
 export const paletteIdSchema = z.enum(PALETTE_IDS);
 export type PaletteId = z.infer<typeof paletteIdSchema>;
 
@@ -228,6 +228,11 @@ const quizCard = z.strictObject({
   ...cardBase,
   type: z.literal('quiz'),
   ...question,
+  /**
+   * Skor bertingkat per pilihan (1-5), untuk soal TKP CPNS yang tidak punya satu jawaban benar.
+   * Panjang = jumlah options; answerIndex harus menunjuk skor tertinggi.
+   */
+  scores: z.array(z.number().int().min(1).max(5)).optional(),
   caption: text(600).optional(),
 });
 
@@ -310,7 +315,15 @@ export const cardSchema = z
   .refine(
     (card) => card.type !== 'carousel' || card.slides.every((s) => s.kind !== 'quiz' || answerInRange(s)),
     { message: 'answerIndex slide kuis di luar jumlah options', path: ['slides'] },
-  );
+  )
+  .refine((card) => card.type !== 'quiz' || !card.scores || card.scores.length === card.options.length, {
+    message: 'jumlah scores harus sama dengan jumlah options',
+    path: ['scores'],
+  })
+  .refine((card) => card.type !== 'quiz' || !card.scores || card.scores[card.answerIndex] === Math.max(...card.scores), {
+    message: 'answerIndex harus menunjuk pilihan dengan skor tertinggi',
+    path: ['answerIndex'],
+  });
 
 export type Card = z.infer<typeof cardSchema>;
 export type CardOf<T extends CardType> = Extract<Card, { type: T }>;
@@ -320,6 +333,8 @@ export interface ChoiceQuestion {
   options: string[];
   answerIndex: number;
   explanation: string;
+  /** Skor bertingkat per pilihan (soal TKP). */
+  scores?: number[];
 }
 
 export const cardFileSchema = z.array(cardSchema);
@@ -329,8 +344,15 @@ export const cardFileSchema = z.array(cardSchema);
 export const subTopicSchema = z.strictObject({ id: slug, name: text(60) });
 export type SubTopic = z.infer<typeof subTopicSchema>;
 
+/** Kelompok besar materi: ilmu hukum (seleksi hakim) atau SKD CPNS. */
+export const TOPIC_GROUPS = ['hukum', 'cpns'] as const;
+export const topicGroupSchema = z.enum(TOPIC_GROUPS);
+export type TopicGroup = z.infer<typeof topicGroupSchema>;
+export const TOPIC_GROUP_LABELS: Record<TopicGroup, string> = { hukum: 'Ilmu Hukum', cpns: 'CPNS (SKD)' };
+
 export const topicSchema = z.strictObject({
   id: slug,
+  group: topicGroupSchema,
   name: text(80),
   shortName: text(24),
   palette: paletteIdSchema,

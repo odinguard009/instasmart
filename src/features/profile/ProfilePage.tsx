@@ -71,11 +71,11 @@ export function ProfilePage() {
         <h2 id="accuracy-title" className="mb-2 text-sm font-bold">
           Akurasi per sub-topik
         </h2>
-        <div className="space-y-4">
+        <div className="space-y-2">
           {library.topics.map((topic) => (
-            <div key={topic.id}>
-              <h3 className="text-xs font-bold uppercase tracking-wide text-muted">{topic.name}</h3>
-              <ul className="mt-1.5 space-y-1.5">
+            <details key={topic.id} className="rounded-xl bg-surface px-3 py-2">
+              <summary className="flex min-h-11 cursor-pointer items-center text-xs font-bold uppercase tracking-wide text-muted">{topic.name}</summary>
+              <ul className="mt-1.5 space-y-1.5 pb-1">
                 {topic.subTopics.map((sub) => {
                   const accuracy = bySubTopic.find((a) => a.topicId === topic.id && a.subTopicId === sub.id);
                   const ratio = accuracy?.ratio ?? null;
@@ -92,7 +92,7 @@ export function ProfilePage() {
                   );
                 })}
               </ul>
-            </div>
+            </details>
           ))}
         </div>
       </section>

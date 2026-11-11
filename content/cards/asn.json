@@ -1,0 +1,227 @@
+[
+  {
+    "id": "asn-berakhlak",
+    "type": "mnemonic",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Nilai dasar ASN",
+      "text": "BerAKHLAK",
+      "sub": "Bangga Melayani Bangsa"
+    },
+    "caption": "Nilai dasar ASN yang tercantum dalam UU 20/2023.",
+    "phrase": "BerAKHLAK",
+    "expansion": [
+      "Ber: Berorientasi pelayanan",
+      "A: Akuntabel",
+      "K: Kompeten",
+      "H: Harmonis",
+      "L: Loyal",
+      "A: Adaptif",
+      "K: Kolaboratif"
+    ],
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 4"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-jenis-asn",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Menurut UU ASN, pegawai ASN terdiri atas…",
+    "options": [
+      "PNS dan honorer",
+      "PNS dan PPPK",
+      "PNS, TNI, dan Polri",
+      "PPPK dan tenaga kontrak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pegawai ASN = Pegawai Negeri Sipil dan Pegawai Pemerintah dengan Perjanjian Kerja.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 1, 6"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-akuntabel",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Nilai BerAKHLAK yang bermakna \"bertanggung jawab atas kepercayaan yang diberikan\" adalah…",
+    "options": [
+      "Kompeten",
+      "Akuntabel",
+      "Loyal",
+      "Adaptif"
+    ],
+    "answerIndex": 1,
+    "explanation": "Akuntabel: jujur, bertanggung jawab, cermat, disiplin, berintegritas, menggunakan kekayaan negara secara efisien.",
+    "source": {
+      "title": "Surat Edaran Menteri PANRB No. 20 Tahun 2021 tentang Implementasi Core Values dan Employer Branding ASN",
+      "reference": "Panduan perilaku BerAKHLAK"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-komposisi-skd",
+    "type": "fact",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "visual": {
+      "template": "infographic",
+      "title": "Komposisi SKD (seleksi beberapa tahun terakhir)",
+      "points": [
+        "TWK 30 soal, benar 5 / salah 0",
+        "TIU 35 soal, benar 5 / salah 0",
+        "TKP 45 soal, skor 1-5",
+        "Total 110 soal, 100 menit"
+      ]
+    },
+    "caption": "Angka ini dipakai dalam beberapa seleksi CPNS terakhir dan bisa berubah. Selalu cek Peraturan Menteri PANRB dan pengumuman resmi seleksi tahun berjalan.",
+    "source": {
+      "title": "Peraturan Menteri PANRB tentang nilai ambang batas seleksi CPNS (cek edisi terbaru)",
+      "reference": "Kisi-kisi SKD"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-ambang-batas",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "question": "Pada beberapa seleksi CPNS terakhir, nilai ambang batas SKD formasi umum adalah…",
+    "options": [
+      "TWK 65, TIU 80, TKP 166",
+      "TWK 75, TIU 80, TKP 143",
+      "TWK 65, TIU 85, TKP 156",
+      "TWK 70, TIU 70, TKP 170"
+    ],
+    "answerIndex": 0,
+    "explanation": "Angka 65/80/166 dipakai pada beberapa seleksi terakhir untuk formasi umum. Ambang batas ditetapkan ulang setiap seleksi; selalu cek peraturan terbaru.",
+    "source": {
+      "title": "Peraturan Menteri PANRB tentang nilai ambang batas seleksi CPNS (cek edisi terbaru)",
+      "reference": "Nilai ambang batas"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-skor-maks",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "question": "Dengan komposisi 30/35/45 soal dan skor benar 5, nilai maksimal SKD adalah…",
+    "options": [
+      "450",
+      "500",
+      "550",
+      "600"
+    ],
+    "answerIndex": 2,
+    "explanation": "TWK 30 x 5 = 150, TIU 35 x 5 = 175, TKP 45 x 5 = 225; total 550.",
+    "source": {
+      "title": "Peraturan Menteri PANRB tentang nilai ambang batas seleksi CPNS (cek edisi terbaru)",
+      "reference": "Kisi-kisi SKD"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-loyal-bukan-asal",
+    "type": "humor",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "visual": {
+      "template": "meme",
+      "top": "\"Loyal artinya ikut semua perintah atasan, termasuk yang melanggar aturan.\"",
+      "bottom": "Loyal: setia pada Pancasila, UUD 1945, NKRI, dan pemerintahan yang sah.",
+      "character": "owl",
+      "expression": "shock"
+    },
+    "caption": "Loyal dalam BerAKHLAK bukan kepatuhan buta kepada orang.",
+    "teaches": "Nilai Loyal: berdedikasi dan mengutamakan kepentingan bangsa dan negara, setia pada Pancasila, UUD 1945, NKRI, dan pemerintahan yang sah.",
+    "source": {
+      "title": "Surat Edaran Menteri PANRB No. 20 Tahun 2021 tentang Implementasi Core Values dan Employer Branding ASN",
+      "reference": "Panduan perilaku BerAKHLAK"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-story-asn",
+    "type": "story",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "title": "BerAKHLAK",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Nilai dasar ASN",
+          "title": "BerAKHLAK",
+          "character": "gecko",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Berorientasi pelayanan",
+          "sub": "Memahami dan memenuhi kebutuhan masyarakat."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Akuntabel & Kompeten",
+          "sub": "Bertanggung jawab; terus belajar."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Harmonis & Loyal",
+          "sub": "Menghargai perbedaan; setia pada negara."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Adaptif & Kolaboratif",
+          "sub": "Cepat menyesuaikan diri; bekerja sama."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 4"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

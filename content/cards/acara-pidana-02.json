@@ -1697,5 +1697,223 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-lima-penyaring-kasasi",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Kasasi tertutup untuk (Pasal 299 ayat (2))",
+      "points": [
+        "a. putusan bebas",
+        "b. pemaafan hakim",
+        "c. putusan berupa tindakan",
+        "d. ancaman ≤5 th/denda V",
+        "e. acara singkat"
+      ]
+    },
+    "caption": "Lima penyaring kasasi KUHAP baru menurut artikel Hakim Agung Pudjoharsoyo (MARINews, 8 Oktober 2026). Ayat (1) tetap: terdakwa atau penuntut umum dapat mengajukan kasasi atas putusan tingkat terakhir selain MA. Huruf d lengkapnya: perkara yang diancam pidana penjara tidak lebih dari 5 tahun atau denda kategori V.",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "BePaTi-5-Singkat, gampang diingat"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "cocokkan urutan hurufnya dengan teks UU"
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 8 Oktober 2026)",
+      "reference": "Pasal 299 ayat (1)-(2) KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/mengukur-ancaman-menjaga-pintu-kasasi-0bzX"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-penyaring-kasasi-mnemonik",
+    "type": "mnemonic",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Kasasi tertutup",
+      "text": "BePaTi-5-Singkat",
+      "sub": "Bebas · Pemaafan · Tindakan · ≤5 tahun · Acara singkat"
+    },
+    "caption": "Jembatan keledai lima putusan yang tidak bisa dikasasi menurut Pasal 299 ayat (2) KUHAP baru (versi artikel MARINews).",
+    "phrase": "BePaTi-5-Singkat",
+    "expansion": [
+      "Be: putusan bebas",
+      "Pa: pemaafan hakim",
+      "Ti: putusan berupa tindakan",
+      "5: ancaman penjara tidak lebih dari 5 tahun atau denda kategori V",
+      "Singkat: acara pemeriksaan singkat"
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 8 Oktober 2026)",
+      "reference": "Pasal 299 ayat (2) KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/mengukur-ancaman-menjaga-pintu-kasasi-0bzX"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-ambang-kasasi-naik",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel MARINews, ambang ancaman pidana untuk menutup kasasi naik dari 1 tahun (Pasal 45A UU MA) menjadi…",
+    "options": [
+      "7 tahun",
+      "2 tahun",
+      "5 tahun",
+      "10 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "5 tahun (Pasal 299 ayat (2) huruf d KUHAP baru, menurut penulis). Tujuannya mengembalikan MA pada fungsi judex juris, bukan pemeriksaan tingkat ketiga bagi setiap perkara.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 8 Oktober 2026)",
+      "reference": "Pasal 299 ayat (2) huruf d KUHAP baru; Pasal 45A UU MA (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/mengukur-ancaman-menjaga-pintu-kasasi-0bzX"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-diancam-bukan-dijatuhkan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Terdakwa dipidana 1 tahun penjara atas tindak pidana yang diancam 12 tahun. Menurut artikel MARINews, apakah kasasi tertutup oleh Pasal 299 ayat (2) huruf d?",
+    "options": [
+      "Ya, karena pidana yang dijatuhkan di bawah 5 tahun",
+      "Ya, karena semua vonis ringan tertutup kasasi",
+      "Tidak; yang diukur ancamannya, bukan vonis",
+      "Tidak, karena terdakwa selalu boleh kasasi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kata \"diancam\" menunjuk ancaman pidana menurut rumusan undang-undang, bukan pidana yang dijatuhkan hakim. Jadi kasasi tetap terbuka dalam contoh ini.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 8 Oktober 2026)",
+      "reference": "Pasal 299 ayat (2) huruf d KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/mengukur-ancaman-menjaga-pintu-kasasi-0bzX"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-didakwakan-atau-terbukti",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Dakwaan alternatif: pasal berancaman 12 tahun atau pasal berancaman 4 tahun; hakim banding memilih yang 4 tahun. Menurut tafsir yang dibela Pudjoharsoyo, kasasi…",
+    "options": [
+      "Terbuka; ukurannya ancaman tertinggi yang didakwakan",
+      "Tertutup, karena yang terbukti berancaman 4 tahun",
+      "Tertutup, karena dakwaan alternatif tak bisa dikasasi",
+      "Terbuka hanya untuk terdakwa, tidak untuk penuntut umum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penulis berpendapat ukurannya tindak pidana yang didakwakan; untuk dakwaan alternatif/subsidair, ancaman tertinggi di antara pasal yang didakwakan. Ini pendapat pribadi penulis: SEMA 4/2026 dan rapat pleno kamar belum menjawabnya.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 8 Oktober 2026)",
+      "reference": "Pasal 299 ayat (2) huruf d KUHAP baru (pendapat penulis, artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/mengukur-ancaman-menjaga-pintu-kasasi-0bzX"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-ambang-lima-tahun",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "front": "Menurut artikel MARINews, tiga ketentuan KUHAP baru mana yang memakai ambang ancaman 5 tahun?",
+    "back": "Pasal 100 ayat (1): penahanan hanya untuk tindak pidana yang diancam penjara 5 tahun atau lebih. Pasal 78 ayat (1) huruf b: pengakuan bersalah hanya untuk ancaman paling lama 5 tahun atau denda paling banyak kategori V. Pasal 299 ayat (2) huruf d: kasasi tertutup untuk ancaman tidak lebih dari 5 tahun atau denda kategori V.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 8 Oktober 2026)",
+      "reference": "Pasal 78, 100, 299 KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/mengukur-ancaman-menjaga-pintu-kasasi-0bzX"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-tertutup-kasasi",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Hakim menerima pengakuan bersalah, lalu perkara diperiksa dengan acara singkat. Menurut artikel MARINews, putusannya…",
+    "options": [
+      "Wajib dikasasi oleh penuntut umum",
+      "Hanya bisa diajukan peninjauan kembali",
+      "Tertutup dari kasasi menurut huruf e",
+      "Bisa dibanding lalu dikasasi seperti biasa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 78 ayat (9): bila pengakuan bersalah diterima, sidang dilanjutkan dengan acara pemeriksaan singkat; putusan acara singkat tertutup dari kasasi menurut Pasal 299 ayat (2) huruf e (menurut penulis).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 8 Oktober 2026)",
+      "reference": "Pasal 78 ayat (9), 299 ayat (2) huruf e KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/mengukur-ancaman-menjaga-pintu-kasasi-0bzX"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-kasasi-bukan-tingkat-tiga",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Kasasi bukan babak ketiga",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Kalah di banding? Tenang, masih ada babak ketiga: kasasi!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "MA itu judex juris. Yang diperiksa penerapan hukumnya, bukan ulang fakta."
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Dan perkara ancaman 5 tahun ke bawah sudah ditutup pintunya."
+        }
+      ]
+    },
+    "caption": "Kasasi bukan pemeriksaan tingkat ketiga; KUHAP baru menyaring perkara ringan.",
+    "teaches": "Menurut artikel MARINews, Pasal 299 ayat (2) huruf d menaikkan ambang penutupan kasasi menjadi ancaman 5 tahun, untuk mengembalikan MA pada fungsi judex juris yang menjaga kesatuan penerapan hukum.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 8 Oktober 2026)",
+      "reference": "Pasal 299 ayat (2) huruf d KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/mengukur-ancaman-menjaga-pintu-kasasi-0bzX"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

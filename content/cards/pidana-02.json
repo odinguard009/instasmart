@@ -336,5 +336,27 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-perma-2-2026-terorisme",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Pedoman pemidanaan",
+      "text": "PERMA 2/2026",
+      "sub": "Tindak Pidana Terorisme Tertentu"
+    },
+    "caption": "Menurut MARINews (2 September 2026), PERMA ini membantu hakim membedakan warranted disparity (beda putusan karena faktor hukum yang sah) dan unwarranted disparity (beda tanpa alasan hukum). WKMA Yudisial menegaskan pedoman ini tidak untuk mengekang independensi hakim.",
+    "source": {
+      "title": "PERMA No. 2 Tahun 2026, menurut berita MARINews",
+      "reference": "PERMA No. 2 Tahun 2026 (menurut berita MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/berita/ini-pesan-wkma-yudisial-dalam-sosialisasi-perma-2-2026-0bvO"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

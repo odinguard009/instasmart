@@ -109,5 +109,493 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hgu-jangka",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Rumusan UUPA: HGU diberikan paling lama 25 tahun; untuk perusahaan yang memerlukan waktu lebih lama, paling lama…",
+    "options": [
+      "30 tahun",
+      "60 tahun",
+      "50 tahun",
+      "35 tahun"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 29 ayat (1)-(2): 25 tahun, atau 35 tahun untuk perusahaan yang memerlukan waktu lebih lama; dapat diperpanjang paling lama 25 tahun (ayat (3)). PP 18/2021 kini merinci pemberian, perpanjangan, dan pembaruan; cek angkanya di sana.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 29",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hgu-luas-minimal",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 28 ayat (2) UUPA, HGU diberikan atas tanah yang luasnya paling sedikit…",
+    "options": [
+      "1 hektar",
+      "25 hektar",
+      "5 hektar",
+      "100 hektar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Paling sedikit 5 hektar; bila 25 hektar atau lebih, wajib memakai investasi modal yang layak dan teknik perusahaan yang baik.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 28 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hgu-objek",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "HGU adalah hak mengusahakan tanah untuk pertanian, perikanan, atau peternakan di atas tanah…",
+    "options": [
+      "Ulayat, atas persetujuan kepala adat",
+      "Wakaf yang tidak lagi produktif",
+      "Yang dikuasai langsung oleh Negara",
+      "Milik perorangan dengan perjanjian"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 28 ayat (1): tanah yang dikuasai langsung oleh Negara. Bandingkan HGB, yang dapat berdiri di atas tanah Negara atau tanah hak milik (Pasal 37).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 28 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-wni-kehilangan-1-tahun",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "WNI pemilik tanah hak milik kehilangan kewarganegaraannya. Ia wajib melepaskan hak itu dalam jangka…",
+    "options": [
+      "1 tahun",
+      "2 tahun",
+      "3 bulan",
+      "5 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 21 ayat (3): 1 tahun sejak kehilangan kewarganegaraan (berlaku juga untuk orang asing yang memperoleh hak milik karena pewarisan tanpa wasiat atau percampuran harta perkawinan). Lewat waktu: hak hapus karena hukum, tanah jatuh kepada Negara, hak pihak lain yang membebaninya tetap berlangsung.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 21 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-dwi-kewarganegaraan",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Selama seseorang di samping kewarganegaraan Indonesianya juga berkewarganegaraan asing, ia…",
+    "options": [
+      "Boleh mempunyai hak milik tanpa batas",
+      "Boleh, maksimal satu bidang",
+      "Boleh, asal tanahnya warisan",
+      "Tidak dapat mempunyai hak milik"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 21 ayat (4): ia tidak dapat mempunyai tanah dengan hak milik, dan berlaku ketentuan pelepasan dalam 1 tahun (ayat (3)).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 21 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-jual-ke-asing",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Tanah hak milik dijual kepada orang asing. Menurut Pasal 26 ayat (2) UUPA, akibatnya…",
+    "options": [
+      "Batal karena hukum, tanah jatuh ke Negara",
+      "Dapat dibatalkan atas gugatan para ahli waris penjual",
+      "Sah, tetapi wajib dilepas dalam 1 tahun",
+      "Sah bila disetujui Menteri"
+    ],
+    "answerIndex": 0,
+    "explanation": "Batal karena hukum dan tanahnya jatuh kepada Negara; hak pihak lain yang membebaninya tetap berlangsung, dan semua pembayaran yang telah diterima pemilik tidak dapat dituntut kembali.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 26 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hm-hapus",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Mana yang BUKAN sebab hapusnya hak milik menurut Pasal 27 UUPA?",
+    "options": [
+      "Jangka waktunya berakhir",
+      "Diterlantarkan",
+      "Tanahnya musnah",
+      "Pencabutan hak untuk kepentingan umum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hak milik tidak berjangka. Pasal 27: tanah jatuh kepada Negara (pencabutan hak, penyerahan sukarela, diterlantarkan, Pasal 21 ayat (3) dan 26 ayat (2)) atau tanahnya musnah. 'Jangka waktu berakhir' adalah sebab hapusnya HGU (Pasal 34) dan HGB (Pasal 40).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 27",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hgb-tanah-milik",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "HGB di atas tanah hak milik terjadi karena…",
+    "options": [
+      "Perjanjian otentik dengan pemilik",
+      "Pendaftaran pada kantor desa setempat",
+      "Putusan pengadilan negeri",
+      "Penetapan Pemerintah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 37 huruf b: perjanjian berbentuk otentik antara pemilik tanah dan calon pemegang HGB. Untuk tanah Negara: karena penetapan Pemerintah (huruf a).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 37",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hak-pakai-subjek",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 42 UUPA, mana yang TIDAK dapat mempunyai hak pakai?",
+    "options": [
+      "Orang asing yang tidak berkedudukan di Indonesia",
+      "Badan hukum asing yang punya perwakilan di Indonesia",
+      "Orang asing yang berkedudukan di Indonesia",
+      "Warga negara Indonesia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 42: WNI; orang asing yang berkedudukan di Indonesia; badan hukum Indonesia; badan hukum asing yang mempunyai perwakilan di Indonesia. Daftar yang sama berlaku untuk hak sewa untuk bangunan (Pasal 45).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 42, 45",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hak-pakai-milik-dialihkan",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Hak pakai atas tanah milik orang lain hanya dapat dialihkan kepada pihak lain bila…",
+    "options": [
+      "Sudah lewat 5 tahun",
+      "Dimungkinkan dalam perjanjiannya",
+      "Diizinkan oleh camat setempat lebih dulu",
+      "Selalu dapat, tanpa syarat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 43 ayat (2). Untuk hak pakai atas tanah Negara: hanya dengan izin pejabat yang berwenang (ayat (1)).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 43",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-sertifikat-alat-bukti",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 19 ayat (2) huruf c UUPA, surat tanda bukti hak berlaku sebagai alat pembuktian…",
+    "options": [
+      "Yang mutlak",
+      "Yang kuat",
+      "Sempurna dan tak terbantahkan",
+      "Permulaan saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "'Alat pembuktian yang kuat', bukan mutlak: inilah dasar sistem publikasi negatif (bertendensi positif) dalam pendaftaran tanah.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 19 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-rakyat-tak-mampu",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Soal biaya pendaftaran tanah, Pasal 19 ayat (4) UUPA menentukan bahwa rakyat yang tidak mampu…",
+    "options": [
+      "Dibebaskan dari biaya",
+      "Membayar separuh",
+      "Mencicil 12 bulan",
+      "Dibiayai pemda setempat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 19 ayat (4): rakyat yang tidak mampu dibebaskan dari pembayaran biaya-biaya tersebut.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 19 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-mengerjakan-sendiri",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Pemegang hak atas tanah PERTANIAN pada asasnya diwajibkan…",
+    "options": [
+      "Mengusahakannya sendiri secara aktif",
+      "Menyewakannya kepada petani penggarap",
+      "Mendaftarkannya ulang tiap 5 tahun",
+      "Menanaminya dengan tanaman pangan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 10 ayat (1): mengerjakan atau mengusahakannya sendiri secara aktif, dengan mencegah cara-cara pemerasan. Ini dasar larangan tanah absentee.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-kelebihan-maksimum",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Tanah yang melebihi batas maksimum pemilikan menurut Pasal 17 ayat (3) UUPA…",
+    "options": [
+      "Diambil Pemerintah dengan ganti rugi",
+      "Dikenai pajak progresif",
+      "Dilelang terbuka oleh kantor lelang negara",
+      "Tetap milik pemiliknya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diambil oleh Pemerintah dengan ganti kerugian, lalu dibagikan kepada rakyat yang membutuhkan (landreform). Dasarnya Pasal 7: pemilikan yang melampaui batas tidak diperkenankan.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 7, 17",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hak-tanggungan-uupa",
+    "type": "review",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "front": "Hak atas tanah mana yang menurut UUPA dapat dijadikan jaminan utang dengan hak tanggungan?",
+    "back": "Hak milik (Pasal 25), HGU (Pasal 33), dan HGB (Pasal 39). Hak pakai tidak disebut UUPA sebagai objek hak tanggungan; aturan kemudian (UU Hak Tanggungan) membuka hak pakai atas tanah Negara tertentu, cek rumusannya.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 25, 33, 39",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hapus-hgb",
+    "type": "review",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "front": "Tujuh sebab hapusnya HGB menurut Pasal 40 UUPA?",
+    "back": "Jangka waktu berakhir; dihentikan sebelum waktunya karena syarat tidak dipenuhi; dilepaskan pemegang hak; dicabut untuk kepentingan umum; diterlantarkan; tanahnya musnah; pemegang tidak lagi memenuhi syarat subjek dan tidak melepas/mengalihkan dalam 1 tahun (Pasal 36 ayat (2)). Daftar HGU (Pasal 34) sama polanya.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 34, 36, 40",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-jangka-uupa",
+    "type": "fact",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "infographic",
+      "title": "Jangka waktu (rumusan UUPA)",
+      "points": [
+        "HGU: 25/35 + 25 tahun",
+        "HGB: 30 + 20 tahun",
+        "Hak pakai: sesuai keputusan",
+        "Hak milik: tanpa batas"
+      ]
+    },
+    "caption": "Angka ini dari UUPA (Pasal 29, 35, 41). PP 18/2021 sekarang mengatur jangka pemberian, perpanjangan, dan pembaruan secara lebih rinci; untuk soal ujian, perhatikan apakah yang ditanya rumusan UUPA atau aturan pelaksana terbaru.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 29, 35, 41",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-hak-milik-asing",
+    "type": "carousel",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Pasal 21 & 26 UUPA",
+          "title": "Hak milik & orang asing",
+          "subtitle": "empat aturan yang sering keluar",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Ingat empat ini",
+          "points": [
+            "Hanya WNI (Pasal 21)",
+            "Hilang WNI: lepas 1 tahun",
+            "Dwi-warga: tidak bisa",
+            "Jual ke asing: batal"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "WNA mendapat tanah hak milik dari warisan tanpa wasiat ibunya yang WNI. Kewajibannya…",
+        "options": [
+          "Menyerahkan tanah ke desa",
+          "Mengubahnya jadi HGB dalam 5 tahun",
+          "Tidak ada; warisan selalu sah",
+          "Melepaskan hak itu dalam 1 tahun"
+        ],
+        "answerIndex": 3,
+        "explanation": "Pasal 21 ayat (3): orang asing yang memperoleh hak milik karena pewarisan tanpa wasiat wajib melepaskannya dalam 1 tahun; bila tidak, hak hapus dan tanah jatuh kepada Negara."
+      }
+    ],
+    "caption": "Hak milik hanya untuk WNI dan badan hukum yang ditetapkan Pemerintah. Orang asing yang berkedudukan di Indonesia dapat memakai hak pakai atau hak sewa untuk bangunan (Pasal 42, 45).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 21, 26, 42, 45",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-humor-sawah-warisan",
+    "type": "humor",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "comic",
+      "title": "Warisan lintas paspor",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Kakek mewariskan sawah ke cucunya yang WNA."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 21 ayat (3): wajib dilepas dalam 1 tahun."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Lewat setahun? Hapus karena hukum, jatuh ke Negara!"
+        }
+      ]
+    },
+    "caption": "Warisan tidak membuat WNA boleh memegang hak milik. Ada jendela satu tahun untuk melepas atau mengalihkan haknya.",
+    "teaches": "Orang asing yang memperoleh hak milik karena pewarisan tanpa wasiat wajib melepaskannya dalam 1 tahun; bila tidak, hak hapus karena hukum dan tanah jatuh kepada Negara (Pasal 21 ayat (3) UUPA).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 21 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1960"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

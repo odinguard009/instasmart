@@ -303,3 +303,54 @@
 
 > (2) Pembentukan organisasi profesi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
+## Pasal 273
+
+"(1) Tenaga Medis dan Tenaga Kesehatan dalam menjalankan praktik berhak: a. mendapatkan pelindungan hukum sepanjang melaksanakan tugas sesuai dengan standar profesi, standar pelayanan profesi, standar prosedur operasional, dan etika profesi, serta kebutuhan Kesehatan Pasien; b. mendapatkan informasi yang lengkap dan benar dari Pasien atau keluarganya; c. mendapatkan gaji/upah, imbalan jasa, dan tunjangan kinerja yang layak sesuai dengan ketentuan peraturan perundang-undangan; d. mendapatkan pelindungan atas keselamatan, Kesehatan kerja, dan keamanan; e. mendapatkan jaminan kesehatan dan jaminan ketenagakerjaan sesuai dengan ketentuan peraturan perundang-undangan; f. mendapatkan pelindungan atas perlakuan yang tidak sesuai dengan harkat dan martabat manusia, moral, kesusilaan, serta nilai sosial budaya; g. mendapatkan penghargaan sesuai dengan ketentuan peraturan perundang-undangan; h. mendapatkan kesempatan untuk mengembangkan diri melalui pengembangan kompetensi, keilmuan, dan karier di bidang keprofesiannya; l. menolak keinginan Pasien atau pihak lain yang bertentangan dengan standar profesi, standar pelayanan, standar prosedur operasional, kode etik, atau ketentuan peraturan perundang-undangan; dan j. mendapatkan hak lain sesuai dengan ketentuan peraturan perundang-undangan. (2) Tenaga Medis dan Tenaga Kesehatan dapat menghentikan Pelayanan Kesehatan apabila memperoleh perlakuan yang tidak sesuai dengan harkat dan martabat manusia, moral, kesusilaan, serta nilai sosial budaya sebagaimana dimaksud pada ayat (1) huruf f, termasuk tindakan kekerasan, pelecehan, dan perundungan."
+
+## Pasal 274
+
+"Tenaga Medis dan Tenaga Kesehatan dalam menjalankan praktik wajib: a. memberikan Pelayanan Kesehatan sesuai dengan standar profesi, standar pelayanan profesi, standar prosedur operasional, dan etika profesi serta kebutuhan Kesehatan Pasien; b. memperoleh persetujuan dari Pasien atau keluarganya atas tindakan yang akan diberikan; c. menjaga rahasia Kesehatan Pasien; d. membuat dan menyimpan catatan dan/atau dokumen tentang pemeriksaan, asuhan, dan tindakan yang dilakukan;dan e. merujuk Pasien ke Tenaga Medis atau Tenaga Kesehatan lain yang mempunyai kompetensi dan kewenangan yang sesuai."
+
+## Pasal 275
+
+"(1) Tenaga Medis dan Tenaga Kesehatan yang menjalankan praktik pada Fasilitas Pelayanan Kesehatan wajib memberikan pertolongan pertama kepada Pasien dalam keadaan Gawat Darurat dan/atau pada bencana. (2) Tenaga Medis dan Tenaga Kesehatan yang memberikan Pelayanan Kesehatan dalam rangka tindakan penyelamatan nyawa atau pencegahan kedisabilitasan seseorang pada keadaan Gawat Darurat dan/atau pada bencana dikecualikan dari tuntutan ganti rugi."
+
+## Pasal 277
+
+"Pasien mempunyai kewajiban: a. memberikan informasi yang lengkap dan jujur tentang masalah kesehatannya; b. mematuhi nasihat dan petunjuk Tenaga Medis dan Tenaga Kesehatan; c. mematuhi ketentuan yang berlaku pada Fasilitas Pelayanan Kesehatan; dan d. memberikan imbalan jasa atas pelayanan yang diterima."
+
+## Pasal 279
+
+"Tenaga Medis dan Tenaga Kesehatan bertanggung jawab secara moral untuk: a. mengabdikan diri sesuai dengan bidang keilmuan yang dimiliki; b. bersikap dan berperilaku sesuai dengan etika profesi; c. mengutamakan kepentingan Pasien dan masyarakat di atas kepentingan pribadi atau kelompok; dan d. menambah ilmu pengetahuan dan mengikuti perkembangan ilmu pengetahuan dan teknologi."
+
+## Pasal 280
+
+"(1) Dalam menjalankan praktik, Tenaga Medis dan Tenaga Kesehatan yang memberikan Pelayanan Kesehatan kepada Pasien harus melaksanakan upaya terbaik. (2) Upaya terbaik sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan norma, standar pelayanan, dan standar profesi serta kebutuhan Kesehatan Pasien. (3) Upaya terbaik sebagaimana dimaksud pada ayat (1) tidak menjamin keberhasilan Pelayanan Kesehatan yang diberikan. (4) Praktik Tenaga Medis dan Tenaga Kesehatan diselenggarakan berdasarkan kesepakatan antara Tenaga Medis atau Tenaga Kesehatan dan Pasien berdasarkan prinsip kesetaraan dan transparansi."
+
+## Pasal 282
+
+"(1) Tenaga Medis atau Tenaga Kesehatan yang berhalangan menyelenggarakan praktik dapat digantikan oleh Tenaga Medis atau Tenaga Kesehatan pengganti. (2) Tenaga Medis atau Tenaga Kesehatan pengganti sebagaimana dimaksud pada ayat (1) merupakan Tenaga Medis atau Tenaga Kesehatan yang mempunyai SIP. (3) Tenaga Medis atau Tenaga Kesehatan pengganti sebagaimana dimaksud pada ayat (1) harus menginformasikannya kepada Pasien dan /atau keluarganya."
+
+## Pasal 286
+
+"(1) Dalam keadaan tertentu, Tenaga Medis dan Tenaga Kesehatan dapat memberikan pelayanan di luar kewenangannya. (2) Keadaan tertentu sebagaimana dimaksud pada ayat (1) paling sedikit meliputi: a. ketiadaan Tenaga Medis dan/atau Tenaga Kesehatan di suatu wilayah tempat Tenaga Medis atau Tenaga Kesehatan bertugas; b. kebutuhan program pemerintah; c. penanganan kegawatdaruratan medis; dan/atau d. KLB, Wabah, dan/atau darurat bencana. (3) Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud pada ayat (1) meliputi: a. dokter/dokter gigi yang memberikan pelayanan kedokteran dan/atau kefarmasian dalam batas tertentu; b. perawat atau bidan yang memberikan pelayanan kedokteran dan/atau kefarmasian dalam batas tertentu; atau c. tenaga vokasi farmasi yang memberikan pelayanan kefarmasian yang menjadi kewenangan apoteker dalam batas tertentu."
+
+## Pasal 283 ayat (1)-(2)
+
+"(1) Tenaga Medis dan Tenaga Kesehatan yang menyelenggarakan praktik perseorangan wajib menginformasikan identitas yang jelas termasuk nomor SIP dan STR pada tempat praktik perseorangannya. (2) Dalam hal Tenaga Medis dan Tenaga Kesehatan berpraktik pada Fasilitas Pelayanan Kesehatan, pimpinan Fasilitas Pelayanan Kesehatan wajib menginformasikan daftar nama, nomor SIP dan STR, serta jadwal praktik Tenaga Medis dan Tenaga Kesehatan."
+
+## Pasal 285 ayat (1)-(2)
+
+"(1) Tenaga Medis dan Tenaga Kesehatan dalam menjalankan praktik harus dilakukan sesuai dengan kewenangan yang didasarkan pada kompetensi yang dimilikinya. (2) Tenaga Medis dan Tenaga Kesehatan yang memiliki lebih dari satu jenjang pendidikan memiliki kewenangan sesuai dengan lingkup dan tingkat kompetensi dan kualifikasi tertinggi."
+
+## Pasal 290 ayat (1)-(3)
+
+"(1) Tenaga Medis dan Tenaga Kesehatan dapat menerima pelimpahan kewenangan untuk melakukan Pelayanan Kesehatan. (2) Pelimpahan kewenangan sebagaimana dimaksud pada ayat (1) terdiri atas pelimpahan secara mandat dan pelimpahan secara delegatif. (3) Pelimpahan kewenangan sebagaimana dimaksud pada ayat (1) dilakukan dari Tenaga Medis kepada Tenaga Kesehatan, antar-Tenaga Medis, dan antar-Tenaga Kesehatan."
+
+## Pasal 291 ayat (1)-(2)
+
+"(1) Setiap Tenaga Medis dan Tenaga Kesehatan dalam menyelenggarakan Pelayanan Kesehatan berkewajiban untuk mematuhi standar profesi, standar pelayanan, dan standar prosedur operasional. (2) Standar profesi sebagaimana dimaksud pada ayat (1) untuk setiap jenis Tenaga Medis dan Tenaga Kesehatan disusun oleh Konsil serta Kolegium dan ditetapkan oleh Menteri."
+
+## Pasal 303 ayat (1)-(3)
+
+"(1) Setiap Tenaga Medis dan Tenaga Kesehatan dalam melaksanakan Pelayanan Kesehatan wajib menyelenggarakan kendali mutu dan kendali biaya serta memperhatikan keselamatan Pasien. (2) Dalam rangka pelaksanaan kegiatan sebagaimana dimaksud pada ayat (1) dapat diselenggarakan audit Pelayanan Kesehatan. (3) Kendali mutu dan kendali biaya dalam Fasilitas Pelayanan Kesehatan merupakan tanggung jawab Fasilitas Pelayanan Kesehatan."

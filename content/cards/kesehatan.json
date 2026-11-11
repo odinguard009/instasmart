@@ -782,5 +782,454 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-hak-hentikan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 273 ayat (2) UU Kesehatan, tenaga medis dapat menghentikan pelayanan bila mendapat perlakuan yang tidak sesuai harkat dan martabat, termasuk…",
+    "options": [
+      "Keluarga pasien mengajukan keluhan",
+      "Pasien terlambat membayar biaya pengobatan",
+      "Kekerasan, pelecehan, dan perundungan",
+      "Pasien meminta pendapat dokter lain"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 273 ayat (2): termasuk tindakan kekerasan, pelecehan, dan perundungan. Meminta pendapat dokter lain justru hak pasien (Pasal 276 huruf f).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 273",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-hak-tolak",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Pasien meminta obat yang bertentangan dengan standar profesi. Menurut Pasal 273 ayat (1), tenaga medis berhak…",
+    "options": [
+      "Menolak keinginan itu",
+      "Wajib menurutinya",
+      "Meminta izin Konsil dulu",
+      "Merujuk ke pengadilan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 273 ayat (1): berhak menolak keinginan Pasien atau pihak lain yang bertentangan dengan standar profesi, standar pelayanan, SPO, kode etik, atau peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 273 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-pelindungan-hukum",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Syarat tenaga medis mendapat pelindungan hukum menurut Pasal 273 ayat (1) huruf a adalah…",
+    "options": [
+      "Sudah berpraktik minimal 5 tahun",
+      "Menjadi anggota organisasi profesi",
+      "Bertugas sesuai standar dan etika",
+      "Bekerja di fasilitas milik pemerintah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Huruf a: pelindungan hukum sepanjang melaksanakan tugas sesuai standar profesi, standar pelayanan profesi, SPO, etika profesi, serta kebutuhan Kesehatan Pasien.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 273 ayat (1) huruf a",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-wajib-bukan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Manakah yang BUKAN kewajiban tenaga medis dalam praktik menurut Pasal 274?",
+    "options": [
+      "Merujuk Pasien bila tidak berwenang",
+      "Memperoleh persetujuan atas tindakan",
+      "Menjaga rahasia Kesehatan Pasien",
+      "Menjamin kesembuhan Pasien"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 274: pelayanan sesuai standar; memperoleh persetujuan; menjaga rahasia; membuat dan menyimpan catatan; merujuk. Upaya terbaik tidak menjamin keberhasilan (Pasal 280 ayat (3)).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 274, 280",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-darurat-ganti-rugi",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 275 ayat (2), tenaga medis yang menyelamatkan nyawa pada keadaan gawat darurat atau bencana dikecualikan dari…",
+    "options": [
+      "Kewajiban menjaga rahasia",
+      "Kewajiban rekam medis",
+      "Kewajiban memiliki SIP",
+      "Tuntutan ganti rugi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 275 ayat (2): dikecualikan dari tuntutan ganti rugi. Ayat (1): tenaga medis di fasilitas pelayanan kesehatan wajib memberikan pertolongan pertama dalam keadaan gawat darurat/bencana.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 275",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-kewajiban-pasien",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Manakah yang BUKAN kewajiban pasien menurut Pasal 277?",
+    "options": [
+      "Memberikan imbalan jasa atas pelayanan",
+      "Memberikan informasi lengkap dan jujur",
+      "Menandatangani surat bebas tuntutan",
+      "Mematuhi nasihat tenaga medis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 277: memberi informasi lengkap dan jujur; mematuhi nasihat dan petunjuk; mematuhi ketentuan fasilitas; memberi imbalan jasa.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 277",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-tolak-tindakan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasal 276 huruf d: pasien berhak menolak atau menyetujui tindakan medis, KECUALI tindakan yang diperlukan untuk…",
+    "options": [
+      "Penelitian di rumah sakit pendidikan",
+      "Operasi yang direncanakan rumah sakit",
+      "Pemeriksaan untuk klaim asuransi",
+      "Penanggulangan penyakit menular/Wabah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 276 huruf d: kecuali tindakan medis yang diperlukan dalam rangka pencegahan penyakit menular dan penanggulangan KLB atau Wabah.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 276 huruf d",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-second-opinion",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Hak pasien untuk meminta pendapat tenaga medis lain (second opinion) diatur dalam…",
+    "options": [
+      "Pasal 274 huruf e",
+      "Pasal 280 ayat (4)",
+      "Pasal 276 huruf f",
+      "Pasal 277 huruf b"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 276 huruf f: meminta pendapat Tenaga Medis atau Tenaga Kesehatan lain.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 276 huruf f",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-upaya-terbaik",
+    "type": "review",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "front": "Apa makna \"upaya terbaik\" dalam Pasal 280 UU Kesehatan?",
+    "back": "Tenaga medis harus melaksanakan upaya terbaik sesuai norma, standar pelayanan, standar profesi, dan kebutuhan pasien; tetapi upaya terbaik tidak menjamin keberhasilan pelayanan (ayat (3)). Ini sejalan dengan doktrin perikatan upaya (inspanningsverbintenis), bukan perikatan hasil.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 280",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-dasar-praktik",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 280 ayat (4), praktik tenaga medis diselenggarakan berdasarkan kesepakatan dengan pasien berdasarkan prinsip…",
+    "options": [
+      "Kekeluargaan dan musyawarah",
+      "Kepatuhan dan kepercayaan",
+      "Paternalisme dan keahlian",
+      "Kesetaraan dan transparansi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 280 ayat (4): kesepakatan antara tenaga medis/kesehatan dan pasien berdasarkan prinsip kesetaraan dan transparansi.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 280 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-pengganti",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Dokter berhalangan praktik dan digantikan. Menurut Pasal 282, dokter pengganti harus…",
+    "options": [
+      "Berasal dari spesialisasi yang sama",
+      "Menggunakan nama dokter yang diganti",
+      "Mendapat izin dinas kesehatan dulu",
+      "Ber-SIP dan memberi tahu pasien"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 282 ayat (2)-(3): pengganti merupakan tenaga medis/kesehatan yang mempunyai SIP dan harus menginformasikannya kepada Pasien dan/atau keluarganya.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 282",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-identitas-sip",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Pasal 283 ayat (1): dokter yang membuka praktik perseorangan wajib mencantumkan di tempat praktiknya…",
+    "options": [
+      "Sertifikat seminar terakhir",
+      "Daftar nama pasien yang pernah ditangani",
+      "Identitas termasuk nomor SIP dan STR",
+      "Tarif lengkap semua tindakan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 283 ayat (1). Pelanggaran ayat (1)-(2) dikenai sanksi administratif: teguran lisan, peringatan tertulis, denda administratif, dan/atau pencabutan izin (ayat (3)-(4)).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 283",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-kompetensi-tertinggi",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Seorang perawat juga bergelar ners spesialis. Menurut Pasal 285 ayat (2), kewenangannya mengikuti…",
+    "options": [
+      "Kualifikasi tertinggi yang dimiliki",
+      "Jenjang pendidikan pertama yang ditempuh",
+      "Penugasan dari organisasi profesi",
+      "Pilihan fasilitas tempat bekerja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 285 ayat (2): yang memiliki lebih dari satu jenjang pendidikan memiliki kewenangan sesuai lingkup dan tingkat kompetensi dan kualifikasi tertinggi.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 285",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-luar-kewenangan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Manakah yang TIDAK disebut sebagai keadaan tertentu yang membolehkan pelayanan di luar kewenangan (Pasal 286 ayat (2))?",
+    "options": [
+      "Penanganan kegawatdaruratan medis",
+      "KLB, Wabah, atau darurat bencana",
+      "Ketiadaan tenaga medis di wilayah itu",
+      "Permintaan pasien yang mampu membayar"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 286 ayat (2): ketiadaan tenaga medis/kesehatan; kebutuhan program pemerintah; kegawatdaruratan medis; KLB, Wabah, dan/atau darurat bencana.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 286",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-ketiadaan-ditetapkan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Kondisi ketiadaan tenaga medis di suatu wilayah (dasar pelayanan di luar kewenangan) menurut Pasal 287 ayat (1) ditetapkan oleh…",
+    "options": [
+      "Kepala puskesmas",
+      "Konsil Kesehatan Indonesia",
+      "Menteri Kesehatan",
+      "Pemerintah Daerah setempat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 287 ayat (1): ditetapkan oleh Pemerintah Daerah setempat.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 287 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-pelimpahan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Pelimpahan kewenangan pelayanan kesehatan menurut Pasal 290 ayat (2) terdiri atas pelimpahan secara…",
+    "options": [
+      "Lisan dan tertulis resmi",
+      "Tetap dan sementara",
+      "Mandat dan delegatif",
+      "Atribusi dan mandat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 290 ayat (2): mandat dan delegatif. Ayat (3): dari tenaga medis kepada tenaga kesehatan, antar-tenaga medis, dan antar-tenaga kesehatan.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 290",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-standar-profesi",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 291 ayat (2), standar profesi tiap jenis tenaga medis disusun oleh Konsil serta Kolegium dan ditetapkan oleh…",
+    "options": [
+      "Majelis Kehormatan",
+      "Organisasi profesi",
+      "Menteri",
+      "Presiden"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 291 ayat (2): disusun oleh Konsil serta Kolegium dan ditetapkan oleh Menteri. Standar pelayanan diatur dengan Peraturan Menteri (ayat (3)).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 291",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-kendali-mutu",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Pasal 303 ayat (1): dalam melaksanakan pelayanan, setiap tenaga medis wajib menyelenggarakan kendali mutu, kendali biaya, dan memperhatikan…",
+    "options": [
+      "Jumlah kunjungan",
+      "Kepuasan atasan",
+      "Keuntungan fasilitas",
+      "Keselamatan Pasien"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 303 ayat (1)-(3): wajib kendali mutu dan kendali biaya serta memperhatikan keselamatan Pasien; dapat diselenggarakan audit pelayanan kesehatan; di fasilitas pelayanan kesehatan, kendali mutu dan biaya menjadi tanggung jawab fasilitas.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 303",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-uu-moral",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Manakah yang termasuk tanggung jawab moral tenaga medis menurut Pasal 279?",
+    "options": [
+      "Mengutamakan kepentingan Pasien",
+      "Menjaga tarif tetap kompetitif",
+      "Membela sejawat dalam setiap sengketa medis",
+      "Menarik pasien sebanyak-banyaknya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 279: mengabdikan diri sesuai bidang keilmuan; bersikap sesuai etika profesi; mengutamakan kepentingan Pasien dan masyarakat di atas kepentingan pribadi/kelompok; menambah ilmu dan mengikuti perkembangan IPTEK.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 279",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

@@ -7,8 +7,8 @@
     "account": "bw.receh",
     "question": "Menurut Pasal 1234 KUHPerdata, bentuk prestasi dalam perikatan adalah…",
     "options": [
-      "Berjanji, bersepakat, melaksanakan",
-      "Membayar, menyerahkan, menjamin",
+      "Berjanji, bersepakat, dan melaksanakan kesepakatan",
+      "Membayar sesuatu, menyerahkan sesuatu, menjamin sesuatu",
       "Memberikan sesuatu, berbuat sesuatu, tidak berbuat sesuatu",
       "Menjual, menyewa, meminjam"
     ],
@@ -29,10 +29,10 @@
     "account": "bw.receh",
     "question": "Menurut Pasal 1238 KUHPerdata, debitur dinyatakan lalai dengan…",
     "options": [
-      "Teguran lisan dari kreditur",
+      "Teguran lisan dari kreditur yang disaksikan dua orang saksi dan dicatat oleh kepala desa",
       "Pengumuman di surat kabar",
-      "Putusan pengadilan",
-      "Surat perintah atau akta sejenis, atau berdasarkan kekuatan perikatan itu sendiri bila ditetapkan lewatnya waktu menjadikannya lalai"
+      "Putusan pengadilan yang menyatakan debitur wanprestasi, lalu diberitahukan kepada debitur",
+      "Surat perintah/akta sejenis, atau perikatannya sendiri bila lewat waktu menjadikannya lalai"
     ],
     "answerIndex": 3,
     "explanation": "Pernyataan lalai ini dikenal sebagai somasi (ingebrekestelling).",
@@ -95,8 +95,8 @@
     "account": "bw.receh",
     "question": "Menurut KUHPerdata, batas usia dewasa (Pasal 330) adalah…",
     "options": [
-      "18 tahun",
-      "25 tahun",
+      "18 tahun, sesuai UU Perlindungan Anak",
+      "25 tahun atau sudah bekerja",
       "21 tahun atau sudah kawin",
       "17 tahun"
     ],
@@ -141,9 +141,9 @@
     "question": "Pasal 1367 KUHPerdata mengatur tanggung jawab atas kerugian yang disebabkan…",
     "options": [
       "Orang yang menjadi tanggungannya atau barang di bawah pengawasannya",
-      "Gedung yang roboh",
+      "Gedung miliknya yang roboh karena kurang perawatan saja",
       "Hewan peliharaan",
-      "Diri sendiri karena kelalaian"
+      "Hanya perbuatannya sendiri, termasuk karena kelalaian"
     ],
     "answerIndex": 0,
     "explanation": "Mis. orang tua atas anak belum dewasa, majikan atas bawahan dalam pekerjaannya. Hewan: Pasal 1368; gedung: Pasal 1369; kelalaian sendiri: Pasal 1366.",
@@ -209,8 +209,8 @@
     "account": "bw.receh",
     "question": "\"Unus testis nullus testis\" dalam hukum perdata berarti…",
     "options": [
-      "Saksi tidak boleh keluarga",
-      "Satu saksi cukup bila disumpah",
+      "Saksi tidak boleh berasal dari keluarga sedarah para pihak",
+      "Satu saksi sudah cukup asalkan ia disumpah",
       "Keterangan seorang saksi saja tanpa alat bukti lain tidak dapat dipercaya",
       "Saksi harus lebih dari tiga"
     ],
@@ -231,10 +231,10 @@
     "account": "bw.receh",
     "question": "Terhadap benda bergerak yang tidak berupa bunga atau piutang yang tidak harus dibayar kepada pembawa, barang siapa menguasainya dianggap sebagai pemiliknya. Ini bunyi Pasal…",
     "options": [
-      "1365",
+      "1365 ayat (1)",
       "584",
       "1977 ayat (1)",
-      "1963"
+      "1963 ayat (1)"
     ],
     "answerIndex": 2,
     "explanation": "Pasal 1977 ayat (1): bezit atas benda bergerak berlaku sebagai titel yang sempurna. Ayat (2) memberi hak menuntut kembali barang hilang atau dicuri dalam 3 tahun.",

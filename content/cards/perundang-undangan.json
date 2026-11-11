@@ -33,8 +33,8 @@
     "question": "Urutan yang benar menurut Pasal 7 ayat (1) UU 12/2011 adalah…",
     "options": [
       "UUD, Tap MPR, UU/Perppu, PP, Perpres",
-      "UUD, UU, Perpres, PP",
-      "UUD, UU, Tap MPR, PP",
+      "UUD, UU/Perppu, Perpres, PP, Tap MPR",
+      "UUD, UU/Perppu, Tap MPR, PP, Perpres",
       "UUD, Tap MPR, PP, UU"
     ],
     "answerIndex": 0,
@@ -54,9 +54,9 @@
     "account": "hierarki.uu",
     "question": "Peraturan Menteri atau Peraturan Mahkamah Agung (yang tidak tercantum di Pasal 7) tetap diakui dan mengikat bila…",
     "options": [
-      "Disetujui DPR",
+      "Disetujui DPR dalam rapat paripurna sebelum diundangkan",
       "Diperintahkan peraturan yang lebih tinggi atau dibentuk berdasarkan kewenangan",
-      "Diumumkan di media massa",
+      "Diumumkan di media massa dan dicatat dalam Berita Daerah",
       "Tidak pernah"
     ],
     "answerIndex": 1,
@@ -77,9 +77,9 @@
     "question": "Materi muatan ketentuan pidana hanya dapat dimuat dalam…",
     "options": [
       "Semua jenis peraturan",
-      "PP dan Perpres",
+      "UU, PP, dan Perpres",
       "UU dan Perda (provinsi/kabupaten/kota)",
-      "Peraturan Menteri"
+      "UU dan Peraturan Menteri teknis"
     ],
     "answerIndex": 2,
     "explanation": "Pasal 15 ayat (1) UU 12/2011.",
@@ -191,8 +191,8 @@
     "options": [
       "UU 13/2022 (perubahan kedua UU 12/2011)",
       "Perpres",
-      "UU 12/2011 sejak awal",
-      "Putusan MA"
+      "UU 12/2011 sejak awal diundangkan",
+      "Putusan Mahkamah Agung dalam uji materi"
     ],
     "answerIndex": 0,
     "explanation": "UU 13/2022 menambahkan pengaturan metode omnibus serta memperkuat partisipasi masyarakat, setelah Putusan MK 91/PUU-XVIII/2020 tentang UU Cipta Kerja.",
@@ -252,9 +252,9 @@
     "account": "hierarki.uu",
     "question": "Instrumen perencanaan penyusunan undang-undang disebut…",
     "options": [
-      "Prolegnas (Program Legislasi Nasional)",
-      "RPJMN",
-      "Propemperda",
+      "Prolegnas",
+      "RPJMN (Rencana Pembangunan Jangka Menengah)",
+      "Propemperda (Program Pembentukan Perda)",
       "Naskah akademik"
     ],
     "answerIndex": 0,

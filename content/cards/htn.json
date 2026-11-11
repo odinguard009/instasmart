@@ -69,9 +69,9 @@
     "question": "Manakah yang BUKAN kewenangan Mahkamah Konstitusi?",
     "options": [
       "Menguji peraturan di bawah undang-undang terhadap undang-undang",
-      "Memutus perselisihan hasil pemilihan umum",
+      "Memutus perselisihan tentang hasil pemilihan umum",
       "Memutus pembubaran partai politik",
-      "Menguji undang-undang terhadap UUD"
+      "Menguji undang-undang terhadap Undang-Undang Dasar"
     ],
     "answerIndex": 0,
     "explanation": "Menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang adalah kewenangan Mahkamah Agung (Pasal 24A ayat (1)). MK menguji undang-undang terhadap UUD (Pasal 24C ayat (1)).",
@@ -113,8 +113,8 @@
     "question": "Perppu yang ditetapkan Presiden harus mendapat persetujuan siapa, dan kapan?",
     "options": [
       "DPR, dalam persidangan yang berikut",
-      "MPR, dalam sidang tahunan",
-      "MK, dalam 30 hari",
+      "MPR, dalam sidang tahunan berikutnya",
+      "MK, dalam 30 hari sejak ditetapkan",
       "Tidak perlu persetujuan"
     ],
     "answerIndex": 0,
@@ -134,8 +134,8 @@
     "account": "konstitusi.kece",
     "question": "Menurut Pasal 37 UUD 1945, hal apa yang tidak dapat dilakukan perubahan?",
     "options": [
-      "Jumlah provinsi",
-      "Masa jabatan Presiden",
+      "Jumlah dan nama provinsi yang tercantum",
+      "Masa jabatan dan batas periode Presiden",
       "Jumlah anggota DPR",
       "Bentuk Negara Kesatuan Republik Indonesia"
     ],

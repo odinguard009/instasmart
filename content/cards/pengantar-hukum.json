@@ -65,9 +65,9 @@
     "question": "UU A (2010) dan UU B (2020) setingkat, sama-sama umum, dan bertentangan. Menurut asas preferensi, mana yang dipakai?",
     "options": [
       "Keduanya batal",
-      "Terserah hakim tanpa asas",
-      "UU A, karena lebih dulu ada",
-      "UU B, karena lex posterior derogat legi priori"
+      "Terserah hakim, karena tidak ada asas yang mengatur",
+      "UU A, karena lex prior lebih dulu mengikat",
+      "UU B, karena lex posterior"
     ],
     "answerIndex": 3,
     "explanation": "Lex posterior derogat legi priori: aturan yang lebih baru mengesampingkan aturan lama yang setingkat. Asas ini mengalah bila aturan lama adalah aturan khusus (lex specialis) atau lebih tinggi derajatnya; urutan prioritasnya dibahas dalam doktrin.",
@@ -152,10 +152,10 @@
     "account": "teori.hukum.santai",
     "question": "\"Hukum tidak dibuat, tetapi tumbuh dan berkembang bersama jiwa bangsa (Volksgeist).\" Pandangan ini milik…",
     "options": [
-      "Roscoe Pound",
-      "Friedrich Carl von Savigny",
-      "John Austin",
-      "Hans Kelsen"
+      "Roscoe Pound (sociological jurisprudence)",
+      "Friedrich Carl von Savigny (mazhab sejarah)",
+      "John Austin (analytical jurisprudence)",
+      "Hans Kelsen (teori hukum murni)"
     ],
     "answerIndex": 1,
     "explanation": "Von Savigny adalah tokoh Mazhab Sejarah. Kelsen dan Austin mewakili positivisme; Pound mewakili sociological jurisprudence.",
@@ -267,8 +267,8 @@
     "question": "Undang-undang Kekuasaan Kehakiman mewajibkan hakim menggali, mengikuti, dan memahami… ",
     "options": [
       "Nilai-nilai hukum dan rasa keadilan yang hidup dalam masyarakat",
-      "Kehendak para pihak yang berperkara",
-      "Arahan ketua pengadilan",
+      "Kehendak dan kesepakatan para pihak yang sedang berperkara",
+      "Arahan ketua pengadilan dan yurisprudensi yang mengikat",
       "Pendapat media massa"
     ],
     "answerIndex": 0,
@@ -311,9 +311,9 @@
     "question": "\"Saya tidak tahu ada aturannya, jadi saya tidak bisa dihukum.\" Pembelaan ini lemah karena…",
     "options": [
       "Asas ne bis in idem",
-      "Asas audi et alteram partem",
-      "Asas fiksi hukum: setiap orang dianggap tahu undang-undang setelah diundangkan",
-      "Asas res judicata"
+      "Asas audi et alteram partem: dengar kedua pihak",
+      "Asas fiksi hukum: semua orang dianggap tahu UU",
+      "Asas res judicata: putusan dianggap benar"
     ],
     "answerIndex": 2,
     "explanation": "Peraturan yang sudah diundangkan dianggap diketahui semua orang (fiksi hukum). Karena itu pengundangan dalam Lembaran Negara penting: sejak itu peraturan mengikat umum.",

@@ -9,8 +9,8 @@
     "options": [
       "Langsung, umum, bebas, rahasia, jujur, adil",
       "Bebas, aktif, jujur, adil",
-      "Langsung, terbuka, bebas, rahasia",
-      "Umum, terbuka, jujur, efisien"
+      "Langsung, umum, terbuka, bebas, jujur, adil",
+      "Umum, terbuka, jujur, efisien, adil"
     ],
     "answerIndex": 0,
     "explanation": "Disingkat luber jurdil; diselenggarakan setiap lima tahun sekali.",
@@ -75,9 +75,9 @@
     "question": "Pasangan calon presiden terpilih menurut Pasal 6A ayat (3) UUD harus memperoleh…",
     "options": [
       "2/3 suara",
-      "Suara terbanyak saja",
-      "50% suara di semua provinsi",
-      "Lebih dari 50% suara dengan sedikitnya 20% suara di lebih dari separuh jumlah provinsi"
+      "Suara terbanyak saja, berapa pun persentase dan sebarannya",
+      "Lebih dari 50% suara nasional dan menang di semua provinsi",
+      "Lebih dari 50% suara, dengan ≥20% di lebih dari separuh provinsi"
     ],
     "answerIndex": 3,
     "explanation": "Bila tidak ada yang memenuhi, dua pasangan peraih suara terbanyak dipilih langsung oleh rakyat (putaran kedua).",
@@ -97,9 +97,9 @@
     "question": "Perselisihan tentang hasil pemilu (pileg/pilpres) diputus oleh…",
     "options": [
       "Mahkamah Konstitusi",
-      "PTUN",
+      "Pengadilan Tata Usaha Negara",
       "Mahkamah Agung",
-      "Bawaslu"
+      "Badan Pengawas Pemilu"
     ],
     "answerIndex": 0,
     "explanation": "Pasal 24C ayat (1) UUD 1945.",
@@ -167,8 +167,8 @@
     "account": "kotak.suara",
     "question": "Sentra Gakkumdu terdiri atas unsur…",
     "options": [
-      "KPK, Polri, TNI",
-      "KPU, Bawaslu, DKPP",
+      "KPK, Polri, dan TNI",
+      "KPU, Bawaslu, dan DKPP",
       "Bawaslu, Kepolisian, Kejaksaan",
       "MK, MA, KY"
     ],

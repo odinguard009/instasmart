@@ -29,7 +29,7 @@
     "account": "pakhoot.bijak",
     "question": "Segala campur tangan dalam urusan peradilan oleh pihak lain di luar kekuasaan kehakiman…",
     "options": [
-      "Diperbolehkan bila untuk kepentingan umum",
+      "Diperbolehkan bila untuk kepentingan umum dan disetujui Ketua MA",
       "Dilarang, kecuali dalam hal-hal sebagaimana disebut UUD 1945",
       "Diperbolehkan oleh Presiden",
       "Diperbolehkan oleh DPR"
@@ -52,9 +52,9 @@
     "question": "Putusan pengadilan selain memuat alasan dan dasar putusan juga wajib memuat…",
     "options": [
       "Nama semua pengunjung sidang",
-      "Pendapat media",
-      "Rekomendasi Komisi Yudisial",
-      "Pasal tertentu dari peraturan yang bersangkutan atau sumber hukum tak tertulis yang dijadikan dasar mengadili"
+      "Pendapat media dan aspirasi publik yang berkembang selama persidangan",
+      "Rekomendasi Komisi Yudisial dan pendapat ahli yang dihadirkan pihak",
+      "Pasal peraturan atau sumber hukum tak tertulis yang dijadikan dasar mengadili"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 50 ayat (1) UU 48/2009.",
@@ -73,8 +73,8 @@
     "account": "pakhoot.bijak",
     "question": "Asas \"nemo judex in causa sua\" berarti…",
     "options": [
-      "Hakim dianggap tahu hukum",
-      "Dengarkan juga pihak lain",
+      "Hakim dianggap mengetahui semua hukumnya",
+      "Dengarkan juga pihak lain sebelum memutus",
       "Tidak seorang pun boleh menjadi hakim dalam perkaranya sendiri",
       "Tidak ada pidana tanpa kesalahan"
     ],

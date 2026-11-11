@@ -145,9 +145,9 @@
     "account": "npwp.santai",
     "question": "Wajib pajak tidak setuju dengan surat ketetapan pajak. Urutan upaya hukumnya…",
     "options": [
-      "Keberatan ke DJP, banding ke Pengadilan Pajak, peninjauan kembali ke MA",
-      "Keberatan ke PTUN",
-      "Gugatan ke PN, banding, kasasi",
+      "Keberatan ke DJP, banding ke Pengadilan Pajak, lalu PK ke MA",
+      "Keberatan ke DJP, gugatan ke PTUN, lalu kasasi ke MA",
+      "Gugatan ke pengadilan negeri, lalu banding dan kasasi",
       "Langsung kasasi ke MA"
     ],
     "answerIndex": 0,
@@ -168,8 +168,8 @@
     "account": "npwp.santai",
     "question": "Upaya hukum atas putusan Pengadilan Pajak adalah…",
     "options": [
-      "Banding ke PTTUN",
-      "Kasasi",
+      "Banding ke Pengadilan Tinggi TUN",
+      "Kasasi ke Mahkamah Agung",
       "Peninjauan kembali ke Mahkamah Agung",
       "Verzet"
     ],
@@ -192,9 +192,9 @@
     "question": "Putusan MK 26/PUU-XXI/2023 menentukan bahwa pembinaan organisasi, administrasi, dan finansial Pengadilan Pajak…",
     "options": [
       "Dihapus",
-      "Dialihkan ke Komisi Yudisial",
-      "Tetap di Kementerian Keuangan",
-      "Dialihkan ke Mahkamah Agung (paling lambat 31 Desember 2026)"
+      "Dialihkan ke Komisi Yudisial secara bertahap",
+      "Tetap di Kementerian Keuangan, hanya teknis yudisial di MA",
+      "Dialihkan ke MA, paling lambat 31 Desember 2026"
     ],
     "answerIndex": 3,
     "explanation": "MK memerintahkan pembinaan satu atap di bawah MA. Cek perkembangan pelaksanaannya.",

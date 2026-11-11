@@ -9,8 +9,8 @@
     "options": [
       "Hanya sebagai bukti permulaan",
       "Seperti putusan berkekuatan hukum tetap dan tidak dapat dibanding",
-      "Sebagai penetapan yang dapat dikasasi",
-      "Sebagai perjanjian biasa yang dapat dibanding"
+      "Sebagai penetapan biasa yang masih dapat diajukan kasasi oleh salah satu pihak",
+      "Sebagai perjanjian biasa yang dapat dibanding bila salah satu pihak keberatan"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 130 ayat (2) dan (3) HIR.",
@@ -51,9 +51,9 @@
     "account": "hir.hari.ini",
     "question": "Eksepsi kompetensi relatif harus diajukan…",
     "options": [
-      "Kapan saja, bahkan di tingkat kasasi",
+      "Kapan saja selama pemeriksaan, bahkan masih bisa diajukan di tingkat kasasi",
       "Pada jawaban pertama; bila terlambat, tidak diperhatikan",
-      "Setelah pembuktian",
+      "Setelah tahap pembuktian selesai, sebelum kesimpulan para pihak",
       "Saat banding"
     ],
     "answerIndex": 1,
@@ -117,8 +117,8 @@
     "account": "hir.hari.ini",
     "question": "Sita atas harta tergugat untuk menjamin gugatan tidak sia-sia karena dikhawatirkan barang digelapkan disebut…",
     "options": [
-      "Sita eksekusi",
-      "Sita revindikasi",
+      "Sita eksekusi (executoriaal beslag)",
+      "Sita revindikasi (revindicatoir beslag)",
       "Sita marital",
       "Sita jaminan (conservatoir beslag)"
     ],
@@ -164,7 +164,7 @@
       "90 hari",
       "7 hari",
       "14 hari sejak putusan diucapkan atau diberitahukan",
-      "30 hari"
+      "30 hari sejak putusan diucapkan atau diberitahukan"
     ],
     "answerIndex": 2,
     "explanation": "Pasal 7 UU No. 20 Tahun 1947 tentang Peradilan Ulangan: 14 hari; 30 hari bila pemohon berdiam di luar keresidenan tempat PN.",
@@ -209,8 +209,8 @@
     "question": "Gugatan yang posita dan petitumnya tidak jelas atau saling bertentangan disebut…, dan biasanya diputus…",
     "options": [
       "Ne bis in idem; dikabulkan",
-      "Prematur; ditolak",
-      "Error in persona; ditolak",
+      "Gugatan prematur; ditolak seluruhnya",
+      "Error in persona; gugatan ditolak",
       "Obscuur libel; tidak dapat diterima (NO)"
     ],
     "answerIndex": 3,

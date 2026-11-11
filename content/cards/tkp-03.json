@@ -7,11 +7,11 @@
     "account": "tkp.bijak",
     "question": "Warga mengeluhkan layanan kantor Anda di media sosial dengan nada kasar. Anda…",
     "options": [
-      "Melaporkan akun itu ke polisi",
+      "Melaporkan akun itu ke polisi karena kata-katanya kasar dan merusak nama baik kantor",
       "Menghapus komentar di akun kantor",
       "Membalas dengan nada sama",
-      "Mengabaikan karena kasar",
-      "Menanggapi sopan lewat kanal resmi, menelusuri masalahnya, dan memberi tindak lanjut"
+      "Mengabaikannya karena keluhan yang disampaikan dengan kasar tidak perlu ditanggapi",
+      "Menanggapi sopan lewat kanal resmi, menelusuri masalahnya, dan menindaklanjuti"
     ],
     "answerIndex": 4,
     "explanation": "Fokus pada substansi keluhan dan penyelesaiannya, bukan nadanya.",
@@ -40,8 +40,8 @@
     "options": [
       "Menyarankan datang saat sepi",
       "Memintanya mencoba lagi sendiri",
-      "Menyuruhnya membawa pendamping lain kali",
-      "Mengisi sendiri sesuai dugaan Anda",
+      "Menyarankannya datang lagi bersama pendamping agar pengisian formulir berikutnya lebih lancar",
+      "Mengisikan formulirnya sendiri sesuai dugaan Anda agar prosesnya cepat dan antrean tidak menumpuk",
       "Membantu mengisi sesuai keterangannya dan mengusulkan perbaikan aksesibilitas formulir"
     ],
     "answerIndex": 4,
@@ -69,11 +69,11 @@
     "account": "tkp.bijak",
     "question": "Proyek Anda butuh data dari instansi lain yang lambat merespons. Anda…",
     "options": [
-      "Memakai data perkiraan sendiri",
+      "Memakai data perkiraan sendiri sementara supaya jadwal proyek tidak mundur",
       "Membatalkan bagian proyek itu",
-      "Menghubungi narahubung, menjelaskan kebutuhan dan tenggat, serta menawarkan bantuan teknis bila perlu",
+      "Menghubungi narahubung, menjelaskan kebutuhan dan tenggat, serta menawarkan bantuan teknis",
       "Menunggu saja",
-      "Mengeluh ke atasan"
+      "Melaporkan kepada atasan bahwa instansi itu lambat agar atasan yang menyurati pimpinannya"
     ],
     "answerIndex": 2,
     "explanation": "Membangun kerja sama aktif dan saling menguntungkan.",
@@ -101,10 +101,10 @@
     "question": "Usulan Anda ditolak tim dan tim memilih usulan rekan. Anda…",
     "options": [
       "Mendukung keputusan tim dan menyumbangkan bagian ide Anda yang relevan",
-      "Mengajukan lagi ke atasan diam-diam",
+      "Mengajukan usulan Anda langsung ke atasan karena yakin usulan itu sebenarnya lebih baik",
       "Menunggu usulan rekan gagal",
       "Tidak ikut membantu",
-      "Menerima tapi pasif"
+      "Menerima keputusan itu dan mengerjakan bagian yang ditugaskan kepada Anda saja"
     ],
     "answerIndex": 0,
     "explanation": "Mengutamakan kepentingan tim.",
@@ -133,7 +133,7 @@
     "options": [
       "Menganggap adat tidak penting",
       "Menjaga jarak dari warga",
-      "Mengikuti adat meski melanggar aturan",
+      "Mengikuti adat setempat sepenuhnya, termasuk bila bertentangan dengan aturan kedinasan, agar diterima",
       "Meminta pindah",
       "Mempelajari dan menghormati adat setempat sambil tetap menjalankan aturan kedinasan"
     ],
@@ -163,10 +163,10 @@
     "question": "Anda perlu menyelesaikan dokumen rahasia di rumah. Anda…",
     "options": [
       "Menyimpan di flashdisk tanpa sandi",
-      "Mengirim ke surel pribadi",
+      "Mengirim dokumen ke surel pribadi yang sudah memakai kata sandi kuat agar tetap aman",
       "Memakai perangkat dan jalur akses resmi sesuai ketentuan keamanan data",
       "Meminta teman mengetik",
-      "Mencetak dan membawanya pulang"
+      "Mencetak dokumen itu dan membawanya pulang dalam map tertutup agar tidak perlu memakai jaringan internet"
     ],
     "answerIndex": 2,
     "explanation": "Keamanan informasi mengikuti ketentuan resmi.",
@@ -194,7 +194,7 @@
     "question": "Kantor menerapkan aplikasi kerja baru dan rekan senior kesulitan. Anda…",
     "options": [
       "Melapor ke atasan bahwa ia lambat",
-      "Mengerjakan bagiannya",
+      "Mengerjakan bagian rekan itu di aplikasi supaya target unit tetap tercapai tepat waktu",
       "Menyarankan kembali ke cara lama",
       "Mengajarinya langkah demi langkah dan berbagi panduan singkat",
       "Membiarkan karena bukan tugas Anda"
@@ -226,7 +226,7 @@
     "options": [
       "Menunggu ada yang menyadari",
       "Diam agar tidak menyinggung",
-      "Memperbaiki sendiri tanpa memberi tahu",
+      "Memperbaiki angka itu sendiri pada salinan yang belum dikirim tanpa merepotkan atasan",
       "Membicarakannya dengan rekan",
       "Menyampaikan temuan dan data pendukung kepada atasan secara sopan"
     ],
@@ -258,8 +258,8 @@
       "Menolak karena jam kerja selesai",
       "Menerima lalu lupa",
       "Mengerjakan asal jadi",
-      "Menyerahkan ke rekan",
-      "Menerima, memprioritaskan, dan menyelesaikan sesuai kemampuan sambil mengomunikasikan kendala"
+      "Meminta rekan yang masih di kantor mengerjakannya karena ia lebih menguasai materi tugas itu",
+      "Menerima, menyusun prioritas, menyelesaikannya, dan mengomunikasikan kendala"
     ],
     "answerIndex": 4,
     "explanation": "Tanggung jawab dan manajemen prioritas.",
@@ -287,9 +287,9 @@
     "question": "Kenalan baru mengajak ikut kelompok yang meminta janji setia di luar negara dan menganggap pemerintah musuh. Anda…",
     "options": [
       "Ikut sekali untuk tahu",
-      "Menolak, menjelaskan bahayanya, dan melaporkan kepada pihak berwenang bila ada indikasi ancaman",
+      "Menolak, menjelaskan bahayanya, dan melapor ke pihak berwenang bila ada ancaman",
       "Diam saja",
-      "Menolak dan menjauh",
+      "Menolak ajakan itu dan menjauh darinya tanpa perlu melibatkan pihak lain",
       "Menyebarkan di grup untuk diejek"
     ],
     "answerIndex": 1,
@@ -318,9 +318,9 @@
     "question": "Di grup kantor terjadi debat agama yang memanas. Anda…",
     "options": [
       "Keluar dari grup",
-      "Menyimpan tangkapan layar untuk dilaporkan",
+      "Menyimpan tangkapan layar percakapan itu untuk dilaporkan kepada atasan bila debat terus berlanjut",
       "Ikut membela pendapat sendiri",
-      "Mengingatkan dengan santun agar grup dipakai untuk urusan kerja dan saling menghormati",
+      "Mengingatkan dengan santun agar grup dipakai untuk urusan kerja",
       "Diam saja"
     ],
     "answerIndex": 3,
@@ -348,10 +348,10 @@
     "account": "tkp.bijak",
     "question": "Target unit belum tercapai dan tim diminta lembur sukarela. Anda punya acara keluarga penting. Anda…",
     "options": [
-      "Menyampaikan kendala, menyelesaikan bagian Anda lebih awal atau di waktu lain yang disepakati",
+      "Menyampaikan kendala dan menyelesaikan bagian Anda di waktu lain yang disepakati",
       "Mengeluh di grup",
       "Tidak hadir tanpa kabar",
-      "Ikut lembur dan membatalkan acara tanpa bicara",
+      "Ikut lembur dan membatalkan acara keluarga karena target unit harus menjadi prioritas utama",
       "Pura-pura sakit"
     ],
     "answerIndex": 0,

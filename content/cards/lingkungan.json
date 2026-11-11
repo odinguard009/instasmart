@@ -52,10 +52,10 @@
     "account": "bumi.hijau",
     "question": "Hak gugat organisasi lingkungan hidup (legal standing) menurut UU 32/2009 terbatas pada tuntutan…",
     "options": [
-      "Ganti rugi materiil yang besar",
-      "Pembubaran perusahaan",
+      "Ganti rugi materiil dan imateriil bagi seluruh anggotanya",
+      "Pembubaran perusahaan dan pencabutan izin oleh hakim perdata",
       "Pidana penjara",
-      "Melakukan tindakan tertentu, tanpa ganti rugi kecuali biaya riil"
+      "Tindakan tertentu, tanpa ganti rugi kecuali biaya riil"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 92 ayat (2). Organisasi harus berbadan hukum, anggaran dasarnya menyebut tujuan pelestarian lingkungan, dan telah melaksanakan kegiatan nyata paling singkat 2 tahun (ayat 3).",
@@ -122,9 +122,9 @@
     "question": "Masyarakat korban pencemaran yang jumlahnya banyak dan bernasib sama dapat mengajukan…",
     "options": [
       "Praperadilan",
-      "Legal standing organisasi",
+      "Hak gugat organisasi lingkungan (legal standing)",
       "Gugatan perwakilan kelompok (class action)",
-      "Permohonan uji materi"
+      "Permohonan uji materi ke Mahkamah Agung"
     ],
     "answerIndex": 2,
     "explanation": "Pasal 91 UU 32/2009. Hukum acaranya diatur PERMA No. 1 Tahun 2002 tentang Acara Gugatan Perwakilan Kelompok.",

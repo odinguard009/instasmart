@@ -9,8 +9,8 @@
     "options": [
       "Boleh, maksimal 3 bulan",
       "Tidak boleh; jika disyaratkan, batal demi hukum",
-      "Boleh bila disepakati tertulis",
-      "Boleh, maksimal 6 bulan"
+      "Boleh, bila disepakati tertulis dalam perjanjian kerja",
+      "Boleh, paling lama 6 bulan dan wajib dibayar upah minimum"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 58 UU 13/2003: PKWT tidak dapat mensyaratkan masa percobaan; jika disyaratkan, batal demi hukum dan masa kerja tetap dihitung. Masa percobaan (maks. 3 bulan, Pasal 60) hanya untuk PKWTT.",
@@ -52,9 +52,9 @@
     "account": "buruh.paham",
     "question": "Menurut UU 2/2004, jenis perselisihan hubungan industrial ada…",
     "options": [
-      "4: hak, kepentingan, PHK, antar serikat pekerja dalam satu perusahaan",
-      "3: hak, kepentingan, PHK",
-      "5: termasuk perselisihan upah minimum",
+      "4: hak, kepentingan, PHK, antar serikat pekerja",
+      "3: hak, kepentingan, dan PHK",
+      "5: hak, kepentingan, PHK, antar serikat, dan perselisihan upah minimum",
       "2: hak dan kepentingan"
     ],
     "answerIndex": 0,
@@ -96,10 +96,10 @@
     "account": "buruh.paham",
     "question": "Arbitrase hubungan industrial hanya dapat menyelesaikan perselisihan…",
     "options": [
-      "Semua jenis perselisihan",
+      "Semua jenis perselisihan hubungan industrial",
       "PHK saja",
       "Kepentingan dan antar serikat pekerja dalam satu perusahaan",
-      "Hak dan PHK"
+      "Perselisihan hak dan perselisihan pemutusan hubungan kerja"
     ],
     "answerIndex": 2,
     "explanation": "Arbitrase dan konsiliasi tidak untuk perselisihan hak. Mediasi dapat menangani keempat jenis perselisihan.",
@@ -119,10 +119,10 @@
     "account": "buruh.paham",
     "question": "Putusan Pengadilan Hubungan Industrial yang bersifat akhir dan tetap (tidak dapat dikasasi) adalah putusan mengenai perselisihan…",
     "options": [
-      "PHK",
+      "Perselisihan pemutusan hubungan kerja (PHK)",
       "Hak",
-      "Semua jenis",
-      "Kepentingan dan antar serikat pekerja dalam satu perusahaan"
+      "Semua jenis perselisihan; kasasi selalu terbuka",
+      "Kepentingan, dan antar serikat pekerja"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 109 UU 2/2004. Untuk perselisihan hak dan PHK, kasasi dapat diajukan ke Mahkamah Agung (Pasal 110).",

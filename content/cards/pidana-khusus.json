@@ -33,8 +33,8 @@
     "question": "Menurut UU Tipikor versi sebelum 2 Januari 2026: pejabat menguntungkan diri dengan menyalahgunakan kewenangan karena jabatannya dan merugikan keuangan negara. Pasal yang paling tepat…",
     "options": [
       "Pasal 12B: gratifikasi",
-      "Pasal 2: melawan hukum memperkaya diri",
-      "Pasal 3: menyalahgunakan kewenangan, kesempatan, atau sarana karena jabatan",
+      "Pasal 2: melawan hukum memperkaya diri sendiri, orang lain, atau korporasi",
+      "Pasal 3: menyalahgunakan kewenangan karena jabatan",
       "Pasal 5: suap aktif"
     ],
     "answerIndex": 2,
@@ -55,10 +55,10 @@
     "account": "anti.rasuah",
     "question": "Apa dampak Putusan MK No. 25/PUU-XIV/2016 terhadap Pasal 2 dan 3 UU Tipikor?",
     "options": [
-      "Korupsi tidak lagi bisa dipidana",
+      "Korupsi tanpa kerugian negara tidak lagi bisa dipidana sama sekali",
       "KPK dibubarkan",
-      "Ancaman pidana mati dihapus",
-      "Kata \"dapat\" dihapus sehingga kerugian negara harus nyata (actual loss)"
+      "Ancaman pidana mati dalam keadaan tertentu dihapus dari UU Tipikor",
+      "Kata \"dapat\" dihapus; kerugian negara harus nyata"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 2 dan 3 berubah dari delik formil (cukup potensi kerugian) menjadi delik materiil: kerugian keuangan negara harus nyata. Catatan versi: kedua pasal itu dicabut KUHP Nasional sejak 2 Januari 2026; rumusan penggantinya di KUHP perlu dicek apakah memuat kata \"dapat\".",
@@ -193,8 +193,8 @@
     "options": [
       "KPK",
       "PPATK",
-      "BPK",
-      "OJK"
+      "Badan Pemeriksa Keuangan (BPK)",
+      "Otoritas Jasa Keuangan (OJK)"
     ],
     "answerIndex": 1,
     "explanation": "PPATK (Pusat Pelaporan dan Analisis Transaksi Keuangan) adalah lembaga intelijen keuangan Indonesia menurut UU TPPU.",
@@ -237,9 +237,9 @@
     "question": "Menurut UU Narkotika, pecandu narkotika dan korban penyalahgunaan narkotika…",
     "options": [
       "Wajib menjalani rehabilitasi medis dan rehabilitasi sosial",
-      "Hanya dikenai denda",
+      "Hanya dikenai denda administratif tanpa tindakan lain",
       "Selalu dipidana mati",
-      "Dibebaskan tanpa tindakan apa pun"
+      "Dibebaskan tanpa tindakan apa pun karena dianggap korban"
     ],
     "answerIndex": 0,
     "explanation": "Pasal 54 UU Narkotika mewajibkan rehabilitasi medis dan sosial. Hakim dapat memutus atau menetapkan rehabilitasi bagi pecandu (Pasal 103).",

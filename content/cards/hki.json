@@ -8,9 +8,9 @@
     "question": "Kapan hak cipta timbul menurut UU 28/2014?",
     "options": [
       "Sejak dijual pertama kali",
-      "Secara otomatis berdasarkan prinsip deklaratif setelah ciptaan diwujudkan dalam bentuk nyata",
-      "Sejak didaftarkan di DJKI",
-      "Sejak diumumkan di media massa"
+      "Otomatis (deklaratif) setelah ciptaan diwujudkan dalam bentuk nyata",
+      "Sejak didaftarkan dan dicatat dalam daftar umum ciptaan di DJKI (sistem konstitutif)",
+      "Sejak diumumkan pertama kali kepada publik melalui media apa pun"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 1 angka 1. Pencatatan ciptaan bukan syarat untuk mendapatkan hak cipta (Pasal 64 ayat 2).",
@@ -30,8 +30,8 @@
     "question": "Perlindungan hak ekonomi atas ciptaan buku oleh pencipta perorangan berlaku…",
     "options": [
       "Seumur hidup pencipta + 70 tahun setelah meninggal",
-      "10 tahun dan dapat diperpanjang",
-      "50 tahun sejak diumumkan",
+      "10 tahun sejak pencatatan dan dapat diperpanjang",
+      "50 tahun sejak ciptaan pertama kali diumumkan",
       "20 tahun sejak penerimaan"
     ],
     "answerIndex": 0,
@@ -73,9 +73,9 @@
     "account": "karya.cipta",
     "question": "Syarat invensi agar dapat diberi paten (biasa) adalah…",
     "options": [
-      "Terdaftar dan dipakai di pasar",
+      "Terdaftar sebagai merek dan sudah dipakai di pasar",
       "Baru, mengandung langkah inventif, dapat diterapkan dalam industri",
-      "Orisinal dan sudah diumumkan",
+      "Orisinal, sudah diumumkan, dan dipakai dalam perdagangan",
       "Baru dan berbentuk karya seni"
     ],
     "answerIndex": 1,
@@ -98,8 +98,8 @@
     "options": [
       "Seumur hidup inventor",
       "70 tahun",
-      "10 tahun, dapat diperpanjang",
-      "20 tahun sejak tanggal penerimaan, tidak dapat diperpanjang"
+      "10 tahun sejak tanggal penerimaan, dapat diperpanjang satu kali",
+      "20 tahun sejak penerimaan, tidak dapat diperpanjang"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 22 UU 13/2016. Paten sederhana 10 tahun sejak tanggal penerimaan, juga tidak dapat diperpanjang (Pasal 23).",
@@ -120,9 +120,9 @@
     "question": "Merek terdaftar mendapat perlindungan hukum selama…",
     "options": [
       "20 tahun",
-      "5 tahun, tidak dapat diperpanjang",
-      "Selama dipakai",
-      "10 tahun sejak tanggal penerimaan, dapat diperpanjang untuk jangka waktu yang sama"
+      "5 tahun sejak pendaftaran, tidak dapat diperpanjang",
+      "Selama merek masih dipakai dalam perdagangan",
+      "10 tahun sejak penerimaan, dapat diperpanjang"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 35 UU 20/2016. Hak atas merek diperoleh setelah merek terdaftar (sistem konstitutif, first to file).",

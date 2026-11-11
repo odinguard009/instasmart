@@ -99,9 +99,9 @@
     "question": "Pelaku menyadari kemungkinan besar akibat terjadi tetapi tetap berbuat dan menerima risikonya. Corak kesalahan ini disebut…",
     "options": [
       "Error in persona",
-      "Dolus eventualis (kesengajaan dengan kemungkinan)",
-      "Dolus directus",
-      "Culpa lata"
+      "Dolus eventualis",
+      "Dolus directus (kesengajaan sebagai maksud)",
+      "Culpa lata (kealpaan berat)"
     ],
     "answerIndex": 1,
     "explanation": "Dikenal juga sebagai teori \"inkauf nehmen\".",
@@ -170,9 +170,9 @@
     "account": "ngopi.kuhp",
     "question": "A memerintahkan B (orang dengan gangguan jiwa berat) membakar rumah. B tidak dapat dipertanggungjawabkan. A adalah…",
     "options": [
-      "Medeplichtige",
-      "Doen pleger (yang menyuruh melakukan)",
-      "Uitlokker",
+      "Medeplichtige (pembantu)",
+      "Doen pleger",
+      "Uitlokker (yang menganjurkan)",
       "Medepleger"
     ],
     "answerIndex": 1,
@@ -193,9 +193,9 @@
     "question": "Satu perbuatan yang melanggar beberapa ketentuan pidana sekaligus disebut…",
     "options": [
       "Recidive",
-      "Perbuatan berlanjut",
-      "Concursus realis",
-      "Concursus idealis (perbarengan peraturan)"
+      "Perbuatan berlanjut (voortgezette handeling)",
+      "Concursus realis (perbarengan perbuatan)",
+      "Concursus idealis"
     ],
     "answerIndex": 3,
     "explanation": "Concursus idealis: satu perbuatan, beberapa aturan; dipakai sistem absorpsi (ancaman terberat). Concursus realis: beberapa perbuatan yang berdiri sendiri. Perbuatan berlanjut: beberapa perbuatan sejenis yang berhubungan.",

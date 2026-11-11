@@ -30,9 +30,9 @@
     "question": "Hasil sidang PPKI 18 Agustus 1945 antara lain…",
     "options": [
       "Mengeluarkan Dekrit",
-      "Membacakan Proklamasi",
-      "Membentuk BPUPKI",
-      "Mengesahkan UUD 1945 serta memilih Presiden dan Wakil Presiden"
+      "Membacakan Proklamasi dan mengibarkan bendera pusaka",
+      "Membentuk BPUPKI dan menyusun rancangan dasar negara",
+      "Mengesahkan UUD, memilih Presiden dan Wapres"
     ],
     "answerIndex": 3,
     "explanation": "PPKI juga menetapkan bahwa untuk sementara Presiden dibantu Komite Nasional.",
@@ -99,8 +99,8 @@
     "question": "Usul perubahan pasal UUD 1945 dapat diagendakan dalam sidang MPR bila diajukan sekurang-kurangnya oleh…",
     "options": [
       "Presiden",
-      "1/2 anggota MPR",
-      "2/3 anggota DPR",
+      "1/2 jumlah anggota MPR",
+      "2/3 jumlah anggota DPR",
       "1/3 jumlah anggota MPR"
     ],
     "answerIndex": 3,
@@ -165,9 +165,9 @@
     "question": "Usaha pertahanan dan keamanan negara dilaksanakan melalui sistem…",
     "options": [
       "Pertahanan dan keamanan rakyat semesta",
-      "Wajib militer universal",
+      "Wajib militer bagi seluruh warga negara",
       "Aliansi militer",
-      "Pertahanan oleh TNI saja"
+      "Pertahanan yang dilaksanakan oleh TNI saja"
     ],
     "answerIndex": 0,
     "explanation": "Pasal 30 ayat (2): TNI dan Polri sebagai kekuatan utama, rakyat sebagai kekuatan pendukung.",
@@ -210,8 +210,8 @@
     "options": [
       "Mengingatkan rekan agar mencantumkan sumber sebelum dikirim",
       "Ikut menyalin agar adil",
-      "Melaporkan langsung ke media",
-      "Diam saja karena bukan urusan Anda"
+      "Melaporkan langsung kepada pimpinan tanpa membicarakannya dengan rekan",
+      "Diam saja karena laporan itu tanggung jawab rekan, bukan Anda"
     ],
     "answerIndex": 0,
     "explanation": "Integritas: jujur dan bertanggung jawab; koreksi dimulai dari mengingatkan secara langsung.",

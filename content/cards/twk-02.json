@@ -29,9 +29,9 @@
     "account": "twk.harian",
     "question": "Bagian UUD 1945 yang menurut Pasal 37 ayat (5) tidak dapat diubah adalah…",
     "options": [
-      "Masa jabatan presiden",
-      "Bentuk Negara Kesatuan Republik Indonesia",
-      "Jumlah kementerian",
+      "Masa jabatan dan batas periode presiden",
+      "Bentuk NKRI",
+      "Jumlah dan nomenklatur kementerian negara",
       "Pembukaan"
     ],
     "answerIndex": 1,
@@ -250,9 +250,9 @@
     "account": "twk.harian",
     "question": "Anda menjadi panitia seleksi, dan salah satu peserta adalah adik Anda. Sikap yang tepat…",
     "options": [
-      "Tetap menilai karena yakin objektif",
+      "Tetap menilai karena yakin dapat bersikap objektif dan profesional",
       "Menyatakan konflik kepentingan dan mundur dari penilaian peserta itu",
-      "Memberi nilai lebih rendah agar adil",
+      "Tetap menilai, tetapi memberi nilai sedikit lebih rendah agar tidak dituduh pilih kasih",
       "Merahasiakan hubungan keluarga"
     ],
     "answerIndex": 1,

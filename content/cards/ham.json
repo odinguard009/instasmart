@@ -53,8 +53,8 @@
     "account": "ham.harian",
     "question": "Menurut UU Pengadilan HAM, pelanggaran HAM yang berat meliputi…",
     "options": [
-      "Korupsi dan terorisme",
-      "Kejahatan perang dan agresi saja",
+      "Korupsi berskala besar dan tindak pidana terorisme",
+      "Kejahatan perang, agresi, dan genosida",
       "Narkotika dan pencucian uang",
       "Genosida dan kejahatan terhadap kemanusiaan"
     ],
@@ -97,10 +97,10 @@
     "account": "ham.harian",
     "question": "Pelanggaran HAM berat yang terjadi sebelum UU 26/2000 diundangkan diperiksa oleh…",
     "options": [
-      "Pengadilan HAM ad hoc yang dibentuk atas usul DPR dengan Keputusan Presiden",
-      "Mahkamah Pidana Internasional",
+      "Pengadilan HAM ad hoc, dibentuk atas usul DPR dengan Keputusan Presiden",
+      "Mahkamah Pidana Internasional atas rujukan Dewan Keamanan PBB",
       "Mahkamah Konstitusi",
-      "Pengadilan HAM biasa"
+      "Pengadilan HAM biasa, karena berlaku asas retroaktif otomatis"
     ],
     "answerIndex": 0,
     "explanation": "Pasal 43 UU 26/2000. Ini pengecualian terhadap asas nonretroaktif yang diperdebatkan, dan pernah diuji di MK.",

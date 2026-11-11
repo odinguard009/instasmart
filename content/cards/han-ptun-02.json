@@ -8,8 +8,8 @@
     "question": "Asas bahwa KTUN harus dianggap sah sampai ada pembatalan disebut…",
     "options": [
       "Praesumptio iustae causa",
-      "Ultra vires",
-      "Erga omnes",
+      "Ultra vires (melampaui wewenang)",
+      "Erga omnes (berlaku bagi semua)",
       "Contrarius actus"
     ],
     "answerIndex": 0,
@@ -51,10 +51,10 @@
     "account": "ktun.final",
     "question": "Salah satu syarat penggunaan diskresi menurut UU Administrasi Pemerintahan adalah…",
     "options": [
-      "Disetujui DPR",
-      "Sesuai tujuan diskresi, tidak bertentangan dengan peraturan, sesuai AUPB, alasan objektif, tidak konflik kepentingan, beritikad baik",
+      "Disetujui DPR atau DPRD sesuai tingkat pemerintahannya, sebelum dilaksanakan",
+      "Sesuai tujuan diskresi dan AUPB, berdasar alasan objektif, tanpa konflik kepentingan, beritikad baik",
       "Hanya untuk keadaan perang",
-      "Bertentangan dengan peraturan bila mendesak"
+      "Boleh bertentangan dengan peraturan bila mendesak, asal dilaporkan kepada atasan sesudahnya"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 24 UU 30/2014. Rumusan \"tidak bertentangan dengan peraturan\" diubah UU Cipta Kerja; cek rumusan yang berlaku.",
@@ -74,8 +74,8 @@
     "account": "ktun.final",
     "question": "Pejabat menggunakan wewenang untuk tujuan lain dari tujuan pemberian wewenang itu. Ini disebut…",
     "options": [
-      "Onbevoegdheid",
-      "Willekeur",
+      "Onbevoegdheid (tidak berwenang)",
+      "Willekeur (sewenang-wenang)",
       "Contrarius actus",
       "Detournement de pouvoir"
     ],
@@ -99,7 +99,7 @@
       "Pengadilan Tata Usaha Negara",
       "Mahkamah Konstitusi",
       "Pengadilan Niaga",
-      "Pengadilan Negeri"
+      "Pengadilan Negeri, karena perbuatan melanggar hukum adalah perkara perdata"
     ],
     "answerIndex": 0,
     "explanation": "PERMA No. 2 Tahun 2019 menegaskan sengketa tindakan pemerintahan dan perbuatan melanggar hukum oleh pemerintah menjadi kewenangan PTUN.",
@@ -120,9 +120,9 @@
     "question": "Bila pejabat tidak melaksanakan putusan PTUN yang berkekuatan hukum tetap, salah satu upaya yang dikenal UU PTUN adalah…",
     "options": [
       "Uang paksa (dwangsom) dan/atau sanksi administratif",
-      "Penahanan pejabat oleh hakim",
+      "Penahanan pejabat oleh hakim sampai putusan dilaksanakan",
       "Pembubaran instansi",
-      "Penyitaan kantor"
+      "Penyitaan aset kantor instansi oleh juru sita pengadilan"
     ],
     "answerIndex": 0,
     "explanation": "Pasal 116 UU PTUN (setelah perubahan 2009) mengenal upaya paksa berupa uang paksa dan/atau sanksi administratif, serta pengumuman di media massa.",
@@ -142,8 +142,8 @@
     "account": "ktun.final",
     "question": "Berbeda dengan hakim perdata, hakim PTUN dikenal…",
     "options": [
-      "Terikat pengakuan para pihak",
-      "Pasif sepenuhnya",
+      "Terikat pada pengakuan para pihak, seperti hakim perdata",
+      "Pasif sepenuhnya; hanya menilai yang diajukan para pihak",
       "Aktif (dominus litis), mis. dalam pemeriksaan persiapan",
       "Tidak boleh memeriksa bukti"
     ],

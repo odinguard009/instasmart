@@ -30,9 +30,9 @@
     "question": "Pasangan calon presiden terpilih dalam satu putaran bila memperoleh…",
     "options": [
       "Dua pertiga suara",
-      "Lebih dari 50% suara di semua provinsi",
-      "Suara terbanyak saja",
-      "Lebih dari 50% suara dengan sedikitnya 20% suara di lebih dari setengah jumlah provinsi"
+      "Lebih dari 50% suara nasional dan menang di semua provinsi",
+      "Suara terbanyak saja, berapa pun persentase dan sebarannya",
+      "Lebih dari 50% suara, dengan ≥20% di lebih dari separuh provinsi"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 6A ayat (3).",
@@ -51,10 +51,10 @@
     "account": "konstitusi.kece",
     "question": "Jika Presiden dan Wakil Presiden berhalangan tetap secara bersamaan, pelaksana tugas kepresidenan adalah…",
     "options": [
-      "Ketua DPR",
+      "Ketua DPR sebagai wakil rakyat",
       "Ketua Mahkamah Agung",
-      "Ketua MPR",
-      "Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama"
+      "Ketua MPR bersama pimpinan DPR",
+      "Menlu, Mendagri, dan Menhan bersama-sama"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 8 ayat (3). Paling lambat 30 hari kemudian MPR memilih presiden dan wapres dari dua pasangan calon partai/gabungan peraih suara terbanyak pertama dan kedua.",
@@ -118,9 +118,9 @@
     "question": "Wewenang Komisi Yudisial menurut UUD 1945 adalah…",
     "options": [
       "Memutus sengketa pemilu",
-      "Mengusulkan pengangkatan hakim agung dan menjaga serta menegakkan kehormatan, keluhuran martabat, dan perilaku hakim",
-      "Mengangkat semua hakim",
-      "Menguji peraturan di bawah UU"
+      "Mengusulkan pengangkatan hakim agung dan menjaga kehormatan serta perilaku hakim",
+      "Mengangkat dan memberhentikan semua hakim di empat lingkungan peradilan",
+      "Menguji peraturan di bawah UU terhadap UU"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 24B ayat (1).",
@@ -140,8 +140,8 @@
     "question": "Asas pemilu menurut Pasal 22E ayat (1) UUD 1945 adalah…",
     "options": [
       "Langsung, umum, bebas, rahasia, jujur, adil",
-      "Langsung, bebas, terbuka, adil",
-      "Jujur, adil, transparan",
+      "Langsung, umum, bebas, terbuka, jujur, adil",
+      "Jujur, adil, transparan, akuntabel",
       "Umum, rahasia, demokratis"
     ],
     "answerIndex": 0,
@@ -183,9 +183,9 @@
     "account": "konstitusi.kece",
     "question": "Menurut UU 12/2011, materi muatan yang berisi ketentuan pidana hanya dapat dimuat dalam…",
     "options": [
-      "PP dan Perpres",
+      "PP, Perpres, dan Peraturan Menteri",
       "Semua jenis peraturan",
-      "UU saja",
+      "UU saja, karena pidana menyangkut hak asasi",
       "UU, Perda Provinsi, dan Perda Kabupaten/Kota"
     ],
     "answerIndex": 3,

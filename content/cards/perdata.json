@@ -90,10 +90,10 @@
     "account": "bw.receh",
     "question": "\"Semua persetujuan yang dibuat sesuai dengan undang-undang berlaku sebagai undang-undang bagi mereka yang membuatnya.\" Rumusan ini melahirkan asas apa?",
     "options": [
-      "Asas ne bis in idem",
-      "Asas kepribadian",
+      "Asas ne bis in idem (tidak dua kali)",
+      "Asas kepribadian (personalitas)",
       "Asas legalitas",
-      "Asas kekuatan mengikat (pacta sunt servanda)"
+      "Asas pacta sunt servanda"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 1338 ayat (1) KUHPerdata menjadi dasar asas kekuatan mengikat perjanjian (pacta sunt servanda), dan oleh doktrin juga dibaca sebagai dasar kebebasan berkontrak. Ayat (3) pasal yang sama mewajibkan perjanjian dilaksanakan dengan itikad baik.",
@@ -135,8 +135,8 @@
     "question": "Dalam perjanjian timbal balik, salah satu pihak wanprestasi. Menurut Pasal 1266 KUHPerdata, bagaimana perjanjian itu batal?",
     "options": [
       "Pembatalan harus dimintakan kepada pengadilan",
-      "Batal otomatis tanpa perlu apa-apa",
-      "Batal jika disetujui notaris",
+      "Batal otomatis begitu wanprestasi terjadi, tanpa perlu putusan",
+      "Batal jika pembatalannya dicatat dan disetujui notaris",
       "Tidak bisa dibatalkan sama sekali"
     ],
     "answerIndex": 0,

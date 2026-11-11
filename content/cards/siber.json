@@ -7,10 +7,10 @@
     "account": "data.pribadi",
     "question": "Menurut UU ITE, informasi elektronik, dokumen elektronik, dan hasil cetaknya…",
     "options": [
-      "Hanya petunjuk",
+      "Hanya dapat menjadi petunjuk bila didukung saksi",
       "Tidak bisa dipakai di pengadilan",
-      "Hanya sah di perkara perdata",
-      "Merupakan alat bukti hukum yang sah (perluasan alat bukti)"
+      "Hanya sah di perkara perdata, tidak untuk perkara pidana",
+      "Alat bukti hukum yang sah (perluasan)"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 5 ayat (1)-(2) UU ITE. Ada pengecualian, mis. surat yang menurut UU harus berbentuk tertulis atau akta notaril (Pasal 5 ayat 4).",
@@ -31,9 +31,9 @@
     "question": "Tanda tangan elektronik memiliki kekuatan hukum dan akibat hukum yang sah selama…",
     "options": [
       "Dicetak di kertas",
-      "Disaksikan notaris",
-      "Dibubuhi meterai",
-      "Memenuhi persyaratan Pasal 11 (mis. data pembuatan terkait hanya dengan penanda tangan)"
+      "Dibuat di hadapan notaris secara elektronik",
+      "Dibubuhi meterai elektronik dan dicetak sebagai arsip",
+      "Memenuhi persyaratan Pasal 11 UU ITE"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 11 UU ITE.",
@@ -53,9 +53,9 @@
     "question": "Setelah KUHP Nasional berlaku (2 Januari 2026), sejumlah pasal pidana UU ITE seperti Pasal 27 ayat (3) dan Pasal 28 ayat (2)…",
     "options": [
       "Diperberat",
-      "Tetap berlaku tanpa perubahan",
+      "Tetap berlaku tanpa perubahan apa pun",
       "Tercantum sebagai dicabut oleh UU 1/2023",
-      "Dipindah ke UU PDP"
+      "Dipindahkan ke UU Pelindungan Data Pribadi"
     ],
     "answerIndex": 2,
     "explanation": "Daftar pencabutan menurut JDIH BPK (lihat content/sources/kuhp-2023-pencabutan.md). UU 1/2024 juga mengubah UU ITE; cek status pasal per tanggal.",

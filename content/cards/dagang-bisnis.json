@@ -30,9 +30,9 @@
     "account": "pasal.dagang",
     "question": "Menurut UU PT (sebelum ada PT perorangan), perseroan didirikan oleh…",
     "options": [
-      "Tiga orang dengan akta notaris berbahasa asing",
+      "Tiga orang atau lebih dengan akta notaris berbahasa asing",
       "Dua orang atau lebih dengan akta notaris dalam bahasa Indonesia",
-      "Satu badan hukum dengan izin camat",
+      "Satu badan hukum dengan izin camat dan akta di bawah tangan",
       "Satu orang dengan akta di bawah tangan"
     ],
     "answerIndex": 1,
@@ -53,10 +53,10 @@
     "account": "pasal.dagang",
     "question": "Kapan PT (persekutuan modal) memperoleh status badan hukum?",
     "options": [
-      "Saat RUPS pertama",
-      "Saat akta pendirian ditandatangani",
+      "Saat RUPS pertama mengesahkan anggaran dasar dan susunan direksi",
+      "Saat akta pendirian ditandatangani para pendiri di hadapan notaris",
       "Saat mulai beroperasi",
-      "Pada tanggal diterbitkannya Keputusan Menteri mengenai pengesahan badan hukum perseroan"
+      "Pada tanggal terbitnya keputusan menteri tentang pengesahan badan hukum"
     ],
     "answerIndex": 3,
     "explanation": "Pasal 7 ayat (4) UU PT. Sebelum status badan hukum diperoleh, perbuatan hukum atas nama perseroan menjadi tanggung jawab pendiri/direksi secara tanggung renteng, kecuali diambil alih perseroan.",
@@ -278,8 +278,8 @@
     "account": "pasal.dagang",
     "question": "Hubungan KUHPerdata dan KUHD menurut Pasal 1 KUHD paling tepat digambarkan dengan asas…",
     "options": [
-      "Lex superior",
-      "Lex posterior",
+      "Lex superior derogat legi inferiori",
+      "Lex posterior derogat legi priori",
       "Lex specialis derogat legi generali",
       "Pacta sunt servanda"
     ],
@@ -300,10 +300,10 @@
     "account": "pasal.dagang",
     "question": "Cek adalah surat berharga yang berisi…",
     "options": [
-      "Perintah tanpa syarat kepada bankir untuk membayar sejumlah uang, dibayar saat diperlihatkan",
+      "Perintah tanpa syarat kepada bankir untuk membayar, saat diperlihatkan",
       "Bukti kepemilikan saham",
-      "Jaminan fidusia",
-      "Janji penerbit untuk membayar pada tanggal tertentu"
+      "Jaminan kebendaan atas benda bergerak yang tetap dikuasai pemiliknya",
+      "Janji penerbit sendiri untuk membayar sejumlah uang pada tanggal tertentu"
     ],
     "answerIndex": 0,
     "explanation": "Cek adalah surat perintah membayar kepada bank yang dapat ditagih saat diperlihatkan (atas unjuk). Surat sanggup/aksep berisi janji membayar dari penerbit sendiri.",

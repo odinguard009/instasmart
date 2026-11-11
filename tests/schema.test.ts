@@ -121,6 +121,22 @@ describe('konten asli (content/cards/*.json)', () => {
     for (const i of [0, 1, 2, 3]) expect(share(i), `posisi ${i}`).toBeLessThan(0.4);
   });
 
+  it('kunci jawaban tidak bisa ditebak sebagai satu-satunya pilihan terpanjang', () => {
+    interface Question { options: string[]; answerIndex: number }
+    const questions = library.cards.flatMap((card): Question[] => {
+      if (card.type === 'quiz') return [card];
+      if (card.type === 'carousel') return card.slides.flatMap((s) => (s.kind === 'quiz' ? [s] : []));
+      return [];
+    }).filter((q) => q.options.length >= 3);
+    const longestIsKey = questions.filter((q) => {
+      const lengths = q.options.map((o) => o.length);
+      const max = Math.max(...lengths);
+      return lengths[q.answerIndex] === max && lengths.filter((l) => l === max).length === 1;
+    });
+    // Tebakan acak untuk 4-5 pilihan sekitar 20-25%; di atas sepertiga berarti panjang teks membocorkan kunci.
+    expect(longestIsKey.length / questions.length).toBeLessThan(0.33);
+  });
+
   it('kartu hukum acara pidana semuanya diberi needsVerification kecuali yang bersumber UU Kekuasaan Kehakiman', () => {
     for (const card of library.cards.filter((c) => c.topicId === 'acara-pidana')) {
       if (!card.source.title.includes('UU No. 48 Tahun 2009')) expect(card.needsVerification, card.id).toBe(true);

@@ -7,11 +7,11 @@
     "account": "tkp.bijak",
     "question": "Saat melayani antrean panjang, seorang lansia datang dan terlihat kesulitan berdiri lama. Anda…",
     "options": [
-      "Mendahulukannya sesuai prosedur prioritas kelompok rentan dan menjelaskannya kepada antrean",
-      "Menyerahkan ke rekan agar tidak repot",
+      "Mendahulukannya sesuai prosedur layanan prioritas dan menjelaskan alasannya kepada antrean",
+      "Meminta rekan di loket sebelah melayaninya agar antrean di loket Anda tetap berjalan sesuai urutan",
       "Menyuruhnya ikut antre seperti yang lain",
       "Memintanya kembali besok",
-      "Melayaninya diam-diam tanpa penjelasan"
+      "Melayaninya lebih dulu secara diam-diam agar warga lain dalam antrean tidak ikut protes"
     ],
     "answerIndex": 0,
     "explanation": "Pelayanan publik memberi perlakuan khusus bagi kelompok rentan, dilakukan terbuka agar adil bagi pengguna lain.",
@@ -39,9 +39,9 @@
     "question": "Warga datang marah-marah karena berkasnya belum selesai. Anda…",
     "options": [
       "Membalas dengan nada tinggi",
-      "Menyuruhnya menunggu tanpa kepastian",
-      "Menyalahkan bagian lain",
-      "Mendengarkan, memeriksa status berkas, menjelaskan kendala dan perkiraan waktu",
+      "Memintanya menunggu dengan sabar karena semua berkas sedang diproses sesuai urutan masuk",
+      "Menjelaskan bahwa keterlambatan terjadi di bagian lain sehingga di luar kendali Anda",
+      "Mendengarkan, memeriksa status berkasnya, lalu menjelaskan kendala dan perkiraan waktu",
       "Meminta satpam mengusirnya"
     ],
     "answerIndex": 3,
@@ -70,10 +70,10 @@
     "question": "Anda dipindah ke unit baru yang belum Anda kenal. Langkah pertama…",
     "options": [
       "Memperkenalkan diri, mempelajari tugas unit, dan membangun komunikasi dengan rekan",
-      "Bekerja sendiri sampai paham",
+      "Mempelajari semua dokumen unit sendirian lebih dulu sampai benar-benar paham sebelum berinteraksi",
       "Menunggu diberi tugas",
       "Meminta dipindah lagi",
-      "Hanya akrab dengan atasan"
+      "Mendekatkan diri terutama kepada atasan agar cepat mendapat arahan dan kepercayaan"
     ],
     "answerIndex": 0,
     "explanation": "Jejaring kerja: proaktif membangun relasi dan memahami peran.",
@@ -100,10 +100,10 @@
     "account": "tkp.bijak",
     "question": "Rekan satu tim berasal dari daerah dengan kebiasaan berbeda dan sering disalahpahami. Anda…",
     "options": [
-      "Melaporkan ke atasan agar dipindah",
+      "Melaporkan kepada atasan agar penempatan diatur ulang supaya tim lebih nyaman bekerja",
       "Menghindarinya",
       "Ikut menertawakan",
-      "Bersikap biasa tanpa peduli",
+      "Bersikap profesional seperlunya dan tidak membahas perbedaan latar belakang sama sekali",
       "Mengajak berdialog untuk saling memahami dan menghargai perbedaan"
     ],
     "answerIndex": 4,
@@ -132,9 +132,9 @@
     "question": "Kantor menerapkan aplikasi layanan digital baru yang belum Anda kuasai. Anda…",
     "options": [
       "Mempelajarinya lewat panduan/pelatihan dan membantu rekan yang kesulitan",
-      "Menunggu ada yang mengajari",
+      "Menunggu jadwal pelatihan resmi dari kantor sebelum mulai memakai sistem baru itu",
       "Tetap memakai cara manual",
-      "Meminta rekan mengerjakan bagian digital",
+      "Membagi tugas: rekan yang mahir mengerjakan bagian digital, Anda mengerjakan bagian lain",
       "Mengeluh ke atasan"
     ],
     "answerIndex": 0,
@@ -162,11 +162,11 @@
     "account": "tkp.bijak",
     "question": "Rekan meminta Anda mengirim data pribadi warga lewat grup obrolan umum agar cepat. Anda…",
     "options": [
-      "Mengirim sebagian data",
+      "Mengirim hanya sebagian data yang menurut Anda paling dibutuhkan agar risikonya lebih kecil",
       "Mengirim lalu menghapusnya",
-      "Meminta rekan mengambil sendiri",
+      "Mempersilakan rekan itu mengambil sendiri dari sistem supaya bukan Anda yang mengirimkan data",
       "Mengirim saja agar cepat",
-      "Menolak dan memakai saluran resmi yang aman"
+      "Menolak mengirim lewat jalur itu dan memakai saluran resmi yang aman"
     ],
     "answerIndex": 4,
     "explanation": "Perlindungan data pribadi dan keamanan informasi lebih utama dari kecepatan.",
@@ -193,10 +193,10 @@
     "account": "tkp.bijak",
     "question": "Tugas mendesak datang menjelang jam pulang dan harus selesai besok pagi. Anda…",
     "options": [
-      "Meminta tenggat diundur tanpa alasan",
+      "Meminta tenggat diundur agar hasilnya lebih sempurna meskipun tugas lain tidak terganggu",
       "Pulang dan mengerjakan besok pagi seadanya",
       "Menyusun prioritas dan menyelesaikannya tepat waktu dengan kualitas baik",
-      "Menyerahkan ke rekan",
+      "Membagi pekerjaan itu kepada rekan yang sedang longgar agar beban Anda berkurang",
       "Mengerjakan asal jadi"
     ],
     "answerIndex": 2,
@@ -224,11 +224,11 @@
     "account": "tkp.bijak",
     "question": "Di grup kantor beredar ajakan yang menolak Pancasila dan menghasut kebencian. Anda…",
     "options": [
-      "Diam saja",
+      "Tidak menanggapi karena grup itu grup pribadi, bukan grup kedinasan",
       "Membalas dengan hinaan",
-      "Menegur dengan baik, tidak meneruskan, dan melaporkan sesuai saluran resmi",
+      "Menegur baik-baik, tidak meneruskan, dan melapor lewat saluran resmi",
       "Ikut menyebarkan",
-      "Keluar dari grup"
+      "Keluar dari grup itu agar tidak terseret dan tidak dianggap menyetujui isi kontennya"
     ],
     "answerIndex": 2,
     "explanation": "Anti-radikalisme: menolak paham anti-Pancasila secara tegas tetapi santun dan sesuai prosedur.",

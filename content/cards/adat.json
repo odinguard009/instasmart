@@ -29,8 +29,8 @@
     "account": "adat.nusantara",
     "question": "Putusan MK No. 35/PUU-X/2012 menegaskan bahwa hutan adat adalah…",
     "options": [
-      "Hutan hak milik perorangan",
-      "Hutan negara yang dikelola masyarakat adat",
+      "Hutan hak milik perorangan anggota masyarakat hukum adat",
+      "Hutan negara yang pengelolaannya diserahkan kepada masyarakat adat",
       "Hutan konservasi",
       "Hutan yang berada dalam wilayah masyarakat hukum adat, bukan hutan negara"
     ],
@@ -97,9 +97,9 @@
     "question": "Menurut teori keputusan (beslissingenleer) Ter Haar, hukum adat adalah…",
     "options": [
       "Keseluruhan peraturan yang menjelma dalam keputusan para fungsionaris hukum (kepala adat, hakim)",
-      "Hukum agama yang diresepsi",
+      "Hukum agama yang berlaku sepanjang telah diterima (diresepsi) oleh hukum adat",
       "Hukum tertulis daerah",
-      "Seluruh kebiasaan masyarakat"
+      "Seluruh kebiasaan yang hidup di masyarakat, terlepas dari ada tidaknya keputusan fungsionaris"
     ],
     "answerIndex": 0,
     "explanation": "Ter Haar menekankan peran keputusan fungsionaris hukum; kebiasaan baru menjadi hukum adat setelah ditegaskan dalam keputusan.",

@@ -29,8 +29,8 @@
     "options": [
       "Setelah resepsi dan ada saksi",
       "Apabila dilakukan menurut hukum masing-masing agama dan kepercayaannya",
-      "Setelah dicatat di kantor catatan sipil/KUA saja",
-      "Setelah mendapat izin orang tua"
+      "Setelah dicatatkan di kantor catatan sipil atau KUA, apa pun agamanya",
+      "Setelah mendapat izin tertulis kedua orang tua kedua mempelai"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 2 ayat (1): sah bila dilakukan menurut hukum agama dan kepercayaan masing-masing. Pasal 2 ayat (2): tiap perkawinan dicatat menurut peraturan perundang-undangan. Pencatatan penting untuk bukti dan perlindungan hukum.",
@@ -93,10 +93,10 @@
     "account": "nikah.waris.notes",
     "question": "Setelah Putusan MK No. 69/PUU-XIII/2015, kapan perjanjian perkawinan boleh dibuat?",
     "options": [
-      "Hanya sebelum perkawinan",
+      "Hanya sebelum perkawinan, dengan akta notaris",
       "Sebelum, pada saat, atau selama dalam ikatan perkawinan",
       "Hanya setelah cerai",
-      "Hanya saat perkawinan dilangsungkan"
+      "Hanya pada saat perkawinan dilangsungkan, di hadapan pegawai pencatat"
     ],
     "answerIndex": 1,
     "explanation": "MK memperluas Pasal 29 ayat (1) UU Perkawinan sehingga perjanjian perkawinan juga dapat dibuat selama dalam ikatan perkawinan. Relevan untuk perkawinan campuran yang ingin memisahkan harta agar dapat memiliki tanah hak milik.",
@@ -116,9 +116,9 @@
     "question": "Putusan MK No. 46/PUU-VIII/2010 menyatakan anak yang dilahirkan di luar perkawinan mempunyai hubungan perdata dengan…",
     "options": [
       "Ibunya saja",
-      "Ibunya dan keluarga ibunya saja",
-      "Negara",
-      "Ibu dan keluarga ibunya, serta ayahnya bila dapat dibuktikan dengan iptek dan/atau alat bukti lain"
+      "Ibunya dan keluarga ibunya saja, tanpa pengecualian apa pun",
+      "Negara, sampai ada pengakuan sukarela dari ayah biologisnya",
+      "Ibu dan keluarga ibunya, serta ayahnya bila terbukti dengan iptek/alat bukti lain"
     ],
     "answerIndex": 3,
     "explanation": "MK memaknai Pasal 43 ayat (1) UU Perkawinan secara bersyarat. Pembuktiannya bisa memakai ilmu pengetahuan dan teknologi (misalnya tes DNA) dan/atau alat bukti lain menurut hukum.",
@@ -137,8 +137,8 @@
     "account": "nikah.waris.notes",
     "question": "Menurut UU Perkawinan, perceraian hanya dapat dilakukan…",
     "options": [
-      "Dengan pernyataan lisan di depan keluarga",
-      "Dengan kesepakatan tertulis notaris",
+      "Dengan pernyataan lisan suami di depan keluarga dan dua orang saksi",
+      "Dengan kesepakatan tertulis kedua pihak yang dibuat di hadapan notaris",
       "Di depan sidang pengadilan setelah pengadilan gagal mendamaikan",
       "Dengan surat dari kepala desa"
     ],
@@ -253,10 +253,10 @@
     "account": "nikah.waris.notes",
     "question": "Bagian warisan yang dijamin undang-undang bagi ahli waris garis lurus dan tidak dapat dikurangi dengan wasiat disebut…",
     "options": [
-      "Fideicommis",
+      "Fideicommis (pewarisan bertingkat)",
       "Legitime portie (bagian mutlak)",
       "Boedel",
-      "Inbreng"
+      "Inbreng (pemasukan hibah ke boedel)"
     ],
     "answerIndex": 1,
     "explanation": "Legitime portie diatur mulai Pasal 913 KUHPerdata. Hibah atau wasiat yang melanggar bagian mutlak dapat dituntut pengurangannya (inkorting).",

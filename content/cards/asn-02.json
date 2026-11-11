@@ -30,9 +30,9 @@
     "question": "ASN diundang menjadi pembicara kampanye salah satu calon kepala daerah. Menurut prinsip netralitas, ia…",
     "options": [
       "Boleh bila calon itu atasannya",
-      "Boleh asal di luar jam kerja",
+      "Boleh, asalkan dilakukan di luar jam kerja dan tidak memakai fasilitas negara",
       "Boleh asal tanpa seragam",
-      "Tidak boleh terlibat; ASN wajib netral dari pengaruh semua golongan dan partai politik"
+      "Tidak boleh; ASN wajib netral dari pengaruh golongan dan partai politik"
     ],
     "answerIndex": 3,
     "explanation": "ASN dilarang menjadi anggota/pengurus partai politik dan wajib netral.",
@@ -74,8 +74,8 @@
     "account": "asn.berakhlak",
     "question": "SKD CPNS dilaksanakan dengan sistem…",
     "options": [
-      "Wawancara saja",
-      "Ujian tertulis kertas",
+      "Wawancara oleh panitia seleksi instansi",
+      "Ujian tertulis berbasis kertas (lembar jawaban komputer)",
       "Ujian lisan",
       "Computer Assisted Test (CAT)"
     ],

@@ -8,9 +8,9 @@
     "question": "Sistem publikasi pendaftaran tanah di Indonesia lazim disebut…",
     "options": [
       "Tanpa publikasi",
-      "Positif murni",
+      "Positif murni (sertifikat tidak dapat diganggu gugat)",
       "Negatif bertendensi positif",
-      "Negatif murni"
+      "Negatif murni (negara tidak menjamin data apa pun)"
     ],
     "answerIndex": 2,
     "explanation": "Sertifikat alat bukti yang kuat (bukan mutlak), tetapi ada perlindungan setelah jangka waktu tertentu (Pasal 32 ayat 2 PP 24/1997).",
@@ -74,9 +74,9 @@
     "question": "Dalam pengadaan tanah untuk kepentingan umum, bila pihak yang berhak menolak bentuk/besaran ganti kerugian setelah putusan, ganti kerugian…",
     "options": [
       "Dititipkan di pengadilan negeri (konsinyasi)",
-      "Ditunda tanpa batas",
+      "Ditunda sampai pihak yang berhak bersedia menerima",
       "Dibatalkan",
-      "Diserahkan ke kepala desa"
+      "Diserahkan kepada kepala desa untuk disimpan sementara"
     ],
     "answerIndex": 0,
     "explanation": "UU 2/2012 mengenal penitipan ganti kerugian di pengadilan negeri.",

@@ -67,8 +67,9 @@ export function PostShell({ card, ribbon, caption, extra, children }: PostShellP
     }
   };
 
+  // content-visibility: feed tanpa batas bisa berisi ratusan post; post di luar layar tidak dirender ulang.
   return (
-    <article className="border-b border-line bg-bg pb-4" aria-label={`${TYPE_LABELS[card.type]} dari ${card.account}`}>
+    <article className="border-b border-line bg-bg pb-4 [contain-intrinsic-size:auto_640px] [content-visibility:auto]" aria-label={`${TYPE_LABELS[card.type]} dari ${card.account}`}>
       {ribbon && <p className="bg-brand/15 px-3 py-1.5 text-xs font-bold uppercase tracking-wide text-brand">{ribbon}</p>}
       <header className="flex items-center gap-2.5 px-3 py-2.5">
         <AccountAvatar card={card} />

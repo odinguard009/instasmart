@@ -31,12 +31,12 @@
     "account": "lintas.negara",
     "question": "Dua unsur kebiasaan internasional adalah…",
     "options": [
-      "Praktik negara yang umum (usus) dan opinio juris sive necessitatis",
       "Perjanjian tertulis dan ratifikasi",
+      "Doktrin dan prinsip umum",
       "Putusan ICJ dan resolusi Majelis Umum",
-      "Doktrin dan prinsip umum"
+      "Praktik negara yang umum (usus) dan opinio juris sive necessitatis"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "Kebiasaan internasional lahir dari praktik negara yang konsisten dan umum (unsur material) disertai keyakinan bahwa praktik itu diwajibkan hukum (opinio juris, unsur psikologis).",
     "source": {
       "title": "Statuta Mahkamah Internasional (ICJ Statute)",
@@ -53,12 +53,12 @@
     "account": "lintas.negara",
     "question": "\"Setiap perjanjian yang berlaku mengikat para pihak dan harus dilaksanakan dengan itikad baik.\" Asas ini tercantum dalam Konvensi Wina 1969 pasal…",
     "options": [
-      "Pasal 2",
       "Pasal 26",
-      "Pasal 53",
-      "Pasal 62"
+      "Pasal 62",
+      "Pasal 2",
+      "Pasal 53"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 26 VCLT: pacta sunt servanda. Pasal 53 tentang jus cogens (norma memaksa), Pasal 62 tentang perubahan keadaan yang fundamental (rebus sic stantibus).",
     "source": {
       "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
@@ -75,12 +75,12 @@
     "account": "lintas.negara",
     "question": "Perjanjian internasional yang bertentangan dengan norma dasar hukum internasional umum yang tidak boleh disimpangi (misalnya larangan genosida) adalah…",
     "options": [
-      "Tetap sah bila diratifikasi",
       "Batal (void)",
-      "Dapat dibatalkan oleh ICJ saja",
-      "Ditangguhkan 5 tahun"
+      "Tetap sah bila diratifikasi",
+      "Ditangguhkan 5 tahun",
+      "Dapat dibatalkan oleh ICJ saja"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 53 VCLT: perjanjian batal bila saat dibuat bertentangan dengan peremptory norm (jus cogens).",
     "source": {
       "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
@@ -97,12 +97,12 @@
     "account": "lintas.negara",
     "question": "Negara ingin mengakhiri perjanjian karena terjadi perubahan keadaan yang mendasar dan tidak terduga. Asas yang dirujuk adalah…",
     "options": [
-      "Pacta sunt servanda",
       "Rebus sic stantibus",
+      "Pacta sunt servanda",
       "Pacta tertiis nec nocent nec prosunt",
       "Uti possidetis"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Rebus sic stantibus (Pasal 62 VCLT) dapat dipakai dengan syarat ketat dan tidak berlaku untuk perjanjian penetapan batas wilayah.",
     "source": {
       "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
@@ -168,12 +168,12 @@
     "account": "lintas.negara",
     "question": "Menurut UNCLOS 1982, lebar laut teritorial paling jauh … dari garis pangkal.",
     "options": [
+      "24 mil laut",
       "3 mil laut",
       "12 mil laut",
-      "24 mil laut",
       "200 mil laut"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Laut teritorial maks. 12 mil laut, zona tambahan maks. 24 mil laut, ZEE maks. 200 mil laut dari garis pangkal. Indonesia meratifikasi UNCLOS dengan UU No. 17 Tahun 1985.",
     "source": {
       "title": "UNCLOS 1982 (Konvensi PBB tentang Hukum Laut)",
@@ -192,8 +192,8 @@
     "options": [
       "Menangkap dan mengadilinya",
       "Menyatakannya persona non grata",
-      "Menyita kedutaan",
-      "Mencabut kewarganegaraannya"
+      "Mencabut kewarganegaraannya",
+      "Menyita kedutaan"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 9 Konvensi Wina 1961 tentang Hubungan Diplomatik: negara penerima dapat sewaktu-waktu menyatakan diplomat persona non grata tanpa wajib menjelaskan alasannya. Diplomat menikmati kekebalan dari yurisdiksi pidana negara penerima.",
@@ -212,10 +212,10 @@
     "account": "lintas.negara",
     "question": "Aliran yang memandang hukum internasional dan hukum nasional sebagai dua sistem hukum yang terpisah disebut…",
     "options": [
-      "Monisme",
+      "Naturalisme",
       "Dualisme",
       "Positivisme",
-      "Naturalisme"
+      "Monisme"
     ],
     "answerIndex": 1,
     "explanation": "Dualisme: dua sistem terpisah sehingga hukum internasional perlu ditransformasikan agar berlaku di dalam negeri. Monisme: satu kesatuan sistem, dengan varian primat hukum internasional atau primat hukum nasional.",

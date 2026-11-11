@@ -38,12 +38,12 @@
     "account": "asn.berakhlak",
     "question": "Menurut UU ASN, pegawai ASN terdiri atas…",
     "options": [
-      "PNS dan honorer",
-      "PNS dan PPPK",
       "PNS, TNI, dan Polri",
-      "PPPK dan tenaga kontrak"
+      "PPPK dan tenaga kontrak",
+      "PNS dan PPPK",
+      "PNS dan honorer"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Pegawai ASN = Pegawai Negeri Sipil dan Pegawai Pemerintah dengan Perjanjian Kerja.",
     "source": {
       "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
@@ -61,12 +61,12 @@
     "account": "asn.berakhlak",
     "question": "Nilai BerAKHLAK yang bermakna \"bertanggung jawab atas kepercayaan yang diberikan\" adalah…",
     "options": [
+      "Loyal",
       "Kompeten",
       "Akuntabel",
-      "Loyal",
       "Adaptif"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Akuntabel: jujur, bertanggung jawab, cermat, disiplin, berintegritas, menggunakan kekayaan negara secara efisien.",
     "source": {
       "title": "Surat Edaran Menteri PANRB No. 20 Tahun 2021 tentang Implementasi Core Values dan Employer Branding ASN",
@@ -109,12 +109,12 @@
     "account": "asn.berakhlak",
     "question": "Pada beberapa seleksi CPNS terakhir, nilai ambang batas SKD formasi umum adalah…",
     "options": [
+      "TWK 65, TIU 85, TKP 156",
       "TWK 65, TIU 80, TKP 166",
       "TWK 75, TIU 80, TKP 143",
-      "TWK 65, TIU 85, TKP 156",
       "TWK 70, TIU 70, TKP 170"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "Angka 65/80/166 dipakai pada beberapa seleksi terakhir untuk formasi umum. Ambang batas ditetapkan ulang setiap seleksi; selalu cek peraturan terbaru.",
     "source": {
       "title": "Peraturan Menteri PANRB tentang nilai ambang batas seleksi CPNS (cek edisi terbaru)",
@@ -132,12 +132,12 @@
     "account": "asn.berakhlak",
     "question": "Dengan komposisi 30/35/45 soal dan skor benar 5, nilai maksimal SKD adalah…",
     "options": [
-      "450",
-      "500",
       "550",
-      "600"
+      "450",
+      "600",
+      "500"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "TWK 30 x 5 = 150, TIU 35 x 5 = 175, TKP 45 x 5 = 225; total 550.",
     "source": {
       "title": "Peraturan Menteri PANRB tentang nilai ambang batas seleksi CPNS (cek edisi terbaru)",

@@ -30,10 +30,10 @@
     "account": "pasal.dagang",
     "question": "Menurut UU PT (sebelum ada PT perorangan), perseroan didirikan oleh…",
     "options": [
-      "Satu orang dengan akta di bawah tangan",
-      "Dua orang atau lebih dengan akta notaris dalam bahasa Indonesia",
       "Tiga orang dengan akta notaris berbahasa asing",
-      "Satu badan hukum dengan izin camat"
+      "Dua orang atau lebih dengan akta notaris dalam bahasa Indonesia",
+      "Satu badan hukum dengan izin camat",
+      "Satu orang dengan akta di bawah tangan"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 7 ayat (1) UU PT. UU Cipta Kerja menambah bentuk Perseroan perorangan untuk usaha mikro dan kecil yang dapat didirikan oleh satu orang melalui pernyataan pendirian; detailnya cek teks perubahan.",
@@ -53,12 +53,12 @@
     "account": "pasal.dagang",
     "question": "Kapan PT (persekutuan modal) memperoleh status badan hukum?",
     "options": [
-      "Saat akta pendirian ditandatangani",
-      "Pada tanggal diterbitkannya Keputusan Menteri mengenai pengesahan badan hukum perseroan",
       "Saat RUPS pertama",
-      "Saat mulai beroperasi"
+      "Saat akta pendirian ditandatangani",
+      "Saat mulai beroperasi",
+      "Pada tanggal diterbitkannya Keputusan Menteri mengenai pengesahan badan hukum perseroan"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 7 ayat (4) UU PT. Sebelum status badan hukum diperoleh, perbuatan hukum atas nama perseroan menjadi tanggung jawab pendiri/direksi secara tanggung renteng, kecuali diambil alih perseroan.",
     "source": {
       "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
@@ -99,12 +99,12 @@
     "account": "pasal.dagang",
     "question": "Direksi rugi akibat keputusan bisnis yang diambil dengan itikad baik, hati-hati, tanpa benturan kepentingan, dan sudah mengambil tindakan mencegah kerugian. Prinsip yang melindunginya adalah…",
     "options": [
-      "Piercing the corporate veil",
       "Business judgment rule",
+      "Piercing the corporate veil",
       "Ultra vires",
       "Fiduciary duty dilanggar"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 97 ayat (5) UU PT memuat syarat pembebasan tanggung jawab direksi (business judgment rule). Ultra vires = tindakan di luar maksud dan tujuan perseroan.",
     "source": {
       "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
@@ -121,12 +121,12 @@
     "account": "pasal.dagang",
     "question": "Paling sedikit berapa persen modal dasar harus ditempatkan dan disetor penuh menurut UU PT?",
     "options": [
-      "10%",
       "25%",
       "50%",
-      "100%"
+      "100%",
+      "10%"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 33 ayat (1) UU PT: paling sedikit 25% dari modal dasar. Besaran modal dasar minimum kini ditentukan berdasarkan keputusan pendiri setelah perubahan oleh UU Cipta Kerja; untuk PT perorangan berlaku aturan khusus.",
     "source": {
       "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas (sebagaimana diubah UU Cipta Kerja)",
@@ -164,12 +164,12 @@
     "account": "pasal.dagang",
     "question": "Upaya hukum terhadap putusan pernyataan pailit Pengadilan Niaga adalah…",
     "options": [
-      "Banding ke Pengadilan Tinggi",
       "Kasasi ke Mahkamah Agung",
+      "Banding ke Pengadilan Tinggi",
       "Verzet",
       "Tidak ada upaya hukum"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "UU Kepailitan meniadakan banding: upaya hukumnya langsung kasasi (Pasal 11), dan setelah itu peninjauan kembali.",
     "source": {
       "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
@@ -187,11 +187,11 @@
     "question": "Putusan atas permohonan pernyataan pailit harus diucapkan paling lambat … setelah tanggal permohonan didaftarkan.",
     "options": [
       "14 hari",
+      "90 hari",
       "30 hari",
-      "60 hari",
-      "90 hari"
+      "60 hari"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "Pasal 8 ayat (5) UU Kepailitan: paling lambat 60 hari. Kepailitan dirancang cepat.",
     "source": {
       "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
@@ -208,12 +208,12 @@
     "account": "pasal.dagang",
     "question": "PKPU sementara ditambah perpanjangannya tidak boleh melebihi…",
     "options": [
-      "45 hari",
+      "270 hari",
       "90 hari",
-      "180 hari",
-      "270 hari"
+      "45 hari",
+      "180 hari"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "PKPU sementara paling lama 45 hari; bila disetujui menjadi PKPU tetap, seluruhnya tidak boleh melebihi 270 hari setelah putusan PKPU sementara (Pasal 228 ayat (6)).",
     "source": {
       "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
@@ -231,12 +231,12 @@
     "account": "pasal.dagang",
     "question": "Sebelum pailit, debitor menghibahkan rumahnya ke adik untuk menghindari kreditor. Kurator dapat meminta pembatalan perbuatan itu melalui…",
     "options": [
-      "Actio pauliana",
+      "Derden verzet",
       "Renvoi prosedur",
       "Verzet",
-      "Derden verzet"
+      "Actio pauliana"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "Actio pauliana (Pasal 41 UU Kepailitan; juga Pasal 1341 KUHPerdata) membatalkan perbuatan debitor yang merugikan kreditor, yang dilakukan sebelum putusan pailit dan tidak diwajibkan undang-undang atau perjanjian.",
     "source": {
       "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
@@ -279,11 +279,11 @@
     "question": "Hubungan KUHPerdata dan KUHD menurut Pasal 1 KUHD paling tepat digambarkan dengan asas…",
     "options": [
       "Lex superior",
-      "Lex specialis derogat legi generali",
       "Lex posterior",
+      "Lex specialis derogat legi generali",
       "Pacta sunt servanda"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "KUHPerdata berlaku juga untuk hal-hal dalam KUHD sepanjang KUHD tidak mengatur secara khusus. KUHD sebagai aturan khusus, KUHPerdata sebagai aturan umum.",
     "source": {
       "title": "Kitab Undang-Undang Hukum Dagang (KUHD)",
@@ -300,12 +300,12 @@
     "account": "pasal.dagang",
     "question": "Cek adalah surat berharga yang berisi…",
     "options": [
-      "Janji penerbit untuk membayar pada tanggal tertentu",
       "Perintah tanpa syarat kepada bankir untuk membayar sejumlah uang, dibayar saat diperlihatkan",
       "Bukti kepemilikan saham",
-      "Jaminan fidusia"
+      "Jaminan fidusia",
+      "Janji penerbit untuk membayar pada tanggal tertentu"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Cek adalah surat perintah membayar kepada bank yang dapat ditagih saat diperlihatkan (atas unjuk). Surat sanggup/aksep berisi janji membayar dari penerbit sendiri.",
     "source": {
       "title": "Kitab Undang-Undang Hukum Dagang (KUHD)",
@@ -470,11 +470,11 @@
         "kind": "quiz",
         "question": "PKPU gagal mencapai perdamaian. Akibatnya?",
         "options": [
-          "Debitor dinyatakan pailit",
           "Utang hapus",
+          "Debitor dinyatakan pailit",
           "PKPU diulang dari awal"
         ],
-        "answerIndex": 0,
+        "answerIndex": 1,
         "explanation": "Bila rencana perdamaian ditolak atau PKPU berakhir tanpa perdamaian, pengadilan menyatakan debitor pailit."
       }
     ],

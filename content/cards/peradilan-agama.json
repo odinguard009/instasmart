@@ -60,8 +60,8 @@
     "question": "Asas yang menentukan Peradilan Agama mengadili perkara antara orang-orang yang beragama Islam disebut asas…",
     "options": [
       "Personalitas keislaman",
-      "Teritorialitas",
       "Nasionalitas aktif",
+      "Teritorialitas",
       "Legalitas"
     ],
     "answerIndex": 0,
@@ -82,10 +82,10 @@
     "account": "serambi.syariah",
     "question": "Setelah Putusan MK No. 93/PUU-X/2012, sengketa perbankan syariah (di luar pilihan arbitrase/musyawarah) diselesaikan oleh…",
     "options": [
-      "Pengadilan Negeri",
+      "Pengadilan Niaga",
       "Pengadilan Agama",
-      "PTUN",
-      "Pengadilan Niaga"
+      "Pengadilan Negeri",
+      "PTUN"
     ],
     "answerIndex": 1,
     "explanation": "MK menyatakan Penjelasan Pasal 55 ayat (2) UU Perbankan Syariah yang membuka pilihan ke peradilan umum tidak berkekuatan hukum mengikat. Hasilnya, kewenangan litigasi perbankan syariah ada pada Peradilan Agama.",
@@ -104,12 +104,12 @@
     "account": "serambi.syariah",
     "question": "Isteri ingin bercerai. Perkara yang diajukannya ke Pengadilan Agama disebut…",
     "options": [
+      "Itsbat nikah",
       "Cerai talak (permohonan)",
       "Cerai gugat (gugatan)",
-      "Itsbat nikah",
       "Pembatalan wakaf"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Cerai talak diajukan suami sebagai permohonan untuk menyaksikan ikrar talak. Cerai gugat diajukan isteri sebagai gugatan.",
     "source": {
       "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
@@ -127,11 +127,11 @@
     "question": "Cerai gugat pada asasnya diajukan ke Pengadilan Agama yang daerah hukumnya meliputi tempat kediaman…",
     "options": [
       "Tergugat (suami)",
-      "Penggugat (isteri)",
       "Tempat akad nikah",
+      "Penggugat (isteri)",
       "Kantor KUA terdekat"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Berbeda dari asas umum actor sequitur forum rei, UU Peradilan Agama melindungi isteri: cerai gugat diajukan di tempat kediaman penggugat, kecuali penggugat sengaja meninggalkan tempat kediaman bersama tanpa izin tergugat.",
     "source": {
       "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",
@@ -148,12 +148,12 @@
     "account": "serambi.syariah",
     "question": "Pasangan menikah secara agama tetapi tidak tercatat, lalu meminta pengesahan ke Pengadilan Agama. Perkara ini disebut…",
     "options": [
+      "Pencegahan perkawinan",
       "Isbat (itsbat) nikah",
       "Dispensasi kawin",
-      "Pembatalan perkawinan",
-      "Pencegahan perkawinan"
+      "Pembatalan perkawinan"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "Itsbat nikah adalah pengesahan perkawinan yang tidak dapat dibuktikan dengan akta nikah. KHI membatasi untuk keperluan tertentu, misalnya penyelesaian perceraian atau perkawinan sebelum UU 1/1974.",
     "source": {
       "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
@@ -171,12 +171,12 @@
     "account": "serambi.syariah",
     "question": "Urutan sumber hukum Islam yang disepakati jumhur ulama adalah…",
     "options": [
+      "Al-Qur'an, Qiyas, Sunnah, Ijma'",
       "Al-Qur'an, Sunnah, Ijma', Qiyas",
-      "Sunnah, Al-Qur'an, Qiyas, Ijma'",
       "Ijma', Al-Qur'an, Sunnah, Qiyas",
-      "Al-Qur'an, Qiyas, Sunnah, Ijma'"
+      "Sunnah, Al-Qur'an, Qiyas, Ijma'"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "Empat sumber yang disepakati: Al-Qur'an, Sunnah (hadits), Ijma' (konsensus ulama), Qiyas (analogi). Metode lain (istihsan, maslahah mursalah, 'urf) diperselisihkan penggunaannya.",
     "source": {
       "title": "Doktrin ushul fiqh",
@@ -193,12 +193,12 @@
     "account": "serambi.syariah",
     "question": "Di Provinsi Aceh, pengadilan dalam lingkungan peradilan agama bernama…",
     "options": [
-      "Pengadilan Adat",
       "Mahkamah Syar'iyah",
+      "Pengadilan Adat",
       "Majelis Ulama",
       "Pengadilan Syariah Niaga"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Mahkamah Syar'iyah di Aceh merupakan pengadilan khusus dalam lingkungan peradilan agama sepanjang kewenangannya menyangkut kewenangan peradilan agama.",
     "source": {
       "title": "UU No. 48 Tahun 2009; UU No. 11 Tahun 2006 tentang Pemerintahan Aceh",
@@ -236,12 +236,12 @@
     "account": "serambi.syariah",
     "question": "Dalam perceraian karena syiqaq (perselisihan terus-menerus), pengadilan dapat mengangkat seorang atau lebih dari keluarga masing-masing pihak sebagai…",
     "options": [
+      "Juru sita",
       "Mediator bersertifikat",
-      "Hakam",
       "Wali hakim",
-      "Juru sita"
+      "Hakam"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Hakam adalah juru damai dari keluarga para pihak dalam perkara syiqaq. Ini berbeda dari mediasi wajib menurut PERMA, meski tujuannya sama: perdamaian.",
     "source": {
       "title": "UU No. 7 Tahun 1989 tentang Peradilan Agama (jo. UU No. 3 Tahun 2006 dan UU No. 50 Tahun 2009)",

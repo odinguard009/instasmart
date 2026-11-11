@@ -43,12 +43,12 @@
     "account": "ktun.final",
     "question": "Gugatan ke PTUN dapat diajukan dalam tenggang waktu berapa lama?",
     "options": [
+      "180 hari",
       "14 hari",
       "30 hari",
-      "90 hari",
-      "180 hari"
+      "90 hari"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "Pasal 55 UU Peradilan TUN: gugatan dapat diajukan hanya dalam tenggang waktu 90 hari terhitung sejak saat diterimanya atau diumumkannya keputusan badan atau pejabat TUN.",
     "source": {
       "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
@@ -65,12 +65,12 @@
     "account": "ktun.final",
     "question": "Wewenang diperoleh lewat atribusi, delegasi, atau mandat. Pada MANDAT, tanggung jawab kewenangan berada pada siapa?",
     "options": [
+      "Atasan pemberi mandat",
       "Penerima mandat",
-      "Pemberi mandat",
       "Keduanya tanggung renteng",
-      "Atasan pemberi mandat"
+      "Pemberi mandat"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pada mandat, tanggung jawab kewenangan tetap pada pemberi mandat; penerima mandat bertindak atas nama pemberi mandat. Pada delegasi, tanggung jawab beralih kepada penerima delegasi.",
     "source": {
       "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana telah diubah)",
@@ -89,11 +89,11 @@
     "question": "Manakah yang BUKAN bentuk larangan penyalahgunaan wewenang menurut UU Administrasi Pemerintahan?",
     "options": [
       "Melampaui wewenang",
+      "Mendelegasikan wewenang",
       "Mencampuradukkan wewenang",
-      "Bertindak sewenang-wenang",
-      "Mendelegasikan wewenang"
+      "Bertindak sewenang-wenang"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "Pasal 17 UU 30/2014: larangan penyalahgunaan wewenang meliputi larangan melampaui wewenang, mencampuradukkan wewenang, dan bertindak sewenang-wenang. Delegasi justru cara sah memperoleh wewenang.",
     "source": {
       "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana telah diubah)",
@@ -338,12 +338,12 @@
         "kind": "quiz",
         "question": "Pejabat memutus izin tanpa memeriksa dokumen pemohon dengan teliti. AUPB mana yang paling jelas dilanggar?",
         "options": [
-          "Keterbukaan",
-          "Kecermatan",
           "Kepentingan umum",
-          "Kemanfaatan"
+          "Kemanfaatan",
+          "Keterbukaan",
+          "Kecermatan"
         ],
-        "answerIndex": 1,
+        "answerIndex": 3,
         "explanation": "Asas kecermatan menuntut keputusan didasarkan pada informasi dan dokumen yang lengkap untuk mendukung legalitas penetapannya, sehingga dipersiapkan dengan cermat sebelum ditetapkan."
       }
     ],

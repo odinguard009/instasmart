@@ -9,8 +9,8 @@
     "options": [
       "Strict liability",
       "Anti-SLAPP",
-      "Class action",
-      "Polluter pays"
+      "Polluter pays",
+      "Class action"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 66 UU 32/2009: perlindungan dari Strategic Lawsuit Against Public Participation (SLAPP).",
@@ -30,11 +30,11 @@
     "question": "Pelaku usaha yang kegiatannya menggunakan atau menghasilkan B3, atau menimbulkan ancaman serius, bertanggung jawab atas kerugian yang terjadi berdasarkan prinsip…",
     "options": [
       "Tanggung jawab berdasarkan kesalahan",
-      "Tanggung jawab mutlak (strict liability)",
       "Tanggung jawab praduga tidak bersalah",
-      "Tanggung jawab renteng negara"
+      "Tanggung jawab renteng negara",
+      "Tanggung jawab mutlak (strict liability)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 88. Rumusan pasal ini diubah UU Cipta Kerja (frasa \"tanpa perlu pembuktian unsur kesalahan\" tidak lagi tercantum); periksa rumusan yang berlaku.",
     "source": {
       "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
@@ -53,11 +53,11 @@
     "question": "Hak gugat organisasi lingkungan hidup (legal standing) menurut UU 32/2009 terbatas pada tuntutan…",
     "options": [
       "Ganti rugi materiil yang besar",
-      "Melakukan tindakan tertentu, tanpa ganti rugi kecuali biaya riil",
+      "Pembubaran perusahaan",
       "Pidana penjara",
-      "Pembubaran perusahaan"
+      "Melakukan tindakan tertentu, tanpa ganti rugi kecuali biaya riil"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 92 ayat (2). Organisasi harus berbadan hukum, anggaran dasarnya menyebut tujuan pelestarian lingkungan, dan telah melaksanakan kegiatan nyata paling singkat 2 tahun (ayat 3).",
     "source": {
       "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
@@ -98,12 +98,12 @@
     "account": "bumi.hijau",
     "question": "Dokumen kajian dampak penting suatu rencana usaha terhadap lingkungan yang diperlukan dalam proses pengambilan keputusan disebut…",
     "options": [
-      "UKL-UPL",
       "AMDAL",
       "SPPL",
+      "UKL-UPL",
       "RTRW"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "AMDAL untuk usaha berdampak penting. UKL-UPL untuk yang tidak berdampak penting; SPPL untuk usaha di luar keduanya. Setelah UU Cipta Kerja, AMDAL/UKL-UPL menjadi dasar persetujuan lingkungan.",
     "source": {
       "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",
@@ -121,12 +121,12 @@
     "account": "bumi.hijau",
     "question": "Masyarakat korban pencemaran yang jumlahnya banyak dan bernasib sama dapat mengajukan…",
     "options": [
-      "Gugatan perwakilan kelompok (class action)",
+      "Praperadilan",
       "Legal standing organisasi",
-      "Permohonan uji materi",
-      "Praperadilan"
+      "Gugatan perwakilan kelompok (class action)",
+      "Permohonan uji materi"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "Pasal 91 UU 32/2009. Hukum acaranya diatur PERMA No. 1 Tahun 2002 tentang Acara Gugatan Perwakilan Kelompok.",
     "source": {
       "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup sebagaimana diubah UU No. 6 Tahun 2023",

@@ -60,10 +60,10 @@
     "account": "ngopi.kuhp",
     "question": "Bagaimana sikap KUHP Nasional terhadap penggunaan analogi dalam menetapkan adanya tindak pidana?",
     "options": [
-      "Diperbolehkan demi keadilan",
-      "Dilarang",
       "Boleh dengan izin Mahkamah Agung",
-      "Tidak diatur"
+      "Dilarang",
+      "Tidak diatur",
+      "Diperbolehkan demi keadilan"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 1 ayat (2) KUHP Nasional menegaskan: dalam menetapkan adanya tindak pidana dilarang digunakan analogi. Ini turunan langsung asas legalitas.",
@@ -82,12 +82,12 @@
     "account": "ngopi.kuhp",
     "question": "Manakah yang BUKAN pidana pokok menurut KUHP Nasional?",
     "options": [
+      "Pidana mati",
       "Pidana penjara",
-      "Pidana pengawasan",
       "Pidana kerja sosial",
-      "Pidana mati"
+      "Pidana pengawasan"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "Pidana pokok (Pasal 65): penjara, tutupan, pengawasan, denda, dan kerja sosial. Pidana mati tidak lagi menjadi pidana pokok: ia adalah pidana yang bersifat khusus yang selalu diancamkan secara alternatif (Pasal 64 dan Pasal 67).",
     "source": {
       "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
@@ -104,12 +104,12 @@
     "account": "ngopi.kuhp",
     "question": "Menurut KUHP Nasional, hakim menjatuhkan pidana mati dengan masa percobaan selama...",
     "options": [
-      "3 tahun",
+      "20 tahun",
       "5 tahun",
-      "10 tahun",
-      "20 tahun"
+      "3 tahun",
+      "10 tahun"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "Pasal 100 KUHP Nasional: pidana mati dijatuhkan dengan masa percobaan 10 tahun. Jika selama masa itu terpidana menunjukkan sikap dan perbuatan terpuji, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden setelah pertimbangan Mahkamah Agung.",
     "source": {
       "title": "KUHP Nasional (UU No. 1 Tahun 2023)",

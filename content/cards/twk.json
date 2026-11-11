@@ -7,12 +7,12 @@
     "account": "twk.harian",
     "question": "Rumusan dasar negara yang disepakati Panitia Sembilan pada 22 Juni 1945 dikenal sebagai…",
     "options": [
+      "Dekrit Presiden",
       "Pidato Lahirnya Pancasila",
       "Piagam Jakarta",
-      "Dekrit Presiden",
       "Maklumat X"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Piagam Jakarta (Jakarta Charter). Sila pertama kemudian diubah PPKI pada 18 Agustus 1945 menjadi \"Ketuhanan Yang Maha Esa\".",
     "source": {
       "title": "Risalah sidang BPUPKI-PPKI (Sekretariat Negara)",
@@ -29,10 +29,10 @@
     "account": "twk.harian",
     "question": "Soekarno menyampaikan pidato yang memperkenalkan istilah \"Pancasila\" dalam sidang BPUPKI pada tanggal…",
     "options": [
-      "29 Mei 1945",
+      "18 Agustus 1945",
       "1 Juni 1945",
-      "22 Juni 1945",
-      "18 Agustus 1945"
+      "29 Mei 1945",
+      "22 Juni 1945"
     ],
     "answerIndex": 1,
     "explanation": "1 Juni 1945, kini ditetapkan sebagai Hari Lahir Pancasila. Sidang pertama BPUPKI berlangsung 29 Mei-1 Juni 1945.",
@@ -51,12 +51,12 @@
     "account": "twk.harian",
     "question": "Sumpah Pemuda diikrarkan pada Kongres Pemuda II tanggal…",
     "options": [
-      "20 Mei 1908",
       "28 Oktober 1928",
       "17 Agustus 1945",
+      "20 Mei 1908",
       "10 November 1945"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "28 Oktober 1928. 20 Mei 1908 adalah berdirinya Budi Utomo (Hari Kebangkitan Nasional).",
     "source": {
       "title": "Sejarah pergerakan nasional Indonesia",
@@ -97,12 +97,12 @@
     "account": "twk.harian",
     "question": "\"Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.\" Bunyi ini terdapat dalam UUD 1945 pasal…",
     "options": [
-      "Pasal 27 ayat (3)",
       "Pasal 28 ayat (1)",
-      "Pasal 30 ayat (2)",
-      "Pasal 31 ayat (1)"
+      "Pasal 31 ayat (1)",
+      "Pasal 27 ayat (3)",
+      "Pasal 30 ayat (2)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "Pasal 27 ayat (3). Pasal 30 ayat (1) mengatur hak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara; ayat (2) sistem pertahanan dan keamanan rakyat semesta.",
     "source": {
       "title": "UUD NRI Tahun 1945",
@@ -146,11 +146,11 @@
     "question": "Seorang pegawai menerima bingkisan dari rekanan yang sedang mengikuti pengadaan di kantornya. Sikap yang sesuai prinsip integritas adalah…",
     "options": [
       "Menerima karena nilainya kecil",
-      "Menolak, atau melaporkan bila terlanjur diterima",
+      "Menerima setelah pengadaan selesai",
       "Membagikannya ke rekan kerja",
-      "Menerima setelah pengadaan selesai"
+      "Menolak, atau melaporkan bila terlanjur diterima"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Gratifikasi terkait jabatan wajib ditolak atau dilaporkan. Dalam UU Tipikor, gratifikasi yang dilaporkan ke KPK paling lambat 30 hari kerja sejak diterima tidak dianggap suap (Pasal 12C).",
     "source": {
       "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 (Tipikor)",
@@ -167,12 +167,12 @@
     "account": "twk.harian",
     "question": "Manakah kelompok kata yang semuanya baku?",
     "options": [
-      "Apotek, praktik, risiko",
-      "Apotik, praktek, resiko",
       "Apotek, praktek, risiko",
+      "Apotik, praktek, resiko",
+      "Apotek, praktik, risiko",
       "Apotik, praktik, resiko"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "Bentuk baku menurut KBBI: apotek, praktik, risiko. Contoh lain: analisis, objek, izin, jadwal, nasihat.",
     "source": {
       "title": "Kamus Besar Bahasa Indonesia (KBBI) daring",
@@ -189,12 +189,12 @@
     "account": "twk.harian",
     "question": "Kalimat dengan penulisan \"di\" yang benar adalah…",
     "options": [
-      "Buku itu di letakkan dimeja.",
       "Buku itu diletakkan di meja.",
+      "Buku itu diletakkan dimeja.",
       "Buku itu di letakkan di meja.",
-      "Buku itu diletakkan dimeja."
+      "Buku itu di letakkan dimeja."
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "\"di\" sebagai awalan ditulis serangkai (diletakkan); sebagai kata depan ditulis terpisah (di meja).",
     "source": {
       "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V",
@@ -211,12 +211,12 @@
     "account": "twk.harian",
     "question": "Bendera, bahasa, lambang negara, serta lagu kebangsaan diatur dalam UUD 1945 pasal…",
     "options": [
-      "Pasal 33-34",
-      "Pasal 35-36C",
+      "Pasal 18-18B",
       "Pasal 37",
-      "Pasal 18-18B"
+      "Pasal 33-34",
+      "Pasal 35-36C"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 35 bendera, 36 bahasa, 36A lambang negara, 36B lagu kebangsaan, 36C pengaturan lebih lanjut dengan UU (UU 24/2009).",
     "source": {
       "title": "UUD NRI Tahun 1945",
@@ -296,7 +296,7 @@
     "topicId": "twk",
     "subTopicId": "nasionalisme",
     "account": "twk.harian",
-    "title": "4 pilar & simbol negara",
+    "title": "Simbol negara di UUD",
     "slides": [
       {
         "visual": {

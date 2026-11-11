@@ -33,12 +33,12 @@
     "account": "nusantara.pintar",
     "question": "Sila keempat Pancasila dilambangkan dengan...",
     "options": [
-      "Rantai",
-      "Pohon beringin",
       "Kepala banteng",
+      "Pohon beringin",
+      "Rantai",
       "Padi dan kapas"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Urutannya: sila pertama bintang, sila kedua rantai, sila ketiga pohon beringin, sila keempat kepala banteng, sila kelima padi dan kapas.",
     "source": {
       "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
@@ -56,12 +56,12 @@
     "account": "nusantara.pintar",
     "question": "Semboyan \"Bhinneka Tunggal Ika\" berasal dari karya sastra apa?",
     "options": [
-      "Negarakertagama karya Mpu Prapanca",
       "Kakawin Sutasoma karya Mpu Tantular",
       "Pararaton",
+      "Negarakertagama karya Mpu Prapanca",
       "Arjunawiwaha karya Mpu Kanwa"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Frasa itu berasal dari Kakawin Sutasoma karya Mpu Tantular pada masa Majapahit. Kedudukannya sebagai semboyan pada lambang negara ditegaskan Pasal 36A UUD 1945.",
     "source": {
       "title": "Kakawin Sutasoma karya Mpu Tantular; UUD 1945",
@@ -81,10 +81,10 @@
     "options": [
       "Bendera negara Sang Merah Putih",
       "Bahasa negara",
-      "Lambang negara Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika",
-      "Lagu kebangsaan Indonesia Raya"
+      "Lagu kebangsaan Indonesia Raya",
+      "Lambang negara Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "Urutannya mudah: Pasal 35 bendera, Pasal 36 bahasa, Pasal 36A lambang negara, Pasal 36B lagu kebangsaan.",
     "source": {
       "title": "UUD Negara Republik Indonesia Tahun 1945",
@@ -342,12 +342,12 @@
         "kind": "quiz",
         "question": "Rantai pada perisai Garuda Pancasila melambangkan sila ke berapa?",
         "options": [
-          "Pertama",
-          "Kedua",
+          "Kelima",
           "Ketiga",
-          "Kelima"
+          "Pertama",
+          "Kedua"
         ],
-        "answerIndex": 1,
+        "answerIndex": 3,
         "explanation": "Rantai melambangkan sila kedua: Kemanusiaan yang adil dan beradab."
       }
     ],

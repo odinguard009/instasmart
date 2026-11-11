@@ -42,12 +42,12 @@
     "account": "teori.hukum.santai",
     "question": "Dua aturan setingkat mengatur hal yang sama: satu bersifat umum, satu khusus. Asas yang dipakai untuk memilih aturan yang khusus adalah…",
     "options": [
-      "Lex superior derogat legi inferiori",
-      "Lex specialis derogat legi generali",
+      "Lex dura sed tamen scripta",
       "Lex posterior derogat legi priori",
-      "Lex dura sed tamen scripta"
+      "Lex specialis derogat legi generali",
+      "Lex superior derogat legi inferiori"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Lex specialis derogat legi generali: aturan khusus mengesampingkan aturan umum. Lex superior menyelesaikan konflik antar-tingkat, lex posterior menyelesaikan konflik aturan lama dan baru yang setingkat.",
     "source": {
       "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
@@ -64,12 +64,12 @@
     "account": "teori.hukum.santai",
     "question": "UU A (2010) dan UU B (2020) setingkat, sama-sama umum, dan bertentangan. Menurut asas preferensi, mana yang dipakai?",
     "options": [
-      "UU A, karena lebih dulu ada",
-      "UU B, karena lex posterior derogat legi priori",
       "Keduanya batal",
-      "Terserah hakim tanpa asas"
+      "Terserah hakim tanpa asas",
+      "UU A, karena lebih dulu ada",
+      "UU B, karena lex posterior derogat legi priori"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Lex posterior derogat legi priori: aturan yang lebih baru mengesampingkan aturan lama yang setingkat. Asas ini mengalah bila aturan lama adalah aturan khusus (lex specialis) atau lebih tinggi derajatnya; urutan prioritasnya dibahas dalam doktrin.",
     "source": {
       "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
@@ -152,10 +152,10 @@
     "account": "teori.hukum.santai",
     "question": "\"Hukum tidak dibuat, tetapi tumbuh dan berkembang bersama jiwa bangsa (Volksgeist).\" Pandangan ini milik…",
     "options": [
-      "Hans Kelsen",
-      "Friedrich Carl von Savigny",
       "Roscoe Pound",
-      "John Austin"
+      "Friedrich Carl von Savigny",
+      "John Austin",
+      "Hans Kelsen"
     ],
     "answerIndex": 1,
     "explanation": "Von Savigny adalah tokoh Mazhab Sejarah. Kelsen dan Austin mewakili positivisme; Pound mewakili sociological jurisprudence.",
@@ -174,10 +174,10 @@
     "account": "teori.hukum.santai",
     "question": "Gagasan \"law as a tool of social engineering\" berasal dari Roscoe Pound. Di Indonesia gagasan ini diadaptasi menjadi \"hukum sebagai sarana pembaharuan masyarakat\" oleh…",
     "options": [
-      "Satjipto Rahardjo",
+      "Hans Nawiasky",
       "Mochtar Kusumaatmadja",
-      "Soepomo",
-      "Hans Nawiasky"
+      "Satjipto Rahardjo",
+      "Soepomo"
     ],
     "answerIndex": 1,
     "explanation": "Mochtar Kusumaatmadja mengembangkan Teori Hukum Pembangunan. Satjipto Rahardjo dikenal dengan hukum progresif.",
@@ -196,12 +196,12 @@
     "account": "teori.hukum.santai",
     "question": "Teori jenjang norma (Stufenbau des Rechts) yang menempatkan Grundnorm di puncak dikembangkan oleh…",
     "options": [
+      "Eugen Ehrlich",
       "Hans Kelsen",
       "Gustav Radbruch",
-      "Roscoe Pound",
-      "Eugen Ehrlich"
+      "Roscoe Pound"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "Hans Kelsen mengembangkan Stufenbau; muridnya Hans Nawiasky mengembangkannya menjadi pengelompokan norma negara (Staatsfundamentalnorm, Staatsgrundgesetz, formell Gesetz, Verordnung & autonome Satzung). Teori ini sering dikaitkan dengan hierarki peraturan di Indonesia.",
     "source": {
       "title": "Doktrin teori hukum",
@@ -243,10 +243,10 @@
     "account": "teori.hukum.santai",
     "question": "Aturan: \"perempuan tidak boleh kawin lagi sebelum lewat 300 hari sejak perkawinan bubar.\" Disimpulkan: laki-laki tidak terikat masa tunggu itu. Metode yang dipakai adalah…",
     "options": [
-      "Analogi",
-      "Argumentum a contrario",
       "Penafsiran historis",
-      "Penghalusan hukum"
+      "Argumentum a contrario",
+      "Penghalusan hukum",
+      "Analogi"
     ],
     "answerIndex": 1,
     "explanation": "A contrario menarik kesimpulan kebalikan: aturan hanya menyebut perempuan, maka untuk laki-laki berlaku sebaliknya. Contoh ini contoh klasik buku pengantar (Pasal 34 KUHPerdata); ketentuan masa tunggu kini juga diatur dalam hukum perkawinan nasional.",
@@ -266,12 +266,12 @@
     "account": "teori.hukum.santai",
     "question": "Undang-undang Kekuasaan Kehakiman mewajibkan hakim menggali, mengikuti, dan memahami… ",
     "options": [
-      "Kehendak para pihak yang berperkara",
       "Nilai-nilai hukum dan rasa keadilan yang hidup dalam masyarakat",
-      "Pendapat media massa",
-      "Arahan ketua pengadilan"
+      "Kehendak para pihak yang berperkara",
+      "Arahan ketua pengadilan",
+      "Pendapat media massa"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Kewajiban ini menjadi dasar penemuan hukum (rechtsvinding) oleh hakim, sejalan dengan larangan menolak perkara dengan dalih hukum tidak ada atau kurang jelas.",
     "source": {
       "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
@@ -288,12 +288,12 @@
     "account": "teori.hukum.santai",
     "question": "RUU yang sedang dibahas di DPR dan belum disahkan termasuk…",
     "options": [
+      "Ius cogens",
       "Ius constitutum",
       "Ius constituendum",
-      "Ius cogens",
       "Ius commune"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Ius constituendum = hukum yang dicita-citakan/akan berlaku. Ius constitutum = hukum positif yang sedang berlaku. Ius cogens istilah hukum internasional untuk norma memaksa.",
     "source": {
       "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
@@ -310,12 +310,12 @@
     "account": "teori.hukum.santai",
     "question": "\"Saya tidak tahu ada aturannya, jadi saya tidak bisa dihukum.\" Pembelaan ini lemah karena…",
     "options": [
-      "Asas fiksi hukum: setiap orang dianggap tahu undang-undang setelah diundangkan",
       "Asas ne bis in idem",
       "Asas audi et alteram partem",
+      "Asas fiksi hukum: setiap orang dianggap tahu undang-undang setelah diundangkan",
       "Asas res judicata"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "Peraturan yang sudah diundangkan dianggap diketahui semua orang (fiksi hukum). Karena itu pengundangan dalam Lembaran Negara penting: sejak itu peraturan mengikat umum.",
     "source": {
       "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
@@ -442,8 +442,8 @@
         "question": "\"Hukum murni\" yang memisahkan hukum dari moral dan politik adalah gagasan…",
         "options": [
           "Hans Kelsen",
-          "Thomas Aquinas",
-          "Satjipto Rahardjo"
+          "Satjipto Rahardjo",
+          "Thomas Aquinas"
         ],
         "answerIndex": 0,
         "explanation": "Reine Rechtslehre (teori hukum murni) adalah karya Hans Kelsen, tokoh positivisme."

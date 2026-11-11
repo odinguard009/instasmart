@@ -7,10 +7,10 @@
     "account": "pasar.adil",
     "question": "Klausula baku dalam struk belanja: \"Barang yang sudah dibeli tidak dapat dikembalikan.\" Menurut UU Perlindungan Konsumen, klausula semacam itu…",
     "options": [
-      "Sah karena konsumen sudah setuju",
-      "Dilarang dan dinyatakan batal demi hukum",
       "Sah bila dicetak tebal",
-      "Hanya dapat dibatalkan BPSK"
+      "Dilarang dan dinyatakan batal demi hukum",
+      "Hanya dapat dibatalkan BPSK",
+      "Sah karena konsumen sudah setuju"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 18 ayat (1) huruf b melarang klausula baku yang menyatakan pelaku usaha berhak menolak penyerahan kembali barang yang dibeli konsumen; ayat (3): batal demi hukum.",
@@ -29,12 +29,12 @@
     "account": "pasar.adil",
     "question": "Dalam gugatan ganti rugi konsumen, pembuktian ada atau tidaknya unsur kesalahan menjadi beban…",
     "options": [
-      "Konsumen",
-      "Pelaku usaha",
+      "Hakim",
       "BPSK",
-      "Hakim"
+      "Pelaku usaha",
+      "Konsumen"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Pasal 28 UU 8/1999: pembuktian terbalik; beban dan tanggung jawab pembuktian ada pada pelaku usaha.",
     "source": {
       "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
@@ -76,8 +76,8 @@
     "options": [
       "25%",
       "50%",
-      "75%",
-      "90%"
+      "90%",
+      "75%"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 17 ayat (2) huruf c: lebih dari 50%. Untuk oligopoli, dua atau tiga pelaku menguasai lebih dari 75% (Pasal 4 ayat 2).",
@@ -96,12 +96,12 @@
     "account": "pasar.adil",
     "question": "Pendekatan yang menilai suatu perbuatan langsung melanggar tanpa perlu membuktikan dampaknya terhadap persaingan disebut…",
     "options": [
-      "Rule of reason",
-      "Per se illegal",
+      "Ultra vires",
       "Strict liability",
-      "Ultra vires"
+      "Rule of reason",
+      "Per se illegal"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Per se illegal: cukup dibuktikan perbuatannya. Rule of reason: perlu dibuktikan akibatnya menimbulkan monopoli atau persaingan tidak sehat; dalam UU 5/1999 lazim ditandai frasa \"yang dapat mengakibatkan\".",
     "source": {
       "title": "UU No. 5 Tahun 1999 tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat",
@@ -120,8 +120,8 @@
     "options": [
       "OJK",
       "KPPU",
-      "BPSK",
-      "YLKI"
+      "YLKI",
+      "BPSK"
     ],
     "answerIndex": 1,
     "explanation": "Komisi Pengawas Persaingan Usaha (Pasal 30). Setelah UU Cipta Kerja, keberatan atas putusan KPPU diajukan ke Pengadilan Niaga; cek ketentuan terbaru.",

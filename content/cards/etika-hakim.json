@@ -50,12 +50,12 @@
         "kind": "quiz",
         "question": "Manakah yang BUKAN salah satu dari sepuluh prinsip KEPPH?",
         "options": [
-          "Berperilaku rendah hati",
-          "Bersikap mandiri",
           "Berperilaku populer",
-          "Menjunjung tinggi harga diri"
+          "Bersikap mandiri",
+          "Menjunjung tinggi harga diri",
+          "Berperilaku rendah hati"
         ],
-        "answerIndex": 2,
+        "answerIndex": 0,
         "explanation": "Tidak ada prinsip \"populer\". Hakim justru dituntut mandiri: bebas dari pengaruh, tekanan, dan sorotan pihak mana pun, termasuk opini publik."
       }
     ],
@@ -118,12 +118,12 @@
     "account": "pakhoot.bijak",
     "question": "Hakim wajib mengundurkan diri dari persidangan bila terikat hubungan keluarga sedarah atau semenda dengan ketua, hakim anggota, jaksa, advokat, atau panitera sampai derajat ke berapa?",
     "options": [
+      "Ketiga",
       "Pertama",
       "Kedua",
-      "Ketiga",
       "Keempat"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Pasal 17 ayat (3) UU Kekuasaan Kehakiman: sampai derajat ketiga, atau hubungan suami atau istri meskipun telah bercerai. Ayat (5) menambahkan kewajiban mundur bila hakim punya kepentingan langsung atau tidak langsung dengan perkara.",
     "source": {
       "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
@@ -140,12 +140,12 @@
     "account": "pakhoot.bijak",
     "question": "Hukumnya tidak ada atau kurang jelas. Bolehkah pengadilan menolak memeriksa perkara dengan alasan itu?",
     "options": [
-      "Boleh, demi kepastian hukum",
       "Tidak boleh; pengadilan wajib memeriksa dan mengadilinya",
+      "Boleh untuk perkara pidana saja",
       "Boleh dengan izin Ketua MA",
-      "Boleh untuk perkara pidana saja"
+      "Boleh, demi kepastian hukum"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 10 ayat (1): pengadilan dilarang menolak untuk memeriksa, mengadili, dan memutus suatu perkara yang diajukan dengan dalih bahwa hukum tidak ada atau kurang jelas, melainkan wajib untuk memeriksa dan mengadilinya.",
     "source": {
       "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
@@ -162,12 +162,12 @@
     "account": "pakhoot.bijak",
     "question": "Peradilan dilakukan dengan irah-irah...",
     "options": [
+      "\"Atas Nama Rakyat Indonesia\"",
       "\"Atas Nama Negara Republik Indonesia\"",
-      "\"Demi Keadilan Berdasarkan Ketuhanan Yang Maha Esa\"",
       "\"Demi Hukum dan Keadilan\"",
-      "\"Atas Nama Rakyat Indonesia\""
+      "\"Demi Keadilan Berdasarkan Ketuhanan Yang Maha Esa\""
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 2 ayat (1) UU Kekuasaan Kehakiman: peradilan dilakukan \"DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA\". Irah-irah inilah yang memberi kekuatan eksekutorial pada putusan.",
     "source": {
       "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",

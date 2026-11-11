@@ -68,12 +68,12 @@
     "account": "bw.receh",
     "question": "Perjanjian dibuat oleh orang yang belum cakap. Menurut ajaran yang umum dipakai, apa akibatnya?",
     "options": [
-      "Batal demi hukum sejak awal",
       "Dapat dibatalkan (vernietigbaar)",
       "Tetap sah dan tidak bisa diganggu gugat",
+      "Batal demi hukum sejak awal",
       "Otomatis menjadi perbuatan melawan hukum"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Kecakapan adalah syarat subjektif. Tidak terpenuhinya syarat subjektif (sepakat, cakap) membuat perjanjian dapat dibatalkan atas permintaan pihak yang berkepentingan. Batal demi hukum adalah akibat tidak terpenuhinya syarat objektif (hal tertentu, sebab yang halal).",
     "source": {
       "title": "KUHPerdata (Burgerlijk Wetboek)",
@@ -90,12 +90,12 @@
     "account": "bw.receh",
     "question": "\"Semua persetujuan yang dibuat sesuai dengan undang-undang berlaku sebagai undang-undang bagi mereka yang membuatnya.\" Rumusan ini melahirkan asas apa?",
     "options": [
+      "Asas ne bis in idem",
       "Asas kepribadian",
-      "Asas kekuatan mengikat (pacta sunt servanda)",
       "Asas legalitas",
-      "Asas ne bis in idem"
+      "Asas kekuatan mengikat (pacta sunt servanda)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 1338 ayat (1) KUHPerdata menjadi dasar asas kekuatan mengikat perjanjian (pacta sunt servanda), dan oleh doktrin juga dibaca sebagai dasar kebebasan berkontrak. Ayat (3) pasal yang sama mewajibkan perjanjian dilaksanakan dengan itikad baik.",
     "source": {
       "title": "KUHPerdata (Burgerlijk Wetboek)",
@@ -112,9 +112,9 @@
     "account": "bw.receh",
     "question": "Manakah yang BUKAN unsur perbuatan melawan hukum menurut Pasal 1365 KUHPerdata?",
     "options": [
+      "Ada kerugian dan hubungan sebab-akibat",
       "Ada perbuatan yang melanggar hukum",
       "Ada kesalahan pelaku",
-      "Ada kerugian dan hubungan sebab-akibat",
       "Ada perjanjian tertulis sebelumnya"
     ],
     "answerIndex": 3,
@@ -134,12 +134,12 @@
     "account": "bw.receh",
     "question": "Dalam perjanjian timbal balik, salah satu pihak wanprestasi. Menurut Pasal 1266 KUHPerdata, bagaimana perjanjian itu batal?",
     "options": [
-      "Batal otomatis tanpa perlu apa-apa",
       "Pembatalan harus dimintakan kepada pengadilan",
+      "Batal otomatis tanpa perlu apa-apa",
       "Batal jika disetujui notaris",
       "Tidak bisa dibatalkan sama sekali"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 1266 KUHPerdata: syarat batal dianggap selalu dicantumkan dalam persetujuan timbal balik, tetapi persetujuan tidak batal demi hukum; pembatalannya harus dimintakan kepada pengadilan. Dalam praktik kontrak, para pihak sering mencantumkan klausul pengesampingan pasal ini.",
     "source": {
       "title": "KUHPerdata (Burgerlijk Wetboek)",
@@ -430,12 +430,12 @@
         "kind": "quiz",
         "question": "A dan B membuat kontrak. C, yang bukan pihak, menuntut hak dari kontrak itu. Asas mana yang paling relevan untuk menolaknya?",
         "options": [
-          "Konsensualisme",
           "Kepribadian (Pasal 1340)",
           "Itikad baik",
-          "Kebebasan berkontrak"
+          "Kebebasan berkontrak",
+          "Konsensualisme"
         ],
-        "answerIndex": 1,
+        "answerIndex": 0,
         "explanation": "Pasal 1340 KUHPerdata: persetujuan hanya berlaku antara pihak-pihak yang membuatnya. Pihak ketiga pada dasarnya tidak dapat menarik manfaat atau dirugikan, kecuali dalam hal yang ditentukan undang-undang."
       }
     ],
@@ -488,12 +488,12 @@
         "kind": "quiz",
         "question": "Kontraktor menyerahkan rumah tepat waktu, tapi spesifikasi atap tidak sesuai kontrak. Ini wanprestasi bentuk apa?",
         "options": [
-          "Tidak melakukan sama sekali",
-          "Terlambat",
           "Melakukan tetapi tidak sebagaimana dijanjikan",
-          "Bukan wanprestasi"
+          "Tidak melakukan sama sekali",
+          "Bukan wanprestasi",
+          "Terlambat"
         ],
-        "answerIndex": 2,
+        "answerIndex": 0,
         "explanation": "Prestasi dilakukan dan tepat waktu, tetapi isinya tidak sesuai yang diperjanjikan. Itu bentuk ketiga dalam pembagian doktrin."
       }
     ],

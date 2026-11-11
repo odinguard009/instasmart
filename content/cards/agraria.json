@@ -32,12 +32,12 @@
     "account": "tanah.kita",
     "question": "Menurut UUPA, yang dapat mempunyai hak milik atas tanah pada prinsipnya adalah…",
     "options": [
-      "Setiap orang yang tinggal di Indonesia",
-      "Hanya warga negara Indonesia",
+      "Semua badan hukum",
       "WNI dan WNA yang menikah dengan WNI",
-      "Semua badan hukum"
+      "Hanya warga negara Indonesia",
+      "Setiap orang yang tinggal di Indonesia"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Pasal 21 ayat (1): hanya WNI. Badan hukum hanya yang ditetapkan pemerintah (ayat 2). WNA yang memperoleh hak milik karena pewarisan/percampuran harta wajib melepaskannya dalam 1 tahun (ayat 3).",
     "source": {
       "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
@@ -55,11 +55,11 @@
     "question": "Hak atas tanah yang bersifat turun-temurun, terkuat, dan terpenuh adalah…",
     "options": [
       "Hak guna usaha",
-      "Hak guna bangunan",
       "Hak milik",
-      "Hak pakai"
+      "Hak pakai",
+      "Hak guna bangunan"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "Pasal 20 ayat (1) UUPA. \"Terkuat dan terpenuh\" membedakannya dari hak lain, tetapi tetap tunduk pada fungsi sosial (Pasal 6).",
     "source": {
       "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
@@ -76,12 +76,12 @@
     "account": "tanah.kita",
     "question": "Menurut rumusan asli UUPA, HGB diberikan paling lama … tahun dan dapat diperpanjang paling lama … tahun.",
     "options": [
-      "25; 20",
       "30; 20",
-      "35; 25",
-      "60; 0"
+      "25; 20",
+      "60; 0",
+      "35; 25"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 35 UUPA: 30 tahun, perpanjangan paling lama 20 tahun. Peraturan pelaksana terbaru (PP 18/2021) mengatur jangka pemberian, perpanjangan, dan pembaruan secara lebih rinci; cek peraturan yang berlaku.",
     "source": {
       "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
@@ -99,12 +99,12 @@
     "account": "tanah.kita",
     "question": "\"Semua hak atas tanah mempunyai fungsi sosial.\" Ketentuan ini terdapat dalam UUPA pasal…",
     "options": [
-      "Pasal 2",
-      "Pasal 5",
       "Pasal 6",
-      "Pasal 10"
+      "Pasal 2",
+      "Pasal 10",
+      "Pasal 5"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Pasal 6 UUPA. Pasal 2 mengatur hak menguasai negara, Pasal 5 hukum adat sebagai dasar hukum agraria, Pasal 10 kewajiban mengerjakan tanah pertanian secara aktif.",
     "source": {
       "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
@@ -145,11 +145,11 @@
     "question": "Hukum agraria yang berlaku atas bumi, air, dan ruang angkasa menurut UUPA ialah…",
     "options": [
       "Hukum perdata Barat (BW Buku II)",
-      "Hukum adat, sepanjang tidak bertentangan dengan kepentingan nasional",
       "Hukum Islam",
-      "Hukum internasional"
+      "Hukum internasional",
+      "Hukum adat, sepanjang tidak bertentangan dengan kepentingan nasional"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 5 UUPA: hukum adat dengan sejumlah syarat (tidak bertentangan dengan kepentingan nasional, sosialisme Indonesia, peraturan UUPA, dan unsur agama). Buku II BW sepanjang mengenai bumi, air, dan kekayaan alam dicabut.",
     "source": {
       "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",

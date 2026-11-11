@@ -68,12 +68,12 @@
     "account": "konstitusi.kece",
     "question": "Manakah yang BUKAN kewenangan Mahkamah Konstitusi?",
     "options": [
-      "Menguji undang-undang terhadap UUD",
       "Menguji peraturan di bawah undang-undang terhadap undang-undang",
+      "Memutus perselisihan hasil pemilihan umum",
       "Memutus pembubaran partai politik",
-      "Memutus perselisihan hasil pemilihan umum"
+      "Menguji undang-undang terhadap UUD"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang adalah kewenangan Mahkamah Agung (Pasal 24A ayat (1)). MK menguji undang-undang terhadap UUD (Pasal 24C ayat (1)).",
     "source": {
       "title": "UUD Negara Republik Indonesia Tahun 1945",
@@ -90,10 +90,10 @@
     "account": "konstitusi.kece",
     "question": "Sembilan hakim konstitusi diajukan oleh siapa saja?",
     "options": [
-      "Semuanya oleh DPR",
+      "Semuanya oleh Komisi Yudisial",
       "3 oleh MA, 3 oleh DPR, 3 oleh Presiden",
       "3 oleh MPR, 3 oleh DPD, 3 oleh KY",
-      "Semuanya oleh Komisi Yudisial"
+      "Semuanya oleh DPR"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 24C ayat (3): MK mempunyai sembilan hakim konstitusi yang ditetapkan Presiden, diajukan masing-masing tiga orang oleh Mahkamah Agung, tiga oleh DPR, dan tiga oleh Presiden.",
@@ -112,12 +112,12 @@
     "account": "konstitusi.kece",
     "question": "Perppu yang ditetapkan Presiden harus mendapat persetujuan siapa, dan kapan?",
     "options": [
-      "MK, dalam 30 hari",
       "DPR, dalam persidangan yang berikut",
       "MPR, dalam sidang tahunan",
+      "MK, dalam 30 hari",
       "Tidak perlu persetujuan"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 22 UUD 1945: dalam hal ihwal kegentingan yang memaksa, Presiden berhak menetapkan Perppu. Perppu harus mendapat persetujuan DPR dalam persidangan yang berikut; jika tidak disetujui, harus dicabut.",
     "source": {
       "title": "UUD Negara Republik Indonesia Tahun 1945",
@@ -134,12 +134,12 @@
     "account": "konstitusi.kece",
     "question": "Menurut Pasal 37 UUD 1945, hal apa yang tidak dapat dilakukan perubahan?",
     "options": [
-      "Jumlah anggota DPR",
-      "Bentuk Negara Kesatuan Republik Indonesia",
+      "Jumlah provinsi",
       "Masa jabatan Presiden",
-      "Jumlah provinsi"
+      "Jumlah anggota DPR",
+      "Bentuk Negara Kesatuan Republik Indonesia"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 37 ayat (5): khusus mengenai bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan.",
     "source": {
       "title": "UUD Negara Republik Indonesia Tahun 1945",
@@ -428,12 +428,12 @@
         "kind": "quiz",
         "question": "Lembaga mana yang berwenang mengusulkan pengangkatan hakim agung?",
         "options": [
-          "Mahkamah Konstitusi",
-          "Komisi Yudisial",
+          "BPK",
           "DPD",
-          "BPK"
+          "Mahkamah Konstitusi",
+          "Komisi Yudisial"
         ],
-        "answerIndex": 1,
+        "answerIndex": 3,
         "explanation": "Pasal 24B ayat (1): Komisi Yudisial bersifat mandiri, berwenang mengusulkan pengangkatan hakim agung dan mempunyai wewenang lain dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim."
       }
     ],
@@ -481,12 +481,12 @@
         "kind": "quiz",
         "question": "Siapa pemegang kekuasaan membentuk undang-undang menurut Pasal 20 ayat (1) UUD 1945?",
         "options": [
-          "Presiden",
-          "DPR",
           "MPR",
-          "DPD"
+          "DPD",
+          "Presiden",
+          "DPR"
         ],
-        "answerIndex": 1,
+        "answerIndex": 3,
         "explanation": "Pasal 20 ayat (1): DPR memegang kekuasaan membentuk undang-undang. Presiden berhak mengajukan RUU kepada DPR (Pasal 5 ayat (1)), dan setiap RUU dibahas bersama untuk mendapat persetujuan bersama."
       }
     ],

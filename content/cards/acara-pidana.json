@@ -68,8 +68,8 @@
     "question": "Berapa jenis alat bukti yang dikenal KUHAP baru?",
     "options": [
       "Lima",
-      "Enam",
       "Tujuh",
+      "Enam",
       "Delapan"
     ],
     "answerIndex": 3,
@@ -90,12 +90,12 @@
     "account": "saksi.cicak",
     "question": "Alat bukti \"petunjuk\" dalam KUHAP lama tidak lagi muncul di KUHAP baru. Penggantinya adalah...",
     "options": [
-      "Keterangan korban",
       "Pengamatan hakim",
-      "Berita acara penyidikan",
-      "Keterangan penyidik"
+      "Keterangan korban",
+      "Keterangan penyidik",
+      "Berita acara penyidikan"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Menurut ulasan di media Mahkamah Agung, \"petunjuk\" digantikan \"pengamatan hakim\", yang terbatas pada apa yang diamati hakim langsung di persidangan.",
     "source": {
       "title": "KUHAP (UU No. 20 Tahun 2025)",
@@ -382,8 +382,8 @@
         "kind": "quiz",
         "question": "Manakah mekanisme yang BARU ditambahkan dalam KUHAP 2025 menurut abstrak resminya?",
         "options": [
-          "Praperadilan",
           "Banding",
+          "Praperadilan",
           "Pengakuan bersalah (plea bargain)",
           "Kasasi"
         ],

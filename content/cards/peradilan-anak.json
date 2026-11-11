@@ -27,12 +27,12 @@
     "account": "ruang.anak",
     "question": "Diversi wajib diupayakan bila tindak pidana yang dilakukan anak…",
     "options": [
-      "Diancam pidana penjara di bawah 7 tahun dan bukan pengulangan tindak pidana",
       "Diancam pidana penjara di bawah 10 tahun",
+      "Hanya tindak pidana ringan",
       "Apa pun ancamannya, asal korban setuju",
-      "Hanya tindak pidana ringan"
+      "Diancam pidana penjara di bawah 7 tahun dan bukan pengulangan tindak pidana"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "Pasal 7 ayat (2) UU SPPA. Diversi wajib diupayakan pada tahap penyidikan, penuntutan, dan pemeriksaan di pengadilan negeri (Pasal 7 ayat (1)).",
     "source": {
       "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
@@ -50,9 +50,9 @@
     "question": "Pidana penjara yang dapat dijatuhkan kepada anak paling lama…",
     "options": [
       "Sama dengan orang dewasa",
-      "1/3 dari maksimum ancaman bagi orang dewasa",
+      "2/3 dari maksimum ancaman bagi orang dewasa",
       "1/2 dari maksimum ancaman bagi orang dewasa",
-      "2/3 dari maksimum ancaman bagi orang dewasa"
+      "1/3 dari maksimum ancaman bagi orang dewasa"
     ],
     "answerIndex": 2,
     "explanation": "Pasal 81 ayat (2) UU SPPA. Bila tindak pidananya diancam pidana mati atau penjara seumur hidup, pidana yang dijatuhkan paling lama 10 tahun (Pasal 81 ayat (6)).",
@@ -72,11 +72,11 @@
     "question": "Penahanan terhadap anak hanya dapat dilakukan bila anak berumur … atau lebih dan diancam pidana penjara 7 tahun atau lebih.",
     "options": [
       "12 tahun",
-      "14 tahun",
       "16 tahun",
+      "14 tahun",
       "17 tahun"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Pasal 32 ayat (2) UU SPPA. Penahanan anak adalah upaya terakhir; anak tidak boleh ditahan bila ada jaminan dari orang tua/wali atau lembaga.",
     "source": {
       "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
@@ -93,12 +93,12 @@
     "account": "ruang.anak",
     "question": "Pada asasnya, perkara anak di tingkat pertama diperiksa oleh…",
     "options": [
-      "Majelis tiga hakim",
-      "Hakim tunggal",
+      "Juri",
       "Hakim ad hoc",
-      "Juri"
+      "Hakim tunggal",
+      "Majelis tiga hakim"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Pasal 44 ayat (1) UU SPPA: hakim tunggal. Ketua pengadilan dapat menetapkan majelis untuk tindak pidana yang diancam penjara 7 tahun atau lebih atau yang sulit pembuktiannya.",
     "source": {
       "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",

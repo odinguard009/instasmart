@@ -7,10 +7,10 @@
     "account": "karya.cipta",
     "question": "Kapan hak cipta timbul menurut UU 28/2014?",
     "options": [
-      "Sejak didaftarkan di DJKI",
+      "Sejak dijual pertama kali",
       "Secara otomatis berdasarkan prinsip deklaratif setelah ciptaan diwujudkan dalam bentuk nyata",
-      "Sejak diumumkan di media massa",
-      "Sejak dijual pertama kali"
+      "Sejak didaftarkan di DJKI",
+      "Sejak diumumkan di media massa"
     ],
     "answerIndex": 1,
     "explanation": "Pasal 1 angka 1. Pencatatan ciptaan bukan syarat untuk mendapatkan hak cipta (Pasal 64 ayat 2).",
@@ -29,12 +29,12 @@
     "account": "karya.cipta",
     "question": "Perlindungan hak ekonomi atas ciptaan buku oleh pencipta perorangan berlaku…",
     "options": [
-      "50 tahun sejak diumumkan",
       "Seumur hidup pencipta + 70 tahun setelah meninggal",
-      "20 tahun sejak penerimaan",
-      "10 tahun dan dapat diperpanjang"
+      "10 tahun dan dapat diperpanjang",
+      "50 tahun sejak diumumkan",
+      "20 tahun sejak penerimaan"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 58 ayat (1) UU 28/2014. Bila pemegang hak cipta badan hukum, 50 tahun sejak pertama kali diumumkan (ayat 3).",
     "source": {
       "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
@@ -73,19 +73,20 @@
     "account": "karya.cipta",
     "question": "Syarat invensi agar dapat diberi paten (biasa) adalah…",
     "options": [
+      "Terdaftar dan dipakai di pasar",
       "Baru, mengandung langkah inventif, dapat diterapkan dalam industri",
       "Orisinal dan sudah diumumkan",
-      "Terdaftar dan dipakai di pasar",
       "Baru dan berbentuk karya seni"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "Pasal 3 ayat (1) UU 13/2016. Paten sederhana cukup baru, pengembangan produk/proses yang ada, dan dapat diterapkan dalam industri.",
     "source": {
-      "title": "UU No. 13 Tahun 2016 tentang Paten",
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana terakhir diubah UU No. 65 Tahun 2024",
       "reference": "Pasal 3"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "hki-jangka-paten",
@@ -95,19 +96,20 @@
     "account": "karya.cipta",
     "question": "Paten diberikan untuk jangka waktu…",
     "options": [
-      "10 tahun, dapat diperpanjang",
-      "20 tahun sejak tanggal penerimaan, tidak dapat diperpanjang",
       "Seumur hidup inventor",
-      "70 tahun"
+      "70 tahun",
+      "10 tahun, dapat diperpanjang",
+      "20 tahun sejak tanggal penerimaan, tidak dapat diperpanjang"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 22 UU 13/2016. Paten sederhana 10 tahun sejak tanggal penerimaan, juga tidak dapat diperpanjang (Pasal 23).",
     "source": {
-      "title": "UU No. 13 Tahun 2016 tentang Paten",
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana terakhir diubah UU No. 65 Tahun 2024",
       "reference": "Pasal 22-23"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "hki-jangka-merek",
@@ -117,12 +119,12 @@
     "account": "karya.cipta",
     "question": "Merek terdaftar mendapat perlindungan hukum selama…",
     "options": [
-      "5 tahun, tidak dapat diperpanjang",
-      "10 tahun sejak tanggal penerimaan, dapat diperpanjang untuk jangka waktu yang sama",
       "20 tahun",
-      "Selama dipakai"
+      "5 tahun, tidak dapat diperpanjang",
+      "Selama dipakai",
+      "10 tahun sejak tanggal penerimaan, dapat diperpanjang untuk jangka waktu yang sama"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Pasal 35 UU 20/2016. Hak atas merek diperoleh setelah merek terdaftar (sistem konstitutif, first to file).",
     "source": {
       "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
@@ -170,7 +172,8 @@
       "reference": "Pasal 58 UU HC; Pasal 22 UU Paten; Pasal 35 UU Merek"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "hki-daftar-dulu",

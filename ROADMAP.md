@@ -4,7 +4,7 @@ Hal-hal di bawah ini sengaja BELUM dikerjakan. Urutannya kira-kira dari yang pal
 
 ## Segera berguna (masih PWA)
 
-- **Verifikasi konten oleh manusia.** Semua kartu masih `draft`. Cocokkan dengan teks resmi, lalu ubah `status` menjadi `approved` di JSON (atau setujui lewat halaman Review). Prioritas: 107 dari 360 kartu bertanda `needsVerification`.
+- **Verifikasi konten oleh manusia.** Semua kartu masih `draft`. Cocokkan dengan teks resmi, lalu ubah `status` menjadi `approved` di JSON (atau setujui lewat halaman Review). Prioritas: 113 dari 360 kartu bertanda `needsVerification`.
 - **Kutipan teks resmi di `content/sources/`.** Saat fondasi dibuat, situs peraturan resmi menolak akses otomatis. Isi folder ini dengan teks pasal yang disalin dari sumber resmi, lalu pakai generator.
 - **Lebih banyak kartu per sub-topik.** Pustaka sekarang 360 kartu di 27 topik; banyak topik baru baru berisi 8-16 kartu. Feed tanpa batas akan mendaur ulang kartu lebih cepat untuk topik tipis.
 - **Peta cakupan (jujur).** Belum "seluruh ilmu hukum". Sudah ada: pengantar ilmu hukum, HTN, HAN/PTUN, perdata, acara perdata, pidana, acara pidana, pidana khusus, peradilan anak, peradilan militer, peradilan agama, keluarga & waris, dagang/bisnis, internasional, HAM, agraria, ketenagakerjaan, lingkungan, adat, HKI, konsumen & persaingan, etika hakim. Belum: hukum pajak, perbankan & pasar modal, hukum kesehatan, hukum siber/ITE, hukum pemilu, hukum laut lebih dalam, perancangan peraturan, yurisprudensi pilihan, SEMA/PERMA.
@@ -12,6 +12,7 @@ Hal-hal di bawah ini sengaja BELUM dikerjakan. Urutannya kira-kira dari yang pal
 - **Ekspor status review.** Persetujuan di halaman Review tersimpan lokal; belum ada cara menuliskannya kembali ke file JSON repo selain mengedit manual.
 - **Pengukur lebar teks sungguhan** untuk template SVG (sekarang perkiraan per karakter).
 - **Sinkron narasi dengan scene** (durasi scene mengikuti lama ucapan) dan pilihan suara.
+- **Virtualisasi feed** bila pemakaian sangat panjang (ratusan post) terasa berat di ponsel; sekarang hanya `content-visibility: auto`.
 - **Tes komponen di peramban** sebagai bagian CI (sekarang `npm run smoke` dijalankan manual).
 
 ## Fase lanjutan

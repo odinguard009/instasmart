@@ -7,7 +7,7 @@
     "account": "anti.rasuah",
     "visual": {
       "template": "infographic",
-      "title": "Unsur Pasal 2 ayat (1) UU Tipikor",
+      "title": "Unsur Pasal 2 (1) UU Tipikor (versi lama)",
       "points": [
         "Setiap orang",
         "Secara melawan hukum",
@@ -15,7 +15,7 @@
         "Merugikan keuangan/perekonomian negara"
       ]
     },
-    "caption": "Versi UU Tipikor. Setelah Putusan MK No. 25/PUU-XIV/2016 kata \"dapat\" (dapat merugikan) dinyatakan tidak mengikat, sehingga kerugian negara harus nyata (delik materiil). Sejak 2 Januari 2026 rumusan inti Pasal 2 dan 3 juga diatur dalam KUHP Nasional; cek pasal dan ancaman yang berlaku.",
+    "caption": "Versi lama, untuk perkara sebelum 2 Januari 2026 dan perbandingan. Putusan MK 25/PUU-XIV/2016: kata \"dapat\" tidak mengikat, kerugian negara harus nyata. Sejak 2 Januari 2026 Pasal 2 ayat (1), 3, 5, 11, dan 13 UU Tipikor dicabut KUHP Nasional (ketentuan penutup) dan rumusannya dipindah ke KUHP. Padanannya di KUHP disebut Pasal 603; cek teks resminya.",
     "source": {
       "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
       "reference": "Pasal 2 ayat (1)"
@@ -30,15 +30,15 @@
     "topicId": "pidana-khusus",
     "subTopicId": "korupsi",
     "account": "anti.rasuah",
-    "question": "Seorang pejabat menguntungkan diri dengan menyalahgunakan kewenangan karena jabatannya dan merugikan keuangan negara. Rumusan UU Tipikor yang paling tepat adalah…",
+    "question": "Menurut UU Tipikor versi sebelum 2 Januari 2026: pejabat menguntungkan diri dengan menyalahgunakan kewenangan karena jabatannya dan merugikan keuangan negara. Pasal yang paling tepat…",
     "options": [
+      "Pasal 12B: gratifikasi",
       "Pasal 2: melawan hukum memperkaya diri",
       "Pasal 3: menyalahgunakan kewenangan, kesempatan, atau sarana karena jabatan",
-      "Pasal 5: suap aktif",
-      "Pasal 12B: gratifikasi"
+      "Pasal 5: suap aktif"
     ],
-    "answerIndex": 1,
-    "explanation": "Pasal 3 menekankan unsur penyalahgunaan kewenangan, kesempatan, atau sarana karena jabatan atau kedudukan, dengan tujuan menguntungkan. Pasal 2 menekankan perbuatan melawan hukum yang memperkaya. Kini rumusan sejenis ada di KUHP Nasional; cek nomor pasalnya.",
+    "answerIndex": 2,
+    "explanation": "Pasal 3 menekankan penyalahgunaan kewenangan, kesempatan, atau sarana karena jabatan; Pasal 2 menekankan perbuatan melawan hukum yang memperkaya. Sejak 2 Januari 2026 Pasal 2 ayat (1), 3, 5, 11, dan 13 UU Tipikor dicabut KUHP Nasional (ketentuan penutup) dan rumusannya dipindah ke KUHP.",
     "source": {
       "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
       "reference": "Pasal 2 dan Pasal 3"
@@ -56,18 +56,19 @@
     "question": "Apa dampak Putusan MK No. 25/PUU-XIV/2016 terhadap Pasal 2 dan 3 UU Tipikor?",
     "options": [
       "Korupsi tidak lagi bisa dipidana",
-      "Kata \"dapat\" dihapus sehingga kerugian negara harus nyata (actual loss)",
+      "KPK dibubarkan",
       "Ancaman pidana mati dihapus",
-      "KPK dibubarkan"
+      "Kata \"dapat\" dihapus sehingga kerugian negara harus nyata (actual loss)"
     ],
-    "answerIndex": 1,
-    "explanation": "Delik korupsi Pasal 2 dan 3 berubah dari delik formil (cukup potensi kerugian) menjadi delik materiil: kerugian keuangan negara harus benar-benar terjadi.",
+    "answerIndex": 3,
+    "explanation": "Pasal 2 dan 3 berubah dari delik formil (cukup potensi kerugian) menjadi delik materiil: kerugian keuangan negara harus nyata. Catatan versi: kedua pasal itu dicabut KUHP Nasional sejak 2 Januari 2026; rumusan penggantinya di KUHP perlu dicek apakah memuat kata \"dapat\".",
     "source": {
       "title": "Putusan Mahkamah Konstitusi No. 25/PUU-XIV/2016",
       "reference": "Putusan MK No. 25/PUU-XIV/2016"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "pidana-khusus-gratifikasi-lapor",
@@ -77,12 +78,12 @@
     "account": "anti.rasuah",
     "question": "Pegawai negeri menerima gratifikasi. Agar tidak dianggap suap, ia wajib melaporkannya kepada KPK paling lambat…",
     "options": [
-      "7 hari kerja",
-      "14 hari kerja",
       "30 hari kerja",
-      "90 hari kalender"
+      "14 hari kerja",
+      "90 hari kalender",
+      "7 hari kerja"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Pasal 12C UU Tipikor: ketentuan gratifikasi dianggap suap (Pasal 12B) tidak berlaku bila penerima melaporkannya ke KPK paling lambat 30 hari kerja sejak diterima.",
     "source": {
       "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi",
@@ -99,12 +100,12 @@
     "account": "anti.rasuah",
     "question": "Pengadilan Tindak Pidana Korupsi berada di lingkungan peradilan…",
     "options": [
+      "Umum",
       "Agama",
       "Militer",
-      "Umum",
       "Tata usaha negara"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Pengadilan Tipikor adalah pengadilan khusus di lingkungan peradilan umum, dibentuk dengan UU No. 46 Tahun 2009, berkedudukan di setiap ibu kota kabupaten/kota (dalam praktik dibentuk bertahap, umumnya di ibu kota provinsi).",
     "source": {
       "title": "UU No. 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi",
@@ -129,13 +130,14 @@
         "Integration: memakainya kembali seolah-olah sah"
       ]
     },
-    "caption": "Tahapan ini konsep doktrin/kriminologi, bukan unsur pasal. Unsur deliknya ada di Pasal 3, 4, dan 5 UU TPPU (aktif menempatkan/mentransfer, menyembunyikan asal-usul, dan menerima/menguasai).",
+    "caption": "Tahapan ini konsep doktrin, bukan unsur pasal. Unsur deliknya dulu di Pasal 3, 4, dan 5 UU TPPU. Sejak 2 Januari 2026 Pasal 2 ayat (1), 3, 4, dan 5 UU TPPU dicabut KUHP Nasional dan rumusannya dipindah ke KUHP.",
     "source": {
       "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
       "reference": "Doktrin; Pasal 3-5 UU TPPU"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "pidana-khusus-pembuktian-terbalik-tppu",
@@ -167,12 +169,12 @@
     "account": "anti.rasuah",
     "question": "Apakah tindak pidana asal (predicate crime) harus dibuktikan terlebih dahulu sebelum perkara TPPU diperiksa?",
     "options": [
-      "Ya, harus ada putusan berkekuatan hukum tetap atas tindak pidana asal",
       "Tidak wajib dibuktikan terlebih dahulu",
+      "Ya, harus ada putusan berkekuatan hukum tetap atas tindak pidana asal",
       "Hanya untuk korupsi",
       "Hanya bila terdakwanya korporasi"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 69 UU TPPU: untuk penyidikan, penuntutan, dan pemeriksaan di sidang TPPU, tidak wajib dibuktikan terlebih dahulu tindak pidana asalnya.",
     "source": {
       "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
@@ -189,10 +191,10 @@
     "account": "anti.rasuah",
     "question": "Lembaga yang menerima dan menganalisis laporan transaksi keuangan mencurigakan adalah…",
     "options": [
-      "OJK",
+      "KPK",
       "PPATK",
       "BPK",
-      "KPK"
+      "OJK"
     ],
     "answerIndex": 1,
     "explanation": "PPATK (Pusat Pelaporan dan Analisis Transaksi Keuangan) adalah lembaga intelijen keuangan Indonesia menurut UU TPPU.",
@@ -235,9 +237,9 @@
     "question": "Menurut UU Narkotika, pecandu narkotika dan korban penyalahgunaan narkotika…",
     "options": [
       "Wajib menjalani rehabilitasi medis dan rehabilitasi sosial",
+      "Hanya dikenai denda",
       "Selalu dipidana mati",
-      "Dibebaskan tanpa tindakan apa pun",
-      "Hanya dikenai denda"
+      "Dibebaskan tanpa tindakan apa pun"
     ],
     "answerIndex": 0,
     "explanation": "Pasal 54 UU Narkotika mewajibkan rehabilitasi medis dan sosial. Hakim dapat memutus atau menetapkan rehabilitasi bagi pecandu (Pasal 103).",
@@ -306,10 +308,11 @@
     "teaches": "Pencucian uang menurut UU 8/2010 dan tiga tahap doktriner: placement, layering, integration.",
     "source": {
       "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
-      "reference": "Pasal 3-5"
+      "reference": "Pasal 3-5 (versi lama; kini dipindah ke KUHP Nasional)"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "pidana-khusus-jembatan-tahap-tppu",
@@ -347,7 +350,7 @@
       {
         "durationMs": 4500,
         "text": "Korupsi sekarang ada di dua undang-undang?",
-        "caption": "Sejak KUHP Nasional berlaku 2 Januari 2026, beberapa delik inti korupsi juga dirumuskan di KUHP.",
+        "caption": "Sejak 2 Januari 2026, Pasal 2 ayat (1), 3, 5, 11, dan 13 UU Tipikor dicabut dan rumusannya dipindah ke KUHP Nasional.",
         "kicker": "Perhatian versi",
         "character": "gecko",
         "expression": "shock",
@@ -356,7 +359,7 @@
       {
         "durationMs": 4500,
         "text": "UU Tipikor tetap dipakai untuk hal yang tidak diambil alih.",
-        "caption": "Ketentuan khusus seperti gratifikasi dan hukum acara khusus tetap merujuk UU Tipikor; cek pasal peralihan KUHP Nasional.",
+        "caption": "Ketentuan yang tidak dicabut, seperti gratifikasi (Pasal 12B-12C) dan hukum acara khusus, tetap di UU Tipikor.",
         "textMotion": "slide-up"
       },
       {
@@ -404,14 +407,14 @@
         "visual": {
           "template": "bigtype",
           "text": "Pasal 2",
-          "sub": "Melawan hukum, memperkaya, merugikan keuangan negara."
+          "sub": "Versi lama: melawan hukum, memperkaya, merugikan negara. Kini dipindah ke KUHP."
         }
       },
       {
         "visual": {
           "template": "bigtype",
           "text": "Pasal 3",
-          "sub": "Menyalahgunakan kewenangan karena jabatan, menguntungkan, merugikan keuangan negara."
+          "sub": "Versi lama: menyalahgunakan kewenangan jabatan. Kini dipindah ke KUHP."
         }
       },
       {

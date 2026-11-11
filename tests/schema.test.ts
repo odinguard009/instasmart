@@ -111,6 +111,16 @@ describe('konten asli (content/cards/*.json)', () => {
     }
   });
 
+  it('kunci jawaban kuis tidak menumpuk di satu posisi (pengguna tidak bisa menebak dari letak)', () => {
+    const indexes = library.cards.flatMap((card) => {
+      if (card.type === 'quiz' && card.options.length >= 3) return [card.answerIndex];
+      if (card.type === 'carousel') return card.slides.flatMap((s) => (s.kind === 'quiz' && s.options.length >= 3 ? [s.answerIndex] : []));
+      return [];
+    });
+    const share = (i: number) => indexes.filter((x) => x === i).length / indexes.length;
+    for (const i of [0, 1, 2, 3]) expect(share(i), `posisi ${i}`).toBeLessThan(0.4);
+  });
+
   it('kartu hukum acara pidana semuanya diberi needsVerification kecuali yang bersumber UU Kekuasaan Kehakiman', () => {
     for (const card of library.cards.filter((c) => c.topicId === 'acara-pidana')) {
       if (!card.source.title.includes('UU No. 48 Tahun 2009')) expect(card.needsVerification, card.id).toBe(true);

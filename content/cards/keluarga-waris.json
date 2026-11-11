@@ -27,9 +27,9 @@
     "account": "nikah.waris.notes",
     "question": "Menurut UU Perkawinan, kapan perkawinan dianggap sah?",
     "options": [
-      "Setelah dicatat di kantor catatan sipil/KUA saja",
-      "Apabila dilakukan menurut hukum masing-masing agama dan kepercayaannya",
       "Setelah resepsi dan ada saksi",
+      "Apabila dilakukan menurut hukum masing-masing agama dan kepercayaannya",
+      "Setelah dicatat di kantor catatan sipil/KUA saja",
       "Setelah mendapat izin orang tua"
     ],
     "answerIndex": 1,
@@ -49,10 +49,10 @@
     "account": "nikah.waris.notes",
     "question": "Setelah perubahan tahun 2019, berapa usia minimal untuk menikah?",
     "options": [
-      "Pria 19, wanita 16",
+      "Pria 21, wanita 18",
       "Pria dan wanita 19 tahun",
-      "Pria dan wanita 21 tahun",
-      "Pria 21, wanita 18"
+      "Pria 19, wanita 16",
+      "Pria dan wanita 21 tahun"
     ],
     "answerIndex": 1,
     "explanation": "UU 16/2019 mengubah Pasal 7 ayat (1): perkawinan hanya diizinkan bila pria dan wanita sudah mencapai umur 19 tahun. Penyimpangan hanya lewat dispensasi pengadilan dengan alasan sangat mendesak dan bukti yang cukup.",
@@ -71,12 +71,12 @@
     "account": "nikah.waris.notes",
     "question": "Gaji yang diterima suami selama perkawinan (tanpa perjanjian kawin) termasuk…",
     "options": [
-      "Harta bawaan suami",
       "Harta bersama",
+      "Harta bawaan suami",
       "Harta warisan",
       "Hadiah pribadi"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 35 ayat (1): harta benda yang diperoleh selama perkawinan menjadi harta bersama. Harta bawaan dan harta yang diperoleh sebagai hadiah atau warisan tetap di bawah penguasaan masing-masing selama tidak ditentukan lain (Pasal 35 ayat (2)).",
     "source": {
       "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
@@ -94,11 +94,11 @@
     "question": "Setelah Putusan MK No. 69/PUU-XIII/2015, kapan perjanjian perkawinan boleh dibuat?",
     "options": [
       "Hanya sebelum perkawinan",
-      "Hanya saat perkawinan dilangsungkan",
       "Sebelum, pada saat, atau selama dalam ikatan perkawinan",
-      "Hanya setelah cerai"
+      "Hanya setelah cerai",
+      "Hanya saat perkawinan dilangsungkan"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "MK memperluas Pasal 29 ayat (1) UU Perkawinan sehingga perjanjian perkawinan juga dapat dibuat selama dalam ikatan perkawinan. Relevan untuk perkawinan campuran yang ingin memisahkan harta agar dapat memiliki tanah hak milik.",
     "source": {
       "title": "Putusan Mahkamah Konstitusi No. 69/PUU-XIII/2015",
@@ -117,10 +117,10 @@
     "options": [
       "Ibunya saja",
       "Ibunya dan keluarga ibunya saja",
-      "Ibu dan keluarga ibunya, serta ayahnya bila dapat dibuktikan dengan iptek dan/atau alat bukti lain",
-      "Negara"
+      "Negara",
+      "Ibu dan keluarga ibunya, serta ayahnya bila dapat dibuktikan dengan iptek dan/atau alat bukti lain"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "MK memaknai Pasal 43 ayat (1) UU Perkawinan secara bersyarat. Pembuktiannya bisa memakai ilmu pengetahuan dan teknologi (misalnya tes DNA) dan/atau alat bukti lain menurut hukum.",
     "source": {
       "title": "Putusan Mahkamah Konstitusi No. 46/PUU-VIII/2010",
@@ -138,11 +138,11 @@
     "question": "Menurut UU Perkawinan, perceraian hanya dapat dilakukan…",
     "options": [
       "Dengan pernyataan lisan di depan keluarga",
+      "Dengan kesepakatan tertulis notaris",
       "Di depan sidang pengadilan setelah pengadilan gagal mendamaikan",
-      "Dengan surat dari kepala desa",
-      "Dengan kesepakatan tertulis notaris"
+      "Dengan surat dari kepala desa"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Pasal 39 ayat (1): perceraian hanya dapat dilakukan di depan sidang Pengadilan setelah Pengadilan berusaha dan tidak berhasil mendamaikan kedua pihak. Ayat (2): harus ada cukup alasan bahwa suami isteri tidak akan dapat hidup rukun.",
     "source": {
       "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
@@ -184,12 +184,12 @@
     "account": "nikah.waris.notes",
     "question": "Mana yang BUKAN alasan pengadilan dapat memberi izin beristri lebih dari seorang menurut UU Perkawinan?",
     "options": [
-      "Isteri tidak dapat menjalankan kewajiban sebagai isteri",
       "Isteri mendapat cacat badan atau penyakit yang tidak dapat disembuhkan",
       "Isteri tidak dapat melahirkan keturunan",
-      "Suami memiliki penghasilan sangat besar"
+      "Suami memiliki penghasilan sangat besar",
+      "Isteri tidak dapat menjalankan kewajiban sebagai isteri"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "Pasal 4 ayat (2) menyebut tiga alasan. Selain alasan, ada syarat kumulatif dalam Pasal 5: persetujuan isteri, kepastian suami mampu menjamin keperluan hidup, dan jaminan berlaku adil. Penghasilan besar bukan alasan.",
     "source": {
       "title": "UU No. 1 Tahun 1974 tentang Perkawinan (jo. UU No. 16 Tahun 2019)",
@@ -231,12 +231,12 @@
     "account": "nikah.waris.notes",
     "question": "Menurut KUHPerdata, pewarisan terjadi karena…",
     "options": [
-      "Perjanjian antara orang tua dan anak",
       "Kematian",
+      "Pewaris berusia 60 tahun",
       "Putusan pengadilan",
-      "Pewaris berusia 60 tahun"
+      "Perjanjian antara orang tua dan anak"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 830 KUHPerdata: pewarisan hanya berlangsung karena kematian. Membagi harta saat orang tua masih hidup secara hukum adalah hibah, bukan waris.",
     "source": {
       "title": "KUHPerdata (Burgerlijk Wetboek)",
@@ -253,10 +253,10 @@
     "account": "nikah.waris.notes",
     "question": "Bagian warisan yang dijamin undang-undang bagi ahli waris garis lurus dan tidak dapat dikurangi dengan wasiat disebut…",
     "options": [
-      "Inbreng",
+      "Fideicommis",
       "Legitime portie (bagian mutlak)",
       "Boedel",
-      "Fideicommis"
+      "Inbreng"
     ],
     "answerIndex": 1,
     "explanation": "Legitime portie diatur mulai Pasal 913 KUHPerdata. Hibah atau wasiat yang melanggar bagian mutlak dapat dituntut pengurangannya (inkorting).",
@@ -275,12 +275,12 @@
     "account": "nikah.waris.notes",
     "question": "Menurut KHI, bila anak perempuan bersama-sama dengan anak laki-laki, perbandingan bagiannya adalah…",
     "options": [
-      "1 : 1",
-      "Anak laki-laki 2 : anak perempuan 1",
+      "Ditentukan musyawarah saja",
       "Anak laki-laki 3 : anak perempuan 1",
-      "Ditentukan musyawarah saja"
+      "1 : 1",
+      "Anak laki-laki 2 : anak perempuan 1"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "KHI: anak perempuan bila hanya seorang mendapat 1/2, dua orang atau lebih bersama-sama 2/3; bila bersama anak laki-laki, bagian laki-laki dua berbanding satu. Ahli waris juga dapat bersepakat melakukan perdamaian pembagian setelah menyadari bagiannya.",
     "source": {
       "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
@@ -321,12 +321,12 @@
     "account": "nikah.waris.notes",
     "question": "Menurut KHI, wasiat paling banyak sebesar… dari harta warisan, kecuali ahli waris menyetujui.",
     "options": [
-      "1/4",
       "1/3",
+      "1/4",
       "1/2",
       "Tidak dibatasi"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Batas sepertiga untuk wasiat. Anak angkat dan orang tua angkat yang tidak menerima wasiat diberi wasiat wajibah, juga paling banyak 1/3.",
     "source": {
       "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
@@ -497,11 +497,11 @@
         "kind": "quiz",
         "question": "Pewaris meninggalkan suami dan seorang anak. Bagian suami?",
         "options": [
+          "1/8",
           "1/2",
-          "1/4",
-          "1/8"
+          "1/4"
         ],
-        "answerIndex": 1,
+        "answerIndex": 2,
         "explanation": "Suami mendapat 1/4 bila ada anak."
       }
     ],

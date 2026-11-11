@@ -8,11 +8,11 @@
     "question": "Bolehkah perjanjian kerja waktu tertentu (PKWT) mensyaratkan masa percobaan kerja?",
     "options": [
       "Boleh, maksimal 3 bulan",
-      "Boleh, maksimal 6 bulan",
       "Tidak boleh; jika disyaratkan, batal demi hukum",
-      "Boleh bila disepakati tertulis"
+      "Boleh bila disepakati tertulis",
+      "Boleh, maksimal 6 bulan"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "Pasal 58 UU 13/2003: PKWT tidak dapat mensyaratkan masa percobaan; jika disyaratkan, batal demi hukum dan masa kerja tetap dihitung. Masa percobaan (maks. 3 bulan, Pasal 60) hanya untuk PKWTT.",
     "source": {
       "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
@@ -52,12 +52,12 @@
     "account": "buruh.paham",
     "question": "Menurut UU 2/2004, jenis perselisihan hubungan industrial ada…",
     "options": [
-      "2: hak dan kepentingan",
-      "3: hak, kepentingan, PHK",
       "4: hak, kepentingan, PHK, antar serikat pekerja dalam satu perusahaan",
-      "5: termasuk perselisihan upah minimum"
+      "3: hak, kepentingan, PHK",
+      "5: termasuk perselisihan upah minimum",
+      "2: hak dan kepentingan"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Pasal 2 UU 2/2004 menyebut empat jenis perselisihan.",
     "source": {
       "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
@@ -74,12 +74,12 @@
     "account": "buruh.paham",
     "question": "Perundingan bipartit wajib diselesaikan paling lama…",
     "options": [
+      "30 hari kerja",
       "7 hari kerja",
       "14 hari kerja",
-      "30 hari kerja",
       "60 hari kerja"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Pasal 3 UU 2/2004: 30 hari kerja sejak dimulai. Bila gagal atau salah satu pihak menolak berunding, perundingan bipartit dianggap gagal.",
     "source": {
       "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
@@ -96,12 +96,12 @@
     "account": "buruh.paham",
     "question": "Arbitrase hubungan industrial hanya dapat menyelesaikan perselisihan…",
     "options": [
-      "Hak dan PHK",
-      "Kepentingan dan antar serikat pekerja dalam satu perusahaan",
       "Semua jenis perselisihan",
-      "PHK saja"
+      "PHK saja",
+      "Kepentingan dan antar serikat pekerja dalam satu perusahaan",
+      "Hak dan PHK"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Arbitrase dan konsiliasi tidak untuk perselisihan hak. Mediasi dapat menangani keempat jenis perselisihan.",
     "source": {
       "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
@@ -119,12 +119,12 @@
     "account": "buruh.paham",
     "question": "Putusan Pengadilan Hubungan Industrial yang bersifat akhir dan tetap (tidak dapat dikasasi) adalah putusan mengenai perselisihan…",
     "options": [
-      "Hak",
       "PHK",
-      "Kepentingan dan antar serikat pekerja dalam satu perusahaan",
-      "Semua jenis"
+      "Hak",
+      "Semua jenis",
+      "Kepentingan dan antar serikat pekerja dalam satu perusahaan"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "Pasal 109 UU 2/2004. Untuk perselisihan hak dan PHK, kasasi dapat diajukan ke Mahkamah Agung (Pasal 110).",
     "source": {
       "title": "UU No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial",

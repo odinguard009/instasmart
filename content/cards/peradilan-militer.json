@@ -34,8 +34,8 @@
     "options": [
       "Pengadilan Militer",
       "Pengadilan Militer Tinggi",
-      "Pengadilan Militer Utama",
-      "Pengadilan Negeri"
+      "Pengadilan Negeri",
+      "Pengadilan Militer Utama"
     ],
     "answerIndex": 1,
     "explanation": "Pengadilan Militer memeriksa tingkat pertama perkara terdakwa berpangkat Kapten ke bawah; Pengadilan Militer Tinggi memeriksa tingkat pertama perkara terdakwa berpangkat Mayor ke atas.",
@@ -55,12 +55,12 @@
     "account": "mahmil.notes",
     "question": "Pejabat yang bertindak sebagai penuntut umum di peradilan militer disebut…",
     "options": [
-      "Jaksa agung muda",
-      "Oditur militer",
       "Ankum",
-      "Papera"
+      "Jaksa agung muda",
+      "Papera",
+      "Oditur militer"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Oditur militer melakukan penuntutan. Ankum adalah atasan yang berhak menghukum; Papera adalah perwira penyerah perkara yang berwenang menyerahkan perkara ke pengadilan.",
     "source": {
       "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",

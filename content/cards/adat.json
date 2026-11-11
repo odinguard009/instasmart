@@ -7,12 +7,12 @@
     "account": "adat.nusantara",
     "question": "Pengakuan negara atas kesatuan masyarakat hukum adat beserta hak tradisionalnya diatur dalam UUD 1945 pasal…",
     "options": [
-      "Pasal 18 ayat (1)",
       "Pasal 18B ayat (2)",
       "Pasal 28I ayat (3)",
+      "Pasal 18 ayat (1)",
       "Pasal 33 ayat (3)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 18B ayat (2): pengakuan bersyarat, yaitu sepanjang masih hidup, sesuai perkembangan masyarakat dan prinsip NKRI, diatur dalam undang-undang. Pasal 28I ayat (3) melindungi identitas budaya dan hak masyarakat tradisional.",
     "source": {
       "title": "UUD NRI Tahun 1945",
@@ -29,12 +29,12 @@
     "account": "adat.nusantara",
     "question": "Putusan MK No. 35/PUU-X/2012 menegaskan bahwa hutan adat adalah…",
     "options": [
+      "Hutan hak milik perorangan",
       "Hutan negara yang dikelola masyarakat adat",
-      "Hutan yang berada dalam wilayah masyarakat hukum adat, bukan hutan negara",
       "Hutan konservasi",
-      "Hutan hak milik perorangan"
+      "Hutan yang berada dalam wilayah masyarakat hukum adat, bukan hutan negara"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "MK mengubah rumusan UU Kehutanan sehingga hutan adat tidak lagi dikategorikan sebagai hutan negara.",
     "source": {
       "title": "Putusan Mahkamah Konstitusi No. 35/PUU-X/2012",
@@ -74,12 +74,12 @@
     "account": "adat.nusantara",
     "question": "Tokoh yang membagi Hindia Belanda ke dalam 19 lingkungan hukum adat (adatrechtskringen) adalah…",
     "options": [
-      "Snouck Hurgronje",
-      "Van Vollenhoven",
       "Ter Haar",
-      "Soepomo"
+      "Soepomo",
+      "Van Vollenhoven",
+      "Snouck Hurgronje"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Cornelis van Vollenhoven, dijuluki \"bapak hukum adat\". Snouck Hurgronje pertama memakai istilah adatrecht; Ter Haar dikenal dengan teori keputusan (beslissingenleer).",
     "source": {
       "title": "Doktrin hukum adat",
@@ -96,12 +96,12 @@
     "account": "adat.nusantara",
     "question": "Menurut teori keputusan (beslissingenleer) Ter Haar, hukum adat adalah…",
     "options": [
-      "Seluruh kebiasaan masyarakat",
       "Keseluruhan peraturan yang menjelma dalam keputusan para fungsionaris hukum (kepala adat, hakim)",
       "Hukum agama yang diresepsi",
-      "Hukum tertulis daerah"
+      "Hukum tertulis daerah",
+      "Seluruh kebiasaan masyarakat"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Ter Haar menekankan peran keputusan fungsionaris hukum; kebiasaan baru menjadi hukum adat setelah ditegaskan dalam keputusan.",
     "source": {
       "title": "Doktrin hukum adat",

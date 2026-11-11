@@ -7,20 +7,20 @@
     "account": "tkp.bijak",
     "question": "Saat melayani antrean panjang, seorang lansia datang dan terlihat kesulitan berdiri lama. Anda…",
     "options": [
-      "Menyuruhnya ikut antre seperti yang lain",
       "Mendahulukannya sesuai prosedur prioritas kelompok rentan dan menjelaskannya kepada antrean",
-      "Melayaninya diam-diam tanpa penjelasan",
+      "Menyerahkan ke rekan agar tidak repot",
+      "Menyuruhnya ikut antre seperti yang lain",
       "Memintanya kembali besok",
-      "Menyerahkan ke rekan agar tidak repot"
+      "Melayaninya diam-diam tanpa penjelasan"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pelayanan publik memberi perlakuan khusus bagi kelompok rentan, dilakukan terbuka agar adil bagi pengguna lain.",
     "scores": [
-      2,
       5,
-      3,
+      2,
+      2,
       1,
-      2
+      3
     ],
     "source": {
       "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
@@ -39,19 +39,19 @@
     "question": "Warga datang marah-marah karena berkasnya belum selesai. Anda…",
     "options": [
       "Membalas dengan nada tinggi",
-      "Mendengarkan, memeriksa status berkas, menjelaskan kendala dan perkiraan waktu",
       "Menyuruhnya menunggu tanpa kepastian",
-      "Meminta satpam mengusirnya",
-      "Menyalahkan bagian lain"
+      "Menyalahkan bagian lain",
+      "Mendengarkan, memeriksa status berkas, menjelaskan kendala dan perkiraan waktu",
+      "Meminta satpam mengusirnya"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "Empati, transparansi, dan solusi nyata mendapat skor tertinggi.",
     "scores": [
       1,
-      5,
       2,
-      1,
-      3
+      3,
+      5,
+      1
     ],
     "source": {
       "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
@@ -69,17 +69,17 @@
     "account": "tkp.bijak",
     "question": "Anda dipindah ke unit baru yang belum Anda kenal. Langkah pertama…",
     "options": [
-      "Bekerja sendiri sampai paham",
       "Memperkenalkan diri, mempelajari tugas unit, dan membangun komunikasi dengan rekan",
+      "Bekerja sendiri sampai paham",
       "Menunggu diberi tugas",
       "Meminta dipindah lagi",
       "Hanya akrab dengan atasan"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Jejaring kerja: proaktif membangun relasi dan memahami peran.",
     "scores": [
-      3,
       5,
+      3,
       2,
       1,
       2
@@ -100,20 +100,20 @@
     "account": "tkp.bijak",
     "question": "Rekan satu tim berasal dari daerah dengan kebiasaan berbeda dan sering disalahpahami. Anda…",
     "options": [
+      "Melaporkan ke atasan agar dipindah",
       "Menghindarinya",
       "Ikut menertawakan",
-      "Mengajak berdialog untuk saling memahami dan menghargai perbedaan",
-      "Melaporkan ke atasan agar dipindah",
-      "Bersikap biasa tanpa peduli"
+      "Bersikap biasa tanpa peduli",
+      "Mengajak berdialog untuk saling memahami dan menghargai perbedaan"
     ],
-    "answerIndex": 2,
+    "answerIndex": 4,
     "explanation": "Aspek sosial budaya menilai kemampuan beradaptasi dan menghargai keberagaman.",
     "scores": [
       2,
-      1,
-      5,
       2,
-      3
+      1,
+      3,
+      5
     ],
     "source": {
       "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
@@ -131,18 +131,18 @@
     "account": "tkp.bijak",
     "question": "Kantor menerapkan aplikasi layanan digital baru yang belum Anda kuasai. Anda…",
     "options": [
-      "Tetap memakai cara manual",
       "Mempelajarinya lewat panduan/pelatihan dan membantu rekan yang kesulitan",
       "Menunggu ada yang mengajari",
+      "Tetap memakai cara manual",
       "Meminta rekan mengerjakan bagian digital",
       "Mengeluh ke atasan"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Aspek TIK: mau belajar teknologi dan memakainya untuk meningkatkan kinerja.",
     "scores": [
-      1,
       5,
       3,
+      1,
       2,
       1
     ],
@@ -162,20 +162,20 @@
     "account": "tkp.bijak",
     "question": "Rekan meminta Anda mengirim data pribadi warga lewat grup obrolan umum agar cepat. Anda…",
     "options": [
-      "Mengirim saja agar cepat",
-      "Menolak dan memakai saluran resmi yang aman",
       "Mengirim sebagian data",
       "Mengirim lalu menghapusnya",
-      "Meminta rekan mengambil sendiri"
+      "Meminta rekan mengambil sendiri",
+      "Mengirim saja agar cepat",
+      "Menolak dan memakai saluran resmi yang aman"
     ],
-    "answerIndex": 1,
+    "answerIndex": 4,
     "explanation": "Perlindungan data pribadi dan keamanan informasi lebih utama dari kecepatan.",
     "scores": [
+      2,
+      2,
+      3,
       1,
-      5,
-      2,
-      2,
-      3
+      5
     ],
     "source": {
       "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
@@ -193,19 +193,19 @@
     "account": "tkp.bijak",
     "question": "Tugas mendesak datang menjelang jam pulang dan harus selesai besok pagi. Anda…",
     "options": [
+      "Meminta tenggat diundur tanpa alasan",
       "Pulang dan mengerjakan besok pagi seadanya",
       "Menyusun prioritas dan menyelesaikannya tepat waktu dengan kualitas baik",
       "Menyerahkan ke rekan",
-      "Meminta tenggat diundur tanpa alasan",
       "Mengerjakan asal jadi"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "Profesionalisme: tanggung jawab, manajemen waktu, dan mutu hasil.",
     "scores": [
+      3,
       2,
       5,
       2,
-      3,
       1
     ],
     "source": {
@@ -225,10 +225,10 @@
     "question": "Di grup kantor beredar ajakan yang menolak Pancasila dan menghasut kebencian. Anda…",
     "options": [
       "Diam saja",
-      "Ikut menyebarkan",
+      "Membalas dengan hinaan",
       "Menegur dengan baik, tidak meneruskan, dan melaporkan sesuai saluran resmi",
-      "Keluar dari grup",
-      "Membalas dengan hinaan"
+      "Ikut menyebarkan",
+      "Keluar dari grup"
     ],
     "answerIndex": 2,
     "explanation": "Anti-radikalisme: menolak paham anti-Pancasila secara tegas tetapi santun dan sesuai prosedur.",
@@ -236,8 +236,8 @@
       2,
       1,
       5,
-      3,
-      1
+      1,
+      3
     ],
     "source": {
       "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",

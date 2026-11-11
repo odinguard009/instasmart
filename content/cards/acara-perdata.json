@@ -38,12 +38,12 @@
     "account": "hir.hari.ini",
     "question": "Siapa yang wajib membuktikan dalam perkara perdata menurut Pasal 163 HIR?",
     "options": [
-      "Selalu tergugat",
-      "Hakim",
       "Siapa yang mendalilkan punya hak atau membantah hak orang lain",
-      "Panitera"
+      "Panitera",
+      "Hakim",
+      "Selalu tergugat"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Barang siapa mengatakan mempunyai hak, atau menyebut suatu peristiwa untuk meneguhkan haknya atau membantah hak orang lain, harus membuktikan hak atau peristiwa itu. Ringkasnya: siapa mendalilkan, dia membuktikan.",
     "source": {
       "title": "HIR (Herzien Inlandsch Reglement)",
@@ -60,12 +60,12 @@
     "account": "hir.hari.ini",
     "question": "Penggugat menuntut Rp100 juta. Hakim mengabulkan Rp150 juta karena merasa itu lebih adil. Putusan ini melanggar larangan apa?",
     "options": [
-      "Ne bis in idem",
       "Ultra petita",
       "Obscuur libel",
-      "Verstek"
+      "Verstek",
+      "Ne bis in idem"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Pasal 178 ayat (3) HIR melarang hakim menjatuhkan putusan atas hal yang tidak dituntut atau mengabulkan lebih dari yang dituntut. Ayat (2) pasal yang sama mewajibkan hakim mengadili semua bagian tuntutan.",
     "source": {
       "title": "HIR (Herzien Inlandsch Reglement)",
@@ -82,12 +82,12 @@
     "account": "hir.hari.ini",
     "question": "Berapa lama tenggang waktu mengajukan permohonan kasasi perkara perdata?",
     "options": [
-      "7 hari",
       "14 hari",
+      "180 hari",
       "30 hari",
-      "180 hari"
+      "7 hari"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "Permohonan kasasi diajukan dalam 14 hari setelah putusan atau penetapan yang dimaksud diberitahukan kepada pemohon (Pasal 46). Memori kasasi wajib disampaikan dalam 14 hari setelah permohonan dicatat (Pasal 47).",
     "source": {
       "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana telah diubah)",
@@ -104,12 +104,12 @@
     "account": "hir.hari.ini",
     "question": "Tenggang waktu pengajuan peninjauan kembali (PK) perkara perdata adalah...",
     "options": [
-      "14 hari",
-      "90 hari",
       "180 hari",
-      "Tidak dibatasi"
+      "14 hari",
+      "Tidak dibatasi",
+      "90 hari"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "Pasal 69 UU Mahkamah Agung: 180 hari. Titik mulai menghitungnya berbeda-beda tergantung alasan PK, misalnya sejak ditemukan surat bukti baru (novum) atau sejak putusan berkekuatan hukum tetap.",
     "source": {
       "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana telah diubah)",
@@ -366,12 +366,12 @@
         "kind": "quiz",
         "question": "Memori kasasi wajib diserahkan dalam berapa hari setelah permohonan kasasi dicatat?",
         "options": [
-          "7 hari",
           "14 hari",
+          "60 hari",
           "30 hari",
-          "60 hari"
+          "7 hari"
         ],
-        "answerIndex": 1,
+        "answerIndex": 0,
         "explanation": "Pasal 47 ayat (1) UU Mahkamah Agung: memori kasasi wajib disampaikan dalam tenggang 14 hari setelah permohonan dicatat dalam buku daftar. Terlambat berarti permohonan tidak memenuhi syarat formal."
       }
     ],

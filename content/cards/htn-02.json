@@ -242,5 +242,549 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-grasi-rehabilitasi",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Presiden memberi grasi dan rehabilitasi dengan memperhatikan pertimbangan…",
+    "options": [
+      "Mahkamah Agung",
+      "Menteri Hukum",
+      "Mahkamah Konstitusi",
+      "DPR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 14 ayat (1) (Perubahan Pertama): pertimbangan Mahkamah Agung. Amnesti dan abolisi: pertimbangan DPR (ayat (2)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 14 ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-amnesti-abolisi",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Presiden memberi amnesti dan abolisi dengan memperhatikan pertimbangan…",
+    "options": [
+      "Mahkamah Konstitusi",
+      "DPR",
+      "Jaksa Agung",
+      "Mahkamah Agung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 14 ayat (2): pertimbangan Dewan Perwakilan Rakyat. Ingat pasangannya: grasi-rehabilitasi ke MA, amnesti-abolisi ke DPR.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 14 ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-angkat-duta",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Dalam hal mengangkat duta, Presiden memperhatikan pertimbangan…",
+    "options": [
+      "DPD",
+      "MPR",
+      "DPR",
+      "Menteri Luar Negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 13 ayat (2). Menerima penempatan duta negara lain juga dengan memperhatikan pertimbangan DPR (ayat (3)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 13",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-ruu-ditolak",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Suatu RUU tidak mendapat persetujuan bersama DPR dan Presiden. Menurut Pasal 20 ayat (3), RUU itu…",
+    "options": [
+      "Otomatis sah setelah 30 hari",
+      "Diputus MPR dalam sidang istimewa",
+      "Tak boleh diajukan lagi masa itu",
+      "Diuji dahulu oleh Mahkamah Konstitusi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tidak boleh diajukan lagi dalam persidangan DPR masa itu. Aturan 30 hari (Pasal 20 ayat (5)) berlaku untuk RUU yang SUDAH disetujui bersama tetapi tidak disahkan Presiden.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 20 ayat (3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-hak-dpr-20a",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Manakah yang disebut dalam Pasal 20A ayat (2) UUD 1945?",
+    "options": [
+      "Hak recall",
+      "Hak mengajukan pertanyaan",
+      "Hak angket",
+      "Hak imunitas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayat (2): hak interpelasi, hak angket, dan hak menyatakan pendapat. Hak mengajukan pertanyaan, menyampaikan usul dan pendapat, serta hak imunitas ada di ayat (3).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 20A ayat (2)-(3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-fungsi-dpr",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Fungsi DPR menurut Pasal 20A ayat (1) adalah…",
+    "options": [
+      "Anggaran, eksekutif, legislasi",
+      "Legislasi, yudikasi, pengawasan",
+      "Legislasi, anggaran, pengawasan",
+      "Pengawasan, konsultasi, anggaran"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fungsi legislasi, fungsi anggaran, dan fungsi pengawasan (Perubahan Kedua).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 20A ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-dpd-pertimbangan",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Untuk RUU apa DPD hanya memberikan pertimbangan kepada DPR (bukan ikut membahas)?",
+    "options": [
+      "APBN, pajak, pendidikan, agama",
+      "Perimbangan keuangan pusat-daerah",
+      "Pemekaran daerah",
+      "Otonomi daerah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 22D ayat (2): DPD ikut membahas RUU otonomi daerah, hubungan pusat-daerah, pembentukan/pemekaran/penggabungan daerah, SDA dan sumber daya ekonomi lain, serta perimbangan keuangan; dan memberi pertimbangan atas RUU APBN serta RUU yang berkaitan dengan pajak, pendidikan, dan agama.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22D ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-dpd-ajukan-ruu",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "DPD dapat mengajukan RUU tertentu (misalnya otonomi daerah) kepada…",
+    "options": [
+      "Mahkamah Konstitusi",
+      "DPR",
+      "Presiden",
+      "MPR"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 22D ayat (1): kepada Dewan Perwakilan Rakyat.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22D ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-apbn-ditolak",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "DPR tidak menyetujui RAPBN yang diusulkan Presiden. Menurut Pasal 23 ayat (3), Pemerintah…",
+    "options": [
+      "Pemerintah berhenti belanja",
+      "Presiden menetapkan Perppu APBN",
+      "MPR menetapkan APBN",
+      "Pakai APBN tahun yang lalu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pemerintah menjalankan APBN tahun yang lalu (Perubahan Ketiga).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 23 ayat (3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-hasil-bpk",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Hasil pemeriksaan keuangan negara oleh BPK diserahkan kepada…",
+    "options": [
+      "DPR, DPD, dan DPRD",
+      "Presiden dan menteri keuangan",
+      "KPK dan Kejaksaan Agung",
+      "Mahkamah Agung saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 23E ayat (2): kepada DPR, DPD, dan DPRD sesuai dengan kewenangannya; ditindaklanjuti lembaga perwakilan dan/atau badan sesuai undang-undang (ayat (3)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 23E",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-pilih-bpk",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Anggota BPK dipilih oleh…",
+    "options": [
+      "Presiden atas usul DPR",
+      "MPR dalam sidang tahunan",
+      "DPR dengan pertimbangan DPD",
+      "DPD dengan pertimbangan DPR"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 23F ayat (1): dipilih DPR dengan memperhatikan pertimbangan DPD dan diresmikan oleh Presiden. Pimpinan BPK dipilih dari dan oleh anggota (ayat (2)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 23F",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-angkat-ky",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Anggota Komisi Yudisial diangkat dan diberhentikan oleh…",
+    "options": [
+      "Presiden, persetujuan DPR",
+      "DPR atas usul Presiden",
+      "MPR atas usul DPD dan DPR",
+      "Ketua MA atas usul DPR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 24B ayat (3): oleh Presiden dengan persetujuan DPR.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24B ayat (3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-ketua-mk",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Ketua dan Wakil Ketua Mahkamah Konstitusi dipilih…",
+    "options": [
+      "Oleh DPR dari tiga calon",
+      "Oleh MPR dalam sidang",
+      "Oleh Presiden atas usul MA",
+      "Dari dan oleh hakim MK"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 24C ayat (4): dipilih dari dan oleh hakim konstitusi.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24C ayat (4)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-fungsi-pp",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Menurut Pasal 5 ayat (2), Presiden menetapkan peraturan pemerintah untuk…",
+    "options": [
+      "Menggantikan UU yang darurat",
+      "Menjalankan undang-undang",
+      "Mengatur hal di luar UU",
+      "Menafsirkan UUD secara resmi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Menjalankan undang-undang sebagaimana mestinya. Pengganti UU dalam kegentingan yang memaksa adalah Perppu (Pasal 22).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 5 ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-perjanjian-lain-dpr",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Selain perang, damai, dan perjanjian dengan negara lain (ayat (1)), perjanjian internasional lainnya butuh persetujuan DPR bila…",
+    "options": [
+      "Berlaku kurang dari lima tahun",
+      "Ditandatangani menteri luar negeri",
+      "Dibuat dengan negara tetangga",
+      "Berakibat luas dan mendasar"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 11 ayat (2): menimbulkan akibat yang luas dan mendasar bagi kehidupan rakyat yang terkait dengan beban keuangan negara, dan/atau mengharuskan perubahan atau pembentukan undang-undang.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 11 ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-kementerian-uu",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Pembentukan, pengubahan, dan pembubaran kementerian negara diatur dalam…",
+    "options": [
+      "Keputusan presiden",
+      "Peraturan presiden",
+      "Peraturan pemerintah",
+      "Undang-undang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 17 ayat (4) (Perubahan Ketiga). Menteri diangkat dan diberhentikan oleh Presiden (ayat (2)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 17",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-dewan-pertimbangan",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Pasal 16 UUD 1945: Presiden membentuk suatu dewan pertimbangan yang bertugas…",
+    "options": [
+      "Menguji perppu sebelum ke DPR",
+      "Memberi nasihat-pertimbangan",
+      "Mengawasi kinerja para menteri",
+      "Mengusulkan calon wapres"
+    ],
+    "answerIndex": 1,
+    "explanation": "Memberikan nasihat dan pertimbangan kepada Presiden; diatur lebih lanjut dengan undang-undang (Perubahan Keempat).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 16",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-keadaan-bahaya",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Presiden menyatakan keadaan bahaya. Syarat-syarat dan akibatnya ditetapkan dengan…",
+    "options": [
+      "Maklumat Panglima TNI",
+      "Undang-undang",
+      "Keputusan presiden",
+      "Peraturan pemerintah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 12 (rumusan asli, tidak diubah).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 12",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-hak-dpr-lengkap",
+    "type": "review",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "front": "Sebutkan hak-hak DPR yang disebut Pasal 20A ayat (2) dan ayat (3) UUD 1945.",
+    "back": "Ayat (2): hak interpelasi, hak angket, dan hak menyatakan pendapat. Ayat (3): hak mengajukan pertanyaan, menyampaikan usul dan pendapat, serta hak imunitas. Rinciannya diatur undang-undang (ayat (4)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 20A",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-pertimbangan-siapa",
+    "type": "fact",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "infographic",
+      "title": "Presiden minta pertimbangan siapa?",
+      "points": [
+        "Grasi & rehabilitasi: MA",
+        "Amnesti & abolisi: DPR",
+        "Angkat duta: DPR",
+        "Terima duta asing: DPR"
+      ]
+    },
+    "caption": "Pasal 13 dan 14 UUD 1945 (Perubahan Pertama). Bedakan 'pertimbangan' dengan 'persetujuan': perang, damai, dan perjanjian internasional tertentu butuh persetujuan DPR (Pasal 11).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 11, 13, 14",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-tiga-gigi-dpd",
+    "type": "carousel",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UUD 1945",
+          "title": "Seberapa kuat DPD?",
+          "subtitle": "Pasal 22D",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Ikut membahas RUU",
+          "points": [
+            "Otonomi daerah",
+            "Hubungan pusat-daerah",
+            "Pemekaran/penggabungan",
+            "SDA & perimbangan keuangan"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Hanya pertimbangan",
+          "points": [
+            "RUU APBN",
+            "RUU pajak",
+            "RUU pendidikan",
+            "RUU agama"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "DPD menemukan masalah pelaksanaan UU pajak. Hasil pengawasannya disampaikan kepada…",
+        "options": [
+          "Mahkamah Konstitusi",
+          "Presiden",
+          "DPR",
+          "BPK"
+        ],
+        "answerIndex": 2,
+        "explanation": "Kepada DPR sebagai bahan pertimbangan untuk ditindaklanjuti (Pasal 22D ayat (3))."
+      }
+    ],
+    "caption": "DPD dapat mengajukan, ikut membahas, memberi pertimbangan, dan mengawasi, tetapi untuk bidang yang berbeda-beda. Persetujuan bersama atas RUU tetap antara DPR dan Presiden (Pasal 20 ayat (2)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22D",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-humor-apbn-tahun-lalu",
+    "type": "humor",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "meme",
+      "top": "DPR menolak RAPBN, pemerintah tetap tenang",
+      "bottom": "Pakai yang tahun lalu",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Penolakan RAPBN tidak membuat negara berhenti. UUD sudah menyiapkan jalan keluarnya.",
+    "teaches": "Apabila DPR tidak menyetujui RAPBN yang diusulkan Presiden, Pemerintah menjalankan APBN tahun yang lalu (Pasal 23 ayat (3) UUD 1945).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 23 ayat (3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

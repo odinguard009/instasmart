@@ -625,5 +625,543 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-izin-21",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 6 ayat (2) UU Perkawinan, calon mempelai yang belum mencapai umur berapa harus mendapat izin kedua orang tua?",
+    "options": [
+      "17 tahun",
+      "21 tahun",
+      "18 tahun",
+      "19 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 6 ayat (2): belum mencapai umur 21 tahun harus mendapat izin kedua orang tua. Jangan tertukar dengan batas umur minimal kawin 19 tahun (Pasal 7 setelah UU 16/2019).",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 6 ayat (2)",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-persetujuan",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Pasal 6 ayat (1): perkawinan harus didasarkan atas…",
+    "options": [
+      "Persetujuan wali dari kedua pihak",
+      "Izin kepala desa atau lurah setempat",
+      "Persetujuan kedua calon mempelai",
+      "Penetapan pengadilan agama"
+    ],
+    "answerIndex": 2,
+    "explanation": "Perkawinan harus didasarkan atas persetujuan kedua calon mempelai.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 6 ayat (1)",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-larangan-semenda",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 8 huruf c, perkawinan dilarang antara dua orang yang berhubungan semenda, yaitu…",
+    "options": [
+      "Mertua, anak tiri, menantu, ibu/bapak tiri",
+      "Sepupu dari pihak ayah atau dari pihak ibu",
+      "Ipar setelah pasangan meninggal dunia",
+      "Saudara angkat tanpa hubungan darah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Huruf c: berhubungan semenda, yaitu mertua, anak tiri, menantu, dan ibu/bapak tiri. Pasal 8 juga melarang hubungan darah lurus dan menyamping tertentu, hubungan susuan, dan hubungan yang dilarang agama/peraturan lain.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 8 huruf c",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-larangan-susuan",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Manakah yang TERMASUK larangan perkawinan menurut Pasal 8 UU Perkawinan?",
+    "options": [
+      "Berbeda tingkat pendidikan",
+      "Berbeda daerah asal",
+      "Berbeda suku bangsa",
+      "Berhubungan susuan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Huruf d: berhubungan susuan, yaitu orang tua susuan, anak susuan, saudara susuan, dan bibi/paman susuan.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 8 huruf d",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-jangka-tunggu",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Pasal 11 UU Perkawinan menyerahkan pengaturan tenggang waktu tunggu bagi wanita yang putus perkawinannya kepada…",
+    "options": [
+      "Peraturan Pemerintah",
+      "Kompilasi Hukum Islam",
+      "Peraturan Mahkamah Agung",
+      "Keputusan Menteri Agama"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (2): diatur dalam Peraturan Pemerintah lebih lanjut, yaitu PP 9/1975 (lihat kartu masa tunggu).",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 11",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-pencegahan-ke-mana",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 17 ayat (1), pencegahan perkawinan diajukan kepada…",
+    "options": [
+      "Pengadilan di tempat tinggal pihak pencegah",
+      "Pengadilan di tempat perkawinan digelar",
+      "Kantor Urusan Agama domisili calon suami",
+      "Kepolisian di tempat calon istri tinggal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): kepada Pengadilan dalam daerah hukum tempat perkawinan akan dilangsungkan, dengan memberitahukan juga kepada pegawai pencatat perkawinan.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 17",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-dicegah-vs-batal",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Syarat perkawinan tidak terpenuhi. Sebelum dilangsungkan, perkawinan dapat … (Pasal 13); setelah dilangsungkan, dapat … (Pasal 22).",
+    "options": [
+      "Dibatalkan; dicegah",
+      "Ditunda; diceraikan",
+      "Ditolak; dicatat ulang",
+      "Dicegah; dibatalkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 13: perkawinan dapat dicegah bila ada pihak yang tidak memenuhi syarat. Pasal 22: perkawinan dapat dibatalkan bila para pihak tidak memenuhi syarat.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 13 dan 22",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-wali-tidak-sah",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Perkawinan dilangsungkan dengan wali nikah yang tidak sah. Menurut Pasal 26 ayat (1), yang dapat meminta pembatalannya antara lain…",
+    "options": [
+      "Keluarga lurus ke atas, jaksa, suami/istri",
+      "Hanya kepala Kantor Urusan Agama setempat",
+      "Siapa saja yang mengetahui hal itu",
+      "Hanya hakim pengadilan agama di wilayah itu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 26 ayat (1): para keluarga dalam garis keturunan lurus ke atas dari suami atau istri, jaksa, dan suami atau istri. Alasannya: pegawai pencatat tidak berwenang, wali nikah tidak sah, atau tanpa 2 orang saksi.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 26 ayat (1)",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-ancaman-6-bulan",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Perkawinan dilangsungkan di bawah ancaman. Ancaman sudah berhenti dan mereka tetap hidup sebagai suami istri tanpa memakai haknya. Menurut Pasal 27 ayat (3), hak membatalkan gugur setelah…",
+    "options": [
+      "3 bulan",
+      "1 tahun",
+      "2 tahun",
+      "6 bulan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (3): dalam jangka waktu 6 (enam) bulan setelah ancaman berhenti atau salah sangka disadari, bila tetap hidup sebagai suami istri dan tidak memakai hak pembatalan, haknya gugur.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 27 ayat (3)",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-batal-tidak-surut-anak",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 28 ayat (2), keputusan pembatalan perkawinan TIDAK berlaku surut terhadap…",
+    "options": [
+      "Seluruh harta bersama tanpa kecuali",
+      "Anak yang lahir dari perkawinan itu",
+      "Pegawai pencatat perkawinan",
+      "Pihak yang beriktikad buruk"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tidak berlaku surut terhadap: (a) anak-anak yang dilahirkan dari perkawinan itu; (b) suami/istri beriktikad baik (dengan pengecualian harta bersama dalam kasus perkawinan lain yang lebih dahulu); (c) pihak ketiga beriktikad baik.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 28",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-hak-seimbang",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Pasal 31 ayat (1): hak dan kedudukan istri dalam rumah tangga dan pergaulan masyarakat adalah … dengan hak dan kedudukan suami.",
+    "options": [
+      "Mengikuti",
+      "Seimbang",
+      "Di bawah",
+      "Ditentukan perjanjian"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): seimbang. Ayat (2): masing-masing pihak berhak melakukan perbuatan hukum.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 31",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-harta-bersama-bertindak",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 36 ayat (1), terhadap harta bersama suami atau istri dapat bertindak…",
+    "options": [
+      "Atas persetujuan kedua belah pihak",
+      "Sendiri-sendiri tanpa izin pasangan",
+      "Hanya suami sebagai kepala keluarga",
+      "Hanya dengan penetapan pengadilan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (1): atas persetujuan kedua belah pihak. Ayat (2): atas harta bawaan masing-masing, suami dan istri berhak sepenuhnya melakukan perbuatan hukum.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 36",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-harta-cerai",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Perkawinan putus karena perceraian. Pasal 37: harta bersama diatur menurut…",
+    "options": [
+      "Hukumnya masing-masing",
+      "Hukum adat tempat tinggal",
+      "KUH Perdata untuk semua",
+      "Kesepakatan dengan hakim"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 37: menurut hukumnya masing-masing. Penjelasannya menyebut antara lain hukum agama, hukum adat, dan hukum lainnya (cek penjelasan resmi).",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 37",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-putus-karena",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 38, perkawinan dapat putus karena kematian, perceraian, dan…",
+    "options": [
+      "Atas keputusan Pengadilan",
+      "Pernyataan di depan saksi",
+      "Kesepakatan kedua keluarga",
+      "Berpisah rumah dua tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 38: (a) kematian, (b) perceraian, (c) atas keputusan Pengadilan.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 38",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-biaya-anak",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 41 huruf b, bila bapak dalam kenyataan tidak dapat memenuhi biaya pemeliharaan dan pendidikan anak setelah perceraian, Pengadilan dapat…",
+    "options": [
+      "Menentukan ibu ikut memikul biaya",
+      "Mengalihkan seluruhnya ke negara",
+      "Membebankannya ke kakek dari ayah",
+      "Menghapus kewajiban biaya itu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bapak bertanggung jawab atas biaya pemeliharaan dan pendidikan anak; bila tidak mampu, Pengadilan dapat menentukan ibu ikut memikul biaya. Huruf c: Pengadilan dapat mewajibkan bekas suami memberi biaya penghidupan bagi bekas istri.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 41",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-kekuasaan-ortu-18",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 47 ayat (1), anak berada di bawah kekuasaan orang tuanya selama mereka tidak dicabut dari kekuasaannya, bila anak…",
+    "options": [
+      "Belum 21 tahun dan belum bekerja tetap",
+      "Belum 17 tahun atau belum punya KTP-el",
+      "Belum 19 tahun dan belum kawin",
+      "Belum 18 tahun atau belum pernah kawin"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 47 ayat (1): belum mencapai umur 18 tahun atau belum pernah melangsungkan perkawinan. Orang tua mewakili anak dalam segala perbuatan hukum di dalam dan di luar Pengadilan (ayat (2)).",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 47",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-barang-tetap-anak",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Pasal 48: orang tua tidak boleh memindahkan hak atau menggadaikan barang tetap milik anaknya yang belum 18 tahun/belum kawin, kecuali…",
+    "options": [
+      "Disetujui saudara kandung orang tua",
+      "Orang tua sedang terlilit utang",
+      "Barang itu warisan dari kakek",
+      "Kepentingan anak itu menghendakinya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 48: kecuali apabila kepentingan anak itu menghendakinya.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 48",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-dicabut-tetap-biaya",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Kekuasaan orang tua dicabut oleh Pengadilan karena sangat melalaikan kewajiban. Menurut Pasal 49 ayat (2), orang tua itu…",
+    "options": [
+      "Bebas dari semua kewajiban terhadap anaknya",
+      "Tetap wajib memberi biaya pemeliharaan anak",
+      "Kehilangan hak waris dari anak",
+      "Wajib menyerahkan anak ke panti sosial"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): pencabutan dengan keputusan Pengadilan bila sangat melalaikan kewajiban atau berkelakuan buruk sekali. Ayat (2): meskipun dicabut, tetap wajib memberi biaya pemeliharaan.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 49",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-tunjuk-wali",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 51 ayat (1), orang tua yang menjalankan kekuasaan orang tua dapat menunjuk wali sebelum meninggal dengan…",
+    "options": [
+      "Surat wasiat atau lisan di hadapan 2 saksi",
+      "Pengumuman di surat kabar daerah setempat",
+      "Akta notaris dan penetapan pengadilan negeri",
+      "Surat keterangan resmi dari kepala desa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (1): dengan surat wasiat atau dengan lisan di hadapan 2 (dua) orang saksi. Wali sedapat-dapatnya diambil dari keluarga anak (ayat (2)).",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 51",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-perkawinan-campuran",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 57 UU Perkawinan, \"perkawinan campuran\" adalah perkawinan antara dua orang yang di Indonesia tunduk pada hukum berlainan karena…",
+    "options": [
+      "Beda kewarganegaraan, salah satunya WNI",
+      "Perbedaan suku dan adat istiadat",
+      "Perbedaan agama atau kepercayaan",
+      "Perbedaan golongan penduduk era kolonial"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 57: karena perbedaan kewarganegaraan dan salah satu pihak berkewarganegaraan Indonesia. Bukan perkawinan beda agama.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 57",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-pencegah",
+    "type": "review",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "front": "Siapa yang dapat mencegah perkawinan (Pasal 14 ayat (1))?",
+    "back": "Para keluarga dalam garis keturunan lurus ke atas dan ke bawah, saudara, wali nikah, wali, pengampu salah seorang calon mempelai, dan pihak-pihak yang berkepentingan.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 14 ayat (1)",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-kewajiban-ortu",
+    "type": "review",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "front": "Sampai kapan kewajiban orang tua memelihara dan mendidik anak (Pasal 45)?",
+    "back": "Sampai anak itu kawin atau dapat berdiri sendiri, dan tetap berlaku meskipun perkawinan kedua orang tua putus (ayat (2)).",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 45",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-kawin-humor-campuran",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "meme",
+      "top": "Beda agama = perkawinan campuran?",
+      "bottom": "Pasal 57: campuran = beda kewarganegaraan",
+      "character": "owl",
+      "expression": "think"
+    },
+    "caption": "Istilah \"perkawinan campuran\" di UU Perkawinan sering disalahpahami.",
+    "teaches": "Perkawinan campuran menurut Pasal 57 UU 1/1974 adalah perkawinan karena perbedaan kewarganegaraan dengan salah satu pihak WNI.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 57",
+      "url": "https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_1_Tahun_1974"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

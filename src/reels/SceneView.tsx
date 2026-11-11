@@ -14,7 +14,7 @@ function backgroundStyle(background: Scene['background'], p: Palette): CSSProper
     case 'spotlight':
       return { background: `radial-gradient(circle at 50% 38%, ${p.bg} 0%, ${p.bgDeep} 72%)` };
     case 'stripes':
-      return { background: `repeating-linear-gradient(135deg, ${p.bg} 0 7%, ${p.bgDeep} 7% 14%)` };
+      return { background: `repeating-linear-gradient(135deg, ${p.bg} 0 7%, color-mix(in srgb, ${p.bg} 86%, black) 7% 14%)` };
   }
 }
 

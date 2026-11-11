@@ -56,6 +56,7 @@ function ReviewItem({ card, status, onReport }: { card: Card; status: EffectiveS
           </>
         )}
       </p>
+      {card.source.quote && <blockquote className="border-l-2 border-line pl-2 text-xs italic text-muted">“{card.source.quote}”</blockquote>}
       {card.needsVerification && <p className="text-xs font-semibold text-warn">Perlu perhatian: pembuat kartu ragu pada detail atau versi peraturannya.</p>}
       {status === 'reported' && note && <p className="text-xs text-bad">Catatan laporan: {note}</p>}
       <div className="flex flex-wrap gap-2 pt-1">
@@ -109,7 +110,7 @@ export function ReviewPage() {
         <p className="px-3 text-xs text-muted">Cocokkan isi kartu dengan sumber resminya. Tandai terverifikasi hanya setelah kamu sendiri memeriksanya.</p>
         <div className="no-scrollbar mt-2 flex gap-2 overflow-x-auto px-3" role="group" aria-label="Filter status">
           {FILTERS.map((key) => (
-            <button key={key} type="button" aria-pressed={filter === key} onClick={() => setFilter(key)} className={`h-9 shrink-0 rounded-full px-3.5 text-sm font-semibold ${filter === key ? 'bg-ink text-bg' : 'bg-raised'}`}>
+            <button key={key} type="button" aria-pressed={filter === key} onClick={() => setFilter(key)} className={`h-11 shrink-0 rounded-full px-3.5 text-sm font-semibold ${filter === key ? 'bg-ink text-bg' : 'bg-raised'}`}>
               {key === 'semua' ? 'Semua' : STATUS_LABELS[key]} · {counts[key]}
             </button>
           ))}

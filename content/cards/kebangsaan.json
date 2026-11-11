@@ -490,5 +490,21 @@
     "tags": [
       "kejutan"
     ]
+  },
+  {
+    "id": "kebangsaan-video-contoh-tujuan-negara",
+    "type": "video",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "src": "videos/contoh-empat-tujuan-negara.mp4",
+    "poster": "videos/contoh-empat-tujuan-negara.jpg",
+    "caption": "Contoh kartu video dari file MP4 lokal: empat tujuan negara di alinea keempat Pembukaan UUD 1945. File ini hasil render reel \"empat tujuan negara\" lewat scripts/render-reels.ts (animasi, tanpa audio). Ganti dengan video buatanmu sendiri kapan saja.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea keempat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

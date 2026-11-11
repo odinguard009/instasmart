@@ -44,6 +44,8 @@ export const sourceSchema = z.strictObject({
   /** Rujukan spesifik, mis. "Pasal 1320". Jika tidak yakin nomor pasal: tulis nama peraturannya saja. */
   reference: text(300).min(3),
   url: z.url().optional(),
+  /** Kutipan persis dari teks sumber yang mendasari kartu (wajib untuk kartu buatan generator). */
+  quote: text(800).optional(),
 });
 export type Source = z.infer<typeof sourceSchema>;
 

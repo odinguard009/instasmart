@@ -1,0 +1,340 @@
+[
+  {
+    "id": "pidana-teori-pemidanaan",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "infographic",
+      "title": "Teori pemidanaan",
+      "points": [
+        "Absolut (pembalasan): pidana karena orang berbuat jahat",
+        "Relatif (tujuan): mencegah, umum dan khusus",
+        "Gabungan: pembalasan + tujuan"
+      ]
+    },
+    "caption": "KUHP Nasional merumuskan tujuan pemidanaan secara eksplisit (pencegahan, pemasyarakatan, penyelesaian konflik, penumbuhan penyesalan) dan menyatakan pemidanaan tidak dimaksudkan merendahkan martabat manusia.",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin; Pasal 51-52 KUHP Nasional"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-pembenar-pemaaf",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Alasan yang menghapus sifat melawan hukum perbuatan (perbuatan menjadi patut) disebut…",
+    "options": [
+      "Alasan pembenar",
+      "Alasan peringan",
+      "Alasan penghapus penuntutan",
+      "Alasan pemaaf"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alasan pembenar menghapus sifat melawan hukum perbuatan (mis. pembelaan terpaksa, perintah jabatan yang sah). Alasan pemaaf menghapus kesalahan pelaku (mis. pembelaan terpaksa yang melampaui batas karena guncangan jiwa hebat).",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-noodweer-exces",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pembelaan terpaksa yang melampaui batas karena keguncangan jiwa yang hebat akibat serangan (noodweer exces) tergolong…",
+    "options": [
+      "Pemberat pidana",
+      "Alasan pemaaf",
+      "Delik aduan",
+      "Alasan pembenar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perbuatannya tetap melawan hukum, tetapi pelaku tidak dapat dicela. Dalam KUHP lama Pasal 49 ayat (2); dalam KUHP Nasional dirumuskan tersendiri (cek nomor pasalnya).",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin; Pasal 49 KUHP lama"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-dolus-culpa",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pengemudi mengantuk menabrak pejalan kaki tanpa menghendaki akibatnya. Bentuk kesalahannya…",
+    "options": [
+      "Kealpaan (culpa)",
+      "Kesengajaan sebagai maksud",
+      "Tidak ada kesalahan",
+      "Kesengajaan dengan kepastian"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kealpaan: kurang hati-hati, tidak menduga akibat yang seharusnya dapat diduga. Kesengajaan punya tiga corak: sebagai maksud, dengan kepastian/keharusan, dan dengan kemungkinan (dolus eventualis).",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-dolus-eventualis",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pelaku menyadari kemungkinan besar akibat terjadi tetapi tetap berbuat dan menerima risikonya. Corak kesalahan ini disebut…",
+    "options": [
+      "Error in persona",
+      "Dolus eventualis (kesengajaan dengan kemungkinan)",
+      "Dolus directus",
+      "Culpa lata"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dikenal juga sebagai teori \"inkauf nehmen\".",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-unsur-percobaan",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "infographic",
+      "title": "Unsur percobaan",
+      "points": [
+        "Niat",
+        "Permulaan pelaksanaan",
+        "Tidak selesai bukan karena kehendak sendiri"
+      ]
+    },
+    "caption": "Rumusan doktrin berdasarkan Pasal 53 KUHP lama; KUHP Nasional mengatur percobaan dengan rumusan baru (cek pasalnya). Bila pelaku mundur sukarela, percobaan tidak dipidana.",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Pasal 53 KUHP lama; doktrin"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-penyertaan",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "infographic",
+      "title": "Bentuk penyertaan",
+      "points": [
+        "Pleger: melakukan",
+        "Doen pleger: menyuruh melakukan (alat tidak dapat dipidana)",
+        "Medepleger: turut serta melakukan",
+        "Uitlokker: menganjurkan",
+        "Medeplichtige: membantu"
+      ]
+    },
+    "caption": "Istilah doktrin dari Pasal 55-56 KUHP lama. Pembantuan diancam pidana lebih ringan daripada pelaku.",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Pasal 55-56 KUHP lama; doktrin"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-doen-pleger",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "A memerintahkan B (orang dengan gangguan jiwa berat) membakar rumah. B tidak dapat dipertanggungjawabkan. A adalah…",
+    "options": [
+      "Medeplichtige",
+      "Doen pleger (yang menyuruh melakukan)",
+      "Uitlokker",
+      "Medepleger"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dalam menyuruh melakukan, orang yang disuruh hanya alat yang tidak dapat dipidana. Pada penganjuran, orang yang dianjurkan tetap dapat dipidana.",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-concursus-idealis",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Satu perbuatan yang melanggar beberapa ketentuan pidana sekaligus disebut…",
+    "options": [
+      "Recidive",
+      "Perbuatan berlanjut",
+      "Concursus realis",
+      "Concursus idealis (perbarengan peraturan)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Concursus idealis: satu perbuatan, beberapa aturan; dipakai sistem absorpsi (ancaman terberat). Concursus realis: beberapa perbuatan yang berdiri sendiri. Perbuatan berlanjut: beberapa perbuatan sejenis yang berhubungan.",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-formil-materiil",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Delik yang dianggap selesai dengan terjadinya akibat yang dilarang (mis. pembunuhan) disebut…",
+    "options": [
+      "Delik omisi",
+      "Delik materiil",
+      "Delik formil",
+      "Delik aduan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Delik materiil menitikberatkan akibat; delik formil menitikberatkan perbuatan (mis. pencurian selesai saat barang diambil).",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-delik-aduan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Delik yang hanya dapat dituntut bila ada pengaduan dari pihak yang berhak disebut…",
+    "options": [
+      "Delik aduan",
+      "Delik khusus",
+      "Delik formil",
+      "Delik biasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Delik aduan absolut (selalu perlu aduan) dan relatif (perlu aduan karena hubungan tertentu, mis. pencurian dalam keluarga). Pengaduan dapat ditarik dalam jangka waktu tertentu.",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-noodweer-meme",
+    "type": "humor",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "comic",
+      "title": "Bela diri",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Mpus: aku didorong, jadi kubalas pakai bazoka."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Pak Hoot: pembelaan harus seimbang dan perlu."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Mpus: proporsionalitas ya?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pak Hoot: dan subsidiaritas: tidak ada jalan lain."
+        }
+      ]
+    },
+    "caption": "Pembelaan terpaksa mensyaratkan serangan seketika yang melawan hukum dan pembelaan yang perlu serta seimbang.",
+    "teaches": "Syarat pembelaan terpaksa: ada serangan seketika yang melawan hukum, pembelaan perlu, dan seimbang (asas proporsionalitas dan subsidiaritas).",
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-story-kesalahan",
+    "type": "story",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "title": "Kesengajaan vs kealpaan",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Doktrin pidana",
+          "title": "Bentuk kesalahan",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Dolus",
+          "sub": "Kesengajaan: menghendaki dan mengetahui."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "3 corak dolus",
+          "sub": "Sebagai maksud, dengan kepastian, dengan kemungkinan."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Culpa",
+          "sub": "Kealpaan: kurang hati-hati, akibat dapat diduga."
+        }
+      }
+    ],
+    "source": {
+      "title": "Doktrin hukum pidana",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

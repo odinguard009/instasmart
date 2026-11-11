@@ -1,0 +1,257 @@
+[
+  {
+    "id": "han-ptun-praesumptio",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Asas bahwa KTUN harus dianggap sah sampai ada pembatalan disebut…",
+    "options": [
+      "Praesumptio iustae causa",
+      "Ultra vires",
+      "Erga omnes",
+      "Contrarius actus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Karena itu gugatan tidak menunda pelaksanaan KTUN (Pasal 67 UU PTUN), kecuali ada penundaan oleh pengadilan.",
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana diubah UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 67"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-contrarius-actus",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pejabat yang menerbitkan suatu keputusan berwenang pula mencabutnya. Asas ini disebut…",
+    "options": [
+      "Lex posterior",
+      "Contrarius actus",
+      "Detournement de pouvoir",
+      "Nemo judex"
+    ],
+    "answerIndex": 1,
+    "explanation": "Asas contrarius actus dalam hukum administrasi.",
+    "source": {
+      "title": "Doktrin hukum administrasi negara",
+      "reference": "Doktrin"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-diskresi-syarat",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Salah satu syarat penggunaan diskresi menurut UU Administrasi Pemerintahan adalah…",
+    "options": [
+      "Disetujui DPR",
+      "Sesuai tujuan diskresi, tidak bertentangan dengan peraturan, sesuai AUPB, alasan objektif, tidak konflik kepentingan, beritikad baik",
+      "Hanya untuk keadaan perang",
+      "Bertentangan dengan peraturan bila mendesak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 24 UU 30/2014. Rumusan \"tidak bertentangan dengan peraturan\" diubah UU Cipta Kerja; cek rumusan yang berlaku.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 22-24"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-detournement",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pejabat menggunakan wewenang untuk tujuan lain dari tujuan pemberian wewenang itu. Ini disebut…",
+    "options": [
+      "Onbevoegdheid",
+      "Willekeur",
+      "Contrarius actus",
+      "Detournement de pouvoir"
+    ],
+    "answerIndex": 3,
+    "explanation": "Detournement de pouvoir (penyalahgunaan wewenang dalam arti mencampuradukkan tujuan). Willekeur = sewenang-wenang. UU 30/2014 Pasal 17-18 membagi penyalahgunaan wewenang menjadi melampaui wewenang, mencampuradukkan wewenang, dan bertindak sewenang-wenang.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 17-18"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-oood-ptun",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Setelah UU Administrasi Pemerintahan dan PERMA 2/2019, gugatan perbuatan melanggar hukum oleh badan/pejabat pemerintahan (onrechtmatige overheidsdaad) diadili oleh…",
+    "options": [
+      "Pengadilan Tata Usaha Negara",
+      "Mahkamah Konstitusi",
+      "Pengadilan Niaga",
+      "Pengadilan Negeri"
+    ],
+    "answerIndex": 0,
+    "explanation": "PERMA No. 2 Tahun 2019 menegaskan sengketa tindakan pemerintahan dan perbuatan melanggar hukum oleh pemerintah menjadi kewenangan PTUN.",
+    "source": {
+      "title": "PERMA No. 2 Tahun 2019 tentang Pedoman Penyelesaian Sengketa Tindakan Pemerintahan dan Kewenangan Mengadili Perbuatan Melanggar Hukum oleh Badan dan/atau Pejabat Pemerintahan",
+      "reference": "PERMA 2/2019"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-eksekusi-ptun",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Bila pejabat tidak melaksanakan putusan PTUN yang berkekuatan hukum tetap, salah satu upaya yang dikenal UU PTUN adalah…",
+    "options": [
+      "Uang paksa (dwangsom) dan/atau sanksi administratif",
+      "Penahanan pejabat oleh hakim",
+      "Pembubaran instansi",
+      "Penyitaan kantor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 116 UU PTUN (setelah perubahan 2009) mengenal upaya paksa berupa uang paksa dan/atau sanksi administratif, serta pengumuman di media massa.",
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana diubah UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 116"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-hakim-aktif",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Berbeda dengan hakim perdata, hakim PTUN dikenal…",
+    "options": [
+      "Terikat pengakuan para pihak",
+      "Pasif sepenuhnya",
+      "Aktif (dominus litis), mis. dalam pemeriksaan persiapan",
+      "Tidak boleh memeriksa bukti"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hakim PTUN aktif mencari kebenaran materiil karena menyangkut kepentingan umum; tampak dalam pemeriksaan persiapan (Pasal 63) dan pembuktian bebas (Pasal 107).",
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana diubah UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 63, 107"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-tiga-sumber-wewenang",
+    "type": "fact",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "visual": {
+      "template": "infographic",
+      "title": "Akibat hukum sumber wewenang",
+      "points": [
+        "Atribusi: wewenang baru dari UU; tanggung jawab penerima",
+        "Delegasi: wewenang berpindah; tanggung jawab penerima delegasi",
+        "Mandat: atas nama pemberi; tanggung jawab tetap pemberi mandat"
+      ]
+    },
+    "caption": "Ringkasan Pasal 12-14 UU 30/2014.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana diubah UU 6/2023)",
+      "reference": "Pasal 12-14"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-ktun-sah-dulu",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "visual": {
+      "template": "meme",
+      "top": "\"Saya sudah gugat ke PTUN, jadi izin pesaing otomatis berhenti, kan?\"",
+      "bottom": "Tidak. Gugatan tidak menunda KTUN (Pasal 67), kecuali hakim menunda.",
+      "character": "gecko",
+      "expression": "think"
+    },
+    "caption": "KTUN dianggap sah sampai dibatalkan.",
+    "teaches": "Gugatan tidak menunda pelaksanaan KTUN kecuali ada penetapan penundaan (Pasal 67 UU PTUN).",
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana diubah UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 67"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-story-ptun",
+    "type": "story",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "title": "Alur PTUN",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Alur",
+          "title": "Sengketa TUN",
+          "character": "gecko",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Upaya administratif",
+          "sub": "Keberatan dan banding administratif bila tersedia."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Gugatan 90 hari",
+          "sub": "Pasal 55 UU PTUN."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Dismissal & persiapan",
+          "sub": "Penyaringan oleh ketua dan pemeriksaan persiapan."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "text": "Banding & kasasi",
+          "sub": "PTTUN lalu Mahkamah Agung."
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana diubah UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 55, 62, 63"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

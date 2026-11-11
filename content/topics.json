@@ -169,6 +169,10 @@
       {
         "id": "sengketa-pemilu",
         "name": "Pelanggaran & Sengketa"
+      },
+      {
+        "id": "konstitusi-pemilu",
+        "name": "Pemilu dalam UUD 1945"
       }
     ]
   },

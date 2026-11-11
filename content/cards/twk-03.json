@@ -1102,5 +1102,99 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-tni-terdiri-atas",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 30 ayat (3), Tentara Nasional Indonesia terdiri atas…",
+    "options": [
+      "AD dan AL saja",
+      "AD, AL, AU, dan Marinir",
+      "AD, AL, dan AU",
+      "AD, AL, AU, dan Polri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Angkatan Darat, Angkatan Laut, dan Angkatan Udara sebagai alat negara (Perubahan Kedua). Polri diatur tersendiri di ayat (4).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 30 ayat (3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-tugas-polri",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Pasal 30 ayat (4): Polri sebagai alat negara yang menjaga keamanan dan ketertiban masyarakat bertugas…",
+    "options": [
+      "Mengadili pelanggaran ketertiban umum",
+      "Membina pertahanan rakyat semesta",
+      "Mempertahankan, melindungi, memelihara keutuhan negara",
+      "Melindungi, mengayomi, melayani, menegakkan hukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Melindungi, mengayomi, melayani masyarakat, serta menegakkan hukum. Tugas mempertahankan, melindungi, dan memelihara keutuhan dan kedaulatan negara adalah rumusan untuk TNI (ayat (3)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 30 ayat (4)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-hubungan-tni-polri",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 30 ayat (5), hubungan kewenangan TNI dan Polri dalam menjalankan tugasnya diatur dengan…",
+    "options": [
+      "Peraturan presiden",
+      "Peraturan Kapolri",
+      "Undang-undang",
+      "Keputusan Panglima TNI"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayat (5) menyerahkan kepada undang-undang: susunan dan kedudukan TNI dan Polri, hubungan kewenangan keduanya, serta syarat keikutsertaan warga negara dalam usaha pertahanan dan keamanan.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 30 ayat (5)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-tni-vs-polri",
+    "type": "fact",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "visual": {
+      "template": "infographic",
+      "title": "TNI vs Polri (Pasal 30)",
+      "points": [
+        "TNI: AD, AL, dan AU",
+        "TNI: jaga keutuhan & kedaulatan",
+        "Polri: jaga kamtibmas",
+        "Polri: ayomi, layani, tegakkan hukum"
+      ]
+    },
+    "caption": "Ayat (3) untuk TNI, ayat (4) untuk Polri. Keduanya kekuatan utama dalam sistem pertahanan dan keamanan rakyat semesta (ayat (2)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 30 ayat (2)-(4)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

@@ -787,5 +787,368 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-pemegang-kekuasaan-pemerintahan",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Pasal 4 ayat (1): Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut…",
+    "options": [
+      "Undang-undang",
+      "Ketetapan MPR terakhir",
+      "Undang-Undang Dasar",
+      "Kehendak partai pengusung"
+    ],
+    "answerIndex": 2,
+    "explanation": "Menurut Undang-Undang Dasar (rumusan asli, tidak diubah). Ayat (2): dalam melakukan kewajibannya Presiden dibantu oleh satu orang Wakil Presiden.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 4",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-kuasa-tertinggi-angkatan",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Menurut Pasal 10, kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara dipegang oleh…",
+    "options": [
+      "Menteri Pertahanan",
+      "Dewan Perwakilan Rakyat",
+      "Panglima TNI",
+      "Presiden"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 10 (rumusan asli): Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut dan Angkatan Udara.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 10",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-tanda-kehormatan",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Presiden memberi gelar, tanda jasa, dan lain-lain tanda kehormatan yang diatur dengan…",
+    "options": [
+      "Peraturan presiden",
+      "Peraturan pemerintah",
+      "Ketetapan MPR",
+      "Undang-undang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 15 (Perubahan Pertama): diatur dengan undang-undang.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 15",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-berhentikan-anggota-dpr",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Syarat-syarat dan tata cara pemberhentian anggota DPR dari jabatannya menurut Pasal 22B diatur dalam…",
+    "options": [
+      "Tata tertib DPR saja",
+      "Undang-undang",
+      "Peraturan KPU",
+      "Keputusan partai politik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 22B (Perubahan Kedua): anggota DPR dapat diberhentikan dari jabatannya, yang syarat-syarat dan tata caranya diatur dalam undang-undang.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 22B",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-bank-sentral",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Pasal 23D: negara memiliki suatu bank sentral yang susunan, kedudukan, kewenangan, tanggung jawab, dan independensinya diatur dengan…",
+    "options": [
+      "Undang-undang",
+      "Keputusan menteri keuangan",
+      "Peraturan pemerintah",
+      "Peraturan presiden"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diatur dengan undang-undang (Perubahan Keempat). Pasal 23D sendiri tidak menyebut nama bank sentralnya.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 23D",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-mata-uang",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Macam dan harga mata uang menurut Pasal 23B ditetapkan dengan…",
+    "options": [
+      "Keputusan menteri keuangan",
+      "Undang-undang",
+      "Peraturan bank sentral",
+      "Peraturan presiden"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 23B (Perubahan Keempat): ditetapkan dengan undang-undang.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 23B",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-syarat-hakim-agung",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "question": "Manakah yang TIDAK disebut sebagai syarat hakim agung dalam Pasal 24A ayat (2)?",
+    "options": [
+      "Adil dan profesional",
+      "Berpengalaman di bidang hukum",
+      "Integritas dan kepribadian tak tercela",
+      "Bergelar doktor ilmu hukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (2): integritas dan kepribadian yang tidak tercela, adil, profesional, dan berpengalaman di bidang hukum. Syarat lain diserahkan kepada undang-undang (Pasal 24A ayat (5) dan Pasal 25).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24A ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-ketua-ma",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "question": "Ketua dan wakil ketua Mahkamah Agung dipilih…",
+    "options": [
+      "Oleh DPR atas usul KY",
+      "Oleh Presiden dari tiga calon",
+      "Dari dan oleh hakim agung",
+      "Oleh Komisi Yudisial"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 24A ayat (4) (Perubahan Ketiga). Polanya sama dengan Ketua dan Wakil Ketua MK yang dipilih dari dan oleh hakim konstitusi (Pasal 24C ayat (4)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24A ayat (4)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-badan-lain-kehakiman",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "question": "Pasal 24 ayat (3): badan-badan lain yang fungsinya berkaitan dengan kekuasaan kehakiman diatur dalam…",
+    "options": [
+      "Undang-undang",
+      "Peraturan Mahkamah Agung",
+      "Keputusan presiden",
+      "Ketetapan MPR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Diatur dalam undang-undang (ayat (3) ditambahkan pada Perubahan Keempat).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24 ayat (3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-mk-sebelum-dibentuk",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "question": "Menurut Aturan Peralihan Pasal III, sebelum Mahkamah Konstitusi dibentuk, segala kewenangannya dilakukan oleh…",
+    "options": [
+      "Mahkamah Agung",
+      "Presiden",
+      "Majelis Permusyawaratan Rakyat",
+      "Dewan Perwakilan Rakyat"
+    ],
+    "answerIndex": 0,
+    "explanation": "MK dibentuk selambat-lambatnya pada 17 Agustus 2003; sebelum itu kewenangannya dilakukan oleh Mahkamah Agung (Perubahan Keempat).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Aturan Peralihan Pasal III",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-peraturan-lama",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Menurut Aturan Peralihan Pasal I, peraturan perundang-undangan yang ada…",
+    "options": [
+      "Harus diuji dulu oleh Mahkamah Konstitusi",
+      "Tetap berlaku sampai ada yang baru",
+      "Berlaku jika dikukuhkan MPR",
+      "Otomatis tidak berlaku lagi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Masih tetap berlaku selama belum diadakan yang baru menurut UUD. Aturan Peralihan Pasal II memuat prinsip serupa untuk lembaga negara.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Aturan Peralihan Pasal I-II",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-susunan-uud",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Menurut Aturan Tambahan Pasal II, setelah perubahan, UUD NRI Tahun 1945 terdiri atas…",
+    "options": [
+      "Pembukaan dan pasal-pasal",
+      "Pembukaan, pasal-pasal, dan penjelasan",
+      "Pembukaan, batang tubuh, dan penjelasan",
+      "Pasal-pasal dan penjelasan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pembukaan dan pasal-pasal. Penjelasan tidak lagi disebut sebagai bagian UUD.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Aturan Tambahan Pasal II",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-tinjau-tap",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Aturan Tambahan Pasal I menugasi MPR meninjau materi dan status hukum Ketetapan MPRS dan Ketetapan MPR untuk diputus pada sidang MPR tahun…",
+    "options": [
+      "2004",
+      "1999",
+      "2002",
+      "2003"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tahun 2003 (Perubahan Keempat).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Aturan Tambahan Pasal I",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-diatur-dengan-uu",
+    "type": "review",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "front": "Pasal 15, 22A, 22B, 23B, 23C, dan 23D UUD 1945 sama-sama menyerahkan pengaturan lebih lanjut kepada undang-undang. Apa saja yang diatur?",
+    "back": "Pasal 15: gelar, tanda jasa, dan tanda kehormatan lain. Pasal 22A: tata cara pembentukan undang-undang. Pasal 22B: syarat dan tata cara pemberhentian anggota DPR. Pasal 23B: macam dan harga mata uang. Pasal 23C: hal-hal lain mengenai keuangan negara. Pasal 23D: susunan, kedudukan, kewenangan, tanggung jawab, dan independensi bank sentral.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 15, 22A, 22B, 23B, 23C, 23D",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-ma-di-uud",
+    "type": "fact",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "infographic",
+      "title": "Mahkamah Agung di UUD",
+      "points": [
+        "Hakim agung: diusulkan KY",
+        "Disetujui DPR, ditetapkan Presiden",
+        "Ketua MA: dari dan oleh hakim agung",
+        "Susunan & hukum acara: UU"
+      ]
+    },
+    "caption": "Ringkasan Pasal 24A ayat (3) sampai (5). Syarat menjadi dan diberhentikan sebagai hakim ditetapkan dengan undang-undang (Pasal 25).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 24A ayat (3)-(5), Pasal 25",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-humor-mk-belum-ada",
+    "type": "humor",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "meme",
+      "top": "MK belum dibentuk, perkaranya ke mana?",
+      "bottom": "Ke Mahkamah Agung dulu",
+      "character": "owl",
+      "expression": "think"
+    },
+    "caption": "Masa transisi: sebelum MK berdiri (paling lambat 17 Agustus 2003), kewenangannya dijalankan MA.",
+    "teaches": "Aturan Peralihan Pasal III: Mahkamah Konstitusi dibentuk selambat-lambatnya pada 17 Agustus 2003 dan sebelum dibentuk segala kewenangannya dilakukan oleh Mahkamah Agung.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Aturan Peralihan Pasal III",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

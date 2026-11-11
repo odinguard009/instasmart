@@ -460,5 +460,605 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tiu-sinonim-absolut",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata ABSOLUT adalah…",
+    "options": [
+      "Bersyarat",
+      "Sementara",
+      "Mutlak",
+      "Relatif"
+    ],
+    "answerIndex": 2,
+    "explanation": "KBBI: absolut berarti tidak terbatas; mutlak.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/absolut"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-afiliasi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata AFILIASI adalah…",
+    "options": [
+      "Pertalian",
+      "Pengakuan",
+      "Pemisahan",
+      "Persaingan"
+    ],
+    "answerIndex": 0,
+    "explanation": "KBBI: afiliasi berarti pertalian sebagai anggota atau cabang; perhubungan.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/afiliasi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-ambigu",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata AMBIGU adalah…",
+    "options": [
+      "Tegas",
+      "Tunggal",
+      "Lugas",
+      "Taksa"
+    ],
+    "answerIndex": 3,
+    "explanation": "KBBI: ambigu berarti bermakna lebih dari satu; bermakna ganda; taksa.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/ambigu"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-anomali",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata ANOMALI adalah…",
+    "options": [
+      "Kebiasaan",
+      "Kelainan",
+      "Kesamaan",
+      "Keteraturan"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: anomali berarti ketidaknormalan; penyimpangan dari normal; kelainan.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/anomali"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-eskalasi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata ESKALASI adalah…",
+    "options": [
+      "Pembekuan",
+      "Kenaikan",
+      "Penurunan",
+      "Penundaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: eskalasi berarti kenaikan; pertambahan (volume, jumlah, dan sebagainya).",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/eskalasi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-fiktif",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata FIKTIF adalah…",
+    "options": [
+      "Khayalan",
+      "Faktual",
+      "Terbukti",
+      "Nyata"
+    ],
+    "answerIndex": 0,
+    "explanation": "KBBI: fiktif berarti bersifat fiksi; hanya terdapat dalam khayalan.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/fiktif"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-friksi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata FRIKSI adalah…",
+    "options": [
+      "Persatuan",
+      "Perpecahan",
+      "Perdamaian",
+      "Persetujuan"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: friksi berarti pergeseran yang menimbulkan perbedaan pendapat; perpecahan.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/friksi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-insinuasi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata INSINUASI adalah…",
+    "options": [
+      "Sindiran",
+      "Pujian",
+      "Pengakuan",
+      "Penjelasan"
+    ],
+    "answerIndex": 0,
+    "explanation": "KBBI: insinuasi berarti tuduhan tersembunyi, tidak terang-terangan, atau tidak langsung; sindiran.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/insinuasi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-kredibel",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata KREDIBEL adalah…",
+    "options": [
+      "Mudah ditiru",
+      "Dapat dipercaya",
+      "Sulit dimengerti",
+      "Banyak dikenal"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: kredibel berarti dapat dipercaya.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/kredibel"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-konsensus",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata KONSENSUS adalah…",
+    "options": [
+      "Pemungutan",
+      "Pertentangan",
+      "Perselisihan",
+      "Permufakatan"
+    ],
+    "answerIndex": 3,
+    "explanation": "KBBI: konsensus berarti kesepakatan kata atau permufakatan bersama yang dicapai melalui kebulatan suara.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/konsensus"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-nuansa",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata NUANSA adalah…",
+    "options": [
+      "Kesamaan mutlak",
+      "Perbedaan tajam",
+      "Perbedaan halus",
+      "Warna mencolok"
+    ],
+    "answerIndex": 2,
+    "explanation": "KBBI: nuansa berarti variasi atau perbedaan yang sangat halus atau kecil sekali.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/nuansa"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-otonom",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata OTONOM adalah…",
+    "options": [
+      "Bersifat sementara",
+      "Bergantung penuh",
+      "Dikuasai pusat",
+      "Berdiri sendiri"
+    ],
+    "answerIndex": 3,
+    "explanation": "KBBI: otonom berarti berdiri sendiri; dengan pemerintahan sendiri.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/otonom"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-pandir",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata PANDIR adalah…",
+    "options": [
+      "Pandai",
+      "Cerdik",
+      "Bijak",
+      "Bebal"
+    ],
+    "answerIndex": 3,
+    "explanation": "KBBI: pandir berarti bodoh; bebal.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/pandir"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-prominen",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata PROMINEN adalah…",
+    "options": [
+      "Terpencil",
+      "Terlupakan",
+      "Terkemuka",
+      "Tersembunyi"
+    ],
+    "answerIndex": 2,
+    "explanation": "KBBI: prominen berarti terkemuka (tentang orang); menonjol.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/prominen"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-sahih",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata SAHIH adalah…",
+    "options": [
+      "Palsu",
+      "Cacat",
+      "Ragu",
+      "Sah"
+    ],
+    "answerIndex": 3,
+    "explanation": "KBBI: sahih berarti sah; benar; sempurna; tiada cela (dusta, palsu).",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/sahih"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-stagnan",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata STAGNAN adalah…",
+    "options": [
+      "Berkembang",
+      "Terhenti",
+      "Meningkat",
+      "Melaju"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: stagnan berarti dalam keadaan terhenti.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/stagnan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-tendensi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata TENDENSI adalah…",
+    "options": [
+      "Kepastian",
+      "Ketidakpedulian",
+      "Kecenderungan",
+      "Keseimbangan"
+    ],
+    "answerIndex": 2,
+    "explanation": "KBBI: tendensi berarti kecenderungan; kecondongan (pada suatu hal).",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/tendensi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-sinonim-wahana",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Sinonim kata WAHANA adalah…",
+    "options": [
+      "Hasil",
+      "Sarana",
+      "Tujuan",
+      "Hambatan"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: wahana berarti kendaraan; alat pengangkut; alat atau sarana untuk mencapai suatu tujuan.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Sinonim",
+      "url": "https://kbbi.web.id/wahana"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-antonim-eksplisit",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata EKSPLISIT adalah…",
+    "options": [
+      "Gamblang",
+      "Implisit",
+      "Tersurat",
+      "Tegas"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: eksplisit berarti gamblang, tegas, terus terang; tersurat; implisit berarti tersirat; terkandung di dalamnya meskipun tidak dinyatakan secara jelas.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Antonim",
+      "url": "https://kbbi.web.id/eksplisit"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-antonim-heterogen",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata HETEROGEN adalah…",
+    "options": [
+      "Campuran",
+      "Homogen",
+      "Beragam",
+      "Majemuk"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: heterogen berarti terdiri atas berbagai unsur yang berbeda sifat atau berlainan jenis; beraneka ragam; homogen berarti terdiri atas jenis, macam, sifat, watak yang sama.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Antonim",
+      "url": "https://kbbi.web.id/heterogen"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-antonim-progresif",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata PROGRESIF adalah…",
+    "options": [
+      "Maju",
+      "Regresif",
+      "Berkembang",
+      "Bertingkat"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: progresif berarti ke arah kemajuan; regresif berarti bersifat mundur; berurutan mundur.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Antonim",
+      "url": "https://kbbi.web.id/progresif"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-antonim-konvergen",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata KONVERGEN adalah…",
+    "options": [
+      "Memusat",
+      "Bertemu",
+      "Mengumpul",
+      "Divergen"
+    ],
+    "answerIndex": 3,
+    "explanation": "KBBI: konvergen berarti bersifat menuju satu titik pertemuan; memusat; divergen berarti dalam keadaan menjadi bercabang-cabang; menyebar.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Antonim",
+      "url": "https://kbbi.web.id/konvergen"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-antonim-ofensif",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata OFENSIF adalah…",
+    "options": [
+      "Frontal",
+      "Defensif",
+      "Agresif",
+      "Menyerang"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: ofensif berarti serangan; defensif berarti bersikap bertahan.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Antonim",
+      "url": "https://kbbi.web.id/ofensif"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-antonim-sentralisasi",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata SENTRALISASI adalah…",
+    "options": [
+      "Pemusatan kekuasaan",
+      "Desentralisasi",
+      "Pemusatan",
+      "Penyatuan"
+    ],
+    "answerIndex": 1,
+    "explanation": "KBBI: sentralisasi berarti penyatuan segala sesuatu ke suatu tempat yang dianggap sebagai pusat; pemusatan; desentralisasi berarti sistem pemerintahan yang lebih banyak memberikan kekuasaan kepada pemerintah daerah; penyerahan sebagian wewenang pusat kepada cabang.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Antonim",
+      "url": "https://kbbi.web.id/sentralisasi"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
+  },
+  {
+    "id": "tiu-antonim-permanen",
+    "type": "quiz",
+    "topicId": "tiu",
+    "subTopicId": "verbal",
+    "account": "tiu.ngebut",
+    "question": "Antonim kata PERMANEN adalah…",
+    "options": [
+      "Tetap",
+      "Abadi",
+      "Langgeng",
+      "Temporer"
+    ],
+    "answerIndex": 3,
+    "explanation": "KBBI: permanen berarti tetap (tidak untuk sementara waktu); temporer berarti untuk sementara waktu; sementara; darurat.",
+    "source": {
+      "title": "Kamus Besar Bahasa Indonesia (salinan daring kbbi.web.id)",
+      "reference": "Antonim",
+      "url": "https://kbbi.web.id/permanen"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   }
 ]

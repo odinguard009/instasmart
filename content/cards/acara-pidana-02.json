@@ -901,5 +901,342 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-tiga-jenis-putusan",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Tiga jenis putusan pidana",
+      "points": [
+        "Bebas (vrijspraak): perbuatan yang didakwakan tidak terbukti sah dan meyakinkan",
+        "Lepas (ontslag): perbuatan terbukti, tetapi bukan tindak pidana",
+        "Pemidanaan: terbukti, tindak pidana, dan dapat dipertanggungjawabkan"
+      ]
+    },
+    "caption": "Pembedaan ini kunci untuk menentukan upaya hukum. Contoh putusan lepas: perbuatan terbukti tetapi ada alasan pembenar atau pemaaf.",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "bebas = tidak terbukti, lepas = terbukti tapi bukan pidana"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "jangan tertukar, soal ujian suka menjebak di sini"
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Jenis putusan pidana (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-bebas-atau-lepas",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Perbuatan terdakwa terbukti, tetapi hakim menilai ada alasan pembenar sehingga perbuatan itu bukan tindak pidana. Jenis putusannya…",
+    "options": [
+      "Putusan lepas (ontslag)",
+      "Putusan bebas (vrijspraak)",
+      "Putusan pemidanaan bersyarat",
+      "Putusan tidak dapat diterima (NO)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Putusan lepas (ontslag van rechtsvervolging): perbuatan terbukti, tetapi bukan tindak pidana (misalnya karena alasan pembenar atau pemaaf). Putusan bebas dijatuhkan bila perbuatan yang didakwakan tidak terbukti secara sah dan meyakinkan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Jenis putusan pidana (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-kasasi-putusan-bebas-baru",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel Hakim Agung Achmad Setyo Pudjoharsoyo (MARINews, April 2026), ketentuan KUHAP baru mana yang menutup kasasi atas putusan bebas?",
+    "options": [
+      "Pasal 168 tentang kewenangan PT",
+      "Pasal 169 tentang kewenangan MA",
+      "Pasal 285 ayat (1) tentang banding",
+      "Pasal 299 ayat (2) huruf a"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penulis: Pasal 169 memberi MA wewenang atas \"semua perkara\" kasasi, \"Namun Pasal 299 ayat (2) huruf a secara tegas menutup kasasi atas putusan bebas.\" Nomor pasal berasal dari artikel; cocokkan dengan teks UU 20/2025.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Pasal 299 ayat (2) huruf a KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-bebas-dilepas-seketika",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "front": "Menurut artikel MARINews (April 2026), kapan terdakwa yang diputus bebas harus dilepaskan menurut Pasal 244 ayat (4) KUHAP baru?",
+    "back": "\"Sejak putusan diucapkan\": tidak menunggu putusan berkekuatan hukum tetap atau habisnya tenggang waktu banding. Penulis juga mencatat Pasal 244 ayat (5) menyebut \"upaya banding\" hanya untuk putusan lepas.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Pasal 244 ayat (4) dan (5) KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-dua-kubu-banding-bebas",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Pihak yang berpendapat putusan bebas kini BISA dibanding di KUHAP baru, menurut artikel MARINews, terutama bersandar pada…",
+    "options": [
+      "Putusan MK yang menghapus seluruh Pasal 244",
+      "SEMA Nomor 1 Tahun 2026 tentang plea bargain",
+      "Hilangnya frasa larangan dari KUHAP lama",
+      "Larangan banding tegas dalam Pasal 299 KUHAP baru"
+    ],
+    "answerIndex": 2,
+    "explanation": "KUHAP lama memuat frasa \"kecuali terhadap putusan bebas\"; KUHAP baru tidak, dan Pasal 285 ayat (1) menyebut banding dapat diajukan \"Terdakwa atau Advokatnya atau Penuntut Umum\". Penulis artikel menyanggah: menurutnya larangan itu dibangun secara struktural.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Pasal 285 ayat (1) KUHAP baru; Pasal 67 KUHAP lama (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pt-banding-bebas",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut pendapat Hakim Agung Achmad Setyo Pudjoharsoyo, bila penuntut umum membanding putusan bebas PN, Pengadilan Tinggi seharusnya…",
+    "options": [
+      "Mengembalikan berkas ke penuntut umum",
+      "Meneruskan permohonan ke Mahkamah Agung",
+      "Menyatakan banding tidak dapat diterima (NO)",
+      "Memeriksa pokok perkara seperti banding biasa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ia menulis PT \"harus menyatakan permohonan banding tersebut tidak dapat diterima (niet ontvankelijk verklaard), bukan memeriksa pokoknya.\" Ini pendapat penulis dalam perdebatan yang masih berjalan, bukan aturan yang sudah pasti.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Pendapat penulis tentang Pasal 244 KUHAP baru (artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-debat-banding-bebas",
+    "type": "poll",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "KUHAP baru tidak lagi memuat frasa \"kecuali terhadap putusan bebas\". Menurutmu, bolehkah penuntut umum membanding putusan bebas?",
+    "options": [
+      "Tidak boleh: putusan bebas final",
+      "Boleh: tak ada larangan eksplisit",
+      "Boleh hanya bila hakimnya terbukti korupsi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ini masih diperdebatkan. Hakim Agung Pudjoharsoyo (MARINews) berpendapat tidak boleh, baik banding maupun kasasi. Pihak lain berpendapat boleh karena larangan eksplisit hilang. Jefferson Hakim (Hukumonline) mengusulkan jalan tengah: upaya hukum dibuka bila hakim pemutusnya terbukti korupsi dengan putusan berkekuatan hukum tetap. Pilihan yang ditandai hanya mengikuti artikel MARINews.",
+    "caption": "Polling: soal yang masih diperdebatkan, belum ada jawaban resmi",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Perdebatan upaya hukum atas putusan bebas (artikel MARINews dan kolom Hukumonline)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-sejarah-kasasi-bebas",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Kasasi atas putusan bebas (versi lama)",
+      "points": [
+        "1981: KUHAP lama, Pasal 244 \"kecuali terhadap putusan bebas\"",
+        "1983: butir 19 TPP KUHAP membuka kasasi atas putusan bebas",
+        "1983: Putusan MA 275 K/Pid/1983 (Natalegawa) mengabulkan kasasi",
+        "2012: Putusan MK 114/PUU-X/2012 menyatakan frasa itu tidak mengikat"
+      ]
+    },
+    "caption": "Versi lama (KUHAP 1981). Butir 19 TPP KUHAP: \"Terhadap putusan bebas tidak dapat dimintakan banding, tetapi ... terhadap putusan bebas dapat dimintakan kasasi.\" Sejak 2 Januari 2026 berlaku KUHAP baru, dan statusnya kembali diperdebatkan.",
+    "source": {
+      "title": "Kolom Hukumonline (Jefferson Hakim, 9 Juni 2026) tentang upaya hukum atas putusan bebas",
+      "reference": "Pasal 244 KUHAP lama; TPP KUHAP butir 19; Putusan MA 275 K/Pid/1983; Putusan MK 114/PUU-X/2012 (menurut kolom Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/solusi-jalan-tengah-upaya-hukum-atas-putusan-bebas-dalam-kuhap-baru-lt6a27ea5f5f38e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mk-114-2012",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Versi lama (KUHAP 1981): putusan mana yang menyatakan frasa \"kecuali terhadap putusan bebas\" dalam Pasal 244 KUHAP lama tidak mempunyai kekuatan hukum mengikat?",
+    "options": [
+      "Putusan MA 275 K/Pid/1983",
+      "Putusan MK 114/PUU-X/2012",
+      "SEMA Nomor 1 Tahun 2026",
+      "Putusan MK 17/PUU-VIII/2010"
+    ],
+    "answerIndex": 1,
+    "explanation": "Putusan MK 114/PUU-X/2012. Putusan MA 275 K/Pid/1983 (perkara Natalegawa) adalah yurisprudensi awal yang menerima kasasi atas putusan bebas, setelah terbit TPP KUHAP 1983.",
+    "source": {
+      "title": "Kolom Hukumonline (Jefferson Hakim, 9 Juni 2026) tentang upaya hukum atas putusan bebas",
+      "reference": "Putusan MK 114/PUU-X/2012 (menurut kolom Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/solusi-jalan-tengah-upaya-hukum-atas-putusan-bebas-dalam-kuhap-baru-lt6a27ea5f5f38e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-bebas-kok-dibanding",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Bebas, lalu?",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Terdakwa diputus bebas, Pak! Jaksa mau banding."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Masih diperdebatkan: ada yang bilang final, ada yang bilang bisa."
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Yang pasti: catat jenis putusannya dulu. Bebas atau lepas?"
+        }
+      ]
+    },
+    "caption": "Upaya hukum atas putusan bebas di KUHAP baru belum punya jawaban tunggal.",
+    "teaches": "Bebas (tidak terbukti) dan lepas (terbukti, bukan pidana) diperlakukan berbeda. Menurut artikel MARINews, kasasi atas putusan bebas ditutup Pasal 299 ayat (2) huruf a; banding atas putusan bebas masih diperdebatkan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Pasal 244 dan 299 KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-upaya-hukum-putusan-bebas",
+    "type": "carousel",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Putusan bebas: bisa dibanding?",
+          "subtitle": "Perdebatan di KUHAP baru",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Matriks menurut Pudjoharsoyo",
+          "points": [
+            "Bebas: banding tidak, kasasi tidak; final seketika",
+            "Lepas: banding dapat, kasasi dapat",
+            "Pemidanaan: banding dapat, kasasi dapat"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Argumen pihak yang membolehkan",
+          "points": [
+            "Tak ada lagi frasa \"kecuali terhadap putusan bebas\"",
+            "Pasal 285 ayat (1): banding oleh terdakwa atau PU",
+            "Yurisprudensi bebas tidak murni (275 K/Pid/1983)"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Usulan jalan tengah (Hukumonline)",
+          "points": [
+            "Upaya hukum atas putusan bebas dibuka hanya bila",
+            "hakim pemutusnya terbukti korupsi",
+            "dengan putusan berkekuatan hukum tetap"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Menurut artikel MARINews, upaya hukum mana yang secara tegas ditutup untuk putusan bebas oleh Pasal 299 ayat (2) huruf a?",
+        "options": [
+          "Peninjauan kembali oleh terpidana",
+          "Banding ke Pengadilan Tinggi",
+          "Kasasi ke Mahkamah Agung",
+          "Praperadilan oleh tersangka"
+        ],
+        "answerIndex": 2,
+        "explanation": "Kasasi. Soal banding, penulis menyimpulkannya dari struktur Pasal 244, dan itulah yang diperdebatkan."
+      }
+    ],
+    "caption": "Dua artikel, dua pendapat. Nomor pasal berasal dari artikel; cocokkan dengan teks UU 20/2025 sebelum dihafal.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 2 April 2026)",
+      "reference": "Pasal 244, 285, 299 KUHAP baru (menurut artikel MARINews dan kolom Hukumonline)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/analisis-kritis-dan-komprehensif-upaya-hukum-putusan-bebas-0ba7"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

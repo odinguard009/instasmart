@@ -395,5 +395,392 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-persetujuan-tertulis",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 293 UU 17/2023, persetujuan tindakan WAJIB tertulis sebelum tindakan yang…",
+    "options": [
+      "Dilakukan oleh dokter spesialis",
+      "Dilakukan di rumah sakit pemerintah",
+      "Dibayar dengan asuransi swasta",
+      "Invasif dan/atau berisiko tinggi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (4): persetujuan boleh tertulis atau lisan. Ayat (5): persetujuan tertulis harus diperoleh sebelum tindakan invasif dan/atau berisiko tinggi, ditandatangani pasien/wakil dan disaksikan tenaga medis/kesehatan (ayat (8)).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 293 ayat (4), (5), (8)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-darurat-tanpa-wali",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasien tidak sadar, butuh tindakan gawat darurat, dan tidak ada keluarga yang dapat dimintai persetujuan. Menurut Pasal 293…",
+    "options": [
+      "Persetujuan diberikan oleh direktur rumah sakit",
+      "Tindakan ditunda sampai keluarga atau wali pasien datang",
+      "Tanpa persetujuan, demi kepentingan terbaik pasien",
+      "Perlu penetapan dari ketua pengadilan negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayat (9)-(11): tidak diperlukan persetujuan; tindakan berdasarkan kepentingan terbaik pasien yang diputuskan tenaga medis/kesehatan, lalu diinformasikan setelah pasien cakap atau wakilnya hadir.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 293 ayat (9)-(11)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-isi-penjelasan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Mana yang TIDAK termasuk daftar minimal penjelasan sebelum persetujuan tindakan (Pasal 293 ayat (3))?",
+    "options": [
+      "Risiko bila tindakan tidak dilakukan",
+      "Prognosis setelah tindakan",
+      "Riwayat pendidikan dokter",
+      "Alternatif tindakan lain dan risikonya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Daftarnya: diagnosis, indikasi, tindakan dan tujuannya, risiko dan komplikasi, alternatif dan risikonya, risiko bila tidak dilakukan, prognosis. Penjelasan biaya diatur terpisah di Pasal 294 dan diberikan fasilitas pelayanan kesehatan.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 293 ayat (3), Pasal 294",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-program-pemerintah",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Imunisasi massal yang merupakan program pemerintah (pelayanan kesehatan masyarakat) menurut Pasal 295…",
+    "options": [
+      "Wajib persetujuan tertulis dari setiap orang",
+      "Tanpa persetujuan tindakan, tetapi diinformasikan",
+      "Butuh persetujuan tertulis dari kepala desa setempat",
+      "Hanya untuk warga yang membayar iuran"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 295 ayat (1)-(2). Bandingkan Pasal 276 huruf d: hak menolak tindakan medis dikecualikan untuk pencegahan penyakit menular dan penanggulangan KLB atau wabah.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 295, Pasal 276 huruf d",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-milik-rekam-medis",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 297 UU 17/2023, dokumen rekam medis merupakan milik…",
+    "options": [
+      "Dokter yang merawat pasien",
+      "Fasilitas Pelayanan Kesehatan",
+      "Pasien yang bersangkutan",
+      "Kementerian Kesehatan (data nasional)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dokumennya milik fasilitas pelayanan kesehatan, tetapi pasien berhak mengakses informasi di dalamnya (ayat (2)). Rekam medis wajib dibuat oleh tenaga medis/kesehatan pada pelayanan perseorangan (Pasal 296).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 296-297",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-rahasia-dibuka",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Kerahasiaan data kesehatan pribadi TIDAK berlaku (boleh dibuka) antara lain untuk…",
+    "options": [
+      "Permintaan wartawan yang sedang meliput kasus",
+      "Promosi rumah sakit di media sosial resmi",
+      "Permintaan atasan di tempat pasien bekerja",
+      "Permintaan aparat untuk penegakan hukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 4 ayat (4) memuat daftar pengecualian, antara lain penegakan hukum, KLB/wabah/bencana, pendidikan dan penelitian terbatas, permintaan pasien sendiri, serta administrasi/asuransi. Pasal 301 ayat (2) merujuk ke daftar ini.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 4 ayat (4), Pasal 301",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-lapor-pidana",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Dokter menduga luka pasien akibat tindak pidana. Menurut Pasal 302 UU 17/2023, dokter…",
+    "options": [
+      "Wajib meminta izin tertulis pasien dahulu",
+      "Dilarang melapor karena terikat rahasia medis",
+      "Hanya boleh melapor lewat organisasi profesi",
+      "Berhak melapor dan mendapat pelindungan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (1): berhak melaporkan; ayat (2): hal itu dikecualikan dari rahasia kesehatan; ayat (3): pelapor wajib mendapat pelindungan hukum.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 302",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-tolak-tindakan-pengecualian",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Hak menolak tindakan pertolongan (Pasal 4 ayat (1) huruf h) TIDAK berlaku bagi…",
+    "options": [
+      "Penderita penyakit yang cepat menular",
+      "Pasien rawat jalan di puskesmas",
+      "Pasien lanjut usia berumur di atas 60 tahun",
+      "Pasien yang membayar secara mandiri"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 4 ayat (3): tidak berlaku bagi penyakit yang cepat menular, penanggulangan KLB/wabah, orang tidak sadar atau gawat darurat, dan gangguan jiwa berat tanpa pendamping dalam keadaan darurat.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 4 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-str-seumur-hidup",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Menurut UU 17/2023, masa berlaku STR dan SIP tenaga medis adalah…",
+    "options": [
+      "Keduanya berlaku seumur hidup",
+      "STR 5 tahun, SIP seumur hidup",
+      "STR seumur hidup, SIP 5 tahun",
+      "Keduanya 5 tahun dan dapat diperpanjang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 260 ayat (4): STR berlaku seumur hidup. Pasal 264 ayat (3): SIP berlaku 5 tahun dan dapat diperpanjang (syaratnya termasuk kecukupan satuan kredit profesi). SIP juga tidak berlaku bila tempat praktik berubah.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 260 ayat (4), Pasal 264",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-sanksi-disiplin",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Mana yang BUKAN sanksi disiplin menurut Pasal 306 UU 17/2023?",
+    "options": [
+      "Pidana denda",
+      "Peringatan tertulis",
+      "Rekomendasi pencabutan SIP",
+      "Penonaktifan STR sementara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sanksi disiplin: peringatan tertulis, kewajiban pendidikan/pelatihan, penonaktifan STR sementara, dan/atau rekomendasi pencabutan SIP. Denda pidana bukan sanksi disiplin.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 306 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-rekomendasi-14-hari",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Penyidik meminta rekomendasi majelis disiplin sebelum menyidik dokter. Majelis tidak menjawab dalam 14 hari kerja. Akibatnya…",
+    "options": [
+      "Perkara dialihkan ke mediasi oleh dinas kesehatan",
+      "Penyidik harus mengulang permohonan tertulis",
+      "Dianggap merekomendasikan penyidikan",
+      "Penyidikan otomatis dihentikan demi hukum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 308 ayat (7)-(8). Kewajiban meminta rekomendasi tidak berlaku untuk dugaan pidana yang tidak berkaitan dengan pelayanan kesehatan (ayat (9)).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 308 ayat (1), (7)-(9)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-adr-dulu",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Dugaan kesalahan tenaga medis merugikan pasien. Menurut Pasal 310 UU 17/2023, perselisihannya diselesaikan terlebih dahulu melalui…",
+    "options": [
+      "Laporan pidana ke kepolisian terdekat",
+      "Gugatan perdata ke pengadilan negeri setempat",
+      "Penyelesaian sengketa di luar pengadilan",
+      "Sidang etik oleh Konsil Kedokteran Indonesia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 310: terlebih dahulu melalui alternatif penyelesaian sengketa di luar pengadilan.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 310",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-pk-majelis",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "question": "Putusan majelis disiplin dapat diajukan peninjauan kembali kepada…",
+    "options": [
+      "Mahkamah Agung",
+      "Organisasi profesi",
+      "Menteri",
+      "Pengadilan tata usaha negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 307: kepada Menteri, bila ada bukti baru, kesalahan penerapan pelanggaran disiplin, atau dugaan konflik kepentingan pemeriksa dan yang diperiksa.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 307",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-aborsi-persetujuan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Untuk aborsi dengan kriteria yang diperbolehkan, Pasal 60 UU 17/2023 mensyaratkan persetujuan perempuan hamil dan suami, KECUALI…",
+    "options": [
+      "Korban perkosaan",
+      "Usia kehamilan di bawah 6 minggu",
+      "Sudah ada rujukan puskesmas",
+      "Perempuan berusia di atas 40 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 60 ayat (2) huruf c. Kriteria yang diperbolehkan sendiri merujuk ke kitab undang-undang hukum pidana (ayat (1)), yaitu KUHP Nasional yang berlaku sejak 2 Januari 2026; cek pasalnya di sana.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 60",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-majelis-disiplin",
+    "type": "fact",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "visual": {
+      "template": "infographic",
+      "title": "Majelis disiplin (UU 17/2023)",
+      "points": [
+        "Dibentuk Menteri",
+        "Permanen atau ad hoc",
+        "Pasien/keluarga bisa mengadu",
+        "Putusannya mengikat",
+        "Lalu APH: restoratif"
+      ]
+    },
+    "caption": "Pasal 304-306. Pengaduan memuat identitas pengadu, nama dan alamat tempat praktik serta waktu tindakan, dan alasan pengaduan. Bila ada dugaan pidana setelah sanksi disiplin dijalankan, aparat penegak hukum mengutamakan keadilan restoratif (Pasal 306 ayat (3)).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 304-306",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-humor-sip-pindah",
+    "type": "humor",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "visual": {
+      "template": "meme",
+      "top": "Pindah klinik baru,\npakai SIP lama",
+      "bottom": "Pasal 264: SIP tidak berlaku kalau tempat praktik berubah.",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "STR berlaku seumur hidup, tetapi SIP terikat tempat praktik. Pindah tempat praktik berarti perlu SIP untuk tempat yang baru.",
+    "teaches": "SIP tidak berlaku bila tempat praktik berubah (Pasal 264 ayat (6) huruf e UU 17/2023); STR berlaku seumur hidup (Pasal 260 ayat (4)).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 260 ayat (4), Pasal 264 ayat (6)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

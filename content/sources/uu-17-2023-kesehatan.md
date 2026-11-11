@@ -1,0 +1,305 @@
+# UU No. 17 Tahun 2023 tentang Kesehatan (kutipan)
+
+> Diambil pada 11 November 2026 dari salinan teks UU di DDTC (perpajakan.ddtc.co.id), bukan dari Lembaran Negara resmi.
+> URL: https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023
+> Disahkan dan diundangkan 8 Agustus 2023 (LN 2023 No. 105). Putusan MK atau perubahan sesudahnya belum diperiksa.
+> Kutipan disalin persis dari salinan tersebut.
+
+## Pasal 4
+
+> (1) Setiap Orang berhak:
+
+> a. hidup sehat secara fisik, jiwa, dan sosial;
+
+> b. mendapatkan informasi dan edukasi tentang Kesehatan yang seimbang dan bertanggung jawab;
+
+> c. mendapatkan Pelayanan Kesehatan yang aman, bermutu, dan terjangkau agar dapat mewujudkan derajat Kesehatan yang setinggi-tingginya;
+
+> d. mendapatkan perawatan Kesehatan sesuai dengan standar Pelayanan Kesehatan;
+
+> e. mendapatkan akses atas Sumber Daya Kesehatan;
+
+> f. menentukan sendiri Pelayanan Kesehatan yang diperlukan bagi dirinya secara mandiri dan bertanggung jawab;
+
+> g. mendapatkan lingkungan yang sehat bagi pencapaian derajat Kesehatan;
+
+> h. menerima atau menolak sebagian atau seluruh tindakan pertolongan yang akan diberikan kepadanya setelah menerima dan memahami informasi mengenai tindakan tersebut secara lengkap;
+
+> i. memperoleh kerahasiaan data dan informasi Kesehatan pribadinya;
+
+> j. memperoleh informasi tentang data Kesehatan dirinya, termasuk tindakan dan pengobatan yang telah ataupun yang akan diterimanya dari Tenaga Medis dan/atau Tenaga Kesehatan; dan
+
+> k. mendapatkan pelindungan dari risiko Kesehatan.
+
+> (2) Hak secara mandiri sebagaimana dimaksud pada ayat (1) huruf f dikecualikan untuk Pelayanan Kesehatan yang diperlukan dalam keadaan Gawat Darurat dan/atau penanggulangan KLB atau Wabah.
+
+> (3) Hak sebagaimana dimaksud pada ayat (1) huruf h tidak berlaku pada:
+
+> a. seseorang yang penyakitnya dapat secara cepat menular kepada masyarakat secara lebih luas;
+
+> b. penanggulangan KLB atau Wabah;
+
+> c. seseorang yang tidak sadarkan diri atau dalam keadaan Gawat Darurat; dan
+
+> d. seseorang yang mengalami gangguan jiwa berat yang dianggap tidak cakap dalam membuat keputusan dan tidak memiliki pendamping serta dalam keadaan kedaruratan.
+
+> (4) Kerahasiaan data dan informasi Kesehatan pribadi sebagaimana dimaksud pada ayat (1) huruf i tidak berlaku dalam hal:
+
+> a. pemenuhan permintaan aparat penegak hukum dalam rangka penegakan hukum;
+
+> b. penanggulangan KLB, Wabah, atau bencana;
+
+> c. kepentingan pendidikan dan penelitian secara terbatas;
+
+> d. upaya pelindungan terhadap bahaya ancaman keselamatan orang lain secara individual atau masyarakat;
+
+> e. kepentingan pemeliharaan Kesehatan, pengobatan, penyembuhan, dan perawatan Pasien;
+
+> f. permintaan Pasien sendiri;
+
+> g. kepentingan administratif, pembayaran asuransi, atau jaminan pembiayaan Kesehatan; dan/atau
+
+> h. kepentingan lain yang diatur dalam peraturan perundang-undangan.
+
+> (5) Hak sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang­-undangan.
+
+## Pasal 60
+
+> (1) Setiap Orang dilarang melakukan aborsi, kecuali dengan kriteria yang diperbolehkan sesuai dengan ketentuan dalam kitab undang-undang hukum pidana.
+
+> (2) Pelaksanaan aborsi dengan kriteria yang diperbolehkan sebagaimana dimaksud pada ayat (1) hanya dapat dilakukan:
+
+> a. oleh Tenaga Medis dan dibantu Tenaga Kesehatan yang memiliki kompetensi dan kewenangan;
+
+> b. pada Fasilitas Pelayanan Kesehatan yang memenuhi syarat yang ditetapkan oleh Menteri; dan
+
+> c. dengan persetujuan perempuan hamil yang bersangkutan dan dengan persetujuan suami, kecuali korban perkosaan.
+
+## Pasal 260
+
+> (1) Setiap Tenaga Medis dan Tenaga Kesehatan yang akan menjalankan praktik wajib memiliki STR.
+
+> (2) STR sebagaimana dimaksud pada ayat (1) diterbitkan oleh Konsil atas nama Menteri setelah memenuhi persyaratan.
+
+> (3) Persyaratan sebagaimana dimaksud pada ayat (2) paling sedikit:
+
+> a. memiliki ijazah pendidikan di bidang Kesehatan dan/atau sertifikat profesi; dan
+
+> b. memiliki sertifikat kompetensi.
+
+> (4) STR sebagaimana dimaksud pada ayat (1) berlaku seumur hidup.
+
+## Pasal 264
+
+> (1) Untuk mendapatkan SIP sebagaimana dimaksud dalam Pasal 263 ayat (2), Tenaga Medis dan Tenaga Kesehatan tertentu harus memiliki:
+
+> a. STR; dan
+
+> b. tempat praktik.
+
+> (2) SIP masih berlaku sepanjang tempat praktik masih sesuai dengan yang tercantum dalam SIP.
+
+> (3) SIP sebagaimana dimaksud pada ayat (1) berlaku selama 5 (lima) tahun dan dapat diperpanjang selama memenuhi persyaratan.
+
+> (4) Persyaratan perpanjangan SIP sebagaimana dimaksud pada ayat (3) meliputi:
+
+> a. STR;
+
+> b. tempat praktik; dan
+
+> c. pemenuhan kecukupan satuan kredit profesi.
+
+> (5) Pengelolaan pemenuhan kecukupan satuan kredit profesi sebagaimana dimaksud pada ayat (4) huruf c dilakukan oleh Menteri.
+
+> (6) SIP sebagaimana dimaksud pada ayat (2) dan ayat (3) tidak berlaku apabila:
+
+> a. habis masa berlakunya;
+
+> b. yang bersangkutan meninggal dunia;
+
+> c. STR dicabut atau dinonaktifkan;
+
+> d. SIP dicabut; atau
+
+> e. tempat praktik berubah.
+
+## Pasal 276
+
+> Pasien mempunyai hak:
+
+> a. mendapatkan informasi mengenai Kesehatan dirinya;
+
+> b. mendapatkan penjelasan yang memadai mengenai Pelayanan Kesehatan yang diterimanya;
+
+> c. mendapatkan Pelayanan Kesehatan sesuai dengan kebutuhan medis, standar profesi, dan pelayanan yang bermutu;
+
+> d. menolak atau menyetujui tindakan medis, kecuali untuk tindakan medis yang diperlukan dalam rangka pencegahan penyakit menular dan penanggulangan KLB atau Wabah;
+
+> e. mendapatkan akses terhadap informasi yang terdapat di dalam rekam medis;
+
+> f. meminta pendapat Tenaga Medis atau Tenaga Kesehatan lain; dan
+
+> g. mendapatkan hak lain sesuai dengan ketentuan peraturan perundangan-undangan.
+
+## Pasal 293
+
+> (1) Setiap tindakan Pelayanan Kesehatan perseorangan yang dilakukan oleh Tenaga Medis dan Tenaga Kesehatan harus mendapat persetujuan.
+
+> (2) Persetujuan sebagaimana dimaksud pada ayat (1) diberikan setelah Pasien mendapat penjelasan yang memadai.
+
+> (3) Penjelasan sebagaimana dimaksud pada ayat (2) paling sedikit mencakup:
+
+> a. diagnosis;
+
+> b. indikasi;
+
+> c. tindakan Pelayanan Kesehatan yang dilakukan dan tujuannya;
+
+> d. risiko dan komplikasi yang mungkin terjadi;
+
+> e. alternatif tindakan lain dan risikonya;
+
+> f. risiko apabila tindakan tidak dilakukan; dan
+
+> g. prognosis setelah memperoleh tindakan.
+
+> (4) Persetujuan sebagaimana dimaksud pada ayat (1) dapat diberikan secara tertulis ataupun lisan.
+
+> (5) Persetujuan tertulis sebagaimana dimaksud pada ayat (4) harus diperoleh sebelum dilakukannya tindakan yang invasif dan/atau mengandung risiko tinggi.
+
+> (6) Persetujuan tindakan sebagaimana dimaksud pada ayat (4) dan ayat (5) diberikan oleh Pasien yang bersangkutan.
+
+> (7) Dalam hal Pasien yang bersangkutan sebagaimana dimaksud pada ayat (6) tidak cakap memberikan persetujuan, persetujuan tindakan dapat diberikan oleh yang mewakili.
+
+> (8) Persetujuan tertulis melakukan tindakan Pelayanan Kesehatan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (7) ditandatangani oleh Pasien atau yang mewakili dan disaksikan oleh salah seorang Tenaga Medis atau Tenaga Kesehatan.
+
+> (9) Dalam hal keadaan Pasien sebagaimana dimaksud pada ayat (6) tidak cakap dan memerlukan tindakan Gawat Darurat, tetapi tidak ada pihak yang dapat dimintai persetujuan, tidak diperlukan persetujuan tindakan.
+
+> (10) Tindakan sebagaimana dimaksud pada ayat (9) dilakukan berdasarkan kepentingan terbaik Pasien yang diputuskan oleh Tenaga Medis atau Tenaga Kesehatan yang memberikan pelayanan kepada Pasien.
+
+> (11) Tindakan sebagaimana dimaksud pada ayat (10) diinformasikan kepada Pasien setelah Pasien telah cakap atau yang mewakili telah hadir.
+
+> (12) Ketentuan mengenai tata cara persetujuan tindakan Tenaga Medis dan Tenaga Kesehatan sebagaimana dimaksud pada ayat (1) sampai dengan ayat (11) diatur dengan Peraturan Menteri.
+
+## Pasal 295
+
+> (1) Pelayanan Kesehatan masyarakat yang merupakan program pemerintah tidak memerlukan persetujuan tindakan.
+
+> (2) Pelayanan Kesehatan sebagaimana dimaksud pada ayat (1) tetap harus diinformasikan kepada masyarakat penerima Pelayanan Kesehatan tersebut.
+
+## Pasal 296
+
+> (1) Setiap Tenaga Medis dan Tenaga Kesehatan yang memberikan Pelayanan Kesehatan perseorangan wajib membuat rekam medis.
+
+> (2) Dalam hal Pelayanan Kesehatan perseorangan sebagaimana dimaksud pada ayat (1) dilaksanakan pada Fasilitas Pelayanan Kesehatan selain tempat praktik mandiri, penyelenggaraan rekam medis merupakan tanggung jawab Fasilitas Pelayanan Kesehatan.
+
+> (3) Rekam medis sebagaimana dimaksud pada ayat (1) harus segera dilengkapi setelah Pasien selesai menerima Pelayanan Kesehatan.
+
+> (4) Setiap catatan rekam medis harus dibubuhi nama, waktu, dan tanda tangan Tenaga Medis atau Tenaga Kesehatan yang memberikan pelayanan atau tindakan.
+
+> (5) Rekam medis sebagaimana dimaksud pada ayat (3) harus disimpan dan dijaga kerahasiaannya oleh Tenaga Medis, Tenaga Kesehatan, dan pimpinan Fasilitas Pelayanan Kesehatan.
+
+## Pasal 297
+
+> (1) Dokumen rekam medis sebagaimana dimaksud dalam Pasal 296 merupakan milik Fasilitas Pelayanan Kesehatan.
+
+> (2) Setiap Pasien berhak untuk mengakses informasi yang terdapat dalam dokumen rekam medis sebagaimana dimaksud pada ayat (1).
+
+> (3) Fasilitas Pelayanan Kesehatan wajib menjaga keamanan, keutuhan, kerahasiaan, dan ketersediaan data yang terdapat dalam dokumen rekam medis sebagaimana dimaksud pada ayat (1).
+
+## Pasal 301
+
+> (1) Setiap Tenaga Medis dan Tenaga Kesehatan dalam melaksanakan Pelayanan Kesehatan wajib menyimpan rahasia Kesehatan pribadi Pasien.
+
+> (2) Pembukaan rahasia Kesehatan pribadi Pasien sebagaimana dimaksud pada ayat (1) dapat dilakukan untuk kepentingan tertentu sebagaimana dimaksud dalam Pasal 4 ayat (4).
+
+> (3) Ketentuan lebih lanjut mengenai rahasia Kesehatan pribadi Pasien diatur dengan Peraturan Pemerintah.
+
+## Pasal 302
+
+> (1) Dalam hal Tenaga Medis dan Tenaga Kesehatan yang mengetahui atau patut menduga adanya tindak pidana pada Pasien yang diberi Pelayanan Kesehatan, Tenaga Medis dan Tenaga Kesehatan berhak melaporkannya kepada aparat penegak hukum.
+
+> (2) Ketentuan sebagaimana dimaksud pada ayat (1) dikecualikan dari rahasia Kesehatan.
+
+> (3) Tenaga Medis dan Tenaga Kesehatan yang melaporkan dugaan tindak pidana pada Pasien yang diberi Pelayanan Kesehatan sebagaimana dimaksud pada ayat (1) wajib mendapatkan pelindungan hukum.
+
+## Pasal 304
+
+> (1) Dalam rangka mendukung profesionalitas Tenaga Medis dan Tenaga Kesehatan, perlu diterapkan penegakan disiplin profesi.
+
+> (2) Dalam rangka penegakan disiplin profesi sebagaimana dimaksud pada ayat (1), Menteri membentuk majelis yang melaksanakan tugas di bidang disiplin profesi.
+
+> (3) Majelis sebagaimana dimaksud pada ayat (2) menentukan ada tidaknya pelanggaran disiplin profesi yang dilakukan Tenaga Medis dan Tenaga Kesehatan.
+
+> (4) Majelis sebagaimana dimaksud pada ayat (2) dapat bersifat permanen atau ad hoc.
+
+> (5) Ketentuan lebih lanjut mengenai tugas dan fungsi majelis sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Pemerintah.
+
+## Pasal 305
+
+> (1) Pasien atau keluarganya yang kepentingannya dirugikan atas tindakan Tenaga Medis atau Tenaga Kesehatan dalam memberikan Pelayanan Kesehatan dapat mengadukan kepada majelis sebagaimana dimaksud dalam Pasal 304.
+
+> (2) Pengaduan sebagaimana dimaksud pada ayat (1) paling sedikit harus memuat:
+
+> a. identitas pengadu;
+
+> b. nama dan alamat tempat praktik Tenaga Medis atau Tenaga Kesehatan dan waktu tindakan dilakukan; dan
+
+> c. alasan pengaduan.
+
+## Pasal 306
+
+> (1) Pelanggaran disiplin Tenaga Medis atau Tenaga Kesehatan sebagaimana dimaksud dalam Pasal 304 ayat (3) diberikan sanksi disiplin berupa:
+
+> a. peringatan tertulis;
+
+> b. kewajiban mengikuti pendidikan atau pelatihan di penyelenggara pendidikan di bidang Kesehatan atau Rumah Sakit pendidikan terdekat yang memiliki kompetensi untuk melakukan pelatihan tersebut;
+
+> c. penonaktifan STR untuk sementara waktu; dan/atau
+
+> d. rekomendasi pencabutan SIP.
+
+> (2) Hasil pemeriksaan sebagaimana dimaksud pada ayat (1) bersifat mengikat Tenaga Medis dan Tenaga Kesehatan.
+
+> (3) Tenaga Medis atau Tenaga Kesehatan yang telah melaksanakan sanksi disiplin sebagaimana dimaksud pada ayat (1) yang dijatuhkan terdapat dugaan tindak pidana, aparat penegak hukum mengutamakan penyelesaian perselisihan dengan mekanisme keadilan restoratif sesuai dengan ketentuan peraturan perundang­-undangan.
+
+## Pasal 307
+
+> Putusan dari majelis sebagaimana dimaksud dalam Pasal 304 dapat diajukan peninjauan kembali kepada Menteri dalam hal:
+
+> a. ditemukan bukti baru;
+
+> b. kesalahan penerapan pelanggaran disiplin; atau
+
+> c. terdapat dugaan konflik kepentingan pada pemeriksa dan yang diperiksa.
+
+## Pasal 308
+
+> (1) Tenaga Medis atau Tenaga Kesehatan yang diduga melakukan perbuatan yang melanggar hukum dalam pelaksanaan Pelayanan Kesehatan yang dapat dikenai sanksi pidana, terlebih dahulu harus dimintakan rekomendasi dari majelis sebagaimana dimaksud dalam Pasal 304
+
+> (2) Tenaga Medis dan Tenaga Kesehatan yang dimintai pertanggungjawaban atas tindakan/perbuatan berkaitan dengan pelaksanaan Pelayanan Kesehatan yang merugikan Pasien secara perdata, harus dimintakan rekomendasi dari majelis sebagaimana dimaksud dalam Pasal 304.
+
+> (3) Rekomendasi dari majelis sebagaimana dimaksud pada ayat (1) diberikan setelah Penyidik Pegawai Negeri Sipil atau penyidik Kepolisian Negara Republik Indonesia mengajukan permohonan secara tertulis.
+
+> (4) Rekomendasi dari majelis sebagaimana dimaksud pada ayat (2) diberikan setelah Tenaga Medis, Tenaga Kesehatan, atau orang yang diberikan kuasa oleh Tenaga Medis atau Tenaga Kesehatan mengajukan permohonan secara tertulis atas gugatan yang diajukan oleh Pasien, keluarga Pasien, atau orang yang diberikan kuasa oleh Pasien atau keluarga Pasien.
+
+> (5) Rekomendasi sebagaimana dimaksud pada ayat (3) berupa rekomendasi dapat atau tidak dapat dilakukan penyidikan karena pelaksanaan praktik keprofesian yang dilakukan oleh Tenaga Medis atau Tenaga Kesehatan sesuai atau tidak sesuai dengan standar profesi, standar pelayanan, dan standar prosedur operasional.
+
+> (6) Rekomendasi sebagaimana dimaksud pada ayat (4) berupa rekomendasi pelaksanaan praktik keprofesian yang dilakukan oleh Tenaga Medis atau Tenaga Kesehatan sesuai atau tidak sesuai dengan standar profesi, standar pelayanan, dan standar prosedur operasional.
+
+> (7) Rekomendasi sebagaimana dimaksud pada ayat (5) dan ayat (6) diberikan paling lama dalam jangka waktu 14 (empat belas) hari kerja sejak permohonan diterima.
+
+> (8) Dalam hal majelis tidak memberikan rekomendasi dalam jangka waktu sebagaimana dimaksud pada ayat (7), majelis dianggap telah memberikan rekomendasi untuk dapat dilakukan penyidikan atas tindak pidana.
+
+> (9) Ketentuan sebagaimana dimaksud pada ayat (1), ayat (3), ayat (5), dan ayat (7) tidak berlaku untuk pemeriksaan Tenaga Medis atau Tenaga Kesehatan yang dapat dimintai pertanggungjawaban atas dugaan tindak pidana yang tidak berkaitan dengan pelaksanaan Pelayanan Kesehatan.
+
+## Pasal 310
+
+> Dalam hal Tenaga Medis atau Tenaga Kesehatan diduga melakukan kesalahan dalam menjalankan profesinya yang menyebabkan kerugian kepada Pasien, perselisihan yang timbul akibat kesalahan tersebut diselesaikan terlebih dahulu melalui alternatif penyelesaian sengketa di luar pengadilan.
+
+> ## **Bagian Kedua Belas** **Organisasi Profesi** **Pasal 311**
+
+> (1) Tenaga Medis dan Tenaga Kesehatan dapat membentuk organisasi profesi.
+
+> (2) Pembentukan organisasi profesi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+

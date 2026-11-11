@@ -647,29 +647,6 @@
     "createdAt": "2026-11-11"
   },
   {
-    "id": "pemilu-triumvirat",
-    "type": "quiz",
-    "topicId": "pemilu",
-    "subTopicId": "konstitusi-pemilu",
-    "account": "kotak.suara",
-    "question": "Presiden dan Wakil Presiden berhalangan tetap secara bersamaan. Pelaksana tugas kepresidenan adalah…",
-    "options": [
-      "Menlu, Mendagri, dan Menhan",
-      "Panglima TNI dan Kapolri",
-      "Mensesneg dan Menko Polhukam",
-      "Ketua MPR, DPR, dan DPD"
-    ],
-    "answerIndex": 0,
-    "explanation": "Pasal 8 ayat (3): Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama. Paling lambat 30 hari kemudian MPR bersidang memilih Presiden dan Wakil Presiden dari dua pasangan yang diusulkan parpol/gabungan parpol yang pasangannya meraih suara terbanyak pertama dan kedua di pemilu sebelumnya.",
-    "source": {
-      "title": "UUD NRI Tahun 1945",
-      "reference": "Pasal 8 ayat (3)",
-      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
-    },
-    "status": "draft",
-    "createdAt": "2026-11-11"
-  },
-  {
     "id": "pemilu-kepala-daerah-demokratis",
     "type": "quiz",
     "topicId": "pemilu",
@@ -687,29 +664,6 @@
     "source": {
       "title": "UUD NRI Tahun 1945",
       "reference": "Pasal 18 ayat (3)-(4)",
-      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
-    },
-    "status": "draft",
-    "createdAt": "2026-11-11"
-  },
-  {
-    "id": "pemilu-susunan-mpr",
-    "type": "quiz",
-    "topicId": "pemilu",
-    "subTopicId": "konstitusi-pemilu",
-    "account": "kotak.suara",
-    "question": "Menurut Pasal 2 ayat (1) UUD 1945 hasil perubahan, MPR terdiri atas…",
-    "options": [
-      "Anggota DPR dan utusan golongan",
-      "Anggota DPR dan anggota DPD",
-      "Anggota DPR, DPD, dan DPRD",
-      "Utusan daerah dan utusan golongan"
-    ],
-    "answerIndex": 1,
-    "explanation": "Anggota DPR dan anggota DPD yang dipilih melalui pemilihan umum (Perubahan Keempat).",
-    "source": {
-      "title": "UUD NRI Tahun 1945",
-      "reference": "Pasal 2 ayat (1)",
       "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
     },
     "status": "draft",

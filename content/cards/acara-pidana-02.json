@@ -1238,5 +1238,294 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-saksi-mahkota-apa",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "KUHAP baru",
+      "text": "Saksi mahkota",
+      "sub": "Pelaku yang bersaksi tentang pelaku lain dalam perkara yang sama"
+    },
+    "caption": "Di KUHAP lama tidak ada dasar hukum yang jelas, sehingga praktiknya bergantung pada yurisprudensi. KUHAP baru mengaturnya secara eksplisit (menurut kolom Hukumonline dan artikel MARINews).",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "dulu cuma yurisprudensi, sekarang ada pasalnya"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "nomor pasalnya cocokkan dulu dengan teks UU"
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut kolom Hukumonline (Rafi Muhammad Ave, 12 Januari 2026)",
+      "reference": "Saksi mahkota di KUHAP baru (menurut kolom Hukumonline dan artikel MARINews)",
+      "url": "https://www.hukumonline.com/berita/a/saksi-mahkota-dalam-kuhap-baru-ditinjau-dari-perspektif-ham-lt6964ab6e9e966/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mahkota-alur-pasal",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Alur saksi mahkota (menurut penulis)",
+      "points": [
+        "Pasal 7 ayat (1) huruf l: wewenang penyidik menetapkan",
+        "Pasal 22: ungkap tersangka lain, koordinasi PU",
+        "Pasal 73: PU menetapkan dan memberi keringanan tuntutan",
+        "Pasal 74: kesepakatan tertulis, dengan advokat, imbalan terbatas"
+      ]
+    },
+    "caption": "Ringkasan kolom hakim PN Rafi Muhammad Ave di Hukumonline (12 Januari 2026). Nomor pasal berasal dari kolom; cocokkan dengan teks UU 20/2025.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut kolom Hukumonline (Rafi Muhammad Ave, 12 Januari 2026)",
+      "reference": "Pasal 7, 22, 73, 74 KUHAP baru (menurut kolom Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/saksi-mahkota-dalam-kuhap-baru-ditinjau-dari-perspektif-ham-lt6964ab6e9e966/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mahkota-tujuan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut kolom Hukumonline, untuk apa penetapan saksi mahkota dilakukan (Pasal 22 ayat (2) KUHAP baru)?",
+    "options": [
+      "Membebaskan tersangka dari seluruh tuntutan pidana",
+      "Mempercepat sidang dengan acara pemeriksaan singkat",
+      "Mengungkap tersangka lain dalam perkara yang sama",
+      "Menggantikan kewajiban penuntut umum membuktikan dakwaan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penetapan saksi mahkota \"dilakukan untuk membantu mengungkap keterlibatan tersangka lain yang patut dipidana dalam perkara yang sama\". Ayat (3): wajib koordinasi penyidik-penuntut umum dan dicatat dalam berita acara.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut kolom Hukumonline (Rafi Muhammad Ave, 12 Januari 2026)",
+      "reference": "Pasal 22 ayat (2)-(3) KUHAP baru (menurut kolom Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/saksi-mahkota-dalam-kuhap-baru-ditinjau-dari-perspektif-ham-lt6964ab6e9e966/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mahkota-kesepakatan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut kolom Hukumonline, syarat kesepakatan saksi mahkota dalam Pasal 74 KUHAP baru antara lain…",
+    "options": [
+      "Ditandatangani korban dan keluarganya",
+      "Disahkan lebih dulu oleh Mahkamah Agung",
+      "Cukup lisan di depan penyidik tanpa pendamping",
+      "Tertulis dan melibatkan advokat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Kesepakatan harus tertulis, melibatkan advokat, dan memuat jelas keterangan yang akan diberikan serta bentuk imbalan yang dijanjikan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut kolom Hukumonline (Rafi Muhammad Ave, 12 Januari 2026)",
+      "reference": "Pasal 74 KUHAP baru (menurut kolom Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/saksi-mahkota-dalam-kuhap-baru-ditinjau-dari-perspektif-ham-lt6964ab6e9e966/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mahkota-imbalan",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "front": "Menurut kolom Hukumonline, imbalan apa yang boleh dijanjikan kepada saksi mahkota dalam Pasal 74 KUHAP baru?",
+    "back": "Dibatasi tegas, antara lain jaminan tidak dijatuhkannya pidana mati atau pengurangan ancaman pidana hingga dua pertiga (2/3) dari maksimum ancaman hukuman. Rumusan persisnya cek di teks UU.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut kolom Hukumonline (Rafi Muhammad Ave, 12 Januari 2026)",
+      "reference": "Pasal 74 KUHAP baru (menurut kolom Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/saksi-mahkota-dalam-kuhap-baru-ditinjau-dari-perspektif-ham-lt6964ab6e9e966/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mahkota-hakim",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel MARINews (April 2026), apa peran hakim terhadap saksi mahkota di KUHAP baru?",
+    "options": [
+      "Membatalkan kesepakatan yang dibuat penyidik",
+      "Merundingkan imbalan bersama penuntut umum",
+      "Menetapkan status saksi mahkota di awal sidang",
+      "Menilai sikap kooperatif terdakwa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penulis: hakim \"tidak diberikan kewenangan secara eksplisit untuk menetapkan atau memberikan status saksi mahkota\", dan hanya menilai sikap kooperatif terdakwa sebagai pertimbangan yang meringankan. Penulis berharap MA menerbitkan pedoman.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Nur Amalia Abbas, 15 April 2026)",
+      "reference": "Pasal 73-74 KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/saksi-mahkota-di-kuhap-baru-kepastian-hukum-dan-peran-hakim-0bcv"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mahkota-tidak-sendiri",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Keterangan saksi mahkota tentang pelaku lain, menurut artikel MARINews, …",
+    "options": [
+      "Hanya bernilai sebagai petunjuk bagi penyidik",
+      "Tidak boleh dipakai bila terdakwa didampingi advokat",
+      "Cukup untuk memidana tanpa alat bukti lain",
+      "Tidak dapat berdiri sendiri; perlu alat bukti lain"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"Penggunaan keterangan tersebut harus dilakukan secara hati-hati, tidak dapat berdiri sendiri, dan harus didukung oleh alat bukti lain yang sah.\"",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Nur Amalia Abbas, 15 April 2026)",
+      "reference": "Pasal 73-74 KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/saksi-mahkota-di-kuhap-baru-kepastian-hukum-dan-peran-hakim-0bcv"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mahkota-sema-4-2011",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "front": "Surat edaran MA apa yang menurut artikel MARINews berkaitan dengan konsep saksi mahkota?",
+    "back": "SEMA Nomor 4 Tahun 2011 tentang Perlakuan terhadap Pelapor Tindak Pidana (Whistle Blower) dan Saksi Pelaku yang Bekerja Sama. Penulis mencatat whistle blower dan saksi mahkota berbeda, tetapi sama-sama berperan kooperatif.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Nur Amalia Abbas, 15 April 2026)",
+      "reference": "SEMA No. 4 Tahun 2011 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/saksi-mahkota-di-kuhap-baru-kepastian-hukum-dan-peran-hakim-0bcv"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mahkota-bukan-mahkota",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Dengar \"saksi mahkota\", kukira dapat mahkota beneran",
+      "bottom": "Ternyata: tetap terdakwa, imbalannya terbatas dan tertulis",
+      "character": "gecko",
+      "expression": "shock"
+    },
+    "caption": "Saksi mahkota tetap pelaku; imbalannya dibatasi undang-undang.",
+    "teaches": "Menurut kolom Hukumonline, Pasal 74 KUHAP baru mensyaratkan kesepakatan tertulis dengan advokat, dan imbalannya dibatasi (antara lain jaminan tidak dipidana mati atau pengurangan ancaman pidana hingga 2/3 maksimum).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut kolom Hukumonline (Rafi Muhammad Ave, 12 Januari 2026)",
+      "reference": "Pasal 74 KUHAP baru (menurut kolom Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/saksi-mahkota-dalam-kuhap-baru-ditinjau-dari-perspektif-ham-lt6964ab6e9e966/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-saksi-mahkota-kuhap-baru",
+    "type": "carousel",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Saksi mahkota di KUHAP baru",
+          "subtitle": "Dari yurisprudensi ke pasal",
+          "character": "gecko",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Siapa berwenang",
+          "points": [
+            "Penyidik menetapkan (Pasal 7 ayat (1) huruf l)",
+            "Wajib koordinasi dengan PU dan dicatat (Pasal 22)",
+            "PU menetapkan dan meringankan tuntutan (Pasal 73)"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Kesepakatan (Pasal 74)",
+          "points": [
+            "Tertulis dan melibatkan advokat",
+            "Memuat keterangan yang akan diberikan",
+            "Imbalan terbatas, antara lain bukan pidana mati"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Peran hakim (MARINews)",
+          "points": [
+            "Tidak menetapkan status saksi mahkota",
+            "Menilai sikap kooperatif sebagai hal meringankan",
+            "Keterangan tidak bisa berdiri sendiri"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Menurut kolom Hukumonline, siapa yang pada tahap penuntutan berwenang memberi keringanan tuntutan kepada saksi mahkota?",
+        "options": [
+          "Lembaga Perlindungan Saksi",
+          "Ketua Pengadilan Negeri",
+          "Hakim ketua majelis",
+          "Penuntut umum"
+        ],
+        "answerIndex": 3,
+        "explanation": "Penuntut umum (Pasal 73 menurut kolom), bila keterangan terbukti signifikan mengungkap peran pelaku lain."
+      }
+    ],
+    "caption": "Ringkasan dua artikel. Nomor pasal berasal dari artikel; cocokkan dengan teks UU 20/2025 sebelum dihafal.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut kolom Hukumonline (Rafi Muhammad Ave, 12 Januari 2026)",
+      "reference": "Pasal 7, 22, 73, 74 KUHAP baru (menurut kolom Hukumonline dan artikel MARINews)",
+      "url": "https://www.hukumonline.com/berita/a/saksi-mahkota-dalam-kuhap-baru-ditinjau-dari-perspektif-ham-lt6964ab6e9e966/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

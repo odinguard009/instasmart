@@ -313,5 +313,486 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-tidak-ada-hc",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 42 UU Hak Cipta, tidak ada Hak Cipta atas…",
+    "options": [
+      "Peta buatan swasta",
+      "Putusan pengadilan",
+      "Program komputer",
+      "Desain arsitektur rumah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 42: hasil rapat terbuka lembaga negara, peraturan perundang-undangan, pidato kenegaraan atau pidato pejabat pemerintah, putusan pengadilan atau penetapan hakim, serta kitab suci atau simbol keagamaan. Peta, karya arsitektur, dan program komputer justru ciptaan yang dilindungi.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 42",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-ide-tidak-dilindungi",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Ide, metode, konsep, atau data, walaupun sudah diungkapkan dalam sebuah ciptaan, menurut Pasal 41…",
+    "options": [
+      "Dilindungi bila dicatatkan",
+      "Dilindungi selama 50 tahun",
+      "Otomatis menjadi rahasia dagang",
+      "Tidak dilindungi Hak Cipta"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 41 huruf b. Yang dilindungi adalah ekspresinya dalam bentuk nyata, bukan idenya (lihat juga huruf a: karya yang belum diwujudkan dalam bentuk nyata tidak dilindungi).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 41",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-jangka-fotografi",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Hak Cipta atas karya fotografi, sinematografi, permainan video, dan program komputer berlaku…",
+    "options": [
+      "Seumur hidup pencipta ditambah 70 tahun",
+      "25 tahun sejak pertama diumumkan",
+      "Tanpa batas waktu",
+      "50 tahun sejak pertama diumumkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 59 ayat (1): 50 tahun sejak pertama kali dilakukan Pengumuman. Bandingkan dengan buku, lagu, dan lukisan di Pasal 58 (seumur hidup + 70 tahun).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 59 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-jangka-seni-terapan",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Hak Cipta atas karya seni terapan berlaku…",
+    "options": [
+      "70 tahun setelah pencipta wafat",
+      "25 tahun sejak pertama diumumkan",
+      "50 tahun sejak pertama diumumkan",
+      "Tanpa batas waktu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 59 ayat (2): 25 tahun sejak pertama kali dilakukan Pengumuman.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 59 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-ebt-negara",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Hak Cipta atas ekspresi budaya tradisional dipegang oleh … dan berlaku…",
+    "options": [
+      "Masyarakat adat, 70 tahun",
+      "Pemerintah daerah, 50 tahun",
+      "Negara, tanpa batas waktu",
+      "Pencipta pertama, seumur hidup"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 38 ayat (1): dipegang oleh Negara. Pasal 60 ayat (1): berlaku tanpa batas waktu.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 38 ayat (1), Pasal 60 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-jangka-penyiaran",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Pelindungan hak ekonomi Lembaga Penyiaran atas karya siarannya berlaku…",
+    "options": [
+      "20 tahun sejak pertama disiarkan",
+      "70 tahun sejak pertama disiarkan",
+      "50 tahun sejak pertama disiarkan",
+      "Tanpa batas waktu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 63 ayat (1) huruf c: 20 tahun. Pelaku Pertunjukan dan Produser Fonogram: 50 tahun sejak difiksasi. Dihitung mulai 1 Januari tahun berikutnya (ayat (2)).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 63",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-hak-moral-judul",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Hak moral untuk mengubah judul dan anak judul Ciptaan berlaku…",
+    "options": [
+      "Seumur hidup pencipta, tidak diwariskan",
+      "10 tahun sejak diumumkan",
+      "Selama jangka waktu Hak Cipta",
+      "Tanpa batas waktu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 57 ayat (2): hak moral huruf c dan d (mengubah ciptaan, mengubah judul) berlaku selama jangka waktu Hak Cipta. Huruf a, b, dan e (mencantumkan nama, memakai nama samaran, menolak distorsi) berlaku tanpa batas waktu (ayat (1)).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 57",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-salinan-pribadi",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Penggandaan untuk kepentingan pribadi atas ciptaan yang sudah diumumkan, tanpa izin pencipta, menurut Pasal 46 ayat (1) boleh dibuat sebanyak…",
+    "options": [
+      "3 salinan",
+      "Tanpa batas asal tak dijual",
+      "1 salinan",
+      "2 salinan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hanya 1 (satu) salinan. Ayat (2) mengecualikan antara lain karya arsitektur berupa bangunan, seluruh atau bagian substansial buku atau notasi musik, dan program komputer.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 46",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-potret-iklan",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Memakai potret seseorang untuk reklame atau iklan komersial memerlukan…",
+    "options": [
+      "Pencatatan ciptaan ke Menteri",
+      "Cukup izin lisan dari fotografer yang memotret",
+      "Persetujuan tertulis yang dipotret/ahli waris",
+      "Cukup mencantumkan nama fotografer"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 12 ayat (1): tanpa persetujuan tertulis dari orang yang dipotret atau ahli warisnya, penggunaan komersial untuk reklame atau periklanan dilarang.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 12 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-dianggap-pencipta",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Kecuali terbukti sebaliknya, yang dianggap sebagai Pencipta adalah orang yang namanya…",
+    "options": [
+      "Pertama kali menjual Ciptaan",
+      "Disebut dalam Ciptaan",
+      "Terdaftar sebagai pembeli",
+      "Membayar pembuatan Ciptaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 31: disebut dalam Ciptaan, dinyatakan sebagai Pencipta pada Ciptaan, disebutkan dalam surat pencatatan Ciptaan, dan/atau tercantum dalam daftar umum Ciptaan sebagai Pencipta.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 31",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-logo-tak-dicatat",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Pencatatan Ciptaan tidak dapat dilakukan terhadap seni lukis yang berupa…",
+    "options": [
+      "Logo yang dipakai sebagai merek",
+      "Karikatur tokoh fiksi",
+      "Lukisan pemandangan alam",
+      "Ilustrasi buku cerita untuk anak-anak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 65: logo atau tanda pembeda yang digunakan sebagai merek dalam perdagangan barang/jasa atau sebagai lambang organisasi, badan usaha, atau badan hukum.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 65",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-habis-setelah-dijual",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Hak ekonomi untuk Pendistribusian tidak berlaku terhadap Ciptaan atau salinannya yang…",
+    "options": [
+      "Belum dicatatkan di kementerian",
+      "Dibuat sebelum tahun 2014",
+      "Telah dijual atau dialihkan kepemilikannya",
+      "Dibuat oleh pencipta asing yang tinggal di luar negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 11 ayat (1). Pembeli buku bekas, misalnya, menjual kembali salinan yang sudah dibelinya tanpa melanggar hak distribusi.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 11 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-mediasi-dulu",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Selain kasus Pembajakan, bila para pihak diketahui keberadaannya di wilayah Indonesia, sebelum menuntut pidana Hak Cipta wajib ditempuh dulu…",
+    "options": [
+      "Mediasi",
+      "Pencatatan ciptaan",
+      "Arbitrase",
+      "Somasi tiga kali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 95 ayat (4). Perlu dicek hubungannya dengan KUHAP baru (UU 20/2025).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 95 ayat (4)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-ganti-rugi-pidana",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Dalam perkara pidana Hak Cipta, ganti rugi dicantumkan dalam amar putusan dan dibayar paling lama…",
+    "options": [
+      "1 bulan setelah putusan",
+      "6 bulan setelah inkracht",
+      "3 bulan setelah eksekusi",
+      "1 tahun setelah putusan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 96 ayat (2)-(3): paling lama 6 (enam) bulan setelah putusan pengadilan yang berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 96 ayat (2)-(3)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-masa-lisensi",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Perjanjian Lisensi Hak Cipta menurut Pasal 80 ayat (2) berlaku…",
+    "options": [
+      "Sampai pencipta wafat, lalu beralih ke ahli waris",
+      "Lima tahun dan dapat diperpanjang",
+      "Selamanya bila para pihak sepakat",
+      "Waktu tertentu, tak melebihi masa Hak Cipta"
+    ],
+    "answerIndex": 3,
+    "explanation": "Selama jangka waktu tertentu dan tidak melebihi masa berlaku Hak Cipta dan Hak Terkait.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 80 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-hak-ekonomi-9",
+    "type": "review",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "front": "Sebutkan sembilan hak ekonomi Pencipta atau Pemegang Hak Cipta menurut Pasal 9 ayat (1).",
+    "back": "Penerbitan; Penggandaan dalam segala bentuknya; penerjemahan; pengadaptasian, pengaransemenan, atau pentransformasian; Pendistribusian ciptaan atau salinannya; pertunjukan; Pengumuman; Komunikasi; dan penyewaan Ciptaan. Yang melaksanakannya wajib mendapat izin Pencipta atau Pemegang Hak Cipta (ayat (2)).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 9",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-tanpa-hak-cipta",
+    "type": "fact",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "infographic",
+      "title": "Tidak ada Hak Cipta atas",
+      "points": [
+        "Rapat terbuka lembaga negara",
+        "Peraturan perundang-undangan",
+        "Pidato kenegaraan/pejabat",
+        "Putusan hakim & kitab suci"
+      ]
+    },
+    "caption": "Pasal 42. Daftar ini berbeda dari Pasal 43-44 (perbuatan yang tidak dianggap pelanggaran): di sini memang tidak ada Hak Cipta sama sekali.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 42",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-pencipta-misterius",
+    "type": "carousel",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Hak Cipta",
+          "title": "Penciptanya tidak diketahui",
+          "subtitle": "Pasal 39",
+          "character": "cat",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Siapa memegang Hak Cipta?",
+          "points": [
+            "Belum diumumkan: Negara",
+            "Diumumkan, nama samaran: pengumum",
+            "Terbit, semua tak diketahui: Negara",
+            "Gugur bila pemilik terbukti"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Sebuah novel diterbitkan dengan nama samaran; penerbitnya diketahui. Hak Cipta dipegang…",
+        "options": [
+          "Penerbit pertama di dunia",
+          "Negara untuk kepentingan masyarakat",
+          "Siapa pun yang menemukannya",
+          "Pihak yang melakukan Pengumuman"
+        ],
+        "answerIndex": 3,
+        "explanation": "Pasal 39 ayat (2): pihak yang melakukan Pengumuman, untuk kepentingan Pencipta. Bila Pencipta dapat membuktikan kepemilikannya, ketentuan ini tidak berlaku (ayat (4))."
+      }
+    ],
+    "caption": "Semua pemegang di Pasal 39 memegang hak untuk kepentingan Pencipta, bukan untuk dirinya sendiri.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 39",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-humor-klaim-ide",
+    "type": "humor",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "meme",
+      "top": "Mau daftar hak cipta atas ide bisnis",
+      "bottom": "Ide tidak dilindungi",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Hak Cipta lahir dari ciptaan yang sudah diwujudkan dalam bentuk nyata, bukan dari ide di kepala.",
+    "teaches": "Setiap ide, prosedur, sistem, metode, konsep, prinsip, temuan, atau data tidak dilindungi Hak Cipta walaupun telah diungkapkan dalam sebuah Ciptaan (Pasal 41 huruf b UU 28/2014).",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 41",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_28_2014.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

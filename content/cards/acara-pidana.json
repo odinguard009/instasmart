@@ -1,0 +1,526 @@
+[
+  {
+    "id": "acara-pidana-fakta-dasar-kuhap-baru",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "KUHAP baru: fakta dasar",
+      "points": [
+        "UU No. 20 Tahun 2025",
+        "Diundangkan 17 Desember 2025",
+        "Berlaku 2 Januari 2026",
+        "Mencabut UU No. 8 Tahun 1981 (KUHAP lama)"
+      ]
+    },
+    "caption": "Hukum acara pidana berganti bersamaan dengan berlakunya KUHP Nasional. Kalau bukumu masih menyebut \"Pasal 184 KUHAP\" tanpa keterangan, itu KUHAP lama.",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "buku saya mendadak jadi buku sejarah"
+      },
+      {
+        "user": "saksi.cicak",
+        "text": "saya saksinya, bukunya memang sudah berdebu"
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Metadata peraturan di Database Peraturan BPK",
+      "url": "https://peraturan.bpk.go.id/Details/337302/uu-no-20-tahun-2025"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-mencabut-uu-apa",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "UU No. 20 Tahun 2025 tentang KUHAP mencabut undang-undang yang mana?",
+    "options": [
+      "UU No. 1 Tahun 1946",
+      "UU No. 8 Tahun 1981",
+      "UU No. 48 Tahun 2009",
+      "UU No. 1 Tahun 2023"
+    ],
+    "answerIndex": 1,
+    "explanation": "KUHAP baru mencabut UU No. 8 Tahun 1981 tentang Hukum Acara Pidana, yang berlaku lebih dari empat dekade. UU No. 1 Tahun 2023 adalah KUHP Nasional (hukum pidana materiil), bukan hukum acaranya.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Status peraturan di Database Peraturan BPK",
+      "url": "https://peraturan.bpk.go.id/Details/337302/uu-no-20-tahun-2025"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-jumlah-alat-bukti",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Berapa jenis alat bukti yang dikenal KUHAP baru?",
+    "options": [
+      "Lima",
+      "Enam",
+      "Tujuh",
+      "Delapan"
+    ],
+    "answerIndex": 3,
+    "explanation": "KUHAP lama mengenal lima alat bukti. KUHAP baru memperluasnya menjadi delapan, antara lain dengan menambahkan barang bukti, bukti elektronik, pengamatan hakim, dan segala sesuatu yang dapat digunakan untuk kepentingan pembuktian.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Pasal 235 ayat (1), menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-petunjuk-diganti",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Alat bukti \"petunjuk\" dalam KUHAP lama tidak lagi muncul di KUHAP baru. Penggantinya adalah...",
+    "options": [
+      "Keterangan korban",
+      "Pengamatan hakim",
+      "Berita acara penyidikan",
+      "Keterangan penyidik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Menurut ulasan di media Mahkamah Agung, \"petunjuk\" digantikan \"pengamatan hakim\", yang terbatas pada apa yang diamati hakim langsung di persidangan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Pasal 235 ayat (1), menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pov-cctv",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "POV: kamu rekaman CCTV, dulu cuma diperdebatkan statusnya",
+      "bottom": "KUHAP baru: bukti elektronik, alat bukti sendiri",
+      "character": "gecko",
+      "expression": "shock"
+    },
+    "caption": "Naik kelas. Bukti elektronik kini berdiri sendiri sebagai alat bukti dalam KUHAP baru, tidak lagi diperdebatkan apakah cuma \"petunjuk\".",
+    "teaches": "Bukti elektronik sebagai alat bukti tersendiri dalam KUHAP baru (UU 20/2025).",
+    "comments": [
+      {
+        "user": "saksi.cicak",
+        "text": "akhirnya ada teman sesama saksi bisu"
+      },
+      {
+        "user": "admin.grup.wa",
+        "text": "screenshot grup juga?"
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Pasal 235 ayat (1), menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-yakin-saja-tidak-cukup",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Yakin saja tidak cukup",
+      "panels": [
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Saya yakin 100% dia bersalah."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Alat buktinya berapa, Yang Mulia?"
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "...satu."
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Minimal dua yang sah, PLUS keyakinan. Kumulatif."
+        }
+      ]
+    },
+    "caption": "Sistem pembuktian negatif (negatief wettelijk): pidana hanya dapat dijatuhkan dengan sekurang-kurangnya dua alat bukti yang sah dan keyakinan hakim. Salah satu saja tidak cukup.",
+    "teaches": "Syarat pemidanaan: minimal dua alat bukti yang sah dan keyakinan hakim (KUHAP baru; pada KUHAP lama diatur di Pasal 183).",
+    "comments": [
+      {
+        "user": "pakhoot.bijak",
+        "text": "ini simulasi. saya aslinya teliti."
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Pasal 230, menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-delapan-alat-bukti",
+    "type": "reel",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "caption": "Dari lima jadi delapan. Ini daftar alat bukti KUHAP baru menurut ulasan di media Mahkamah Agung; urutan resminya cek di teks UU.",
+    "scenes": [
+      {
+        "durationMs": 3700,
+        "text": "Alat bukti pidana: dari 5 jadi 8",
+        "caption": "KUHAP baru memperluas alat bukti dari lima menjadi delapan.",
+        "character": "gecko",
+        "expression": "shock",
+        "characterMotion": "bounce",
+        "textMotion": "pop",
+        "effect": "shake"
+      },
+      {
+        "durationMs": 4100,
+        "text": "Yang lama dan tetap ada",
+        "caption": "Keterangan saksi, keterangan ahli, surat, dan keterangan terdakwa.",
+        "kicker": "Bertahan",
+        "character": "owl",
+        "expression": "happy",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 3200,
+        "text": "Baru: barang bukti",
+        "caption": "Barang bukti naik status menjadi alat bukti.",
+        "kicker": "Baru",
+        "character": "cat",
+        "expression": "happy",
+        "transition": "slide",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 4900,
+        "text": "Baru: bukti elektronik",
+        "caption": "Rekaman CCTV, data transaksi, pesan aplikasi: bukti elektronik berdiri sendiri.",
+        "kicker": "Baru",
+        "character": "gecko",
+        "expression": "smug",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 5200,
+        "text": "Baru: pengamatan hakim",
+        "caption": "Menggantikan petunjuk. Terbatas pada apa yang diamati hakim langsung di persidangan.",
+        "kicker": "Baru",
+        "character": "owl",
+        "expression": "think",
+        "transition": "slide",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 4300,
+        "text": "Plus: segala sesuatu untuk pembuktian",
+        "caption": "Dan segala sesuatu yang dapat digunakan untuk kepentingan pembuktian.",
+        "kicker": "Baru",
+        "character": "kancil",
+        "expression": "happy",
+        "effect": "confetti",
+        "transition": "zoom"
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Pasal 235 ayat (1), menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-praduga-tak-bersalah",
+    "type": "reel",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "caption": "Tersangka bukan terpidana. Asas praduga tak bersalah ditegaskan di UU Kekuasaan Kehakiman.",
+    "scenes": [
+      {
+        "durationMs": 3200,
+        "text": "Ditangkap = bersalah?",
+        "caption": "Belum tentu. Ada asas praduga tak bersalah.",
+        "character": "gecko",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 7700,
+        "text": "Wajib dianggap tidak bersalah",
+        "caption": "Setiap orang yang disangka, ditangkap, ditahan, dituntut, atau dihadapkan di depan pengadilan wajib dianggap tidak bersalah.",
+        "kicker": "Pasal 8 ayat (1)",
+        "character": "owl",
+        "expression": "happy",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 6300,
+        "text": "Sampai kapan? Sampai inkracht",
+        "caption": "Sebelum ada putusan pengadilan yang menyatakan kesalahannya dan telah memperoleh kekuatan hukum tetap.",
+        "character": "cat",
+        "expression": "smug",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 5000,
+        "text": "Jadi: tersangka bukan terpidana",
+        "caption": "Biasakan menyebut status hukum dengan tepat: tersangka, terdakwa, atau terpidana.",
+        "character": "kancil",
+        "expression": "happy",
+        "effect": "zoom",
+        "textMotion": "pop"
+      }
+    ],
+    "comments": [
+      {
+        "user": "netizen.maha.benar",
+        "text": "tapi di kolom komentar sudah divonis"
+      },
+      {
+        "user": "saksi.cicak",
+        "text": "kolom komentar bukan pengadilan"
+      }
+    ],
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 8 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-yang-baru-di-kuhap",
+    "type": "carousel",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "caption": "Apa saja isi pembaruan KUHAP? Daftar ini diambil dari abstrak resmi di Database Peraturan BPK. Detail pasalnya pelajari dari teks UU.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Yang baru di KUHAP 2025",
+          "subtitle": "Menurut abstrak resmi UU No. 20 Tahun 2025",
+          "character": "gecko",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Mekanisme baru",
+          "points": [
+            "Pengakuan bersalah (plea bargain)",
+            "Perjanjian penundaan penuntutan (deferred prosecution agreement)",
+            "Mekanisme keadilan restoratif",
+            "Pengaturan saksi mahkota"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Penguatan",
+          "points": [
+            "Hak tersangka, terdakwa, terpidana, saksi, korban, penyandang disabilitas",
+            "Mekanisme praperadilan",
+            "Peran advokat",
+            "Koordinasi penyidik dan penuntut umum"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Diatur ulang",
+          "points": [
+            "Upaya paksa",
+            "Ganti rugi, rehabilitasi, restitusi, dan kompensasi",
+            "Upaya hukum"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Manakah mekanisme yang BARU ditambahkan dalam KUHAP 2025 menurut abstrak resminya?",
+        "options": [
+          "Praperadilan",
+          "Banding",
+          "Pengakuan bersalah (plea bargain)",
+          "Kasasi"
+        ],
+        "answerIndex": 2,
+        "explanation": "Abstrak UU No. 20 Tahun 2025 menyebut \"penambahan pengakuan bersalah (plea bargain) dan perjanjian penundaan penuntutan\". Praperadilan sudah dikenal sejak KUHAP 1981; di KUHAP baru ia diperkuat."
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Abstrak materi pokok di Database Peraturan BPK",
+      "url": "https://peraturan.bpk.go.id/Details/337302/uu-no-20-tahun-2025"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-dua-bukti-plus-yakin",
+    "type": "story",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "title": "Dua bukti + keyakinan",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Story",
+          "title": "Kapan hakim boleh memidana?",
+          "subtitle": "Sistem pembuktian negatif",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Rumusnya",
+          "text": "2 alat bukti sah + keyakinan hakim",
+          "sub": "Keduanya kumulatif, tidak boleh salah satu saja."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Istilahnya",
+          "text": "Negatief wettelijk bewijstheorie",
+          "sub": "Pembuktian menurut undang-undang secara negatif."
+        }
+      },
+      {
+        "visual": {
+          "template": "infographic",
+          "title": "Dua skenario gagal",
+          "points": [
+            "Bukti ada, hakim tidak yakin: tidak dapat memidana",
+            "Hakim yakin, bukti sah kurang dari dua: tidak dapat memidana"
+          ]
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Kalau ragu",
+          "text": "In dubio pro reo",
+          "sub": "Dalam keraguan yang beralasan, terdakwa yang diuntungkan."
+        }
+      }
+    ],
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Pasal 230, menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-pengakuan-saja-cukup",
+    "type": "poll",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Terdakwa mengaku bersalah, tapi tidak ada bukti lain sama sekali. Cukup untuk menjatuhkan pidana?",
+    "options": [
+      "Cukup, kan sudah mengaku",
+      "Tidak cukup"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pengakuan semata tanpa dukungan bukti lain tidak cukup untuk menjatuhkan pidana. Dalam mekanisme pengakuan bersalah di KUHAP baru pun, hakim harus memastikan pengakuan diberikan secara sadar dan sukarela serta didukung bukti.",
+    "caption": "Pengakuan itu penting, tapi bukan segalanya.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025)",
+      "reference": "Ketentuan pembuktian dan pengakuan bersalah, menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-alat-bukti-kuhap-lama",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "front": "VERSI LAMA (untuk perbandingan): apa saja lima alat bukti menurut Pasal 184 ayat (1) KUHAP 1981?",
+    "back": "Keterangan saksi, keterangan ahli, surat, petunjuk, dan keterangan terdakwa. Ingat: UU 8/1981 sudah dicabut oleh UU 20/2025 sejak 2 Januari 2026; daftar ini hanya untuk membandingkan dan untuk perkara yang masih tunduk pada aturan lama.",
+    "source": {
+      "title": "KUHAP lama (UU No. 8 Tahun 1981, sudah dicabut)",
+      "reference": "Pasal 184 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-penetapan-tersangka-praperadilan",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Sejarah penting",
+      "text": "Penetapan tersangka bisa diuji lewat praperadilan",
+      "sub": "Sejak Putusan MK No. 21/PUU-XII/2014, pada masa KUHAP lama."
+    },
+    "caption": "Lewat putusan itu MK memasukkan penetapan tersangka, penggeledahan, dan penyitaan sebagai objek praperadilan, dan menafsirkan \"bukti permulaan\" sebagai minimal dua alat bukti. Bagaimana KUHAP baru mengaturnya sekarang: cek teks UU 20/2025.",
+    "source": {
+      "title": "Putusan Mahkamah Konstitusi No. 21/PUU-XII/2014",
+      "reference": "Amar putusan mengenai objek praperadilan dan bukti permulaan (terkait KUHAP lama)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "tags": [
+      "kejutan"
+    ]
+  }
+]

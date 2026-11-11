@@ -1,0 +1,639 @@
+[
+  {
+    "id": "perdata-syarat-sah-perjanjian",
+    "type": "fact",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "visual": {
+      "template": "infographic",
+      "title": "4 syarat sah perjanjian (Pasal 1320 KUHPerdata)",
+      "points": [
+        "Sepakat mereka yang mengikatkan diri",
+        "Cakap untuk membuat perikatan",
+        "Suatu hal (pokok persoalan) tertentu",
+        "Sebab yang halal (tidak terlarang)"
+      ]
+    },
+    "caption": "Syarat 1-2 disebut syarat subjektif (soal orangnya): kalau tidak terpenuhi, perjanjian DAPAT DIBATALKAN. Syarat 3-4 syarat objektif (soal isinya): kalau tidak terpenuhi, perjanjian BATAL DEMI HUKUM. Pembedaan subjektif/objektif ini ajaran doktrin, bukan bunyi pasal.",
+    "comments": [
+      {
+        "user": "anak.kontrak",
+        "text": "syarat sah hubungan juga harusnya gini sih, minimal sepakat dulu"
+      },
+      {
+        "user": "mpus.panitera",
+        "text": "yang nomor 2 sering dilupakan pas tanda tangan jam 2 pagi"
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1320"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-jembatan-1320",
+    "type": "mnemonic",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jembatan keledai",
+      "text": "SE-CA-HAL-HAL",
+      "sub": "SEpakat, CAkap, HAL tertentu, sebab yang HALal"
+    },
+    "caption": "Empat syarat sah perjanjian dalam satu tarikan napas. Dua yang pertama soal subjek, dua yang terakhir soal objek.",
+    "phrase": "SE-CA-HAL-HAL",
+    "expansion": [
+      "SE: sepakat para pihak",
+      "CA: cakap membuat perikatan",
+      "HAL: suatu hal tertentu",
+      "HAL: sebab yang halal"
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1320"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-akibat-syarat-subjektif",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Perjanjian dibuat oleh orang yang belum cakap. Menurut ajaran yang umum dipakai, apa akibatnya?",
+    "options": [
+      "Batal demi hukum sejak awal",
+      "Dapat dibatalkan (vernietigbaar)",
+      "Tetap sah dan tidak bisa diganggu gugat",
+      "Otomatis menjadi perbuatan melawan hukum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kecakapan adalah syarat subjektif. Tidak terpenuhinya syarat subjektif (sepakat, cakap) membuat perjanjian dapat dibatalkan atas permintaan pihak yang berkepentingan. Batal demi hukum adalah akibat tidak terpenuhinya syarat objektif (hal tertentu, sebab yang halal).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1320 jo. doktrin hukum perjanjian"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-asas-1338",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "\"Semua persetujuan yang dibuat sesuai dengan undang-undang berlaku sebagai undang-undang bagi mereka yang membuatnya.\" Rumusan ini melahirkan asas apa?",
+    "options": [
+      "Asas kepribadian",
+      "Asas kekuatan mengikat (pacta sunt servanda)",
+      "Asas legalitas",
+      "Asas ne bis in idem"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1338 ayat (1) KUHPerdata menjadi dasar asas kekuatan mengikat perjanjian (pacta sunt servanda), dan oleh doktrin juga dibaca sebagai dasar kebebasan berkontrak. Ayat (3) pasal yang sama mewajibkan perjanjian dilaksanakan dengan itikad baik.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1338 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-unsur-pmh",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Manakah yang BUKAN unsur perbuatan melawan hukum menurut Pasal 1365 KUHPerdata?",
+    "options": [
+      "Ada perbuatan yang melanggar hukum",
+      "Ada kesalahan pelaku",
+      "Ada kerugian dan hubungan sebab-akibat",
+      "Ada perjanjian tertulis sebelumnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "PMH justru tidak mensyaratkan hubungan kontraktual. Unsurnya: perbuatan melanggar hukum, kesalahan, kerugian, dan hubungan kausal antara perbuatan dan kerugian. Kalau dasarnya perjanjian yang dilanggar, itu ranah wanprestasi.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1365"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-pembatalan-1266",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Dalam perjanjian timbal balik, salah satu pihak wanprestasi. Menurut Pasal 1266 KUHPerdata, bagaimana perjanjian itu batal?",
+    "options": [
+      "Batal otomatis tanpa perlu apa-apa",
+      "Pembatalan harus dimintakan kepada pengadilan",
+      "Batal jika disetujui notaris",
+      "Tidak bisa dibatalkan sama sekali"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1266 KUHPerdata: syarat batal dianggap selalu dicantumkan dalam persetujuan timbal balik, tetapi persetujuan tidak batal demi hukum; pembatalannya harus dimintakan kepada pengadilan. Dalam praktik kontrak, para pihak sering mencantumkan klausul pengesampingan pasal ini.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1266"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-janji-manis-1338",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Dia: \"Itu kan cuma omongan doang\"",
+      "bottom": "Pasal 1338: perjanjian sah mengikat seperti undang-undang",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Bang Kancil mengingatkan: janji yang memenuhi syarat sah itu mengikat. Urusan membuktikannya di pengadilan memang cerita lain, makanya biasakan tertulis.",
+    "teaches": "Asas kekuatan mengikat perjanjian (pacta sunt servanda), Pasal 1338 ayat (1) KUHPerdata.",
+    "comments": [
+      {
+        "user": "korban.php",
+        "text": "tolong forward ke mantan saya"
+      },
+      {
+        "user": "bang.kancil",
+        "text": "screenshot chat tetap disimpan ya, buat jaga-jaga"
+      },
+      {
+        "user": "notaris.magang",
+        "text": "tertulis > terucap, catat"
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1338 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-kucing-pecahin-pot",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Sidang pot bunga",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Kucing tetangga memecahkan pot saya, Yang Mulia."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Kucingnya milik siapa?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Saya cuma lewat, sumpah."
+        },
+        {
+          "character": "kancil",
+          "expression": "sad",
+          "text": "Pasal 1368: pemiliknya yang tanggung. Itu saya."
+        }
+      ]
+    },
+    "caption": "Hewan tidak bisa digugat. Pemilik atau pemakainya yang bertanggung jawab atas kerugian yang ditimbulkan binatang itu, baik saat diawasi maupun saat tersesat atau lepas.",
+    "teaches": "Tanggung jawab pemilik binatang atas kerugian yang disebabkan binatangnya, Pasal 1368 KUHPerdata.",
+    "comments": [
+      {
+        "user": "mpus.panitera",
+        "text": "keberatan, saya dijebak"
+      },
+      {
+        "user": "ibu.kos",
+        "text": "ayam tetangga yang makan jemuran saya gimana, termasuk?"
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1368"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-wanprestasi-vs-pmh",
+    "type": "reel",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "caption": "Wanprestasi vs PMH: bedanya ada di sumber perikatannya. Salah pilih dasar gugatan bisa bikin gugatan kabur.",
+    "scenes": [
+      {
+        "durationMs": 3500,
+        "text": "Wanprestasi vs PMH. Sering ketukar!",
+        "caption": "Dua dasar gugatan ganti rugi yang paling sering tertukar.",
+        "character": "kancil",
+        "expression": "shock",
+        "characterMotion": "bounce",
+        "textMotion": "pop",
+        "effect": "shake"
+      },
+      {
+        "durationMs": 5200,
+        "text": "Wanprestasi: ada PERJANJIAN yang dilanggar",
+        "caption": "Wanprestasi lahir dari perjanjian. Ganti ruginya diatur mulai Pasal 1243 KUHPerdata.",
+        "kicker": "Wanprestasi",
+        "character": "kancil",
+        "expression": "think",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 7800,
+        "text": "PMH: tidak perlu ada perjanjian",
+        "caption": "Perbuatan melawan hukum lahir dari undang-undang, Pasal 1365 KUHPerdata: perbuatan melanggar hukum yang merugikan orang lain.",
+        "kicker": "PMH",
+        "character": "owl",
+        "expression": "happy",
+        "transition": "slide",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 6700,
+        "text": "Wanprestasi: debitur dinyatakan lalai dulu",
+        "caption": "Menurut Pasal 1238, debitur lalai dengan surat perintah atau akta sejenis. Inilah yang biasa disebut somasi.",
+        "kicker": "Somasi",
+        "character": "cat",
+        "expression": "smug",
+        "characterMotion": "nod"
+      },
+      {
+        "durationMs": 5600,
+        "text": "Cek dulu: ada kontraknya atau tidak?",
+        "caption": "Ada perjanjian yang dilanggar: wanprestasi. Tidak ada perjanjian: perbuatan melawan hukum.",
+        "character": "kancil",
+        "expression": "happy",
+        "characterMotion": "bounce",
+        "effect": "confetti",
+        "textMotion": "pop",
+        "transition": "zoom"
+      }
+    ],
+    "comments": [
+      {
+        "user": "mahasiswa.semester7",
+        "text": "ini keluar di UAS, di ujian advokat, di mana-mana"
+      },
+      {
+        "user": "bang.kancil",
+        "text": "posita rapi, petitum aman"
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1238, Pasal 1243, dan Pasal 1365"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-overmacht",
+    "type": "reel",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "caption": "Keadaan memaksa (overmacht/force majeure) membebaskan debitur dari ganti rugi, asal benar-benar tak terduga dan bukan salahnya.",
+    "scenes": [
+      {
+        "durationMs": 3200,
+        "text": "Gagal menepati janji, selalu wajib ganti rugi?",
+        "caption": "Tidak selalu. KUHPerdata mengenal keadaan memaksa.",
+        "character": "gecko",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 8400,
+        "text": "Keadaan memaksa = overmacht",
+        "caption": "Pasal 1245: tidak ada penggantian biaya, kerugian, dan bunga bila debitur terhalang karena keadaan memaksa atau kejadian tak disengaja.",
+        "kicker": "Pasal 1245",
+        "character": "owl",
+        "expression": "happy",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 9000,
+        "text": "Yang membuktikan: debitur",
+        "caption": "Pasal 1244: debitur dihukum mengganti rugi bila tak dapat membuktikan bahwa halangannya disebabkan hal tak terduga yang tak dapat dipertanggungkan kepadanya.",
+        "kicker": "Pasal 1244",
+        "character": "cat",
+        "expression": "smug",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 3300,
+        "text": "Malas bukan overmacht ya",
+        "caption": "Lupa, malas, atau salah hitung bukan keadaan memaksa.",
+        "character": "kancil",
+        "expression": "smug",
+        "characterMotion": "nod",
+        "effect": "zoom",
+        "textMotion": "pop"
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1244 dan Pasal 1245"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-asas-perjanjian",
+    "type": "carousel",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "caption": "Lima asas hukum perjanjian yang wajib di luar kepala. Geser sampai habis, slide terakhir ada kuisnya.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "5 asas hukum perjanjian",
+          "subtitle": "Geser. Ada kuis di akhir.",
+          "character": "kancil",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "1",
+          "text": "Kebebasan berkontrak",
+          "sub": "Bebas membuat perjanjian apa pun selama tidak melanggar UU, kesusilaan, dan ketertiban umum. Dasar: Pasal 1338 ayat (1)."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "2",
+          "text": "Konsensualisme",
+          "sub": "Perjanjian lahir sejak tercapai sepakat. Dasar: Pasal 1320."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "3",
+          "text": "Pacta sunt servanda",
+          "sub": "Perjanjian yang sah mengikat seperti undang-undang bagi pembuatnya. Dasar: Pasal 1338 ayat (1)."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "4",
+          "text": "Itikad baik",
+          "sub": "Perjanjian harus dilaksanakan dengan itikad baik. Dasar: Pasal 1338 ayat (3)."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "5",
+          "text": "Kepribadian",
+          "sub": "Perjanjian hanya berlaku bagi pihak yang membuatnya. Dasar: Pasal 1340."
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "A dan B membuat kontrak. C, yang bukan pihak, menuntut hak dari kontrak itu. Asas mana yang paling relevan untuk menolaknya?",
+        "options": [
+          "Konsensualisme",
+          "Kepribadian (Pasal 1340)",
+          "Itikad baik",
+          "Kebebasan berkontrak"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pasal 1340 KUHPerdata: persetujuan hanya berlaku antara pihak-pihak yang membuatnya. Pihak ketiga pada dasarnya tidak dapat menarik manfaat atau dirugikan, kecuali dalam hal yang ditentukan undang-undang."
+      }
+    ],
+    "comments": [
+      {
+        "user": "anak.kontrak",
+        "text": "nomor 4 tuh yang paling langka di dunia nyata"
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1320, Pasal 1338, dan Pasal 1340 (pemetaan asas menurut doktrin)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-bentuk-wanprestasi",
+    "type": "carousel",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "caption": "Empat bentuk wanprestasi versi doktrin yang paling sering dikutip. KUHPerdata sendiri tidak membuat daftar ini; pasalnya hanya menyebut prestasi dan kelalaian.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Wanprestasi itu wujudnya apa saja?",
+          "subtitle": "Prestasi menurut Pasal 1234: memberi, berbuat, atau tidak berbuat sesuatu.",
+          "character": "cat",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "4 bentuk wanprestasi (doktrin)",
+          "points": [
+            "Tidak melakukan apa yang disanggupi",
+            "Melakukan, tetapi terlambat",
+            "Melakukan, tetapi tidak sebagaimana dijanjikan",
+            "Melakukan sesuatu yang menurut perjanjian dilarang"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Kontraktor menyerahkan rumah tepat waktu, tapi spesifikasi atap tidak sesuai kontrak. Ini wanprestasi bentuk apa?",
+        "options": [
+          "Tidak melakukan sama sekali",
+          "Terlambat",
+          "Melakukan tetapi tidak sebagaimana dijanjikan",
+          "Bukan wanprestasi"
+        ],
+        "answerIndex": 2,
+        "explanation": "Prestasi dilakukan dan tepat waktu, tetapi isinya tidak sesuai yang diperjanjikan. Itu bentuk ketiga dalam pembagian doktrin."
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1234, Pasal 1238, dan Pasal 1243 (empat bentuk wanprestasi menurut doktrin)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-pmh-kilat",
+    "type": "story",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "title": "PMH dalam 5 slide",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Story",
+          "title": "PMH dalam 5 slide",
+          "subtitle": "Perbuatan melawan hukum, Pasal 1365 KUHPerdata",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "quote",
+          "label": "Inti Pasal 1365",
+          "text": "Tiap perbuatan melanggar hukum yang membawa kerugian kepada orang lain mewajibkan orang yang karena salahnya menerbitkan kerugian itu untuk mengganti kerugian tersebut.",
+          "footer": "Rumusan terjemahan yang lazim dikutip"
+        }
+      },
+      {
+        "visual": {
+          "template": "infographic",
+          "title": "Unsurnya",
+          "points": [
+            "Perbuatan melanggar hukum",
+            "Kesalahan",
+            "Kerugian",
+            "Hubungan sebab-akibat"
+          ]
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Lindenbaum-Cohen 1919",
+          "text": "Melawan hukum tidak hanya melanggar undang-undang",
+          "sub": "Sejak arrest Hoge Raad 31 Januari 1919, juga mencakup melanggar hak orang lain, kewajiban hukum pelaku, kesusilaan, dan kepatutan."
+        }
+      },
+      {
+        "visual": {
+          "template": "illustration",
+          "scene": "timbangan",
+          "title": "Bisa juga karena orang lain",
+          "caption": "Pasal 1367: bertanggung jawab juga atas kerugian yang disebabkan orang yang menjadi tanggungannya."
+        }
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1365 dan Pasal 1367; Arrest Hoge Raad 31 Januari 1919 (Lindenbaum-Cohen)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-kapan-jual-beli-terjadi",
+    "type": "poll",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Jual beli dianggap sudah terjadi sejak kapan?",
+    "options": [
+      "Saat sepakat soal barang dan harga",
+      "Saat barang diserahkan",
+      "Saat harga dibayar lunas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1458 KUHPerdata: jual beli dianggap telah terjadi segera setelah para pihak sepakat tentang barang dan harganya, meskipun barang belum diserahkan dan harga belum dibayar. Tapi hati-hati: menurut Pasal 1459, hak milik baru berpindah setelah penyerahan.",
+    "caption": "Sepakat dulu, serah terima kemudian. Jual beli bersifat konsensual.",
+    "comments": [
+      {
+        "user": "olshop.sejak2019",
+        "text": "jadi yang \"keep dulu kak\" itu sudah jual beli dong?"
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1458 dan Pasal 1459"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-alat-bukti-perdata",
+    "type": "review",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "front": "Sebutkan lima alat bukti dalam perkara perdata menurut Pasal 1866 KUHPerdata.",
+    "back": "Bukti tulisan, bukti dengan saksi-saksi, persangkaan, pengakuan, dan sumpah. Daftar yang sama ada di Pasal 164 HIR.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1866"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-daluwarsa-30-tahun",
+    "type": "fact",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Daluwarsa",
+      "text": "30 tahun",
+      "sub": "Segala tuntutan hukum, baik kebendaan maupun perorangan, hapus karena daluwarsa dengan lewatnya 30 tahun. Pasal 1967 KUHPerdata."
+    },
+    "caption": "Ini daluwarsa umum. Undang-undang juga mengenal jangka waktu daluwarsa yang lebih pendek untuk tuntutan tertentu, jadi selalu cek aturan khususnya.",
+    "comments": [
+      {
+        "user": "penagih.sabar",
+        "text": "30 tahun nunggu dibayar, akhirnya hangus. sakit."
+      }
+    ],
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1967"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

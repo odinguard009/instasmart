@@ -1,0 +1,494 @@
+[
+  {
+    "id": "kebangsaan-lahir-pancasila",
+    "type": "fact",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Hari Lahir Pancasila",
+      "text": "1 Juni 1945",
+      "sub": "Pidato Soekarno di sidang BPUPK. Ditetapkan sebagai hari lahir Pancasila lewat Keppres 24/2016."
+    },
+    "caption": "Tiga tanggal yang sering muncul berurutan: 1 Juni 1945 (pidato Soekarno), 22 Juni 1945 (Piagam Jakarta), 18 Agustus 1945 (rumusan final disahkan PPKI bersama UUD 1945).",
+    "comments": [
+      {
+        "user": "anak.upacara",
+        "text": "tanggal merah favorit setelah 17 Agustus"
+      }
+    ],
+    "source": {
+      "title": "Keputusan Presiden No. 24 Tahun 2016 tentang Hari Lahir Pancasila",
+      "reference": "Penetapan 1 Juni sebagai Hari Lahir Pancasila"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-lambang-sila-keempat",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Sila keempat Pancasila dilambangkan dengan...",
+    "options": [
+      "Rantai",
+      "Pohon beringin",
+      "Kepala banteng",
+      "Padi dan kapas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Urutannya: sila pertama bintang, sila kedua rantai, sila ketiga pohon beringin, sila keempat kepala banteng, sila kelima padi dan kapas.",
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Ketentuan lambang negara mengenai perisai Garuda Pancasila (cek nomor pasalnya)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-asal-bhinneka",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Semboyan \"Bhinneka Tunggal Ika\" berasal dari karya sastra apa?",
+    "options": [
+      "Negarakertagama karya Mpu Prapanca",
+      "Kakawin Sutasoma karya Mpu Tantular",
+      "Pararaton",
+      "Arjunawiwaha karya Mpu Kanwa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Frasa itu berasal dari Kakawin Sutasoma karya Mpu Tantular pada masa Majapahit. Kedudukannya sebagai semboyan pada lambang negara ditegaskan Pasal 36A UUD 1945.",
+    "source": {
+      "title": "Kakawin Sutasoma karya Mpu Tantular; UUD 1945",
+      "reference": "Asal semboyan; Pasal 36A UUD 1945 untuk kedudukannya"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-pasal-36a",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "question": "Pasal 36A UUD 1945 mengatur tentang...",
+    "options": [
+      "Bendera negara Sang Merah Putih",
+      "Bahasa negara",
+      "Lambang negara Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika",
+      "Lagu kebangsaan Indonesia Raya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Urutannya mudah: Pasal 35 bendera, Pasal 36 bahasa, Pasal 36A lambang negara, Pasal 36B lagu kebangsaan.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 35, Pasal 36, Pasal 36A, dan Pasal 36B"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-bulu-garuda",
+    "type": "humor",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Orang: \"Bulu Garuda Pancasila jumlahnya asal aja\"",
+      "bottom": "Garuda: 17, 8, 19, 45. Tolong dihitung",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Tidak ada yang kebetulan. Sayap masing-masing 17 helai, ekor 8, pangkal ekor 19, leher 45: melambangkan 17-8-1945.",
+    "teaches": "Jumlah bulu Garuda Pancasila (17 sayap, 8 ekor, 19 pangkal ekor, 45 leher) melambangkan tanggal proklamasi.",
+    "comments": [
+      {
+        "user": "anak.upacara",
+        "text": "saya hitung di buku tulis, bener"
+      },
+      {
+        "user": "nusantara.pintar",
+        "text": "detail kecil, makna besar"
+      }
+    ],
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Ketentuan jumlah bulu Garuda Pancasila (cek nomor pasalnya)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-literally-bahasa",
+    "type": "humor",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Which is",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Literally aku tuh prefer ngomong mixed gitu, which is lebih relate."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 36: Bahasa Negara ialah Bahasa Indonesia."
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Okay, noted. Eh, maksudnya: baik, dicatat."
+        }
+      ]
+    },
+    "caption": "Santai, ini bukan larangan ngobrol campur-campur di tongkrongan. Pasal 36 UUD 1945 menetapkan bahasa negara; penggunaannya dalam urusan resmi diatur lebih lanjut dengan undang-undang.",
+    "teaches": "Pasal 36 UUD 1945: Bahasa Negara ialah Bahasa Indonesia.",
+    "comments": [
+      {
+        "user": "anak.jaksel",
+        "text": "which is fair sih"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "di putusan tetap bahasa Indonesia ya"
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 36"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-empat-tujuan-negara",
+    "type": "reel",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "caption": "Empat tujuan negara ada di alinea keempat Pembukaan UUD 1945. Ini jawaban wajib untuk pertanyaan \"untuk apa negara ini dibentuk\".",
+    "scenes": [
+      {
+        "durationMs": 4200,
+        "text": "Untuk apa negara Indonesia dibentuk?",
+        "caption": "Jawabannya ada di alinea keempat Pembukaan Undang-Undang Dasar 1945.",
+        "character": "kancil",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4400,
+        "text": "1. Melindungi segenap bangsa",
+        "caption": "Melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia.",
+        "kicker": "Satu",
+        "character": "owl",
+        "expression": "happy",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 3200,
+        "text": "2. Memajukan kesejahteraan umum",
+        "caption": "Memajukan kesejahteraan umum.",
+        "kicker": "Dua",
+        "character": "cat",
+        "expression": "happy",
+        "transition": "slide",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 4600,
+        "text": "3. Mencerdaskan kehidupan bangsa",
+        "caption": "Mencerdaskan kehidupan bangsa. Termasuk yang sedang kamu lakukan sekarang.",
+        "kicker": "Tiga",
+        "character": "gecko",
+        "expression": "smug",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 6400,
+        "text": "4. Ikut melaksanakan ketertiban dunia",
+        "caption": "Ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial.",
+        "kicker": "Empat",
+        "character": "kancil",
+        "expression": "happy",
+        "transition": "slide",
+        "background": "spotlight",
+        "effect": "confetti"
+      }
+    ],
+    "comments": [
+      {
+        "user": "maba.hukum",
+        "text": "nomor 3 lagi dijalanin lewat scroll ini"
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea keempat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-empat-tanggal-1945",
+    "type": "reel",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "caption": "Empat tanggal di tahun 1945 yang membentuk dasar negara dan konstitusi kita.",
+    "scenes": [
+      {
+        "durationMs": 3300,
+        "text": "1945 dalam empat tanggal",
+        "caption": "Dari gagasan dasar negara sampai konstitusi disahkan.",
+        "character": "kancil",
+        "expression": "happy",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 6600,
+        "text": "1 Juni: pidato Soekarno",
+        "caption": "Soekarno menyampaikan gagasan dasar negara di sidang BPUPK. Kini diperingati sebagai Hari Lahir Pancasila.",
+        "kicker": "1 Juni",
+        "transition": "slide",
+        "character": "owl",
+        "expression": "happy"
+      },
+      {
+        "durationMs": 4400,
+        "text": "22 Juni: Piagam Jakarta",
+        "caption": "Panitia Sembilan merumuskan naskah yang dikenal sebagai Piagam Jakarta.",
+        "kicker": "22 Juni",
+        "transition": "slide",
+        "character": "cat",
+        "expression": "think",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 3200,
+        "text": "17 Agustus: Proklamasi",
+        "caption": "Proklamasi kemerdekaan Indonesia.",
+        "kicker": "17 Agustus",
+        "transition": "slide",
+        "character": "gecko",
+        "expression": "happy",
+        "effect": "confetti"
+      },
+      {
+        "durationMs": 4000,
+        "text": "18 Agustus: UUD disahkan PPKI",
+        "caption": "PPKI mengesahkan Undang-Undang Dasar, sehari setelah proklamasi.",
+        "kicker": "18 Agustus",
+        "transition": "slide",
+        "character": "owl",
+        "expression": "smug",
+        "background": "spotlight"
+      }
+    ],
+    "source": {
+      "title": "Sejarah perumusan Pancasila dan UUD 1945 (risalah sidang BPUPK dan PPKI)",
+      "reference": "Tanggal-tanggal pokok tahun 1945"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-lambang-lima-sila",
+    "type": "carousel",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "caption": "Lima sila, lima lambang di perisai Garuda Pancasila. Slide terakhir ada kuis.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Lima sila, lima lambang",
+          "subtitle": "Isi perisai Garuda Pancasila",
+          "character": "kancil",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Sila dan lambangnya",
+          "points": [
+            "Sila 1: bintang",
+            "Sila 2: rantai",
+            "Sila 3: pohon beringin",
+            "Sila 4: kepala banteng",
+            "Sila 5: padi dan kapas"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Rantai pada perisai Garuda Pancasila melambangkan sila ke berapa?",
+        "options": [
+          "Pertama",
+          "Kedua",
+          "Ketiga",
+          "Kelima"
+        ],
+        "answerIndex": 1,
+        "explanation": "Rantai melambangkan sila kedua: Kemanusiaan yang adil dan beradab."
+      }
+    ],
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Ketentuan lambang negara mengenai perisai Garuda Pancasila (cek nomor pasalnya)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-identitas-negara",
+    "type": "story",
+    "topicId": "kebangsaan",
+    "subTopicId": "simbol-negara",
+    "account": "nusantara.pintar",
+    "title": "Identitas negara",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Story",
+          "title": "Empat identitas negara dalam UUD",
+          "subtitle": "Bab XV UUD 1945",
+          "character": "kancil",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "illustration",
+          "scene": "bendera",
+          "title": "Pasal 35",
+          "caption": "Bendera Negara Indonesia ialah Sang Merah Putih."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 36",
+          "text": "Bahasa Negara ialah Bahasa Indonesia"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 36A",
+          "text": "Garuda Pancasila",
+          "sub": "Lambang Negara ialah Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 36B",
+          "text": "Indonesia Raya",
+          "sub": "Lagu Kebangsaan ialah Indonesia Raya."
+        }
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 35, Pasal 36, Pasal 36A, dan Pasal 36B"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-sumpah-pemuda",
+    "type": "poll",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Sumpah Pemuda diikrarkan pada tanggal...",
+    "options": [
+      "20 Mei 1908",
+      "28 Oktober 1928",
+      "1 Juni 1945",
+      "10 November 1945"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sumpah Pemuda adalah hasil Kongres Pemuda II, 28 Oktober 1928: bertumpah darah satu, berbangsa satu, dan menjunjung bahasa persatuan, bahasa Indonesia. 20 Mei 1908 adalah berdirinya Budi Utomo (Hari Kebangkitan Nasional).",
+    "caption": "Tes cepat tanggal bersejarah.",
+    "source": {
+      "title": "Putusan Kongres Pemuda II, 28 Oktober 1928 (Sumpah Pemuda)",
+      "reference": "Tanggal dan isi ikrar"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-jembatan-lambang-sila",
+    "type": "mnemonic",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jembatan keledai",
+      "text": "Bi-Ra-Po-Ba-Pa",
+      "sub": "Bintang, Rantai, Pohon beringin, Banteng, Padi-kapas"
+    },
+    "caption": "Urutan lambang sila pertama sampai kelima. Ucapkan tiga kali, dijamin nempel.",
+    "phrase": "Bi-Ra-Po-Ba-Pa",
+    "expansion": [
+      "Bi: Bintang (sila 1)",
+      "Ra: Rantai (sila 2)",
+      "Po: Pohon beringin (sila 3)",
+      "Ba: kepala Banteng (sila 4)",
+      "Pa: Padi dan kapas (sila 5)"
+    ],
+    "source": {
+      "title": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+      "reference": "Ketentuan lambang negara mengenai perisai Garuda Pancasila (cek nomor pasalnya)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-negara-kepulauan",
+    "type": "fact",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "quote",
+      "label": "Inti Pasal 25A UUD 1945",
+      "text": "Negara Kesatuan Republik Indonesia adalah sebuah negara kepulauan yang berciri Nusantara dengan wilayah yang batas-batas dan hak-haknya ditetapkan dengan undang-undang."
+    },
+    "caption": "Wawasan Nusantara punya pijakan konstitusional: Indonesia dipandang sebagai satu kesatuan wilayah darat, laut, dan udara. Gagasannya berakar pada Deklarasi Djuanda 1957.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 25A"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "tags": [
+      "kejutan"
+    ]
+  }
+]

@@ -1,0 +1,540 @@
+[
+  {
+    "id": "pidana-asas-legalitas",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "quote",
+      "label": "Inti Pasal 1 ayat (1)",
+      "text": "Tidak ada satu perbuatan pun yang dapat dikenai sanksi pidana dan/atau tindakan, kecuali atas kekuatan peraturan pidana dalam peraturan perundang-undangan yang telah ada sebelum perbuatan dilakukan.",
+      "footer": "Asas legalitas, KUHP Nasional"
+    },
+    "caption": "Nullum delictum nulla poena sine praevia lege poenali. Rumusan di gambar adalah inti norma Pasal 1 ayat (1) KUHP Nasional; cocokkan dengan teks resminya sebelum dikutip di lembar jawaban.",
+    "comments": [
+      {
+        "user": "maba.hukum",
+        "text": "bahasa latinnya panjang banget, bisa disingkat ga"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "bisa: asas legalitas"
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 1 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-kapan-berlaku",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "KUHP Nasional (UU No. 1 Tahun 2023) mulai berlaku pada...",
+    "options": [
+      "2 Januari 2023",
+      "2 Januari 2025",
+      "2 Januari 2026",
+      "17 Agustus 2026"
+    ],
+    "answerIndex": 2,
+    "explanation": "UU No. 1 Tahun 2023 diundangkan 2 Januari 2023 dan mulai berlaku setelah 3 tahun sejak diundangkan, yaitu 2 Januari 2026. Sejak tanggal itu KUHP lama (Wetboek van Strafrecht) digantikan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 624 (ketentuan mulai berlaku)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-larangan-analogi",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Bagaimana sikap KUHP Nasional terhadap penggunaan analogi dalam menetapkan adanya tindak pidana?",
+    "options": [
+      "Diperbolehkan demi keadilan",
+      "Dilarang",
+      "Boleh dengan izin Mahkamah Agung",
+      "Tidak diatur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 ayat (2) KUHP Nasional menegaskan: dalam menetapkan adanya tindak pidana dilarang digunakan analogi. Ini turunan langsung asas legalitas.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 1 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-bukan-pidana-pokok",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Manakah yang BUKAN pidana pokok menurut KUHP Nasional?",
+    "options": [
+      "Pidana penjara",
+      "Pidana pengawasan",
+      "Pidana kerja sosial",
+      "Pidana mati"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pidana pokok (Pasal 65): penjara, tutupan, pengawasan, denda, dan kerja sosial. Pidana mati tidak lagi menjadi pidana pokok: ia adalah pidana yang bersifat khusus yang selalu diancamkan secara alternatif (Pasal 64 dan Pasal 67).",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 64, Pasal 65, dan Pasal 67"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-masa-percobaan-pidana-mati",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut KUHP Nasional, hakim menjatuhkan pidana mati dengan masa percobaan selama...",
+    "options": [
+      "3 tahun",
+      "5 tahun",
+      "10 tahun",
+      "20 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 100 KUHP Nasional: pidana mati dijatuhkan dengan masa percobaan 10 tahun. Jika selama masa itu terpidana menunjukkan sikap dan perbuatan terpuji, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden setelah pertimbangan Mahkamah Agung.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 100"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-analogi-ygy",
+    "type": "humor",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Netizen: \"Hukum aja, kan mirip-mirip sama pasal itu!\"",
+      "bottom": "Pasal 1 ayat (2): analogi dilarang ygy",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Mirip bukan berarti sama. Dalam hukum pidana, perbuatan hanya bisa dipidana kalau memang dirumuskan dalam peraturan, bukan karena \"kayaknya sejenis\".",
+    "teaches": "Larangan analogi dalam menetapkan tindak pidana, Pasal 1 ayat (2) KUHP Nasional.",
+    "comments": [
+      {
+        "user": "netizen.maha.benar",
+        "text": "tapi kan vibes-nya sama"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "vibes bukan sumber hukum pidana"
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 1 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-aturan-berubah",
+    "type": "humor",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Kemarin belum dilarang",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Kemarin belum dilarang, hari ini dilarang. Saya kena?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Tidak. Aturan pidana harus ada sebelum perbuatan."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Kalau aturannya berubah jadi lebih ringan?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Pakai yang menguntungkanmu. Pasal 3."
+        }
+      ]
+    },
+    "caption": "Cika lega. Aturan pidana tidak berlaku surut, dan bila peraturan berubah setelah perbuatan dilakukan, diberlakukan peraturan yang baru kecuali yang lama lebih menguntungkan pelaku.",
+    "teaches": "Asas non-retroaktif dan lex favor reo: Pasal 1 ayat (1) dan Pasal 3 KUHP Nasional.",
+    "comments": [
+      {
+        "user": "saksi.cicak",
+        "text": "hampir copot ekor saya"
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 1 ayat (1) dan Pasal 3"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-empat-hal-baru",
+    "type": "reel",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "caption": "Empat perubahan besar KUHP Nasional yang paling sering ditanyakan. Simpan buat ngulang.",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "KUHP baru sudah berlaku. Apa yang berubah?",
+        "caption": "Empat perubahan besar di KUHP Nasional, Undang-Undang Nomor 1 Tahun 2023.",
+        "character": "owl",
+        "expression": "happy",
+        "characterMotion": "bounce",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 3200,
+        "text": "1. Berlaku sejak 2 Januari 2026",
+        "caption": "Tiga tahun setelah diundangkan pada 2 Januari 2023.",
+        "kicker": "Satu",
+        "character": "cat",
+        "expression": "happy",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 6300,
+        "text": "2. Tidak ada lagi \"kejahatan\" vs \"pelanggaran\"",
+        "caption": "KUHP Nasional hanya terdiri dari Buku Kesatu tentang aturan umum dan Buku Kedua tentang tindak pidana.",
+        "kicker": "Dua",
+        "character": "gecko",
+        "expression": "shock",
+        "transition": "slide",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 6300,
+        "text": "3. Pidana mati dengan masa percobaan 10 tahun",
+        "caption": "Pidana mati menjadi pidana bersifat khusus, dijatuhkan dengan masa percobaan sepuluh tahun. Pasal 100.",
+        "kicker": "Tiga",
+        "character": "owl",
+        "expression": "think",
+        "transition": "slide",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 5100,
+        "text": "4. Ada pidana pengawasan dan kerja sosial",
+        "caption": "Pidana pokok kini: penjara, tutupan, pengawasan, denda, dan kerja sosial. Pasal 65.",
+        "kicker": "Empat",
+        "character": "kancil",
+        "expression": "happy",
+        "effect": "confetti",
+        "transition": "zoom"
+      }
+    ],
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "saya hafal KUHP lama 4 tahun, terus begini"
+      },
+      {
+        "user": "ngopi.kuhp",
+        "text": "ngopi dulu, hafalin ulang pelan-pelan"
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 65, Pasal 100, dan Pasal 624; sistematika Buku Kesatu dan Buku Kedua"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-kategori-denda",
+    "type": "reel",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "caption": "Denda di KUHP Nasional pakai sistem kategori I sampai VIII. Angkanya enak dihafal karena berpola.",
+    "scenes": [
+      {
+        "durationMs": 4900,
+        "text": "Denda sekarang pakai KATEGORI",
+        "caption": "Pasal 79 KUHP Nasional membagi pidana denda maksimum ke dalam delapan kategori.",
+        "character": "cat",
+        "expression": "happy",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 4200,
+        "text": "I: Rp1 juta. II: Rp10 juta",
+        "caption": "Kategori satu: satu juta rupiah. Kategori dua: sepuluh juta rupiah.",
+        "kicker": "Kategori I-II",
+        "transition": "slide",
+        "textMotion": "type"
+      },
+      {
+        "durationMs": 4800,
+        "text": "III: Rp50 juta. IV: Rp200 juta",
+        "caption": "Kategori tiga: lima puluh juta rupiah. Kategori empat: dua ratus juta rupiah.",
+        "kicker": "Kategori III-IV",
+        "transition": "slide",
+        "textMotion": "type",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 4500,
+        "text": "V: Rp500 juta. VI: Rp2 miliar",
+        "caption": "Kategori lima: lima ratus juta rupiah. Kategori enam: dua miliar rupiah.",
+        "kicker": "Kategori V-VI",
+        "transition": "slide",
+        "textMotion": "type"
+      },
+      {
+        "durationMs": 4900,
+        "text": "VII: Rp5 miliar. VIII: Rp50 miliar",
+        "caption": "Kategori tujuh: lima miliar rupiah. Kategori delapan: lima puluh miliar rupiah.",
+        "kicker": "Kategori VII-VIII",
+        "transition": "slide",
+        "textMotion": "type",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 4300,
+        "text": "1, 10, 50, 200, 500, 2M, 5M, 50M",
+        "caption": "Hafalkan deretnya, lalu selalu cek apakah sudah ada penyesuaian nilai.",
+        "character": "owl",
+        "expression": "smug",
+        "effect": "zoom",
+        "textMotion": "pop"
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 79 (cek juga perubahan/penyesuaian terbaru)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-tujuan-pemidanaan",
+    "type": "carousel",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "caption": "Untuk apa orang dipidana? KUHP Nasional menjawabnya terang-terangan di Pasal 51. Ini bahan favorit soal esai.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Untuk apa orang dipidana?",
+          "subtitle": "Tujuan pemidanaan, Pasal 51-52 KUHP Nasional",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "4 tujuan pemidanaan (Pasal 51)",
+          "points": [
+            "Mencegah tindak pidana demi pelindungan dan pengayoman masyarakat",
+            "Memasyarakatkan terpidana lewat pembinaan dan pembimbingan",
+            "Menyelesaikan konflik, memulihkan keseimbangan, mendatangkan rasa aman dan damai",
+            "Menumbuhkan penyesalan dan membebaskan rasa bersalah terpidana"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 52",
+          "text": "Bukan untuk merendahkan martabat manusia",
+          "sub": "Pemidanaan tidak dimaksudkan untuk merendahkan martabat manusia."
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Manakah yang BUKAN tujuan pemidanaan dalam Pasal 51 KUHP Nasional?",
+        "options": [
+          "Memasyarakatkan terpidana",
+          "Membalas dendam atas nama korban",
+          "Menyelesaikan konflik akibat tindak pidana",
+          "Menumbuhkan rasa penyesalan"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pembalasan tidak dicantumkan sebagai tujuan pemidanaan. Pasal 52 bahkan menegaskan pemidanaan tidak dimaksudkan untuk merendahkan martabat manusia."
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 51 dan Pasal 52"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-legalitas-dan-turunannya",
+    "type": "story",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "title": "Asas legalitas",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Story",
+          "title": "Asas legalitas & turunannya",
+          "subtitle": "Tiga pasal pembuka KUHP Nasional",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 1 ayat (1)",
+          "text": "Tiada pidana tanpa aturan yang sudah ada lebih dulu"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 1 ayat (2)",
+          "text": "Analogi dilarang",
+          "sub": "Dalam menetapkan adanya tindak pidana."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 2",
+          "text": "Hukum yang hidup dalam masyarakat diakui",
+          "sub": "Ketentuan Pasal 1 ayat (1) tidak mengurangi berlakunya hukum yang hidup dalam masyarakat, dengan batasan yang diatur undang-undang."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Pasal 3",
+          "text": "Aturan berubah? Pakai yang menguntungkan",
+          "sub": "Peraturan baru diberlakukan, kecuali peraturan lama lebih menguntungkan bagi pelaku."
+        }
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 1, Pasal 2, dan Pasal 3"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-kepastian-vs-keadilan",
+    "type": "poll",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Kepastian hukum dan keadilan bertabrakan dalam satu perkara pidana. Menurut KUHP Nasional, hakim mengutamakan yang mana?",
+    "options": [
+      "Kepastian hukum",
+      "Keadilan",
+      "Terserah hakim, tidak diatur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 53 KUHP Nasional: dalam mengadili perkara pidana hakim wajib menegakkan hukum dan keadilan; jika terdapat pertentangan antara kepastian hukum dan keadilan, hakim wajib mengutamakan keadilan.",
+    "caption": "Pilih dulu, baru lihat jawabannya. Ini salah satu pasal paling \"hakim banget\" di KUHP Nasional.",
+    "comments": [
+      {
+        "user": "tim.kepastian",
+        "text": "saya salah. saya terima dengan lapang dada."
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 53"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-pemaafan-hakim",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Fakta unik",
+      "text": "Terbukti bersalah, tapi bisa tidak dipidana",
+      "sub": "Pemaafan hakim (rechterlijk pardon / judicial pardon), Pasal 54 ayat (2) KUHP Nasional."
+    },
+    "caption": "Ringannya perbuatan, keadaan pribadi pelaku, atau keadaan pada waktu dilakukan tindak pidana serta yang terjadi kemudian dapat dijadikan dasar pertimbangan untuk tidak menjatuhkan pidana atau tindakan, dengan mempertimbangkan segi keadilan dan kemanusiaan.",
+    "comments": [
+      {
+        "user": "maba.hukum",
+        "text": "lho kok bisa"
+      },
+      {
+        "user": "ngopi.kuhp",
+        "text": "bisa, tapi bukan berarti gampang. hakim tetap harus mempertimbangkannya dengan serius"
+      }
+    ],
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 54 ayat (2)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "tags": [
+      "kejutan"
+    ]
+  },
+  {
+    "id": "pidana-usia-anak",
+    "type": "review",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "front": "Menurut KUHP Nasional, anak di bawah usia berapa tidak dapat dimintai pertanggungjawaban pidana?",
+    "back": "Di bawah 12 tahun. Pasal 40 KUHP Nasional: pertanggungjawaban pidana tidak dapat dikenakan terhadap anak yang pada waktu melakukan tindak pidana belum berumur 12 tahun.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
+      "reference": "Pasal 40"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "id": "acara-perdata-kompetensi-relatif-118",
+    "type": "fact",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "visual": {
+      "template": "infographic",
+      "title": "Gugat di pengadilan mana? (Pasal 118 HIR)",
+      "points": [
+        "Asas: PN tempat tinggal tergugat",
+        "Tergugat lebih dari satu: pilih salah satu tempat tinggalnya",
+        "Tempat tinggal tergugat tak diketahui: tempat tinggal penggugat",
+        "Ada pilihan domisili tertulis: boleh di tempat yang dipilih"
+      ]
+    },
+    "caption": "Asasnya actor sequitur forum rei: penggugat mendatangi pengadilan tempat tergugat. Pasal 118 HIR juga memuat pengecualian lain, termasuk untuk sengketa barang tetap. Untuk luar Jawa dan Madura berlaku RBg.",
+    "comments": [
+      {
+        "user": "penggugat.jauh",
+        "text": "jadi saya yang harus ongkos ke kota dia? baiklah"
+      }
+    ],
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 118"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-beban-pembuktian-163",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Siapa yang wajib membuktikan dalam perkara perdata menurut Pasal 163 HIR?",
+    "options": [
+      "Selalu tergugat",
+      "Hakim",
+      "Siapa yang mendalilkan punya hak atau membantah hak orang lain",
+      "Panitera"
+    ],
+    "answerIndex": 2,
+    "explanation": "Barang siapa mengatakan mempunyai hak, atau menyebut suatu peristiwa untuk meneguhkan haknya atau membantah hak orang lain, harus membuktikan hak atau peristiwa itu. Ringkasnya: siapa mendalilkan, dia membuktikan.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 163 (bandingkan Pasal 1865 KUHPerdata)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-ultra-petita",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Penggugat menuntut Rp100 juta. Hakim mengabulkan Rp150 juta karena merasa itu lebih adil. Putusan ini melanggar larangan apa?",
+    "options": [
+      "Ne bis in idem",
+      "Ultra petita",
+      "Obscuur libel",
+      "Verstek"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 178 ayat (3) HIR melarang hakim menjatuhkan putusan atas hal yang tidak dituntut atau mengabulkan lebih dari yang dituntut. Ayat (2) pasal yang sama mewajibkan hakim mengadili semua bagian tuntutan.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 178 ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-tenggang-kasasi",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Berapa lama tenggang waktu mengajukan permohonan kasasi perkara perdata?",
+    "options": [
+      "7 hari",
+      "14 hari",
+      "30 hari",
+      "180 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Permohonan kasasi diajukan dalam 14 hari setelah putusan atau penetapan yang dimaksud diberitahukan kepada pemohon (Pasal 46). Memori kasasi wajib disampaikan dalam 14 hari setelah permohonan dicatat (Pasal 47).",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana telah diubah)",
+      "reference": "Pasal 46 dan Pasal 47"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-tenggang-pk",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Tenggang waktu pengajuan peninjauan kembali (PK) perkara perdata adalah...",
+    "options": [
+      "14 hari",
+      "90 hari",
+      "180 hari",
+      "Tidak dibatasi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 69 UU Mahkamah Agung: 180 hari. Titik mulai menghitungnya berbeda-beda tergantung alasan PK, misalnya sejak ditemukan surat bukti baru (novum) atau sejak putusan berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana telah diubah)",
+      "reference": "Pasal 69"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-verstek-entered-chat",
+    "type": "humor",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Tergugat: \"Males datang ah, cuekin aja\"",
+      "bottom": "Verstek has entered the chat",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Dipanggil dengan patut tapi tidak hadir dan tidak mengirim wakil? Gugatan bisa dikabulkan tanpa kehadiranmu, kecuali gugatan itu melawan hak atau tidak beralasan.",
+    "teaches": "Putusan verstek, Pasal 125 HIR: tergugat yang dipanggil patut tetapi tidak hadir dapat diputus tanpa kehadirannya.",
+    "comments": [
+      {
+        "user": "tergugat.santuy",
+        "text": "ghosting ternyata ada akibat hukumnya"
+      },
+      {
+        "user": "mpus.panitera",
+        "text": "relaas sudah saya kirim dua kali lho"
+      }
+    ],
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 125"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-hakim-kasihan-ultra-petita",
+    "type": "humor",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Niat baik yang salah",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Kami mohon ganti rugi Rp100 juta."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Kasihan. Saya kasih Rp150 juta saja ya."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Yang Mulia, itu ultra petita! Pasal 178 ayat 3."
+        }
+      ]
+    },
+    "caption": "Hakim perdata terikat pada apa yang diminta. Baik hati boleh, melebihi petitum jangan.",
+    "teaches": "Larangan ultra petita: hakim dilarang mengabulkan lebih dari yang dituntut, Pasal 178 ayat (3) HIR.",
+    "comments": [
+      {
+        "user": "penggugat.senang",
+        "text": "saya sih ikhlas yang mulia"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "khilaf. besok baca HIR lagi."
+      }
+    ],
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 178 ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-no-vs-ditolak",
+    "type": "reel",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "caption": "Gugatan \"tidak dapat diterima\" (NO) dan gugatan \"ditolak\" itu beda nasib. Yang satu masih bisa diajukan lagi.",
+    "scenes": [
+      {
+        "durationMs": 4100,
+        "text": "Gugatan kalah? Lihat dulu amarnya",
+        "caption": "Kalah karena NO atau kalah karena ditolak. Akibatnya jauh berbeda.",
+        "character": "cat",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 8900,
+        "text": "NO: cacat formil",
+        "caption": "Niet ontvankelijke verklaard: gugatan tidak dapat diterima karena cacat formil, misalnya kabur atau salah pihak. Pokok perkara belum diperiksa.",
+        "kicker": "Tidak dapat diterima",
+        "character": "gecko",
+        "expression": "sad",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 5900,
+        "text": "Ditolak: pokok perkara tidak terbukti",
+        "caption": "Gugatan ditolak berarti hakim sudah memeriksa pokok perkara dan dalil penggugat tidak terbukti.",
+        "kicker": "Ditolak",
+        "character": "owl",
+        "expression": "think",
+        "transition": "slide",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 7200,
+        "text": "NO boleh diperbaiki dan diajukan lagi",
+        "caption": "Karena pokok perkara belum diputus, gugatan yang NO pada umumnya dapat diajukan kembali setelah cacatnya diperbaiki.",
+        "character": "kancil",
+        "expression": "happy",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 7800,
+        "text": "Ditolak dan inkracht: ne bis in idem",
+        "caption": "Perkara yang sama, pihak sama, dan pokok sama yang sudah diputus tetap tidak dapat digugat lagi. Lihat Pasal 1917 KUHPerdata.",
+        "character": "owl",
+        "expression": "smug",
+        "effect": "zoom",
+        "textMotion": "pop"
+      }
+    ],
+    "source": {
+      "title": "Doktrin dan praktik hukum acara perdata; KUHPerdata",
+      "reference": "Pasal 1917 KUHPerdata (kekuatan putusan); pembedaan NO dan ditolak menurut praktik peradilan"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-mediasi-wajib",
+    "type": "reel",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "caption": "Sebelum hakim memeriksa pokok perkara, para pihak wajib menempuh mediasi dulu. Dasarnya PERMA 1/2016 dan semangat Pasal 130 HIR.",
+    "scenes": [
+      {
+        "durationMs": 4000,
+        "text": "Sidang pertama: belum langsung adu bukti",
+        "caption": "Hakim wajib memerintahkan para pihak menempuh mediasi lebih dulu.",
+        "character": "owl",
+        "expression": "happy",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 6900,
+        "text": "Mediasi itu WAJIB",
+        "caption": "PERMA Nomor 1 Tahun 2016 mewajibkan mediasi untuk sengketa perdata di pengadilan, dengan beberapa pengecualian.",
+        "kicker": "PERMA 1/2016",
+        "character": "cat",
+        "expression": "smug",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 7500,
+        "text": "Waktunya 30 hari",
+        "caption": "Proses mediasi berlangsung paling lama 30 hari sejak penetapan perintah mediasi, dan dapat diperpanjang atas kesepakatan.",
+        "character": "gecko",
+        "expression": "think",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 8700,
+        "text": "Penggugat tak beritikad baik? Gugatan NO",
+        "caption": "Penggugat yang dinyatakan tidak beritikad baik dalam mediasi, gugatannya dinyatakan tidak dapat diterima dan dihukum membayar biaya mediasi.",
+        "character": "kancil",
+        "expression": "shock",
+        "effect": "shake"
+      },
+      {
+        "durationMs": 4200,
+        "text": "Damai itu putusan paling adem",
+        "caption": "Kalau sepakat, kesepakatan dapat dikuatkan menjadi akta perdamaian.",
+        "character": "owl",
+        "expression": "happy",
+        "effect": "confetti",
+        "transition": "zoom"
+      }
+    ],
+    "source": {
+      "title": "PERMA No. 1 Tahun 2016 tentang Prosedur Mediasi di Pengadilan",
+      "reference": "Ketentuan kewajiban mediasi, jangka waktu, dan akibat tidak beritikad baik (cek nomor pasalnya)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-jalur-upaya-hukum",
+    "type": "carousel",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "caption": "Peta singkat upaya hukum perdata dan tenggang waktunya. Untuk luar Jawa-Madura, banding merujuk RBg.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Kalah di PN. Lalu ke mana?",
+          "subtitle": "Banding, kasasi, PK, dan batas waktunya",
+          "character": "cat",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Banding",
+          "text": "14 hari",
+          "sub": "Diajukan ke pengadilan tinggi melalui PN, 14 hari setelah putusan diucapkan atau diberitahukan."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Kasasi",
+          "text": "14 + 14 hari",
+          "sub": "14 hari untuk menyatakan kasasi sejak putusan diberitahukan, lalu 14 hari untuk memori kasasi."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Peninjauan kembali",
+          "text": "180 hari",
+          "sub": "Upaya hukum luar biasa terhadap putusan berkekuatan hukum tetap, dengan alasan terbatas."
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Memori kasasi wajib diserahkan dalam berapa hari setelah permohonan kasasi dicatat?",
+        "options": [
+          "7 hari",
+          "14 hari",
+          "30 hari",
+          "60 hari"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pasal 47 ayat (1) UU Mahkamah Agung: memori kasasi wajib disampaikan dalam tenggang 14 hari setelah permohonan dicatat dalam buku daftar. Terlambat berarti permohonan tidak memenuhi syarat formal."
+      }
+    ],
+    "source": {
+      "title": "UU No. 20 Tahun 1947 tentang Peradilan Ulangan di Jawa dan Madura; UU No. 14 Tahun 1985 tentang Mahkamah Agung (sebagaimana telah diubah)",
+      "reference": "Pasal 7 UU 20/1947 (banding); Pasal 46, 47, dan 69 UU MA (kasasi dan PK)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-verstek-verzet",
+    "type": "story",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "title": "Verstek & verzet",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Story",
+          "title": "Verstek & verzet",
+          "subtitle": "Kalau tergugat tidak datang",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Verstek",
+          "text": "Diputus tanpa hadirnya tergugat",
+          "sub": "Pasal 125 HIR"
+        }
+      },
+      {
+        "visual": {
+          "template": "infographic",
+          "title": "Syarat verstek",
+          "points": [
+            "Tergugat sudah dipanggil dengan patut",
+            "Tidak hadir dan tidak mengirim wakil",
+            "Gugatan tidak melawan hak dan beralasan"
+          ]
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Verzet",
+          "text": "Perlawanan terhadap putusan verstek",
+          "sub": "Diajukan tergugat ke pengadilan yang sama. Pasal 129 HIR."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Tenggang",
+          "text": "14 hari",
+          "sub": "Sejak putusan verstek diberitahukan kepada tergugat sendiri. Bila tidak diberitahukan kepadanya sendiri, hitungannya berbeda: cek Pasal 129."
+        }
+      }
+    ],
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 125 dan Pasal 129"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-eksepsi-absolut-kapan",
+    "type": "poll",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Eksepsi kompetensi ABSOLUT bisa diajukan kapan?",
+    "options": [
+      "Hanya bersama jawaban pertama",
+      "Kapan saja selama pemeriksaan",
+      "Hanya di tingkat banding"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 134 HIR: jika perkara bukan wewenang pengadilan negeri, pada setiap waktu dalam pemeriksaan dapat diminta agar hakim menyatakan tidak berwenang, dan hakim pun wajib menyatakannya karena jabatan. Sebaliknya, eksepsi kompetensi RELATIF (Pasal 133) harus diajukan pada jawaban pertama.",
+    "caption": "Absolut vs relatif: beda waktu, beda nasib.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 133 dan Pasal 134"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-gugatan-sederhana",
+    "type": "fact",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "visual": {
+      "template": "infographic",
+      "title": "Gugatan sederhana (small claim court)",
+      "points": [
+        "Nilai gugatan materiil paling banyak Rp500 juta",
+        "Wanprestasi atau PMH, bukan sengketa tanah",
+        "Diperiksa hakim tunggal",
+        "Selesai paling lama 25 hari sejak sidang pertama"
+      ]
+    },
+    "caption": "Jalur cepat untuk sengketa bernilai kecil. Batas Rp500 juta berlaku sejak perubahan lewat PERMA 4/2019 (sebelumnya Rp200 juta).",
+    "comments": [
+      {
+        "user": "umkm.berjuang",
+        "text": "baru tau ada jalur ekspres begini"
+      }
+    ],
+    "source": {
+      "title": "PERMA No. 2 Tahun 2015 jo. PERMA No. 4 Tahun 2019 tentang Tata Cara Penyelesaian Gugatan Sederhana",
+      "reference": "Ketentuan nilai gugatan materiil dan jangka waktu penyelesaian"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "tags": [
+      "kejutan"
+    ]
+  },
+  {
+    "id": "acara-perdata-jembatan-alat-bukti",
+    "type": "mnemonic",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jembatan keledai",
+      "text": "Tante Sinta Pesan Pisang Susu",
+      "sub": "Tulisan, Saksi, Persangkaan, Pengakuan, Sumpah"
+    },
+    "caption": "Lima alat bukti perkara perdata menurut Pasal 164 HIR, urut dari yang biasanya paling kuat di perkara perdata: tulisan.",
+    "phrase": "Tante Sinta Pesan Pisang Susu (T-S-P-P-S)",
+    "expansion": [
+      "Tante: bukti Tulisan (surat)",
+      "Sinta: Saksi",
+      "Pesan: Persangkaan",
+      "Pisang: Pengakuan",
+      "Susu: Sumpah"
+    ],
+    "comments": [
+      {
+        "user": "mpus.panitera",
+        "text": "pesan satu juga buat panitera dong"
+      }
+    ],
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 164"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-uitvoerbaar-bij-voorraad",
+    "type": "review",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "front": "Apa itu putusan uitvoerbaar bij voorraad, dan diatur di pasal berapa HIR?",
+    "back": "Putusan serta-merta: putusan yang dapat dijalankan lebih dulu meskipun ada verzet, banding, atau kasasi. Diatur dalam Pasal 180 ayat (1) HIR, dengan syarat-syarat tertentu (misalnya ada akta otentik). Mahkamah Agung lewat surat edarannya meminta hakim sangat berhati-hati mengabulkannya.",
+    "source": {
+      "title": "HIR (Herzien Inlandsch Reglement)",
+      "reference": "Pasal 180 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

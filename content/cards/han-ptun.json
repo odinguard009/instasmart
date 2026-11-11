@@ -1,0 +1,483 @@
+[
+  {
+    "id": "han-ptun-unsur-ktun",
+    "type": "fact",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "visual": {
+      "template": "infographic",
+      "title": "Unsur Keputusan Tata Usaha Negara",
+      "points": [
+        "Penetapan tertulis",
+        "Dikeluarkan badan atau pejabat TUN",
+        "Berisi tindakan hukum TUN",
+        "Konkret, individual, dan final",
+        "Menimbulkan akibat hukum bagi seseorang atau badan hukum perdata"
+      ]
+    },
+    "caption": "Objek sengketa di PTUN adalah KTUN. UU Administrasi Pemerintahan (Pasal 87) kemudian memperluas cara memaknainya, misalnya mencakup tindakan faktual. Pelajari keduanya berdampingan.",
+    "comments": [
+      {
+        "user": "asn.baru",
+        "text": "jadi SK mutasi saya termasuk?"
+      },
+      {
+        "user": "ktun.final",
+        "text": "konkret, individual, final. hitung sendiri"
+      }
+    ],
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 1 angka 9 (setelah perubahan UU 51/2009)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-tenggang-90-hari",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Gugatan ke PTUN dapat diajukan dalam tenggang waktu berapa lama?",
+    "options": [
+      "14 hari",
+      "30 hari",
+      "90 hari",
+      "180 hari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 55 UU Peradilan TUN: gugatan dapat diajukan hanya dalam tenggang waktu 90 hari terhitung sejak saat diterimanya atau diumumkannya keputusan badan atau pejabat TUN.",
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 55"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-mandat",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Wewenang diperoleh lewat atribusi, delegasi, atau mandat. Pada MANDAT, tanggung jawab kewenangan berada pada siapa?",
+    "options": [
+      "Penerima mandat",
+      "Pemberi mandat",
+      "Keduanya tanggung renteng",
+      "Atasan pemberi mandat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pada mandat, tanggung jawab kewenangan tetap pada pemberi mandat; penerima mandat bertindak atas nama pemberi mandat. Pada delegasi, tanggung jawab beralih kepada penerima delegasi.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana telah diubah)",
+      "reference": "Pasal 11 sampai Pasal 14"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-penyalahgunaan-wewenang",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Manakah yang BUKAN bentuk larangan penyalahgunaan wewenang menurut UU Administrasi Pemerintahan?",
+    "options": [
+      "Melampaui wewenang",
+      "Mencampuradukkan wewenang",
+      "Bertindak sewenang-wenang",
+      "Mendelegasikan wewenang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 17 UU 30/2014: larangan penyalahgunaan wewenang meliputi larangan melampaui wewenang, mencampuradukkan wewenang, dan bertindak sewenang-wenang. Delegasi justru cara sah memperoleh wewenang.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana telah diubah)",
+      "reference": "Pasal 17"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-telat-90-hari",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Saya: menggugat SK setelah 5 bulan merenung",
+      "bottom": "PTUN: 90 hari sudah lewat, Kak",
+      "character": "kancil",
+      "expression": "sad"
+    },
+    "caption": "Galau boleh, tapi hitung kalender. Tenggang menggugat KTUN hanya 90 hari sejak keputusan diterima atau diumumkan.",
+    "teaches": "Tenggang waktu gugatan TUN 90 hari, Pasal 55 UU Peradilan Tata Usaha Negara.",
+    "comments": [
+      {
+        "user": "asn.baru",
+        "text": "merenungnya di hari ke-1 sampai ke-89 aja ya"
+      },
+      {
+        "user": "ktun.final",
+        "text": "final bukan berarti menunggu selamanya"
+      }
+    ],
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 55"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-surat-edaran-digugat",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Bukan semua surat itu KTUN",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Saya gugat peraturan yang berlaku untuk semua orang!"
+        },
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Itu pengaturan umum. KTUN harus individual."
+        },
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Jadi ke PTUN nggak bisa?"
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Ingat: Konkret, Individual, Final."
+        }
+      ]
+    },
+    "caption": "Keputusan yang merupakan pengaturan bersifat umum dikecualikan dari pengertian KTUN yang dapat digugat ke PTUN.",
+    "teaches": "Sifat konkret, individual, final pada KTUN (Pasal 1 angka 9) dan pengecualian pengaturan umum (Pasal 2) UU Peradilan TUN.",
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 1 angka 9 dan Pasal 2"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-kif",
+    "type": "reel",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "caption": "K-I-F: tiga huruf yang menentukan apakah sebuah keputusan bisa jadi objek sengketa TUN.",
+    "scenes": [
+      {
+        "durationMs": 3200,
+        "text": "K. I. F.",
+        "caption": "Tiga sifat wajib sebuah Keputusan Tata Usaha Negara.",
+        "character": "kancil",
+        "expression": "happy",
+        "characterMotion": "bounce",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 5000,
+        "text": "Konkret: objeknya nyata, tidak abstrak",
+        "caption": "Konkret artinya objek yang diputuskan berwujud, tertentu, atau dapat ditentukan.",
+        "kicker": "K",
+        "character": "cat",
+        "expression": "think",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 5800,
+        "text": "Individual: ditujukan ke orang tertentu",
+        "caption": "Individual artinya tidak ditujukan untuk umum, tetapi tertentu alamat maupun hal yang dituju.",
+        "kicker": "I",
+        "character": "gecko",
+        "expression": "happy",
+        "transition": "slide",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 4700,
+        "text": "Final: sudah definitif",
+        "caption": "Final artinya sudah definitif dan karenanya dapat menimbulkan akibat hukum.",
+        "kicker": "F",
+        "character": "owl",
+        "expression": "smug",
+        "transition": "slide",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 5800,
+        "text": "Kurang satu huruf? Cek lagi objek gugatanmu",
+        "caption": "Catatan: Undang-Undang Administrasi Pemerintahan memperluas pemaknaan KTUN. Pelajari Pasal 87.",
+        "character": "kancil",
+        "expression": "think",
+        "effect": "zoom"
+      }
+    ],
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 1 angka 9 beserta penjelasannya"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-gugatan-tidak-menunda",
+    "type": "reel",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "caption": "Menggugat KTUN tidak otomatis menghentikan pelaksanaannya. Minta penundaan kalau memang mendesak.",
+    "scenes": [
+      {
+        "durationMs": 3200,
+        "text": "Sudah digugat, SK-nya otomatis berhenti?",
+        "caption": "Tidak otomatis.",
+        "character": "gecko",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 5500,
+        "text": "Gugatan TIDAK menunda pelaksanaan KTUN",
+        "caption": "Pasal 67: gugatan tidak menunda atau menghalangi dilaksanakannya keputusan yang digugat.",
+        "kicker": "Pasal 67",
+        "character": "owl",
+        "expression": "happy",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 6000,
+        "text": "Tapi boleh minta penundaan",
+        "caption": "Penggugat dapat memohon agar pelaksanaan keputusan ditunda selama pemeriksaan sengketa berjalan.",
+        "character": "kancil",
+        "expression": "happy",
+        "transition": "slide",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 8100,
+        "text": "Syaratnya: keadaan sangat mendesak",
+        "caption": "Dikabulkan bila ada keadaan sangat mendesak yang membuat kepentingan penggugat sangat dirugikan jika keputusan tetap dilaksanakan.",
+        "character": "cat",
+        "expression": "shock",
+        "effect": "shake"
+      }
+    ],
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 67"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-delapan-aupb",
+    "type": "carousel",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "caption": "Delapan asas-asas umum pemerintahan yang baik (AUPB) versi UU Administrasi Pemerintahan. Melanggar AUPB adalah salah satu alasan gugatan TUN.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "8 AUPB yang wajib hafal",
+          "subtitle": "Pasal 10 ayat (1) UU 30/2014",
+          "character": "kancil",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "AUPB 1-4",
+          "points": [
+            "Kepastian hukum",
+            "Kemanfaatan",
+            "Ketidakberpihakan",
+            "Kecermatan"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "AUPB 5-8",
+          "points": [
+            "Tidak menyalahgunakan kewenangan",
+            "Keterbukaan",
+            "Kepentingan umum",
+            "Pelayanan yang baik"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Pejabat memutus izin tanpa memeriksa dokumen pemohon dengan teliti. AUPB mana yang paling jelas dilanggar?",
+        "options": [
+          "Keterbukaan",
+          "Kecermatan",
+          "Kepentingan umum",
+          "Kemanfaatan"
+        ],
+        "answerIndex": 1,
+        "explanation": "Asas kecermatan menuntut keputusan didasarkan pada informasi dan dokumen yang lengkap untuk mendukung legalitas penetapannya, sehingga dipersiapkan dengan cermat sebelum ditetapkan."
+      }
+    ],
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana telah diubah)",
+      "reference": "Pasal 10 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-atribusi-delegasi-mandat",
+    "type": "story",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "title": "Atribusi, delegasi, mandat",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Story",
+          "title": "Dari mana pejabat dapat wewenang?",
+          "subtitle": "Atribusi, delegasi, mandat",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Atribusi",
+          "text": "Diberikan langsung oleh UUD atau undang-undang",
+          "sub": "Wewenang asli. Tanggung jawab pada penerima atribusi."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Delegasi",
+          "text": "Dilimpahkan, tanggung jawab ikut pindah",
+          "sub": "Tanggung jawab dan tanggung gugat beralih ke penerima delegasi."
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Mandat",
+          "text": "Ditugaskan, tanggung jawab tetap di pemberi",
+          "sub": "Penerima mandat bertindak atas nama pemberi mandat."
+        }
+      },
+      {
+        "visual": {
+          "template": "infographic",
+          "title": "Cara cepat membedakan",
+          "points": [
+            "Atribusi: wewenang baru dari peraturan",
+            "Delegasi: wewenang pindah, tanggung jawab pindah",
+            "Mandat: wewenang dipinjam, tanggung jawab tinggal"
+          ]
+        }
+      }
+    ],
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana telah diubah)",
+      "reference": "Pasal 11 sampai Pasal 14"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-upaya-administratif-dulu",
+    "type": "poll",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Dirugikan oleh keputusan pejabat. Langsung gugat ke PTUN, atau tempuh upaya administratif dulu?",
+    "options": [
+      "Langsung gugat ke PTUN",
+      "Upaya administratif dulu (keberatan, lalu banding)"
+    ],
+    "answerIndex": 1,
+    "explanation": "UU Administrasi Pemerintahan mengatur upaya administratif berupa keberatan dan banding. Menurut PERMA 6/2018, pengadilan berwenang menerima, memeriksa, memutus, dan menyelesaikan sengketa administrasi pemerintahan setelah menempuh upaya administratif.",
+    "caption": "Jangan loncat. Ada tangga yang harus dinaiki dulu.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan (sebagaimana telah diubah); PERMA No. 6 Tahun 2018",
+      "reference": "Pasal 75 sampai Pasal 78 UU 30/2014; ketentuan PERMA 6/2018 tentang kewenangan pengadilan setelah upaya administratif"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-alasan-gugatan-tun",
+    "type": "review",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "front": "Apa dua alasan yang dapat dipakai dalam gugatan TUN menurut Pasal 53 ayat (2)?",
+    "back": "(a) KTUN yang digugat bertentangan dengan peraturan perundang-undangan yang berlaku; (b) KTUN yang digugat bertentangan dengan asas-asas umum pemerintahan yang baik (AUPB).",
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 53 ayat (2) (setelah perubahan UU 9/2004)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-dismissal-dan-persiapan",
+    "type": "fact",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "visual": {
+      "template": "infographic",
+      "title": "Dua saringan sebelum sidang TUN",
+      "points": [
+        "Rapat permusyawaratan (dismissal process) oleh Ketua Pengadilan: Pasal 62",
+        "Pemeriksaan persiapan oleh hakim untuk melengkapi gugatan yang kurang jelas: Pasal 63",
+        "Perbaikan gugatan diberi waktu 30 hari"
+      ]
+    },
+    "caption": "Ciri khas acara PTUN yang tidak ada di perkara perdata biasa: hakim aktif membantu menyempurnakan gugatan lewat pemeriksaan persiapan, karena posisi warga dan pejabat tidak seimbang.",
+    "source": {
+      "title": "UU No. 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (sebagaimana telah diubah dengan UU 9/2004 dan UU 51/2009)",
+      "reference": "Pasal 62 dan Pasal 63"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11",
+    "tags": [
+      "kejutan"
+    ]
+  }
+]

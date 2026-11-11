@@ -1,0 +1,86 @@
+[
+  {
+    "id": "perdata",
+    "name": "Hukum Perdata",
+    "shortName": "Perdata",
+    "palette": "bata",
+    "subTopics": [
+      { "id": "perjanjian", "name": "Perikatan & Perjanjian" },
+      { "id": "pmh", "name": "Perbuatan Melawan Hukum" },
+      { "id": "bukti-daluwarsa", "name": "Pembuktian & Daluwarsa" }
+    ]
+  },
+  {
+    "id": "acara-perdata",
+    "name": "Hukum Acara Perdata",
+    "shortName": "Acara Perdata",
+    "palette": "laut",
+    "subTopics": [
+      { "id": "gugatan-kompetensi", "name": "Gugatan & Kompetensi" },
+      { "id": "pembuktian-putusan", "name": "Pembuktian & Putusan" },
+      { "id": "upaya-hukum", "name": "Upaya Hukum & Eksekusi" }
+    ]
+  },
+  {
+    "id": "pidana",
+    "name": "Hukum Pidana",
+    "shortName": "Pidana",
+    "palette": "anggur",
+    "subTopics": [
+      { "id": "asas-umum", "name": "Asas & Aturan Umum KUHP Nasional" },
+      { "id": "pemidanaan", "name": "Pidana & Pemidanaan" }
+    ]
+  },
+  {
+    "id": "acara-pidana",
+    "name": "Hukum Acara Pidana",
+    "shortName": "Acara Pidana",
+    "palette": "arang",
+    "subTopics": [
+      { "id": "kuhap-baru", "name": "KUHAP Baru (UU 20/2025)" },
+      { "id": "asas-peradilan-pidana", "name": "Asas Peradilan Pidana" }
+    ]
+  },
+  {
+    "id": "htn",
+    "name": "Hukum Tata Negara & Konstitusi (UUD 1945)",
+    "shortName": "Tata Negara",
+    "palette": "emas",
+    "subTopics": [
+      { "id": "lembaga-negara", "name": "Lembaga Negara" },
+      { "id": "kekuasaan-kehakiman", "name": "Kekuasaan Kehakiman" },
+      { "id": "perundang-undangan", "name": "Peraturan Perundang-undangan" }
+    ]
+  },
+  {
+    "id": "han-ptun",
+    "name": "Hukum Administrasi Negara & PTUN",
+    "shortName": "HAN & PTUN",
+    "palette": "toska",
+    "subTopics": [
+      { "id": "ktun-gugatan", "name": "KTUN & Gugatan" },
+      { "id": "aupb-wewenang", "name": "AUPB & Wewenang" }
+    ]
+  },
+  {
+    "id": "etika-hakim",
+    "name": "Kode Etik dan Pedoman Perilaku Hakim",
+    "shortName": "Etika Hakim",
+    "palette": "hutan",
+    "subTopics": [
+      { "id": "kepph", "name": "Kode Etik (KEPPH)" },
+      { "id": "asas-peradilan", "name": "Asas Penyelenggaraan Peradilan" }
+    ]
+  },
+  {
+    "id": "kebangsaan",
+    "name": "Wawasan Kebangsaan (Pancasila, UUD 1945, NKRI, Bhinneka Tunggal Ika)",
+    "shortName": "Kebangsaan",
+    "palette": "senja",
+    "subTopics": [
+      { "id": "pancasila", "name": "Pancasila" },
+      { "id": "simbol-negara", "name": "Simbol & Identitas Negara" },
+      { "id": "sejarah-konstitusi", "name": "Sejarah & Konstitusi" }
+    ]
+  }
+]

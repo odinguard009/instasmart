@@ -1,0 +1,498 @@
+[
+  {
+    "id": "etika-hakim-sepuluh-prinsip",
+    "type": "carousel",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "caption": "Sepuluh prinsip Kode Etik dan Pedoman Perilaku Hakim. Catatan: sebagian butir penerapan prinsip berdisiplin tinggi dan profesional pernah dibatalkan Mahkamah Agung lewat uji materi; cek status terbarunya.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "10 prinsip perilaku hakim",
+          "subtitle": "KEPPH 2009",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Prinsip 1-5",
+          "points": [
+            "Berperilaku adil",
+            "Berperilaku jujur",
+            "Berperilaku arif dan bijaksana",
+            "Bersikap mandiri",
+            "Berintegritas tinggi"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Prinsip 6-10",
+          "points": [
+            "Bertanggung jawab",
+            "Menjunjung tinggi harga diri",
+            "Berdisiplin tinggi",
+            "Berperilaku rendah hati",
+            "Bersikap profesional"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Manakah yang BUKAN salah satu dari sepuluh prinsip KEPPH?",
+        "options": [
+          "Berperilaku rendah hati",
+          "Bersikap mandiri",
+          "Berperilaku populer",
+          "Menjunjung tinggi harga diri"
+        ],
+        "answerIndex": 2,
+        "explanation": "Tidak ada prinsip \"populer\". Hakim justru dituntut mandiri: bebas dari pengaruh, tekanan, dan sorotan pihak mana pun, termasuk opini publik."
+      }
+    ],
+    "comments": [
+      {
+        "user": "pejuang.cakim",
+        "text": "nomor 9 paling susah pas baru lulus"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "makanya ditaruh hampir terakhir, biar dilatih terus"
+      }
+    ],
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Sepuluh prinsip dasar KEPPH"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-jembatan-kepph",
+    "type": "mnemonic",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jembatan keledai",
+      "text": "AJAM ITHDRP",
+      "sub": "Adil, Jujur, Arif, Mandiri, Integritas, Tanggung jawab, Harga diri, Disiplin, Rendah hati, Profesional"
+    },
+    "caption": "Sepuluh huruf, sepuluh prinsip, urut sesuai KEPPH. Bacanya: \"A-JAM I-TE-HA-DE-ER-PE\". Aneh, tapi nempel.",
+    "phrase": "AJAM ITHDRP",
+    "expansion": [
+      "A: Adil",
+      "J: Jujur",
+      "A: Arif dan bijaksana",
+      "M: Mandiri",
+      "I: Integritas tinggi",
+      "T: Tanggung jawab",
+      "H: Harga diri",
+      "D: Disiplin tinggi",
+      "R: Rendah hati",
+      "P: Profesional"
+    ],
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Sepuluh prinsip dasar KEPPH"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-wajib-mundur",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Hakim wajib mengundurkan diri dari persidangan bila terikat hubungan keluarga sedarah atau semenda dengan ketua, hakim anggota, jaksa, advokat, atau panitera sampai derajat ke berapa?",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 17 ayat (3) UU Kekuasaan Kehakiman: sampai derajat ketiga, atau hubungan suami atau istri meskipun telah bercerai. Ayat (5) menambahkan kewajiban mundur bila hakim punya kepentingan langsung atau tidak langsung dengan perkara.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 17 ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-dilarang-menolak-perkara",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Hukumnya tidak ada atau kurang jelas. Bolehkah pengadilan menolak memeriksa perkara dengan alasan itu?",
+    "options": [
+      "Boleh, demi kepastian hukum",
+      "Tidak boleh; pengadilan wajib memeriksa dan mengadilinya",
+      "Boleh dengan izin Ketua MA",
+      "Boleh untuk perkara pidana saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 10 ayat (1): pengadilan dilarang menolak untuk memeriksa, mengadili, dan memutus suatu perkara yang diajukan dengan dalih bahwa hukum tidak ada atau kurang jelas, melainkan wajib untuk memeriksa dan mengadilinya.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 10 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-irah-irah",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Peradilan dilakukan dengan irah-irah...",
+    "options": [
+      "\"Atas Nama Negara Republik Indonesia\"",
+      "\"Demi Keadilan Berdasarkan Ketuhanan Yang Maha Esa\"",
+      "\"Demi Hukum dan Keadilan\"",
+      "\"Atas Nama Rakyat Indonesia\""
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 ayat (1) UU Kekuasaan Kehakiman: peradilan dilakukan \"DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA\". Irah-irah inilah yang memberi kekuatan eksekutorial pada putusan.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 2 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-oleh-oleh",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Pihak berperkara: \"Ini cuma oleh-oleh kok, Yang Mulia\"",
+      "bottom": "Hakim berintegritas: \"Bawa pulang lagi ya\"",
+      "character": "owl",
+      "expression": "think"
+    },
+    "caption": "Sekecil apa pun, pemberian dari pihak yang berperkara atau berkepentingan bukan \"sekadar oleh-oleh\". Menolaknya bukan sombong, itu integritas.",
+    "teaches": "Hakim tidak boleh meminta atau menerima pemberian dari pihak yang berperkara (prinsip jujur dan berintegritas tinggi dalam KEPPH).",
+    "comments": [
+      {
+        "user": "tukang.parcel",
+        "text": "omzet saya turun tapi saya paham"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "bakpia tetap enak kalau beli sendiri"
+      }
+    ],
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Penerapan prinsip berperilaku jujur dan berintegritas tinggi (tanpa nomor butir)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-no-comment",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Doorstop",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Yang Mulia, menurut Bapak terdakwa bakal dihukum berapa?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Perkaranya sedang saya periksa."
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Bocoran dikit aja, off the record."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pendapat saya nanti ada di putusan."
+        }
+      ]
+    },
+    "caption": "Hakim berbicara lewat putusannya. Mengomentari substansi perkara yang sedang ditangani di luar persidangan merusak kesan tidak memihak.",
+    "teaches": "Hakim tidak boleh memberi keterangan atau pendapat tentang substansi perkara di luar proses persidangan (KEPPH).",
+    "comments": [
+      {
+        "user": "wartawan.deadline",
+        "text": "ya sudah, saya kutip \"no comment\" aja"
+      }
+    ],
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Penerapan prinsip berperilaku adil serta arif dan bijaksana (tanpa nomor butir)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-hakim-tidak-boleh-menolak",
+    "type": "reel",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "caption": "Undang-undangnya bolong? Hakim tetap wajib memutus. Dua pasal ini sepasang.",
+    "scenes": [
+      {
+        "durationMs": 3200,
+        "text": "Hukumnya tidak ada. Perkara ditolak saja?",
+        "caption": "Tidak bisa begitu.",
+        "character": "gecko",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 8300,
+        "text": "Pengadilan DILARANG menolak perkara",
+        "caption": "Pasal 10 ayat 1: pengadilan dilarang menolak memeriksa, mengadili, dan memutus perkara dengan dalih hukum tidak ada atau kurang jelas.",
+        "kicker": "Pasal 10 ayat (1)",
+        "character": "owl",
+        "expression": "smug",
+        "transition": "slide",
+        "effect": "shake"
+      },
+      {
+        "durationMs": 6800,
+        "text": "Lalu hakim pakai apa?",
+        "caption": "Hakim wajib menggali, mengikuti, dan memahami nilai-nilai hukum dan rasa keadilan yang hidup dalam masyarakat.",
+        "kicker": "Pasal 5 ayat (1)",
+        "character": "owl",
+        "expression": "happy",
+        "transition": "slide",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 3200,
+        "text": "Hakim bukan sekadar corong undang-undang",
+        "caption": "Menemukan hukum adalah bagian dari tugas mengadili.",
+        "character": "kancil",
+        "expression": "happy",
+        "effect": "confetti",
+        "transition": "zoom"
+      }
+    ],
+    "comments": [
+      {
+        "user": "maba.hukum",
+        "text": "jadi \"belum ada aturannya\" bukan alasan ya"
+      }
+    ],
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 5 ayat (1) dan Pasal 10 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-hak-ingkar",
+    "type": "reel",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "caption": "Hak ingkar: hak pihak yang diadili untuk keberatan terhadap hakim yang mengadilinya, dan kewajiban hakim untuk mundur bila ada benturan kepentingan.",
+    "scenes": [
+      {
+        "durationMs": 3200,
+        "text": "Hakimnya ternyata ipar pengacara lawan",
+        "caption": "Ada mekanismenya: hak ingkar.",
+        "character": "cat",
+        "expression": "shock",
+        "textMotion": "pop",
+        "effect": "shake"
+      },
+      {
+        "durationMs": 6600,
+        "text": "Hak ingkar",
+        "caption": "Pihak yang diadili berhak mengajukan keberatan, disertai alasan, terhadap hakim yang mengadili perkaranya.",
+        "kicker": "Pasal 17",
+        "character": "kancil",
+        "expression": "happy",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 9000,
+        "text": "Hakim WAJIB mundur",
+        "caption": "Bila terikat hubungan keluarga sedarah atau semenda sampai derajat ketiga, atau suami istri meski telah bercerai, dengan pihak-pihak yang disebut pasal itu.",
+        "character": "owl",
+        "expression": "think",
+        "transition": "slide",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 6300,
+        "text": "Juga bila punya kepentingan",
+        "caption": "Hakim wajib mundur bila punya kepentingan langsung atau tidak langsung dengan perkara yang diperiksa.",
+        "character": "owl",
+        "expression": "sad",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 5600,
+        "text": "Nekat lanjut? Putusan tidak sah",
+        "caption": "Jika ketentuan itu dilanggar, putusan dinyatakan tidak sah dan hakim dapat dikenai sanksi.",
+        "character": "gecko",
+        "expression": "shock",
+        "effect": "zoom",
+        "textMotion": "pop"
+      }
+    ],
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 17"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-bangalore-principles",
+    "type": "story",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "title": "Bangalore Principles",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Story",
+          "title": "Bangalore Principles",
+          "subtitle": "Enam nilai perilaku hakim yang diakui internasional",
+          "character": "owl",
+          "expression": "smug"
+        }
+      },
+      {
+        "visual": {
+          "template": "infographic",
+          "title": "Nilai 1-3",
+          "points": [
+            "Independence: kemandirian",
+            "Impartiality: ketidakberpihakan",
+            "Integrity: integritas"
+          ]
+        }
+      },
+      {
+        "visual": {
+          "template": "infographic",
+          "title": "Nilai 4-6",
+          "points": [
+            "Propriety: kepantasan dan kesopanan",
+            "Equality: kesetaraan",
+            "Competence and diligence: kecakapan dan kesaksamaan"
+          ]
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Kaitannya",
+          "text": "Jadi rujukan banyak kode etik hakim",
+          "sub": "Termasuk disebut sebagai salah satu rujukan dalam penyusunan KEPPH Indonesia."
+        }
+      }
+    ],
+    "source": {
+      "title": "The Bangalore Principles of Judicial Conduct (2002)",
+      "reference": "Enam nilai (values)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-sidang-terbuka",
+    "type": "poll",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "question": "Pada dasarnya, sidang pemeriksaan pengadilan itu terbuka atau tertutup untuk umum?",
+    "options": [
+      "Terbuka, kecuali undang-undang menentukan lain",
+      "Tertutup, kecuali diizinkan ketua majelis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 13 UU Kekuasaan Kehakiman: semua sidang pemeriksaan pengadilan terbuka untuk umum, kecuali undang-undang menentukan lain. Putusan pengadilan hanya sah dan mempunyai kekuatan hukum apabila diucapkan dalam sidang terbuka untuk umum; melanggarnya membuat putusan batal demi hukum.",
+    "caption": "Bahkan sidang yang pemeriksaannya tertutup, putusannya tetap diucapkan terbuka.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 13"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-dissenting-opinion",
+    "type": "fact",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Beda pendapat itu sah",
+      "text": "Dissenting opinion wajib dimuat dalam putusan",
+      "sub": "Pasal 14 ayat (3) UU Kekuasaan Kehakiman"
+    },
+    "caption": "Putusan diambil lewat sidang permusyawaratan hakim yang bersifat rahasia. Tiap hakim wajib menyampaikan pertimbangan tertulis, dan bila mufakat bulat tidak tercapai, pendapat hakim yang berbeda wajib dimuat dalam putusan.",
+    "comments": [
+      {
+        "user": "hakim.anggota.dua",
+        "text": "kalah voting, menang di catatan sejarah"
+      }
+    ],
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 14"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-sederhana-cepat-biaya-ringan",
+    "type": "review",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "front": "Sebutkan tiga kata kunci asas peradilan dalam Pasal 4 ayat (2) UU Kekuasaan Kehakiman.",
+    "back": "Sederhana, cepat, dan biaya ringan. Bunyi intinya: pengadilan membantu pencari keadilan dan berusaha mengatasi segala hambatan dan rintangan untuk dapat tercapainya peradilan yang sederhana, cepat, dan biaya ringan.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 4 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

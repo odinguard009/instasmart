@@ -1,0 +1,631 @@
+[
+  {
+    "id": "htn-negara-hukum",
+    "type": "fact",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "quote",
+      "label": "Pasal 1 ayat (3) UUD 1945",
+      "text": "Negara Indonesia adalah negara hukum.",
+      "footer": "Hasil perubahan ketiga (2001)"
+    },
+    "caption": "Lima kata yang jadi fondasi semua jawaban esai tata negara. Tetangganya juga penting: ayat (1) negara kesatuan berbentuk republik, ayat (2) kedaulatan di tangan rakyat dan dilaksanakan menurut UUD.",
+    "comments": [
+      {
+        "user": "maba.hukum",
+        "text": "pendek tapi keluar terus di ujian"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "pendek, tegas, tidak multitafsir. idaman."
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 1 ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-hierarki-peraturan",
+    "type": "fact",
+    "topicId": "htn",
+    "subTopicId": "perundang-undangan",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "infographic",
+      "title": "Hierarki peraturan perundang-undangan",
+      "points": [
+        "UUD 1945, lalu Ketetapan MPR",
+        "Undang-Undang / Perppu",
+        "Peraturan Pemerintah, lalu Peraturan Presiden",
+        "Peraturan Daerah Provinsi",
+        "Peraturan Daerah Kabupaten/Kota"
+      ]
+    },
+    "caption": "Tujuh jenjang menurut Pasal 7 ayat (1) UU 12/2011: UUD 1945; Tap MPR; UU/Perppu; PP; Perpres; Perda Provinsi; Perda Kabupaten/Kota. Kekuatan hukumnya sesuai urutan itu.",
+    "comments": [
+      {
+        "user": "perda.kabupaten",
+        "text": "aku paling bawah tapi paling dekat dengan rakyat"
+      }
+    ],
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (sebagaimana telah diubah)",
+      "reference": "Pasal 7 ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-bukan-wewenang-mk",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "question": "Manakah yang BUKAN kewenangan Mahkamah Konstitusi?",
+    "options": [
+      "Menguji undang-undang terhadap UUD",
+      "Menguji peraturan di bawah undang-undang terhadap undang-undang",
+      "Memutus pembubaran partai politik",
+      "Memutus perselisihan hasil pemilihan umum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang adalah kewenangan Mahkamah Agung (Pasal 24A ayat (1)). MK menguji undang-undang terhadap UUD (Pasal 24C ayat (1)).",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 24A ayat (1) dan Pasal 24C ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-hakim-konstitusi",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "question": "Sembilan hakim konstitusi diajukan oleh siapa saja?",
+    "options": [
+      "Semuanya oleh DPR",
+      "3 oleh MA, 3 oleh DPR, 3 oleh Presiden",
+      "3 oleh MPR, 3 oleh DPD, 3 oleh KY",
+      "Semuanya oleh Komisi Yudisial"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 24C ayat (3): MK mempunyai sembilan hakim konstitusi yang ditetapkan Presiden, diajukan masing-masing tiga orang oleh Mahkamah Agung, tiga oleh DPR, dan tiga oleh Presiden.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 24C ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-perppu",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "perundang-undangan",
+    "account": "konstitusi.kece",
+    "question": "Perppu yang ditetapkan Presiden harus mendapat persetujuan siapa, dan kapan?",
+    "options": [
+      "MK, dalam 30 hari",
+      "DPR, dalam persidangan yang berikut",
+      "MPR, dalam sidang tahunan",
+      "Tidak perlu persetujuan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 22 UUD 1945: dalam hal ihwal kegentingan yang memaksa, Presiden berhak menetapkan Perppu. Perppu harus mendapat persetujuan DPR dalam persidangan yang berikut; jika tidak disetujui, harus dicabut.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 22"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-tidak-dapat-diubah",
+    "type": "quiz",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Menurut Pasal 37 UUD 1945, hal apa yang tidak dapat dilakukan perubahan?",
+    "options": [
+      "Jumlah anggota DPR",
+      "Bentuk Negara Kesatuan Republik Indonesia",
+      "Masa jabatan Presiden",
+      "Jumlah provinsi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 37 ayat (5): khusus mengenai bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 37 ayat (5)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-tiga-puluh-hari",
+    "type": "humor",
+    "topicId": "htn",
+    "subTopicId": "perundang-undangan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "RUU sudah disetujui bersama, tapi belum ditandatangani",
+      "bottom": "30 hari kemudian: tetap sah jadi undang-undang",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Tidak ada drama digantung terlalu lama. RUU yang sudah disetujui bersama tetapi tidak disahkan Presiden dalam 30 hari sejak disetujui, sah menjadi undang-undang dan wajib diundangkan.",
+    "teaches": "Pasal 20 ayat (5) UUD 1945: RUU yang telah disetujui bersama sah menjadi UU bila tidak disahkan Presiden dalam 30 hari.",
+    "comments": [
+      {
+        "user": "korban.php",
+        "text": "andai chat saya juga otomatis dibalas setelah 30 hari"
+      },
+      {
+        "user": "konstitusi.kece",
+        "text": "konstitusi lebih pasti daripada gebetan"
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 20 ayat (5)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-salah-alamat-uji-materi",
+    "type": "humor",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Salah alamat",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Saya mau uji Perda ke MK!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Salah alamat. Di bawah UU terhadap UU itu ke MA."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Kalau UU terhadap UUD?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Nah, itu baru ke MK."
+        }
+      ]
+    },
+    "caption": "Dua jalur pengujian peraturan: MA untuk peraturan di bawah undang-undang terhadap undang-undang, MK untuk undang-undang terhadap UUD.",
+    "teaches": "Pembagian kewenangan uji materi: MA (Pasal 24A ayat (1)) dan MK (Pasal 24C ayat (1)) UUD 1945.",
+    "comments": [
+      {
+        "user": "mpus.panitera",
+        "text": "saya cuma ngetes"
+      },
+      {
+        "user": "kurir.berkas",
+        "text": "pantes paket saya balik lagi"
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 24A ayat (1) dan Pasal 24C ayat (1)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-empat-kali-amandemen",
+    "type": "reel",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "caption": "UUD 1945 diubah empat kali dalam empat tahun berturut-turut. Hafalkan tahunnya.",
+    "scenes": [
+      {
+        "durationMs": 3200,
+        "text": "UUD 1945 diubah berapa kali?",
+        "caption": "Empat kali, dalam empat tahun berturut-turut.",
+        "character": "owl",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 3200,
+        "text": "1999: perubahan pertama",
+        "caption": "Perubahan pertama, tahun 1999.",
+        "kicker": "Satu",
+        "transition": "slide",
+        "textMotion": "type"
+      },
+      {
+        "durationMs": 3200,
+        "text": "2000: perubahan kedua",
+        "caption": "Perubahan kedua, tahun 2000.",
+        "kicker": "Dua",
+        "transition": "slide",
+        "textMotion": "type",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 5700,
+        "text": "2001: perubahan ketiga",
+        "caption": "Perubahan ketiga, tahun 2001. Di sinilah lahir rumusan negara hukum dan Mahkamah Konstitusi.",
+        "kicker": "Tiga",
+        "transition": "slide",
+        "textMotion": "type"
+      },
+      {
+        "durationMs": 3200,
+        "text": "2002: perubahan keempat",
+        "caption": "Perubahan keempat, tahun 2002.",
+        "kicker": "Empat",
+        "transition": "slide",
+        "textMotion": "type",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 3200,
+        "text": "1999, 2000, 2001, 2002",
+        "caption": "Empat tahun, empat perubahan. Gampang, kan?",
+        "character": "kancil",
+        "expression": "happy",
+        "effect": "confetti",
+        "textMotion": "pop",
+        "transition": "zoom"
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Perubahan Pertama (1999), Kedua (2000), Ketiga (2001), dan Keempat (2002)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-jalur-pemakzulan",
+    "type": "reel",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "caption": "Pemberhentian Presiden dalam masa jabatan melewati tiga lembaga: DPR, MK, lalu MPR. Angka kuorumnya sering jadi soal jebakan.",
+    "scenes": [
+      {
+        "durationMs": 3300,
+        "text": "Presiden bisa diberhentikan? Bisa, tapi jalurnya panjang",
+        "caption": "Diatur dalam Pasal 7A dan 7B Undang-Undang Dasar 1945.",
+        "character": "owl",
+        "expression": "think",
+        "textMotion": "pop"
+      },
+      {
+        "durationMs": 9000,
+        "text": "1. DPR mengusulkan",
+        "caption": "Usul diajukan ke MK dengan dukungan sekurang-kurangnya dua pertiga anggota yang hadir, dalam sidang paripurna yang dihadiri sekurang-kurangnya dua pertiga anggota DPR.",
+        "kicker": "DPR: 2/3 dari 2/3",
+        "character": "cat",
+        "expression": "happy",
+        "transition": "slide"
+      },
+      {
+        "durationMs": 7400,
+        "text": "2. MK memeriksa dan memutus",
+        "caption": "Mahkamah Konstitusi wajib memeriksa, mengadili, dan memutus paling lama sembilan puluh hari setelah permintaan diterima.",
+        "kicker": "MK: 90 hari",
+        "character": "owl",
+        "expression": "smug",
+        "transition": "slide",
+        "background": "spotlight"
+      },
+      {
+        "durationMs": 9000,
+        "text": "3. MPR memutuskan",
+        "caption": "Keputusan MPR diambil dalam rapat paripurna yang dihadiri sekurang-kurangnya tiga perempat anggota, dan disetujui sekurang-kurangnya dua pertiga yang hadir.",
+        "kicker": "MPR: 3/4 hadir, 2/3 setuju",
+        "character": "kancil",
+        "expression": "think",
+        "transition": "slide",
+        "background": "stripes"
+      },
+      {
+        "durationMs": 4100,
+        "text": "DPR, MK, MPR. Urutannya jangan kebalik",
+        "caption": "DPR mengusulkan, MK memutus pendapat DPR, MPR yang memberhentikan.",
+        "character": "gecko",
+        "expression": "happy",
+        "effect": "zoom",
+        "textMotion": "pop"
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 7A dan Pasal 7B"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-kekuasaan-kehakiman-uud",
+    "type": "carousel",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "caption": "Bab kekuasaan kehakiman dalam UUD 1945, diringkas jadi beberapa slide. Wajib hafal untuk calon hakim.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Kekuasaan kehakiman dalam UUD 1945",
+          "subtitle": "Pasal 24 sampai 24C",
+          "character": "owl",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "quote",
+          "label": "Pasal 24 ayat (1)",
+          "text": "Kekuasaan kehakiman merupakan kekuasaan yang merdeka untuk menyelenggarakan peradilan guna menegakkan hukum dan keadilan."
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Pelakunya (Pasal 24 ayat 2)",
+          "points": [
+            "Mahkamah Agung dan badan peradilan di bawahnya",
+            "Lingkungan: umum, agama, militer, tata usaha negara",
+            "Mahkamah Konstitusi"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Mahkamah Agung (Pasal 24A)",
+          "points": [
+            "Mengadili pada tingkat kasasi",
+            "Menguji peraturan di bawah UU terhadap UU",
+            "Wewenang lain yang diberikan undang-undang"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Komisi Yudisial (Pasal 24B)",
+          "points": [
+            "Bersifat mandiri",
+            "Mengusulkan pengangkatan hakim agung",
+            "Menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Lembaga mana yang berwenang mengusulkan pengangkatan hakim agung?",
+        "options": [
+          "Mahkamah Konstitusi",
+          "Komisi Yudisial",
+          "DPD",
+          "BPK"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pasal 24B ayat (1): Komisi Yudisial bersifat mandiri, berwenang mengusulkan pengangkatan hakim agung dan mempunyai wewenang lain dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim."
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 24, Pasal 24A, Pasal 24B, dan Pasal 24C"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-cara-uu-lahir",
+    "type": "carousel",
+    "topicId": "htn",
+    "subTopicId": "perundang-undangan",
+    "account": "konstitusi.kece",
+    "caption": "Bagaimana undang-undang lahir menurut UUD 1945, dalam lima langkah.",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Bagaimana undang-undang lahir?",
+          "subtitle": "Pasal 20 UUD 1945",
+          "character": "kancil",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Lima langkah menurut UUD",
+          "points": [
+            "DPR memegang kekuasaan membentuk UU; Presiden berhak mengajukan RUU",
+            "RUU dibahas DPR dan Presiden untuk mendapat persetujuan bersama",
+            "Tidak disetujui bersama: tidak boleh diajukan lagi di persidangan masa itu",
+            "Presiden mengesahkan RUU yang telah disetujui bersama",
+            "Tidak disahkan dalam 30 hari: tetap sah menjadi UU"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Siapa pemegang kekuasaan membentuk undang-undang menurut Pasal 20 ayat (1) UUD 1945?",
+        "options": [
+          "Presiden",
+          "DPR",
+          "MPR",
+          "DPD"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pasal 20 ayat (1): DPR memegang kekuasaan membentuk undang-undang. Presiden berhak mengajukan RUU kepada DPR (Pasal 5 ayat (1)), dan setiap RUU dibahas bersama untuk mendapat persetujuan bersama."
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 5 ayat (1) dan Pasal 20"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-mk-empat-plus-satu",
+    "type": "story",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "title": "MK: 4 wewenang + 1 kewajiban",
+    "slides": [
+      {
+        "visual": {
+          "template": "cover",
+          "kicker": "Story",
+          "title": "MK: 4 wewenang + 1 kewajiban",
+          "subtitle": "Pasal 24C UUD 1945",
+          "character": "owl",
+          "expression": "smug"
+        }
+      },
+      {
+        "visual": {
+          "template": "infographic",
+          "title": "4 wewenang (putusan final)",
+          "points": [
+            "Menguji UU terhadap UUD",
+            "Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan UUD",
+            "Memutus pembubaran partai politik",
+            "Memutus perselisihan hasil pemilihan umum"
+          ]
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "1 kewajiban",
+          "text": "Memutus pendapat DPR soal dugaan pelanggaran Presiden/Wapres",
+          "sub": "Pasal 24C ayat (2)"
+        }
+      },
+      {
+        "visual": {
+          "template": "bigtype",
+          "kicker": "Sifat putusan",
+          "text": "Tingkat pertama dan terakhir, final",
+          "sub": "Tidak ada banding atau kasasi atas putusan MK."
+        }
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 24C ayat (1) dan ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-masa-jabatan-presiden",
+    "type": "poll",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "question": "Seorang Presiden paling lama bisa menjabat berapa periode?",
+    "options": [
+      "Satu periode saja",
+      "Dua periode",
+      "Tiga periode",
+      "Tidak dibatasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 7 UUD 1945: Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan.",
+    "caption": "Jawab dulu sebelum lihat pembahasan.",
+    "comments": [
+      {
+        "user": "warga.plus62",
+        "text": "jelas dan tidak perlu ditawar"
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-empat-lingkungan",
+    "type": "mnemonic",
+    "topicId": "htn",
+    "subTopicId": "kekuasaan-kehakiman",
+    "account": "konstitusi.kece",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Jembatan keledai",
+      "text": "Udah Aman, Mari Tidur",
+      "sub": "Umum, Agama, Militer, Tata usaha negara"
+    },
+    "caption": "Empat lingkungan peradilan di bawah Mahkamah Agung. Sesudah hafal, baru boleh tidur.",
+    "phrase": "Udah Aman, Mari Tidur (U-A-M-T)",
+    "expansion": [
+      "Udah: peradilan Umum",
+      "Aman: peradilan Agama",
+      "Mari: peradilan Militer",
+      "Tidur: peradilan Tata usaha negara"
+    ],
+    "comments": [
+      {
+        "user": "pejuang.cakim",
+        "text": "akhirnya ada alasan sah buat tidur"
+      }
+    ],
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 24 ayat (2)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "htn-syarat-ubah-uud",
+    "type": "review",
+    "topicId": "htn",
+    "subTopicId": "lembaga-negara",
+    "account": "konstitusi.kece",
+    "front": "Bagaimana prosedur mengubah pasal-pasal UUD 1945 menurut Pasal 37?",
+    "back": "Usul diajukan sekurang-kurangnya 1/3 jumlah anggota MPR, tertulis, dengan menunjukkan bagian yang diusulkan diubah beserta alasannya. Sidang MPR dihadiri sekurang-kurangnya 2/3 jumlah anggota. Putusan disetujui sekurang-kurangnya 50% ditambah satu dari seluruh anggota MPR.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 37 ayat (1) sampai ayat (4)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

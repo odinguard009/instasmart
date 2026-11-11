@@ -3,6 +3,7 @@
 > Diambil pada 11 November 2026 dari naskah "UUD 1945 dalam satu naskah" di JDIH MPR:
 > https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf
 > Tanda bintang mengikuti naskah: *) Perubahan Pertama, **) Perubahan Kedua, ***) Perubahan Ketiga, ****) Perubahan Keempat; tanpa bintang berarti rumusan asli. Keterangan tanda bintang di kaki halaman yang ikut terbaca dibuang; baris yang terpotong digabung. Salah ketik dalam naskah ini dibiarkan apa adanya, antara lain "dihadapan" (28D), "diwilayah" dan kalimat "Setiap orang atas kebebasan" tanpa kata "berhak" (28E ayat (2)), "dibawah" (28G), "medapatkan" (28H), "aggaran" dan "tekhnologi" (31), "memelihara dalam mengembangkan" (32), "sistim" dan "seluruah" (34). Bila kalimat penting untuk dihafal, cocokkan dengan naskah lain.
+> Normalisasi kecil lain: kata yang terpenggal tanda hubung di akhir baris disambung (mis. "sekurang- kurangnya" menjadi "sekurang-kurangnya") dan spasi berlebih, termasuk spasi sebelum tanda baca, dirapikan. Naskah MPR ini memuat salah ketik dan bukan Lembaran Negara; untuk hafalan kata per kata, cocokkan dengan naskah lain.
 
 ## Pasal 26
 

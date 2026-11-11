@@ -80,13 +80,14 @@
       "Lebih dari 50% suara, dengan ≥20% di lebih dari separuh provinsi"
     ],
     "answerIndex": 3,
-    "explanation": "Bila tidak ada yang memenuhi, dua pasangan peraih suara terbanyak dipilih langsung oleh rakyat (putaran kedua).",
+    "explanation": "Bila tidak ada yang memenuhi, dua pasangan peraih suara terbanyak dipilih langsung oleh rakyat (putaran kedua). Catatan: Putusan MK 50/PUU-XII/2014 (menguji Pasal 159 ayat (1) UU 42/2008) memaknai syarat sebaran hanya berlaku bila ada lebih dari dua pasangan calon; cek putusannya.",
     "source": {
       "title": "UUD NRI Tahun 1945",
       "reference": "Pasal 6A ayat (3)-(4)"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "pemilu-sengketa-hasil",
@@ -601,29 +602,6 @@
     "createdAt": "2026-11-11"
   },
   {
-    "id": "pemilu-dua-periode",
-    "type": "quiz",
-    "topicId": "pemilu",
-    "subTopicId": "konstitusi-pemilu",
-    "account": "kotak.suara",
-    "question": "Presiden dan Wakil Presiden memegang jabatan lima tahun dan sesudahnya dapat dipilih kembali dalam jabatan yang sama…",
-    "options": [
-      "Dua kali masa jabatan lagi",
-      "Tanpa batas sepanjang dipilih",
-      "Asal ada jeda satu periode",
-      "Hanya satu kali masa jabatan"
-    ],
-    "answerIndex": 3,
-    "explanation": "Pasal 7 (Perubahan Pertama): hanya untuk satu kali masa jabatan.",
-    "source": {
-      "title": "UUD NRI Tahun 1945",
-      "reference": "Pasal 7",
-      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
-    },
-    "status": "draft",
-    "createdAt": "2026-11-11"
-  },
-  {
     "id": "pemilu-kosong-wapres",
     "type": "quiz",
     "topicId": "pemilu",
@@ -825,7 +803,7 @@
       },
       {
         "kind": "quiz",
-        "question": "Pasangan A meraih 55% suara nasional, tetapi ≥20% hanya di 10 dari 38 provinsi. Menurut Pasal 6A ayat (3), A…",
+        "question": "Ada tiga pasangan calon. Pasangan A meraih 55% suara nasional, tetapi ≥20% hanya di 10 dari 38 provinsi. Menurut Pasal 6A ayat (3), A…",
         "options": [
           "Langsung dilantik",
           "Didiskualifikasi",
@@ -836,14 +814,15 @@
         "explanation": "Ayat (3) mensyaratkan >50% suara DAN sedikitnya 20% suara di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi."
       }
     ],
-    "caption": "Syarat terpilih presiden ada dua lapis: mayoritas nasional dan sebaran provinsi (Pasal 6A ayat (3)). Contoh angka provinsi di kuis hanya ilustrasi.",
+    "caption": "Syarat terpilih presiden ada dua lapis: mayoritas nasional dan sebaran provinsi (Pasal 6A ayat (3)). Contoh angka provinsi di kuis hanya ilustrasi. Catatan: Putusan MK 50/PUU-XII/2014 (menguji Pasal 159 ayat (1) UU 42/2008) memaknai syarat sebaran hanya berlaku bila ada lebih dari dua pasangan calon; cek putusannya.",
     "source": {
       "title": "UUD NRI Tahun 1945",
       "reference": "Pasal 6A",
       "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "pemilu-humor-dpd-partai",

@@ -3,6 +3,7 @@
 > Diambil pada 11 November 2026 dari naskah "UUD 1945 dalam satu naskah" di JDIH MPR:
 > https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf
 > Tanda bintang mengikuti naskah: *) Perubahan Pertama, **) Perubahan Kedua, ***) Perubahan Ketiga, ****) Perubahan Keempat; tanpa bintang berarti rumusan asli. Keterangan tanda bintang di kaki halaman yang ikut terbaca dibuang; baris yang terpotong digabung. Salah ketik di naskah ("menperhatikan" Pasal 13 ayat (3), "selanjutanya" Pasal 16) dibiarkan apa adanya.
+> Normalisasi kecil lain: kata yang terpenggal tanda hubung di akhir baris disambung (mis. "sekurang- kurangnya" menjadi "sekurang-kurangnya") dan spasi berlebih, termasuk spasi sebelum tanda baca, dirapikan. Naskah MPR ini memuat salah ketik dan bukan Lembaran Negara; untuk hafalan kata per kata, cocokkan dengan naskah lain.
 
 ## Pasal 5
 

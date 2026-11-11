@@ -35,13 +35,14 @@
       "Lebih dari 50% suara, dengan ≥20% di lebih dari separuh provinsi"
     ],
     "answerIndex": 3,
-    "explanation": "Pasal 6A ayat (3).",
+    "explanation": "Pasal 6A ayat (3). Catatan: Putusan MK 50/PUU-XII/2014 (menguji Pasal 159 ayat (1) UU 42/2008) memaknai syarat sebaran hanya berlaku bila ada lebih dari dua pasangan calon; cek putusannya.",
     "source": {
       "title": "UUD NRI Tahun 1945",
       "reference": "Pasal 6A ayat (3)"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "htn-triumvirat",

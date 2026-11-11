@@ -3,6 +3,7 @@
 > Diambil pada 11 November 2026 dari PDF teks undang-undang di situs Hukumonline (pihak ketiga):
 > https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf
 > Disahkan dan diundangkan 15 Oktober 1997 (LN 1997 No. 84, TLN 3713). Belum dicocokkan dengan Lembaran Negara. Baris yang terpotong digabung, judul bagian yang ikut terbaca dibuang, dan nomor ayat "(2) (2)" yang tercetak ganda di Pasal 203 dirapikan; selebihnya disalin persis. Pasal 203 ayat (4) memang tercetak tanpa subjek di sumber ini ("(4) sebagaimana dimaksud...").
+> Normalisasi kecil lain: spasi berlebih (termasuk sebelum tanda baca) dirapikan dan kata yang terpenggal tanda hubung di akhir baris disambung.
 > Status perubahan UU 31/1997 tidak diperiksa dalam pengambilan ini. Catatan: Pasal 65 ayat (2) UU 34/2004 tentang TNI mengarahkan pelanggaran hukum pidana umum oleh prajurit ke peradilan umum (dengan ketentuan peralihan); penyebutan Kepala Kepolisian Negara sebagai Papera di Pasal 122 berasal dari masa sebelum Polri dipisah dari ABRI; "Menteri Kehakiman" kini kementerian yang membidangi hukum. Ketentuan koneksitas (Pasal 198-203) perlu dicek terhadap KUHAP baru (UU 20/2025) yang berlaku sejak 2 Januari 2026.
 
 ## Pasal 74

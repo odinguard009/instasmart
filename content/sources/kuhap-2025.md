@@ -53,3 +53,23 @@ Catatan kehati-hatian:
 
 - Nomor pasal di Bagian B (Pasal 230, 235, 78, 205) berasal dari artikel, belum dicocokkan dengan teks UU.
 - Daftar lengkap dan urutan delapan alat bukti perlu dicek langsung di Pasal 235 ayat (1) UU 20/2025.
+
+## C. Klinik Hukumonline: "Jenis Alat Bukti Sah Menurut KUHAP Baru" (sumber sekunder)
+
+Sumber: https://www.hukumonline.com/klinik/a/jenis-alat-bukti-sah-menurut-kuhap-baru-lt657ae25924ac9/
+(Muhammad Raihan Nugraha, 27 Januari 2026; diambil 11 November 2026)
+
+1. "Adapun dalam UU 20/2025, sepanjang penelusuran kami tidak ada ketentuan yang secara eksplisit mengenai
+   keharusan minimal alat bukti yang sah sebagai parameter hakim untuk memutus suatu perkara pidana. Namun
+   demikian, minimal dua alat bukti tersebut masih diberlakukan untuk menetapkan seseorang menjadi tersangka,
+   penangkapan, ataupun syarat penahanan." (catatan kaki artikel: Pasal 1 angka 31, Pasal 1 angka 32,
+   Pasal 100 ayat (5) UU 20/2025)
+2. Pasal 240 ayat (4) UU 20/2025 menurut tabel artikel: "Keterangan terdakwa saja tidak cukup untuk membuktikan
+   bahwa terdakwa bersalah melakukan perbuatan yang didakwakan kepadanya, melainkan harus disertai dengan alat
+   bukti yang sah lainnya."
+3. "alat bukti harus dapat dibuktikan autentikasinya dan diperoleh secara tidak melawan hukum." (catatan kaki:
+   Pasal 235 ayat (3) UU 20/2025)
+
+Catatan: artikel Dandapala (Bagian B) menyebut Pasal 230 masih memuat rumus "dua alat bukti + keyakinan",
+sedangkan Hukumonline tidak menemukan ketentuan eksplisit itu untuk putusan hakim. Dua ulasan ini berbeda;
+kartu yang memakai rumus itu menyebutkan perbedaan ini sampai dicocokkan dengan teks UU.

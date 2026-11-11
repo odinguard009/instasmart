@@ -170,8 +170,8 @@
         }
       ]
     },
-    "caption": "Sistem pembuktian negatif (negatief wettelijk): pidana hanya dapat dijatuhkan dengan sekurang-kurangnya dua alat bukti yang sah dan keyakinan hakim. Salah satu saja tidak cukup.",
-    "teaches": "Syarat pemidanaan: minimal dua alat bukti yang sah dan keyakinan hakim (KUHAP baru; pada KUHAP lama diatur di Pasal 183).",
+    "caption": "Sistem pembuktian negatif (negatief wettelijk): pada KUHAP lama (Pasal 183) pidana hanya dapat dijatuhkan dengan sekurang-kurangnya dua alat bukti yang sah dan keyakinan hakim. Ulasan berbeda: Dandapala menyebut Pasal 230 KUHAP baru masih memuat rumus ini; Hukumonline (Jan 2026) tidak menemukan ketentuan eksplisit minimal dua alat bukti untuk putusan hakim, hanya untuk penetapan tersangka, penangkapan, dan penahanan.",
+    "teaches": "Rumus klasik pemidanaan: minimal dua alat bukti yang sah dan keyakinan hakim (Pasal 183 KUHAP lama). Untuk KUHAP baru ulasan berbeda; cek teks UU 20/2025.",
     "comments": [
       {
         "user": "pakhoot.bijak",
@@ -180,7 +180,7 @@
     ],
     "source": {
       "title": "KUHAP (UU No. 20 Tahun 2025)",
-      "reference": "Pasal 230, menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+      "reference": "Pasal 183 KUHAP lama; Pasal 230 KUHAP baru menurut Dandapala (diperdebatkan). Lihat content/sources/kuhap-2025.md"
     },
     "needsVerification": true,
     "status": "draft",
@@ -423,7 +423,7 @@
           "template": "bigtype",
           "kicker": "Rumusnya",
           "text": "2 alat bukti sah + keyakinan hakim",
-          "sub": "Keduanya kumulatif, tidak boleh salah satu saja."
+          "sub": "Rumus KUHAP lama (Pasal 183). Untuk KUHAP baru, ulasan berbeda: cek slide terakhir."
         }
       },
       {
@@ -451,11 +451,23 @@
           "text": "In dubio pro reo",
           "sub": "Dalam keraguan yang beralasan, terdakwa yang diuntungkan."
         }
+      },
+      {
+        "visual": {
+          "template": "infographic",
+          "title": "Status di KUHAP baru",
+          "points": [
+            "Dandapala: Pasal 230 masih memakai rumus ini",
+            "Hukumonline: tidak ada ketentuan eksplisit untuk putusan",
+            "Yang pasti: 2 alat bukti untuk tersangka, penangkapan, penahanan",
+            "Cocokkan dengan teks UU 20/2025"
+          ]
+        }
       }
     ],
     "source": {
       "title": "KUHAP (UU No. 20 Tahun 2025)",
-      "reference": "Pasal 230, menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+      "reference": "Pasal 230 menurut Dandapala; Hukumonline tidak menemukan ketentuan eksplisit itu. Lihat content/sources/kuhap-2025.md; cocokkan dengan teks UU"
     },
     "needsVerification": true,
     "status": "draft",
@@ -473,11 +485,12 @@
       "Tidak cukup"
     ],
     "answerIndex": 1,
-    "explanation": "Pengakuan semata tanpa dukungan bukti lain tidak cukup untuk menjatuhkan pidana. Dalam mekanisme pengakuan bersalah di KUHAP baru pun, hakim harus memastikan pengakuan diberikan secara sadar dan sukarela serta didukung bukti.",
+    "explanation": "Keterangan terdakwa saja tidak cukup untuk membuktikan bahwa terdakwa bersalah; harus disertai alat bukti yang sah lainnya (Pasal 240 ayat (4) UU 20/2025, menurut kutipan Hukumonline; sama dengan Pasal 189 ayat (4) KUHAP lama).",
     "caption": "Pengakuan itu penting, tapi bukan segalanya.",
     "source": {
       "title": "KUHAP (UU No. 20 Tahun 2025)",
-      "reference": "Ketentuan pembuktian dan pengakuan bersalah, menurut ringkasan sumber sekunder di content/sources/kuhap-2025.md; cocokkan dengan teks UU"
+      "reference": "Pasal 240 ayat (4), menurut kutipan Klinik Hukumonline di content/sources/kuhap-2025.md; cocokkan dengan teks UU",
+      "url": "https://www.hukumonline.com/klinik/a/jenis-alat-bukti-sah-menurut-kuhap-baru-lt657ae25924ac9/"
     },
     "needsVerification": true,
     "status": "draft",

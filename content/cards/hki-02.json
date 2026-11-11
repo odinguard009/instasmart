@@ -99,16 +99,17 @@
     "account": "karya.cipta",
     "question": "Merek terdaftar dapat dihapus atas permohonan pihak ketiga bila tidak digunakan dalam perdagangan selama…",
     "options": [
-      "3 tahun berturut-turut",
       "5 tahun berturut-turut",
+      "3 tahun berturut-turut",
       "1 tahun berturut-turut",
       "10 tahun berturut-turut"
     ],
     "answerIndex": 0,
-    "explanation": "Penghapusan merek karena tidak digunakan selama 3 tahun berturut-turut sejak pendaftaran atau pemakaian terakhir, kecuali ada alasan yang dapat diterima.",
+    "explanation": "Putusan MK No. 144/PUU-XXI/2023 (30 Juli 2024) memaknai Pasal 74 ayat (1): penghapusan atas gugatan pihak ketiga ke Pengadilan Niaga bila merek tidak digunakan 5 tahun berturut-turut sejak pendaftaran atau pemakaian terakhir. Sebelumnya 3 tahun.",
     "source": {
-      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
-      "reference": "Pasal 74"
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis jo. Putusan MK No. 144/PUU-XXI/2023",
+      "reference": "Pasal 74 ayat (1), menurut ulasan Leks&Co atas putusan MK",
+      "url": "https://blog.lekslawyer.com/ketentuan-merek-terdaftar-yang-tidak-digunakan-non-use-pasca-putusan-mahkamah-konstitusi-nomor-144-puu-xxi-2023/"
     },
     "needsVerification": true,
     "status": "draft",

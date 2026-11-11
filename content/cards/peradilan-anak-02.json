@@ -139,7 +139,8 @@
       "reference": "Pasal 1 dan ketentuan tentang penempatan anak"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "peradilan-anak-identitas-rahasia",

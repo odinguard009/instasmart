@@ -88,5 +88,471 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-fungsi-asn",
+    "type": "fact",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "visual": {
+      "template": "infographic",
+      "title": "Fungsi Pegawai ASN",
+      "points": [
+        "Pelaksana kebijakan publik",
+        "Pelayan publik",
+        "Perekat dan pemersatu bangsa"
+      ]
+    },
+    "caption": "Tiga fungsi ini bunyi Pasal 10 UU 20/2023. Tugas (Pasal 11) mengikuti urutan yang sama: melaksanakan kebijakan, memberi pelayanan publik, mempererat persatuan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-jabatan-asn",
+    "type": "carousel",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "UU 20/2023",
+          "title": "Peta jabatan ASN",
+          "subtitle": "Pasal 13, 14, 18",
+          "character": "cat",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Jabatan Manajerial",
+          "points": [
+            "JPT utama",
+            "JPT madya",
+            "JPT pratama",
+            "Administrator",
+            "Pengawas"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Jabatan Nonmanajerial",
+          "points": [
+            "Fungsional: keahlian/keterampilan",
+            "Pelaksana: rutin dan sederhana"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Seorang pranata komputer (jabatan fungsional) termasuk jabatan…",
+        "options": [
+          "Nonmanajerial",
+          "Manajerial tingkat dasar",
+          "Pimpinan tinggi pratama",
+          "Administrator"
+        ],
+        "answerIndex": 0,
+        "explanation": "Pasal 18 ayat (1): Jabatan Nonmanajerial terdiri atas jabatan fungsional dan jabatan pelaksana."
+      }
+    ],
+    "caption": "UU 20/2023 menyederhanakan jabatan ASN menjadi dua kelompok: manajerial (memimpin unit dan punya bawahan langsung) dan nonmanajerial (teknis, tanpa tanggung jawab langsung mengawasi kinerja pegawai). JPT = jabatan pimpinan tinggi.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 13, 14, 18",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-bup-administrator",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "question": "Menurut UU 20/2023, batas usia pensiun pejabat administrator adalah…",
+    "options": [
+      "60 tahun",
+      "65 tahun",
+      "58 tahun",
+      "56 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 55: 58 tahun bagi administrator, pengawas, dan pelaksana; 60 tahun bagi JPT utama, madya, dan pratama; pejabat fungsional mengikuti peraturan masing-masing.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 55",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-bup-fungsional",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "question": "Batas usia pensiun pejabat fungsional menurut Pasal 55 UU 20/2023 adalah…",
+    "options": [
+      "Selalu 60 tahun, sama dengan JPT",
+      "Sama dengan pejabat pengawas",
+      "Selalu 58 tahun, sama dengan pelaksana",
+      "Mengikuti peraturan jabatannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 55 huruf b angka 1: bagi pejabat fungsional, batas usia pensiun sesuai dengan ketentuan peraturan perundang-undangan. Angka pastinya tidak disebut di UU ASN.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 55",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-ptdh",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Alasan pemberhentian mana yang DIKATEGORIKAN pemberhentian tidak dengan hormat menurut Pasal 52 ayat (4) UU 20/2023?",
+    "options": [
+      "Tidak berkinerja",
+      "Dipidana penjara minimal 2 tahun untuk tindak pidana umum",
+      "Tidak cakap jasmani atau rohani",
+      "Menjadi anggota atau pengurus partai politik"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (4) hanya menyebut huruf a (penyelewengan terhadap Pancasila/UUD), g (disiplin berat), i (kejahatan jabatan), dan j (partai politik). Pidana ≥2 tahun (huruf h) tetap alasan pemberhentian, tetapi tidak masuk daftar ayat (4).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 52 ayat (3) dan (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-calon-legislatif",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "ASN yang dicalonkan menjadi anggota DPR wajib menyatakan pengunduran diri secara tertulis…",
+    "options": [
+      "Setelah terpilih dan dilantik",
+      "Sejak ditetapkan sebagai calon",
+      "Paling lambat saat masa kampanye",
+      "Sejak mendaftar ke partai politik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 59 ayat (3): sejak ditetapkan sebagai calon. Berlaku untuk calon Presiden/Wapres, DPR, DPD, dan kepala/wakil kepala daerah.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 59 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-asas-bukan",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Mana yang BUKAN asas penyelenggaraan kebijakan dan Manajemen ASN menurut Pasal 2 UU 20/2023?",
+    "options": [
+      "Senioritas",
+      "Nondiskriminatif",
+      "Kesejahteraan",
+      "Netralitas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 2 memuat 13 asas, antara lain kepastian hukum, profesionalitas, netralitas, nondiskriminatif, dan kesejahteraan. Senioritas tidak termasuk; manajemen ASN berbasis Sistem Merit.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 2",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-suka-menolong",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Dalam kode etik dan kode perilaku ASN, \"suka menolong\" adalah penjabaran nilai dasar…",
+    "options": [
+      "Kompeten",
+      "Berorientasi pelayanan",
+      "Harmonis",
+      "Kolaboratif"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 4 ayat (2) huruf d: harmonis meliputi menghargai setiap orang tanpa membedakan latar belakang, suka menolong, dan membangun lingkungan kerja yang kondusif.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 4 ayat (2) huruf d",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-rahasia-jabatan",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "\"Menjaga rahasia jabatan dan negara\" dijabarkan dari nilai dasar ASN…",
+    "options": [
+      "Adaptif",
+      "Akuntabel",
+      "Loyal",
+      "Berorientasi pelayanan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 4 ayat (2) huruf e: loyal meliputi memegang teguh Pancasila, UUD 1945, NKRI, dan pemerintahan yang sah; menjaga nama baik ASN, instansi, dan negara; serta menjaga rahasia jabatan dan negara.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 4 ayat (2) huruf e",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-proaktif",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "\"Bertindak proaktif\" termasuk penjabaran nilai dasar…",
+    "options": [
+      "Adaptif",
+      "Kolaboratif",
+      "Kompeten",
+      "Loyal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 4 ayat (2) huruf f: adaptif meliputi cepat menyesuaikan diri, terus berinovasi dan mengembangkan kreativitas, serta bertindak proaktif.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 4 ayat (2) huruf f",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-sengketa-asn",
+    "type": "review",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "front": "Lewat jalur apa sengketa Pegawai ASN diselesaikan menurut UU 20/2023, dan apa saja bentuknya?",
+    "back": "Upaya administratif (Pasal 64 ayat (1)), yang terdiri atas keberatan dan banding administratif (ayat (2)). Tata caranya diatur Peraturan Pemerintah.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 64",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-non-asn",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "question": "Menurut Pasal 66 UU 20/2023, penataan pegawai non-ASN (honorer) wajib diselesaikan paling lambat…",
+    "options": [
+      "Desember 2023",
+      "Desember 2024",
+      "Tidak ditentukan batas waktunya",
+      "Desember 2025"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 66 juga melarang instansi pemerintah mengangkat pegawai non-ASN sejak UU ini berlaku; Pasal 65 melarang PPK mengangkat non-ASN untuk mengisi jabatan ASN.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 65 dan 66",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-pppk-manajerial",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "question": "Bolehkah jabatan manajerial diisi PPPK menurut UU 20/2023?",
+    "options": [
+      "Boleh, terbatas JPT tertentu",
+      "Boleh, asal sudah 5 tahun bekerja",
+      "Boleh untuk semua jabatan administrator",
+      "Tidak pernah boleh"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 34: jabatan diutamakan diisi PNS; jabatan tertentu dapat diisi PPPK. Penjelasan ayat (2): pengisian jabatan manajerial dari PPPK hanya untuk jabatan pimpinan tinggi tertentu, prioritas di Instansi Pusat tertentu.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 34 dan penjelasannya",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-uu-lama",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "seleksi-skd",
+    "account": "asn.berakhlak",
+    "question": "UU 20/2023 tentang ASN mencabut dan menyatakan tidak berlaku…",
+    "options": [
+      "PP No. 11 Tahun 2017",
+      "UU No. 5 Tahun 2014",
+      "UU No. 8 Tahun 1974",
+      "UU No. 43 Tahun 1999"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 76 mencabut UU 5/2014. Peraturan pelaksanaan UU 5/2014 tetap berlaku sepanjang tidak bertentangan (Pasal 75). UU 20/2023 berlaku sejak diundangkan, 31 Oktober 2023.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 75-77",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-jaminan-sosial-asn",
+    "type": "fact",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "visual": {
+      "template": "infographic",
+      "title": "Jaminan sosial ASN",
+      "points": [
+        "Jaminan kesehatan",
+        "Jaminan kecelakaan kerja",
+        "Jaminan kematian",
+        "Jaminan pensiun",
+        "Jaminan hari tua"
+      ]
+    },
+    "caption": "Pasal 21 ayat (6). Jaminan pensiun dan hari tua dibayarkan setelah pegawai berhenti bekerja, dibiayai pemerintah sebagai pemberi kerja dan iuran pegawai (Pasal 22).",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 21 ayat (6) dan Pasal 22",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-mobilitas-luar",
+    "type": "quiz",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "question": "Penempatan ASN ke BUMN atau lembaga internasional dalam UU 20/2023 disebut mobilitas talenta…",
+    "options": [
+      "Ke luar instansi pemerintah",
+      "Dalam satu instansi pemerintah",
+      "Antar-instansi pemerintah",
+      "Nasional oleh Presiden langsung"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 46 ayat (3) huruf c dan penjelasannya: ke luar instansi pemerintah, antara lain BUMN/BUMD, lembaga internasional, badan hukum lain, dan badan swasta.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 46 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "asn-humor-mundur-calon",
+    "type": "humor",
+    "topicId": "asn",
+    "subTopicId": "nilai-asn",
+    "account": "asn.berakhlak",
+    "visual": {
+      "template": "comic",
+      "title": "Nyaleg sambil ASN",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Aku mau nyaleg, tapi tetap ASN dulu ya."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Sejak ditetapkan calon, wajib mundur tertulis."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Kalau kalah, balik lagi?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Itu sudah dipikir sebelum mendaftar."
+        }
+      ]
+    },
+    "caption": "Pilih satu: kursi dewan atau NIP.",
+    "teaches": "Pasal 59 ayat (3) UU 20/2023: ASN yang mencalonkan diri atau dicalonkan menjadi anggota DPR, DPD, Presiden/Wapres, atau kepala daerah wajib mengundurkan diri secara tertulis sejak ditetapkan sebagai calon.",
+    "source": {
+      "title": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+      "reference": "Pasal 59 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-20-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

@@ -1527,5 +1527,175 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-definisi",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "front": "Bagaimana KUHAP baru mendefinisikan keadilan restoratif (Pasal 1 angka 21, menurut artikel MARINews)?",
+    "back": "Pendekatan penanganan perkara pidana yang melibatkan para pihak (korban, keluarga korban, tersangka/terdakwa dan keluarganya, dan/atau pihak lain yang terkait) dan bertujuan mengupayakan pemulihan keadaan semula.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Pradikta Andi Alvat, 7 September 2026)",
+      "reference": "Pasal 1 angka 21 KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penerapan-mekanisme-keadilan-restoratif-tahap-penyelidikan-0bwg"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-sebelum-kuhap",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Sebelum KUHAP 2025, keadilan restoratif di Polri diatur dalam…",
+    "options": [
+      "Peraturan Polri Nomor 8 Tahun 2021",
+      "PERMA Nomor 1 Tahun 2024",
+      "Peraturan Kejaksaan Nomor 15 Tahun 2020",
+      "SEMA Nomor 1 Tahun 2026"
+    ],
+    "answerIndex": 0,
+    "explanation": "Menurut artikel MARINews, tiap lembaga dulu punya aturan sendiri: Kejaksaan (Perja 15/2020), Polri (Perpol 8/2021), dan MA (PERMA 1/2024). Perpol 8/2021 sudah mengenal RJ di tahap penyelidikan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Pradikta Andi Alvat, 7 September 2026)",
+      "reference": "Perja 15/2020, Perpol 8/2021, PERMA 1/2024 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penerapan-mekanisme-keadilan-restoratif-tahap-penyelidikan-0bwg"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-empat-elemen",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Empat elemen dasar keadilan restoratif",
+      "points": [
+        "Pemenuhan kerugian korban",
+        "Tanggung jawab pelaku",
+        "Partisipasi dalam penyelesaian perkara",
+        "Restorasi hubungan pelaku dan korban"
+      ]
+    },
+    "caption": "Rumusan penulis artikel MARINews (bukan bunyi pasal). Elemen \"tanggung jawab pelaku\" menjadi dasar kritiknya terhadap RJ di tahap penyelidikan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Pradikta Andi Alvat, 7 September 2026)",
+      "reference": "Konsep keadilan restoratif (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penerapan-mekanisme-keadilan-restoratif-tahap-penyelidikan-0bwg"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-lidik-masalah",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel MARINews, kenapa RJ pada tahap penyelidikan bermasalah secara konseptual?",
+    "options": [
+      "Korban belum boleh dilibatkan dalam musyawarah",
+      "Pelaku belum ditetapkan, padahal RJ butuh tanggung jawabnya",
+      "Penyelidik dilarang bertemu terlapor sebelum gelar perkara dimulai",
+      "KUHAP baru hanya membolehkan RJ di sidang pengadilan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penyelidikan baru menentukan ada tidaknya tindak pidana, belum menetapkan pelaku (tersangka). Padahal salah satu aspek penting RJ adalah tanggung jawab pelaku. Penulis juga menyorot masalah praktis: risiko damai paksa atau pemerasan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Pradikta Andi Alvat, 7 September 2026)",
+      "reference": "Pasal 79 ayat (8) KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penerapan-mekanisme-keadilan-restoratif-tahap-penyelidikan-0bwg"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-lidik-tanpa-kpn",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Menurut artikel MARINews, apa yang TIDAK diatur untuk penghentian penyelidikan karena RJ (berbeda dengan penghentian penyidikan)?",
+    "options": [
+      "Persetujuan korban dan pelaku atas kesepakatan",
+      "Pelaksanaan kesepakatan oleh pelaku",
+      "Pemberitahuan ke PU dan penetapan Ketua PN",
+      "Pencatatan kesepakatan dalam berita acara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penulis: Pasal 83 jo. 84 tidak mewajibkan surat penghentian penyelidikan diberitahukan ke penuntut umum dan dimintakan penetapan Ketua PN; itu hanya untuk penghentian penyidikan. SEMA 1/2026 juga hanya mengatur persetujuan Ketua PN di tahap penyidikan dan penuntutan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Pradikta Andi Alvat, 7 September 2026)",
+      "reference": "Pasal 83-84 KUHAP baru; SEMA 1/2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penerapan-mekanisme-keadilan-restoratif-tahap-penyelidikan-0bwg"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-pp",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "front": "Menurut artikel MARINews, ketentuan lebih lanjut tentang mekanisme keadilan restoratif KUHAP baru akan diatur dengan apa?",
+    "back": "Peraturan pemerintah (Pasal 88 menurut penulis). Penulis melihatnya sebagai pintu masuk untuk menambah kontrol atas RJ di tahap penyelidikan, selain opsi legislative review.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Pradikta Andi Alvat, 7 September 2026)",
+      "reference": "Pasal 88 KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penerapan-mekanisme-keadilan-restoratif-tahap-penyelidikan-0bwg"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-rj-main-sabun",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Damai terlalu dini",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Belum ada tersangka, tapi ayo damai saja di tahap penyelidikan."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Damai dengan siapa? Pelakunya saja belum ditetapkan."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Tanpa pengawasan, damai bisa berubah jadi damai paksa."
+        }
+      ]
+    },
+    "caption": "Kritik terhadap RJ di tahap penyelidikan: pelaku belum jelas dan pengawasannya minim.",
+    "teaches": "Menurut artikel MARINews, RJ di tahap penyelidikan bermasalah karena tersangka belum ditetapkan dan tidak ada kewajiban koordinasi dengan PU atau penetapan Ketua PN, sehingga berisiko damai paksa atau pemerasan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut artikel MARINews (Pradikta Andi Alvat, 7 September 2026)",
+      "reference": "Pasal 79 ayat (8), 83-84 KUHAP baru (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/penerapan-mekanisme-keadilan-restoratif-tahap-penyelidikan-0bwg"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

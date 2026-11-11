@@ -540,5 +540,366 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-sema-1-2026",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Pedoman MA",
+      "text": "SEMA 1/2026",
+      "sub": "Pedoman implementasi KUHP 2023 dan KUHAP 2025 di pengadilan"
+    },
+    "caption": "Menurut Hukumonline (13 Januari 2026), MA menerbitkan SEMA No. 1 Tahun 2026 untuk menjaga kesatuan dan konsistensi penerapan KUHP 2023 dan KUHAP 2025 serta mencegah multitafsir. Isinya antara lain petunjuk teknis pengakuan bersalah (plea bargain) dan DPA.",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "SEMA ini masuk daftar bacaan wajib ujian"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "baca teks aslinya juga, jangan cuma beritanya"
+      }
+    ],
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "SEMA No. 1 Tahun 2026 (menurut berita Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-tiga-pintu-pengakuan",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "infographic",
+      "title": "Tiga pintu pengakuan bersalah",
+      "points": [
+        "Pasal 78: permohonan penuntut umum, diperiksa hakim tunggal",
+        "Pasal 205: mengaku di sidang, acara singkat, pidana paling lama 3 tahun",
+        "Pasal 234: ancaman di atas 5 s.d. 7 tahun, pidana paling banyak 2/3 maksimum"
+      ]
+    },
+    "caption": "Ringkasan SEMA 1/2026 menurut Hukumonline. Ketiganya sama-sama bergantung pada penilaian hakim: bila pengakuan ditolak, perkara diperiksa dengan acara biasa.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 78, 205, 234 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-78-hakim",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Menurut SEMA 1/2026 (diberitakan Hukumonline), siapa yang memeriksa permohonan pengakuan bersalah dari penuntut umum berdasarkan Pasal 78 KUHAP baru?",
+    "options": [
+      "Majelis tiga hakim yang dipilih penuntut umum",
+      "Hakim tunggal yang ditunjuk Ketua Pengadilan",
+      "Hakim pengawas dan pengamat",
+      "Ketua Pengadilan Tinggi secara langsung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ketua Pengadilan menunjuk hakim tunggal. Hakim wajib menetapkan hari sidang paling lama tiga hari sejak penunjukan dan memeriksa terpenuhinya syarat pengakuan bersalah.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 78 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-78-tiga-hari",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Setelah ditunjuk, hakim tunggal wajib menetapkan hari sidang permohonan pengakuan bersalah paling lama…",
+    "options": [
+      "14 hari",
+      "1 hari",
+      "7 hari",
+      "3 hari"
+    ],
+    "answerIndex": 3,
+    "explanation": "Paling lama tiga hari sejak penunjukan, menurut SEMA 1/2026 sebagaimana diberitakan Hukumonline. Tenggat yang sama berlaku untuk sidang permohonan pengesahan DPA.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 78 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-diterima",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Hakim menilai permohonan pengakuan bersalah memenuhi syarat. Menurut SEMA 1/2026, hakim lalu…",
+    "options": [
+      "Langsung menjatuhkan putusan bebas tanpa pemeriksaan",
+      "Menyerahkan perkara ke mediator di luar pengadilan",
+      "Mengembalikan berkas ke penyidik untuk dilengkapi",
+      "Menerima dan melimpahkan ke acara singkat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hakim mengeluarkan penetapan yang menerima pengakuan bersalah dan memerintahkan perkara dilimpahkan dengan acara pemeriksaan singkat. Bila syarat tidak terpenuhi, pengakuan ditolak dan perkara diperiksa dengan acara biasa.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 78 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-205-batas",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Terdakwa mengaku bersalah di sidang (mekanisme Pasal 205 KUHAP baru) dan perkara beralih ke acara singkat. Menurut SEMA 1/2026, pidana penjara yang dijatuhkan paling lama…",
+    "options": [
+      "3 tahun",
+      "5 tahun",
+      "1 tahun",
+      "2/3 dari ancaman maksimum"
+    ],
+    "answerIndex": 0,
+    "explanation": "SEMA (dikutip Hukumonline): \"Penjatuhan pidana harus memenuhi ketentuan Pasal 257 ayat (5) KUHAP paling lama 3 tahun penjara.\" Batas 2/3 ancaman maksimum adalah skema lain (Pasal 234).",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 205 dan 257 ayat (5) KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-234-dua-pertiga",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "question": "Untuk tindak pidana yang diancam penjara di atas 5 sampai 7 tahun (Pasal 234 KUHAP baru), bila majelis menerima pengakuan bersalah, pidana yang dijatuhkan…",
+    "options": [
+      "Tidak melebihi 2/3 ancaman maksimum",
+      "Wajib separuh dari ancaman pidana minimum",
+      "Paling lama 3 tahun penjara, berapa pun ancamannya",
+      "Hanya boleh berupa pidana denda kategori I"
+    ],
+    "answerIndex": 0,
+    "explanation": "Menurut SEMA 1/2026 (diberitakan Hukumonline): pemeriksaan beralih ke acara singkat dan pidana tidak boleh melebihi dua pertiga dari ancaman pidana maksimum. Jika pengakuan ditolak, sidang berlanjut dengan acara biasa.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 234 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-penahanan",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "front": "Perkara beralih dari acara biasa ke acara singkat karena pengakuan bersalah. Bagaimana status penahanan terdakwa menurut SEMA 1/2026?",
+    "back": "Penahanan dalam acara biasa tetap dapat dilanjutkan dalam acara singkat, kecuali hakim tunggal berpendapat lain. Perpanjangan penahanan menjadi kewenangan hakim tunggal yang mengadili perkara itu.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 205 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-dpa-ditolak",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "question": "Hakim tunggal menolak permohonan pengesahan perjanjian penundaan penuntutan (DPA). Menurut SEMA 1/2026, akibatnya…",
+    "options": [
+      "Penuntut umum wajib mengajukan banding ke PT",
+      "Perkara lanjut ke sidang acara biasa",
+      "Korporasi otomatis bebas dari seluruh tuntutan pidana",
+      "Perkara dialihkan ke mekanisme keadilan restoratif"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jika disetujui, hakim menetapkan persetujuan dan menangguhkan penuntutan sesuai jangka waktu kesepakatan. Jika ditolak, hakim memerintahkan penuntut umum melanjutkan perkara ke persidangan dengan acara biasa.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 328 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-dpa-pemantau",
+    "type": "review",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "front": "Siapa yang memantau pelaksanaan perjanjian penundaan penuntutan (DPA) menurut SEMA 1/2026?",
+    "back": "Hakim yang ditunjuk Ketua Pengadilan. Setiap perjanjian DPA juga wajib dicatat dalam berita acara pengadilan.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 328 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-dpa-makna-menunda",
+    "type": "fact",
+    "topicId": "acara-pidana",
+    "subTopicId": "restoratif-dpa",
+    "account": "saksi.cicak",
+    "visual": {
+      "template": "quote",
+      "label": "Makna menunda penuntutan",
+      "text": "Penuntut Umum sudah siap melakukan penuntutan, namun pelaksanaannya ditangguhkan sementara",
+      "footer": "Ketua Kamar Pidana MA, dikutip MARINews"
+    },
+    "caption": "Menurut Prim Haryadi (MARINews, 29 Januari 2026), penundaan itu karena ada kemauan terdakwa korporasi melaksanakan syarat tertentu yang disepakati. Syarat perkara yang bisa diajukan DPA akan diatur peraturan pelaksana.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), menurut berita MARINews",
+      "reference": "Pasal 328 KUHAP baru (menurut berita MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/berita/penerapan-dpa-dan-plea-bargaining-dalam-kuhap-baru-0NY"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-bukan-diskon",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Plea bukan tawar-menawar bebas",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Klien saya mengaku. Diskon 50% ya, Yang Mulia?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Ini bukan pasar. Saya periksa dulu syaratnya."
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Kalau diterima: acara singkat, ada batas pidananya. Kalau ditolak: acara biasa."
+        }
+      ]
+    },
+    "caption": "Pengakuan bersalah di KUHAP baru tetap lewat penetapan hakim, bukan kesepakatan bebas antara penuntut umum dan terdakwa.",
+    "teaches": "Menurut SEMA 1/2026 (diberitakan Hukumonline), hakim memeriksa syarat pengakuan bersalah; bila diterima perkara beralih ke acara singkat dengan batas pidana, bila ditolak diperiksa dengan acara biasa.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "Pasal 78, 205, 234 KUHAP baru (menurut berita Hukumonline tentang SEMA 1/2026)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-plea-dpa-sema",
+    "type": "carousel",
+    "topicId": "acara-pidana",
+    "subTopicId": "kuhap-baru",
+    "account": "saksi.cicak",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Plea & DPA menurut SEMA 1/2026",
+          "subtitle": "Penetapan hakim jadi kunci",
+          "character": "owl",
+          "expression": "think"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Pengakuan bersalah",
+          "points": [
+            "Pasal 78: permohonan PU, hakim tunggal, sidang paling lama 3 hari",
+            "Pasal 205: di sidang, acara singkat, pidana paling lama 3 tahun",
+            "Pasal 234: ancaman di atas 5-7 tahun, paling banyak 2/3 maksimum"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "DPA (Pasal 328)",
+          "points": [
+            "Permohonan pengesahan dari PU",
+            "Hakim tunggal, sidang paling lama 3 hari",
+            "Disetujui: penuntutan ditangguhkan sesuai kesepakatan",
+            "Ditolak: lanjut sidang acara biasa"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Pengakuan bersalah ditolak hakim. Perkara lalu…",
+        "options": [
+          "Diperiksa dengan acara biasa",
+          "Dikembalikan ke penyidik untuk disidik ulang",
+          "Dialihkan ke diversi",
+          "Dihentikan demi hukum"
+        ],
+        "answerIndex": 0,
+        "explanation": "Penolakan pengakuan bersalah membuat perkara diperiksa dengan acara biasa."
+      }
+    ],
+    "caption": "Ringkasan SEMA 1/2026 menurut Hukumonline. Nomor pasal berasal dari berita; cocokkan dengan teks SEMA dan UU 20/2025.",
+    "source": {
+      "title": "SEMA No. 1 Tahun 2026 jo. KUHAP (UU No. 20 Tahun 2025), menurut berita Hukumonline",
+      "reference": "SEMA No. 1 Tahun 2026; Pasal 78, 205, 234, 328 KUHAP baru (menurut berita Hukumonline)",
+      "url": "https://www.hukumonline.com/berita/a/ma-terbitkan-pedoman-pelaksanaan-plea-bargain-dan-dpa--penetapan-hakim-jadi-kunci-utama-lt696722c067a3e/"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

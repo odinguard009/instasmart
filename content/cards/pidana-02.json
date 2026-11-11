@@ -719,5 +719,275 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-uu-1-2026-penyesuaian",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Penyesuaian Pidana",
+      "text": "UU 1/2026",
+      "sub": "Berlaku bersama KUHP Nasional dan KUHAP baru, 2 Januari 2026"
+    },
+    "caption": "Menurut artikel MARINews (16 Oktober 2026), UU 1/2026 melaksanakan amanat Pasal 613 KUHP Nasional: semua UU dan perda yang memuat ketentuan pidana harus menyesuaikan diri dengan Buku Kesatu KUHP Nasional. Dua perubahan besarnya: minimum khusus dihapus dan pola \"dan\" (kumulatif) menjadi \"dan/atau\" (kumulatif-alternatif), dengan pengecualian.",
+    "comments": [
+      {
+        "user": "angkatan.wvs",
+        "text": "jadi ada tiga UU baru yang berlaku barengan"
+      },
+      {
+        "user": "pakhoot.bijak",
+        "text": "cek teks resminya di JDIH sebelum hafal pasal"
+      }
+    ],
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "UU No. 1 Tahun 2026; Pasal 613 KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-minimum-khusus-tetap",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut artikel MARINews, UU 1/2026 menghapus minimum khusus di UU luar KUHP, KECUALI untuk tindak pidana…",
+    "options": [
+      "Narkotika, terorisme, korupsi, dan pencucian uang",
+      "Terorisme, korupsi, perdagangan orang, dan narkotika",
+      "Korupsi, pencucian uang, narkotika, dan perlindungan anak",
+      "HAM berat, terorisme, korupsi, dan pencucian uang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal I ayat (2) UU 1/2026 (menurut artikel): empat pengecualian yaitu tindak pidana berat terhadap HAM, terorisme, korupsi, dan pencucian uang. Narkotika TIDAK dikecualikan, sehingga minimum khususnya hilang. Empat kelompok yang sama juga dikecualikan dari perubahan ke kumulatif-alternatif (Pasal II ayat (6)).",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal I ayat (1)-(2), Pasal II ayat (6) UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-empat-pengecualian-mnemonik",
+    "type": "mnemonic",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Tetap minimum khusus",
+      "text": "HAM · Teror · Korup · Cuci",
+      "sub": "Narkotika tidak termasuk"
+    },
+    "caption": "Empat kelompok tindak pidana yang tetap memakai minimum khusus dan pola kumulatif setelah UU 1/2026 (menurut artikel MARINews).",
+    "phrase": "HAM-Teror-Korup-Cuci",
+    "expansion": [
+      "HAM: tindak pidana berat terhadap hak asasi manusia",
+      "Teror: terorisme",
+      "Korup: korupsi",
+      "Cuci: pencucian uang",
+      "Narkotika TIDAK termasuk"
+    ],
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal I ayat (2), Pasal II ayat (6) UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-tiga-pintu-dan-atau",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Ancaman \"pidana penjara paling lama X tahun dan/atau pidana denda paling banyak kategori Y\" (kumulatif-alternatif) memberi hakim pilihan…",
+    "options": [
+      "Penjara, denda, atau keduanya",
+      "Hanya denda, penjara sebagai pengganti",
+      "Wajib penjara dan denda sekaligus",
+      "Hanya penjara saja atau denda saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"Dan/atau\" membuka tiga pintu. Pola alternatif (\"atau\") hanya pilih salah satu; kumulatif (\"dan\") wajib keduanya. Menurut penulis artikel, menyebut ancaman ini \"sekarang alternatif\" hanya separuh benar karena pintu kumulasi tetap terbuka.",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal II ayat (5) huruf a UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-lex-mitior-bukan-vonis",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Hakim menerapkan rezim baru karena lebih menguntungkan (Pasal 3 ayat (1) KUHP Nasional). Menurut artikel MARINews, apa yang BELUM dijawab oleh lex mitior?",
+    "options": [
+      "Apakah UU lama dan baru bisa dicampur",
+      "Undang-undang mana yang berlaku bagi terdakwa",
+      "Apakah perbuatan terjadi sebelum 2 Januari 2026",
+      "Jenis dan berat pidana yang tepat dijatuhkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Lex mitior menjawab UU mana yang berlaku; pidana apa yang tepat tetap dijawab lewat pedoman pemidanaan (Pasal 51-54, 57). Perbandingan dilakukan in concreto, dan UU yang dipilih diterapkan utuh: tidak boleh mencampur bagian yang menguntungkan dari keduanya (itu menciptakan norma ketiga).",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal 3 ayat (1) KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-pasal-3-ayat-7",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "infographic",
+      "title": "Sudah inkracht, UU baru lebih ringan?",
+      "points": [
+        "Jalur: penyesuaian pelaksanaan",
+        "Bukan peninjauan kembali",
+        "Hanya bila vonis > maksimum baru",
+        "Atau jenis pidana tak dikenal lagi"
+      ]
+    },
+    "caption": "Menurut artikel MARINews, Pasal 3 ayat (7) KUHP Nasional (sebagaimana diubah UU 1/2026) dan Penjelasannya membatasi penyesuaian pada putusan yang lebih berat dari ancaman maksimum baru, termasuk jenis pidana yang berbeda (mis. kurungan yang dihapus). Denda kumulatif lama tidak otomatis \"melampaui batas\" hanya karena polanya kini kumulatif-alternatif.",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal 3 ayat (7) KUHP Nasional jo. UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-pasal-57-urutan-ringan",
+    "type": "review",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "front": "Dalam ancaman \"dan/atau\", bagaimana Pasal 57 KUHP Nasional menuntun urutan pertimbangan hakim (menurut artikel MARINews)?",
+    "back": "Pasal 57: bila pidana pokok diancam alternatif, pidana yang lebih ringan diutamakan jika sesuai dan menunjang tujuan pemidanaan. Pasal 65 ayat (2): urutan pidana pokok menentukan berat ringannya, jadi denda lebih ringan dari penjara. Urutan uji: denda saja, penjara saja, lalu penjara dan denda. Kumulasi tidak otomatis, tetapi juga tidak dilarang.",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal 57, Pasal 65 ayat (2) KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-eksekusi-denda-baru",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut artikel MARINews, mana yang BENAR tentang pelaksanaan pidana denda di KUHP Nasional (setelah UU 1/2026)?",
+    "options": [
+      "Denda tidak bisa dibayar setelah penjara pengganti dimulai",
+      "Denda boleh diangsur; bila tak dibayar, aset disita",
+      "Penjara pengganti denda paling lama enam bulan",
+      "Denda wajib dibayar lunas sekaligus dalam satu bulan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 81: denda dapat diangsur; bila tidak dibayar, kekayaan/pendapatan terpidana disita dan dilelang. Pasal 82 (diubah UU 1/2026): penjara pengganti sebagai jalan terakhir, 1 hari sampai 2 tahun, dihitung progresif menurut Lampiran III. Pasal 83: denda tetap bisa dibayar selama menjalani penjara pengganti, yang mengurangi masa penggantinya.",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal 81-83 KUHP Nasional jo. UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-debat-minimum-khusus",
+    "type": "fact",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "visual": {
+      "template": "infographic",
+      "title": "Minimum khusus boleh diterobos?",
+      "points": [
+        "Kubu 1: imperatif, demi kepastian",
+        "Kubu 2: boleh, demi keadilan",
+        "Kubu 2 bersandar Pasal 53 KUHP Nasional",
+        "Ini perdebatan, bukan aturan pasti"
+      ]
+    },
+    "caption": "Menurut Jupriyadi (MARINews, 20 Juli 2026), hakim terbelah soal minimum khusus yang masih berlaku untuk empat kelompok tindak pidana. Penulis sendiri memilih kubu kedua dengan bersandar Pasal 53 KUHP Nasional (bila kepastian dan keadilan bertentangan, hakim wajib mengutamakan keadilan). Ini pendapat pribadi penulis; jangan dihafal sebagai aturan.",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Jupriyadi, 20 Juli 2026)",
+      "reference": "Pasal I ayat (2) UU No. 1 Tahun 2026; Pasal 53 KUHP Nasional (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/menyikapi-ancaman-pidana-minimum-khusus-0bqc"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-garis-miring",
+    "type": "humor",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Kekuatan garis miring",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "UU 1/2026: \"dan\" jadi \"dan/atau\". Berarti denda dihapus, kan?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Garis miring itu membuka tiga pintu, bukan satu."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Penjara saja, denda saja, atau dua-duanya?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Betul. Dan pilihannya wajib dipertimbangkan."
+        }
+      ]
+    },
+    "caption": "\"Dan/atau\" tidak sama dengan \"atau\".",
+    "teaches": "Menurut artikel MARINews, pola kumulatif-alternatif dari UU 1/2026 memberi tiga pilihan (penjara saja, denda saja, atau keduanya). Pilihan jenis pidana (strafsoort) harus dipertimbangkan dalam putusan, bukan otomatis menghapus denda.",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal II ayat (5) huruf a UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

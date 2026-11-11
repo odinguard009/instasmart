@@ -459,5 +459,55 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-narkotika-tanpa-denda",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Kajian MARINews (Maret 2026) atas 39 putusan kasasi narkotika awal 2026 menemukan 38 putusan tanpa denda. Menurut Pudjoharsoyo, alasan \"ancamannya sekarang alternatif\"…",
+    "options": [
+      "Tepat, karena narkotika dikecualikan dari minimum khusus",
+      "Keliru, karena denda narkotika tetap wajib dijatuhkan",
+      "Separuh benar: pola dan/atau tetap membuka kumulasi",
+      "Tepat, karena UU 1/2026 menghapus pidana denda narkotika"
+    ],
+    "answerIndex": 2,
+    "explanation": "UU 1/2026 tidak menghapus denda narkotika; yang dihapus kewajiban menjatuhkannya bersama penjara. Putusan wajib menjelaskan mengapa memilih pintu tertentu. Penulis mengusulkan kumulasi dipertimbangkan bila ada motif/keuntungan ekonomi, peran dalam peredaran, skala bisnis, dan aset yang bisa dieksekusi (pendapat penulis).",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal II ayat (5) huruf a, (10), (11) UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-narkotika-pindah-kuhp",
+    "type": "fact",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "infographic",
+      "title": "Pasal narkotika pindah rumah",
+      "points": [
+        "Pasal 112, 113, 117, 118, 122, 123 dicabut",
+        "Diganti Pasal 609-610 KUHP",
+        "Pasal 111, 114 tetap di UU Narkotika",
+        "Ancaman lewat Lampiran II UU 1/2026"
+      ]
+    },
+    "caption": "Menurut artikel MARINews (16 Oktober 2026), UU 1/2026 mengubah Pasal 622 ayat (1) huruf w KUHP Nasional. Catatan: metadata JDIH BPK atas UU 1/2023 versi awal menyebut Pasal 111-126 UU Narkotika yang dicabut; daftar setelah perubahan belum dicek ke teks resmi.",
+    "source": {
+      "title": "UU No. 1 Tahun 2026 tentang Penyesuaian Pidana, menurut artikel MARINews (Achmad Setyo Pudjoharsoyo, 16 Oktober 2026)",
+      "reference": "Pasal 622 ayat (1) huruf w, Pasal 609-610 KUHP Nasional jo. UU No. 1 Tahun 2026 (menurut artikel MARINews)",
+      "url": "https://marinews.mahkamahagung.go.id/artikel/memaknai-ancaman-pidana-uu-12026-kumulatif-alternatif-0b1N"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
   }
 ]

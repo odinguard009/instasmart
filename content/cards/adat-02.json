@@ -1,0 +1,281 @@
+[
+  {
+    "id": "adat-teori-receptie",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Teori bahwa hukum Islam baru berlaku bagi orang Indonesia bila telah diterima (diresepsi) oleh hukum adat dikemukakan oleh…",
+    "options": [
+      "Van den Berg (receptio in complexu)",
+      "Hazairin (receptie exit)",
+      "Ter Haar (beslissingenleer)",
+      "Snouck Hurgronje (receptie)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Van den Berg: receptio in complexu (hukum agama diterima utuh oleh pemeluknya). Snouck Hurgronje: receptie (hukum Islam berlaku sepanjang diterima adat). Hazairin menolak receptie dengan teori receptie exit.",
+    "source": {
+      "title": "Doktrin hukum adat",
+      "reference": "Teori berlakunya hukum Islam dan hukum adat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-tiga-teori-resepsi",
+    "type": "fact",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "visual": {
+      "template": "infographic",
+      "title": "Tiga teori resepsi",
+      "points": [
+        "Receptio in complexu: Van den Berg",
+        "Receptie: Snouck Hurgronje",
+        "Receptie exit: Hazairin",
+        "Kata kunci receptie: hukum Islam ikut adat"
+      ]
+    },
+    "caption": "Sering keluar di soal pengantar hukum adat dan hukum Islam. Hafalkan pasangan teori dan tokohnya.",
+    "source": {
+      "title": "Doktrin hukum adat",
+      "reference": "Teori berlakunya hukum Islam dan hukum adat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-tiga-persekutuan",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Persekutuan hukum adat yang anggotanya terikat karena berasal dari satu keturunan yang sama disebut persekutuan…",
+    "options": [
+      "Korporatif",
+      "Genealogis",
+      "Teritorial",
+      "Fungsional"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tiga bentuk: genealogis (keturunan), teritorial (tempat tinggal bersama), dan genealogis-teritorial (gabungan keduanya).",
+    "source": {
+      "title": "Doktrin hukum adat",
+      "reference": "Bentuk persekutuan hukum adat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-kekerabatan-minang",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Masyarakat Minangkabau dikenal dengan sistem kekerabatan…",
+    "options": [
+      "Parental (bilateral)",
+      "Alternerend",
+      "Matrilineal",
+      "Patrilineal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Minangkabau matrilineal (garis ibu); Batak patrilineal (garis bapak); Jawa umumnya parental/bilateral (kedua garis).",
+    "source": {
+      "title": "Doktrin hukum adat",
+      "reference": "Sistem kekerabatan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-ciri-hukum-adat",
+    "type": "fact",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "visual": {
+      "template": "infographic",
+      "title": "Ciri khas hukum adat",
+      "points": [
+        "Religio-magis",
+        "Komunal (kebersamaan)",
+        "Kontan (tunai)",
+        "Konkret/visual (terang)",
+        "Umumnya tidak tertulis"
+      ]
+    },
+    "caption": "Ciri kontan dan terang tampak pada jual beli tanah adat: dilakukan di hadapan kepala adat (terang) dan pembayaran serta penyerahan terjadi bersamaan (tunai).",
+    "source": {
+      "title": "Doktrin hukum adat",
+      "reference": "Ciri hukum adat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-terang-tunai",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Jual beli tanah menurut hukum adat bersifat \"terang dan tunai\". \"Terang\" berarti…",
+    "options": [
+      "Disaksikan seluruh ahli waris kedua pihak",
+      "Dilakukan di hadapan kepala adat/pejabat",
+      "Harga dibayar lunas seketika di tempat",
+      "Tanahnya sudah bersertifikat hak milik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Terang: dilakukan di hadapan kepala adat atau pejabat sehingga diketahui umum. Tunai: penyerahan hak dan pembayaran terjadi bersamaan.",
+    "source": {
+      "title": "Doktrin hukum adat",
+      "reference": "Asas jual beli tanah adat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-sistem-waris-adat",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Sistem kewarisan adat di mana harta peninggalan tidak dibagi tetapi dikuasai bersama oleh para ahli waris disebut sistem…",
+    "options": [
+      "Kolektif",
+      "Parental",
+      "Individual",
+      "Mayorat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Individual: harta dibagi kepada masing-masing ahli waris. Kolektif: tidak dibagi, dikuasai bersama (contoh: harta pusaka tinggi Minangkabau). Mayorat: diteruskan kepada anak tertua.",
+    "source": {
+      "title": "Doktrin hukum adat",
+      "reference": "Sistem kewarisan adat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-pasal-28i-3",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Selain Pasal 18B ayat (2), ketentuan UUD 1945 yang menyatakan identitas budaya dan hak masyarakat tradisional dihormati adalah…",
+    "options": [
+      "Pasal 33 ayat (3)",
+      "Pasal 27 ayat (1)",
+      "Pasal 28H ayat (3)",
+      "Pasal 28I ayat (3)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 28I ayat (3): identitas budaya dan hak masyarakat tradisional dihormati selaras dengan perkembangan zaman dan peradaban.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (3)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-desa-adat",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "question": "Undang-undang yang secara tegas mengatur keberadaan \"desa adat\" di samping desa adalah…",
+    "options": [
+      "UU 41/1999 tentang Kehutanan",
+      "UU 5/1960 (UUPA)",
+      "UU 23/2014 tentang Pemda",
+      "UU 6/2014 tentang Desa"
+    ],
+    "answerIndex": 3,
+    "explanation": "UU Desa mengenal desa dan desa adat, termasuk penetapan desa adat dan kewenangannya berdasarkan hak asal usul.",
+    "source": {
+      "title": "UU No. 6 Tahun 2014 tentang Desa",
+      "reference": "Ketentuan tentang desa adat"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-karo-179",
+    "type": "fact",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "visual": {
+      "template": "bigtype",
+      "kicker": "Putusan MA 179 K/Sip/1961",
+      "text": "Anak perempuan juga ahli waris",
+      "sub": "Yurisprudensi yang sering dikutip: hak anak perempuan dan laki-laki dalam waris adat Karo dipersamakan."
+    },
+    "caption": "Putusan ini sering dikutip sebagai contoh peran yurisprudensi mengembangkan hukum adat ke arah kesetaraan. Cek amar putusannya sebelum mengutip rinci.",
+    "source": {
+      "title": "Putusan Mahkamah Agung No. 179 K/Sip/1961",
+      "reference": "Putusan MA No. 179 K/Sip/1961"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-reel-tiga-teori-resepsi",
+    "type": "reel",
+    "topicId": "adat",
+    "subTopicId": "masyarakat-adat",
+    "account": "adat.nusantara",
+    "scenes": [
+      {
+        "durationMs": 4500,
+        "text": "Hukum Islam vs hukum adat",
+        "caption": "Siapa yang berlaku duluan? Tiga teori.",
+        "kicker": "Resepsi",
+        "character": "kancil",
+        "expression": "think"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Receptio in complexu",
+        "caption": "Van den Berg: hukum agama berlaku utuh bagi pemeluknya.",
+        "character": "owl",
+        "expression": "happy"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Receptie",
+        "caption": "Snouck Hurgronje: hukum Islam berlaku bila diterima adat.",
+        "character": "gecko",
+        "expression": "shock",
+        "characterMotion": "bounce"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Receptie exit",
+        "caption": "Hazairin: teori receptie harus keluar dari hukum Indonesia.",
+        "character": "cat",
+        "expression": "smug"
+      },
+      {
+        "durationMs": 4500,
+        "text": "Kunci: tokoh dan teori",
+        "caption": "Van den Berg · Snouck Hurgronje · Hazairin.",
+        "character": "kancil",
+        "expression": "happy",
+        "effect": "confetti"
+      }
+    ],
+    "caption": "Reel 25 detik: tiga teori resepsi dan tokohnya.",
+    "source": {
+      "title": "Doktrin hukum adat",
+      "reference": "Teori berlakunya hukum Islam dan hukum adat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

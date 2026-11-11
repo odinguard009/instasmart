@@ -1,0 +1,261 @@
+[
+  {
+    "id": "hki-jangka-hki-lain",
+    "type": "fact",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "infographic",
+      "title": "Jangka perlindungan HKI lain",
+      "points": [
+        "Desain industri: 10 tahun sejak tanggal penerimaan",
+        "Desain tata letak sirkuit terpadu: 10 tahun",
+        "Paten sederhana: 10 tahun",
+        "Rahasia dagang: selama kerahasiaannya dijaga"
+      ]
+    },
+    "caption": "Rahasia dagang tidak didaftarkan; perlindungannya hidup selama informasinya tetap rahasia dan bernilai ekonomi. Indikasi geografis dilindungi selama reputasi, kualitas, dan karakteristiknya terjaga.",
+    "source": {
+      "title": "UU Desain Industri, UU DTLST, UU Rahasia Dagang, UU Paten",
+      "reference": "UU 31/2000 (Desain Industri), UU 32/2000 (DTLST), UU 30/2000 (Rahasia Dagang), UU 13/2016 (Paten)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-rahasia-dagang",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Resep rahasia minuman yang tidak pernah dipublikasikan dan dijaga kerahasiaannya paling tepat dilindungi sebagai…",
+    "options": [
+      "Rahasia dagang",
+      "Desain industri",
+      "Hak cipta",
+      "Paten sederhana"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rahasia dagang melindungi informasi yang tidak diketahui umum, bernilai ekonomi, dan dijaga kerahasiaannya. Paten justru mewajibkan pengungkapan invensi.",
+    "source": {
+      "title": "UU No. 30 Tahun 2000 tentang Rahasia Dagang",
+      "reference": "Pengertian rahasia dagang"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-delik-aduan-hc",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Tindak pidana dalam UU 28/2014 tentang Hak Cipta pada asasnya merupakan…",
+    "options": [
+      "Delik formil tanpa pengaduan",
+      "Delik aduan",
+      "Delik biasa",
+      "Pelanggaran administratif"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tindak pidana dalam UU Hak Cipta merupakan delik aduan, sehingga penuntutan bergantung pada pengaduan pihak yang dirugikan.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 120"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-hak-terkait",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Pemilik hak terkait (neighbouring rights) menurut UU Hak Cipta adalah…",
+    "options": [
+      "Pelaku pertunjukan, produser fonogram, lembaga penyiaran",
+      "Notaris, konsultan HKI, dan DJKI",
+      "Pencipta lagu dan penulis lirik",
+      "Pencipta, penerbit buku, distributor, dan pemilik toko buku"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hak terkait melekat pada pelaku pertunjukan, produser fonogram, dan lembaga penyiaran. Pencipta lagu memegang hak cipta, bukan hak terkait.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Ketentuan tentang hak terkait"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-merek-tidak-dipakai",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Merek terdaftar dapat dihapus atas permohonan pihak ketiga bila tidak digunakan dalam perdagangan selama…",
+    "options": [
+      "3 tahun berturut-turut",
+      "5 tahun berturut-turut",
+      "1 tahun berturut-turut",
+      "10 tahun berturut-turut"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penghapusan merek karena tidak digunakan selama 3 tahun berturut-turut sejak pendaftaran atau pemakaian terakhir, kecuali ada alasan yang dapat diterima.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
+      "reference": "Pasal 74"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-pembatalan-merek",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Gugatan pembatalan merek terdaftar pada asasnya diajukan dalam jangka waktu…",
+    "options": [
+      "10 tahun sejak penerimaan",
+      "Kapan saja tanpa batas",
+      "5 tahun sejak tanggal pendaftaran",
+      "1 tahun sejak tanggal pengumuman merek"
+    ],
+    "answerIndex": 2,
+    "explanation": "Batas 5 tahun sejak tanggal pendaftaran. Gugatan dapat diajukan tanpa batas waktu bila ada unsur iktikad tidak baik atau merek bertentangan dengan ideologi negara, peraturan, moralitas, agama, kesusilaan, dan ketertiban umum.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
+      "reference": "Pasal 77"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-ditolak-vs-tidak-dapat",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Permohonan merek yang sama pada pokoknya dengan merek terdaftar milik pihak lain untuk barang sejenis akan…",
+    "options": [
+      "Ditolak (Pasal 21)",
+      "Diumumkan ulang",
+      "Didaftar dengan catatan",
+      "Tidak dapat didaftar (Pasal 20)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 20: merek tidak dapat didaftar, mis. bertentangan dengan ideologi atau berupa keterangan barang. Pasal 21: permohonan ditolak, mis. punya persamaan pada pokoknya dengan merek terdaftar pihak lain.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis",
+      "reference": "Pasal 20 dan 21"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-fair-use",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "question": "Mahasiswa mengutip sebagian buku untuk skripsi dengan menyebutkan sumbernya secara lengkap. Menurut UU Hak Cipta…",
+    "options": [
+      "Hanya boleh bila buku sudah 50 tahun",
+      "Pelanggaran ringan, cukup denda",
+      "Pelanggaran, harus izin penerbit",
+      "Tidak dianggap pelanggaran hak cipta"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penggunaan untuk pendidikan, penelitian, dan penulisan karya ilmiah dengan menyebutkan sumber secara lengkap tidak dianggap pelanggaran, sepanjang tidak merugikan kepentingan wajar pencipta.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 44 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-carousel-hki-peta",
+    "type": "carousel",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "slides": [
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "cover",
+          "kicker": "Carousel",
+          "title": "Peta HKI dalam 5 slide",
+          "subtitle": "Mana yang otomatis, mana yang wajib daftar",
+          "character": "cat",
+          "expression": "happy"
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Otomatis tanpa daftar",
+          "points": [
+            "Hak cipta (deklaratif)",
+            "Rahasia dagang (dijaga kerahasiaannya)"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Wajib daftar (konstitutif)",
+          "points": [
+            "Merek",
+            "Paten dan paten sederhana",
+            "Desain industri",
+            "Desain tata letak sirkuit terpadu"
+          ]
+        }
+      },
+      {
+        "kind": "visual",
+        "visual": {
+          "template": "infographic",
+          "title": "Tempat sengketa perdata",
+          "points": [
+            "Hak cipta, paten, merek, desain industri, DTLST: Pengadilan Niaga",
+            "Rahasia dagang: pengadilan negeri"
+          ]
+        }
+      },
+      {
+        "kind": "quiz",
+        "question": "Mana yang perlindungannya lahir tanpa pendaftaran?",
+        "options": [
+          "Hak cipta",
+          "Merek dagang",
+          "Desain industri",
+          "Paten sederhana"
+        ],
+        "answerIndex": 0,
+        "explanation": "Hak cipta timbul otomatis berdasarkan prinsip deklaratif setelah ciptaan diwujudkan dalam bentuk nyata."
+      }
+    ],
+    "caption": "Ringkasan rezim HKI. Detail jangka dan forum: cek tiap UU.",
+    "source": {
+      "title": "Peraturan HKI Indonesia",
+      "reference": "UU Hak Cipta, UU Merek, UU Paten, UU Desain Industri, UU DTLST, UU Rahasia Dagang"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-11"
+  }
+]

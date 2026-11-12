@@ -1377,5 +1377,672 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ham-u39b-kewajiban-dasar",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 1 UU 39/1999, \"kewajiban dasar manusia\" adalah seperangkat kewajiban yang apabila tidak dilaksanakan…",
+    "options": [
+      "Menghapus kewarganegaraan orang tersebut",
+      "Membatalkan seluruh hak asasi orang itu",
+      "Tidak memungkinkan tegaknya hak asasi manusia",
+      "Mengakibatkan sanksi pidana bagi setiap pelakunya"
+    ],
+    "answerIndex": 2,
+    "explanation": "UU 39/1999 memasangkan hak dengan kewajiban dasar; lihat juga Pasal 67-70 tentang kewajiban dasar manusia.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-diskriminasi",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 1 UU 39/1999, diskriminasi mencakup pembatasan, pelecehan, atau pengucilan yang…",
+    "options": [
+      "Langsung saja, bukan tidak langsung",
+      "Dilakukan oleh aparat negara saja",
+      "Langsung ataupun tidak langsung",
+      "Dilakukan secara tertulis saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dasarnya pembedaan manusia atas agama, suku, ras, etnik, kelompok, golongan, status sosial dan ekonomi, jenis kelamin, bahasa, atau keyakinan politik.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-pelanggaran-ham",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 1 UU 39/1999, pelanggaran HAM dapat dilakukan oleh seseorang atau kelompok orang termasuk aparat negara, baik…",
+    "options": [
+      "Disengaja saja, dengan perencanaan terlebih dahulu",
+      "Terhadap kelompok saja, bukan perorangan",
+      "Oleh aparat saja, bukan oleh warga biasa",
+      "Disengaja, tidak sengaja, atau karena kelalaian"
+    ],
+    "answerIndex": 3,
+    "explanation": "Unsur lain: secara melawan hukum mengurangi, menghalangi, membatasi, atau mencabut HAM, dan tidak mendapat atau dikhawatirkan tidak memperoleh penyelesaian hukum yang adil.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-kodrati",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 2 UU 39/1999, negara mengakui HAM dan kebebasan dasar manusia sebagai hak yang…",
+    "options": [
+      "Diberikan oleh negara melalui undang-undang",
+      "Secara kodrati melekat pada manusia",
+      "Diperoleh setelah seseorang dewasa",
+      "Berlaku setelah dicatat oleh Komnas HAM"
+    ],
+    "answerIndex": 1,
+    "explanation": "HAM harus dilindungi, dihormati, dan ditegakkan demi martabat kemanusiaan, kesejahteraan, kebahagiaan, kecerdasan, dan keadilan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 2",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-rentan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 5 ayat (3) UU 39/1999, setiap orang yang termasuk kelompok masyarakat rentan berhak memperoleh…",
+    "options": [
+      "Perlakuan dan perlindungan lebih sesuai kekhususannya",
+      "Pembebasan dari semua kewajiban sebagai warga negara biasa",
+      "Pengecualian dari pemeriksaan di pengadilan",
+      "Hak suara ganda dalam pemilihan umum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 41 ayat (2) memberi contoh: penyandang cacat, orang berusia lanjut, wanita hamil, dan anak-anak berhak atas kemudahan dan perlakuan khusus.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 5, 41",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-masyarakat-adat",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 6 UU 39/1999, identitas budaya masyarakat hukum adat yang dilindungi termasuk…",
+    "options": [
+      "Hak memiliki tentara",
+      "Hak membentuk negara sendiri",
+      "Hak bebas pajak",
+      "Hak atas tanah ulayat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Perlindungannya selaras dengan perkembangan zaman. Perbedaan dan kebutuhan masyarakat hukum adat harus diperhatikan oleh hukum, masyarakat, dan Pemerintah.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-hi-jadi-nasional",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 7 ayat (2) UU 39/1999, ketentuan hukum internasional tentang HAM yang telah diterima Indonesia…",
+    "options": [
+      "Perlu persetujuan MK",
+      "Menjadi hukum nasional",
+      "Berlaku bagi WNA saja",
+      "Hanya menjadi pedoman moral"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): setiap orang berhak memakai semua upaya hukum nasional dan forum internasional atas pelanggaran HAM yang dijamin hukum Indonesia dan hukum internasional yang telah diterima.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-tanggung-jawab",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 8 UU 39/1999, perlindungan, pemajuan, penegakan, dan pemenuhan HAM terutama menjadi tanggung jawab…",
+    "options": [
+      "Pengadilan HAM",
+      "Pemerintah",
+      "Masyarakat",
+      "Komnas HAM"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 71 menegaskan Pemerintah wajib dan bertanggung jawab menghormati, melindungi, menegakkan, dan memajukan HAM.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 8, 71",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-lingkungan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 9 ayat (3) UU 39/1999, setiap orang berhak atas…",
+    "options": [
+      "Penghasilan minimum bulanan dari negara",
+      "Pekerjaan sebagai pegawai negeri",
+      "Lingkungan hidup yang baik dan sehat",
+      "Tempat tinggal gratis dari negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 9 memuat hak untuk hidup: mempertahankan hidup, meningkatkan taraf hidup, hidup tenteram dan sejahtera, dan lingkungan yang baik dan sehat.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 9",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-kawin-bebas",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 10 UU 39/1999, perkawinan yang sah hanya dapat berlangsung atas…",
+    "options": [
+      "Kehendak orang tua dari kedua calon mempelai",
+      "Rekomendasi tertulis tokoh agama setempat",
+      "Kehendak bebas calon suami dan calon istri",
+      "Persetujuan kepala desa setempat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal ini juga menjamin hak membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah, sesuai peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-perbudakan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 20 UU 39/1999, perbudakan, perhambaan, perdagangan budak, perdagangan wanita, dan perbuatan berupa apa pun yang tujuannya serupa…",
+    "options": [
+      "Dibatasi",
+      "Diawasi",
+      "Dilarang",
+      "Dikenai pajak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayat (1): tidak seorang pun boleh diperbudak atau diperhamba.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 20",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-obyek-penelitian",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 21 UU 39/1999, karena berhak atas keutuhan pribadi, seseorang tidak boleh menjadi obyek penelitian…",
+    "options": [
+      "Tanpa izin pengadilan",
+      "Tanpa persetujuan darinya",
+      "Tanpa izin tertulis Komnas HAM",
+      "Tanpa saksi dua orang"
+    ],
+    "answerIndex": 1,
+    "explanation": "Keutuhan pribadi yang dilindungi meliputi rohani maupun jasmani.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 21",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-pendapat-batas",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 23 ayat (2) UU 39/1999, kebebasan mengeluarkan pendapat dilakukan dengan memperhatikan…",
+    "options": [
+      "Kesesuaian dengan pendapat mayoritas masyarakat",
+      "Agama, kesusilaan, ketertiban, kepentingan umum, keutuhan bangsa",
+      "Izin dari Komisi Penyiaran sebelum pendapat disebarkan",
+      "Persetujuan tertulis dari pejabat yang dibicarakan dalam pendapat tersebut"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pendapat dapat disampaikan lisan atau tulisan, melalui media cetak maupun elektronik.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 23",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-mogok",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 25 UU 39/1999, hak menyampaikan pendapat di muka umum termasuk…",
+    "options": [
+      "Hak untuk mogok sesuai peraturan",
+      "Hak membentuk pengadilan sendiri",
+      "Hak menutup jalan umum tanpa izin",
+      "Hak menolak semua kewajiban pajak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mogok diakui sebagai bagian hak menyampaikan pendapat, tetapi harus sesuai ketentuan peraturan perundang-undangan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 25",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-kewarganegaraan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 26 ayat (1) UU 39/1999, setiap orang berhak memiliki, memperoleh, mengganti, atau…",
+    "options": [
+      "Memiliki dua kewarganegaraan sekaligus tanpa batas",
+      "Mencabut kewarganegaraan orang lain",
+      "Menjual status kewarganegaraannya",
+      "Mempertahankan status kewarganegaraannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (2): setiap orang bebas memilih kewarganegaraannya dan wajib melaksanakan kewajiban sebagai warga negara sesuai peraturan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 26",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-penghilangan-paksa",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 33 ayat (2) UU 39/1999, setiap orang berhak untuk bebas dari…",
+    "options": [
+      "Penghilangan paksa dan penghilangan nyawa",
+      "Kewajiban mengikuti pemilihan umum",
+      "Pemeriksaan sebagai saksi di pengadilan",
+      "Kewajiban membayar pajak penghasilan tahunan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (1): bebas dari penyiksaan, penghukuman, atau perlakuan yang kejam, tidak manusiawi, atau merendahkan martabat.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 33",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-fungsi-sosial",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 36 ayat (3) UU 39/1999, hak milik mempunyai…",
+    "options": [
+      "Fungsi sosial",
+      "Nilai tetap",
+      "Sifat mutlak penuh",
+      "Masa berlaku"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (2): tidak seorang pun boleh dirampas miliknya dengan sewenang-wenang dan secara melawan hukum.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 36",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-upah-sama",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 38 ayat (3) UU 39/1999, pria dan wanita yang melakukan pekerjaan yang sama, sebanding, setara, atau serupa berhak atas…",
+    "options": [
+      "Upah yang berbeda sesuai jenis kelamin pekerja",
+      "Upah dan syarat perjanjian kerja yang sama",
+      "Upah yang ditetapkan Komnas HAM",
+      "Upah yang ditentukan oleh serikat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 38 juga menjamin hak atas pekerjaan yang layak dan kebebasan memilih pekerjaan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 38",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-hak-wanita",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 45 UU 39/1999, hak wanita dalam undang-undang ini adalah…",
+    "options": [
+      "Hak pemberian negara",
+      "Hak sementara",
+      "Hak istimewa",
+      "Hak asasi manusia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Contoh: Pasal 49 ayat (2) memberi wanita perlindungan khusus dalam pekerjaan terhadap hal yang mengancam keselamatan atau kesehatan berkenaan fungsi reproduksi.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 45, 49",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-anak-kandungan",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 52 UU 39/1999, hak anak diakui dan dilindungi oleh hukum bahkan sejak…",
+    "options": [
+      "Dicatat di akta lahir",
+      "Berusia satu tahun",
+      "Lahir ke dunia",
+      "Dalam kandungan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hak anak adalah HAM; anak berhak atas perlindungan oleh orang tua, keluarga, masyarakat, dan negara.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 52",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-anak-main",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 61 UU 39/1999, setiap anak berhak untuk beristirahat, bergaul dengan anak sebaya, bermain, berekreasi, dan…",
+    "options": [
+      "Bekerja penuh waktu bila mau",
+      "Memilih sekolahnya tanpa persetujuan orang tua",
+      "Berkreasi sesuai minat dan bakatnya",
+      "Memilih dalam pemilihan umum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tujuannya pengembangan diri sesuai minat, bakat, dan tingkat kecerdasan.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 61",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-wajib-patuh",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 67 UU 39/1999, kewajiban patuh pada peraturan perundang-undangan, hukum tak tertulis, dan hukum internasional HAM yang diterima Indonesia berlaku bagi…",
+    "options": [
+      "Aparat negara saja",
+      "Warga negara Indonesia saja, bukan orang asing",
+      "Setiap orang di wilayah Indonesia",
+      "Warga negara asing saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Perhatikan subjeknya: \"setiap orang yang ada di wilayah negara Republik Indonesia\", bukan hanya WNI.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 67",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-timbal-balik",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 69 ayat (2) UU 39/1999, setiap HAM seseorang menimbulkan…",
+    "options": [
+      "Kewajiban membayar retribusi kepada pemerintah daerah",
+      "Kewajiban menghormati HAM orang lain secara timbal balik",
+      "Hak menuntut negara tanpa batas waktu dan tanpa syarat apa pun",
+      "Hak untuk mengabaikan hak asasi orang lain bila perlu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kewajiban dasar ini juga menjadi tugas Pemerintah untuk menghormati, melindungi, menegakkan, dan memajukannya.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 69",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-batas-uu",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 70 UU 39/1999, dalam menjalankan hak dan kebebasannya, setiap orang wajib tunduk pada pembatasan yang ditetapkan…",
+    "options": [
+      "Peraturan bupati",
+      "Undang-undang",
+      "Surat edaran menteri",
+      "Kebiasaan setempat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tujuan pembatasan: menjamin pengakuan dan penghormatan hak orang lain, dan memenuhi tuntutan yang adil sesuai pertimbangan moral, keamanan, dan ketertiban umum dalam masyarakat demokratis. Bandingkan Pasal 28J ayat (2) UUD 1945.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 70, 73",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-lapor-komnas",
+    "type": "quiz",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "ham.harian",
+    "question": "Menurut Pasal 101 UU 39/1999, siapa yang berhak menyampaikan laporan pelanggaran HAM kepada Komnas HAM?",
+    "options": [
+      "Korban langsung dan keluarga intinya saja, melalui kuasa hukum",
+      "Setiap orang, kelompok, ormas, LSM, lembaga lain",
+      "Penyidik Polri dan Kejaksaan saja",
+      "Anggota DPR dan DPD saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 100: mereka juga berhak berpartisipasi dalam perlindungan, penegakan, dan pemajuan HAM.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 100, 101",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-humor-pendapat-batas",
+    "type": "humor",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Membaca pasal sampai titik",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Bebas berpendapat dong! Pasal 23!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Baca ayat 2 sampai habis."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Ada 'dengan memperhatikan'?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Ayat itu panjang, bukan hiasan."
+        }
+      ]
+    },
+    "caption": "Hak yang dikutip setengah, biasanya dipakai sepenuhnya.",
+    "teaches": "Pasal 23 ayat (2) UU 39/1999: setiap orang bebas mempunyai, mengeluarkan, dan menyebarluaskan pendapat, dengan memperhatikan nilai agama, kesusilaan, ketertiban, kepentingan umum, dan keutuhan bangsa. Pasal 70 dan 73: pembatasan hanya oleh dan berdasarkan undang-undang.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 23, 70, 73",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ham-u39b-humor-kewajiban-dasar",
+    "type": "humor",
+    "topicId": "ham",
+    "subTopicId": "konsep-ham",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Hafal semua hak di UU HAM",
+      "bottom": "Lupa Pasal 67-70 soal kewajiban dasar",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Undang-undangnya dua arah, ingatan kita sering satu arah.",
+    "teaches": "UU 39/1999 juga mengatur kewajiban dasar manusia (Pasal 67-70): patuh pada hukum, ikut serta dalam pembelaan negara, menghormati HAM orang lain, dan tunduk pada pembatasan yang ditetapkan undang-undang.",
+    "source": {
+      "title": "UU No. 39 Tahun 1999 tentang Hak Asasi Manusia",
+      "reference": "Pasal 1, 67, 68, 69, 70",
+      "url": "https://www.datahukum.com/peraturan/UU_39_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

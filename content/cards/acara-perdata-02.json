@@ -743,5 +743,600 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-perdata-arb-pn-tidak-berwenang",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Kontrak para pihak memuat klausula arbitrase. Salah satu pihak lalu menggugat ke Pengadilan Negeri. Menurut Pasal 3 dan 11 UU 30/1999, PN…",
+    "options": [
+      "Berwenang jika tergugat tidak mengajukan eksepsi kompetensi",
+      "Tidak berwenang dan wajib menolak, kecuali hal tertentu dalam UU",
+      "Berwenang karena kompetensi absolut perkara perdata ada di PN",
+      "Wajib memeriksa pokok perkara dulu, lalu mengirim berkas ke arbiter"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 3: PN tidak berwenang mengadili sengketa para pihak yang terikat perjanjian arbitrase. Pasal 11: perjanjian arbitrase tertulis meniadakan hak membawa sengketa ke PN, dan PN wajib menolak serta tidak campur tangan kecuali hal tertentu yang diatur UU ini.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 3 dan 11",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-klausula",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Kesepakatan arbitrase yang dicantumkan dalam perjanjian tertulis SEBELUM timbul sengketa biasa disebut…",
+    "options": [
+      "Akta kompromis",
+      "Klausula arbitrase",
+      "Akta van dading PN",
+      "Pendapat mengikat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 3: perjanjian arbitrase berupa klausula dalam perjanjian tertulis sebelum sengketa, atau perjanjian arbitrase tersendiri setelah sengketa (akta kompromis; lihat syarat isinya di Pasal 9). Istilah Latin adalah istilah doktrin, bukan dari teks UU.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 1 angka 3 dan 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-arbitrable",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 5, sengketa yang dapat diselesaikan melalui arbitrase hanya sengketa…",
+    "options": [
+      "Di bidang apa saja asalkan para pihak sepakat tertulis",
+      "Pidana ringan yang korbannya sudah memaafkan pelaku",
+      "Perdagangan, atas hak yang dikuasai penuh oleh para pihak",
+      "Perkawinan dan waris yang disepakati oleh seluruh ahli waris"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 5 ayat (1). Sengketa yang menurut peraturan tidak dapat diadakan perdamaian tidak dapat diarbitrasekan (ayat (2)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-tidak-batal",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Perjanjian pokok berakhir, tetapi sengketanya masih ada. Menurut Pasal 10 huruf h, perjanjian arbitrase…",
+    "options": [
+      "Ikut batal karena bersifat accessoir terhadap pokoknya",
+      "Hanya tetap berlaku bila disetujui Ketua PN setempat",
+      "Tidak batal karena berakhir/batalnya perjanjian pokok",
+      "Batal, kecuali sejak awal dibuat dengan akta notaris"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 10: perjanjian arbitrase tidak batal karena, antara lain, meninggalnya atau bangkrutnya salah satu pihak, novasi, pewarisan, atau berakhir/batalnya perjanjian pokok. Klausula arbitrase diperlakukan terpisah dari perjanjian pokoknya.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-syarat-arbiter",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 12 ayat (1), syarat usia dan pengalaman untuk ditunjuk sebagai arbiter adalah…",
+    "options": [
+      "Paling rendah 45 tahun dan pengalaman paling sedikit 20 tahun",
+      "Paling rendah 35 tahun dan pengalaman paling sedikit 15 tahun",
+      "Paling rendah 40 tahun dan pengalaman paling sedikit 10 tahun",
+      "Paling rendah 30 tahun dan pengalaman paling sedikit 5 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 12 ayat (1) huruf b dan e. Syarat lain: cakap, tidak punya hubungan keluarga sampai derajat kedua dengan salah satu pihak, dan tidak punya kepentingan finansial atas putusan.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 12 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-hakim-arbiter",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Seorang hakim aktif diminta para pihak menjadi arbiter karena reputasinya. Menurut Pasal 12 ayat (2)…",
+    "options": [
+      "Boleh, asal seluruh honorariumnya dilaporkan ke KPK",
+      "Boleh, asal sengketanya di luar wilayah hukum tempat ia bertugas",
+      "Hakim tidak dapat ditunjuk atau diangkat sebagai arbiter",
+      "Boleh, asal mendapat izin tertulis Ketua Mahkamah Agung"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 12 ayat (2): hakim, jaksa, panitera, dan pejabat peradilan lainnya tidak dapat ditunjuk atau diangkat sebagai arbiter.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 12 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-tidak-sepakat-arbiter",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Para pihak tidak mencapai kesepakatan dalam memilih arbiter, dan perjanjiannya tidak mengatur cara pengangkatan. Menurut Pasal 13, arbiter ditunjuk oleh…",
+    "options": [
+      "Ketua Pengadilan Negeri",
+      "Menteri Hukum",
+      "Ketua Kamar Dagang dan Industri",
+      "Ketua Mahkamah Agung"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 13 ayat (1); dalam arbitrase ad hoc, para pihak dapat memohon kepada Ketua PN untuk menunjuk arbiter (ayat (2)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 13",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-tertutup",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Pemeriksaan sengketa oleh arbiter atau majelis arbitrase dilakukan secara…",
+    "options": [
+      "Terbuka bila salah satu pihak meminta",
+      "Tertutup",
+      "Terbuka khusus untuk wartawan",
+      "Terbuka untuk umum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 27. Berbeda dengan sidang pengadilan perdata yang pada asasnya terbuka untuk umum; kerahasiaan sering jadi alasan pelaku usaha memilih arbitrase.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 27",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-180-hari",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Pemeriksaan sengketa arbitrase harus diselesaikan paling lama…",
+    "options": [
+      "90 hari sejak permohonan arbitrase didaftarkan; final",
+      "30 hari sejak sidang pertama, tanpa perpanjangan",
+      "180 hari sejak majelis terbentuk; dapat diperpanjang",
+      "1 tahun sejak sengketa timbul, dapat diperpanjang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 48: 180 hari sejak arbiter atau majelis arbitrase terbentuk; dapat diperpanjang dengan persetujuan para pihak bila diperlukan.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 48",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-ex-aequo",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 56 ayat (1), arbiter mengambil putusan berdasarkan…",
+    "options": [
+      "Hanya kebiasaan dagang internasional (lex mercatoria)",
+      "Suara terbanyak para pihak dan para saksi",
+      "Hanya yurisprudensi tetap Mahkamah Agung",
+      "Ketentuan hukum, atau keadilan dan kepatutan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 56 ayat (1). Para pihak juga berhak memilih hukum yang berlaku atas sengketanya (ayat (2)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 56",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-daftar-30",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Putusan arbitrase (nasional) diserahkan dan didaftarkan ke Panitera PN paling lama 30 hari sejak diucapkan. Jika tidak didaftarkan…",
+    "options": [
+      "Arbiter dapat dipidana karena lalai mendaftarkan",
+      "Putusan berubah menjadi pendapat mengikat",
+      "Putusan tetap dapat dieksekusi secara otomatis",
+      "Putusan arbitrase tidak dapat dilaksanakan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 59 ayat (1) dan (4).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 59",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-final",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 60, putusan arbitrase bersifat…",
+    "options": [
+      "Baru mengikat setelah dikuatkan putusan PN",
+      "Dapat dikasasi bila nilai sengketa besar",
+      "Final, berkekuatan hukum tetap, dan mengikat",
+      "Dapat dibanding ke Pengadilan Tinggi setempat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 60. Upaya terhadapnya terbatas pada permohonan pembatalan dengan alasan Pasal 70.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 60 dan 70",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-eksekusi-periksa",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Sebelum memberi perintah eksekusi putusan arbitrase, Ketua PN memeriksa…",
+    "options": [
+      "Besarnya honorarium arbiter dan biaya perkara",
+      "Kebenaran fakta yang telah diperiksa majelis arbitrase",
+      "Pasal 4 dan 5, serta kesusilaan dan ketertiban umum",
+      "Alasan dan pertimbangan hukum arbiter secara menyeluruh"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 62 ayat (2), dan Ketua PN tidak memeriksa alasan atau pertimbangan putusan arbitrase (ayat (4)). Perintah diberikan paling lama 30 hari setelah permohonan eksekusi didaftarkan (ayat (1)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 62",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-internasional-pn",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Pengadilan yang berwenang menangani pengakuan dan pelaksanaan Putusan Arbitrase Internasional adalah…",
+    "options": [
+      "Pengadilan Tinggi DKI Jakarta",
+      "Mahkamah Agung secara langsung",
+      "Pengadilan Negeri tempat tinggal termohon",
+      "Pengadilan Negeri Jakarta Pusat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 65. Pelaksanaannya memerlukan eksekuatur dari Ketua PN Jakarta Pusat (Pasal 66 huruf d).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 65-66",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-internasional-syarat",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Manakah yang termasuk syarat Putusan Arbitrase Internasional dapat diakui dan dilaksanakan di Indonesia menurut Pasal 66?",
+    "options": [
+      "Telah dikuatkan oleh pengadilan tertinggi di negara asalnya dulu",
+      "Nilai sengketanya paling sedikit satu miliar rupiah atau setara",
+      "Para arbiternya seluruhnya berkewarganegaraan Indonesia asli",
+      "Dijatuhkan di negara yang terikat perjanjian pengakuan dengan RI"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 66: dijatuhkan di negara yang terikat perjanjian bilateral/multilateral dengan Indonesia, terbatas pada ruang lingkup hukum perdagangan, tidak bertentangan dengan ketertiban umum, dan memperoleh eksekuatur Ketua PN Jakarta Pusat.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 66",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-internasional-upaya",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Ketua PN Jakarta Pusat MENOLAK mengakui dan melaksanakan suatu Putusan Arbitrase Internasional. Upaya hukum yang tersedia adalah…",
+    "options": [
+      "Kasasi",
+      "Tidak ada upaya hukum apa pun",
+      "Perlawanan ke PN yang sama",
+      "Banding ke Pengadilan Tinggi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 68 ayat (2); MA memutus dalam 90 hari (ayat (3)). Sebaliknya, putusan yang MENGAKUI dan melaksanakan tidak dapat dibanding atau dikasasi (ayat (1)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 68",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-batal-alasan",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Manakah yang termasuk alasan permohonan pembatalan putusan arbitrase menurut Pasal 70?",
+    "options": [
+      "Pihak yang kalah merasa putusannya tidak adil sama sekali",
+      "Arbiter keliru menilai fakta dan bukti para pihak",
+      "Arbiter menerapkan hukum yang kurang tepat",
+      "Putusan diambil dari tipu muslihat salah satu pihak"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 70: dokumen diakui/dinyatakan palsu setelah putusan, ditemukan dokumen menentukan yang disembunyikan lawan, atau putusan diambil dari tipu muslihat salah satu pihak. Pembatalan bukan banding atas penilaian fakta atau hukum.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 70",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-batal-30",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Permohonan pembatalan putusan arbitrase diajukan secara tertulis paling lama…",
+    "options": [
+      "30 hari sejak putusan diserahkan dan didaftarkan ke PN",
+      "14 hari sejak putusan arbitrase diucapkan oleh majelis",
+      "90 hari sejak salinan putusan diterima kedua belah pihak",
+      "180 hari sejak arbiter atau majelis terbentuk"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 71. Diajukan kepada Ketua PN, yang memutus dalam 30 hari (Pasal 72 ayat (1) dan (3)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 71-72",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-batal-banding-ma",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Terhadap putusan PN atas permohonan pembatalan putusan arbitrase, menurut Pasal 72 ayat (4) dapat diajukan…",
+    "options": [
+      "Banding ke MA, yang memutus di tingkat pertama dan terakhir",
+      "Peninjauan kembali langsung ke Mahkamah Konstitusi RI",
+      "Perlawanan pihak ketiga ke PN yang sama (derden verzet) saja",
+      "Banding ke Pengadilan Tinggi, kemudian kasasi ke MA"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 72 ayat (4); MA memutus dalam 30 hari setelah permohonan diterima (ayat (5)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 72 ayat (4)-(5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-pendapat-mengikat",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "question": "Para pihak belum bersengketa, tetapi berbeda tafsir atas satu klausul kontrak. Mereka dapat meminta kepada lembaga arbitrase…",
+    "options": [
+      "Putusan sela yang dapat dibanding ke PN setempat kapan saja",
+      "Fatwa hukum yang dapat dikasasi ke Mahkamah Agung",
+      "Pendapat mengikat yang tak dapat dilawan upaya hukum",
+      "Mediasi wajib selama 30 hari kerja di pengadilan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 52-53. Lembaga arbitrase juga dapat memberikan pendapat mengikat mengenai hubungan hukum tertentu sebelum timbul sengketa (Pasal 1 angka 8).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 52-53",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-aps",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 1 angka 10, Alternatif Penyelesaian Sengketa mencakup penyelesaian di luar pengadilan dengan cara…",
+    "options": [
+      "Somasi, gugatan, banding, dan kasasi ke Mahkamah Agung RI",
+      "Laporan ke polisi, praperadilan, dan penuntutan oleh jaksa",
+      "Konsultasi, negosiasi, mediasi, konsiliasi, penilaian ahli",
+      "Arbitrase, litigasi, dan eksekusi putusan di PN setempat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 10. Arbitrase diatur tersendiri; definisinya di Pasal 1 angka 1.",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 1 angka 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-aps-daftar",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "question": "Kesepakatan tertulis hasil APS (Pasal 6) bersifat final dan mengikat, dan wajib didaftarkan di Pengadilan Negeri paling lama…",
+    "options": [
+      "7 hari sejak mediasi dimulai",
+      "14 hari sejak penandatanganan",
+      "30 hari sejak penandatanganan",
+      "180 hari sejak sengketa timbul"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 6 ayat (7); kesepakatan itu wajib selesai dilaksanakan paling lama 30 hari sejak pendaftaran (ayat (8)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 6 ayat (7)-(8)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-humor-kabur",
+    "type": "humor",
+    "topicId": "acara-perdata",
+    "subTopicId": "gugatan-kompetensi",
+    "account": "hir.hari.ini",
+    "visual": {
+      "template": "comic",
+      "title": "Forum shopping gagal",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Kalah di arbitrase? Gampang, saya gugat ulang di PN."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Kontraknya ada klausula arbitrase. PN tidak berwenang."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Lho, kan saya yang dulu tanda tangan..."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Justru itu."
+        }
+      ]
+    },
+    "caption": "Klausula arbitrase dibaca waktu tanda tangan, bukan waktu kalah.",
+    "teaches": "Pengadilan Negeri tidak berwenang mengadili sengketa para pihak yang telah terikat perjanjian arbitrase (Pasal 3); perjanjian arbitrase tertulis meniadakan hak membawa sengketa ke PN (Pasal 11 ayat (1)).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 3 dan 11",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-arb-humor-tidak-adil",
+    "type": "humor",
+    "topicId": "acara-perdata",
+    "subTopicId": "upaya-hukum",
+    "account": "hir.hari.ini",
+    "visual": {
+      "template": "meme",
+      "top": "Mengajukan pembatalan putusan arbitrase karena 'arbiternya tidak paham bisnis kami'",
+      "bottom": "Alasan Pasal 70: dokumen palsu, dokumen disembunyikan, tipu muslihat.",
+      "character": "gecko",
+      "expression": "think"
+    },
+    "caption": "Kecewa bukan salah satu dari tiga alasan.",
+    "teaches": "Permohonan pembatalan putusan arbitrase hanya dapat didasarkan pada dugaan dokumen palsu, dokumen menentukan yang disembunyikan pihak lawan, atau tipu muslihat (Pasal 70); putusan arbitrase final dan mengikat (Pasal 60).",
+    "source": {
+      "title": "UU No. 30 Tahun 1999 tentang Arbitrase dan Alternatif Penyelesaian Sengketa",
+      "reference": "Pasal 60 dan 70",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-30-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

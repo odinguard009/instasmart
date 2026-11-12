@@ -1084,5 +1084,619 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-definisi",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut Pasal 1 UU KUP, pajak adalah kontribusi wajib kepada negara yang bersifat memaksa berdasarkan Undang-Undang, dengan…",
+    "options": [
+      "Hak suara tambahan dalam pemilu",
+      "Imbalan langsung berupa layanan tertentu",
+      "Imbalan berupa bunga tahunan dari kas negara",
+      "Tidak mendapatkan imbalan secara langsung"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 1 UU KUP: digunakan untuk keperluan negara bagi sebesar-besarnya kemakmuran rakyat. Kontraprestasi langsung adalah ciri retribusi, bukan pajak.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 1 angka 1",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-wp",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut definisi Pasal 1 UU KUP, Wajib Pajak meliputi…",
+    "options": [
+      "Hanya badan yang berbentuk perseroan terbatas",
+      "Hanya orang pribadi berpenghasilan di atas PTKP",
+      "Pembayar, pemotong, dan pemungut pajak",
+      "Hanya pengusaha kena pajak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 2: orang pribadi atau badan, meliputi pembayar pajak, pemotong pajak, dan pemungut pajak, yang punya hak dan kewajiban perpajakan.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 1 angka 2",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-badan",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Manakah yang termasuk \"Badan\" menurut Pasal 1 UU KUP?",
+    "options": [
+      "Hanya perseroan terbatas",
+      "Hanya BUMN dan BUMD",
+      "Hanya badan yang mencari laba",
+      "Yayasan dan organisasi massa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Badan meliputi PT, CV, BUMN/BUMD, firma, kongsi, koperasi, dana pensiun, persekutuan, perkumpulan, yayasan, ormas, orsospol, kontrak investasi kolektif, bentuk usaha tetap, baik yang melakukan usaha maupun tidak.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 1 angka 3",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-tahun-pajak",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Tahun Pajak menurut Pasal 1 UU KUP adalah…",
+    "options": [
+      "Jangka waktu 1 bulan kalender",
+      "Selalu 1 Januari sampai 31 Desember, tanpa pengecualian apa pun",
+      "1 tahun kalender, kecuali tahun buku WP berbeda",
+      "Periode anggaran negara yang ditetapkan DPR"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 UU KUP. Masa Pajak adalah jangka waktu dasar untuk menghitung, menyetor, dan melaporkan pajak dalam jangka waktu tertentu.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-skp",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Surat ketetapan pajak menurut Pasal 1 UU KUP meliputi…",
+    "options": [
+      "STP, SSP, dan SPT Tahunan",
+      "SPT Masa dan SPT Tahunan PPh",
+      "NPWP dan pengukuhan PKP",
+      "SKPKB, SKPKBT, SKPN, SKPLB"
+    ],
+    "answerIndex": 3,
+    "explanation": "SKP Kurang Bayar, Kurang Bayar Tambahan, Nihil, dan Lebih Bayar. STP (Surat Tagihan Pajak) adalah surat tagihan, bukan surat ketetapan.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-skpn",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Surat Ketetapan Pajak Nihil menentukan bahwa…",
+    "options": [
+      "Wajib Pajak dibebaskan dari seluruh kewajiban pajak untuk selamanya",
+      "Pajak dihapus karena wajib pajak meninggal",
+      "Pokok pajak sama dengan kredit pajak, atau tidak terutang",
+      "Kelebihan bayar dikembalikan seluruhnya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 UU KUP. Kalau kredit pajak lebih besar dari pajak terutang, yang terbit SKPLB.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-npwp-nik",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut Pasal 2 ayat (1a) UU KUP (perubahan UU 7/2021), NPWP bagi Wajib Pajak orang pribadi penduduk Indonesia menggunakan…",
+    "options": [
+      "NIK",
+      "Nomor rekening bank",
+      "Nomor paspor",
+      "Nomor kartu keluarga"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 2 ayat (1a). Pelaksanaan bertahapnya diatur peraturan pelaksana, yang tidak dikutip di sini.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 2 ayat (1a)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-daftar",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Wajib Pajak yang telah memenuhi persyaratan subjektif dan objektif wajib…",
+    "options": [
+      "Mendaftar ke pemerintah daerah",
+      "Mendaftar ke kantor DJP setempat, lalu diberi NPWP",
+      "Membayar pajak tanpa perlu terdaftar",
+      "Menunggu surat panggilan resmi dari kantor pajak terdekat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 ayat (1): mendaftar pada kantor DJP yang wilayah kerjanya meliputi tempat tinggal atau kedudukan WP.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 2 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-spt-op",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Batas waktu penyampaian SPT Tahunan PPh Wajib Pajak orang pribadi menurut Pasal 3 ayat (3) UU KUP:",
+    "options": [
+      "Paling lama 20 hari setelah akhir Tahun Pajak",
+      "Paling lama 4 bulan setelah akhir Tahun Pajak",
+      "Paling lama 3 bulan setelah akhir Tahun Pajak",
+      "Paling lama 6 bulan setelah akhir Tahun Pajak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 3 ayat (3): SPT Masa 20 hari setelah akhir Masa Pajak; SPT Tahunan orang pribadi 3 bulan; SPT Tahunan badan 4 bulan.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 3 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-spt-badan",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Batas waktu penyampaian SPT Tahunan PPh Wajib Pajak badan:",
+    "options": [
+      "Paling lama 3 bulan setelah akhir Tahun Pajak",
+      "Paling lama 1 bulan setelah akhir Tahun Pajak",
+      "Paling lama 4 bulan setelah akhir Tahun Pajak",
+      "Paling lama 12 bulan setelah akhir Tahun Pajak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 3 ayat (3) UU KUP.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 3 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-spt-masa",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Batas waktu penyampaian SPT Masa:",
+    "options": [
+      "Paling lama 3 bulan setelah akhir Masa Pajak",
+      "Paling lama 10 hari setelah akhir Masa Pajak",
+      "Paling lama 20 hari setelah akhir Masa Pajak",
+      "Bersamaan dengan SPT Tahunan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 3 ayat (3) UU KUP.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 3 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-spt-bahasa",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "SPT wajib diisi dengan benar, lengkap, dan jelas dalam…",
+    "options": [
+      "Bahasa apa pun asal ditandatangani di atas meterai",
+      "Bahasa Indonesia, huruf Latin, angka Arab, Rupiah",
+      "Bahasa Inggris untuk perusahaan asing",
+      "Mata uang apa pun sesuai transaksi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 3 ayat (1). Ayat (1a): WP yang mendapat izin Menteri Keuangan membukukan dalam bahasa asing dan mata uang selain Rupiah tetap menyampaikan SPT dalam bahasa Indonesia dengan mata uang yang diizinkan.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 3 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-self",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Pasal 12 ayat (1) UU KUP: Wajib Pajak wajib membayar pajak terutang…",
+    "options": [
+      "Hanya setelah menerima surat ketetapan pajak dari DJP",
+      "Setelah diperiksa oleh DJP",
+      "Tanpa menunggu adanya surat ketetapan pajak",
+      "Hanya bila ditagih juru sita"
+    ],
+    "answerIndex": 2,
+    "explanation": "Inilah wujud self assessment dalam UU KUP. Jika DJP punya bukti SPT tidak benar, DJP menetapkan jumlah pajak terutang (ayat (3)).",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 12",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-jatuh-tempo",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut Pasal 9 ayat (1) UU KUP, Menteri Keuangan menentukan tanggal jatuh tempo pembayaran pajak paling lama…",
+    "options": [
+      "15 hari setelah terutang atau akhir Masa Pajak",
+      "30 hari setelah berakhirnya Tahun Pajak yang bersangkutan",
+      "7 hari setelah SPT disampaikan",
+      "3 bulan setelah saat terutang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 9 ayat (1). Kekurangan pajak menurut SPT Tahunan PPh harus lunas sebelum SPT disampaikan (ayat (2)).",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 9",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-bunga",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Tarif bunga sanksi administratif per bulan menurut Pasal 9 ayat (2c) UU KUP dihitung dari…",
+    "options": [
+      "Suku bunga deposito bank pemerintah",
+      "Suku bunga acuan + 5%, dibagi 12",
+      "Inflasi tahunan nasional dibagi 12",
+      "Tetap 2% per bulan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 9 ayat (2c) dalam versi terakhir di halaman sumber; tarif tetap 2% per bulan adalah rumusan lama. Bunga dikenakan paling lama 24 bulan.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 9 ayat (2c)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-skpkb-5",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "DJP dapat menerbitkan SKPKB dalam jangka waktu…",
+    "options": [
+      "Tanpa batas waktu, selama WP masih ada",
+      "10 tahun setelah berakhirnya Tahun Pajak terakhir WP",
+      "1 tahun setelah SPT disampaikan",
+      "5 tahun sejak terutang atau akhir Masa/Tahun Pajak"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 13 ayat (1) UU KUP, setelah dilakukan pemeriksaan dalam hal-hal tertentu (misalnya pajak tidak atau kurang dibayar).",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 13 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-keberatan-ke",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Keberatan atas SKPKB diajukan kepada…",
+    "options": [
+      "Direktur Jenderal Pajak",
+      "Pengadilan Tata Usaha Negara",
+      "Menteri Keuangan",
+      "Pengadilan Pajak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 25 ayat (1): keberatan hanya kepada Direktur Jenderal Pajak. Banding atas keputusan keberatan baru ke Pengadilan Pajak (Pasal 27).",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 25 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-keberatan-3",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Jangka waktu pengajuan keberatan menurut Pasal 25 ayat (3) UU KUP:",
+    "options": [
+      "1 tahun sejak pajak terutang",
+      "6 bulan sejak SKP diterbitkan",
+      "3 bulan sejak SKP dikirim atau sejak pemotongan",
+      "14 hari kerja sejak SKP diterima oleh Wajib Pajak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kecuali WP dapat menunjukkan jangka waktu itu tidak dapat dipenuhi karena keadaan di luar kekuasaannya.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 25 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-keberatan-12",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "DJP tidak memberi keputusan atas keberatan dalam 12 bulan sejak surat keberatan diterima. Akibatnya…",
+    "options": [
+      "WP wajib mengajukan ulang",
+      "Keberatan otomatis dilimpahkan ke Pengadilan Pajak",
+      "Keberatan dianggap dikabulkan",
+      "Keberatan dianggap ditolak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 26 ayat (1) dan (5) UU KUP. Keputusan keberatan juga bisa menambah jumlah pajak yang harus dibayar (ayat (3)).",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 26",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-banding",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Banding atas Surat Keputusan Keberatan diajukan kepada badan peradilan pajak paling lama…",
+    "options": [
+      "3 bulan sejak keputusan keberatan diterima",
+      "1 tahun sejak keputusan keberatan diterima",
+      "14 hari sejak keputusan keberatan diterima",
+      "30 hari sejak keputusan keberatan diterbitkan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 27 ayat (1) dan (3). Putusan Pengadilan Pajak adalah putusan pengadilan khusus di lingkungan peradilan TUN (ayat (2)).",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 27",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-rahasia",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "question": "Pejabat pajak dilarang memberitahukan kepada pihak lain keterangan Wajib Pajak. Pengecualiannya antara lain…",
+    "options": [
+      "Pejabat yang bersangkutan sudah pensiun",
+      "Pihak lain adalah pesaing usaha Wajib Pajak itu",
+      "Keterangan diminta wartawan untuk berita utama",
+      "Pejabat jadi saksi atau saksi ahli di sidang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 34 ayat (2a). Untuk perkara pidana/perdata, atas permintaan hakim, Menteri Keuangan dapat memberi izin tertulis (ayat (4)).",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 34",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-humor-spt",
+    "type": "humor",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "meme",
+      "top": "31 Maret, pukul 23.58",
+      "bottom": "Baru ingat SPT Tahunan orang pribadi: batasnya 3 bulan setelah akhir Tahun Pajak",
+      "character": "gecko",
+      "expression": "shock"
+    },
+    "caption": "Tiga bulan terasa lama sampai tinggal dua menit.",
+    "teaches": "Pasal 3 ayat (3) UU KUP: SPT Tahunan orang pribadi paling lama 3 bulan setelah akhir Tahun Pajak; badan 4 bulan; SPT Masa 20 hari.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 3 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-humor-dikabulkan",
+    "type": "humor",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Diam itu setuju",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "WP: keberatan saya sudah 12 bulan belum diputus."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Konsultan: Pasal 26 ayat (5): dianggap dikabulkan."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "WP: diam bisa berarti setuju? Di kantor pajak?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Konsultan: di sini saja. Jangan coba di rumah."
+        }
+      ]
+    },
+    "caption": "Satu-satunya tempat 'tidak dibalas' berarti 'iya'.",
+    "teaches": "Pasal 26 UU KUP: DJP memberi keputusan keberatan paling lama 12 bulan; jika terlampaui tanpa keputusan, keberatan dianggap dikabulkan.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 26",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-kup-humor-nik",
+    "type": "humor",
+    "topicId": "pajak",
+    "subTopicId": "dasar-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Identitas ganda",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Warga: saya tidak punya NPWP, jadi aman."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Petugas: Pasal 2 ayat (1a): NPWP orang pribadi penduduk memakai NIK."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Warga: jadi KTP saya…"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Petugas: sudah bisa jadi NPWP. Wajib atau tidak, tetap ikut syarat."
+        }
+      ]
+    },
+    "caption": "Kartu yang dulu cuma untuk antre, sekarang juga untuk lapor.",
+    "teaches": "Pasal 2 ayat (1a) UU KUP (perubahan UU 7/2021): NPWP bagi WP orang pribadi penduduk Indonesia menggunakan NIK. Kewajiban mendaftar tetap bergantung pada syarat subjektif dan objektif.",
+    "source": {
+      "title": "UU No. 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (terkonsolidasi)",
+      "reference": "Pasal 2 ayat (1a)",
+      "url": "https://www.datahukum.com/peraturan/UU_6_Tahun_1983.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

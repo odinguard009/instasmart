@@ -311,3 +311,15 @@
 ### Penjelasan Pasal 10
 
 > Syarat sebagaimana dimaksud pada huruf a lebih kuat daripada syarat sebagaimana dimaksud pada huruf b.
+### Pasal 12
+
+> Pengadilan dalam lingkungan peradilan militer terdiri dari: a Pengadilan Militer; b Pengadilan Militer Tinggi; c Pengadilan Militer Utama; dan d Pengadilan Militer Pertempuran.
+
+### Pasal 40
+
+> Pengadilan Militer memeriksa dan memutus pada tingkat pertama perkara pidana yang Terdakwanya adalah: a Prajurit yang berpangkat Kapten ke bawah; b mereka sebagaimana dimaksud dalam Pasal 9 angka 1 huruf b dan huruf c yang Terdakwanya "termasuk tingkat kepangkatan" Kapten ke bawah; dan c mereka yang berdasarkan Pasal 9 angka 1 huruf d harus diadili oleh Pengadilan Militer.
+
+### Pasal 69
+
+> (1) Penyidik adalah: a Atasan yang Berhak Menghukum; b Polisi Militer; dan c Oditur. (2) Penyidik Pembantu adalah: a Provos Tentara Nasional Indonesia Angkatan Darat; b Provos Tentara Nasional Indonesia Angkatan Laut; c Provos Tentara Nasional Indonesia Angkatan Udara; dan d Provos Kepolisian Negara Republik Indonesia.
+

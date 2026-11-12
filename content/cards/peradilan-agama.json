@@ -944,5 +944,480 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-agama-esy-tambahan-2006",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Bidang yang disebut dalam Pasal 49 UU Peradilan Agama sebagaimana diubah UU 3/2006 sebagai huruf i adalah…",
+    "options": [
+      "Pidana syariat",
+      "Perwalian anak",
+      "Ekonomi syari'ah",
+      "Sengketa tanah wakaf"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 49 (UU 3/2006): perkawinan, waris, wasiat, hibah, wakaf, zakat, infaq, shadaqah, dan ekonomi syari'ah.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 49 huruf i",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-3-tahun-2006"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-tunduk-sukarela",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Menurut Penjelasan Pasal 49 UU 3/2006, \"antara orang-orang yang beragama Islam\" juga mencakup…",
+    "options": [
+      "Hanya warga negara yang di KTP-nya tertulis beragama Islam",
+      "Badan hukum yang sukarela tunduk pada hukum Islam",
+      "Seluruh penduduk di daerah mayoritas muslim",
+      "Hanya bank milik negara dan pemerintah daerah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 49: termasuk orang atau badan hukum yang dengan sendirinya menundukkan diri dengan sukarela kepada hukum Islam mengenai hal-hal yang menjadi kewenangan Peradilan Agama.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-3-tahun-2006"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-bukan-hanya-bank",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Penjelasan Pasal 49 UU 3/2006 menegaskan bahwa penyelesaian sengketa ekonomi syariah…",
+    "options": [
+      "Tidak hanya di bidang perbankan syariah",
+      "Hanya di bidang perbankan syariah",
+      "Hanya bila tak ada klausul arbitrase",
+      "Hanya untuk nilai sengketa di atas Rp1 miliar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penjelasan Pasal 49: \"tidak hanya dibatasi di bidang perbankan syari'ah, melainkan juga di bidang ekonomi syari'ah lainnya\". Penjelasan huruf i memberi contoh: asuransi, reasuransi, reksa dana, obligasi, sekuritas, pembiayaan, pegadaian, dana pensiun, dan bisnis syariah.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-3-tahun-2006"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-hak-milik-islam",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Dalam perkara waris di PA muncul sengketa hak milik atas objeknya, dan semua pihaknya beragama Islam. Menurut Pasal 50 ayat (2)…",
+    "options": [
+      "Objek itu diserahkan ke Baitul Mal",
+      "Objek itu diputus PA bersama perkara pokoknya",
+      "Objek itu wajib diputus dulu oleh Pengadilan Negeri",
+      "Perkara dihentikan dan para pihak berdamai"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 50 ayat (2) (UU 3/2006). Penjelasannya: mencegah upaya mengulur waktu dengan alasan sengketa milik.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 50 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-3-tahun-2006"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-hak-milik-umum",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Pasal 50 ayat (1) UU 3/2006: sengketa hak milik dalam perkara Pasal 49, khusus mengenai objeknya, diputus lebih dahulu oleh…",
+    "options": [
+      "Pengadilan Tata Usaha Negara setempat",
+      "Pengadilan dalam Peradilan Umum",
+      "Badan Pertanahan Nasional setempat",
+      "Mahkamah Syar'iyah di tingkat provinsi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 50 ayat (1). Pengecualiannya ada di ayat (2): bila subjek hukumnya antara orang-orang yang beragama Islam, diputus PA bersama perkara pokok.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 50",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-3-tahun-2006"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-asas",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Menurut Pasal 2 UU 21/2008, perbankan syariah berasaskan Prinsip Syariah, demokrasi ekonomi, dan…",
+    "options": [
+      "Asas kebebasan berkontrak",
+      "Prinsip kehati-hatian",
+      "Asas kekeluargaan semata",
+      "Prinsip keuntungan maksimal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 UU 21/2008.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Pasal 2",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-pasal-55-1",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Pasal 55 ayat (1) UU 21/2008 menyerahkan penyelesaian sengketa perbankan syariah kepada…",
+    "options": [
+      "Otoritas Jasa Keuangan di daerah",
+      "Dewan Syariah Nasional Majelis Ulama",
+      "Pengadilan dalam Peradilan Agama",
+      "Pengadilan Niaga di Pengadilan Negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 55 ayat (1). Ayat (2): bila para pihak memperjanjikan cara lain, sesuai isi akad; ayat (3): penyelesaian itu tidak boleh bertentangan dengan Prinsip Syariah.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Pasal 55",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-pasal-55-3",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Para pihak memperjanjikan penyelesaian sengketa di luar Peradilan Agama. Batasan menurut Pasal 55 ayat (3) UU 21/2008…",
+    "options": [
+      "Hanya untuk nasabah bukan muslim",
+      "Wajib disetujui Bank Indonesia lebih dulu",
+      "Hanya untuk sengketa bernilai di bawah Rp500 juta",
+      "Tidak boleh bertentangan dengan Prinsip Syariah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 55 ayat (3). Penjelasan ayat (2) yang dahulu menyebut pilihan peradilan umum telah dinyatakan tidak mengikat oleh Putusan MK 93/PUU-X/2012.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Pasal 55 ayat (2)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-wadiah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Akad penitipan barang atau uang untuk menjaga keselamatan, keamanan, dan keutuhannya disebut…",
+    "options": [
+      "Ijarah",
+      "Wadi'ah",
+      "Mudharabah",
+      "Hawalah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 19 ayat (1) huruf a UU 21/2008. Dipakai untuk simpanan berupa giro atau tabungan.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf a",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-mudharabah-rugi",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Dalam pembiayaan mudharabah (bank menyediakan seluruh modal), kerugian menurut Penjelasan Pasal 19 UU 21/2008 ditanggung…",
+    "options": [
+      "Oleh Lembaga Penjamin Simpanan sebagai penjamin",
+      "Sepenuhnya oleh nasabah pengelola dana",
+      "Bank, kecuali nasabah sengaja atau lalai",
+      "Dibagi rata antara bank dan nasabah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 19 ayat (1) huruf c: kerugian ditanggung sepenuhnya oleh Bank Syariah kecuali jika pihak kedua melakukan kesalahan yang disengaja, lalai, atau menyalahi perjanjian.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-musyarakah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Pada akad musyarakah, kerugian ditanggung…",
+    "options": [
+      "Seluruhnya oleh pihak yang mengelola",
+      "Sesuai porsi dana masing-masing pihak",
+      "Seluruhnya oleh bank syariah",
+      "Sesuai kesepakatan bebas yang dituangkan di akad"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 19 ayat (1) huruf c: keuntungan dibagi sesuai kesepakatan, sedangkan kerugian ditanggung sesuai porsi dana masing-masing.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-murabahah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Akad pembiayaan barang dengan menegaskan harga belinya kepada pembeli, lalu pembeli membayar lebih sebagai keuntungan yang disepakati, disebut…",
+    "options": [
+      "Salam",
+      "Murabahah",
+      "Qardh",
+      "Istishna'"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 19 ayat (1) huruf d.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf d",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-salam-istishna",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Bedanya akad salam dan istishna' menurut Penjelasan Pasal 19 UU 21/2008?",
+    "options": [
+      "Salam bayar di muka; istishna' pesan dibuatkan",
+      "Salam: sewa; istishna': jual beli tunai",
+      "Tidak ada beda, keduanya hanya beda istilah Arab",
+      "Salam: pinjaman; istishna': titipan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Salam: pemesanan dengan pembayaran harga terlebih dahulu dengan syarat tertentu. Istishna': pemesanan pembuatan barang tertentu dengan kriteria yang disepakati antara pemesan (mustashni') dan pembuat (shani').",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf d",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-qardh",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Akad pinjaman dana kepada nasabah yang wajib dikembalikan pada waktu yang disepakati disebut…",
+    "options": [
+      "Ijarah",
+      "Wakalah",
+      "Musyarakah",
+      "Qardh"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penjelasan Pasal 19 ayat (1) huruf e UU 21/2008.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf e",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-ijarah-imbt",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Bedanya ijarah dan ijarah muntahiya bittamlik (IMBT)?",
+    "options": [
+      "IMBT ada opsi pindah kepemilikan barang",
+      "IMBT adalah titipan tanpa imbalan",
+      "Ijarah yang punya opsi pindah kepemilikan",
+      "Ijarah adalah pinjaman tanpa imbalan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penjelasan Pasal 19 ayat (1) huruf f: ijarah memindahkan hak guna/manfaat lewat sewa tanpa pemindahan kepemilikan; IMBT berdasarkan sewa dengan opsi pemindahan kepemilikan barang.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf f",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-hawalah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Akad pengalihan utang dari pihak yang berutang kepada pihak lain yang wajib menanggung atau membayar disebut…",
+    "options": [
+      "Wadi'ah",
+      "Hawalah",
+      "Mudharabah",
+      "Salam"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 19 ayat (1) huruf g UU 21/2008.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf g",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-mudharabah-himpun",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "question": "Dalam penghimpunan dana berakad mudharabah, siapa pemilik dana (shahibul mal)?",
+    "options": [
+      "Dewan Pengawas Syariah",
+      "Nasabah",
+      "Bank Indonesia",
+      "Bank Syariah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 19 ayat (1) huruf b: pihak pertama (nasabah) pemilik dana; pihak kedua (bank syariah) pengelola dana (mudharib). Dalam pembiayaan mudharabah (huruf c), posisinya terbalik.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf b-c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-humor-murabahah",
+    "type": "humor",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "meme",
+      "top": "Murabahah: harga beli wajib disebut ke pembeli",
+      "bottom": "Penjual yang biasa bilang \"harga modal rahasia, Kak\": panik.",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Transparan itu bukan fitur premium.",
+    "teaches": "Penjelasan Pasal 19 ayat (1) huruf d UU 21/2008: murabahah adalah akad pembiayaan barang dengan menegaskan harga belinya kepada pembeli, dan pembeli membayar lebih sebagai keuntungan yang disepakati.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf d",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-esy-humor-mudharabah",
+    "type": "humor",
+    "topicId": "peradilan-agama",
+    "subTopicId": "ekonomi-syariah",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "comic",
+      "title": "Mudharabah salah paham",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Bank modali saya penuh, untung kita bagi ya."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Kalau rugi?"
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Ditanggung bank, kan? Jadi modalnya saya pakai liburan."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Kalau rugi karena sengaja, lalai, atau menyalahi akad, itu bebanmu."
+        }
+      ]
+    },
+    "caption": "Bagi hasil, bukan bagi alasan.",
+    "teaches": "Penjelasan Pasal 19 ayat (1) huruf c UU 21/2008: dalam pembiayaan mudharabah, kerugian ditanggung sepenuhnya oleh bank syariah kecuali jika pengelola dana melakukan kesalahan yang disengaja, lalai, atau menyalahi perjanjian.",
+    "source": {
+      "title": "UU No. 21 Tahun 2008 tentang Perbankan Syariah",
+      "reference": "Penjelasan Pasal 19 ayat (1) huruf c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-21-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

@@ -1128,5 +1128,624 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-tujuan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Mana yang BUKAN tujuan UU Narkotika menurut Pasal 4 UU 35/2009?",
+    "options": [
+      "Menjamin pengaturan rehabilitasi medis dan sosial",
+      "Memberantas peredaran gelap narkotika dan prekursornya",
+      "Menghapus seluruh penggunaan narkotika dalam kedokteran",
+      "Menjamin ketersediaan narkotika untuk pelayanan kesehatan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 4: menjamin ketersediaan narkotika untuk pelayanan kesehatan dan/atau iptek; mencegah, melindungi, dan menyelamatkan bangsa dari penyalahgunaan; memberantas peredaran gelap; dan menjamin pengaturan rehabilitasi medis dan sosial.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-guna-sah",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 7 UU Narkotika, narkotika hanya dapat digunakan untuk kepentingan…",
+    "options": [
+      "Pelayanan kesehatan dan/atau pengembangan iptek",
+      "Pelayanan kesehatan dan upacara adat tertentu saja",
+      "Penelitian dan penyidikan oleh aparat penegak hukum",
+      "Industri pangan dan farmasi yang sudah berizin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 7. Penjelasannya: pelayanan kesehatan termasuk rehabilitasi medis; iptek termasuk pendidikan dan pelatihan, misalnya melatih anjing pelacak narkotika.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-gol-1",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Penjelasan Pasal 6 UU Narkotika, Narkotika Golongan I adalah narkotika yang…",
+    "options": [
+      "Hanya dipakai untuk industri farmasi sebagai bahan baku",
+      "Hanya untuk iptek, tidak untuk terapi, potensi ketergantungan sangat tinggi",
+      "Banyak dipakai dalam terapi, potensi ketergantungan ringan",
+      "Berkhasiat pengobatan sebagai pilihan terakhir, potensi ketergantungan tinggi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 6 ayat (1) huruf a. Golongan II: berkhasiat pengobatan sebagai pilihan terakhir, potensi tinggi. Golongan III: berkhasiat pengobatan, banyak dipakai dalam terapi, potensi ringan.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Penjelasan Pasal 6 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-gol-3",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Narkotika yang berkhasiat pengobatan, banyak digunakan dalam terapi, dan berpotensi ringan mengakibatkan ketergantungan termasuk…",
+    "options": [
+      "Prekursor narkotika",
+      "Golongan I",
+      "Golongan III",
+      "Golongan II"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 6 ayat (1) huruf c.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Penjelasan Pasal 6 ayat (1) huruf c",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-ubah-golongan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Penjelasan Pasal 6 UU Narkotika, perubahan penggolongan narkotika adalah penyesuaian berdasarkan…",
+    "options": [
+      "Harga pasar gelap narkotika di daerah perbatasan",
+      "Usulan organisasi masyarakat dan tokoh adat setempat",
+      "Kesepakatan internasional dan kepentingan nasional",
+      "Jumlah kasus penyalahgunaan yang tercatat setiap tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 6 ayat (3). Pasal 6 menyerahkan perubahan penggolongan kepada Peraturan Menteri; penggolongan pertama ada di Lampiran I UU.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Penjelasan Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-gol-1-reagensia",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Narkotika Golongan I dilarang untuk pelayanan kesehatan (Pasal 8 ayat (1)). Dalam jumlah terbatas, ia boleh dipakai untuk…",
+    "options": [
+      "Ritual keagamaan yang diakui pemerintah daerah",
+      "Iptek serta reagensia diagnostik dan laboratorium",
+      "Pengobatan pasien terminal atas permintaan keluarga",
+      "Bahan baku obat bebas yang dijual di apotek"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 8 ayat (2): untuk iptek, reagensia diagnostik, dan reagensia laboratorium setelah persetujuan Menteri atas rekomendasi Kepala BPOM. Reagensia: dipakai untuk mendeteksi apakah suatu zat termasuk narkotika.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 8",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-produksi-gol-1",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Penjelasan Pasal 12 UU Narkotika, \"produksi\" Narkotika Golongan I termasuk…",
+    "options": [
+      "Penyimpanan narkotika di gudang farmasi milik pemerintah daerah",
+      "Pembudidayaan (kultivasi) tanaman yang mengandung narkotika",
+      "Pengemasan ulang sediaan narkotika di apotek dan toko obat",
+      "Pengangkutan narkotika antarprovinsi oleh pedagang besar farmasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 12 ayat (1). Pengawasan produksi untuk iptek dilakukan ketat oleh BPOM (ayat (2)).",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 12",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-prekursor",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Penjelasan Pasal 5 UU Narkotika menyatakan bahwa \"Prekursor Narkotika\" dalam ketentuan itu hanya untuk…",
+    "options": [
+      "Rumah sakit negeri",
+      "Industri farmasi",
+      "Laboratorium polisi",
+      "Penelitian kampus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 5.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Penjelasan Pasal 5",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-pasien",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Pasien yang diberi narkotika golongan II/III oleh dokter boleh memiliki dan membawanya untuk diri sendiri, asalkan (Pasal 53)…",
+    "options": [
+      "Membawanya hanya di dalam kota tempat tinggal",
+      "Jumlahnya di bawah satu gram untuk sekali pakai",
+      "Melapor lebih dulu ke kantor polisi terdekat",
+      "Punya bukti sah, misalnya salinan resep"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 53 ayat (2)-(3). Penjelasan ayat (3): bukti yang sah antara lain surat keterangan dokter, salinan resep, atau label/etiket.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 53",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-korban",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Penjelasan Pasal 54 UU Narkotika, \"korban penyalahgunaan narkotika\" adalah orang yang tidak sengaja memakai narkotika karena…",
+    "options": [
+      "Tidak tahu bahwa zat itu dilarang oleh hukum positif",
+      "Mengikuti ajakan teman sepergaulan di sebuah pesta",
+      "Dibujuk, diperdaya, ditipu, dipaksa, dan/atau diancam",
+      "Penasaran dan ingin mencoba sekali saja di rumah teman"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 54. Pasal 54 sendiri: pecandu dan korban penyalahgunaan wajib menjalani rehabilitasi medis dan rehabilitasi sosial.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 54",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-wajib-lapor-anak",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Pecandu narkotika yang belum cukup umur: siapa yang wajib melaporkannya ke puskesmas, rumah sakit, atau lembaga rehabilitasi yang ditunjuk (Pasal 55 ayat (1))?",
+    "options": [
+      "Ketua RT di lingkungannya",
+      "Guru wali kelasnya di sekolah",
+      "Kepala sekolah tempatnya belajar",
+      "Orang tua atau walinya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 55 ayat (1). Penjelasannya: \"belum cukup umur\" berarti belum mencapai 18 tahun. Pecandu yang sudah cukup umur wajib melapor diri atau dilaporkan keluarganya (ayat (2)).",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 55",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-rehab-medis",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 56 UU Narkotika, rehabilitasi medis pecandu dilakukan di…",
+    "options": [
+      "Klinik swasta mana pun yang berizin",
+      "Panti sosial milik pemerintah daerah",
+      "Lembaga pemasyarakatan mana saja",
+      "Rumah sakit yang ditunjuk Menteri"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 56 ayat (1). Ayat (2): lembaga rehabilitasi tertentu milik instansi pemerintah atau masyarakat dapat melakukannya setelah mendapat persetujuan Menteri.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 56",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-keagamaan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Selain pengobatan dan rehabilitasi medis, Pasal 57 UU Narkotika membuka penyembuhan pecandu melalui pendekatan…",
+    "options": [
+      "Militer dan kedisiplinan",
+      "Keagamaan dan tradisional",
+      "Hukuman fisik dan isolasi",
+      "Wajib kerja di proyek"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 57: diselenggarakan instansi pemerintah atau masyarakat. Penjelasan Pasal 58: rehabilitasi sosial juga bisa melalui pendekatan keagamaan, tradisional, dan alternatif lainnya.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 57-58",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-mantan-pecandu",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Penjelasan Pasal 58 UU Narkotika, \"mantan pecandu narkotika\" adalah orang yang…",
+    "options": [
+      "Telah selesai menjalani seluruh pidana penjaranya",
+      "Sudah sembuh dari ketergantungan fisik dan psikis",
+      "Sudah lulus tes urine sebanyak tiga kali berturut-turut",
+      "Sudah tidak memakai narkotika selama satu tahun penuh"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 58. Rehabilitasi sosial mantan pecandu diselenggarakan oleh instansi pemerintah maupun masyarakat.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Penjelasan Pasal 58",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-bnn-kedudukan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 64 UU Narkotika, BNN adalah…",
+    "options": [
+      "Badan teknis yang berada di bawah Kementerian Kesehatan",
+      "LPNK di bawah dan bertanggung jawab kepada Presiden",
+      "Unit kerja eselon I yang berada di bawah Kapolri",
+      "Lembaga independen yang bertanggung jawab kepada DPR"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 64 ayat (2): lembaga pemerintah nonkementerian yang berkedudukan di bawah Presiden dan bertanggung jawab kepada Presiden.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 64",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-bnn-daerah",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 65 UU Narkotika, BNN mempunyai perwakilan di…",
+    "options": [
+      "Setiap kedutaan besar RI di luar negeri",
+      "Setiap kecamatan dan kelurahan",
+      "Provinsi dan kabupaten/kota",
+      "Hanya di ibu kota setiap provinsi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 65 ayat (2)-(3): BNN provinsi berkedudukan di ibu kota provinsi, BNN kabupaten/kota di ibu kota kabupaten/kota.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 65",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-deputi",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Mana yang TIDAK disebut sebagai bidang deputi BNN dalam Pasal 67 UU Narkotika?",
+    "options": [
+      "Bidang penuntutan",
+      "Bidang pencegahan",
+      "Bidang pemberdayaan masyarakat",
+      "Bidang rehabilitasi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 67 ayat (2): pencegahan, pemberantasan, rehabilitasi, hukum dan kerja sama, serta pemberdayaan masyarakat. Penuntutan adalah ranah penuntut umum.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 67",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-bnn-sidik",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 71 UU Narkotika, dalam tugas pemberantasan BNN berwenang melakukan…",
+    "options": [
+      "Pemeriksaan perkara di persidangan",
+      "Eksekusi putusan hakim pidana",
+      "Penuntutan di pengadilan negeri",
+      "Penyelidikan dan penyidikan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 71. Kewenangan penyidik BNN dirinci di Pasal 75; kaitannya dengan KUHAP 2025 perlu dicek.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 71",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-didahulukan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 74 ayat (1) UU Narkotika, perkara penyalahgunaan dan peredaran gelap narkotika…",
+    "options": [
+      "Disidangkan secara tertutup untuk umum",
+      "Diperiksa oleh hakim tunggal saja",
+      "Wajib diputus paling lama dalam 7 hari",
+      "Didahulukan dari perkara lain"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 74 ayat (1). Penjelasannya: bila ada perkara lain yang juga didahulukan oleh UU, prioritasnya diserahkan kepada pengadilan.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 74 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-putus-tetapkan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Pasal 103 UU Narkotika: bagi pecandu yang TIDAK terbukti bersalah, hakim dapat memerintahkan rehabilitasi dalam bentuk…",
+    "options": [
+      "Surat edaran kepada keluarga",
+      "Penetapan, yang bukan vonis",
+      "Putusan, yang merupakan vonis",
+      "Rekomendasi kepada BNN"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 103 ayat (1) huruf b dan Penjelasannya: kata \"menetapkan\" berarti bukan vonis (hukuman), tetapi pecandu itu tetap wajib menjalani pengobatan dan perawatan. Kaitan dengan pemidanaan pasca-UU 1/2026 perlu dicek.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 103 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-masa-rehab",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Pecandu yang terbukti bersalah diputus menjalani rehabilitasi. Menurut Pasal 103 ayat (2), masa rehabilitasinya…",
+    "options": [
+      "Tidak dihitung sama sekali sebagai masa pidana",
+      "Diperhitungkan sebagai masa menjalani hukuman",
+      "Ditambahkan di luar masa pidana penjara yang dijatuhkan",
+      "Dihitung separuhnya saja sebagai masa pidana"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 103 ayat (2). Penjelasan ayat (1): biaya pengobatan pecandu yang terbukti bersalah menjadi beban negara karena merupakan bagian dari masa menjalani hukuman.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 103 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-hak-masyarakat",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "question": "Mana yang termasuk hak masyarakat dalam pemberantasan narkotika menurut Pasal 106 UU Narkotika?",
+    "options": [
+      "Memperoleh jawaban atas laporannya",
+      "Menangkap tersangka tanpa melibatkan aparat",
+      "Menggeledah rumah warga yang dicurigai",
+      "Menyita sendiri barang bukti yang ditemukan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 106: mencari, memperoleh, dan memberikan informasi; memperoleh pelayanan; menyampaikan saran dan pendapat; memperoleh jawaban atas laporannya; dan memperoleh perlindungan hukum. Penangkapan dan penggeledahan adalah wewenang penyidik.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 106",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-humor-lapor-diri",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "comic",
+      "title": "Lapor diri",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Aku pecandu. Kalau lapor diri, aku langsung dipenjara, kan?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 55: pecandu wajib lapor diri untuk pengobatan dan rehabilitasi."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Lho, lapornya ke puskesmas atau rumah sakit?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Ya, yang ditunjuk Pemerintah. Tujuannya pemulihan."
+        }
+      ]
+    },
+    "caption": "Gosip tongkrongan bilang lapor diri itu sama dengan menyerahkan diri. UU-nya bilang lain.",
+    "teaches": "Pasal 55 UU Narkotika: pecandu yang cukup umur wajib melapor diri atau dilaporkan keluarganya ke puskesmas, rumah sakit, atau lembaga rehabilitasi yang ditunjuk Pemerintah untuk pengobatan dan/atau perawatan melalui rehabilitasi.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 55",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-humor-resep",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "meme",
+      "top": "Bawa obat golongan II dari dokter tanpa resep: \"Santai, saya pasien kok.\"",
+      "bottom": "Pasal 53 ayat (3): pasien harus punya bukti sah, misalnya salinan resep",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Jujur itu bagus. Salinan resep lebih meyakinkan.",
+    "teaches": "Pasal 53 UU Narkotika: pasien boleh memiliki, menyimpan, dan/atau membawa narkotika golongan II/III dari dokter untuk dirinya sendiri, tetapi wajib punya bukti sah (surat keterangan dokter, salinan resep, atau label/etiket).",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 53",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-nark-humor-anjing-pelacak",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "narkotika",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "meme",
+      "top": "Narkotika hanya untuk kesehatan dan iptek.  Anjing pelacak:",
+      "bottom": "Penjelasan Pasal 7: melatih anjing pelacak termasuk kepentingan iptek (pelatihan)",
+      "character": "kancil",
+      "expression": "shock"
+    },
+    "caption": "Satu-satunya pihak yang legal \"sering berurusan\" dengan narkotika di luar tenaga medis: anjing yang rajin latihan.",
+    "teaches": "Pasal 7 UU Narkotika: narkotika hanya untuk pelayanan kesehatan dan/atau iptek. Penjelasannya memasukkan pendidikan dan pelatihan, termasuk melatih anjing pelacak dari Polri, Bea Cukai, dan BNN.",
+    "source": {
+      "title": "UU No. 35 Tahun 2009 tentang Narkotika (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_35_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

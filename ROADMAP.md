@@ -13,7 +13,7 @@ Hal-hal di bawah ini sengaja BELUM dikerjakan. Urutannya kira-kira dari yang pal
 - **Pengukur lebar teks sungguhan** untuk template SVG (sekarang perkiraan per karakter).
 - **Sinkron narasi dengan scene** (durasi scene mengikuti lama ucapan) dan pilihan suara.
 - **Virtualisasi feed** bila pemakaian sangat panjang (ratusan post) terasa berat di ponsel; sekarang hanya `content-visibility: auto`.
-- **Tes komponen di peramban** sebagai bagian CI (sekarang `npm run smoke` dijalankan manual).
+- **Tes komponen terperinci di peramban.** `npm run smoke` sudah jalan di CI sebelum deploy, tetapi hanya cek kasar (error konsol, beberapa teks, screenshot).
 
 ## Fase lanjutan
 

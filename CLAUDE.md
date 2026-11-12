@@ -31,7 +31,7 @@ Rincian: `docs/ANTI-DOOMSCROLL.md`.
 | `npm run lint` | ESLint |
 | `npm test` | Vitest (unit test, tanpa peramban) |
 | `npm run validate:content` | Validasi semua konten + hitung kartu per tipe/topik |
-| `npm run smoke` | Cek peramban dengan Playwright terhadap `preview` (opsional, lihat header skrip) |
+| `npm run smoke` | Cek peramban dengan Playwright terhadap `preview` (juga jalan di CI sebelum deploy) |
 | `npm run icons` | Membuat ulang ikon PWA |
 | `npm run generate:cards` | Generator kartu (butuh `ANTHROPIC_API_KEY`; manual) |
 | `npm run fetch:photos` | Ambil foto Pexels (butuh `PEXELS_API_KEY`; opsional) |

@@ -3,7 +3,7 @@
  * dan menyimpan screenshot ke out/screenshots/.
  *
  * Pakai:  npm run build && npm run preview &   lalu   npm run smoke
- * Butuh paket `playwright` yang bisa di-resolve (mis. NODE_PATH=/path/ke/node_modules) beserta Chromium-nya.
+ * Butuh Chromium untuk paket `playwright` (devDependency): `npx playwright install chromium`. Juga dijalankan di CI sebelum deploy.
  * Bukan bagian dari `npm test` karena butuh peramban.
  */
 import { mkdirSync } from 'node:fs';

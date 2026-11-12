@@ -3496,5 +3496,672 @@
     },
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-tiga-ancaman",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 4 ayat (2) UU 23/2019 (PSDN), ancaman terdiri atas ancaman…",
+    "options": [
+      "Fisik, nonfisik, dan/atau ekonomi",
+      "Dalam negeri, luar negeri, dan campuran",
+      "Militer, nonmiliter, dan/atau hibrida",
+      "Militer, siber, dan/atau ideologi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayat (3) memberi contoh wujudnya, antara lain agresi, terorisme, bencana alam, wabah penyakit, narkoba, dan serangan siber.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-wujud-ancaman",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 4 ayat (3) UU 23/2019, manakah yang disebut sebagai salah satu wujud ancaman?",
+    "options": [
+      "Kemacetan kota",
+      "Wabah penyakit",
+      "Inflasi tahunan",
+      "Pemilu serentak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Daftar Pasal 4 ayat (3) juga memuat bencana alam, kerusakan lingkungan, peredaran narkoba, serangan siber, serta serangan nuklir, biologi, dan kimia.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-usaha-psdn",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 5 ayat (1) UU 23/2019, yang BUKAN salah satu usaha pengelolaan sumber daya nasional untuk pertahanan negara adalah…",
+    "options": [
+      "Penataan Komponen Pendukung negara",
+      "Mobilisasi dan Demobilisasi",
+      "Pembentukan Komponen Cadangan",
+      "Wajib militer semua warga dewasa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Usahanya: Bela Negara, penataan Komponen Pendukung, pembentukan Komponen Cadangan, penguatan Komponen Utama, serta Mobilisasi dan Demobilisasi.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 5",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-empat-jalur",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 6 ayat (2) UU 23/2019, keikutsertaan warga negara dalam bela negara diselenggarakan melalui, KECUALI…",
+    "options": [
+      "Pengabdian sesuai profesi",
+      "Pendidikan kewarganegaraan",
+      "Pembayaran iuran bela negara",
+      "Pelatihan dasar kemiliteran secara wajib"
+    ],
+    "answerIndex": 2,
+    "explanation": "Empat jalurnya: pendidikan kewarganegaraan, pelatihan dasar kemiliteran secara wajib, pengabdian sebagai prajurit TNI secara sukarela atau wajib, dan pengabdian sesuai profesi. Rumusan yang sama ada di Pasal 9 ayat (2) UU 3/2002.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-hak-bela",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 6 ayat (3) UU 23/2019, hak warga negara dalam usaha bela negara berupa, antara lain…",
+    "options": [
+      "Mendaftar jadi calon anggota Komponen Cadangan",
+      "Menolak semua panggilan Mobilisasi tanpa alasan",
+      "Memilih matra TNI yang diinginkan tanpa seleksi",
+      "Memperoleh tunjangan bela negara setiap bulan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hak lainnya: mendapat pendidikan kewarganegaraan melalui Pembinaan Kesadaran Bela Negara dan mendaftar sebagai calon anggota TNI.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-pelatihan-wajib-siapa",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 6 ayat (5) dan Pasal 13 ayat (1) UU 23/2019, pelatihan dasar kemiliteran secara wajib diberlakukan bagi…",
+    "options": [
+      "Calon Komponen Cadangan yang memenuhi syarat",
+      "Seluruh calon ASN yang lulus seleksi kompetensi",
+      "Seluruh warga negara berusia 18 tahun ke atas",
+      "Seluruh mahasiswa tahun pertama di perguruan tinggi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Jadi \"wajib\" di sini bukan wajib militer umum; ia melekat pada orang yang sudah mendaftar dan memenuhi syarat sebagai calon Komponen Cadangan.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 6, 13",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-lingkup-pkbn",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 7 ayat (2) UU 23/2019, Pembinaan Kesadaran Bela Negara diselenggarakan di lingkup…",
+    "options": [
+      "Pendidikan, masyarakat, pekerjaan",
+      "Darat, laut, udara, dan ruang siber",
+      "Keluarga, sekolah, dan tempat ibadah",
+      "Pusat, provinsi, dan kabupaten/kota"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lingkup pendidikan lewat sistem pendidikan nasional (Pasal 8), lingkup masyarakat untuk tokoh agama, adat, kader organisasi, dan lainnya (Pasal 9), lingkup pekerjaan untuk pegawai lembaga negara hingga badan usaha swasta (Pasal 10).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 7, 8, 9, 10",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-nilai-dasar",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 7 ayat (3) UU 23/2019, yang termasuk nilai dasar bela negara adalah…",
+    "options": [
+      "Kemampuan awal bela negara",
+      "Kepatuhan pada atasan",
+      "Ketangkasan menembak tepat",
+      "Disiplin baris-berbaris rutin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lima nilai dasar: cinta tanah air; sadar berbangsa dan bernegara; setia pada Pancasila sebagai ideologi negara; rela berkorban untuk bangsa dan negara; kemampuan awal Bela Negara.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-pkbn-pekerjaan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 10 UU 23/2019, Pembinaan Kesadaran Bela Negara lingkup pekerjaan ditujukan juga bagi warga negara yang bekerja pada…",
+    "options": [
+      "Sektor informal saja",
+      "Rumah tangga sendiri",
+      "Badan usaha swasta",
+      "Luar negeri saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Daftarnya: lembaga negara, kementerian/LPNK dan pemda, TNI, Polri, BUMN/BUMD, badan usaha swasta, dan badan lain sesuai peraturan.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-profesi-nonmiliter",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 15 UU 23/2019, pengabdian sesuai profesi untuk menghadapi ancaman militer dan hibrida dilakukan melalui keanggotaan…",
+    "options": [
+      "Komponen Cadangan dan/atau Komponen Pendukung",
+      "Satuan pengamanan swasta di tempat kerja",
+      "Organisasi profesi yang terdaftar di Kemenhan",
+      "Komponen Utama dan/atau satuan TNI teritorial"
+    ],
+    "answerIndex": 0,
+    "explanation": "Untuk ancaman nonmiliter, pengabdian sesuai profesi dikoordinasikan oleh kementerian/lembaga di luar bidang pertahanan sesuai bidangnya (Pasal 15 ayat (4)).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 15",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-komponen-pendukung",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 17 ayat (1) UU 23/2019, Komponen Pendukung terdiri atas warga negara, sumber daya alam, sumber daya buatan, dan…",
+    "options": [
+      "Sarana-prasarana nasional",
+      "Industri senjata milik asing",
+      "Prajurit TNI aktif",
+      "Anggaran pertahanan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Komponen Pendukung adalah wadah keikutsertaan warga negara secara sukarela dan pemanfaatan sumber daya untuk pertahanan negara (ayat (2)).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 17",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-polri-pendukung",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 20 ayat (1) UU 23/2019, Komponen Pendukung unsur warga negara terdiri atas, antara lain…",
+    "options": [
+      "Anggota Polri, warga terlatih, tenaga ahli",
+      "Prajurit TNI aktif, purnawirawan, dan veteran",
+      "ASN, anggota DPR, dan kepala daerah",
+      "Pelajar, mahasiswa, dan guru saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ditambah \"warga lain unsur Warga Negara\". Perhatikan: Polri masuk Komponen Pendukung, sedangkan TNI adalah Komponen Utama.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 20",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-komcad-sukarela",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 28 ayat (2) UU 23/2019, Komponen Cadangan dari unsur warga negara merupakan pengabdian yang bersifat…",
+    "options": [
+      "Turun-temurun",
+      "Wajib bagi pria",
+      "Wajib bagi ASN",
+      "Sukarela"
+    ],
+    "answerIndex": 3,
+    "explanation": "Komponen Cadangan dari unsur sumber daya alam, buatan, serta sarana dan prasarana nasional merupakan pemanfaatan dalam usaha pertahanan negara.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 28",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-fungsi-komcad",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 29 UU 23/2019, Komponen Cadangan disiapkan untuk dikerahkan melalui Mobilisasi guna…",
+    "options": [
+      "Membantu pemungutan pajak di daerah",
+      "Memperbesar dan memperkuat Komponen Utama",
+      "Menggantikan TNI dalam keadaan damai",
+      "Menjaga keamanan dan ketertiban masyarakat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pengerahannya untuk menghadapi ancaman militer dan ancaman hibrida.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 29",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-matra",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 31 UU 23/2019, Komponen Cadangan unsur warga negara dikelompokkan menjadi matra…",
+    "options": [
+      "Darat, laut, dan udara",
+      "Pusat dan daerah",
+      "Darat, laut, udara, dan siber",
+      "Tempur dan nontempur"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tahapan pembentukannya: pendaftaran, seleksi, pelatihan dasar kemiliteran, dan penetapan (Pasal 32).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 31, 32",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-usia-daftar",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 33 ayat (2) UU 23/2019, usia pendaftar calon Komponen Cadangan adalah…",
+    "options": [
+      "18 sampai 48 tahun",
+      "21 sampai 40 tahun",
+      "17 sampai 30 tahun",
+      "18 sampai 35 tahun"
+    ],
+    "answerIndex": 3,
+    "explanation": "Syarat lain: beriman dan bertakwa kepada Tuhan YME, setia pada NKRI berdasarkan Pancasila dan UUD 1945, sehat jasmani dan rohani, dan tanpa catatan kriminalitas tertulis dari Polri. Batas 48 tahun adalah usia akhir pengabdian (Pasal 47).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 33, 47",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-latsar-3-bulan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 35 ayat (1) UU 23/2019, calon Komponen Cadangan yang lulus seleksi wajib mengikuti pelatihan dasar kemiliteran selama…",
+    "options": [
+      "3 bulan",
+      "6 bulan",
+      "1 bulan",
+      "1 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Selama pelatihan, mereka berhak atas uang saku, perlengkapan perseorangan lapangan, rawatan kesehatan, serta jaminan kecelakaan kerja dan kematian (Pasal 36).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 35, 36",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-asn-tetap-kerja",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Seorang ASN mengikuti pelatihan dasar kemiliteran sebagai calon Komponen Cadangan. Menurut Pasal 37 UU 23/2019…",
+    "options": [
+      "Ia wajib mengundurkan diri sebagai ASN sebelum pelatihan dimulai",
+      "Ia harus mengambil cuti di luar tanggungan negara selama pelatihan",
+      "Ia diberhentikan sementara sebagai ASN sampai pelatihan selesai",
+      "Ia tetap dapat hak ketenagakerjaan dan tidak putus hubungan kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hal yang sama berlaku bagi pekerja/buruh. Mahasiswa tetap memperoleh hak akademisnya dan tidak kehilangan status peserta didik.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 37",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-masa-aktif",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 44 UU 23/2019, masa aktif Komponen Cadangan adalah masa pengabdian saat…",
+    "options": [
+      "Ikut pelatihan penyegaran dan/atau Mobilisasi",
+      "Berada di luar negeri untuk tugas belajar",
+      "Bekerja pada pekerjaan atau profesinya yang semula",
+      "Menunggu hasil seleksi administratif"
+    ],
+    "answerIndex": 0,
+    "explanation": "Masa tidak aktif adalah masa ketika ia melaksanakan pekerjaan atau profesi semula. Selama masa aktif diberlakukan hukum militer (Pasal 46).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 43, 44",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-usia-akhir",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 47 UU 23/2019, Komponen Cadangan melaksanakan pengabdian sampai usia paling tinggi…",
+    "options": [
+      "35 tahun",
+      "48 tahun",
+      "58 tahun",
+      "60 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mencapai usia 48 tahun adalah salah satu alasan diberhentikan dengan hormat (Pasal 49 ayat (1)).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 47, 49",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-mobilisasi-dpr",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 63 UU 23/2019, Presiden dapat menyatakan Mobilisasi bila wilayah dalam keadaan darurat militer atau perang, dengan…",
+    "options": [
+      "Pertimbangan MA",
+      "Persetujuan MPR",
+      "Persetujuan DPR",
+      "Persetujuan DPD"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mobilisasi dikenakan terhadap Komponen Cadangan; Komponen Pendukung yang dikenai Mobilisasi harus ditingkatkan statusnya menjadi Komponen Cadangan (Pasal 64).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 63, 64",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-pendukung-nonkombatan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 65 UU 23/2019, Komponen Pendukung yang tidak ditingkatkan statusnya menjadi Komponen Cadangan pada saat Mobilisasi bersifat…",
+    "options": [
+      "Kombatan",
+      "Nonkombatan",
+      "Cadangan tempur",
+      "Pasukan khusus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mereka wajib memberi dukungan saat Mobilisasi, dikoordinasikan oleh kementerian/lembaga sesuai tugas dan fungsinya.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 65",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-hakikat-semesta",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 2 UU 3/2002 tentang Pertahanan Negara, hakikat pertahanan negara adalah segala upaya pertahanan yang bersifat…",
+    "options": [
+      "Militeristik",
+      "Regional",
+      "Defensif aktif",
+      "Semesta"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penyelenggaraannya didasarkan pada kesadaran atas hak dan kewajiban warga negara serta keyakinan pada kekuatan sendiri.",
+    "source": {
+      "title": "UU No. 3 Tahun 2002 tentang Pertahanan Negara",
+      "reference": "Pasal 2",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_2002.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-ancaman-nonmiliter",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 7 ayat (3) UU 3/2002, dalam menghadapi ancaman nonmiliter, unsur utamanya adalah…",
+    "options": [
+      "Kepolisian Negara Republik Indonesia",
+      "Komponen Cadangan yang dimobilisasi",
+      "Tentara Nasional Indonesia bersama Polri",
+      "Lembaga pemerintah di luar pertahanan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Untuk ancaman militer, TNI ditempatkan sebagai komponen utama dengan didukung komponen cadangan dan komponen pendukung (ayat (2)).",
+    "source": {
+      "title": "UU No. 3 Tahun 2002 tentang Pertahanan Negara",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_2002.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-tugas-tni",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 10 ayat (3) UU 3/2002, salah satu tugas TNI dalam melaksanakan kebijakan pertahanan negara adalah…",
+    "options": [
+      "Menyidik tindak pidana umum",
+      "Mengelola anggaran pendidikan",
+      "Menegakkan hukum lalu lintas di jalan raya",
+      "Melaksanakan Operasi Militer Selain Perang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tugas lainnya: mempertahankan kedaulatan dan keutuhan wilayah, melindungi kehormatan dan keselamatan bangsa, dan ikut aktif dalam pemeliharaan perdamaian regional dan internasional.",
+    "source": {
+      "title": "UU No. 3 Tahun 2002 tentang Pertahanan Negara",
+      "reference": "Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_2002.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-humor-bela-negara-rebahan",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Bela negara dari kasur",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Bela negara? Itu urusan tentara."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 6: ada jalur pengabdian sesuai profesi."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Termasuk admin rebahan?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Profesi, bukan posisi."
+        }
+      ]
+    },
+    "caption": "Kasurnya nyaman, dalilnya lemah.",
+    "teaches": "Pasal 6 ayat (2) UU 23/2019: keikutsertaan warga negara dalam bela negara melalui pendidikan kewarganegaraan, pelatihan dasar kemiliteran secara wajib (bagi calon Komponen Cadangan), pengabdian sebagai prajurit TNI, dan pengabdian sesuai profesi.",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-bn2-humor-komcad-usia",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bela-negara",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Daftar Komponen Cadangan umur 36",
+      "bottom": "Pasal 33: maksimal 35. Semangatnya disimpan dulu.",
+      "character": "kancil",
+      "expression": "happy"
+    },
+    "caption": "Jiwa muda tidak dihitung dari KTP, tapi pendaftarannya iya.",
+    "teaches": "Pasal 33 ayat (2) UU 23/2019: pendaftar calon Komponen Cadangan berusia minimal 18 dan maksimal 35 tahun. Setelah ditetapkan, pengabdiannya paling lama sampai usia 48 tahun (Pasal 47).",
+    "source": {
+      "title": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+      "reference": "Pasal 33, 47",
+      "url": "https://www.datahukum.com/peraturan/UU_23_Tahun_2019.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

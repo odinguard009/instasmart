@@ -66,6 +66,18 @@ await visit('04-feed-tanpa-batas', '/', async () => {
   await expectText('Target harian tercapai');
 });
 await visit('05-reels', '/reels', () => page.waitForTimeout(2500));
+await visit('05-reels-tanpa-batas', '/reels', async () => {
+  const slides = () => page.locator('section[aria-label^="Reel dari"]').count();
+  const before = await slides();
+  const scroller = page.locator('main .snap-y');
+  for (let i = 0; i < 12; i++) {
+    await scroller.evaluate((node) => node.scrollBy(0, node.clientHeight));
+    await page.waitForTimeout(250);
+  }
+  const after = await slides();
+  if (after <= before) errors.push(`[cek] reels tidak bertambah saat digulir (${before} -> ${after})`);
+  else console.log(`ok   reels bertambah otomatis: ${before} -> ${after}`);
+});
 await visit('06-jelajah', '/jelajah', () => expectText('kartu'));
 await visit('07-jelajah-cari', '/jelajah', async () => {
   await page.getByPlaceholder('Cari pasal, konsep, atau kata kunci').fill('1320');

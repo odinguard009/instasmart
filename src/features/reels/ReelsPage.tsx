@@ -1,26 +1,38 @@
-/** Tab Reels: video vertikal layar penuh, snap per item. Isinya reel dari rencana hari ini, lalu kartu penutup. */
-import { useEffect } from 'react';
+/**
+ * Tab Reels: video vertikal layar penuh, snap per item. Tanpa batas (instruksi pemilik repo): reel dari rencana
+ * hari ini dulu, lalu pustaka reel diacak dan didaur ulang (src/domain/reelQueue.ts).
+ */
+import { Fragment, useEffect, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { VideoMedia } from '@/cards/media/VideoMedia';
 import { AccountAvatar } from '@/components/AccountAvatar';
 import { Icon } from '@/components/Icon';
 import { topicPaletteOf } from '@/content/lookup';
-import { effectiveStatus } from '@/domain/moderation';
+import { library } from '@/content';
+import { effectiveStatus, eligibleCards } from '@/domain/moderation';
+import { reelQueue, type QueuedReel } from '@/domain/reelQueue';
+import { todayKey } from '@/lib/date';
 import { useInView } from '@/lib/useInView';
 import { ReelPlayer } from '@/reels/ReelPlayer';
 import { planReels, type PlanReel } from '@/state/selectors';
 import { useActions, useStore } from '@/state/store';
 
-function ReelSlide({ reel }: { reel: PlanReel }) {
-  const { card, key } = reel;
+/** Jumlah reel yang ditambahkan ke antrean setiap kali mendekati ujung. */
+const REELS_PAGE = 8;
+
+function ReelSlide({ reel }: { reel: QueuedReel & { card: PlanReel['card'] } }) {
+  const { card, key, fromPlan } = reel;
   const [ref, inView] = useInView<HTMLElement>(0.7);
   const favorite = useStore((s) => s.favorites[card.id]);
   const draft = useStore((s) => effectiveStatus(card, s.moderation) !== 'approved');
-  const { consumeItem, toggleFavorite } = useActions();
+  const { consumeItem, viewCard, toggleFavorite } = useActions();
 
   useEffect(() => {
-    if (inView) consumeItem(key, [card.id]);
-  }, [inView, key, card.id, consumeItem]);
+    if (!inView) return;
+    // Hanya reel dari rencana hari ini yang dihitung ke target; reel tambahan cukup tercatat dilihat.
+    if (fromPlan) consumeItem(key, [card.id]);
+    else viewCard(card.id);
+  }, [inView, fromPlan, key, card.id, consumeItem, viewCard]);
 
   return (
     <section ref={ref} className="relative h-full w-full shrink-0 snap-start snap-always bg-black" aria-label={`Reel dari ${card.account}`}>
@@ -56,23 +68,53 @@ function ReelSlide({ reel }: { reel: PlanReel }) {
   );
 }
 
+/** Penanda dua slide sebelum ujung: memanjangkan antrean sebelum pengguna sampai di sana. */
+function MoreReels({ onMore }: { onMore: () => void }) {
+  const [ref, inView] = useInView<HTMLDivElement>(0);
+  useEffect(() => {
+    if (inView) onMore();
+  }, [inView, onMore]);
+  return <div ref={ref} aria-hidden className="h-px w-full shrink-0" />;
+}
+
 export function ReelsPage() {
   const plan = useStore((s) => s.day?.plan);
-  const reels = plan ? planReels(plan) : [];
+  const moderation = useStore((s) => s.moderation);
+  const showUnverified = useStore((s) => s.settings.showUnverified);
+  const [length, setLength] = useState(REELS_PAGE);
+  const fromPlan = useMemo(() => (plan ? planReels(plan).map((reel) => ({ key: reel.key, cardId: reel.card.id })) : []), [plan]);
+  const libraryIds = useMemo(() => eligibleCards(library.cards, moderation, showUnverified).filter((card) => card.type === 'reel' || card.type === 'video').map((card) => card.id), [moderation, showUnverified]);
+  const queue = useMemo(
+    () =>
+      reelQueue(fromPlan, libraryIds, Math.max(length, fromPlan.length), `reels:${todayKey()}`).flatMap((item) => {
+        const card = library.cardById.get(item.cardId);
+        return card && (card.type === 'reel' || card.type === 'video') ? [{ ...item, card }] : [];
+      }),
+    [fromPlan, libraryIds, length],
+  );
+
   return (
-    <div className="no-scrollbar h-full snap-y snap-mandatory overflow-y-auto bg-black">
-      {reels.map((reel) => (
-        <ReelSlide key={reel.key} reel={reel} />
-      ))}
-      <section className="grid h-full w-full shrink-0 snap-start place-items-center px-8 text-center text-white">
-        <div>
-          <h2 className="text-2xl font-black">{reels.length === 0 ? 'Belum ada reel hari ini' : 'Reels hari ini habis'}</h2>
-          <p className="mt-2 text-sm opacity-80">Tidak ada putaran tanpa akhir di sini. Reel baru datang bersama feed besok.</p>
-          <Link to="/jelajah" className="mt-5 inline-grid h-12 place-items-center rounded-xl bg-white px-5 font-bold text-black">
-            Cari reel tertentu di Jelajah
-          </Link>
-        </div>
-      </section>
+    <div className="relative h-full bg-black">
+      <h1 className="pointer-events-none absolute left-4 top-5 z-10 text-xl font-black text-white drop-shadow">Reels</h1>
+      <div className="no-scrollbar h-full snap-y snap-mandatory overflow-y-auto">
+        {queue.map((reel, index) => (
+          <Fragment key={reel.key}>
+            {index === queue.length - 2 && <MoreReels key={`more-${queue.length}`} onMore={() => setLength(queue.length + REELS_PAGE)} />}
+            <ReelSlide reel={reel} />
+          </Fragment>
+        ))}
+        {queue.length === 0 && (
+          <section className="grid h-full w-full place-items-center px-8 text-center text-white">
+            <div>
+              <h2 className="text-2xl font-black">Belum ada reel yang bisa ditampilkan</h2>
+              <p className="mt-2 text-sm opacity-80">Nyalakan "Tampilkan kartu yang belum diverifikasi" di Profil, atau setujui reel di halaman Review.</p>
+              <Link to="/profil" className="mt-5 inline-grid h-12 place-items-center rounded-xl bg-white px-5 font-bold text-black">
+                Buka Profil
+              </Link>
+            </div>
+          </section>
+        )}
+      </div>
     </div>
   );
 }

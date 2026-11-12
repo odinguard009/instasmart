@@ -1,10 +1,11 @@
 import type { VisualOf } from '@/content/schema';
 import { Character } from '../characters/mascots';
 import { SvgText } from '../SvgText';
-import { layoutText } from '../text';
+import type { Frame } from '../frame';
+import { layoutText, type TextLayout } from '../text';
 import { Backdrop, type TemplateProps } from './shared';
 
-interface Box {
+export interface Box {
   x: number;
   y: number;
   w: number;
@@ -29,11 +30,20 @@ function panelBoxes(count: number, area: Box, stacked: boolean): Box[] {
   });
 }
 
-/** Panel komik 3-4 kotak: maskot + balon ucapan per panel. */
-export function ComicTemplate({ visual, palette, frame }: TemplateProps<VisualOf<'comic'>>) {
+/** Tata letak judul dan kotak panel; diekspor agar tes bisa memastikan tidak ada teks yang terpotong. */
+export function comicLayout(visual: VisualOf<'comic'>, frame: Frame): { title: TextLayout | null; boxes: Box[] } {
   const title = visual.title ? layoutText(visual.title, { maxWidth: frame.w - EDGE * 2, maxLines: 1, sizes: [56, 48, 40], caps: true }) : null;
   const top = title ? EDGE + title.height + 24 : EDGE;
-  const boxes = panelBoxes(visual.panels.length, { x: EDGE, y: top, w: frame.w - EDGE * 2, h: frame.h - top - EDGE }, frame.h > frame.w);
+  return { title, boxes: panelBoxes(visual.panels.length, { x: EDGE, y: top, w: frame.w - EDGE * 2, h: frame.h - top - EDGE }, frame.h > frame.w) };
+}
+
+export function bubbleLayout(text: string, box: Box): TextLayout {
+  return layoutText(text, { maxWidth: box.w - 100, maxLines: 4, sizes: [44, 38, 33, 29] });
+}
+
+/** Panel komik 3-4 kotak: maskot + balon ucapan per panel. */
+export function ComicTemplate({ visual, palette, frame }: TemplateProps<VisualOf<'comic'>>) {
+  const { title, boxes } = comicLayout(visual, frame);
   return (
     <g>
       <Backdrop palette={palette} frame={frame} />
@@ -41,7 +51,7 @@ export function ComicTemplate({ visual, palette, frame }: TemplateProps<VisualOf
       {visual.panels.map((panel, index) => {
         const box = boxes[index];
         if (!box) return null;
-        const bubble = layoutText(panel.text, { maxWidth: box.w - 100, maxLines: 4, sizes: [44, 38, 33, 29] });
+        const bubble = bubbleLayout(panel.text, box);
         const bubbleHeight = bubble.height + 44;
         const size = Math.min(box.h - bubbleHeight - 60, box.w * 0.6);
         const characterX = index % 2 === 0 ? box.x + 30 : box.x + box.w - size - 30;

@@ -2,6 +2,7 @@ import type { VisualOf } from '@/content/schema';
 import { Character } from '../characters/mascots';
 import { SvgText } from '../SvgText';
 import { layoutText, type TextLayout } from '../text';
+import type { Frame } from '../frame';
 import { Backdrop, Watermark, type TemplateProps } from './shared';
 
 function MemeText({ layout, x, y }: { layout: TextLayout; x: number; y: number }) {
@@ -12,11 +13,15 @@ function MemeText({ layout, x, y }: { layout: TextLayout; x: number; y: number }
   );
 }
 
+/** Tata letak teks meme; diekspor agar tes bisa memastikan tidak ada teks yang terpotong. */
+export function memeTextLayouts(visual: VisualOf<'meme'>, frame: Frame): { top: TextLayout; bottom: TextLayout | null } {
+  const options = { maxWidth: frame.w - 110, maxLines: 3, sizes: [78, 68, 58, 50], caps: true, lineHeight: 1.12 };
+  return { top: layoutText(visual.top, options), bottom: visual.bottom ? layoutText(visual.bottom, options) : null };
+}
+
 /** "Meme" dengan maskot: teks atas, karakter, teks bawah (punchline). */
 export function MemeTemplate({ visual, palette, frame }: TemplateProps<VisualOf<'meme'>>) {
-  const options = { maxWidth: frame.w - 110, maxLines: 3, sizes: [78, 68, 58, 50], caps: true, lineHeight: 1.12 };
-  const top = layoutText(visual.top, options);
-  const bottom = visual.bottom ? layoutText(visual.bottom, options) : null;
+  const { top, bottom } = memeTextLayouts(visual, frame);
   const bottomHeight = bottom ? bottom.height + 70 : 60;
   const size = Math.min(frame.w - 280, frame.h - top.height - bottomHeight - 150);
   const characterTop = 70 + top.height + (frame.h - 70 - top.height - bottomHeight - size) / 2;

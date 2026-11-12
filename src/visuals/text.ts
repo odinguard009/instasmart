@@ -50,6 +50,8 @@ export interface TextLayout {
   lineHeight: number;
   /** Tinggi blok teks. */
   height: number;
+  /** True bila teks tidak muat dan dipotong dengan elipsis. */
+  truncated: boolean;
 }
 
 export function layoutText(rawText: string, options: TextLayoutOptions): TextLayout {
@@ -69,10 +71,11 @@ export function layoutText(rawText: string, options: TextLayoutOptions): TextLay
   // Utamakan ukuran yang tidak memotong kata di tengah; baru longgarkan jika tidak ada yang muat.
   const fontSize = options.sizes.find((size) => fits(size, false)) ?? options.sizes.find((size) => fits(size, true)) ?? smallest;
   let lines = wrapAt(fontSize);
-  if (lines.length > options.maxLines) {
+  const truncated = lines.length > options.maxLines;
+  if (truncated) {
     lines = lines.slice(0, options.maxLines);
     const last = lines[lines.length - 1] ?? '';
     lines[lines.length - 1] = `${last.replace(/[\s.,;:]+$/, '')}…`;
   }
-  return { fontSize, lines, lineHeight, height: lines.length * fontSize * lineHeight };
+  return { fontSize, lines, lineHeight, height: lines.length * fontSize * lineHeight, truncated };
 }

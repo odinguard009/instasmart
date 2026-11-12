@@ -745,5 +745,456 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "internasional-hln-bebas-aktif",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 3 UU 37/1999, Politik Luar Negeri Indonesia menganut prinsip…",
+    "options": [
+      "Bebas aktif untuk kepentingan nasional",
+      "Kolektif bersama negara-negara ASEAN",
+      "Nonblok permanen yang dijamin perjanjian",
+      "Netral pasif, tidak memihak blok mana pun juga"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 3. Pasal 4 menambahkan: dilaksanakan melalui diplomasi yang kreatif, aktif, antisipatif, teguh dalam prinsip, rasional dan luwes dalam pendekatan.",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 3-4",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-pelaku",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut definisi Pasal 1 angka 1, siapa yang dapat melakukan kegiatan Hubungan Luar Negeri?",
+    "options": [
+      "Pemerintah, badan usaha, ormas, LSM, sampai WNI",
+      "Hanya Presiden dan Menteri Luar Negeri beserta stafnya",
+      "Hanya lembaga negara yang disebut dalam UUD",
+      "Hanya Kementerian Luar Negeri dan perwakilannya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 angka 1: setiap kegiatan aspek regional dan internasional oleh pemerintah pusat dan daerah, lembaga negara, badan usaha, organisasi politik, ormas, LSM, atau WNI. Pasal 5 ayat (2): semuanya terikat pada Politik Luar Negeri dan hukum yang berlaku.",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 1 angka 1 dan Pasal 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-presiden",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Kewenangan penyelenggaraan Hubungan Luar Negeri dan pelaksanaan Politik Luar Negeri menurut Pasal 6 ayat (1) berada di tangan…",
+    "options": [
+      "DPR",
+      "Menteri Luar Negeri",
+      "Presiden",
+      "MPR"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 6 ayat (1). Presiden dapat melimpahkannya kepada Menteri (ayat (2)). Menyatakan perang, membuat perdamaian, dan perjanjian dengan negara lain memerlukan persetujuan DPR.",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-buka-hubungan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Pembukaan atau pemutusan hubungan diplomatik dengan negara lain ditetapkan oleh…",
+    "options": [
+      "DPR melalui undang-undang tersendiri",
+      "Menteri Luar Negeri dengan keputusan menteri",
+      "MPR dalam sidang tahunan",
+      "Presiden dengan memperhatikan pendapat DPR"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 9 ayat (1); berlaku juga untuk masuk atau keluar dari keanggotaan organisasi internasional. Pembukaan dan penutupan kantor perwakilan ditetapkan dengan Keputusan Presiden (ayat (2)).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-pasukan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Pengiriman pasukan atau misi pemeliharaan perdamaian menurut Pasal 10 UU 37/1999 ditetapkan oleh…",
+    "options": [
+      "Menteri Luar Negeri atas usul Panglima TNI",
+      "Presiden dengan memperhatikan pendapat DPR",
+      "Dewan Keamanan PBB tanpa keputusan nasional",
+      "Panglima TNI dengan persetujuan Menteri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 10. Kata kuncinya 'memperhatikan pendapat DPR', berbeda dengan 'persetujuan DPR' untuk menyatakan perang (Pasal 6 ayat (1)).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-konsultasi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Sebuah kementerian berencana membuat perjanjian internasional. Menurut Pasal 13, sebelum itu ia wajib…",
+    "options": [
+      "Meminta fatwa Mahkamah Agung lebih dahulu",
+      "Berkonsultasi dulu dengan Menteri Luar Negeri",
+      "Mengumumkan rencananya di Berita Negara RI",
+      "Meminta persetujuan DPR terlebih dahulu secara tertulis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 13. Pejabatnya yang akan menandatangani juga harus mendapat Surat Kuasa dari Menteri (Pasal 14). Pembuatan dan pengesahan perjanjian diatur UU tersendiri (Pasal 15), yaitu UU 24/2000.",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 13-15",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-surat-kuasa",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Pejabat suatu kementerian akan menandatangani perjanjian dengan pemerintah negara lain. Dokumen apa yang harus ia peroleh menurut Pasal 14?",
+    "options": [
+      "Surat kepercayaan dari Ketua DPR",
+      "Eksekuatur dari negara mitra",
+      "Surat kuasa dari Menteri Luar Negeri",
+      "Surat tauliah dari Presiden Republik Indonesia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 14. Surat tauliah dan eksekuatur berkaitan dengan konsul (Pasal 37-38), surat kepercayaan dengan duta besar (Pasal 35).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 14",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-perlindungan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "WNI di suatu negara terancam bahaya nyata (misalnya perang saudara). Kewajiban Perwakilan RI menurut Pasal 21 adalah…",
+    "options": [
+      "Melindungi dan memulangkan mereka atas biaya negara",
+      "Hanya mencatat nama mereka dan melapor ke Jakarta",
+      "Menyerahkan seluruh urusan itu kepada Palang Merah",
+      "Memulangkan mereka asalkan mereka membayar sendiri tiketnya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 21: memberikan perlindungan, membantu, menghimpun di wilayah aman, dan mengusahakan pemulangan ke Indonesia atas biaya negara. Pelaksanaannya lewat kerja sama dengan pemerintah setempat, negara lain, atau organisasi internasional (Pasal 23).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 21 dan 23",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-pencatatan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Perwakilan RI akan mencatat perkawinan dua WNI yang menikah di luar negeri. Menurut Pasal 24 ayat (2), syaratnya…",
+    "options": [
+      "Perkawinan sudah dilakukan sesuai hukum setempat",
+      "Perkawinan diulang di kantor perwakilan RI",
+      "Perkawinan disahkan lebih dulu oleh pengadilan RI",
+      "Kedua WNI telah tinggal di sana minimal 5 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 24 ayat (2): pencatatan perkawinan dan perceraian hanya dapat dilakukan bila keduanya sudah dilakukan sesuai hukum setempat, sepanjang hukum asing itu tidak bertentangan dengan peraturan perundang-undangan Indonesia.",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 24",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-suaka",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Kewenangan pemberian suaka kepada orang asing menurut Pasal 25 berada di tangan…",
+    "options": [
+      "Presiden, memperhatikan pertimbangan Menteri",
+      "Menteri Hukum melalui Direktorat Jenderal Imigrasi",
+      "UNHCR yang berkantor perwakilan di Jakarta",
+      "Kepala perwakilan RI tempat permohonan diajukan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 25 ayat (1). Kebijakan masalah pengungsi dari luar negeri juga ditetapkan Presiden dengan memperhatikan pertimbangan Menteri (Pasal 27).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 25 dan 27",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-dubes",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Duta Besar Luar Biasa dan Berkuasa Penuh menurut Pasal 29 adalah…",
+    "options": [
+      "Pegawai PBB yang ditempatkan oleh Indonesia",
+      "Pejabat negara yang diangkat dan diberhentikan Presiden",
+      "PNS karier yang diangkat Menteri Luar Negeri",
+      "Pejabat yang dipilih DPR lewat uji kelayakan dan kepatutan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 29 ayat (1)-(2): pejabat negara, diangkat dan diberhentikan Presiden selaku Kepala Negara, mewakili negara dan menjadi wakil pribadi Presiden. Keterlibatan DPR dalam pengangkatan dubes diatur di UUD 1945 (Pasal 13), bukan di pasal ini.",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 29",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-surat-kepercayaan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Dokumen yang diberikan Presiden kepada Duta Besar RI untuk suatu negara atau organisasi internasional disebut…",
+    "options": [
+      "Eksekuatur",
+      "Surat Tauliah",
+      "Nota diplomatik resmi",
+      "Surat Kepercayaan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 35 ayat (1). Surat Tauliah untuk Konsul Jenderal/Konsul (Pasal 37).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 35 dan 37",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-eksekuatur",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Konsul asing yang akan bertugas di Indonesia baru dapat memulai tugasnya setelah Presiden…",
+    "options": [
+      "Menandatangani Surat Kepercayaan",
+      "Mendapat persetujuan DPR",
+      "Mengeluarkan eksekuatur",
+      "Menerbitkan Keputusan Presiden pengangkatan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 37 ayat (2): Presiden menerima Surat Tauliah konsul asing serta mengeluarkan eksekuatur untuk memulai tugasnya. Hal serupa untuk konsul kehormatan (Pasal 38 ayat (2)).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 37-38",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-kekebalan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Pemberian kekebalan dan hak istimewa kepada perwakilan diplomatik dan organisasi internasional menurut Pasal 16 dilakukan sesuai…",
+    "options": [
+      "Kebijakan masing-masing kepala perwakilan",
+      "Keputusan Menteri Keuangan yang terbit setiap tahun anggaran",
+      "Peraturan nasional serta hukum dan kebiasaan internasional",
+      "Asas timbal balik semata, tanpa dasar tertulis apa pun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 16. Pihak lain yang tidak disebut di Pasal 16 pun dapat diberi pembebasan kewajiban tertentu berdasarkan peraturan nasional (Pasal 17).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 16-17",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-organisasi-int",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 1 angka 5 UU 37/1999, Organisasi Internasional adalah…",
+    "options": [
+      "Setiap LSM yang beroperasi di lebih dari satu negara",
+      "Organisasi apa pun yang berkantor di luar negeri",
+      "Organisasi antar pemerintah",
+      "Perusahaan multinasional"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 5. Jadi LSM internasional tidak termasuk dalam pengertian UU ini.",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 1 angka 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-perang-dpr",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 6 ayat (1), tindakan mana yang memerlukan PERSETUJUAN DPR?",
+    "options": [
+      "Mengangkat pejabat setingkat Duta Besar",
+      "Memberi suaka kepada orang asing",
+      "Membuka kantor konsulat baru",
+      "Menyatakan perang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 6 ayat (1): menyatakan perang, membuat perdamaian, dan perjanjian dengan negara lain. Kantor perwakilan ditetapkan Keppres (Pasal 9 ayat (2)); suaka wewenang Presiden (Pasal 25).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 6 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-humor-dibayar-sendiri",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "comic",
+      "title": "Evakuasi paket hemat",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Di sini rusuh! Tolong pulangkan kami!"
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Boleh. Tiketnya transfer dulu ya, plus biaya admin."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 21: dipulangkan atas biaya negara."
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Wah, padahal brosurnya sudah dicetak."
+        }
+      ]
+    },
+    "caption": "Ada brosur yang lebih kuat dari undang-undang, katanya.",
+    "teaches": "Bila WNI terancam bahaya nyata, Perwakilan RI wajib melindungi, membantu, menghimpun di wilayah aman, dan mengusahakan pemulangan ke Indonesia atas biaya negara (Pasal 21 UU 37/1999).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 21",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-hln-humor-lembaga-semua",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "meme",
+      "top": "Studi banding: 'ini urusan luar negeri, aturan kan tinggal di rumah'",
+      "bottom": "Pasal 5: semua penyelenggara tetap tunduk pada aturan.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Paspor dinas bukan surat bebas aturan.",
+    "teaches": "Hubungan Luar Negeri diselenggarakan sesuai Politik Luar Negeri, peraturan nasional, serta hukum dan kebiasaan internasional, dan berlaku bagi semua penyelenggara, pemerintah maupun non pemerintah (Pasal 5).",
+    "source": {
+      "title": "UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri",
+      "reference": "Pasal 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

@@ -3040,5 +3040,461 @@
     },
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-dr-dokter",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Menurut EYD V, singkatan \"dr.\" dan \"Dr.\" berturut-turut berarti…",
+    "options": [
+      "dokter dan direktur",
+      "doktor dan dokter",
+      "dokter dan doktor",
+      "keduanya dokter"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II F.1: singkatan gelar diikuti titik; contohnya dr. (dokter) dan Dr. (doktor).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.1",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-ktp",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Singkatan dari huruf awal setiap kata, seperti kartu tanda penduduk, ditulis…",
+    "options": [
+      "K.T.P",
+      "Ktp",
+      "KTP",
+      "K.T.P."
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II F.3: singkatan yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik: KTP, NKRI, NIP, SIM.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-dkk-an",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan singkatan surat-menyurat yang benar adalah…",
+    "options": [
+      "dkk, an., sd.",
+      "dkk., a.n., s.d.",
+      "dkk., an, s/d",
+      "d.k.k., a.n, s.d"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bab II F.4.a-b: singkatan lebih dari dua huruf diikuti satu titik (dkk., dll., yth.); singkatan dua huruf diberi titik pada setiap huruf (a.n., s.d., u.p.).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.4",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-rp",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan yang benar menurut EYD V adalah…",
+    "options": [
+      "Rp5.000,00 dan 10 kg",
+      "rp5.000 dan 10 Kg.",
+      "Rp. 5.000,00 dan 10 kg.",
+      "Rp.5.000,- dan 10 Kg"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab II F.5: singkatan satuan ukuran, takaran, timbangan, lambang kimia, dan mata uang tidak diikuti tanda titik (km, kg, Rp). Contoh angka di EYD V ditulis Rp5.000,00 (Bab II G.3).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.5, G.3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-bappenas",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Akronim nama diri dari gabungan suku kata, seperti Badan Perencanaan Pembangunan Nasional, ditulis…",
+    "options": [
+      "Bap-Penas",
+      "BAPPENAS",
+      "Bappenas",
+      "bappenas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II F.6: akronim nama diri dari gabungan huruf dan suku kata ditulis dengan huruf awal kapital: Bappenas, Bulog, Kalteng, Wita.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.6",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-pemilu",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Akronim BUKAN nama diri, seperti pemilihan umum dan pusat kesehatan masyarakat, ditulis…",
+    "options": [
+      "pemilu, puskesmas",
+      "Pemilu, Puskesmas",
+      "pemilu., puskesmas.",
+      "PEMILU, PUSKESMAS"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab II F.7: akronim bukan nama diri ditulis dengan huruf nonkapital: iptek, pemilu, puskesmas, rapim, tilang.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.7",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-inisial",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Singkatan nama orang dalam bentuk inisial, seperti Sapardi Djoko Damono, ditulis…",
+    "options": [
+      "SDD",
+      "S.D.D.",
+      "S.D.D",
+      "S. D. D."
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab II F.2: inisial nama orang ditulis tanpa tanda titik. Bandingkan singkatan nama orang yang diikuti titik pada setiap unsur: A.H. Nasution (F.1).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.1-2",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-alamat",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan alamat yang sesuai EYD V adalah…",
+    "options": [
+      "Jl. Rawamangun No. 9",
+      "Jln Rawamangun no.9",
+      "JL. Rawamangun NO. 9",
+      "Jl Rawamangun No 9"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab II F.4.c: singkatan dalam alamat ditulis dua huruf atau lebih dan diakhiri titik: Jl., Gg., Km., No.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.4.c",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-miring-judul",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Menurut EYD V, huruf miring dipakai untuk menulis…",
+    "options": [
+      "Judul buku dan nama media massa yang dikutip",
+      "Kata yang ingin ditegaskan pada judul bab",
+      "Nama lembaga asing seperti nama organisasi",
+      "Semua nama diri dalam bahasa daerah dan asing"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab I G.1: judul buku, film, album, acara televisi, siniar, lakon, dan nama media massa yang dikutip. Catatan G.3: nama diri (orang, lembaga, organisasi, merek) dalam bahasa asing atau daerah tidak ditulis miring. Bab dan subbab ditegaskan dengan huruf tebal (H.2).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab I G-H",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-miring-asing",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat \"Ungkapan tut wuri handayani merupakan semboyan pendidikan.\" Bagian yang ditulis miring adalah…",
+    "options": [
+      "Tidak ada",
+      "semboyan pendidikan",
+      "tut wuri handayani",
+      "Ungkapan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab I G.3: kata atau ungkapan dalam bahasa daerah dan bahasa asing ditulis dengan huruf miring. Contoh ini diambil dari EYD V.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab I G.3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-tebal",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Huruf tebal menurut EYD V dipakai untuk…",
+    "options": [
+      "Menulis judul buku dan film dalam daftar pustaka",
+      "Menulis kata dari bahasa asing",
+      "Menegaskan bagian yang sudah ditulis miring",
+      "Menulis singkatan nama lembaga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab I H.1-2: huruf tebal menegaskan bagian tulisan yang sudah ditulis miring dan bagian karangan seperti bab atau subbab.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab I H",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-hubung-ke2",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan dengan tanda hubung yang benar adalah…",
+    "options": [
+      "seIndonesia, peringkat ke 2, tahun 2000an",
+      "se-Indonesia, peringkat ke-2, tahun 2000-an",
+      "se-Indonesia, peringkat ke 2, tahun 2000 an",
+      "se Indonesia, peringkat ke2, tahun 2000-an"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bab III E.5: tanda hubung merangkaikan unsur berbeda, yaitu huruf kapital dengan nonkapital dan huruf dengan angka: se-Indonesia, ke-2, 2000-an, S-1, KTP-mu.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III E.5",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-p3k",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Mengapa \"P3K\" ditulis tanpa tanda hubung, padahal ada huruf dan angka?",
+    "options": [
+      "Angkanya melambangkan jumlah huruf",
+      "Karena singkatan resmi pemerintah",
+      "Karena angka ditulis di tengah kata",
+      "Karena terdiri atas tiga huruf saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab III E.6: tanda hubung tidak digunakan di antara huruf dan angka bila angka itu melambangkan jumlah huruf (P3K = pertolongan pertama pada kecelakaan; juga BP2MI, P4TK).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III E.6",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-asing",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kata berimbuhan Indonesia dengan unsur bahasa asing yang ditulis sesuai EYD V adalah…",
+    "options": [
+      "membackup",
+      "mem-back up",
+      "mem back up",
+      "memback up"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bab III E.7: tanda hubung merangkai unsur bahasa Indonesia dengan unsur bahasa daerah, asing, atau slang: mem-back up, di-bokisin.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III E.7",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-titik-dua",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat dengan tanda baca yang benar adalah…",
+    "options": [
+      "Kita memerlukan; kursi, meja, dan lemari.",
+      "Kita memerlukan: kursi, meja, dan lemari.",
+      "Kita memerlukan kursi, meja dan, lemari.",
+      "Kita memerlukan kursi, meja, dan lemari."
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab III D.2: titik dua tidak dipakai bila perincian merupakan bagian dari kalimat lengkap. Titik dua dipakai pada akhir pernyataan LENGKAP yang langsung diikuti perincian (D.1).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III D.1-2",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-pisah",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Tanda baca yang dipakai di antara dua tanggal atau tempat yang berarti 'sampai dengan' adalah…",
+    "options": [
+      "Tanda hubung (-)",
+      "Titik dua (:)",
+      "Garis miring (/)",
+      "Tanda pisah (—)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab III F.3: tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti 'sampai dengan' atau 'sampai ke': 2019—2022, Senin—Jumat, Jakarta—Bandung.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III F.3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-titik-koma",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Perincian yang tiap bagiannya sudah memakai tanda koma dipisahkan dengan…",
+    "options": [
+      "Tanda titik dua",
+      "Tanda pisah",
+      "Tanda titik koma",
+      "Tanda koma sekali lagi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab III C.3: titik koma memisahkan bagian perincian dalam kalimat yang sudah memakai koma, misalnya \"a. pemilihan ketua, sekretaris, dan bendahara; b. ...\".",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III C.3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-humor-gelar",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "visual": {
+      "template": "comic",
+      "title": "Huruf kapital paling mahal",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Tulis namaku pakai Dr. ya, biar wibawa."
+        },
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Dokter atau doktor?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "EYD V: dr. dokter, Dr. doktor. Beda satu huruf, beda bertahun-tahun."
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Yang penting gelarnya panjang, isinya belakangan."
+        }
+      ]
+    },
+    "caption": "Satu huruf kapital, beberapa tahun disertasi.",
+    "teaches": "Singkatan gelar diikuti tanda titik; dr. berarti dokter, Dr. berarti doktor (EYD V Bab II F.1).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.1",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd2-humor-rupiah",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "Proposal kegiatan: 'Anggaran Rp. 50.000.000,- (lima puluh juta rupiah)'",
+      "bottom": "Nominalnya kreatif. Titik setelah Rp juga kreatif.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Biaya boleh dibulatkan, tanda titik jangan ditambahkan.",
+    "teaches": "Singkatan mata uang tidak diikuti tanda titik; EYD V mencontohkan Rp5.000,00 (Bab II F.5 dan G.3).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II F.5, G.3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

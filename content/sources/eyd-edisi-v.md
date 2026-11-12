@@ -63,3 +63,45 @@
 > 5. Tanda koma digunakan di belakang kata atau ungkapan penghubung antarkalimat, seperti oleh karena itu, jadi, dengan demikian, sehubungan dengan itu, dan meskipun demikian.
 
 > 8. Tanda koma tidak digunakan untuk memisahkan petikan langsung yang diakhiri tanda tanya atau tanda seru dari bagian kalimat yang mengikutinya. Misalnya: "Di mana Saudara tinggal?" tanya Pak Lurah.
+
+## Bab I Pemakaian Huruf, G. Huruf Miring dan H. Huruf Tebal
+
+> G.1. Huruf miring digunakan untuk menuliskan judul buku, judul film, judul album lagu, judul acara televisi, judul siniar, judul lakon, dan nama media massa yang dikutip dalam tulisan, termasuk dalam daftar pustaka.
+
+> G.3. Huruf miring digunakan untuk menuliskan kata atau ungkapan dalam bahasa daerah dan bahasa asing. ... Catatan: a. Nama diri, seperti nama orang, lembaga, organisasi, atau merek dagang dalam bahasa asing atau bahasa daerah tidak ditulis dengan huruf miring.
+
+> H.1. Huruf tebal digunakan untuk menegaskan bagian tulisan yang sudah ditulis miring.
+
+## Bab II Penulisan Kata, F. Singkatan
+
+> 1. Singkatan nama orang, gelar, sapaan, atau pangkat diikuti dengan tanda titik di setiap unsur singkatan itu. Misalnya: A.H. Nasution (Abdul Haris Nasution), dr. (dokter), Dr. (doktor), M.Hum. (magister humaniora), S.E. (sarjana ekonomi), Sdr. Lukman (Saudara Lukman)
+
+> 2. Singkatan nama orang dalam bentuk inisial ditulis tanpa tanda titik. Misalnya: SDD (Sapardi Djoko Damono), STA (Sutan Takdir Alisjahbana)
+
+> 3. Singkatan, termasuk akronim, yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik. Misalnya: KTP, KUHP, NKRI, PBB, NIP, SIM
+
+> 4.a. Singkatan yang terdiri atas lebih dari dua huruf yang lazim digunakan dalam dokumen atau surat-menyurat diikuti dengan tanda titik. Misalnya: dkk., dll., dsb., dst., hlm., ttd., ybs., yth.
+
+> 4.b. Singkatan yang terdiri atas dua huruf yang lazim digunakan dalam dokumen atau surat-menyurat diikuti tanda titik pada setiap huruf. Misalnya: a.n. (atas nama), d.a. (dengan alamat), s.d. (sampai dengan), u.b. (untuk beliau), u.p. (untuk perhatian)
+
+> 4.c. Singkatan yang lazim digunakan dalam penulisan alamat dapat ditulis dengan dua huruf atau lebih dan diakhiri tanda titik. Misalnya: Jl. Rawamangun, Gg. Kelinci, Km. 57, No. 9
+
+> 5. Singkatan satuan ukuran, takaran, dan timbangan; lambang kimia; dan mata uang tidak diikuti tanda titik. Misalnya: km, kg, l, Cu, Rp
+
+> 6. Akronim nama diri yang berupa gabungan huruf dan suku kata atau gabungan suku kata dari deret kata ditulis dengan huruf awal kapital. Misalnya: Bappenas, Bulog, Kalteng, Wita
+
+> 7. Akronim bukan nama diri yang berupa gabungan huruf dan suku kata atau gabungan suku kata dari deret kata ditulis dengan huruf nonkapital. Misalnya: iptek, pemilu, puskesmas, rapim, rudal, tilang
+
+## Bab III Pemakaian Tanda Baca: titik koma, titik dua, tanda hubung, tanda pisah
+
+> C.3. Tanda titik koma digunakan untuk memisahkan bagian-bagian perincian dalam kalimat yang sudah menggunakan tanda koma.
+
+> D.2. Tanda titik dua tidak digunakan jika perincian atau penjelasan itu merupakan bagian dari kalimat lengkap. Misalnya: Kita memerlukan kursi, meja, dan lemari.
+
+> E.5. Tanda hubung digunakan untuk merangkaikan unsur yang berbeda, yaitu di antara huruf kapital dan nonkapital serta di antara huruf dan angka. Misalnya: se-Indonesia, peringkat ke-2, tahun 2000-an, hari-H, ber-KTP, ciptaan-Nya, D-3, S-1, KTP-mu
+
+> E.6. Tanda hubung tidak digunakan di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf. Misalnya: BP2MI, P4TK, P3K (pertolongan pertama pada kecelakaan)
+
+> E.7. Tanda hubung digunakan untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah, bahasa asing, atau slang. Misalnya: mem-back up 'menyokong; membantu' (bahasa Inggris), di-bokisin 'dibohongi' (slang)
+
+> F.3. Tanda pisah digunakan di antara dua bilangan, tanggal (hari, bulan, tahun), atau tempat yang berarti 'sampai dengan' atau 'sampai ke'. Misalnya: Tahun 2019—2022, Senin—Jumat, Jakarta—Bandung

@@ -1553,5 +1553,667 @@
     },
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-sifat-sanksi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Menurut Panduan Penegakan KEPPH (PB MA–KY 2012), sanksi atas pelanggaran KEPPH bersifat…",
+    "options": [
+      "Administratif",
+      "Moral semata tanpa akibat pada jabatan atau kepangkatan",
+      "Pidana, sehingga dijatuhkan lewat putusan pengadilan negeri",
+      "Perdata berupa ganti rugi kepada pelapor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 angka 13: sanksi adalah sanksi administratif yang dikenakan kepada hakim yang terbukti melakukan pelanggaran.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 1 angka 13",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-nonpalu",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Dalam Panduan Penegakan KEPPH, \"hakim nonpalu\" berarti hakim yang…",
+    "options": [
+      "Bertugas di bagian administrasi kepaniteraan sejak awal kariernya sebagai hakim",
+      "Sedang menjalani cuti di luar tanggungan negara atas permintaan sendiri",
+      "Belum dilantik sehingga belum boleh memimpin sidang perkara apa pun di pengadilan",
+      "Dijatuhi sanksi tidak boleh memeriksa dan mengadili perkara untuk waktu tertentu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 15.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 1 angka 15",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-mkh",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Majelis Kehormatan Hakim, menurut Panduan Penegakan KEPPH, adalah…",
+    "options": [
+      "Forum mediasi antara pelapor dan hakim terlapor",
+      "Forum pembelaan diri bagi hakim yang diusulkan diberhentikan",
+      "Badan banding atas semua sanksi ringan dan sedang",
+      "Majelis yang memeriksa ulang substansi putusan hakim terlapor"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 14: forum pembelaan diri bagi hakim yang dinyatakan terbukti melanggar dan diusulkan dijatuhi sanksi berat berupa pemberhentian.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 1 angka 14",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-hari",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Tenggang \"hari\" dalam Panduan Penegakan KEPPH dihitung sebagai…",
+    "options": [
+      "Hari sidang",
+      "Hari kerja",
+      "Hari kalender",
+      "Hari kerja ditambah hari libur nasional yang jatuh di tengah minggu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 19.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 1 angka 19",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-pensiun",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Dalam Panduan Penegakan KEPPH, \"pemberhentian tetap dengan hak pensiun\" dimaknai sebagai…",
+    "options": [
+      "Pemberhentian sementara",
+      "Pensiun dini atas permintaan sendiri",
+      "Pemberhentian tidak dengan hormat",
+      "Pemberhentian dengan hormat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 18, yang merujuk UU 18/2011 tentang Perubahan UU Komisi Yudisial.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 1 angka 18",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-tujuan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Panduan Penegakan KEPPH bertujuan menciptakan…",
+    "options": [
+      "Jumlah sanksi yang lebih banyak setiap tahun",
+      "Kepastian dan kesepahaman dalam penerapan KEPPH",
+      "Kewenangan KY untuk mengangkat hakim tingkat pertama",
+      "Pengawasan atas isi pertimbangan hukum putusan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 ayat (2).",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 2 ayat (2)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-yurisdiksi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Pasal 15 Panduan Penegakan KEPPH: dalam pengawasan, MA dan KY tidak dapat…",
+    "options": [
+      "Menerima laporan masyarakat tentang perilaku hakim",
+      "Menyatakan benar atau salahnya pertimbangan yuridis dan substansi putusan",
+      "Memanggil hakim terlapor untuk dimintai klarifikasi atas laporan masyarakat",
+      "Menjatuhkan sanksi kepada hakim ad hoc yang terbukti melanggar kode etik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 15. Pengawasan etik menyasar perilaku hakim, bukan isi putusan; isi putusan diuji lewat upaya hukum.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 15",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-disiplin-profesional",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Dugaan pelanggaran prinsip berdisiplin tinggi dan bersikap profesional (Pasal 12 dan 14 PB) diperiksa oleh…",
+    "options": [
+      "Ketua pengadilan negeri tempat hakim bertugas, tanpa usulan dari lembaga lain",
+      "KY sendiri, tanpa melibatkan MA dalam tahap pemeriksaan apa pun",
+      "MA, atau MA bersama KY bila ada usulan pemeriksaan bersama dari KY",
+      "Majelis Kehormatan Hakim sejak tahap awal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 16.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 16",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-hukum-acara",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Bila KY menerima laporan dugaan pelanggaran kode etik yang juga merupakan pelanggaran hukum acara, KY…",
+    "options": [
+      "Wajib membatalkan putusan yang bersangkutan",
+      "Langsung menjatuhkan sanksi berat tanpa pemeriksaan",
+      "Wajib meneruskannya ke kepolisian",
+      "Dapat mengusulkan kepada MA untuk ditindaklanjuti"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 17 ayat (1).",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 17 ayat (1)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-30-60",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Usulan KY atas laporan yang juga menyangkut hukum acara: MA memberi tahu KY bila tidak layak ditindaklanjuti paling lama … hari, dan hasil tindak lanjut bila layak paling lama … hari.",
+    "options": [
+      "14; 30",
+      "30; 60",
+      "30; 90",
+      "60; 30"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 17 ayat (2) dan (3), dihitung sejak hasil telaahan diterima.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 17 ayat (2), (3)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-tingkat-dampak",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Pelanggaran prinsip disiplin dan profesional (Pasal 12 dan 14 PB) diklasifikasikan ringan, sedang, atau berat berdasarkan…",
+    "options": [
+      "Lama hakim itu menjabat",
+      "Dampak yang ditimbulkannya",
+      "Jumlah pelapor yang mengadukan",
+      "Pangkat dan golongan hakim terlapor"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 18 ayat (4).",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 18 ayat (4)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-ringan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Manakah yang termasuk sanksi RINGAN bagi hakim karier menurut Pasal 19 ayat (2) PB?",
+    "options": [
+      "Hakim nonpalu paling lama 6 bulan",
+      "Pernyataan tidak puas secara tertulis",
+      "Mutasi ke pengadilan dengan kelas lebih rendah",
+      "Penundaan kenaikan pangkat paling lama 1 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sanksi ringan: teguran lisan, teguran tertulis, pernyataan tidak puas secara tertulis.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 19 ayat (2)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-sedang",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Manakah yang termasuk sanksi SEDANG bagi hakim karier menurut Pasal 19 ayat (3) PB?",
+    "options": [
+      "Pemberhentian tetap dengan hak pensiun sesuai UU Komisi Yudisial",
+      "Teguran lisan dari ketua pengadilan tempat hakim bertugas",
+      "Pembebasan dari jabatan",
+      "Mutasi ke pengadilan lain dengan kelas yang lebih rendah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sanksi sedang antara lain penundaan kenaikan gaji berkala, penurunan gaji, penundaan kenaikan pangkat (masing-masing paling lama 1 tahun), nonpalu paling lama 6 bulan, mutasi ke pengadilan kelas lebih rendah, dan pembatalan atau penangguhan promosi.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 19 ayat (3)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-berat",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Manakah yang termasuk sanksi BERAT bagi hakim karier menurut Pasal 19 ayat (4) PB?",
+    "options": [
+      "Penurunan pangkat setingkat lebih rendah paling lama 3 tahun",
+      "Pembatalan atau penangguhan promosi",
+      "Penundaan kenaikan gaji berkala paling lama 1 (satu) tahun kalender",
+      "Pernyataan tidak puas secara tertulis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sanksi berat: pembebasan dari jabatan; nonpalu lebih dari 6 bulan sampai 2 tahun; penurunan pangkat setingkat lebih rendah paling lama 3 tahun; pemberhentian tetap dengan hak pensiun; pemberhentian tidak dengan hormat.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 19 ayat (4)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-nonpalu-durasi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Batas nonpalu sebagai sanksi bagi hakim karier: sanksi sedang paling lama …, sanksi berat lebih dari itu sampai paling lama …",
+    "options": [
+      "3 bulan; 1 tahun",
+      "6 bulan; 2 tahun",
+      "6 bulan; 5 tahun",
+      "1 tahun; 3 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 19 ayat (3) huruf d dan ayat (4) huruf b.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 19 ayat (3), (4)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-sementara",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Hakim yang diusulkan dijatuhi pemberhentian tetap dan pembelaan dirinya ditolak Majelis Kehormatan Hakim dikenai…",
+    "options": [
+      "Mutasi ke pengadilan kelas lebih rendah sambil menunggu",
+      "Pemberhentian sementara berdasarkan keputusan Ketua MA",
+      "Pemberhentian tetap langsung oleh Ketua KY",
+      "Nonpalu selama 2 tahun tanpa keputusan pimpinan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 19 ayat (5).",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 19 ayat (5)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-disimpangi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Bolehkah tingkat dan jenis sanksi menyimpang dari pemetaan pelanggaran dalam Pasal 18 PB?",
+    "options": [
+      "Boleh, dengan mempertimbangkan latar belakang, keseriusan, dan/atau akibatnya",
+      "Hanya bila hakim terlapor mengajukan keberatan resmi kepada Ketua Mahkamah Agung",
+      "Hanya untuk hakim agung, tidak berlaku bagi hakim di tingkat pertama dan banding",
+      "Tidak; pemetaan Pasal 18 mengikat mutlak tanpa pengecualian"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 19 ayat (6).",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 19 ayat (6)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-adhoc",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Menurut Pasal 21 PB, sanksi sedang bagi hakim ad hoc berupa…",
+    "options": [
+      "Penundaan kenaikan gaji berkala selama 1 tahun",
+      "Mutasi ke pengadilan dengan kelas yang lebih rendah",
+      "Nonpalu paling lama 6 bulan",
+      "Penurunan pangkat setingkat lebih rendah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hakim ad hoc tidak berpangkat dan bergaji berkala seperti hakim karier, sehingga jenis sanksinya lebih sedikit: teguran tertulis (ringan), nonpalu paling lama 6 bulan (sedang), pemberhentian dengan hormat atau tidak dengan hormat (berat). Pasal 22 mengatur hal yang sama bagi hakim agung.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 21, 22",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-militer",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Dalam penjatuhan sanksi KEPPH terhadap hakim di lingkungan peradilan militer, prosesnya memperhatikan…",
+    "options": [
+      "Hanya keputusan Panglima TNI, tanpa melibatkan Mahkamah Agung",
+      "Peraturan disiplin pegawai negeri sipil saja",
+      "Kode etik oditur dan penasihat hukum di lingkungan militer",
+      "Peraturan disiplin yang berlaku bagi prajurit TNI"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 20 ayat (2).",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 20 ayat (2)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-keberatan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Bisakah hakim mengajukan keberatan atas keputusan penjatuhan sanksi pelanggaran KEPPH?",
+    "options": [
+      "Tidak; Pasal 25 PB menyatakan tidak dapat diajukan keberatan",
+      "Bisa, ke Komisi Yudisial dalam 14 hari",
+      "Bisa, lewat gugatan ke pengadilan tata usaha negara dalam 90 hari",
+      "Bisa, ke Majelis Kehormatan Hakim untuk semua tingkat sanksi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 25. Forum pembelaan diri (Majelis Kehormatan Hakim) hanya untuk hakim yang diusulkan diberhentikan, bukan jalur keberatan umum.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 25",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-berlaku",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Hakim yang dijatuhi sanksi tidak hadir saat keputusan disampaikan. Kapan sanksi itu berlaku?",
+    "options": [
+      "Setelah keputusan itu dikukuhkan dalam rapat pleno Komisi Yudisial",
+      "Setelah ia menandatangani tanda terima keputusan di kepaniteraan",
+      "Hari ketiga puluh sejak tanggal yang ditentukan untuk penyampaian",
+      "Hari itu juga, walau ia tidak hadir"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 26 ayat (2). Bila hadir, sanksi berlaku sejak tanggal disampaikan (ayat (1)); setiap keputusan sanksi ditembuskan ke KY (ayat (3)).",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 26",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-penyampaian",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Keputusan sanksi sedang dan berat disampaikan kepada hakim terlapor oleh pejabat yang berwenang menghukum…",
+    "options": [
+      "Secara lisan dalam rapat pleno Komisi Yudisial di Jakarta",
+      "Lewat pengumuman di media massa nasional",
+      "Langsung oleh pelapor yang mengadukan hakim tersebut",
+      "Melalui ketua pengadilan tempat terlapor bertugas"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 24 ayat (2); sanksi ringan disampaikan langsung oleh pejabat yang berwenang (ayat (1)). Keduanya tertulis.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 24",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-mantan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Pasal 11 ayat (5) PB: mantan hakim dianjurkan tidak berpraktik sebagai advokat, terutama di lingkungan peradilan tempatnya dulu menjabat, paling sedikit selama…",
+    "options": [
+      "6 bulan setelah pensiun atau berhenti",
+      "Seumur hidup",
+      "5 tahun setelah pensiun atau berhenti",
+      "2 tahun setelah pensiun atau berhenti"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 11 ayat (5). Rumusannya anjuran (\"dianjurkan dan sedapat mungkin\"), bukan larangan mutlak.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 11 ayat (5)",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-humor-nonpalu",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Palu disita",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Hakim A: aku dapat sanksi nonpalu tiga bulan."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim B: berarti tidak boleh memeriksa dan mengadili perkara."
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Hakim A: berarti... libur dibayar?"
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Hakim B: itu sanksi sedang, bukan cuti."
+        }
+      ]
+    },
+    "caption": "Satu-satunya palu yang boleh kau ketuk sementara ini: palu tukang.",
+    "teaches": "Pasal 1 angka 15 dan Pasal 19 ayat (3) PB 2012: hakim nonpalu tidak diperkenankan memeriksa dan mengadili perkara dalam waktu tertentu; nonpalu paling lama 6 bulan termasuk sanksi sedang, lebih dari 6 bulan sampai 2 tahun termasuk sanksi berat.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 1 angka 15, Pasal 19",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-humor-salah-putusan",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "meme",
+      "top": "Netizen: 'Putusannya salah! KY, pecat hakimnya!'",
+      "bottom": "Pasal 15 PB: pengawasan etik tak menilai benar-salahnya putusan",
+      "character": "gecko",
+      "expression": "think"
+    },
+    "caption": "Kalau tidak setuju isi putusan, ajukan banding. Kalau hakimnya makan siang dengan pihak, baru lapor KY.",
+    "teaches": "Pasal 15 PB 2012: dalam pengawasan, MA dan KY tidak dapat menyatakan benar atau salahnya pertimbangan yuridis dan substansi putusan hakim. Koreksi atas isi putusan ditempuh lewat upaya hukum.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 15",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-pb-humor-tak-hadir",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Strategi kabur level pemula",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Hakim: strategi jitu. Aku tidak datang saat keputusan sanksi dibacakan."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Kawan: lalu?"
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Hakim: tidak disampaikan, tidak berlaku. Logis, kan?"
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Kawan: Pasal 26 (2): tetap berlaku pada hari ketiga puluh."
+        }
+      ]
+    },
+    "caption": "Absen di rapat bisa. Absen dari sanksi, tidak.",
+    "teaches": "Pasal 26 ayat (2) PB 2012: bila hakim yang dijatuhi sanksi tidak hadir saat penyampaian, keputusan berlaku pada hari ketiga puluh sejak tanggal yang ditentukan untuk penyampaian. Pasal 25: keputusan sanksi tidak dapat diajukan keberatan.",
+    "source": {
+      "title": "Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan No. 02/PB/P.KY/09/2012 tentang Panduan Penegakan Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Pasal 25, 26",
+      "url": "https://pn-muaraenim.go.id/images/upload/KE2-.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

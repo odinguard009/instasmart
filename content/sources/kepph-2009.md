@@ -4,7 +4,7 @@
 > https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf
 > Ditetapkan di Jakarta, 8 April 2009. Teks diekstrak dari PDF; baris yang terpotong digabung, ejaan dibiarkan seperti aslinya.
 > Catatan status: Putusan MA No. 36 P/HUM/2011 (dibacakan 9 Februari 2012) menyatakan butir 8.1-8.4 dan 10.1-10.4 bertentangan dengan peraturan perundang-undangan. Sumber sekunder: hukumonline, "MA Batalkan Sebagian Substansi Kode Etik", https://www.hukumonline.com/berita/a/ma-batalkan-sebagian-substansi-kode-etik-lt4f3937ce1b87a/ (kutipan dalam cuplikan hasil penelusuran: "Menyatakan butir 8.1, 8.2, 8.3, 8.4, dan butir 10.1, 10.2, 10.3, dan 10.4 SKB Kode Etik Dan Pedoman Perilaku Hakim bertentangan dengan ..."). Teks putusannya sendiri belum dibaca. Butir-butir itu tidak dikutip di bawah.
-> Penegakannya juga diatur Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan 02/PB/P.KY/09/2012 (Panduan Penegakan KEPPH); belum dikutip di sini.
+> Penegakannya juga diatur Peraturan Bersama MA dan KY No. 02/PB/MA/IX/2012 dan 02/PB/P.KY/09/2012 (Panduan Penegakan KEPPH); dikutip terpisah di `pb-2012-panduan-penegakan-kepph.md`.
 
 ## Pembukaan (sepuluh prinsip)
 

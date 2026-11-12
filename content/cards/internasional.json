@@ -2101,5 +2101,288 @@
     },
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-kapasitas",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Article 6 VCLT, kapasitas untuk membuat perjanjian internasional dimiliki oleh…",
+    "options": [
+      "Hanya negara yang sudah meratifikasi VCLT",
+      "Hanya anggota tetap Dewan Keamanan",
+      "Hanya negara anggota PBB",
+      "Setiap negara"
+    ],
+    "answerIndex": 3,
+    "explanation": "Article 6: \"Every State possesses capacity to conclude treaties.\" (terjemahan bebas)",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 6",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-pra-berlaku",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Negara sudah menandatangani perjanjian yang masih harus diratifikasi. Menurut Article 18 VCLT, sebelum menyatakan tidak akan menjadi pihak, negara itu wajib…",
+    "options": [
+      "Melaksanakan seluruh isi perjanjian secara penuh dan segera",
+      "Tidak mempunyai kewajiban apa pun",
+      "Meratifikasi dalam waktu satu tahun",
+      "Tidak menggagalkan maksud dan tujuan perjanjian"
+    ],
+    "answerIndex": 3,
+    "explanation": "Kewajiban itu berlaku sampai negara menyatakan dengan jelas tidak akan menjadi pihak.",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 18",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-hukum-nasional",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Negara gagal melaksanakan perjanjian dan beralasan undang-undang nasionalnya melarang. Menurut Article 27 VCLT, alasan itu…",
+    "options": [
+      "Sah bila undang-undangnya lebih baru",
+      "Otomatis membatalkan perjanjian",
+      "Sah bila disetujui parlemen negara itu",
+      "Tidak dapat dipakai sebagai pembenaran"
+    ],
+    "answerIndex": 3,
+    "explanation": "Article 27 tidak mengurangi Article 46 (pelanggaran nyata atas aturan dasar kewenangan membuat perjanjian).",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 27",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-tafsir",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Aturan umum penafsiran perjanjian dalam Article 31 ayat 1 VCLT adalah ditafsirkan dengan itikad baik menurut…",
+    "options": [
+      "Arti biasa kata, konteks, serta maksud dan tujuannya",
+      "Kehendak negara pihak yang paling kuat secara ekonomi",
+      "Hukum nasional negara tempat perjanjian ditandatangani",
+      "Pendapat tertulis Sekretaris Jenderal PBB sebagai penyimpan perjanjian"
+    ],
+    "answerIndex": 0,
+    "explanation": "Article 31(1). Bandingkan dengan penafsiran gramatikal, sistematis, dan teleologis dalam ilmu hukum.",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 31(1)",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-kewajiban-ketiga",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Article 35 VCLT, kewajiban bagi negara ketiga timbul dari suatu perjanjian bila para pihak bermaksud demikian dan negara ketiga…",
+    "options": [
+      "Menerimanya secara tegas dan tertulis",
+      "Tidak menyatakan keberatan dalam waktu 30 hari",
+      "Menjadi anggota PBB",
+      "Berbatasan darat atau laut dengan salah satu pihak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Article 34: perjanjian tidak menimbulkan hak atau kewajiban bagi negara ketiga tanpa persetujuannya.",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 34-35",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-jadi-kebiasaan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Negara X bukan pihak perjanjian Y. Menurut Article 38 VCLT, aturan dalam perjanjian Y tetap dapat mengikat X bila…",
+    "options": [
+      "Aturan itu telah menjadi kebiasaan internasional",
+      "Mayoritas negara di kawasan tempat X berada meratifikasinya",
+      "X pernah mengutip perjanjian itu",
+      "Dewan Keamanan PBB menyatakannya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Yang mengikat X adalah kebiasaan internasionalnya, bukan perjanjiannya. Contoh hubungan dua sumber Pasal 38 Statuta ICJ.",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 38",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-jus-cogens-ubah",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Menurut Article 53 VCLT, norma jus cogens hanya dapat diubah oleh…",
+    "options": [
+      "Perjanjian bilateral dua negara besar",
+      "Resolusi Majelis Umum PBB yang disetujui mayoritas biasa",
+      "Putusan pengadilan nasional tertinggi",
+      "Norma umum berikutnya yang sifatnya sama"
+    ],
+    "answerIndex": 3,
+    "explanation": "Jus cogens: norma yang diterima dan diakui masyarakat negara-negara secara keseluruhan sebagai norma yang tidak boleh disimpangi.",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 53",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-jus-cogens-waktu",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Perjanjian yang bertentangan dengan jus cogens pada saat dibuat, menurut Article 53 VCLT, adalah…",
+    "options": [
+      "Dapat dibatalkan atas permintaan",
+      "Tetap sah tetapi tidak dapat dilaksanakan",
+      "Ditangguhkan sampai ada putusan ICJ",
+      "Batal (void)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bila jus cogens baru muncul belakangan, perjanjian yang bertentangan menjadi batal dan berakhir (Article 64).",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 53, 64",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-jus-cogens-baru",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Muncul norma jus cogens baru. Menurut Article 64 VCLT, perjanjian yang sudah ada dan bertentangan dengannya…",
+    "options": [
+      "Tetap berlaku sampai masa berlakunya habis",
+      "Menjadi batal dan berakhir",
+      "Harus dinegosiasikan ulang dalam 10 tahun",
+      "Berlaku bagi negara yang menolak norma baru"
+    ],
+    "answerIndex": 1,
+    "explanation": "Article 64 (terjemahan bebas).",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 64",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-pacta-itikad",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Article 26 VCLT (pacta sunt servanda) menyatakan perjanjian yang berlaku mengikat para pihak dan harus dilaksanakan…",
+    "options": [
+      "Setelah disahkan PBB",
+      "Dengan itikad baik",
+      "Hanya bila menguntungkan para pihak",
+      "Sesuai hukum nasional masing-masing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Article 26 (terjemahan bebas).",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 26",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-vc-humor-hukum-nasional",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "perjanjian-internasional",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "comic",
+      "title": "Alasan rumahan",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Negara A: maaf, perjanjiannya tak bisa kami jalankan. UU kami melarang."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim: Article 27 VCLT: hukum nasional bukan alasan."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Negara A: tapi UU itu kami buat sendiri, lho."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Hakim: justru itu masalahnya."
+        }
+      ]
+    },
+    "caption": "Hukum nasional tidak bisa jadi tameng untuk ingkar perjanjian.",
+    "teaches": "Article 27 VCLT: suatu pihak tidak boleh memakai ketentuan hukum nasionalnya sebagai pembenaran atas kegagalan melaksanakan perjanjian (tanpa mengurangi Article 46).",
+    "source": {
+      "title": "Konvensi Wina 1969 tentang Hukum Perjanjian (VCLT)",
+      "reference": "Article 27",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

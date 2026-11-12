@@ -970,5 +970,571 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-definisi",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Diversi menurut Pasal 1 angka 7 UU SPPA adalah…",
+    "options": [
+      "Pengurangan pidana anak menjadi setengah dari ancaman",
+      "Pemindahan anak ke lembaga pemasyarakatan dewasa",
+      "Penghapusan pidana bagi anak di bawah 12 tahun",
+      "Pengalihan perkara Anak ke luar peradilan pidana"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 7 UU 11/2012.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 1 angka 7",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-umur",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "\"Anak yang Berkonflik dengan Hukum\" menurut Pasal 1 angka 3 UU SPPA adalah anak yang diduga melakukan tindak pidana dan berumur…",
+    "options": [
+      "14 tahun tetapi belum 21 tahun",
+      "12 tahun tetapi belum 18 tahun",
+      "8 tahun tetapi belum 18 tahun",
+      "Belum 18 tahun, berapa pun minimalnya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Anak Korban dan Anak Saksi: belum berumur 18 tahun, tanpa batas bawah (Pasal 1 angka 4-5).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 1 angka 3",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-rj-def",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Keadilan Restoratif menurut Pasal 1 angka 6 UU SPPA menekankan…",
+    "options": [
+      "Pembalasan yang setimpal dengan perbuatan",
+      "Efek jera bagi pelaku dan seluruh masyarakat",
+      "Pemulihan keadaan semula, bukan pembalasan",
+      "Percepatan pemidanaan dan eksekusi putusan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dengan melibatkan pelaku, korban, keluarga pelaku/korban, dan pihak lain yang terkait. Pasal 5 ayat (1): SPPA wajib mengutamakan pendekatan Keadilan Restoratif.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 1 angka 6, Pasal 5",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-tujuan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Manakah yang BUKAN tujuan diversi menurut Pasal 6 UU SPPA?",
+    "options": [
+      "Menghindarkan Anak dari perampasan kemerdekaan",
+      "Menanamkan rasa tanggung jawab kepada Anak",
+      "Mempercepat penjatuhan pidana penjara",
+      "Mencapai perdamaian antara korban dan Anak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 6: perdamaian korban dan Anak; menyelesaikan perkara di luar peradilan; menghindarkan dari perampasan kemerdekaan; mendorong partisipasi masyarakat; menanamkan tanggung jawab.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-pengulangan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Menurut Penjelasan Pasal 7 ayat (2) huruf b UU SPPA, \"pengulangan tindak pidana\" yang menutup jalan diversi mencakup…",
+    "options": [
+      "Hanya pengulangan dalam satu tahun kalender yang sama",
+      "Hanya tindak pidana sejenis yang sudah diputus pengadilan negeri",
+      "Hanya bila pidana sebelumnya berupa penjara di LPKA",
+      "Sejenis maupun tidak, termasuk yang selesai lewat diversi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Jadi anak yang perkara pertamanya selesai lewat diversi lalu berbuat lagi tidak memenuhi syarat Pasal 7 ayat (2) huruf b.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Penjelasan Pasal 7 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-musyawarah",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Proses diversi dilakukan melalui musyawarah yang melibatkan…",
+    "options": [
+      "Hanya hakim, korban, dan penuntut umum di ruang sidang",
+      "Hanya penyidik dan Anak, tanpa pihak lain agar tertutup",
+      "Anak, jaksa, dan perwakilan media massa yang meliput",
+      "Anak, korban, orang tua/Wali, PK Bapas, pekerja sosial"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 8 ayat (1). Ayat (2): bila perlu dapat melibatkan Tenaga Kesejahteraan Sosial dan/atau masyarakat (tokoh agama, guru, tokoh masyarakat).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 8",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-memperhatikan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Proses diversi menurut Pasal 8 ayat (3) UU SPPA wajib memperhatikan, antara lain…",
+    "options": [
+      "Penghindaran stigma negatif dan pembalasan",
+      "Pendapat warganet yang paling banyak disukai",
+      "Besarnya kerugian negara menurut audit BPK",
+      "Popularitas kasus di media massa dan media sosial"
+    ],
+    "answerIndex": 0,
+    "explanation": "Juga: kepentingan korban; kesejahteraan dan tanggung jawab Anak; keharmonisan masyarakat; kepatutan, kesusilaan, dan ketertiban umum.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 8 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-prioritas-umur",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Menurut Penjelasan Pasal 9 ayat (1) huruf b UU SPPA, makin muda umur Anak…",
+    "options": [
+      "Makin wajib ditahan",
+      "Tidak berpengaruh pada diversi",
+      "Makin tinggi prioritas diversi",
+      "Makin rendah prioritas diversi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Huruf a juga: makin rendah ancaman pidana, makin tinggi prioritas diversi.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Penjelasan Pasal 9 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-serius",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Menurut Penjelasan Pasal 9 ayat (1) huruf a UU SPPA, diversi TIDAK dimaksudkan untuk tindak pidana serius seperti…",
+    "options": [
+      "Pembunuhan, perkosaan, edar narkoba, teror",
+      "Pelanggaran lalu lintas tanpa korban jiwa",
+      "Perkelahian antarsiswa tanpa luka berat",
+      "Pencurian ringan barang di warung tetangga"
+    ],
+    "answerIndex": 0,
+    "explanation": "Yang diancam pidana di atas 7 tahun. Syarat formalnya di Pasal 7 ayat (2): ancaman di bawah 7 tahun dan bukan pengulangan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Penjelasan Pasal 9 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-tipiring",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Menurut Penjelasan Pasal 9 ayat (2) huruf b UU SPPA, \"tindak pidana ringan\" adalah tindak pidana yang diancam penjara atau kurungan paling lama…",
+    "options": [
+      "3 bulan",
+      "1 bulan",
+      "6 bulan",
+      "1 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Untuk tindak pidana ringan, kesepakatan diversi tidak harus mendapat persetujuan korban (Pasal 9 ayat (2)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Penjelasan Pasal 9 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-pertimbangan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Dalam melakukan diversi, penyidik, penuntut umum, dan hakim harus mempertimbangkan, antara lain…",
+    "options": [
+      "Pekerjaan orang tua korban di kantor pemerintahan",
+      "Jumlah pengikut media sosial Anak",
+      "Hasil penelitian kemasyarakatan Bapas",
+      "Status ekonomi orang tua korban"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 9 ayat (1): kategori tindak pidana; umur Anak; hasil litmas dari Bapas; dukungan lingkungan keluarga dan masyarakat.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 9 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-penyidik-bentuk",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Kesepakatan diversi oleh penyidik untuk perkara ringan (Pasal 10 ayat (2)) dapat berbentuk pelayanan masyarakat paling lama…",
+    "options": [
+      "1 bulan",
+      "1 tahun",
+      "6 bulan",
+      "3 bulan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bentuk lain: pengembalian kerugian, rehabilitasi medis dan psikososial, penyerahan kembali kepada orang tua/Wali, pendidikan atau pelatihan di lembaga pendidikan atau LPKS paling lama 3 bulan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 10 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-hasil",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Manakah yang disebut Pasal 11 UU SPPA sebagai bentuk hasil kesepakatan diversi?",
+    "options": [
+      "Perdamaian, dengan atau tanpa ganti rugi",
+      "Pidana penjara dengan masa percobaan satu tahun",
+      "Pencabutan hak bersekolah selama satu semester",
+      "Denda kepada negara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 11 juga menyebut penyerahan kembali kepada orang tua/Wali, pendidikan atau pelatihan di lembaga pendidikan atau LPKS paling lama 3 bulan, dan pelayanan masyarakat.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 11",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-penetapan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Hasil kesepakatan diversi disampaikan ke pengadilan negeri untuk memperoleh penetapan dalam waktu paling lama…",
+    "options": [
+      "7 hari sejak kesepakatan dicapai",
+      "14 hari sejak kesepakatan dicapai",
+      "30 hari sejak kesepakatan dicapai",
+      "3 hari sejak kesepakatan dicapai"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 12 ayat (2); penetapan dibuat paling lama 3 hari sejak kesepakatan diterima (ayat (3)), lalu penyidik/penuntut umum menerbitkan penetapan penghentian penyidikan/penuntutan (ayat (5)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 12",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-pengawas",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Pengawasan atas proses diversi dan pelaksanaan kesepakatannya berada pada…",
+    "options": [
+      "Komisi Perlindungan Anak Indonesia (KPAI) pusat",
+      "Atasan langsung pejabat di tiap tingkat",
+      "Hakim pengawas dan pengamat",
+      "Kementerian Sosial melalui dinas sosial daerah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 14 ayat (1); penjelasannya: misalnya kepala kepolisian, kepala kejaksaan, ketua pengadilan. Pembimbing Kemasyarakatan wajib mendampingi, membimbing, dan mengawasi (ayat (2)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 14",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-tidak-dilaksanakan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Kesepakatan diversi tidak dilaksanakan dalam waktu yang ditentukan. Menurut Pasal 14 ayat (3)-(4) UU SPPA:",
+    "options": [
+      "Anak otomatis ditahan di LPAS sampai kesepakatan dipenuhi",
+      "Korban langsung menggugat ke pengadilan agama",
+      "Perkara dianggap selesai dan tidak dapat dibuka kembali",
+      "PK Bapas melapor; pejabat menindaklanjuti dalam 7 hari"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penjelasan ayat (3): laporan Pembimbing Kemasyarakatan sekaligus berisi rekomendasi.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 14 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-penyidik-7",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Penyidik wajib mengupayakan diversi dalam waktu paling lama… setelah penyidikan dimulai.",
+    "options": [
+      "14 hari",
+      "7 hari",
+      "30 hari",
+      "3 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 29 ayat (1); prosesnya paling lama 30 hari (ayat (2)). Pola yang sama di penuntutan (Pasal 42) dan pengadilan (Pasal 52).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 29 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-gagal",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Diversi di tingkat penyidikan gagal. Penyidik wajib…",
+    "options": [
+      "Melanjutkan penyidikan, lampirkan BA diversi dan litmas",
+      "Menghentikan penyidikan karena diversi sudah dicoba",
+      "Menyerahkan Anak ke Dinas Sosial tanpa proses",
+      "Mengulang diversi terus-menerus sampai berhasil tercapai"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 29 ayat (4); penjelasannya: agar pemeriksa di tahap berikutnya tahu ada tidaknya upaya diversi dan sebab gagalnya.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 29 ayat (4)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-ruang-mediasi",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "question": "Di tingkat pengadilan, proses diversi menurut Pasal 52 ayat (4) UU SPPA dapat dilaksanakan di…",
+    "options": [
+      "Ruang mediasi PN",
+      "Ruang sidang utama dengan toga lengkap",
+      "Rumah tahanan negara kelas I",
+      "Kantor kepolisian sektor terdekat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hakim wajib mengupayakan diversi paling lama 7 hari setelah ditetapkan ketua PN, dan dilaksanakan paling lama 30 hari (Pasal 52 ayat (2)-(3)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 52",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-humor-ulang",
+    "type": "humor",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "comic",
+      "title": "Bukan langganan",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Anak: kemarin selesai lewat diversi. Kali ini diversi lagi, ya?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "PK Bapas: Penjelasan Pasal 7: pengulangan termasuk yang lewat diversi."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Anak: jadi diversi bukan paket langganan?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "PK Bapas: kesempatan, bukan kartu member."
+        }
+      ]
+    },
+    "caption": "Diversi itu pintu keluar, bukan pintu putar.",
+    "teaches": "Penjelasan Pasal 7 ayat (2) huruf b UU SPPA: pengulangan tindak pidana termasuk yang sebelumnya diselesaikan melalui diversi, sehingga syarat diversi tidak terpenuhi.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Penjelasan Pasal 7 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-humor-viral",
+    "type": "humor",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "meme",
+      "top": "Warganet: kasus anak ini viral, jangan didiversi!",
+      "bottom": "Pasal 8 ayat (3): yang dihitung stigma, bukan komentar",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Daftar pertimbangan diversi: kepentingan korban, tanggung jawab Anak, harmoni masyarakat. 'Trending' tidak tercantum.",
+    "teaches": "Pasal 8 ayat (3) dan Pasal 9 ayat (1) UU SPPA: hal yang wajib diperhatikan dan dipertimbangkan dalam diversi.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 8 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-dv-humor-tujuh",
+    "type": "humor",
+    "topicId": "peradilan-anak",
+    "subTopicId": "diversi",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "comic",
+      "title": "Tujuh hari",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Penyidik: penyidikan mulai Senin. Diversi kapan-kapan saja."
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Jaksa: Pasal 29: paling lama 7 hari harus diupayakan."
+        },
+        {
+          "character": "kancil",
+          "expression": "sad",
+          "text": "Penyidik: dihitung dari kapan?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Jaksa: sejak penyidikan dimulai. Bukan sejak semangat muncul."
+        }
+      ]
+    },
+    "caption": "Tujuh hari untuk mengupayakan, tiga puluh hari untuk menyelesaikan.",
+    "teaches": "Pasal 29 ayat (1)-(2) UU SPPA: penyidik wajib mengupayakan diversi paling lama 7 hari setelah penyidikan dimulai; proses diversi paling lama 30 hari.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 29",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

@@ -723,5 +723,523 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "adat-lh-pasal-2-dasar",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 2 ayat (1) KUHP Nasional menyatakan bahwa asas legalitas dalam Pasal 1 ayat (1)…",
+    "options": [
+      "Dikecualikan untuk perkara yang diadili pengadilan adat",
+      "Tidak mengurangi berlakunya hukum yang hidup dalam masyarakat",
+      "Hanya berlaku untuk tindak pidana yang dilakukan korporasi",
+      "Menghapus seluruh hukum pidana adat sejak KUHP Nasional mulai berlaku"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 ayat (1): hukum yang hidup dalam masyarakat dapat menentukan seseorang patut dipidana walaupun perbuatannya tidak diatur dalam KUHP.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 2 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-syarat-ayat-2",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Mana yang BUKAN syarat berlakunya hukum yang hidup dalam masyarakat menurut Pasal 2 ayat (2)?",
+    "options": [
+      "Sesuai Pancasila, UUD 1945, HAM, dan asas hukum umum",
+      "Perbuatannya tidak diatur dalam KUHP Nasional itu sendiri",
+      "Berlaku di tempat hukum itu hidup",
+      "Disetujui oleh seluruh warga yang tinggal di daerah itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 2 ayat (2): berlaku dalam tempat hukum itu hidup, sepanjang tidak diatur dalam KUHP, dan sesuai nilai Pancasila, UUD 1945, hak asasi manusia, serta asas hukum umum yang diakui masyarakat bangsa-bangsa. Persetujuan seluruh warga tidak disebut.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 2 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-sudah-diatur",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Suatu perbuatan dilarang hukum adat setempat dan juga sudah dirumuskan sebagai tindak pidana dalam KUHP. Menurut Pasal 2 ayat (2)…",
+    "options": [
+      "Hukum yang hidup tidak dipakai, karena berlaku sepanjang tidak diatur KUHP",
+      "Pelaku dipidana dua kali: menurut adat dan menurut KUHP",
+      "Hakim bebas memilih aturan adat atau KUHP, mana yang lebih berat",
+      "Aturan adat selalu didahulukan karena lebih dekat dengan masyarakat setempat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 2 ayat (2) memakai frasa \"sepanjang tidak diatur dalam Undang-Undang ini\".",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 2 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-pendatang",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Penjelasan Pasal 2 ayat (2), frasa \"berlaku dalam tempat hukum itu hidup\" berarti berlaku bagi…",
+    "options": [
+      "Siapa saja di seluruh Indonesia tanpa batas wilayah",
+      "Hanya penduduk yang ber-KTP di kabupaten tersebut",
+      "Setiap orang yang melakukan tindak pidana adat di daerah tersebut",
+      "Hanya anggota masyarakat hukum adat yang lahir dan menetap di daerah itu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 2 ayat (2). Pendatang yang melakukan perbuatan itu di daerah tersebut ikut tercakup.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Penjelasan Pasal 2 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-arti-hukum-hidup",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Penjelasan Pasal 2 ayat (1), \"hukum yang hidup dalam masyarakat\" adalah…",
+    "options": [
+      "Kebiasaan yang viral di media sosial dalam setahun terakhir",
+      "Putusan hakim yang sudah berkekuatan hukum tetap",
+      "Peraturan desa yang disahkan kepala desa",
+      "Hukum adat yang menentukan seseorang patut dipidana"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penjelasan Pasal 2 ayat (1): hukum adat yang menentukan bahwa seseorang yang melakukan perbuatan tertentu patut dipidana; berkaitan dengan hukum tidak tertulis yang masih berlaku dan berkembang. Untuk memperkuat keberlakuannya, Peraturan Daerah mengatur tindak pidana adat tersebut.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Penjelasan Pasal 2 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-pp-perda",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 2 ayat (3) dan penjelasannya mengatur penetapan hukum yang hidup dalam masyarakat dengan cara…",
+    "options": [
+      "DPR mengesahkan undang-undang tersendiri untuk setiap suku",
+      "Mahkamah Agung menerbitkan daftar delik adat yang mengikat untuk seluruh daerah di Indonesia",
+      "PP memuat tata cara dan kriteria sebagai pedoman, daerah menetapkannya dalam Perda",
+      "Ketua adat menetapkan sendiri lalu cukup diumumkan di balai desa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 2 ayat (3): tata cara dan kriteria penetapan diatur dengan Peraturan Pemerintah. Penjelasannya: PP itu pedoman bagi daerah dalam menetapkan hukum yang hidup dalam Peraturan Daerah. Isi PP-nya sendiri belum dicek di sini.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 2 ayat (3) dan penjelasannya",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-melawan-hukum",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 12 ayat (2): perbuatan yang diancam pidana oleh peraturan perundang-undangan, untuk dinyatakan tindak pidana, harus…",
+    "options": [
+      "Bersifat melawan hukum atau bertentangan dengan hukum yang hidup",
+      "Menimbulkan kerugian negara yang nyata",
+      "Dilaporkan korban dalam waktu tiga bulan",
+      "Sudah pernah dilakukan pelaku sedikitnya dua kali sebelumnya di tempat yang sama"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 12 ayat (2). Ayat (3): setiap tindak pidana selalu bersifat melawan hukum, kecuali ada alasan pembenar.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 12 ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-pidana-tambahan-f",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Dalam daftar pidana tambahan Pasal 66 ayat (1), huruf terakhir (f) adalah…",
+    "options": [
+      "Kerja paksa di lahan adat",
+      "Pencabutan kewarganegaraan",
+      "Pengusiran dari wilayah kabupaten",
+      "Pemenuhan kewajiban adat setempat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 66 ayat (1): pencabutan hak tertentu; perampasan barang tertentu dan/atau tagihan; pengumuman putusan hakim; pembayaran ganti rugi; pencabutan izin tertentu; dan pemenuhan kewajiban adat setempat.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 66 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-pokok-perda",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Setelah diubah UU 1/2026, Pasal 66 ayat (6) menyatakan pemenuhan kewajiban adat setempat merupakan…",
+    "options": [
+      "Pidana pokok untuk tindak pidana adat yang diatur Perda",
+      "Pidana tambahan yang hanya bisa dijatuhkan bersama penjara",
+      "Sanksi perdata yang diputus di luar pengadilan",
+      "Tindakan administratif yang bukan pidana sama sekali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 66 ayat (6) (rumusan setelah UU 1/2026 menurut naskah terkonsolidasi): pidana tambahan huruf f merupakan pidana pokok untuk tindak pidana berdasarkan hukum yang hidup dalam masyarakat yang diatur dalam Peraturan Daerah.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 66 ayat (6)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-diutamakan",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 96 ayat (1): pidana tambahan pemenuhan kewajiban adat setempat diutamakan jika…",
+    "options": [
+      "Terdakwa meminta secara tertulis kepada majelis hakim yang memeriksa",
+      "Tindak pidananya memenuhi ketentuan Pasal 2 ayat (2)",
+      "Pidana pokok yang dijatuhkan di atas lima tahun",
+      "Korban berasal dari luar daerah tersebut"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 96 ayat (1).",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 96 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-kategori-ii",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Menurut Pasal 96 ayat (2), pemenuhan kewajiban adat setempat dianggap sebanding dengan…",
+    "options": [
+      "Pidana denda kategori VIII",
+      "Pidana penjara paling lama satu tahun",
+      "Pidana kerja sosial selama satu bulan",
+      "Pidana denda kategori II"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 96 ayat (2). Besaran rupiah kategori denda diatur pasal lain dan tidak dikutip di sini.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 96 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-tak-dipenuhi",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Kewajiban adat yang dijatuhkan tidak dipenuhi, lalu ganti ruginya juga tidak dibayar. Menurut Pasal 96 ayat (3)-(4), berikutnya…",
+    "options": [
+      "Perkara dianggap selesai karena sudah dicoba",
+      "Diserahkan ke ketua adat untuk dijatuhi sanksi tambahan",
+      "Diganti pidana pengawasan atau pidana kerja sosial",
+      "Langsung diganti pidana penjara seumur hidup"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 96 ayat (3): kewajiban adat yang tidak dipenuhi diganti ganti rugi setara denda kategori II. Ayat (4): ganti rugi yang tidak dipenuhi diganti pidana pengawasan atau pidana kerja sosial.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 96 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-tak-tercantum",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Bolehkah hakim menjatuhkan pidana tambahan pemenuhan kewajiban adat setempat walaupun tidak tercantum dalam rumusan tindak pidana?",
+    "options": [
+      "Tidak boleh, karena selalu melanggar asas legalitas",
+      "Hanya boleh untuk perkara anak",
+      "Boleh, tanpa syarat apa pun",
+      "Boleh, dengan tetap memperhatikan Pasal 2 ayat (2)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 97.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 97",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-korporasi",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Apakah korporasi dapat dijatuhi pidana tambahan pemenuhan kewajiban adat?",
+    "options": [
+      "Tidak; kewajiban adat hanya untuk orang perseorangan",
+      "Bisa, tetapi hanya untuk korporasi yang seluruhnya milik masyarakat adat",
+      "Bisa; tercantum dalam daftar pidana tambahan korporasi Pasal 120",
+      "Tidak; korporasi hanya dapat dijatuhi pidana denda"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 120 ayat (1) memuat pemenuhan kewajiban adat dalam daftar pidana tambahan bagi korporasi. Pasal 597 ayat (2) (setelah UU 1/2026) merujuk Pasal 66 ayat (1) huruf f atau Pasal 120 ayat (1) huruf d.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 120 ayat (1), Pasal 597 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-pasal-597",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Pasal 597 ayat (2): pidana bagi orang yang melakukan perbuatan yang dilarang menurut hukum yang hidup dalam masyarakat berupa…",
+    "options": [
+      "Denda kategori V",
+      "Pemenuhan kewajiban adat",
+      "Penjara paling lama satu tahun",
+      "Pengasingan dari kampung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 597 ayat (1)-(2). Penjelasan ayat (1) merujuk ke Pasal 2 ayat (1).",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 597",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-nilai-hidup-54",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Dalam pemidanaan, Pasal 54 ayat (1) mewajibkan hakim mempertimbangkan antara lain…",
+    "options": [
+      "Pemaafan korban serta nilai hukum dan keadilan yang hidup",
+      "Pendapat mayoritas pengunjung sidang",
+      "Jumlah pengikut terdakwa di media sosial saat perkara mulai disidangkan",
+      "Hasil jajak pendapat media massa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 54 ayat (1) memuat sebelas hal, antara lain pemaafan dari korban dan/atau keluarga korban, serta nilai hukum dan keadilan yang hidup dalam masyarakat.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 54 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-rem-ham",
+    "type": "quiz",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "question": "Sanksi adat setempat berupa perlakuan yang merendahkan martabat manusia. Berdasarkan Pasal 2 ayat (2), sanksi itu…",
+    "options": [
+      "Tidak dapat diberlakukan karena harus sesuai HAM",
+      "Berlaku hanya bagi pendatang",
+      "Berlaku asal disetujui kepala desa",
+      "Tetap berlaku karena hukum adat jauh lebih tua dari KUHP"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 2 ayat (2) mensyaratkan kesesuaian dengan Pancasila, UUD 1945, hak asasi manusia, dan asas hukum umum yang diakui masyarakat bangsa-bangsa.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 2 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-humor-pendatang",
+    "type": "humor",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "visual": {
+      "template": "comic",
+      "title": "Tamu rasa tuan rumah",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Wisatawan: saya bukan warga sini, aturan adat bukan urusan saya."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Tetua: Penjelasan Pasal 2 (2): berlaku bagi siapa pun yang berbuat di sini."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Wisatawan: termasuk yang cuma mampir foto?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Tetua: termasuk yang cuma mampir melanggar."
+        }
+      ]
+    },
+    "caption": "Status wisatawan bukan kekebalan hukum.",
+    "teaches": "Penjelasan Pasal 2 ayat (2) KUHP Nasional: \"berlaku dalam tempat hukum itu hidup\" berarti berlaku bagi setiap orang yang melakukan tindak pidana adat di daerah tersebut, bukan hanya warga adat.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Penjelasan Pasal 2 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-humor-grup-rt",
+    "type": "humor",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "visual": {
+      "template": "meme",
+      "top": "Aturan grup WA RT: yang tidak balas dikenai sanksi adat",
+      "bottom": "Hukum yang hidup = hukum adat, ditetapkan lewat Perda",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Admin grup bukan pembentuk Perda.",
+    "teaches": "Penjelasan Pasal 2 KUHP Nasional: hukum yang hidup dalam masyarakat adalah hukum adat yang menentukan seseorang patut dipidana, dan penetapannya dalam Peraturan Daerah dengan pedoman Peraturan Pemerintah.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 2 dan penjelasannya",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "adat-lh-humor-kabur",
+    "type": "humor",
+    "topicId": "adat",
+    "subTopicId": "delik-adat",
+    "account": "adat.nusantara",
+    "visual": {
+      "template": "comic",
+      "title": "Speedrun sanksi",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Terpidana: kewajiban adat? Skip."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim: diganti ganti rugi setara denda kategori II."
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Terpidana: skip juga."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Hakim: Pasal 96 ayat (4): selamat, naik level ke kerja sosial."
+        }
+      ]
+    },
+    "caption": "Yang di-skip bukan sanksinya, cuma kesempatan termurahnya.",
+    "teaches": "Pasal 96 KUHP Nasional: kewajiban adat yang tidak dipenuhi diganti ganti rugi setara denda kategori II; bila ganti rugi tidak dipenuhi, diganti pidana pengawasan atau pidana kerja sosial.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 96 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

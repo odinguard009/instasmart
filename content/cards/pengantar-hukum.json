@@ -1061,5 +1061,168 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-pn-analogi",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Pasal 1 ayat (2) KUHP Nasional menyatakan bahwa dalam menetapkan adanya tindak pidana…",
+    "options": [
+      "Analogi boleh jika disetujui jaksa",
+      "Dilarang digunakan analogi",
+      "Hakim wajib memakai analogi bila undang-undang diam",
+      "Analogi boleh asal menguntungkan korban"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 ayat (2). Ayat (1): tidak ada perbuatan yang dapat dikenai sanksi pidana dan/atau tindakan kecuali atas kekuatan peraturan pidana yang telah ada sebelum perbuatan dilakukan.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-pn-legalitas-waktu",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 1 ayat (1) KUHP Nasional, peraturan pidana yang menjadi dasar pemidanaan harus…",
+    "options": [
+      "Ditetapkan hakim dalam putusan perkara itu",
+      "Dibuat paling lambat saat penuntutan dimulai",
+      "Disetujui korban sebelum persidangan",
+      "Sudah ada sebelum perbuatan dilakukan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 ayat (1). Pengecualian terhadap hukum yang hidup dalam masyarakat diatur Pasal 2.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 1 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-pn-tolak-perkara",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Pasal 10 ayat (1) UU Kekuasaan Kehakiman melarang pengadilan menolak perkara dengan dalih…",
+    "options": [
+      "Perkara sudah pernah diberitakan media",
+      "Nilai sengketanya terlalu kecil",
+      "Para pihak belum didampingi advokat",
+      "Hukum tidak ada atau kurang jelas"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 10 ayat (1) UU 48/2009: pengadilan wajib memeriksa dan mengadilinya. Dalam pengantar ilmu hukum, kewajiban ini sering dikaitkan dengan penemuan hukum oleh hakim.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 10 ayat (1)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-pn-damai-perdata",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Pasal 10 ayat (2) UU Kekuasaan Kehakiman menyatakan kewajiban mengadili itu tidak menutup…",
+    "options": [
+      "Kemungkinan terdakwa diadili tanpa hadir",
+      "Hak hakim untuk menolak perkara yang terlalu sulit dibuktikan",
+      "Penghentian perkara oleh panitera",
+      "Usaha penyelesaian perkara perdata secara perdamaian"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 10 ayat (2) UU 48/2009.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 10 ayat (2)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-pn-humor-hukum-kosong",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Pulang cepat ditolak",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Penggugat: Yang Mulia, ini sengketa jenis baru."
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Hakim fiktif: aturannya belum ada. Sidang ditutup, pulang cepat."
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Panitera: Pasal 10 ayat (1): dalih hukum tidak ada justru dilarang."
+        },
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Hakim fiktif: ...baik, kita gali hukumnya."
+        }
+      ]
+    },
+    "caption": "Hukum kosong bukan cuti bersama.",
+    "teaches": "Pasal 10 ayat (1) UU 48/2009: pengadilan dilarang menolak memeriksa, mengadili, dan memutus perkara dengan dalih hukum tidak ada atau kurang jelas, melainkan wajib memeriksa dan mengadilinya.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 10 ayat (1)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-pn-humor-analogi",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "meme",
+      "top": "Tidak ada pasalnya? Ya sudah, cari yang mirip-mirip saja",
+      "bottom": "Pasal 1 ayat (2) KUHP: analogi dilarang",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Mirip itu urusan wajah, bukan urusan pidana.",
+    "teaches": "Pasal 1 ayat (2) KUHP Nasional: dalam menetapkan adanya tindak pidana dilarang digunakan analogi.",
+    "source": {
+      "title": "UU No. 1 Tahun 2023 tentang KUHP sebagaimana diubah UU No. 1 Tahun 2026, naskah terkonsolidasi",
+      "reference": "Pasal 1 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

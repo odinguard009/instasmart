@@ -2,8 +2,14 @@
 
 > Diambil pada 11 November 2026 dari teks lengkap di JDIH Kementerian Keuangan:
 > https://jdih.kemenkeu.go.id/api/download/fulltext/2009/48TAHUN2009UU.htm
-> Disahkan dan diundangkan 29 Oktober 2009 (LN 2009 No. 157). Baris yang terpotong digabung dan ayat dipisah per baris; selebihnya disalin persis (termasuk salah ketik "perundang-udangan" di Pasal 57 ayat (3)).
+> Disahkan dan diundangkan 29 Oktober 2009 (LN 2009 No. 157). Pasal 5 dan Pasal 10 ditambahkan dari sumber yang sama pada 12 November 2026. Baris yang terpotong digabung dan ayat dipisah per baris; selebihnya disalin persis (termasuk salah ketik "perundang-udangan" di Pasal 57 ayat (3)).
 > Catatan: banding atas putusan bebas (Pasal 26) dan peninjauan kembali (Pasal 24) dalam perkara pidana sekarang juga diatur KUHAP baru (UU 20/2025, berlaku 2 Januari 2026); lihat kutipan kuhap-2025-*. Kesesuaian kedua aturan itu belum dicocokkan di sini.
+
+## Pasal 5
+
+> (1) Hakim dan hakim konstitusi wajib menggali, mengikuti, dan memahami nilai-nilai hukum dan rasa keadilan yang hidup dalam masyarakat.  
+> (2) Hakim dan hakim konstitusi harus memiliki integritas dan kepribadian yang tidak tercela, jujur, adil, profesional, dan berpengalaman di bidang hukum.  
+> (3) Hakim dan hakim konstitusi wajib menaati Kode Etik dan Pedoman Perilaku Hakim.  
 
 ## Pasal 6
 
@@ -22,6 +28,11 @@
 > (2) Pejabat yang dengan sengaja melakukan perbuatan sebagaimana dimaksud pada ayat (1) dipidana sesuai dengan ketentuan peraturan perundang-undangan.
 
 > (3) Ketentuan mengenai tata cara penuntutan ganti kerugian, rehabilitasi, dan pembebanan ganti kerugian diatur dalam undang-undang.
+
+## Pasal 10
+
+> (1) Pengadilan dilarang menolak untuk memeriksa, mengadili, dan memutus suatu perkara yang diajukan dengan dalih bahwa hukum tidak ada atau kurang jelas, melainkan wajib untuk memeriksa dan mengadilinya.  
+> (2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak menutup usaha penyelesaian perkara perdata secara perdamaian.  
 
 ## Pasal 11
 

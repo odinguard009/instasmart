@@ -70,3 +70,100 @@
 ## Article 65
 
 > 1. The Court may give an advisory opinion on any legal question at the request of whatever body may be authorized by or in accordance with the Charter of the United Nations to make such a request. 2. Questions upon which the advisory opinion of the Court is asked shall be laid before the Court by means of a written request containing an exact statement of the question upon which an opinion is required, and accompanied by all documents likely to throw light upon the question.
+
+## Tambahan (diambil dari halaman yang sama pada 12 November 2026)
+
+## Article 10
+
+> 1. Those candidates who obtain an absolute majority of votes in the General Assembly and in the Security Council shall be considered as elected.  
+> 2. Any vote of the Security Council, whether for the election of judges or for the appointment of members of the conference envisaged in Article 12, shall be taken without any distinction between permanent and non-permanent members of the Security Council.  
+> 3. In the event of more than one national of the same state obtaining an absolute majority of the votes both of the General Assembly and of the Security Council, the eldest of these only shall be considered as elected.  
+
+## Article 16
+
+> 1. No member of the Court may exercise any political or administrative function, or engage in any other occupation of a professional nature.  
+> 2. Any doubt on this point shall be settled by the decision of the Court.  
+
+## Article 17
+
+> 1. No member of the Court may act as agent, counsel, or advocate in any case.  
+> 2. No member may participate in the decision of any case in which he has previously taken part as agent, counsel, or advocate for one of the parties, or as a member of a national or international court, or of a commission of enquiry, or in any other capacity.  
+> 3. Any doubt on this point shall be settled by the decision of the Court.  
+
+## Article 20
+
+> Every member of the Court shall, before taking up his duties, make a solemn declaration in open court that he will exercise his powers impartially and conscientiously.  
+
+## Article 21
+
+> 1. The Court shall elect its President and Vice-President for three years; they may be re-elected.  
+> 2. The Court shall appoint its Registrar and may provide for the appointment of such other officers as may be necessary.  
+
+## Article 22
+
+> 1. The seat of the Court shall be established at The Hague. This, however, shall not prevent the Court from sitting and exercising its functions elsewhere whenever the Court considers it desirable.  
+> 2. The President and the Registrar shall reside at the seat of the Court.  
+
+## Article 25
+
+> 1. The full Court shall sit except when it is expressly provided otherwise in the present Statute.  
+> 2. Subject to the condition that the number of judges available to constitute the Court is not thereby reduced below eleven, the Rules of the Court may provide for allowing one or more judges, according to circumstances and in rotation, to be dispensed from sitting.  
+> 3. A quorum of nine judges shall suffice to constitute the Court.  
+
+## Article 26
+
+> 1. The Court may from time to time form one or more chambers, composed of three or more judges as the Court may determine, for dealing with particular categories of cases; for example, labour cases and cases relating to transit and communications.  
+> 2. The Court may at any time form a chamber for dealing with a particular case. The number of judges to constitute such a chamber shall be determined by the Court with the approval of the parties.  
+> 3. Cases shall be heard and determined by the chambers provided for in this article if the parties so request.  
+
+## Article 29
+
+> With a view to the speedy dispatch of business, the Court shall form annually a chamber composed of five judges which, at the request of the parties, may hear and determine cases by summary procedure. In addition, two judges shall be selected for the purpose of replacing judges who find it impossible to sit.  
+
+## Article 35
+
+> 1. The Court shall be open to the states parties to the present Statute.  
+> 2. The conditions under which the Court shall be open to other states shall, subject to the special provisions contained in treaties in force, be laid down by the Security Council, but in no case shall such conditions place the parties in a position of inequality before the Court.  
+> 3. When a state which is not a Member of the United Nations is a party to a case, the Court shall fix the amount which that party is to contribute towards the expenses of the Court. This provision shall not apply if such state is bearing a share of the expenses of the Court  
+
+## Article 39
+
+> 1. The official languages of the Court shall be French and English. If the parties agree that the case shall be conducted in French, the judgment shall be delivered in French. If the parties agree that the case shall be conducted in English, the judgment shall be delivered in English.  
+> 2. In the absence of an agreement as to which language shall be employed, each party may, in the pleadings, use the language which it prefers; the decision of the Court shall be given in French and English. In this case the Court shall at the same time determine which of the two texts shall be considered as authoritative.  
+> 3. The Court shall, at the request of any party, authorize a language other than French or English to be used by that party.  
+
+## Article 40
+
+> 1. Cases are brought before the Court, as the case may be, either by the notification of the special agreement or by a written application addressed to the Registrar. In either case the subject of the dispute and the parties shall be indicated.  
+> 2. The Registrar shall forthwith communicate the application to all concerned.  
+> 3. He shall also notify the Members of the United Nations through the Secretary-General, and also any other states entitled to appear before the Court.  
+
+## Article 43
+
+> 1. The procedure shall consist of two parts: written and oral.  
+> 2. The written proceedings shall consist of the communication to the Court and to the parties of memorials, counter-memorials and, if necessary, replies; also all papers and documents in support.  
+> 3. These communications shall be made through the Registrar, in the order and within the time fixed by the Court.  
+> 4. A certified copy of every document produced by one party shall be communicated to the other party.  
+> 5. The oral proceedings shall consist of the hearing by the Court of witnesses, experts, agents, counsel, and advocates.  
+
+## Article 46
+
+> The hearing in Court shall be public, unless the Court shall decide otherwise, or unless the parties demand that the public be not admitted .  
+
+## Article 55
+
+> 1. All questions shall be decided by a majority of the judges present.  
+> 2. In the event of an equality of votes, the President or the judge who acts in his place shall have a casting vote.  
+
+## Article 56
+
+> 1. The judgment shall state the reasons on which it is based.  
+> 2. It shall contain the names of the judges who have taken part in the decision.  
+
+## Article 57
+
+> If the judgment does not represent in whole or in part the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.  
+
+## Article 64
+
+> Unless otherwise decided by the Court, each party shall bear its own costs.  

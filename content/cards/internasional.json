@@ -2384,5 +2384,438 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-mayoritas-absolut",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 10 Statuta ICJ, calon hakim dianggap terpilih jika memperoleh mayoritas absolut suara di…",
+    "options": [
+      "Majelis Umum dan Dewan Keamanan",
+      "Mahkamah sendiri lewat kooptasi",
+      "Majelis Umum PBB saja",
+      "Dewan Keamanan PBB saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (2): suara Dewan Keamanan dalam pemilihan hakim diambil tanpa membedakan anggota tetap dan tidak tetap, jadi tidak ada veto. Ayat (3): bila dua warga negara yang sama sama-sama terpilih, hanya yang tertua yang dianggap terpilih.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 10",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-tanpa-veto",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Dalam pemilihan hakim ICJ, suara Dewan Keamanan menurut Pasal 10 ayat (2) Statuta…",
+    "options": [
+      "Tanpa membedakan anggota tetap/tidak tetap",
+      "Hanya bersifat rekomendasi bagi Majelis Umum",
+      "Hanya dihitung dari lima anggota tetap",
+      "Tunduk pada hak veto anggota tetap"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ketentuan yang sama berlaku untuk penunjukan anggota konferensi gabungan menurut Pasal 12.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 10(2)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-larangan-jabatan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 16 Statuta ICJ, anggota Mahkamah tidak boleh…",
+    "options": [
+      "Memegang fungsi politik atau administratif",
+      "Mengajar hukum internasional di kampus",
+      "Tinggal di luar negara asalnya",
+      "Menulis pendapat berbeda dalam putusan resmi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Juga tidak boleh menekuni pekerjaan lain yang bersifat profesional. Keraguan mengenai hal ini diputus oleh Mahkamah.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 16",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-pernah-kuasa",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Seorang hakim ICJ dulu menjadi kuasa (counsel) salah satu pihak dalam perkara yang sama. Menurut Pasal 17 ayat (2) Statuta, ia…",
+    "options": [
+      "Wajib menjadi ketua majelis",
+      "Tidak boleh ikut memutus perkara itu",
+      "Boleh memutus bila para pihak setuju",
+      "Boleh memutus asal mengumumkannya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 17 ayat (1): anggota Mahkamah juga tidak boleh bertindak sebagai agen, kuasa, atau advokat dalam perkara apa pun. Keraguan diputus Mahkamah (ayat (3)).",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 17",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-presiden",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 21 Statuta ICJ, Presiden dan Wakil Presiden Mahkamah dipilih oleh Mahkamah untuk masa…",
+    "options": [
+      "Sembilan tahun dan tidak dapat dipilih lagi",
+      "Lima tahun oleh Majelis Umum PBB",
+      "Tiga tahun dan dapat dipilih kembali",
+      "Satu tahun secara bergiliran"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mahkamah juga mengangkat Panitera (Registrar). Bandingkan masa jabatan hakim: sembilan tahun (Pasal 13).",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 21",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-kedudukan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 22 Statuta ICJ, kedudukan Mahkamah berada di Den Haag. Apakah Mahkamah boleh bersidang di tempat lain?",
+    "options": [
+      "Boleh, hanya di markas besar PBB",
+      "Tidak boleh sama sekali, dalam keadaan apa pun",
+      "Boleh, hanya atas izin Dewan Keamanan",
+      "Boleh, bila Mahkamah anggap perlu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Presiden dan Panitera wajib bertempat tinggal di kedudukan Mahkamah (ayat (2)).",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 22",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-kuorum",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 25 ayat (3) Statuta ICJ, kuorum untuk membentuk Mahkamah adalah…",
+    "options": [
+      "Tujuh hakim",
+      "Sembilan hakim",
+      "Lima belas hakim",
+      "Sebelas hakim"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): pada dasarnya Mahkamah bersidang penuh. Ayat (2): pembebasan hakim dari sidang secara bergilir tidak boleh membuat jumlah hakim yang tersedia kurang dari sebelas.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 25",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-kamar-khusus",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 26 ayat (2) Statuta ICJ, jumlah hakim pada kamar (chamber) untuk satu perkara tertentu ditentukan oleh…",
+    "options": [
+      "Dewan Keamanan PBB lewat resolusi",
+      "Mahkamah, dengan persetujuan pihak",
+      "Para pihak sendiri tanpa Mahkamah",
+      "Sekretaris Jenderal PBB atas usul pihak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): Mahkamah juga dapat membentuk kamar untuk kategori perkara tertentu, misalnya perburuhan serta transit dan komunikasi. Ayat (3): perkara diperiksa kamar bila para pihak memintanya.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 26",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-prosedur-ringkas",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 29 Statuta ICJ, kamar prosedur ringkas (summary procedure) dibentuk setiap tahun dan terdiri atas…",
+    "options": [
+      "Lima hakim",
+      "Tiga hakim",
+      "Seluruh hakim",
+      "Sembilan hakim"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tujuannya mempercepat penyelesaian perkara, atas permintaan para pihak. Dua hakim lagi dipilih sebagai pengganti.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 29",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-terbuka-bagi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 35 ayat (1) Statuta ICJ, Mahkamah terbuka bagi…",
+    "options": [
+      "Negara pihak pada Statuta",
+      "Organisasi internasional mana pun",
+      "Negara yang punya hakim di Mahkamah",
+      "Semua orang dan badan hukum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Syarat bagi negara lain ditetapkan Dewan Keamanan, dengan tetap tidak boleh menempatkan para pihak dalam posisi tidak setara (ayat (2)).",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 35",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-bahasa",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 39 Statuta ICJ, bahasa resmi Mahkamah adalah…",
+    "options": [
+      "Inggris saja",
+      "Prancis dan Inggris",
+      "Enam bahasa resmi PBB",
+      "Bahasa para pihak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Atas permintaan pihak, Mahkamah dapat mengizinkan bahasa lain dipakai pihak tersebut (ayat (3)). Tanpa kesepakatan bahasa, putusan dibuat dalam kedua bahasa dan Mahkamah menentukan teks mana yang otoritatif.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 39",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-cara-berperkara",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 40 ayat (1) Statuta ICJ, perkara diajukan ke Mahkamah dengan…",
+    "options": [
+      "Notifikasi perjanjian khusus atau permohonan",
+      "Rekomendasi Dewan Keamanan atau Majelis Umum",
+      "Petisi warga negara yang merasa dirugikan",
+      "Laporan dari kepolisian internasional"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dalam keduanya harus disebutkan pokok sengketa dan para pihak. Panitera segera menyampaikan permohonan kepada semua yang berkepentingan.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 40",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-dua-bagian",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 43 Statuta ICJ, acara di Mahkamah terdiri atas…",
+    "options": [
+      "Tahap tertulis dan tahap lisan",
+      "Penyidikan dan penuntutan",
+      "Pemeriksaan banding dan kasasi",
+      "Mediasi lalu arbitrase"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tahap tertulis: memorial, kontra-memorial, dan bila perlu replik beserta dokumen pendukung. Tahap lisan: mendengar saksi, ahli, agen, kuasa, dan advokat.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 43",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-terbuka-umum",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 46 Statuta ICJ, persidangan di Mahkamah pada dasarnya…",
+    "options": [
+      "Terbuka hanya bagi negara anggota PBB",
+      "Tertutup kecuali putusannya",
+      "Selalu tertutup",
+      "Terbuka untuk umum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pengecualian: Mahkamah memutuskan lain, atau para pihak meminta agar publik tidak diizinkan hadir.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 46",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-suara-seimbang",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 55 Statuta ICJ, bila suara hakim sama banyak…",
+    "options": [
+      "Hakim paling senior menentukan",
+      "Perkara dinyatakan gugur",
+      "Dewan Keamanan PBB yang memutus",
+      "Presiden memberi suara penentu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (1): semua persoalan diputus dengan suara terbanyak hakim yang hadir. Suara penentu dipegang Presiden atau hakim yang menggantikannya.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 55",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-separate-opinion",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 57 Statuta ICJ, jika putusan tidak bulat, setiap hakim…",
+    "options": [
+      "Dapat membatalkan putusan",
+      "Harus mengikuti suara terbanyak tanpa catatan",
+      "Berhak menyampaikan pendapat terpisah",
+      "Wajib mengundurkan diri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 56: putusan harus memuat alasan dan nama hakim yang ikut memutus.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 56-57",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-biaya",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 64 Statuta ICJ, kecuali diputus lain oleh Mahkamah, biaya perkara…",
+    "options": [
+      "Dibagi rata semua negara anggota",
+      "Selalu ditanggung pihak yang kalah",
+      "Ditanggung PBB sepenuhnya",
+      "Ditanggung masing-masing pihak"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bandingkan Pasal 35 ayat (3): negara bukan anggota PBB yang berperkara dapat diminta ikut menanggung biaya Mahkamah.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 35(3), 64",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj2-humor-hakim-merangkap",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Rangkap jabatan",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Calon hakim: saya siap jadi hakim ICJ. Sambil jadi menteri juga."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Panitia: Pasal 16, dilarang fungsi politik atau administratif."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Calon hakim: kalau jadi komisaris BUMN?"
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Panitia: pekerjaan profesional lain juga dilarang."
+        }
+      ]
+    },
+    "caption": "Di Den Haag, rangkap jabatan tidak dianggap prestasi.",
+    "teaches": "Pasal 16 Statuta ICJ: anggota Mahkamah tidak boleh menjalankan fungsi politik atau administratif, atau pekerjaan lain yang bersifat profesional. Keraguan diputus oleh Mahkamah.",
+    "source": {
+      "title": "Statute of the International Court of Justice (Statuta Mahkamah Internasional)",
+      "reference": "Article 16",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

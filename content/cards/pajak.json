@@ -451,5 +451,638 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pajak-pp-cakupan-pajak",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut Pasal 1 angka 2 UU Pengadilan Pajak, 'Pajak' dalam UU ini mencakup…",
+    "options": [
+      "Pajak pusat (termasuk bea masuk dan cukai) dan pajak daerah",
+      "Pajak pusat saja, tanpa bea masuk, cukai, maupun pajak daerah",
+      "Hanya pajak penghasilan dan PPN yang dipungut pusat",
+      "Hanya pajak yang dipungut Direktorat Jenderal Pajak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 angka 2: semua jenis pajak yang dipungut Pemerintah Pusat, termasuk Bea Masuk dan Cukai, dan pajak yang dipungut Pemerintah Daerah. Karena itu sengketa kepabeanan dan pajak daerah juga dapat sampai ke Pengadilan Pajak.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 1 angka 2",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-banding-objek",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut Pasal 31 ayat (2), dalam hal Banding Pengadilan Pajak hanya memeriksa dan memutus sengketa atas…",
+    "options": [
+      "Surat paksa dan pelaksanaan penagihan",
+      "Keputusan keberatan, kecuali ditentukan lain",
+      "Putusan pengadilan negeri di bidang pajak",
+      "Peraturan Menteri Keuangan yang dinilai keliru"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 31 ayat (2). Pelaksanaan penagihan justru objek Gugatan (ayat (3)), dan pengujian peraturan bukan wewenang Pengadilan Pajak.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 31 ayat (2)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-tingkat",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut Pasal 33 ayat (1), Pengadilan Pajak merupakan…",
+    "options": [
+      "Lembaga kuasi-peradilan di bawah Direktorat Jenderal Pajak",
+      "Pengadilan tingkat banding atas putusan PTUN di bidang pajak",
+      "Pengadilan tingkat pertama dan terakhir sengketa pajak",
+      "Pengadilan tingkat pertama, dapat dibanding ke PT TUN"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 33 ayat (1). Putusannya akhir dan berkekuatan hukum tetap (Pasal 77 ayat (1)); upaya hukum yang tersisa hanya peninjauan kembali ke MA (Pasal 77 ayat (3)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 33 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-banding-3-bulan",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Banding ke Pengadilan Pajak diajukan dalam jangka waktu…",
+    "options": [
+      "3 bulan sejak diterima keputusan yang dibanding",
+      "14 hari sejak tanggal diterima keputusan itu",
+      "6 bulan sejak tanggal surat ketetapan pajak",
+      "30 hari sejak tanggal pelaksanaan penagihan pajak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 35 ayat (2), kecuali diatur lain dalam peraturan perpajakan. Jangka waktu tidak mengikat bila tak dapat dipenuhi karena keadaan di luar kekuasaan pemohon (ayat (3)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 35 ayat (2)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-satu-satu",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Wajib pajak menerima tiga keputusan keberatan sekaligus. Menurut Pasal 36 ayat (1), ia harus mengajukan…",
+    "options": [
+      "Tiga surat banding, satu per keputusan",
+      "Satu surat keberatan ulang ke kantor pajak",
+      "Satu surat banding untuk ketiganya sekaligus",
+      "Satu banding dan dua gugatan ke Pengadilan Pajak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 36 ayat (1): terhadap 1 keputusan diajukan 1 surat banding. Pola sama untuk gugatan (Pasal 40 ayat (6)). Pelanggarannya diperiksa dengan acara cepat sebagai sengketa tertentu (Pasal 66 ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 36 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-bahasa",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Surat Banding kepada Pengadilan Pajak harus diajukan dalam bahasa…",
+    "options": [
+      "Indonesia",
+      "Sesuai bahasa pembukuan wajib pajak",
+      "Inggris bila wajib pajak berstatus PMA",
+      "Indonesia atau Inggris, sesuai pilihan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 35 ayat (1); gugatan juga tertulis dalam Bahasa Indonesia (Pasal 40 ayat (1)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 35 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-pencabutan",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Banding yang telah dicabut melalui penetapan Ketua atau putusan Majelis…",
+    "options": [
+      "Dapat diajukan ulang dengan izin terbanding",
+      "Dapat diajukan kembali dalam 3 bulan",
+      "Tidak dapat diajukan kembali",
+      "Otomatis menjadi gugatan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 39 ayat (3).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 39",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-gugatan-penagihan",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Gugatan terhadap PELAKSANAAN PENAGIHAN pajak (misalnya penyitaan) diajukan paling lambat…",
+    "options": [
+      "3 bulan sejak tanggal diterima keputusan",
+      "60 hari sejak surat paksa diberitahukan kepadanya",
+      "30 hari sejak tanggal diterima keputusan",
+      "14 hari sejak tanggal pelaksanaan penagihan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 40 ayat (2): 14 hari. Gugatan terhadap keputusan lain: 30 hari sejak diterima (ayat (3)). Bila terhalang keadaan di luar kekuasaan, perpanjangan 14 hari sejak keadaan itu berakhir (ayat (5)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 40 ayat (2)-(5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-tidak-menunda",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Wajib pajak menggugat pelaksanaan penagihan. Apakah gugatan itu otomatis menghentikan penagihan?",
+    "options": [
+      "Ya; penagihan berhenti otomatis sampai ada putusan",
+      "Tidak; penundaan harus dimohonkan, dikabulkan bila sangat mendesak",
+      "Tidak; dan penundaan sama sekali tidak dapat dimohonkan oleh siapa pun",
+      "Ya; asalkan gugatan diajukan dalam 14 hari sejak penyitaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 43: gugatan tidak menunda penagihan (ayat (1)); penggugat dapat memohon penundaan (ayat (2)), yang dikabulkan hanya bila ada keadaan sangat mendesak yang sangat merugikan penggugat (ayat (4)). Permohonan itu dapat diputus lebih dulu lewat putusan sela (Pasal 77 ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 43 dan 77 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-majelis",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Untuk memeriksa dan memutus sengketa pajak, Ketua Pengadilan Pajak menunjuk…",
+    "options": [
+      "Majelis 3 hakim atau Hakim Tunggal",
+      "Majelis 3 hakim dan 2 hakim ad hoc",
+      "Majelis 5 hakim untuk setiap sengketa",
+      "Satu hakim dan satu fiskus senior"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 47 ayat (1).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 47 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-sidang-mulai",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Dalam perkara Banding, Majelis/Hakim Tunggal sudah mulai bersidang dalam jangka waktu…",
+    "options": [
+      "3 bulan sejak Surat Banding diterima",
+      "6 bulan sejak Surat Banding diterima",
+      "14 hari sejak Surat Banding diterima",
+      "12 bulan sejak Surat Banding diterima"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 48: banding 6 bulan; gugatan 3 bulan sejak Surat Gugatan diterima.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 48",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-alat-bukti",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Manakah yang termasuk alat bukti menurut Pasal 69 ayat (1) UU Pengadilan Pajak, tetapi tidak dikenal dalam daftar alat bukti acara perdata HIR?",
+    "options": [
+      "Surat atau tulisan",
+      "Pengetahuan Hakim",
+      "Pengakuan para pihak",
+      "Keterangan saksi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 69 ayat (1): surat/tulisan, keterangan ahli, keterangan saksi, pengakuan para pihak, dan/atau pengetahuan Hakim. Mirip daftar di hukum acara PTUN. Keadaan yang diketahui umum tidak perlu dibuktikan (ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 69",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-dua-bukti",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut Pasal 76, untuk sahnya pembuktian di Pengadilan Pajak diperlukan…",
+    "options": [
+      "Cukup 1 alat bukti tertulis",
+      "Paling sedikit 3 alat bukti",
+      "Persetujuan kedua pihak atas buktinya",
+      "Paling sedikit 2 alat bukti"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 76: Hakim menentukan apa yang harus dibuktikan, beban pembuktian, dan penilaiannya; sah bila paling sedikit 2 alat bukti menurut Pasal 69 ayat (1).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 76",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-saksi-tidak-boleh",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Siapa yang menurut Pasal 57 ayat (1) TIDAK boleh didengar sebagai saksi (kecuali Hakim Ketua memandang perlu)?",
+    "options": [
+      "Mantan istri pemohon banding",
+      "Konsultan pajak pemohon banding",
+      "Pegawai bagian akuntansi pemohon",
+      "Pegawai bank tempat pemohon menabung"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 57 ayat (1) huruf b: istri atau suami pemohon banding/penggugat meskipun sudah bercerai. Juga keluarga sedarah/semenda garis lurus sampai derajat ketiga, anak di bawah 17 tahun, dan orang sakit ingatan.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 57",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-putusan-tambah",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Manakah yang dapat menjadi amar putusan Pengadilan Pajak menurut Pasal 80 ayat (1)?",
+    "options": [
+      "Menjatuhkan pidana denda kepada wajib pajak",
+      "Menambah pajak yang harus dibayar",
+      "Mencabut izin usaha wajib pajak",
+      "Membekukan NPWP wajib pajak yang kalah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 80 ayat (1): menolak, mengabulkan sebagian/seluruhnya, menambah pajak yang harus dibayar, tidak dapat diterima, membetulkan kesalahan tulis/hitung, dan/atau membatalkan. Jadi banding bisa berujung pajak lebih besar.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 80 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-putusan-waktu",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Putusan acara biasa atas BANDING diambil dalam jangka waktu…",
+    "options": [
+      "6 bulan sejak Surat Banding diterima di kepaniteraan",
+      "100 hari kerja sejak berkas lengkap",
+      "3 bulan sejak sidang pertama digelar",
+      "12 bulan sejak Surat Banding diterima"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 81 ayat (1); dalam hal khusus dapat diperpanjang paling lama 3 bulan (ayat (3)). Untuk gugatan: 6 bulan (ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 81",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-pk-sekali",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Permohonan peninjauan kembali atas putusan Pengadilan Pajak…",
+    "options": [
+      "Dapat diajukan berkali-kali selama ada novum",
+      "Menangguhkan pelaksanaan putusan Pengadilan Pajak",
+      "Hanya 1 kali, ke MA melalui Pengadilan Pajak",
+      "Diajukan langsung ke MA tanpa melalui Pengadilan Pajak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 89 ayat (1)-(2): PK hanya sekali, melalui Pengadilan Pajak, dan tidak menangguhkan atau menghentikan pelaksanaan putusan.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 89",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-pk-alasan",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Manakah yang termasuk alasan PK sengketa pajak menurut Pasal 91?",
+    "options": [
+      "Pejabat yang menerbitkan ketetapan pajaknya sudah pensiun",
+      "Putusan nyata-nyata tidak sesuai peraturan perundang-undangan",
+      "Tarif pajak turun beberapa bulan setelah putusan dijatuhkan",
+      "Wajib pajak baru menyewa konsultan pajak yang jauh lebih baik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 91 huruf e. Alasan lain: kebohongan/tipu muslihat atau bukti palsu, bukti tertulis baru yang menentukan, dikabulkan hal yang tidak dituntut, dan bagian tuntutan belum diputus.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 91",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-pk-waktu",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "PK sengketa pajak dengan alasan 'putusan nyata-nyata tidak sesuai peraturan' diajukan paling lambat…",
+    "options": [
+      "3 bulan sejak putusan dikirim",
+      "180 hari sejak putusan diucapkan",
+      "1 tahun sejak putusan berkekuatan tetap",
+      "14 hari sejak putusan diterima"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 92 ayat (3). Untuk alasan tipu muslihat atau bukti baru, 3 bulan dihitung sejak diketahui/ditemukan (ayat (1)-(2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 92",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-pk-ma-waktu",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "MA memutus PK atas putusan Pengadilan Pajak yang diambil dengan acara BIASA dalam jangka waktu…",
+    "options": [
+      "12 bulan sejak permohonan diterima MA",
+      "3 bulan sejak permohonan diterima MA",
+      "1 bulan sejak permohonan diterima MA",
+      "6 bulan sejak permohonan diterima MA"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 93 ayat (1) huruf a; untuk putusan acara cepat: 1 bulan (huruf b).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 93",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-kuasa-keluarga",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Menurut Pasal 34 ayat (3), syarat khusus kuasa hukum di Pengadilan Pajak TIDAK diperlukan bila kuasanya adalah…",
+    "options": [
+      "Advokat yang terdaftar di organisasi advokat mana pun",
+      "Dosen hukum pajak tetap di perguruan tinggi negeri",
+      "Keluarga sampai derajat kedua, pegawai, atau pengampu",
+      "Pensiunan pegawai Direktorat Jenderal Pajak mana pun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 34 ayat (3). Syarat umum kuasa hukum: WNI, pengetahuan dan keahlian perpajakan yang luas, dan syarat lain yang ditetapkan Menteri (ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 34",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-rahasia-jabatan",
+    "type": "quiz",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "question": "Seorang pegawai bank dipanggil sebagai saksi di Pengadilan Pajak dan menolak dengan alasan rahasia jabatan. Menurut Pasal 59…",
+    "options": [
+      "Ia berhak menolak bersaksi tanpa konsekuensi apa pun",
+      "Ia hanya wajib bersaksi bila direksi bank menyetujuinya",
+      "Kesaksiannya otomatis digantikan surat keterangan dari bank",
+      "Untuk persidangan, kewajiban merahasiakan itu ditiadakan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 59. Perhatikan bahwa ketentuan rahasia bank di UU perbankan juga mengatur pengecualiannya sendiri; aturan itu belum diperiksa di sini.",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 59",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-humor-tambah",
+    "type": "humor",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Banding bukan tombol diskon",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Saya banding, biar pajak saya turun!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Majelis memeriksa ulang seluruh dalilnya…"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Amar: menambah pajak yang harus dibayar."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Saya minta diskon, dapatnya upsell."
+        }
+      ]
+    },
+    "caption": "Datang minta dikurangi, pulang dengan tagihan tambahan.",
+    "teaches": "Putusan Pengadilan Pajak dapat berupa menolak, mengabulkan sebagian/seluruhnya, menambah pajak yang harus dibayar, tidak dapat diterima, membetulkan kesalahan tulis/hitung, atau membatalkan (Pasal 80 ayat (1)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 80 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-humor-deadline",
+    "type": "humor",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "meme",
+      "top": "Gugat penyitaan pajak? Santai, besok-besok saja",
+      "bottom": "Tenggat gugatan pelaksanaan penagihan: 14 hari.",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Barang sudah disita, tenggat juga ikut kabur.",
+    "teaches": "Gugatan terhadap pelaksanaan penagihan pajak diajukan dalam 14 hari sejak tanggal pelaksanaan penagihan (Pasal 40 ayat (2)), dan gugatan tidak menunda penagihan (Pasal 43 ayat (1)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 40 dan 43",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pajak-pp-humor-borongan",
+    "type": "humor",
+    "topicId": "pajak",
+    "subTopicId": "sengketa-pajak",
+    "account": "npwp.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Paket hemat ditolak",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Lima keputusan keberatan, saya banding sekaligus satu surat. Hemat!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 36: satu keputusan, satu surat banding."
+        },
+        {
+          "character": "kancil",
+          "expression": "sad",
+          "text": "Ya sudah, beli prangko lima."
+        }
+      ]
+    },
+    "caption": "Banding tidak kenal promo bundling.",
+    "teaches": "Terhadap 1 keputusan diajukan 1 surat banding (Pasal 36 ayat (1)); banding yang tidak memenuhinya diperiksa dengan acara cepat sebagai sengketa pajak tertentu (Pasal 66 ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2002 tentang Pengadilan Pajak",
+      "reference": "Pasal 36 ayat (1) dan 66 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

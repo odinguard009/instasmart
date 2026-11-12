@@ -1829,5 +1829,599 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28i-bukan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Manakah yang TIDAK disebut Pasal 28I ayat (1) sebagai hak yang tidak dapat dikurangi dalam keadaan apa pun?",
+    "options": [
+      "Hak beragama",
+      "Hak untuk tidak disiksa",
+      "Hak tidak diperbudak dalam bentuk apa pun",
+      "Hak berserikat dan berkumpul"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 28I ayat (1) menyebut: hak hidup, tidak disiksa, kemerdekaan pikiran dan hati nurani, beragama, tidak diperbudak, diakui sebagai pribadi di hadapan hukum, dan tidak dituntut atas dasar hukum yang berlaku surut. Kebebasan berserikat (28E ayat (3)) tunduk pada pembatasan Pasal 28J ayat (2).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (1), 28E ayat (3), 28J ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28i-surut",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Asas bahwa seseorang tidak boleh dituntut atas dasar hukum yang berlaku surut dalam UUD 1945 dirumuskan sebagai…",
+    "options": [
+      "Kewajiban asasi tiap warga",
+      "Hak yang tak dapat dikurangi",
+      "Kewenangan khusus bagi Mahkamah Konstitusi",
+      "Hak yang boleh dibatasi UU"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 28I ayat (1) memasukkan hak untuk tidak dituntut atas dasar hukum yang berlaku surut ke dalam hak yang tidak dapat dikurangi dalam keadaan apa pun.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28i-4",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 28I ayat (4), perlindungan, pemajuan, penegakan, dan pemenuhan HAM adalah tanggung jawab…",
+    "options": [
+      "Negara, terutama pemerintah",
+      "Setiap orang, terutama tokoh masyarakat",
+      "Mahkamah Konstitusi sebagai pengawal",
+      "Komnas HAM sebagai lembaga mandiri"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 28I ayat (4). Kewajiban setiap orang yang diatur UUD adalah menghormati HAM orang lain (Pasal 28J ayat (1)), bukan memikul tanggung jawab pemenuhan HAM.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (4), 28J ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28i-5",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Pasal 28I ayat (5): supaya HAM ditegakkan sesuai prinsip negara hukum yang demokratis, pelaksanaan HAM…",
+    "options": [
+      "Dijamin, diatur, dan dituangkan dalam peraturan perundang-undangan",
+      "Mengikuti konvensi internasional tanpa perlu diatur lagi",
+      "Diserahkan pada kesepakatan adat setempat di setiap daerah dan desa",
+      "Ditentukan melalui putusan Presiden dalam keadaan darurat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 28I ayat (5). Naskah MPR menulis \"perundangan-undangan\" (salah ketik).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (5)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28i-2",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Hak untuk bebas dari perlakuan diskriminatif menurut Pasal 28I ayat (2) berlaku atas dasar…",
+    "options": [
+      "Ras dan golongan saja",
+      "Apa pun",
+      "Suku dan agama saja",
+      "Jenis kelamin saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 28I ayat (2): bebas atas perlakuan diskriminatif atas dasar apa pun, dan berhak mendapat perlindungan terhadap perlakuan itu.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28i-3",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Pasal 28I ayat (3): identitas budaya dan hak masyarakat tradisional dihormati…",
+    "options": [
+      "Selaras dengan perkembangan zaman dan peradaban",
+      "Tanpa syarat apa pun dan tidak dapat berubah",
+      "Hanya bila telah didaftarkan dan disahkan oleh pemerintah daerah",
+      "Selama tidak bertentangan dengan pasar bebas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 28I ayat (3). Bandingkan Pasal 18B ayat (2) tentang masyarakat hukum adat: diakui sepanjang masih hidup, sesuai perkembangan masyarakat dan prinsip NKRI, diatur dalam undang-undang.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (3), 18B ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28j-1",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Pasal 28J ayat (1) mewajibkan setiap orang untuk…",
+    "options": [
+      "Mengikuti pendidikan dasar",
+      "Menjunjung hukum dan pemerintahan",
+      "Ikut serta dalam usaha pertahanan negara",
+      "Menghormati HAM orang lain"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 28J ayat (1). Pilihan lain juga kewajiban dalam UUD, tetapi untuk WARGA NEGARA: bela negara dan pertahanan (27 ayat (3), 30 ayat (1)), menjunjung hukum (27 ayat (1)), pendidikan dasar (31 ayat (2)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28J ayat (1), 27, 30, 31",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28j-2-alasan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Manakah yang TIDAK disebut Pasal 28J ayat (2) sebagai pertimbangan pembatasan hak dan kebebasan?",
+    "options": [
+      "Kelancaran investasi",
+      "Ketertiban umum dalam masyarakat",
+      "Nilai-nilai agama",
+      "Moral"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 28J ayat (2): pembatasan dengan undang-undang, semata-mata untuk menjamin penghormatan hak orang lain dan memenuhi tuntutan yang adil sesuai pertimbangan moral, nilai-nilai agama, keamanan, dan ketertiban umum dalam masyarakat demokratis.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28J ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28a",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "\"Setiap orang berhak untuk hidup serta berhak mempertahankan hidup dan kehidupannya.\" Ini bunyi…",
+    "options": [
+      "Pasal 28H ayat (1)",
+      "Pasal 28A",
+      "Pasal 27 ayat (2)",
+      "Pasal 28I ayat (4)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 28A, pasal pertama Bab XA tentang Hak Asasi Manusia. Hak hidup juga disebut di Pasal 28I ayat (1) sebagai hak yang tidak dapat dikurangi.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28A, 28I ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28b-2",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Hak anak menurut Pasal 28B ayat (2) adalah…",
+    "options": [
+      "Memilih kewarganegaraan setelah berusia dewasa",
+      "Dipelihara negara bila terlantar beserta keluarganya",
+      "Tumbuh, berkembang, dan dilindungi dari kekerasan",
+      "Mendapat pendidikan dasar yang dibiayai pemerintah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 28B ayat (2): kelangsungan hidup, tumbuh, dan berkembang serta perlindungan dari kekerasan dan diskriminasi. Anak terlantar dipelihara negara diatur di Pasal 34 ayat (1).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28B ayat (2), 34 ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28b-1",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Pasal 28B ayat (1): hak membentuk keluarga dan melanjutkan keturunan dilakukan melalui…",
+    "options": [
+      "Pencatatan sipil di dinas",
+      "Upacara adat setempat",
+      "Perkawinan yang sah",
+      "Persetujuan kedua orang tua"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 28B ayat (1) hanya menyebut \"melalui perkawinan yang sah\"; syarat sahnya perkawinan diatur undang-undang perkawinan.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28B ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28h-2",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "\"Kemudahan dan perlakuan khusus untuk memperoleh kesempatan dan manfaat yang sama guna mencapai persamaan dan keadilan\" (dasar tindakan afirmatif) ada di…",
+    "options": [
+      "Pasal 28D ayat (1)",
+      "Pasal 28I ayat (2)",
+      "Pasal 28H ayat (2)",
+      "Pasal 27 ayat (1)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 28H ayat (2). Pasal 27 ayat (1) dan 28D ayat (1) bicara persamaan di hadapan hukum; 28I ayat (2) bebas dari diskriminasi.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28H ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28h-3",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Pasal 28H ayat (3): setiap orang berhak atas jaminan sosial yang memungkinkan…",
+    "options": [
+      "Penghasilan bulanan minimum yang setara dengan upah rata-rata pekerja",
+      "Pensiun dini bagi setiap pekerja sektor formal",
+      "Pengembangan dirinya secara utuh sebagai manusia bermartabat",
+      "Pembebasan dari semua pajak bagi keluarga miskin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 28H ayat (3). Kewajiban negara mengembangkan sistem jaminan sosial ada di Pasal 34 ayat (2).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28H ayat (3), 34 ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28d-4",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Pasal 28D ayat (4) menjamin setiap orang berhak atas…",
+    "options": [
+      "Suaka di Indonesia",
+      "Kewarganegaraan ganda terbatas",
+      "Paspor diplomatik",
+      "Status kewarganegaraan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 28D ayat (4). Kebebasan memilih kewarganegaraan ada di Pasal 28E ayat (1); suaka politik dari negara lain di Pasal 28G ayat (2).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28D ayat (4), 28E ayat (1), 28G ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-28c-2",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Hak memajukan diri dengan memperjuangkan haknya secara KOLEKTIF untuk membangun masyarakat, bangsa, dan negara dirumuskan di…",
+    "options": [
+      "Pasal 28J ayat (1)",
+      "Pasal 28E ayat (3)",
+      "Pasal 28C ayat (2)",
+      "Pasal 28 (rumusan asli)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 28C ayat (2). Pasal 28E ayat (3) mengatur kebebasan berserikat, berkumpul, dan mengeluarkan pendapat.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28C ayat (2), 28E ayat (3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-29-2",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 29 ayat (2), kemerdekaan memeluk agama dan beribadat dijamin negara bagi…",
+    "options": [
+      "Pemeluk agama resmi",
+      "Penduduk dewasa saja",
+      "Warga negara saja",
+      "Tiap-tiap penduduk"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 29 ayat (2) memakai kata \"penduduk\", yang menurut Pasal 26 ayat (2) mencakup WNI dan orang asing yang bertempat tinggal di Indonesia.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 29 ayat (2), 26 ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-bab-xa",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Bab XA tentang Hak Asasi Manusia (Pasal 28A-28J) dimasukkan ke UUD 1945 melalui…",
+    "options": [
+      "Perubahan Ketiga",
+      "Perubahan Kedua",
+      "Perubahan Keempat",
+      "Perubahan Pertama"
+    ],
+    "answerIndex": 1,
+    "explanation": "Naskah MPR memberi tanda **) (Perubahan Kedua) pada judul Bab XA dan setiap ayatnya. Pasal 28 sendiri rumusan asli.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Bab XA",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-18b-1",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Pasal 18B ayat (1): negara mengakui dan menghormati satuan pemerintahan daerah yang bersifat khusus atau istimewa, yang diatur dengan…",
+    "options": [
+      "Undang-undang",
+      "Keputusan Presiden",
+      "Peraturan daerah",
+      "Ketetapan MPR"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 18B ayat (1) (Perubahan Kedua).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 18B ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-18b-2",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 18B ayat (2), masyarakat hukum adat dan hak tradisionalnya diakui dan dihormati, KECUALI syarat…",
+    "options": [
+      "Sesuai perkembangan masyarakat",
+      "Telah ada sebelum tahun 1945",
+      "Sepanjang masih hidup",
+      "Sesuai prinsip NKRI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 18B ayat (2): sepanjang masih hidup dan sesuai perkembangan masyarakat dan prinsip NKRI, yang diatur dalam undang-undang. Tidak ada syarat tahun berdiri.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 18B ayat (2)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-25a",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "nasionalisme",
+    "account": "twk.harian",
+    "question": "Pasal 25A menyebut NKRI sebagai…",
+    "options": [
+      "Negara maritim berdasar wawasan bahari",
+      "Negara agraris dengan wilayah darat",
+      "Negara kepulauan berciri Nusantara",
+      "Negara pantai dengan laut teritorial"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 25A: negara kepulauan yang berciri Nusantara, dengan wilayah yang batas-batas dan hak-haknya ditetapkan dengan undang-undang (antara lain UU 43/2008 tentang Wilayah Negara).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 25A",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-31-3",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Sistem pendidikan nasional menurut Pasal 31 ayat (3) meningkatkan keimanan, ketakwaan, dan akhlak mulia dalam rangka…",
+    "options": [
+      "Menyiapkan aparatur sipil negara",
+      "Memenuhi kebutuhan dunia industri",
+      "Mencerdaskan kehidupan bangsa",
+      "Mengejar peringkat internasional"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 31 ayat (3); \"mencerdaskan kehidupan bangsa\" juga salah satu tujuan negara dalam Pembukaan UUD 1945.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 31 ayat (3)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-31-5",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "question": "Pasal 31 ayat (5): pemerintah memajukan ilmu pengetahuan dan teknologi dengan menjunjung tinggi…",
+    "options": [
+      "Kearifan lokal dan budaya daerah",
+      "Kebebasan akademik dan otonomi kampus negeri",
+      "Nilai-nilai agama dan persatuan bangsa",
+      "Daya saing global dan efisiensi pasar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 31 ayat (5), untuk kemajuan peradaban serta kesejahteraan umat manusia.",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 31 ayat (5)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-humor-komen-bebas",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "Netizen: 'Komentar apa pun itu hak asasi saya!'",
+      "bottom": "Pasal 28J: kamu juga wajib menghormati HAM orang lain.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Hak asasi datang sepaket dengan kewajiban asasi. Paketnya tidak bisa dipecah.",
+    "teaches": "Setiap orang wajib menghormati HAM orang lain; dalam menjalankan hak dan kebebasannya setiap orang tunduk pada pembatasan yang ditetapkan dengan undang-undang (Pasal 28J ayat (1) dan (2)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28J",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-humor-berlaku-surut",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "visual": {
+      "template": "comic",
+      "title": "Mesin waktu legislasi",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Aturan baru terbit hari ini. Kita pakai untuk kasus bulan lalu!"
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Itu namanya berlaku surut."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 28I: hak tak dituntut atas hukum surut tak bisa dikurangi."
+        },
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Yah, spanduknya sudah dicetak."
+        }
+      ]
+    },
+    "caption": "Kalau aturan bisa mundur ke masa lalu, semua orang jadi tersangka retroaktif.",
+    "teaches": "Hak untuk tidak dituntut atas dasar hukum yang berlaku surut termasuk HAM yang tidak dapat dikurangi dalam keadaan apa pun (Pasal 28I ayat (1)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 28I ayat (1)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-uud-humor-anggaran-20",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "uud-hak-warga",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "'Anggaran pendidikan wajib 20%. Seminar di hotel kan mendidik juga'",
+      "bottom": "Pasal 31 ayat (4): untuk penyelenggaraan pendidikan nasional.",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Persentasenya mudah dihafal. Peruntukannya lebih sering lupa.",
+    "teaches": "Negara memprioritaskan anggaran pendidikan sekurang-kurangnya 20% dari APBN dan APBD untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional (Pasal 31 ayat (4)).",
+    "source": {
+      "title": "UUD NRI Tahun 1945",
+      "reference": "Pasal 31 ayat (4)",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

@@ -2956,5 +2956,595 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-legalitas-acara",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Pasal 2 ayat (1) KUHAP baru (UU 20/2025) menyatakan acara pidana dilaksanakan…",
+    "options": [
+      "Berdasarkan peraturan kepolisian dan kejaksaan masing-masing",
+      "Menurut kesepakatan para pihak di persidangan",
+      "Hanya berdasarkan tata cara yang diatur dalam Undang-Undang",
+      "Berdasarkan kebiasaan setempat bila undang-undang diam"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 2 ayat (1). Mirip rumusan KUHAP lama: hukum acara pidana tidak boleh dibuat lewat aturan di bawah undang-undang.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 2 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-diferensiasi",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Sistem peradilan pidana terpadu dalam KUHAP baru dibangun atas dasar prinsip…",
+    "options": [
+      "Inkuisitorial murni ala Eropa",
+      "Dominus litis tunggal oleh jaksa",
+      "Penyidikan oleh hakim",
+      "Diferensiasi fungsional"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 2 ayat (2): penyidikan pada Polri, penuntutan pada Jaksa, pemeriksaan pengadilan pada Hakim, Advokat memberi jasa dan bantuan hukum, Pembimbing Kemasyarakatan membina narapidana dan terpidana.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 2 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-ruang-lingkup",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Ruang lingkup berlakunya KUHAP baru menurut Pasal 3 ayat (1):",
+    "options": [
+      "Peradilan pidana di lingkungan peradilan umum, semua tahap",
+      "Hanya tindak pidana yang tercantum dalam KUHP Nasional",
+      "Semua lingkungan peradilan, termasuk peradilan militer dan agama",
+      "Hanya tahap pemeriksaan di sidang pengadilan negeri"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 3 ayat (2): berlaku untuk seluruh tindak pidana, kecuali diatur lain dalam Undang-Undang.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 3",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-hakim-aktif",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Model pemeriksaan sidang menurut Pasal 4 KUHAP baru:",
+    "options": [
+      "Inkuisitorial murni: hakim memimpin penyidikan",
+      "Hakim aktif dipadu para pihak berlawanan berimbang",
+      "Adversarial murni: hakim sepenuhnya pasif seperti wasit",
+      "Juri menentukan bersalah, hakim menentukan pidana"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 4: perpaduan sistem Hakim aktif dengan para pihak berlawanan secara berimbang. Bandingkan DKPP yang wajib 'pasif' menurut UU Pemilu.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-penyidik-utama",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Menurut Pasal 6 ayat (2) KUHAP baru, penyidik utama yang berwenang menyidik semua tindak pidana adalah…",
+    "options": [
+      "PPNS",
+      "Penyidik Polri",
+      "Penyidik Tertentu",
+      "Jaksa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 6 ayat (1): penyidik terdiri atas Penyidik Polri, PPNS, dan Penyidik Tertentu. Ayat (2): Penyidik Polri penyidik utama.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-pembantu",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Penyidik Pembantu punya wewenang seperti Penyidik, KECUALI…",
+    "options": [
+      "Memanggil saksi untuk diperiksa dan didengar keterangannya",
+      "Mengambil sidik jari dan memotret seseorang",
+      "Penahanan, yang butuh pelimpahan dari Penyidik",
+      "Menerima laporan atau pengaduan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 10 KUHAP baru.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-hak-bantuan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Sebelum pemeriksaan dimulai, Penyidik wajib memberitahukan kepada Tersangka hak untuk…",
+    "options": [
+      "Menunda pemeriksaan sampai satu tahun",
+      "Mendapat Bantuan Hukum atau didampingi Advokat",
+      "Diperiksa di rumahnya sendiri",
+      "Memilih sendiri penyidik yang akan memeriksanya nanti"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 31 KUHAP baru.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 31",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-keberatan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Penyidik mengajukan pertanyaan menjerat kepada Tersangka. Menurut Pasal 32 KUHAP baru, Advokat yang mendampingi dapat…",
+    "options": [
+      "Menghentikan penyidikan seketika tanpa perlu izin siapa pun",
+      "Menyatakan keberatan yang dicatat di berita acara",
+      "Menahan penyidik selama 1 x 24 jam",
+      "Mengganti penyidik dengan izin ketua pengadilan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 32 ayat (2)-(3): keberatan atas intimidasi atau pertanyaan menjerat dicatat dalam berita acara.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 32",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-hak-diam",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Menurut Pasal 142 KUHAP baru, Tersangka atau Terdakwa berhak…",
+    "options": [
+      "Menolak hadir di sidang tanpa akibat hukum apa pun",
+      "Membaca berkas penyidikan saksi lain sebelum diperiksa",
+      "Menentukan sendiri hakim yang memeriksa perkaranya",
+      "Memberi atau menolak memberi keterangan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 142 juga memuat hak didampingi Advokat, diberi tahu sangkaan dalam bahasa yang dimengerti, juru bahasa, ganti rugi dan rehabilitasi, serta bebas dari penyiksaan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 142",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-hak-rj",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Manakah yang tercantum sebagai hak Tersangka atau Terdakwa dalam Pasal 142 KUHAP baru?",
+    "options": [
+      "Memohon mekanisme Keadilan Restoratif",
+      "Menentukan sendiri tuntutan pidana yang akan dibacakan jaksa",
+      "Meminta perkara dialihkan ke peradilan militer",
+      "Dibebaskan bila korban tidak hadir"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 142. Korban juga berhak melakukan mekanisme Keadilan Restoratif (Pasal 144).",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 142",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-wna",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Tersangka berkewarganegaraan asing berhak menurut Pasal 142 KUHAP baru untuk…",
+    "options": [
+      "Diadili menurut hukum acara negaranya",
+      "Langsung dideportasi tanpa proses peradilan pidana",
+      "Dikunjungi perwakilan negaranya",
+      "Diperiksa hanya oleh penyidik dari negaranya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 142. Ia juga dapat menunjuk perwakilan suatu negara untuk dihubungi.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 142",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-saksi-imun",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Saksi tidak dapat dituntut secara pidana maupun perdata atas kesaksiannya, KECUALI…",
+    "options": [
+      "Saksi tidak disumpah sebelum memberi keterangan di sidang",
+      "Terdakwa akhirnya diputus bebas oleh pengadilan negeri",
+      "Kesaksian diberikan tidak dengan iktikad baik",
+      "Saksi adalah keluarga terdakwa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 143 KUHAP baru. Rumusan serupa berlaku bagi Korban (Pasal 144).",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 143",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-saksi-tolak",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Menurut Pasal 143 KUHAP baru, Saksi berhak menolak memberikan keterangan yang…",
+    "options": [
+      "Memberatkan dirinya, walau sudah disumpah",
+      "Tidak disukai penyidik",
+      "Sudah pernah ia sampaikan sebelumnya lewat media sosial",
+      "Bertentangan dengan keterangan saksi lain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 143. Saksi juga berhak bebas dari pertanyaan menjerat dan dapat dirahasiakan identitasnya.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 143",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-korban-dampak",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Hak Korban yang disebut dalam Pasal 144 KUHAP baru antara lain…",
+    "options": [
+      "Menentukan lamanya pidana yang dijatuhkan",
+      "Membatalkan putusan bila tidak puas",
+      "Menjadi penuntut umum dalam perkaranya sendiri di sidang",
+      "Menyampaikan pernyataan dampak tindak pidana"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 144 juga memuat hak atas informasi perkembangan perkara, Restitusi, dan pendampingan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 144",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-restitusi",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Menurut Pasal 144 KUHAP baru, Restitusi bagi Korban dapat diajukan melalui…",
+    "options": [
+      "Tuntutan, atau penetapan pengadilan setelah inkracht",
+      "Hanya permohonan ke kepala daerah",
+      "Hanya gugatan perdata terpisah setelah perkara pidana selesai",
+      "Pengaduan ke ombudsman atau komisi kepolisian nasional"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 144 menyebut keduanya: mengajukan Restitusi melalui tuntutan, dan mendapatkan Restitusi melalui penetapan pengadilan yang diajukan setelah putusan berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 144",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-disabilitas",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Pelaku yang tidak dapat dimintai pertanggungjawaban karena disabilitas mental/intelektual berat dapat ditetapkan tindakan Rehabilitasi atau perawatan. Penetapan itu…",
+    "options": [
+      "Dibuat penyidik tanpa sidang",
+      "Bukan putusan pemidanaan",
+      "Merupakan putusan pemidanaan bersyarat",
+      "Diperiksa dalam sidang tertutup"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 146: ditetapkan Hakim dalam sidang terbuka untuk umum, dan bukan putusan pemidanaan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 146",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-terbuka",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Hakim ketua membuka sidang dan menyatakan terbuka untuk umum, KECUALI dalam perkara…",
+    "options": [
+      "Dengan ancaman pidana di bawah 5 tahun",
+      "Yang menarik perhatian media",
+      "Korupsi dan narkotika",
+      "Kesusilaan atau terdakwanya anak"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 202 ayat (2) KUHAP baru.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 202 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-bahasa",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Pemeriksaan di sidang pengadilan menurut Pasal 202 ayat (4) KUHAP baru dilakukan…",
+    "options": [
+      "Dalam bahasa Inggris bila terdakwanya warga negara asing",
+      "Lisan, dalam bahasa Indonesia yang dimengerti",
+      "Secara tertulis seluruhnya melalui sistem elektronik",
+      "Dalam bahasa daerah tempat pengadilan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 202 ayat (4). Bila tidak mengerti, ada hak atas penerjemah atau juru bahasa (Pasal 142-143).",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 202 ayat (4)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-umur-17",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Hakim ketua sidang dapat menentukan bahwa anak yang belum mencapai umur … tidak dibolehkan menghadiri sidang.",
+    "options": [
+      "12 tahun",
+      "18 tahun",
+      "21 tahun",
+      "17 tahun"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 202 ayat (6) KUHAP baru.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 202 ayat (6)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-putusan-terbuka",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "saksi.cicak",
+    "question": "Putusan pengadilan hanya sah dan mempunyai kekuatan hukum jika…",
+    "options": [
+      "Disetujui penuntut umum",
+      "Diucapkan dalam sidang terbuka umum",
+      "Diumumkan di laman resmi pengadilan negeri",
+      "Ditandatangani ketua pengadilan tinggi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 248 KUHAP baru. Berlaku juga untuk perkara yang pemeriksaannya tertutup.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 248",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-humor-diam",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Berita acara keberatan",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Penyidik: kamu wajib jawab semua pertanyaan!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Advokat: Pasal 142: klien saya berhak menolak memberi keterangan."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Penyidik: lalu saya catat apa?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Advokat: keberatan saya. Pasal 32: dicatat di berita acara."
+        }
+      ]
+    },
+    "caption": "Hak diam: satu-satunya diam yang dijamin undang-undang.",
+    "teaches": "Pasal 142 KUHAP baru (hak memberi atau menolak keterangan) dan Pasal 32 (keberatan Advokat dicatat dalam berita acara).",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 32, 142",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-humor-putusan",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Putusan dibacakan diam-diam di ruang hakim",
+      "bottom": "Pasal 248: tidak sah. Ulangi, pintu dibuka.",
+      "character": "gecko",
+      "expression": "shock"
+    },
+    "caption": "Bahkan sidang kesusilaan yang tertutup: putusannya tetap dibacakan terbuka.",
+    "teaches": "Pasal 248 KUHAP baru: putusan hanya sah dan berkekuatan hukum bila diucapkan dalam sidang terbuka untuk umum.",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 248",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-as-humor-diferensiasi",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "asas-peradilan-pidana",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Satu orang tiga peran",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Oknum: saya sidik, saya tuntut, saya putus sekalian. Efisien."
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Dosen: Pasal 2 ayat (2): diferensiasi fungsional."
+        },
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Oknum: artinya?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Dosen: penyidik, penuntut, hakim beda orang. Efisien bukan berarti merangkap."
+        }
+      ]
+    },
+    "caption": "Kalau semua dirangkap, namanya bukan sistem terpadu, tapi sistem terpusat.",
+    "teaches": "Pasal 2 ayat (2) KUHAP baru: sistem peradilan pidana terpadu atas dasar diferensiasi fungsional (penyidikan Polri, penuntutan Jaksa, pemeriksaan Hakim, jasa hukum Advokat, pembinaan Pembimbing Kemasyarakatan).",
+    "source": {
+      "title": "UU No. 20 Tahun 2025 tentang Hukum Acara Pidana",
+      "reference": "Pasal 2 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

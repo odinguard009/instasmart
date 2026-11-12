@@ -40,7 +40,24 @@ export default defineConfig({
       },
     }),
   ],
-  build: { chunkSizeWarningLimit: 700 },
+  build: {
+    // Konten (~2,8 MB JSON) mendominasi ukuran. Dipisah dari kode aplikasi supaya pembaruan UI tidak memaksa
+    // ponsel mengunduh ulang seluruh konten, dan sebaliknya. Batas peringatan dinaikkan khusus untuk chunk konten.
+    chunkSizeWarningLimit: 3200,
+    rollupOptions: {
+      output: {
+        manualChunks(id) {
+          if (id.includes('/content/cards/') || id.endsWith('/content/topics.json') || id.endsWith('/content/accounts.json')) return 'content';
+          // Hanya pustaka inti yang selalu dipakai; dependensi yang dimuat malas (mis. perender gambar bagikan) tetap terpisah.
+          if (/\/node_modules\/(react|react-dom|react-router|react-router-dom|scheduler|zustand|zod)\//.test(id)) {
+            if (id.includes('/react-dom/') && id.includes('server')) return undefined;
+            return 'vendor';
+          }
+          return undefined;
+        },
+      },
+    },
+  },
   test: {
     environment: 'node',
     include: ['tests/**/*.test.{ts,tsx}'],

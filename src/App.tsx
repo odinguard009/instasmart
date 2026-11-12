@@ -1,15 +1,17 @@
-import { useEffect } from 'react';
+import { lazy, Suspense, useEffect } from 'react';
 import { HashRouter, Outlet, Route, Routes, useLocation } from 'react-router-dom';
 import { BottomNav } from '@/components/BottomNav';
 import { CardDetailPage } from '@/features/explore/CardDetailPage';
 import { ExplorePage } from '@/features/explore/ExplorePage';
 import { FavoritesPage } from '@/features/favorites/FavoritesPage';
 import { HomePage } from '@/features/home/HomePage';
-import { ProfilePage } from '@/features/profile/ProfilePage';
 import { ReelsPage } from '@/features/reels/ReelsPage';
-import { RenderPage } from '@/features/reels/RenderPage';
-import { ReviewPage } from '@/features/review/ReviewPage';
 import { useActions, useStore } from '@/state/store';
+
+// Layar yang jarang dibuka dimuat saat dibutuhkan, supaya pembukaan awal (Beranda) lebih ringan.
+const ProfilePage = lazy(() => import('@/features/profile/ProfilePage').then((m) => ({ default: m.ProfilePage })));
+const ReviewPage = lazy(() => import('@/features/review/ReviewPage').then((m) => ({ default: m.ReviewPage })));
+const RenderPage = lazy(() => import('@/features/reels/RenderPage').then((m) => ({ default: m.RenderPage })));
 
 /** Menerapkan tema ke <html> dan mengikuti preferensi sistem bila dipilih. */
 function useTheme(): void {
@@ -47,7 +49,9 @@ function Shell() {
   return (
     <div className="mx-auto flex h-full max-w-[480px] flex-col bg-bg">
       <main key={pathname} className={`min-h-0 flex-1 ${fullBleed ? 'overflow-hidden' : 'overflow-y-auto'}`}>
-        <Outlet />
+        <Suspense fallback={<p className="p-6 text-center text-sm text-muted">Memuat…</p>}>
+          <Outlet />
+        </Suspense>
       </main>
       <BottomNav />
     </div>
@@ -60,7 +64,14 @@ export function App() {
   return (
     <HashRouter>
       <Routes>
-        <Route path="/render/:id" element={<RenderPage />} />
+        <Route
+          path="/render/:id"
+          element={
+            <Suspense fallback={null}>
+              <RenderPage />
+            </Suspense>
+          }
+        />
         <Route element={<Shell />}>
           <Route index element={<HomePage />} />
           <Route path="jelajah" element={<ExplorePage />} />

@@ -61,7 +61,7 @@ function RouteScroller({ pathname }: { pathname: string }) {
 function Shell() {
   const { pathname } = useLocation();
   return (
-    <div className="mx-auto flex h-full max-w-[480px] flex-col bg-bg">
+    <div className="pt-safe mx-auto flex h-full max-w-[480px] flex-col bg-bg">
       <RouteScroller key={pathname} pathname={pathname} />
       <BottomNav />
     </div>

@@ -67,6 +67,10 @@ button {
   .pb-safe {
     padding-bottom: env(safe-area-inset-bottom, 0px);
   }
+  /* viewport-fit=cover membuat konten masuk ke area status bar/poni pada PWA standalone. */
+  .pt-safe {
+    padding-top: env(safe-area-inset-top, 0px);
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {

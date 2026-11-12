@@ -52,7 +52,7 @@ export function StoryViewer({ stories, startIndex, onClose }: StoryViewerProps) 
   if (!story || !slide) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black" role="dialog" aria-modal="true" aria-label={`Story ${story.title}`}>
+    <div className="pt-safe pb-safe fixed inset-0 z-50 flex items-center justify-center bg-black" role="dialog" aria-modal="true" aria-label={`Story ${story.title}`}>
       {/* Kanvas story 9:16 ditampilkan utuh (tanpa terpotong); sisa layar hitam seperti letterbox. */}
       <div className="relative aspect-[9/16] max-h-full w-full max-w-[min(480px,calc(100dvh*9/16))] overflow-hidden sm:rounded-xl">
         <VisualView visual={slide.visual} topicPalette={topicPaletteOf(story)} frame="story" className="absolute inset-0 h-full w-full" />

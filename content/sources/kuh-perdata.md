@@ -292,3 +292,140 @@
 ## Pasal 1655
 
 "Para pengurus badan hukum, bila tidak ditentukan lain dalam akta pendiriannya, dalam surat perjanjian atau dalam reglemen berkuasa untuk bertindak demi dan atas nama badan hukum itu, untuk mengikatkan badan hukum itu kepada pihak ketiga atau sebaliknya, dan untuk bertindak dalam sidang Pengadilan baik sebagai penggugat maupun sebagai tergugat."
+
+## Tambahan kedua (diambil 12 November 2026 dari berkas yang sama): perbuatan melawan hukum, pembuktian, lewat waktu, dan pewarisan
+
+> Sama seperti bagian lain di berkas ini: terjemahan tidak resmi; tanda hubung pemenggalan baris disambung. Salah ketik dibiarkan ("meneka" pada 1367, "miik" pada 833, "hat" pada 842, "termasud" pada 916a, "dan" yang semestinya "dari" pada 1368, 852, 913, 920). Ketentuan upah buruh pada Pasal 1968-1969 tidak dikutip karena hubungan kerja kini diatur undang-undang ketenagakerjaan.
+
+## Pasal 830
+
+> Pewarisan hanya terjadi karena kematian.
+
+## Pasal 832
+
+> Menurut undang-undang, yang berhak menjadi ahli waris ialah keluarga sedarah, baik yang sah menurut undang-undang maupun yang di luar perkawinan, dan suami atau isteri yang hidup terlama, menurut peraturan-peraturan berikut ini. Bila keluarga sedarah dan suami atau isteri yang hidup terlama tidak ada, maka semua harta peninggalan menjadi milik negara, yang wajib melunasi utang-utang orang yang meninggal tersebut, sejauh harga harta peninggalan mencukupi untuk itu.
+
+## Pasal 836
+
+> Agar dapat bertindak sebagai ahli waris, seseorang harus sudah ada pada saat warisan itu dibuka, dengan mengindahkan ketentuan dalam Pasal 2 kitab undang-undang ini.
+
+## Pasal 838
+
+> Orang yang dianggap tidak pantas untuk menjadi ahli waris, dan dengan demikian tidak mungkin mendapat warisan, ialah: 1. dia yang telah dijatuhi hukuman karena membunuh atau mencoba membunuh orang yang meninggal itu; 2. dia yang dengan putusan Hakim pernah dipersalahkan karena dengan fitnah telah mengajukan tuduhan terhadap pewaris, bahwa pewaris pernah melakukan suatu kejahatan yang diancam dengan hukuman penjara lima tahun atau hukuman yang lebih berat lagi; 3. dia yang telah menghalangi orang yang telah meninggal itu dengan kekerasan atau perbuatan nyata untuk membuat atau menarik kembali wasiatnya; 4. dia yang telah menggelapkan. memusnahkan atau memalsukan wasiat orang yang meninggal itu.
+
+## Pasal 842
+
+> Penggantian yang terjadi dalam garis lurus ke bawah yang sah, berlangsung terus tanpa akhir. Penggantian itu diizinkan dalam segala hat, baik bila anak-anak dan orang yang meninggal menjadi ahli waris bersama-sama dengan keturunan-keturunan dan anak yang meninggal lebih dahulu, maupun bila semua keturunan mereka mewaris bersama-sama, seorang dengan yang lain dalam pertalian keluarga yang berbeda-beda derajatnya.
+
+## Pasal 852
+
+> Anak-anak atau keturunan-keturunan, sekalipun dilahirkan dan berbagai perkawinan, mewarisi harta peninggalan para orangtua mereka, kakek dan nenek mereka, atau keluarga-keluarga sedarah mereka selanjutnya dalam garis lurus ke atas, tanpa membedakan jenis kelamin atau kelahiran yang lebih dulu. Mereka mewarisi bagian-bagian yang sama besarnya kepala demi kepala, bila dengan yang meninggal mereka semua bertalian keluarga dalam derajat pertama dan masing-masing berhak karena dirinya sendiri; mereka mewarisi pancang demi pancang, bila mereka semua atas sebagian mewarisi sebagai pengganti.
+
+## Pasal 874
+
+> Segala harta peninggalan seseorang yang meninggal dunia, adalah kepunyaan para ahli warisnya menurut undang-undang, sejauh mengenai hal itu dia belum mengadakan ketetapan yang sah.
+
+## Pasal 875
+
+> Surat wasiat atau testamen adalah sebuah akta berisi pernyataan seseorang tentang apa yang dikehendakinya terjadi setelah ia meninggal, yang dapat dicabut kembali olehnya.
+
+## Pasal 914
+
+> Bila pewaris hanya meninggalkan satu orang anak sah dalam garis ke bawah, maka legitieme portie itu terdiri dari seperdua dari harta peninggalan yang sedianya akan diterima anak itu pada pewarisan karena kematian. Bila yang meninggal meninggalkan dua orang anak, maka legitieme portie untuk tiap-tiap anak adalah dua pertiga bagian dari apa yang sedianya akan diterima tiap anak pada pewarisan karena kematian. Dalam hal orang yang meninggal dunia meninggalkan tiga orang anak atau lebih, maka legitieme portie itu tiga perempat bagian dari apa yang sedianya akan diterima tiap anak pada pewarisan karena kematian. Dengan sebutan anak-anak dimaksudkan juga keturunan-keturunan mereka dalam derajat seberapa pun tetapi mereka ini hanya dihitung sebagai pengganti anak yang mereka wakili dalam mewarisi warisan pewaris.
+
+## Pasal 920
+
+> Pemberian-pemberian atau hibah-hibah, baik antara yang masih hidup maupun dengan surat wasiat, yang merugikan bagian legitieme portie, boleh dikurangi pada waktu terbukanya warisan itu, tetapi hanya atas tuntutan para legitimaris dan para ahli waris mereka atau pengganti mereka. Namun demikian, para legitimaris tidak boleh menikmati apa pun dan pengurangan itu atas kerugian mereka yang berpiutang kepada pewaris.
+
+## Pasal 1023
+
+> Barangsiapa memperoleh hak atas suatu warisan dan sekiranya ingin menyelidiki keadaan harta peninggalan itu, agar dapat mempertimbangkan yang terbaik bagi kepentingan mereka, apakah menerima secara murni, ataukah menerima dengan hak istimewa untuk merinci harta peninggalan itu, ataukah menolaknya, mempunyai hak untuk berpikir, dan harus memberikan pernyataan mengenai hal itu pada kepaniteraan Pengadilan Negeri yang dalam daerah hukumnya warisan itu terbuka; pernyataan itu harus didaftarkan dalam daftar yang disediakan untuk itu. Di tempat-tempat yang terpisah oleh laut dari hubungan langsung dengan tempat kedudukan Pengadilan Negeri, pernyataan itu dapat diberikan kepada Kepala Pemerintahan Daerah setempat, yang kemudian membuat catatan mengenai hal itu dan mengirimkannya kepada Pengadilan Negeri yang selanjutnya memerintahkan pembukuannya.
+
+## Pasal 1045
+
+> Tiada seorang pun diwajibkan untuk menerima warisan yang jatuh ke tangannya.
+
+## Pasal 1057
+
+> Penolakan suatu warisan harus dilakukan dengan tegas, dan harus terjadi dengan cara memberikan pernyataan di kepaniteraan Pengadilan Negeri yang dalam daerah hukumnya warisan itu terbuka.
+
+## Pasal 1058
+
+> Ahli waris yang menolak warisan, dianggap tidak pernah menjadi ahli waris.
+
+## Pasal 1066
+
+> Tiada seorang pun diharuskan menerima berlangsungnya harta peninggalan dalam keadaan tidak terbagi. Pemisahan harta peninggalan itu dapat sewaktu-waktu dituntut, meskipun ada ketentuan yang bertentangan dengan itu. Akan tetapi dapat diadakan persetujuan untuk tidak melaksanakan pemisahan harta peninggalan itu selama waktu tertentu. Perjanjian demikian hanya mengikat untuk lima tahun, tetapi tiap kali lewat jangka waktu itu perjanjian itu dapat diperbarui.
+
+## Pasal 1367
+
+> Seseorang tidak hanya bertanggung jawab, atas kerugian yang disebabkan perbuatannya sendiri, melainkan juga atas kerugian yang disebabkan perbuatan-perbuatan orang-orang yang menjadi tanggungannya atau disebabkan barang-barang yang berada di bawah pengawasannya. Orangtua dan wali bertanggung jawab atas kerugian yang disebabkan oleh anak-anak yang belum dewasa, yang tinggal pada mereka dan terhadap siapa mereka melakukan kekuasaan orangtua atau wali. Majikan dan orang yang mengangkat orang lain untuk mewakili urusan-urusan mereka, bertanggung jawab atas kerugian yang disebabkan oleh pelayan atau bawahan mereka dalam melakukan pekerjaan yang ditugaskan kepada orang-orang itu. Guru sekolah atau kepala tukang bertanggung jawab atas kerugian yang disebabkan oleh murid-muridnya atau tukang-tukangnya selama waktu orang-orang itu berada di bawah pengawasannya. Tanggung jawab yang disebutkan di atas berakhir, jika orangtua, guru sekolah atau kepala tukang itu membuktikan bahwa mereka masing-masing tidak dapat mencegah perbuatan itu atas mana meneka seharusnya bertanggung jawab.
+
+## Pasal 1368
+
+> Pemilik binatang, atau siapa yang memakainya, selama binatang itu dipakainya, bertanggung jawab atas kerugian yang disebabkan oleh binatang tersebut, baik binatang itu ada di bawah pengawasannya maupun binatang tersebut tersesat atau terlepas dan pengawasannya.
+
+## Pasal 1369
+
+> Pemilik sebuah gedung bertanggung jawab atas kerugian yang disebabkan oleh ambruknya gedung itu seluruhnya atau sebagian, jika itu terjadi karena kelalaian dalam pemeliharaan atau karena kekurangan dalam pembangunan ataupun dalam penataannya.
+
+## Pasal 1370
+
+> Dalam hal pembunuhan dengan sengaja atau kematian seseorang karena kurang hati-hatinya orang lain, suami atau istri yang ditinggalkan, anak atau orangtua korban yang lazimnya mendapat nafkah dan pekerjaan korban, berhak menuntut ganti rugi yang harus dinilai menurut kedudukan dan kekayaan kedua belah pihak, serta menurut keadaan.
+
+## Pasal 1372
+
+> Tuntutan perdata tentang hal penghinaan diajukan untuk memperoleh penggantian kerugian serta pemulihan kehormatan dan nama baik. Dalam menilai satu sama lain, hakim harus memperhatikan kasar atau tidaknya penghinaan, begitu pula pangkat, kedudukan dan kemampuan kedua belah pihak dan keadaan.
+
+## Pasal 1376
+
+> Tuntutan perdata tentang penghinaan tidak dapat dikabulkan jika tidak ternyata adanya maksud untuk menghina. Maksud untuk menghina tidak dianggap ada, jika perbuatan termaksud nyata-nyata dilakukan untuk kepentingan umum atau untuk pembelaan diri secara terpaksa.
+
+## Pasal 1380
+
+> Tuntutan dalam perkara penghinaan gugur dengan lewatnya waktu satu tahun, terhitung mulai dari hari perbuatan termaksud dilakukan oleh tergugat dan diketahui oleh penggugat.
+
+## Pasal 1867
+
+> Pembuktian dengan tulisan dilakukan dengan tulisan otentik atau dengan tulisan di bawah tangan.
+
+## Pasal 1874
+
+> Yang dianggap sebagai tulisan di bawah tangan adalah akta yang ditandatangani di bawah tangan, surat, daftar, surat urusan rumah tangga dan tulisan-tulisan yang lain yang dibuat tanpa perantaraan seorang pejabat umum. Dengan penandatanganan sebuah tulisan di bawah tangan disamakan pembubuhan suatu cap jempol dengan suatu pernyataan yang bertanggal dari seorang Notaris atau seorang pejabat lain yang ditunjuk undang-undang yang menyatakan bahwa pembubuh cap jempol itu dikenal olehnya atau telah diperkenalkan kepadanya, bahwa si akta telah dijelaskan kepada orang itu, dan bahwa setelah itu cap jempol tersebut dibubuhkan pada tulisan tersebut di hadapan pejabat yang bersangkutan. Pegawai ini harus membuktikan tulisan tersebut. Dengan undang-undang dapat diadakan aturan-aturan lebih lanjut tentang pernyataan dan pembukuan termaksud.
+
+## Pasal 1875
+
+> Suatu tulisan di bawah tangan yang diakui kebenarannya oleh orang yang dihadapkan kepadanya atau secara hukum dianggap telah dibenarkan olehnya, menimbulkan bukti lengkap seperti suatu akta otentik bagi orang-orang yang menandatanganinya, ahli warisnya serta orang-orang yang mendapat hak dari mereka; ketentuan Pasal 1871 berlaku terhadap tulisan itu.
+
+## Pasal 1895
+
+> Pembuktian dengan saksi-saksi diperkenankan dalam segala hal yang tidak dikecualikan oleh undang-undang.
+
+## Pasal 1902
+
+> Dalam hal undang-undang memerintahkan pembuktian dengan tulisan, diperkenankan pembuktian dengan saksi, bila ada suatu bukti permulaan tertulis, kecuali jika tiap pembuktian tidak diperkenankan selain dengan tulisan. Yang dinamakan bukti permulaan tertulis ialah segala akta tertulis yang berasal dari orang yang terhadapnya suatu tuntutan diajukan atau dari orang yang diwakili olehnya dan yang kiranya membenarkan adanya peristiwa hukum yang diajukan oleh seseorang sebagai dasar tuntutan itu.
+
+## Pasal 1916
+
+> Persangkaan yang berdasarkan undang-undang ialah persangkaan yang dihubungkan dengan perbuatan tertentu atau peristiwa tertentu berdasarkan ketentuan undang-undang. Persangkaan semacam itu antara lain adalah; 1. perbuatan yang dinyatakan batal oleh undang-undang, karena perbuatan itu semata-mata berdasarkan dari sifat dan wujudnya, dianggap telah dilakukan untuk menghindari suatu ketentuan undang-undang; 2. pernyataan undang-undang yang menyimpulkan adanya hak milik atau pembebasan utang dari keadaan tertentu; 3. kekuatan yang diberikan oleh undang-undang kepada suatu putusan Hakim yang memperoleh kekuatan hukum yang pasti; 4. kekuatan yang diberikan oleh undang-undang kepada pengakuan atau kepada sumpah salah satu pihak.
+
+## Pasal 1925
+
+> Pengakuan yang diberikan di hadapan Hakim, merupakan suatu bukti yang sempurna terhadap orang yang telah memberikannya, baik sendiri maupun dengan perantaraan seseorang yang diberi kuasa khusus untuk itu.
+
+## Pasal 1946
+
+> Lewat waktu ialah suatu sarana hukum untuk memperoleh sesuatu atau suatu alasan untuk dibebaskan dari suatu perikatan dengan lewatnya waktu tertentu dan dengan terpenuhinya syarat-syarat yang ditentukan dalam undang-undang.
+
+## Pasal 1971
+
+> Tuntutan para tukang kayu, tukang batu dan tukang lain untuk pembayaran bahan-bahan yang mereka berikan dan upah-upah mereka; tuntutan para pengusaha toko untuk pembayaran barang-barang yang telah mereka serahkan, sekedar tuntutan ini mengenai pekerjaan dan penyerahan yang tidak mengenai pekerjaan tetap debitur; semua itu lewat waktu dengan lewatnya waktu lima tahun.
+
+## Pasal 1978
+
+> Lewat waktu dicegah bila pemanfaatan barang itu dirampas selama lebih dari satu tahun dari tangan orang yang menguasainya, baik oleh pemiliknya semula maupun oleh pihak ketiga.
+
+## Pasal 913
+
+> Legitieme portie atau bagian warisan menurut undang-undang ialah bagian dan harta benda yang harus diberikan kepada para ahli waris dalam garis lurus menurut undang-undang, yang terhadapnya orang yang meninggal dunia tidak boleh menetapkan sesuatu, baik sebagai hibah antara orang-orang yang masih hidup, maupun sebagai wasiat.
+

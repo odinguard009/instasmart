@@ -1186,5 +1186,288 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-836",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 836, agar dapat bertindak sebagai ahli waris, seseorang harus…",
+    "options": [
+      "Tinggal serumah dengan pewaris",
+      "Sudah dewasa saat pewaris wafat",
+      "Terdaftar dalam kartu keluarga",
+      "Sudah ada saat warisan terbuka"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 836, dengan mengindahkan Pasal 2: anak dalam kandungan dianggap telah lahir bila kepentingannya menghendaki.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 836, 2",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-838",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Manakah yang menurut Pasal 838 membuat seseorang TIDAK PANTAS (onwaardig) menjadi ahli waris?",
+    "options": [
+      "Berbeda tempat tinggal dengan pewaris",
+      "Memalsukan wasiat pewaris",
+      "Tidak merawat pewaris saat sakit",
+      "Menolak menghadiri pemakaman"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 838: (1) dihukum karena membunuh/mencoba membunuh pewaris; (2) memfitnah pewaris melakukan kejahatan berancaman ≥5 tahun penjara; (3) menghalangi pewaris membuat/mencabut wasiat dengan kekerasan; (4) menggelapkan, memusnahkan, atau memalsukan wasiat.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 838",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-842",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Penggantian tempat (plaatsvervulling) dalam garis lurus ke bawah yang sah menurut Pasal 842 berlangsung…",
+    "options": [
+      "Hanya satu derajat",
+      "Hanya sampai cucu",
+      "Sampai derajat keenam",
+      "Terus tanpa akhir"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 842: penggantian dalam garis lurus ke bawah yang sah berlangsung terus tanpa akhir.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 842",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-852",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 852, anak-anak mewaris dari orang tuanya…",
+    "options": [
+      "Sesuai perkawinan tempat anak itu lahir",
+      "Anak sulung mendapat bagian dua kali lipatnya",
+      "Sama besar, tanpa beda jenis kelamin/urutan",
+      "Anak laki-laki mendapat bagian lebih besar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 852: tanpa membedakan jenis kelamin atau kelahiran yang lebih dulu, sekalipun lahir dari berbagai perkawinan; kepala demi kepala bila mewaris karena diri sendiri, pancang demi pancang bila sebagai pengganti.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 852",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-832-negara",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 832, bila pewaris tidak meninggalkan keluarga sedarah maupun suami/istri yang hidup terlama, harta peninggalan…",
+    "options": [
+      "Dibiarkan tidak bertuan sampai ada yang klaim",
+      "Dibagikan kepada tetangga dan kerabat semendanya",
+      "Diserahkan ke rumah ibadah terdekat",
+      "Menjadi milik negara, yang melunasi utangnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 832 alinea kedua: menjadi milik negara, yang wajib melunasi utang pewaris sejauh harta mencukupi.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 832",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-914",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris meninggalkan SATU anak sah. Menurut Pasal 914, legitieme portie anak itu adalah…",
+    "options": [
+      "Seluruh harta peninggalan pewaris",
+      "3/4 dari bagiannya menurut undang-undang",
+      "1/2 dari bagiannya menurut undang-undang",
+      "2/3 dari bagiannya menurut undang-undang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 914: satu anak = 1/2; dua anak = 2/3; tiga anak atau lebih = 3/4 dari bagian yang sedianya diterima tiap anak menurut undang-undang.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 914",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-920",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Hibah atau wasiat yang melanggar legitieme portie menurut Pasal 920…",
+    "options": [
+      "Tetap sah dan tidak dapat diganggu",
+      "Otomatis dikurangi oleh notaris pembuat wasiat",
+      "Batal demi hukum seluruhnya",
+      "Dapat dikurangi atas tuntutan legitimaris"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 920: boleh dikurangi pada waktu terbukanya warisan, tetapi hanya atas tuntutan para legitimaris, ahli waris, atau pengganti mereka.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 920",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-1023",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Ahli waris yang ingin menyelidiki keadaan harta peninggalan sebelum memutuskan menerima atau menolak memiliki…",
+    "options": [
+      "Hak untuk menunda pemakaman pewaris",
+      "Hak opsi terhadap ahli waris lain",
+      "Hak untuk berpikir (Pasal 1023)",
+      "Hak retensi atas harta warisan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1023: hak untuk berpikir, dengan pernyataan di kepaniteraan Pengadilan Negeri tempat warisan terbuka. Pilihannya: menerima murni, menerima dengan hak istimewa merinci harta (beneficiaire), atau menolak.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1023",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-1058",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 1058, ahli waris yang menolak warisan…",
+    "options": [
+      "Dapat menerimanya lagi kapan saja",
+      "Dianggap tidak pernah menjadi ahli waris",
+      "Bagiannya otomatis menjadi milik negara RI",
+      "Tetap wajib menanggung utang pewaris"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1058. Penolakan harus tegas, dengan pernyataan di kepaniteraan Pengadilan Negeri tempat warisan terbuka (Pasal 1057); tak seorang pun wajib menerima warisan (Pasal 1045).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1045, 1057, 1058",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-1066",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Para ahli waris sepakat tidak membagi harta warisan. Menurut Pasal 1066, perjanjian seperti itu mengikat paling lama…",
+    "options": [
+      "Selamanya, sampai semua setuju",
+      "5 tahun, dapat diperbarui",
+      "1 tahun, tidak dapat diperbarui",
+      "10 tahun, dapat diperbarui"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1066: tak seorang pun wajib menerima harta peninggalan tetap tak terbagi; pemisahan dapat dituntut sewaktu-waktu. Perjanjian menunda pemisahan hanya mengikat lima tahun dan dapat diperbarui.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1066",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw-humor-tolak",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "comic",
+      "title": "Warisan paket hemat",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Warisan Om: rumah, mobil, dan utang Rp2 miliar."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Utangnya lebih besar dari rumahnya!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 1045: tak ada yang wajib menerima warisan. Bisa pakai hak berpikir dulu."
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Aku berpikir... sampai tahun depan."
+        }
+      ]
+    },
+    "caption": "Warisan bukan paket promo: boleh dicek dulu, boleh ditolak.",
+    "teaches": "Tidak seorang pun wajib menerima warisan (Pasal 1045); ahli waris berhak berpikir sebelum memilih menerima murni, menerima dengan hak merinci harta, atau menolak (Pasal 1023); penolakan dinyatakan di kepaniteraan Pengadilan Negeri (Pasal 1057).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1023, 1045, 1057",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

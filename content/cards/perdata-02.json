@@ -1248,5 +1248,456 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1367-lepas",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1367, tanggung jawab orang tua, guru sekolah, atau kepala tukang atas perbuatan anak/murid/tukangnya BERAKHIR bila mereka membuktikan…",
+    "options": [
+      "Kerugian korban di bawah nilai tertentu",
+      "Pelaku bertindak di luar jam kerja",
+      "Tidak dapat mencegah perbuatan itu",
+      "Pelaku sudah meminta maaf secara tertulis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1367 alinea terakhir. Dalam terjemahan ini, kalimat pembebasan menyebut orang tua, guru sekolah, dan kepala tukang; majikan tidak disebut di kalimat itu.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1367",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1367-majikan",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Majikan bertanggung jawab atas kerugian yang disebabkan bawahannya menurut Pasal 1367 bila kerugian itu terjadi…",
+    "options": [
+      "Dalam melakukan pekerjaan yang ditugaskan",
+      "Hanya bila majikan memberi perintah salah",
+      "Kapan saja selama bawahan masih dikontrak",
+      "Hanya di dalam lingkungan kantor majikan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1367: majikan dan orang yang mengangkat orang lain untuk mewakili urusannya bertanggung jawab atas kerugian oleh pelayan atau bawahan \"dalam melakukan pekerjaan yang ditugaskan kepada orang-orang itu\".",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1367",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1369",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Pemilik gedung bertanggung jawab atas kerugian karena gedungnya ambruk menurut Pasal 1369 jika ambruknya karena…",
+    "options": [
+      "Perbuatan pihak ketiga yang merusaknya",
+      "Usia gedung telah melewati lima puluh tahun lebih",
+      "Gempa bumi yang tidak dapat diperkirakan",
+      "Kelalaian pemeliharaan atau cacat pembangunan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1369: karena kelalaian dalam pemeliharaan atau kekurangan dalam pembangunan ataupun penataannya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1369",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1370",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Siapa yang menurut Pasal 1370 berhak menuntut ganti rugi atas kematian seseorang karena kesengajaan atau kurang hati-hatinya orang lain?",
+    "options": [
+      "Pasangan, anak, atau orang tua yang dinafkahi korban",
+      "Siapa pun yang merasa dirugikan secara moral dan materiil",
+      "Negara sebagai wakil kepentingan umum",
+      "Seluruh ahli waris korban menurut undang-undang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1370: suami atau istri yang ditinggalkan, anak atau orang tua korban yang lazimnya mendapat nafkah dari pekerjaan korban. Ganti rugi dinilai menurut kedudukan dan kekayaan kedua pihak serta keadaan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1370",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1372",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Tuntutan perdata tentang penghinaan menurut Pasal 1372 bertujuan memperoleh…",
+    "options": [
+      "Hukuman penjara bagi orang yang menghina",
+      "Permintaan maaf di media massa secara wajib",
+      "Ganti rugi dan pemulihan nama baik",
+      "Denda yang disetor ke kas negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1372. Hakim memperhatikan kasar atau tidaknya penghinaan, serta pangkat, kedudukan, kemampuan kedua pihak, dan keadaan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1372",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1376",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1376, maksud untuk menghina TIDAK dianggap ada bila perbuatan itu nyata-nyata dilakukan…",
+    "options": [
+      "Dengan niat bercanda di antara teman dekat",
+      "Melalui media sosial, bukan secara langsung",
+      "Demi kepentingan umum atau bela diri terpaksa",
+      "Dalam bahasa daerah yang tidak dipahami korban"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1376: tuntutan perdata penghinaan tidak dapat dikabulkan tanpa maksud menghina, dan maksud itu tidak dianggap ada bila untuk kepentingan umum atau pembelaan diri secara terpaksa.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1376",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1380",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Tuntutan perdata dalam perkara penghinaan gugur karena lewat waktu…",
+    "options": [
+      "30 tahun sejak perbuatan itu dilakukan tergugat",
+      "1 tahun sejak dilakukan & diketahui penggugat",
+      "6 bulan sejak penggugat mengetahuinya",
+      "5 tahun sejak gugatan pertama didaftarkan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1380: satu tahun, terhitung dari hari perbuatan dilakukan oleh tergugat dan diketahui oleh penggugat.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1380",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1867",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1867, pembuktian dengan tulisan dilakukan dengan…",
+    "options": [
+      "Surat yang dilegalisasi pengadilan",
+      "Tulisan otentik atau di bawah tangan",
+      "Tulisan yang dibubuhi meterai cukup saja",
+      "Akta notaris saja, tidak boleh yang lain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1867. Akta otentik dibuat oleh atau di hadapan pejabat umum (Pasal 1868); tulisan di bawah tangan dibuat tanpa perantaraan pejabat umum (Pasal 1874).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1867, 1868, 1874",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1875",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Tulisan di bawah tangan yang DIAKUI kebenarannya oleh orang yang dihadapkan kepadanya menurut Pasal 1875…",
+    "options": [
+      "Tetap hanya bukti permulaan yang perlu saksi",
+      "Tidak bernilai karena tidak dibuat pejabat umum",
+      "Menjadi bukti lengkap seperti akta otentik",
+      "Harus disahkan notaris dulu agar bernilai bukti"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1875: bukti lengkap seperti akta otentik bagi orang yang menandatanganinya, ahli warisnya, dan orang yang mendapat hak dari mereka.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1875",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1874-jempol",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1874, cap jempol disamakan dengan tanda tangan pada tulisan di bawah tangan bila…",
+    "options": [
+      "Dibubuhkan di atas meterai dengan tinta biru",
+      "Disaksikan sedikitnya dua orang anggota keluarga",
+      "Ada pernyataan bertanggal dari notaris",
+      "Dibubuhkan oleh orang yang tidak bisa menulis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1874: dengan pernyataan bertanggal dari notaris atau pejabat lain yang ditunjuk undang-undang bahwa pembubuh dikenalnya, akta telah dijelaskan, dan cap jempol dibubuhkan di hadapannya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1874",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1902",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Bila undang-undang memerintahkan pembuktian dengan tulisan, pembuktian dengan saksi menurut Pasal 1902 diperkenankan jika…",
+    "options": [
+      "Ada bukti permulaan tertulis",
+      "Saksinya lebih dari dua orang",
+      "Hakim menilai saksinya jujur",
+      "Para pihak menyetujuinya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1902: bila ada bukti permulaan tertulis, yaitu akta tertulis dari pihak yang digugat (atau wakilnya) yang membenarkan peristiwa hukum yang didalilkan. Kecuali jika pembuktian hanya boleh dengan tulisan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1902",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1925",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Pengakuan yang diberikan di hadapan hakim menurut Pasal 1925 merupakan…",
+    "options": [
+      "Alat bukti yang dapat ditarik sewaktu-waktu",
+      "Persangkaan hakim yang bebas dinilai",
+      "Bukti sempurna terhadap yang memberikannya",
+      "Bukti permulaan yang perlu dikuatkan saksi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1925: bukti yang sempurna terhadap orang yang memberikannya, sendiri atau melalui kuasa khusus.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1925",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1916",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Manakah yang disebut Pasal 1916 sebagai contoh persangkaan berdasarkan undang-undang?",
+    "options": [
+      "Kesimpulan hakim dari keterangan para saksi",
+      "Kebiasaan setempat yang diterangkan tokoh adat",
+      "Kekuatan putusan hakim yang berkekuatan tetap",
+      "Keyakinan hakim karena sikap tergugat di sidang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1916 angka 3: kekuatan yang diberikan undang-undang kepada putusan hakim yang berkekuatan hukum pasti. Contoh lain: perbuatan yang dinyatakan batal, hak milik/pembebasan utang dari keadaan tertentu, kekuatan pengakuan atau sumpah.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1916",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1946",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1946, lewat waktu (daluwarsa) berfungsi sebagai sarana untuk…",
+    "options": [
+      "Menunda pelaksanaan putusan pengadilan",
+      "Menghapus pidana bagi pelaku perbuatan",
+      "Mengubah isi perjanjian tanpa persetujuan",
+      "Memperoleh hak atau bebas dari perikatan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1946: sarana hukum untuk memperoleh sesuatu (acquisitieve verjaring) atau alasan untuk dibebaskan dari suatu perikatan (extinctieve verjaring), dengan lewat waktu dan syarat undang-undang.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1946",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1971",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Tuntutan pengusaha toko untuk pembayaran barang yang telah diserahkan (bukan untuk pekerjaan tetap debitur) lewat waktu setelah…",
+    "options": [
+      "5 tahun",
+      "1 tahun",
+      "30 tahun",
+      "2 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1971: tuntutan tukang kayu, tukang batu, tukang lain, dan pengusaha toko lewat waktu lima tahun. Daluwarsa umum tiga puluh tahun (Pasal 1967).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1971, 1967",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-1978",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1978, lewat waktu (untuk memperoleh hak) dicegah bila…",
+    "options": [
+      "Barang itu dipakai bergantian oleh keluarga",
+      "Penguasaannya dirampas lebih dari setahun",
+      "Pajak atas barang itu belum dibayar penuh",
+      "Pemilik asal mengirim surat teguran sekali"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1978: lewat waktu dicegah bila pemanfaatan barang dirampas lebih dari satu tahun dari tangan orang yang menguasainya, oleh pemilik semula atau pihak ketiga.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1978",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-humor-1368",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "visual": {
+      "template": "comic",
+      "title": "Tergugat berkaki empat",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Kambing tetangga makan tanamanku. Kugugat kambingnya!"
+        },
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Kambing tak bisa jadi tergugat."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pasal 1368: pemilik atau pemakainya yang tanggung jawab, walau hewannya kabur."
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Padahal kambingnya yang kenyang."
+        }
+      ]
+    },
+    "caption": "Yang makan kambing, yang bayar pemiliknya. Kambing tetap tidak bisa dipanggil sidang.",
+    "teaches": "Pemilik binatang atau yang memakainya bertanggung jawab atas kerugian yang disebabkan binatang itu, baik di bawah pengawasannya maupun tersesat atau terlepas (Pasal 1368 KUHPerdata).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1368",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw2-humor-1875",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "visual": {
+      "template": "meme",
+      "top": "Debitur: 'Itu cuma kuitansi bawah tangan, nggak sah dong'",
+      "bottom": "Kamu sendiri sudah mengakuinya di sidang. Selamat.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Meremehkan tulisan di bawah tangan, lalu mengakuinya sendiri: dua langkah menuju kalah.",
+    "teaches": "Tulisan di bawah tangan yang diakui kebenarannya oleh orang yang dihadapkan kepadanya menjadi bukti lengkap seperti akta otentik bagi penandatangan dan ahli warisnya (Pasal 1875 KUHPerdata).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1875",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

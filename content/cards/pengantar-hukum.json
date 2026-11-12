@@ -1224,5 +1224,506 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-austin",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Bagi John Austin (positivisme analitis), hukum pada dasarnya adalah…",
+    "options": [
+      "Ramalan tentang apa yang akan diputus pengadilan",
+      "Perintah dari yang berdaulat, disertai sanksi",
+      "Kaidah moral yang bersumber dari akal budi",
+      "Jiwa bangsa yang tumbuh bersama masyarakat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Austin, The Province of Jurisprudence Determined (1832): hukum adalah perintah (command) dari pihak yang berdaulat kepada bawahannya, yang ditopang ancaman sanksi.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "John Austin, teori perintah"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-kelsen-murni",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Gagasan utama Reine Rechtslehre (Teori Hukum Murni) Hans Kelsen adalah…",
+    "options": [
+      "Hakim bebas menemukan hukum di luar undang-undang tertulis",
+      "Hukum harus menghasilkan kebahagiaan sebesar-besarnya",
+      "Memurnikan ilmu hukum dari unsur sosiologis, politis, etis",
+      "Menjadikan hukum adat sumber utama perundang-undangan nasional"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kelsen ingin ilmu hukum hanya mempelajari norma hukum itu sendiri, terlepas dari pertanyaan sosiologi, politik, dan moral.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Hans Kelsen, Reine Rechtslehre"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-stufenbau",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Stufenbautheorie Kelsen, keabsahan norma hukum bersumber pada…",
+    "options": [
+      "Kehendak hakim yang memutus perkara-perkara konkret",
+      "Kebiasaan masyarakat yang diulang-ulang",
+      "Norma yang lebih tinggi, sampai pada Grundnorm",
+      "Kesepakatan para pihak dalam setiap perkara perdata"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tata hukum tersusun berjenjang; norma yang lebih rendah berlaku karena dibentuk menurut norma yang lebih tinggi, berpuncak pada norma dasar (Grundnorm) yang dipresuposisikan.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Hans Kelsen, Stufenbautheorie"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-nawiasky",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Hans Nawiasky membagi kelompok norma negara secara berjenjang. Lapisan tertingginya disebut…",
+    "options": [
+      "Autonome Satzung",
+      "Formell Gesetz (undang-undang)",
+      "Staatsgrundgesetz",
+      "Staatsfundamentalnorm"
+    ],
+    "answerIndex": 3,
+    "explanation": "Urutan Nawiasky: Staatsfundamentalnorm, Staatsgrundgesetz, formell Gesetz, lalu Verordnung dan autonome Satzung. A. Hamid S. Attamimi menempatkan Pancasila sebagai Staatsfundamentalnorm Indonesia.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Hans Nawiasky, Stufenaufbau der Rechtsordnung"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-hart",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "H.L.A. Hart (The Concept of Law, 1961) memandang sistem hukum sebagai gabungan…",
+    "options": [
+      "Aturan primer dan aturan sekunder",
+      "Das Sein dan das Sollen menurut Kant",
+      "Hukum alam dan hukum ilahi (wahyu)",
+      "Hukum publik dan hukum privat murni"
+    ],
+    "answerIndex": 0,
+    "explanation": "Aturan primer membebankan kewajiban; aturan sekunder (rule of recognition, rule of change, rule of adjudication) mengatur cara mengenali, mengubah, dan menerapkan aturan primer.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "H.L.A. Hart, The Concept of Law"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-rule-recognition",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Dalam teori Hart, aturan yang dipakai untuk menentukan apakah suatu aturan sah sebagai hukum disebut…",
+    "options": [
+      "Primary rule of obligation",
+      "Rule of change",
+      "Rule of adjudication",
+      "Rule of recognition"
+    ],
+    "answerIndex": 3,
+    "explanation": "Rule of recognition adalah aturan sekunder yang menjadi kriteria keabsahan aturan dalam suatu sistem hukum.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "H.L.A. Hart, The Concept of Law"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-thibaut",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Von Savigny menolak usul Thibaut (1814) agar Jerman segera…",
+    "options": [
+      "Menghapus pengadilan adat di seluruh negeri Jerman",
+      "Kembali sepenuhnya ke hukum kanonik gereja",
+      "Membuat kodifikasi hukum perdata yang berlaku umum",
+      "Mengadopsi sistem juri dan preseden dari Inggris"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bagi Savigny, hukum tumbuh dari jiwa bangsa (Volksgeist), sehingga kodifikasi yang terburu-buru dianggap membekukan hukum. Karyanya: Vom Beruf unserer Zeit für Gesetzgebung und Rechtswissenschaft.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Mazhab Sejarah, Savigny vs Thibaut"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-ehrlich",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Eugen Ehrlich terkenal dengan konsep living law. Menurutnya, pusat perkembangan hukum terletak pada…",
+    "options": [
+      "Putusan Mahkamah Agung",
+      "Ajaran para guru besar hukum",
+      "Undang-undang yang dibuat parlemen",
+      "Masyarakat itu sendiri"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ehrlich: pusat gaya tarik perkembangan hukum bukan pada perundang-undangan, ilmu hukum, atau putusan pengadilan, melainkan pada masyarakat.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Eugen Ehrlich, living law"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-pound-action",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Roscoe Pound membedakan law in books dengan…",
+    "options": [
+      "Natural law",
+      "Law of nations",
+      "Law in action",
+      "Lex mercatoria"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sociological jurisprudence menyoroti jarak antara hukum tertulis dan hukum yang benar-benar bekerja dalam masyarakat. Pound juga dikenal dengan gagasan law as a tool of social engineering.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Roscoe Pound, sociological jurisprudence"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-holmes",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "\"The life of the law has not been logic: it has been experience.\" Kalimat ini dari…",
+    "options": [
+      "Thomas Aquinas",
+      "Oliver Wendell Holmes Jr.",
+      "Friedrich Carl von Savigny",
+      "John Austin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pembuka The Common Law (1881). Holmes, tokoh realisme hukum Amerika, juga mendefinisikan hukum sebagai ramalan tentang apa yang akan dilakukan pengadilan (The Path of the Law, 1897).",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Oliver Wendell Holmes Jr., The Common Law"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-skandinavia",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Tokoh realisme hukum Skandinavia antara lain…",
+    "options": [
+      "Hans Kelsen, Adolf Merkl, Hans Nawiasky",
+      "Roscoe Pound, Karl Llewellyn, Jerome Frank",
+      "Axel Hägerström, Karl Olivecrona, Alf Ross",
+      "Roberto Unger, Duncan Kennedy, Mark Kelman"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pengecoh lain: Pound/Llewellyn/Frank (sosiologis dan realisme Amerika), Kelsen/Merkl/Nawiasky (positivisme, jenjang norma), Unger/Kennedy (Critical Legal Studies).",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Realisme hukum Skandinavia"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-aquinas",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Thomas Aquinas membagi hukum menjadi empat: lex aeterna, lex divina, lex naturalis, dan…",
+    "options": [
+      "Lex posterior",
+      "Lex mercatoria",
+      "Lex specialis",
+      "Lex humana"
+    ],
+    "answerIndex": 3,
+    "explanation": "Lex humana (hukum buatan manusia) harus selaras dengan lex naturalis; hukum manusia yang bertentangan dengan hukum kodrat kehilangan sifat hukumnya.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Thomas Aquinas, hukum kodrat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-fuller",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Lon L. Fuller (The Morality of Law) menyebut syarat-syarat seperti hukum harus umum, diumumkan, tidak berlaku surut, dan jelas sebagai…",
+    "options": [
+      "Moralitas internal hukum (inner morality)",
+      "Rule of recognition sebagai kriteria keabsahan",
+      "Grundnorm sebagai norma dasar yang diandaikan",
+      "Volksgeist atau jiwa bangsa yang hidup"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fuller mengilustrasikannya dengan raja rekaan Rex yang gagal membuat hukum karena melanggar delapan syarat itu.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Lon L. Fuller, The Morality of Law"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-radbruch-formula",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Formula Radbruch (1946) pada intinya menyatakan bahwa…",
+    "options": [
+      "Kepastian hukum selalu harus menang atas keadilan",
+      "Hukum adalah perintah penguasa yang berdaulat",
+      "UU yang sangat tidak adil sampai tak tertahankan bukan lagi hukum",
+      "Hakim wajib mengikuti putusan hakim sebelumnya dalam perkara serupa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Biasanya kepastian hukum (hukum positif) didahulukan, kecuali pertentangannya dengan keadilan mencapai tingkat yang tak tertahankan. Formula ini dipakai pengadilan Jerman pascaperang.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Gustav Radbruch, Gesetzliches Unrecht und übergesetzliches Recht"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-cls",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Critical Legal Studies (Unger, Kennedy) berpendapat bahwa hukum…",
+    "options": [
+      "Tidak netral, dan sarat kepentingan politik",
+      "Bersumber dari kehendak Tuhan semata",
+      "Sama dengan kebiasaan bangsa yang turun-temurun",
+      "Merupakan sistem logika tertutup dan objektif"
+    ],
+    "answerIndex": 0,
+    "explanation": "CLS menggugat klaim netralitas dan objektivitas hukum liberal: law is politics.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Critical Legal Studies"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-progresif",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Semboyan hukum progresif Satjipto Rahardjo adalah…",
+    "options": [
+      "Hakim adalah corong undang-undang semata",
+      "Biar langit runtuh, hukum harus tetap ditegakkan",
+      "Hukum adalah perintah penguasa yang berdaulat",
+      "Hukum untuk manusia, bukan manusia untuk hukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hukum progresif menolak cara berhukum yang semata-mata prosedural dan menempatkan manusia serta keadilan substantif di pusat.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Satjipto Rahardjo, hukum progresif"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-bentham",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Ukuran baik-buruknya hukum menurut utilitarianisme Jeremy Bentham adalah…",
+    "options": [
+      "Kesesuaian dengan kehendak Tuhan menurut wahyu",
+      "Kesesuaian dengan jiwa bangsa yang turun-temurun",
+      "Keabsahan menurut norma yang lebih tinggi",
+      "Kebahagiaan terbesar bagi jumlah orang terbanyak"
+    ],
+    "answerIndex": 3,
+    "explanation": "The greatest happiness of the greatest number.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Jeremy Bentham, utilitarianisme"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-legisme",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "question": "Aliran legisme memandang hakim sebagai la bouche de la loi. Artinya hakim…",
+    "options": [
+      "Perwakilan rakyat di pengadilan",
+      "Pencipta hukum baru bagi masyarakat",
+      "Sekadar corong undang-undang",
+      "Penafsir bebas yang boleh mengesampingkan undang-undang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ungkapan berasal dari Montesquieu. Kebalikannya, ajaran hukum bebas (Freirechtslehre, antara lain Hermann Kantorowicz) memberi hakim kebebasan menemukan hukum.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Legisme dan Freirechtslehre"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-humor-corong",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Corong tanpa suara",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Hakim legis: aku cuma corong undang-undang."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pengacara: undang-undangnya diam soal kasus ini."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Hakim legis: ..."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Pengacara: corongnya ikut diam. Rakyat tetap menunggu."
+        }
+      ]
+    },
+    "caption": "Kalau hakim cuma corong, siapa yang bicara saat undang-undang kehabisan kata?",
+    "teaches": "Legisme memandang hakim sekadar corong undang-undang (la bouche de la loi, Montesquieu). Kritiknya: undang-undang tidak lengkap, sehingga hakim perlu menafsirkan dan menemukan hukum.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Legisme"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-humor-holmes",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "meme",
+      "top": "Mahasiswa: 'Pak, hukum itu apa?' Holmes: 'Tebak saja putusan hakim besok.'",
+      "bottom": "Realisme: hukum = ramalan putusan pengadilan",
+      "character": "gecko",
+      "expression": "think"
+    },
+    "caption": "Realisme hukum: kitab undang-undang tebal, tapi yang menentukan tetap ketukan palu.",
+    "teaches": "Oliver Wendell Holmes Jr. (The Path of the Law, 1897): hukum adalah ramalan tentang apa yang akan dilakukan pengadilan. Inti realisme hukum Amerika: perhatikan perilaku hakim, bukan hanya teks aturan.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Holmes, realisme hukum"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-af-humor-rex",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "aliran-filsafat",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Raja Rex bikin aturan",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Raja Rex: hukum baru berlaku mulai kemarin. Isinya rahasia."
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Rakyat: bagaimana kami menaatinya?"
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Raja Rex: tebak saja. Yang salah tebak, dihukum."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Fuller: selamat, Baginda gagal membuat hukum."
+        }
+      ]
+    },
+    "caption": "Berlaku surut, tidak diumumkan, tidak jelas. Tiga kesalahan, satu kerajaan.",
+    "teaches": "Lon L. Fuller (The Morality of Law): hukum gagal disebut hukum bila, antara lain, tidak diumumkan, berlaku surut, atau tidak jelas. Ia memakai kisah raja rekaan Rex untuk menunjukkan delapan syarat moralitas internal hukum.",
+    "source": {
+      "title": "Doktrin filsafat hukum",
+      "reference": "Lon L. Fuller"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

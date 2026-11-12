@@ -1391,5 +1391,531 @@
     },
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-bpupki-ketua",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Ketua BPUPKI adalah…",
+    "options": [
+      "Drs. Mohammad Hatta",
+      "Ir. Soekarno (wakil: Drs. Moh. Hatta)",
+      "Mr. Soepomo, perancang naskah UUD",
+      "dr. K.R.T. Radjiman Wedyodiningrat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Soekarno memimpin PPKI dan Panitia Sembilan; Radjiman memimpin BPUPKI.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "BPUPKI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-sidang-bpupki",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Sidang pertama BPUPKI (29 Mei-1 Juni 1945) terutama membahas…",
+    "options": [
+      "Rancangan hukum dasar pasal demi pasal",
+      "Pembentukan kabinet pertama",
+      "Pemilihan presiden dan wakil presiden",
+      "Dasar negara"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sidang kedua (10-17 Juli 1945) membahas rancangan hukum dasar, bentuk negara, dan wilayah.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "BPUPKI, sidang I dan II"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-1-juni",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Pada 1 Juni 1945, dalam sidang BPUPKI, istilah \"Pancasila\" untuk dasar negara pertama kali dikemukakan oleh…",
+    "options": [
+      "Mr. Muhammad Yamin",
+      "Ki Bagus Hadikusumo",
+      "Ir. Soekarno",
+      "Mr. Soepomo"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tanggal 1 Juni diperingati sebagai Hari Lahir Pancasila.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Pidato 1 Juni 1945"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-piagam-jakarta",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Piagam Jakarta disusun Panitia Sembilan dan ditandatangani pada…",
+    "options": [
+      "17 Agustus 1945",
+      "1 Juni 1945",
+      "22 Juni 1945",
+      "18 Agustus 1945"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rumusannya kemudian menjadi dasar Pembukaan UUD 1945, dengan perubahan pada sila pertama yang disahkan PPKI 18 Agustus 1945.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Piagam Jakarta"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-ppki-18",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Pada sidang 18 Agustus 1945, PPKI antara lain…",
+    "options": [
+      "Membubarkan Konstituante dan mengeluarkan dekrit",
+      "Membentuk BPUPKI dan menyusun dasar negara",
+      "Mengesahkan UUD serta memilih presiden dan wakilnya",
+      "Mengesahkan Konstitusi RIS hasil Konferensi Meja Bundar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Presiden Soekarno dan Wakil Presiden Mohammad Hatta dipilih secara aklamasi pada sidang itu.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Sidang PPKI 18 Agustus 1945"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-sila-1",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Pada 18 Agustus 1945, rumusan sila pertama Piagam Jakarta diubah menjadi…",
+    "options": [
+      "Ketuhanan yang berkebudayaan",
+      "Ketuhanan Yang Maha Esa",
+      "Kemanusiaan yang adil dan beradab",
+      "Kebangsaan Indonesia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perubahan itu menghapus tujuh kata dalam rumusan sila pertama Piagam Jakarta, demi persatuan seluruh wilayah dan golongan.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Pembukaan UUD 1945, sidang PPKI"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-asli",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Sistematika UUD 1945 sebelum perubahan adalah…",
+    "options": [
+      "Mukadimah, 6 bab, 197 pasal, tanpa Penjelasan sama sekali",
+      "Pembukaan, 16 bab, 37 pasal, aturan peralihan/tambahan, Penjelasan",
+      "Pembukaan dan 37 pasal saja, tanpa Aturan Peralihan maupun Tambahan",
+      "Pembukaan, 21 bab, 73 pasal, aturan peralihan, dan Penjelasan resmi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Setelah perubahan, Aturan Tambahan Pasal II menyatakan UUD 1945 terdiri atas Pembukaan dan pasal-pasal; Penjelasan tidak lagi menjadi bagian.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Naskah asli UUD 1945"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-maklumat-x",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Maklumat Wakil Presiden No. X tanggal 16 Oktober 1945 memberi KNIP…",
+    "options": [
+      "Wewenang memilih presiden secara langsung",
+      "Kekuasaan kehakiman tertinggi di atas Mahkamah Agung",
+      "Hak membubarkan kabinet presidensial secara sepihak",
+      "Kekuasaan legislatif dan ikut menetapkan GBHN"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sebelum MPR dan DPR terbentuk, KNIP diserahi kekuasaan legislatif. Disusul Maklumat 14 November 1945 yang mengarah ke kabinet parlementer.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Maklumat Wakil Presiden No. X 1945"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-ris",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Konstitusi RIS (berlaku 27 Desember 1949) mengubah bentuk negara Indonesia menjadi…",
+    "options": [
+      "Kerajaan konstitusional",
+      "Persemakmuran di bawah Belanda",
+      "Federal",
+      "Kesatuan dengan otonomi luas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Konstitusi RIS lahir dari Konferensi Meja Bundar; sistem pemerintahannya parlementer.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Konstitusi RIS 1949"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-uuds",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "UUDS 1950 (berlaku 17 Agustus 1950) mengembalikan bentuk negara kesatuan, tetapi sistem pemerintahannya…",
+    "options": [
+      "Parlementer",
+      "Presidensial murni",
+      "Federal-presidensial",
+      "Monarki"
+    ],
+    "answerIndex": 0,
+    "explanation": "Di bawah UUDS 1950 kabinet bertanggung jawab kepada parlemen, dan dibentuk Konstituante (hasil Pemilu 1955) untuk menyusun UUD tetap.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "UUDS 1950"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-dekrit",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Isi Dekrit Presiden 5 Juli 1959 antara lain…",
+    "options": [
+      "Mengesahkan UUDS 1950 sebagai UUD tetap",
+      "Membubarkan DPR hasil Pemilu 1955 dan membentuk RIS",
+      "Membubarkan Konstituante; UUD 1945 berlaku kembali",
+      "Membentuk BPUPKI baru untuk menyusun UUD tetap"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dekrit juga menyatakan UUDS 1950 tidak berlaku dan akan dibentuk MPRS serta DPAS.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Dekrit Presiden 5 Juli 1959"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-konstituante",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Dekrit Presiden 5 Juli 1959 dilatarbelakangi kegagalan Konstituante dalam…",
+    "options": [
+      "Menetapkan UUD baru pengganti UUDS 1950",
+      "Membentuk Mahkamah Agung yang mandiri",
+      "Menyelenggarakan pemilu pertama",
+      "Memilih presiden dan wakil presiden baru"
+    ],
+    "answerIndex": 0,
+    "explanation": "Konstituante hasil Pemilu 1955 tidak berhasil mencapai keputusan tentang UUD baru.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Dekrit Presiden 5 Juli 1959"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-4-kali",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Perubahan UUD 1945 dilakukan MPR sebanyak empat kali, pada tahun…",
+    "options": [
+      "2000, 2002, 2004, 2006",
+      "1998, 1999, 2000, 2001",
+      "1999, 2001, 2003, 2005",
+      "1999, 2000, 2001, 2002"
+    ],
+    "answerIndex": 3,
+    "explanation": "Perubahan Pertama 19 Oktober 1999, Kedua 18 Agustus 2000, Ketiga 9 November 2001, Keempat 10 Agustus 2002.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Perubahan UUD 1945 1999-2002"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-kesepakatan",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Salah satu kesepakatan dasar MPR dalam mengubah UUD 1945 adalah…",
+    "options": [
+      "Tidak mengubah Pembukaan UUD 1945",
+      "Mengganti sistem presidensial dengan parlementer",
+      "Membuat UUD baru sama sekali",
+      "Mengubah bentuk negara menjadi federal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kesepakatan lain: tetap mempertahankan NKRI, mempertegas sistem presidensial, Penjelasan ditiadakan dan hal normatifnya dimasukkan ke pasal-pasal, perubahan dilakukan dengan cara adendum.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Kesepakatan dasar perubahan UUD 1945"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-p1",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Perubahan Pertama UUD 1945 (1999) antara lain membatasi…",
+    "options": [
+      "Jumlah provinsi di seluruh Indonesia",
+      "Kewenangan Mahkamah Konstitusi",
+      "Masa jabatan presiden dan wakil presiden",
+      "Jumlah partai politik yang boleh ikut pemilu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 7 setelah perubahan: presiden dan wakil presiden memegang jabatan lima tahun dan sesudahnya dapat dipilih kembali dalam jabatan yang sama hanya untuk satu kali masa jabatan.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Perubahan Pertama, Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-p2",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Bab XA tentang Hak Asasi Manusia dimasukkan ke UUD 1945 melalui…",
+    "options": [
+      "Perubahan Pertama (1999)",
+      "Perubahan Ketiga (2001)",
+      "Perubahan Kedua (2000)",
+      "Perubahan Keempat (2002)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Perubahan Kedua juga mengatur pemerintahan daerah (Pasal 18) dan wilayah negara (Pasal 25A).",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Perubahan Kedua"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-p3",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Mahkamah Konstitusi, Komisi Yudisial, dan DPD dibentuk melalui…",
+    "options": [
+      "Perubahan Keempat (2002)",
+      "Perubahan Ketiga (2001)",
+      "Perubahan Pertama (1999)",
+      "Perubahan Kedua (2000)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perubahan Ketiga juga mengatur pemilihan presiden dan wakil presiden secara langsung (Pasal 6A).",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Perubahan Ketiga"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-p4",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Lembaga negara yang dihapus melalui Perubahan Keempat UUD 1945 adalah…",
+    "options": [
+      "Majelis Permusyawaratan Rakyat (MPR)",
+      "Dewan Pertimbangan Agung (DPA)",
+      "Mahkamah Agung (MA)",
+      "Badan Pemeriksa Keuangan (BPK)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bab IV tentang DPA dihapus pada Perubahan Keempat; fungsi nasihat kepada presiden kini dijalankan dewan pertimbangan yang dibentuk presiden (Pasal 16).",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Perubahan Keempat, Pasal 16"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-nkri-tetap",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Menurut Pasal 37 ayat (5) UUD 1945, apa yang tidak dapat dilakukan perubahan?",
+    "options": [
+      "Susunan dan kedudukan Mahkamah Agung",
+      "Bentuk Negara Kesatuan Republik Indonesia",
+      "Masa jabatan presiden dan wakil presiden",
+      "Jumlah anggota MPR dari unsur DPR dan DPD"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 37 ayat (5) ditambahkan pada Perubahan Keempat.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Pasal 37 ayat (5)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-humor-nkri",
+    "type": "humor",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "comic",
+      "title": "Reuni 1949 batal",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Peserta rapat: yuk ubah bentuk negara jadi federal lagi. Nostalgia RIS."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Ahli HTN: Pasal 37 ayat (5)."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Peserta rapat: isinya?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Ahli HTN: bentuk NKRI tidak dapat diubah. Nostalgia ditolak."
+        }
+      ]
+    },
+    "caption": "Konstitusi RIS cukup dikenang di buku sejarah dan soal TWK.",
+    "teaches": "Pasal 37 ayat (5) UUD 1945 (Perubahan Keempat): khusus mengenai bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan. Indonesia pernah berbentuk federal di bawah Konstitusi RIS (1949-1950).",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Pasal 37 ayat (5)"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-humor-periode",
+    "type": "humor",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "meme",
+      "top": "Pejabat: 'Rakyat masih butuh saya, periode ketiga yuk'",
+      "bottom": "Pasal 7: dipilih kembali hanya untuk satu kali masa jabatan",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Reformasi menulis batas itu dengan tinta konstitusi, bukan pensil.",
+    "teaches": "Perubahan Pertama UUD 1945 (1999) mengubah Pasal 7: presiden dan wakil presiden memegang jabatan lima tahun dan sesudahnya dapat dipilih kembali dalam jabatan yang sama hanya untuk satu kali masa jabatan.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Pasal 7"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-sk-humor-dekrit",
+    "type": "humor",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "comic",
+      "title": "Rapat tanpa ujung",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Anggota Konstituante: rapat UUD baru, sesi ke-sekian."
+        },
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Anggota lain: masih belum sepakat."
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Anggota Konstituante: tenang, kita punya waktu tanpa batas."
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Kabar 5 Juli 1959: Konstituante dibubarkan lewat dekrit."
+        }
+      ]
+    },
+    "caption": "Ternyata 'waktu tanpa batas' juga ada batasnya.",
+    "teaches": "Konstituante hasil Pemilu 1955 gagal menetapkan UUD baru. Dekrit Presiden 5 Juli 1959 membubarkan Konstituante, memberlakukan kembali UUD 1945, dan menyatakan UUDS 1950 tidak berlaku.",
+    "source": {
+      "title": "Sejarah ketatanegaraan Indonesia (buku sejarah dan naskah UUD)",
+      "reference": "Dekrit Presiden 5 Juli 1959"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

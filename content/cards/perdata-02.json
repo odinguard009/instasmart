@@ -370,5 +370,883 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perdata-bw-1313",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Pasal 1313 KUH Perdata mendefinisikan persetujuan (perjanjian) sebagai…",
+    "options": [
+      "Perbuatan satu orang atau lebih mengikatkan diri kepada orang lain",
+      "Hubungan hukum yang lahir semata-mata dari undang-undang dan kebiasaan",
+      "Kesepakatan yang wajib dibuat tertulis di hadapan notaris",
+      "Janji yang baru mengikat bila disertai uang muka atau tanda jadi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1313. Perjanjian bebas bentuk kecuali undang-undang menentukan lain; syarat sahnya ada di Pasal 1320.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1313",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1317",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "A membeli asuransi jiwa dan menunjuk B sebagai penerima manfaat. Perjanjian yang memberi hak kepada pihak ketiga seperti ini diperbolehkan oleh…",
+    "options": [
+      "Pasal 1365 (perbuatan melawan hukum oleh penanggung)",
+      "Tidak ada; perjanjian hanya mengikat para pihak",
+      "Pasal 1354 (mewakili urusan orang lain)",
+      "Pasal 1317 (janji untuk pihak ketiga)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1317 adalah pengecualian atas asas Pasal 1315/1340. Syaratnya tidak boleh ditarik kembali bila pihak ketiga sudah menyatakan akan mempergunakannya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1317",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1332",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1332, yang dapat menjadi pokok persetujuan hanyalah…",
+    "options": [
+      "Barang yang dapat diperdagangkan",
+      "Barang yang jumlahnya sudah pasti",
+      "Barang yang sudah ada saat perjanjian",
+      "Barang tidak bergerak yang terdaftar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1332. Barang yang baru akan ada di masa depan pun boleh (Pasal 1334), dan jumlahnya tidak perlu pasti asal kemudian dapat ditentukan (Pasal 1333).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1332-1334",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1333",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Kontrak menyebut 'beras jenis IR64, jumlahnya sesuai hasil panen sawah X tahun ini'. Menurut Pasal 1333, pokok perjanjian ini…",
+    "options": [
+      "Sah hanya bila dibuat dengan akta notaris",
+      "Batal, karena jumlah barang harus pasti saat kontrak dibuat",
+      "Sah, jenisnya tertentu dan jumlahnya dapat dihitung",
+      "Batal, karena berasnya belum ada saat kontrak ditandatangani"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1333: pokok perjanjian sekurang-kurangnya ditentukan jenisnya; jumlah tidak perlu pasti asal kemudian dapat ditentukan. Barang yang baru akan ada juga boleh (Pasal 1334).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1333",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1335-1337",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Perjanjian jual beli dibuat untuk menyamarkan suap. Menurut Pasal 1335 dan 1337, perjanjian itu…",
+    "options": [
+      "Sah sampai ada putusan pidana yang berkekuatan tetap",
+      "Sah, karena kedua pihak sudah sepakat dan cakap bertindak",
+      "Dapat dibatalkan hanya atas permintaan penjual",
+      "Tidak berkekuatan karena sebabnya terlarang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1335: persetujuan tanpa sebab, atau dengan sebab palsu/terlarang, tidak mempunyai kekuatan. Pasal 1337: sebab terlarang bila dilarang UU atau bertentangan dengan kesusilaan atau ketertiban umum.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1335 dan 1337",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1339",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Kontrak sewa kios tidak menyebut soal listrik, padahal menurut kebiasaan setempat pemilik wajib menyediakannya. Menurut Pasal 1339…",
+    "options": [
+      "Kontrak batal karena tidak lengkap mengatur kewajiban",
+      "Hanya yang tertulis tegas di dalam kontrak yang mengikat para pihak",
+      "Mengikat juga hal yang dituntut keadilan, kebiasaan, UU",
+      "Kebiasaan hanya berlaku bila disahkan pengadilan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1339: persetujuan tidak hanya mengikat apa yang tegas ditentukan, tetapi juga segala sesuatu yang menurut sifatnya dituntut berdasarkan keadilan, kebiasaan, atau undang-undang.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1339",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1342",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Kata-kata dalam kontrak sudah jelas, tetapi salah satu pihak minta hakim 'menafsirkan' agar menguntungkannya. Menurut Pasal 1342…",
+    "options": [
+      "Penafsiran boleh asal disetujui saksi yang hadir saat kontrak",
+      "Tak boleh menyimpang dari kata yang jelas lewat tafsir",
+      "Hakim wajib menafsirkannya demi keadilan bagi pihak yang lemah",
+      "Kata-kata kontrak selalu kalah oleh maksud pihak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1342. Bila ada keragu-raguan, Pasal 1349: ditafsirkan atas kerugian orang yang minta diperjanjikan dan atas keuntungan orang yang mengikatkan diri.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1342 dan 1349",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1349",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Klausul kontrak meragukan. Menurut Pasal 1349, klausul itu ditafsirkan…",
+    "options": [
+      "Sesuai pendapat notaris yang membuatnya",
+      "Menguntungkan pihak yang menyusun dan menawarkan kontrak",
+      "Menguntungkan pihak yang lebih kuat ekonominya",
+      "Merugikan pihak yang meminta klausul diperjanjikan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1349: atas kerugian orang yang meminta diadakan perjanjian dan atas keuntungan orang yang mengikatkan diri. Prinsip serupa dikenal sebagai contra proferentem.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1349",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1354",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Tetangga sedang ke luar kota; atap rumahnya bocor dan B, tanpa diminta, memperbaikinya. Perbuatan B dalam KUH Perdata disebut…",
+    "options": [
+      "Mewakili urusan orang lain (zaakwaarneming)",
+      "Pemberian kuasa diam-diam dari pemilik rumah (Pasal 1792)",
+      "Pembayaran tak terutang (Pasal 1359)",
+      "Perbuatan melawan hukum (Pasal 1365)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1354: orang yang sukarela tanpa ditugaskan mewakili urusan orang lain mengikatkan diri meneruskan urusan itu sampai yang bersangkutan dapat mengurusnya sendiri. Ia wajib bertindak sebagai kepala rumah tangga yang bijaksana (Pasal 1356).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1354 dan 1356",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1359",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "C salah transfer Rp5 juta ke rekening D. Menurut Pasal 1359-1360, D…",
+    "options": [
+      "Boleh menahannya sampai C menggugat",
+      "Wajib mengembalikannya, sadar atau tidak",
+      "Wajib mengembalikan hanya bila ia terbukti beritikad buruk",
+      "Boleh memilikinya karena C sendiri yang lalai mengetik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1359: pembayaran tanpa kewajiban dapat dituntut kembali. Pasal 1360: siapa pun yang secara sadar atau tidak menerima sesuatu yang tak harus dibayar kepadanya wajib mengembalikannya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1359-1360",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1366",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1366, seseorang bertanggung jawab atas kerugian yang disebabkan…",
+    "options": [
+      "Perbuatan, juga kelalaian atau kesembronoannya",
+      "Hanya perbuatan yang diancam pidana oleh undang-undang",
+      "Hanya perbuatannya yang disengaja dan direncanakan",
+      "Hanya perbuatan yang diperjanjikan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1366. Dalam PMH (Pasal 1365) unsur kesalahan meliputi kesengajaan maupun kelalaian.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1366",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1238",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Kontrak menyebut: 'Debitur dianggap lalai dengan lewatnya tanggal 1 Maret tanpa perlu teguran.' Menurut Pasal 1238, somasi…",
+    "options": [
+      "Wajib diumumkan di dua surat kabar harian",
+      "Diganti dengan gugatan langsung ke MA",
+      "Tak diperlukan; lalai karena perikatan sendiri",
+      "Tetap wajib dikirim lewat surat juru sita pengadilan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1238: debitur dinyatakan lalai dengan surat perintah atau akta sejenis, atau berdasarkan kekuatan perikatan sendiri bila perikatan menentukan debitur dianggap lalai dengan lewatnya waktu.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1238",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1267",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Pihak yang dirugikan karena lawannya wanprestasi dalam perjanjian timbal balik, menurut Pasal 1267, dapat memilih…",
+    "options": [
+      "Hanya mengambil barang lawan secara langsung",
+      "Hanya menuntut pemenuhan prestasi tanpa ganti rugi apa pun",
+      "Hanya melapor ke polisi atas dugaan penipuan",
+      "Pemenuhan, atau pembatalan disertai ganti rugi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1267. Pembatalan karena wanprestasi harus dimintakan ke pengadilan, tidak batal demi hukum (Pasal 1266).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1266-1267",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1381",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Manakah yang TIDAK disebut Pasal 1381 sebagai sebab hapusnya perikatan?",
+    "options": [
+      "Musnahnya barang yang terutang",
+      "Pembaruan utang (novasi)",
+      "Meninggalnya debitur",
+      "Kompensasi (perjumpaan utang)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1381: pembayaran, konsinyasi, novasi, kompensasi, percampuran utang, pembebasan utang, musnahnya barang, kebatalan/pembatalan, syarat batal, dan lewat waktu. Kematian debitur tidak disebut; kewajibannya pada umumnya beralih kepada ahli waris.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1381",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1382",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Paman melunasi utang keponakannya kepada bank atas nama keponakan itu. Menurut Pasal 1382, pembayaran oleh pihak ketiga…",
+    "options": [
+      "Sah hanya bila paman ikut menandatangani kredit",
+      "Tidak sah, hanya debitur yang boleh membayar",
+      "Sah hanya bila bank menyetujui tertulis",
+      "Sah, perikatan dapat dipenuhi pihak ketiga"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1382: perikatan dapat dipenuhi siapa pun yang berkepentingan, bahkan pihak ketiga yang tidak berkepentingan asal bertindak atas nama dan untuk melunasi utang debitur.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1382",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1404",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Kreditur menolak menerima pelunasan. Menurut Pasal 1404, debitur dapat…",
+    "options": [
+      "Menyerahkan uangnya ke kepala desa",
+      "Menganggap utangnya hapus dengan sendirinya karena penolakan",
+      "Menunggu sampai kreditur menggugat",
+      "Menawarkan pembayaran tunai lalu menitipkannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1404 (konsinyasi): penawaran pembayaran tunai yang diikuti penitipan, bila dilakukan menurut UU, membebaskan debitur dan berlaku sebagai pembayaran; barang yang dititipkan atas tanggungan kreditur.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1404",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1413",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Utang A kepada B diganti: C ditunjuk sebagai debitur baru dan B membebaskan A. Ini bentuk…",
+    "options": [
+      "Percampuran utang antara A dan C",
+      "Subrogasi karena undang-undang",
+      "Kompensasi (perjumpaan utang)",
+      "Pembaruan utang (novasi)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1413 angka 2: debitur baru ditunjuk menggantikan debitur lama yang dibebaskan kreditur. Novasi tidak dapat hanya dikira-kira; kehendaknya harus terbukti dari akta (Pasal 1415). Istilah 'subjektif pasif' berasal dari doktrin, bukan dari teks pasal.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1413 dan 1415",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1425",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "A berutang Rp10 juta kepada B, dan B berutang Rp10 juta kepada A. Hapusnya kedua utang itu karena saling berutang disebut…",
+    "options": [
+      "Kompensasi",
+      "Subrogasi oleh pihak ketiga",
+      "Pembaruan utang (novasi)",
+      "Pembebasan utang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1425.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1425",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1438",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Debitur mengaku 'kreditur dulu bilang utangnya sudah dianggap lunas', tanpa bukti apa pun. Menurut Pasal 1438…",
+    "options": [
+      "Pembebasan utang selalu dianggap ada",
+      "Utang hapus bila kreditur diam saja selama satu tahun penuh",
+      "Pembebasan utang tak dapat diduga; harus dibuktikan",
+      "Pengakuan debitur sendiri sudah cukup sebagai bukti"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1438.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1438",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1459",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Jual beli mobil sudah sepakat dan harga dibayar, tetapi mobil belum diserahkan. Menurut Pasal 1459, hak milik…",
+    "options": [
+      "Berpindah saat kontrak ditandatangani",
+      "Sudah berpindah saat kata sepakat",
+      "Belum berpindah sampai diserahkan",
+      "Sudah berpindah saat harga lunas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1458: jual beli terjadi saat sepakat tentang barang dan harga. Tetapi Pasal 1459: hak milik tidak pindah selama barang belum diserahkan (levering) menurut Pasal 612, 613, 616. Untuk kendaraan dan tanah ada aturan pendaftaran tersendiri.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1459",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1474",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1474, dua kewajiban utama penjual adalah…",
+    "options": [
+      "Menyerahkan barang dan menanggungnya",
+      "Menerima harga dan memberi kuitansi",
+      "Mengasuransikan dan mengantar barang",
+      "Membayar pajak dan biaya akta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1474. Penanggungan menjamin penguasaan yang aman dan tenteram serta tiadanya cacat tersembunyi (Pasal 1491).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1474 dan 1491",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1506",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Penjual mobil bekas sungguh tidak tahu ada cacat tersembunyi pada mesinnya. Menurut Pasal 1506, ia…",
+    "options": [
+      "Bebas bila pembeli sempat melihat dan mencoba mobilnya dulu",
+      "Hanya menanggung bila cacat muncul dalam 7 hari",
+      "Tetap menanggung, kecuali diperjanjikan lain",
+      "Bebas karena tidak mengetahui cacatnya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1504 dan 1506: penjual menanggung cacat tersembunyi meskipun ia sendiri tidak mengetahuinya, kecuali ia telah meminta diperjanjikan tidak wajib menanggung apa pun.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1504 dan 1506",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1576",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Rumah yang sedang disewa dijual pemiliknya. Menurut Pasal 1576, sewa yang dibuat sebelumnya…",
+    "options": [
+      "Tidak putus, kecuali diperjanjikan",
+      "Putus seketika saat jual beli ditandatangani",
+      "Berubah menjadi pinjam pakai",
+      "Putus bila pembeli baru tidak menyetujui sewa itu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1576: koop breekt geen huur, jual beli tidak memutuskan sewa, kecuali telah diperjanjikan saat menyewakan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1576",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1765",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1765 dan 1767, bunga atas pinjaman uang yang ditetapkan dalam perjanjian…",
+    "options": [
+      "Dilarang sama sekali dalam pinjaman antarperorangan",
+      "Hanya boleh bila disetujui pengadilan",
+      "Boleh, dan besarnya harus dinyatakan tertulis",
+      "Boleh diperjanjikan secara lisan berapa pun besarnya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1765 membolehkan syarat bunga; Pasal 1767: bunga perjanjian harus dinyatakan secara tertulis. Batasan bunga di sektor jasa keuangan diatur peraturan lain yang tidak diperiksa di sini.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1765 dan 1767",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1792",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Persetujuan pemberian kekuasaan kepada orang lain untuk melaksanakan sesuatu atas nama pemberinya disebut…",
+    "options": [
+      "Penitipan barang sukarela",
+      "Pemberian kuasa",
+      "Penanggungan",
+      "Perdamaian"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1792. Pemberian kuasa berakhir antara lain karena ditarik kembali, dihentikan penerima kuasa, atau meninggal, pengampuan, atau pailitnya salah satu pihak (Pasal 1813).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1792 dan 1813",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1820",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Pihak ketiga mengikatkan diri kepada kreditur untuk memenuhi perikatan debitur bila debitur tidak memenuhinya. Ini disebut…",
+    "options": [
+      "Penanggungan (borgtocht)",
+      "Gadai",
+      "Novasi",
+      "Subrogasi oleh pihak ketiga"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1820. Tiada penanggungan bila tiada perikatan pokok yang sah (Pasal 1821).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1820-1821",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1831",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Debitur macet. Kreditur langsung menagih penanggung (borg). Menurut Pasal 1831, penanggung pada asasnya dapat menuntut agar…",
+    "options": [
+      "Utangnya dihapus karena debitur lalai",
+      "Kreditur hanya menagihnya separuh dari jumlah utang",
+      "Harta debitur disita dan dijual dulu",
+      "Kreditur menggugat debitur secara pidana"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1831 (hak istimewa penanggung). Hak ini hilang antara lain bila penanggung melepaskannya atau mengikatkan diri secara tanggung-menanggung dengan debitur (Pasal 1832).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1831-1832",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1858",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Para pihak berdamai secara tertulis untuk mengakhiri perkara. Menurut Pasal 1858, perdamaian itu…",
+    "options": [
+      "Hanya mengikat bila disahkan oleh Mahkamah Agung",
+      "Berkekuatan seperti putusan tingkat akhir",
+      "Dapat dibatalkan bila satu pihak rugi",
+      "Dapat dibatalkan karena ada kekeliruan mengenai hukum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1851 dan 1858: perdamaian tertulis mengakhiri atau mencegah perkara, mempunyai kekuatan seperti putusan hakim tingkat akhir, dan tidak dapat dibantah dengan alasan kekeliruan hukum atau salah satu pihak dirugikan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1851 dan 1858",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1154",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Perjanjian gadai memuat syarat: bila debitur tak membayar, perhiasan yang digadaikan otomatis menjadi milik kreditur. Menurut Pasal 1154, syarat itu…",
+    "options": [
+      "Sah bila disepakati tertulis",
+      "Sah bila nilai perhiasan setara utang",
+      "Sah setelah lewat 1 tahun",
+      "Batal"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1154. Larangan serupa ada pada Hak Tanggungan (Pasal 12 UU 4/1996).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1154",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1152",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1152, hak gadai atas barang bergerak berwujud hapus bila…",
+    "options": [
+      "Debitur sudah membayar setengah dari utangnya",
+      "Barang gadai disimpan di rumah kreditur",
+      "Kreditur meninggal dunia sebelum utang lunas",
+      "Barang lepas dari kekuasaan pemegang gadai"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1152: gadai lahir dengan menyerahkan barang ke kekuasaan kreditur (inbezitstelling), dan hapus bila lepas dari kekuasaannya. Bila hilang atau dicuri, pemegang gadai dapat menuntutnya kembali (Pasal 1977 alinea kedua).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1152",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1865",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Penggugat mendalilkan tergugat berutang kepadanya. Menurut Pasal 1865, siapa yang wajib membuktikan?",
+    "options": [
+      "Panitera, yang mencatat persidangan",
+      "Hakim, yang memeriksa perkara",
+      "Penggugat, yang mengaku punya hak",
+      "Tergugat, yang dituduh berutang kepadanya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1865: siapa yang mengaku punya hak atau menunjuk peristiwa untuk meneguhkan haknya atau membantah hak orang lain wajib membuktikannya. Bila tergugat membantah dengan dalil sendiri, ia juga wajib membuktikan dalilnya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1865",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-1888",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Para pihak hanya menyerahkan fotokopi perjanjian, sedangkan aslinya ada. Menurut Pasal 1888, kekuatan pembuktian tulisan terletak pada…",
+    "options": [
+      "Keterangan saksi tentang isinya",
+      "Fotokopi yang dilegalisasi kelurahan",
+      "Fotokopi mana pun yang diajukan lebih dulu",
+      "Akta aslinya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1888: salinan dan kutipan hanya dapat dipercaya sepanjang sesuai dengan aslinya, yang senantiasa dapat diperintahkan untuk ditunjukkan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1888",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-humor-salah-transfer",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "visual": {
+      "template": "comic",
+      "title": "Rezeki nomplok salah alamat",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Ada yang salah transfer lima juta ke aku. Rezeki anak soleh!"
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Rezeki dari mana? Itu uang orang."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Pasal 1360: terima tanpa hak, wajib kembalikan."
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Jadi anak soleh juga harus transfer balik."
+        }
+      ]
+    },
+    "caption": "Rezeki yang dititip lewat salah ketik, ditagih lewat pasal.",
+    "teaches": "Barangsiapa secara sadar atau tidak menerima sesuatu yang tak harus dibayar kepadanya wajib mengembalikannya kepada orang yang memberikannya (Pasal 1360 KUH Perdata); apa yang dibayar tanpa kewajiban dapat dituntut kembali (Pasal 1359).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1359-1360",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-humor-koop-huur",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "visual": {
+      "template": "meme",
+      "top": "Pemilik baru: 'Rumah sudah saya beli, penyewa keluar besok pagi'",
+      "bottom": "Pasal 1576: jual beli tidak memutus sewa.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Rumahnya pindah tangan, kontraknya tidak ikut pindah haluan.",
+    "teaches": "Dengan dijualnya barang yang disewa, sewa yang dibuat sebelumnya tidak diputuskan, kecuali telah diperjanjikan pada waktu menyewakan (Pasal 1576 KUH Perdata).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1576",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw-humor-borg",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "visual": {
+      "template": "comic",
+      "title": "Formalitas paling mahal",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Tanda tangan di sini ya, cuma formalitas jadi penjamin."
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Formalitas kok ada pasalnya?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 1820: penjamin menanggung bila debitur tak bayar."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Jadi 'cuma formalitas' itu aku yang bayar?"
+        }
+      ]
+    },
+    "caption": "Kata 'cuma' adalah kata termahal dalam hukum perdata.",
+    "teaches": "Penanggungan adalah persetujuan di mana pihak ketiga, demi kepentingan kreditur, mengikatkan diri untuk memenuhi perikatan debitur bila debitur tidak memenuhinya (Pasal 1820 KUH Perdata). Pada asasnya penanggung dapat meminta harta debitur disita dan dijual lebih dulu (Pasal 1831).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1820 dan 1831",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

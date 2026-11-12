@@ -146,5 +146,384 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-asas-bukan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Manakah yang BUKAN asas perlindungan dan pengelolaan lingkungan hidup dalam Pasal 2 UU 32/2009?",
+    "options": [
+      "Asas tata kelola pemerintahan yang baik",
+      "Asas pertumbuhan ekonomi",
+      "Asas ekoregion",
+      "Asas kearifan lokal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 memuat 14 asas, antara lain tanggung jawab negara, kelestarian dan keberlanjutan, kehati-hatian, keadilan, ekoregion, keanekaragaman hayati, pencemar membayar, partisipatif, kearifan lokal, tata kelola pemerintahan yang baik, dan otonomi daerah.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 2",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-asas-ekoregion",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Pasal 2 UU 32/2009 memuat asas yang memperhatikan karakteristik sumber daya alam, ekosistem, kondisi geografis, budaya, dan kearifan lokal suatu wilayah. Nama asas yang paling sesuai adalah…",
+    "options": [
+      "Keterpaduan",
+      "Ekoregion",
+      "Manfaat",
+      "Otonomi daerah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 2 huruf h: asas ekoregion berarti perlindungan dan pengelolaan lingkungan hidup harus memperhatikan karakteristik sumber daya alam, ekosistem, kondisi geografis, budaya masyarakat setempat, dan kearifan lokal.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 2",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-tujuan-generasi",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Salah satu tujuan perlindungan dan pengelolaan lingkungan hidup menurut Pasal 3 UU 32/2009 adalah menjamin terpenuhinya keadilan…",
+    "options": [
+      "Generasi masa kini dan generasi masa depan",
+      "Antara investor asing dan investor dalam negeri",
+      "Bagi pelaku usaha yang taat pajak",
+      "Antara pemerintah pusat dan daerah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tujuan lain: melindungi wilayah NKRI dari pencemaran/kerusakan, menjamin keselamatan dan kesehatan manusia, mewujudkan pembangunan berkelanjutan, mengantisipasi isu lingkungan global.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 3",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-tujuan-ham",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Pasal 3 UU 32/2009 menempatkan hak atas lingkungan hidup sebagai…",
+    "options": [
+      "Hak istimewa pemilik tanah",
+      "Hak yang lahir dari izin usaha",
+      "Bagian dari hak asasi manusia",
+      "Hak yang hanya dimiliki negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sejalan dengan Pasal 65 ayat (1).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 3, Pasal 65",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-kewajiban-semua",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 67 UU 32/2009, kewajiban memelihara kelestarian fungsi lingkungan hidup dan mengendalikan pencemaran/kerusakan dibebankan kepada…",
+    "options": [
+      "Setiap orang",
+      "Pemegang izin usaha saja",
+      "Pemerintah pusat saja",
+      "Organisasi lingkungan hidup"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 68 menambah kewajiban khusus bagi setiap orang yang melakukan usaha dan/atau kegiatan.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 67",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-peran-masyarakat",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Bentuk peran masyarakat dalam perlindungan dan pengelolaan lingkungan hidup menurut Pasal 70 UU 32/2009 meliputi…",
+    "options": [
+      "Pengawasan sosial, keberatan, dan pengaduan",
+      "Penjatuhan sanksi administratif kepada perusahaan",
+      "Penyidikan dan penuntutan pelaku pencemaran",
+      "Penerbitan izin lingkungan bagi usaha kecil"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penyidikan, penerbitan izin, dan sanksi administratif adalah kewenangan negara.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 70",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-slapp-mk",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut putusan MK tahun 2025 yang dicatat DataHukum, Penjelasan Pasal 66 UU 32/2009 harus dimaknai melindungi…",
+    "options": [
+      "Hanya pejabat pengawas lingkungan hidup",
+      "Setiap orang, termasuk saksi, ahli, dan aktivis",
+      "Hanya korban pencemaran yang sudah mengajukan gugatan",
+      "Hanya organisasi lingkungan berbadan hukum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan asli hanya menyebut korban dan/atau pelapor. Pemaknaan baru juga mencakup \"upaya hukum lainnya\" sebagai bentuk pembalasan. Nomor perkara lengkap belum dicek di situs MK.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 66 dan Penjelasannya",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-strict",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Setiap orang yang kegiatannya menggunakan B3, menghasilkan/mengelola limbah B3, atau menimbulkan ancaman serius terhadap lingkungan, menurut Pasal 88 UU 32/2009 (setelah UU 6/2023), bertanggung jawab…",
+    "options": [
+      "Mutlak atas kerugian yang terjadi",
+      "Hanya atas kerugian negara",
+      "Hanya bila terbukti lalai",
+      "Bersama-sama dengan pemerintah daerah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rumusan setelah perubahan tidak lagi memuat frasa \"tanpa perlu pembuktian unsur kesalahan\" yang ada pada rumusan 2009. Perdebatan apakah maknanya berubah: cek literatur.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 88",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-pemerintah-gugat",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 90 ayat (1) UU 32/2009, instansi pemerintah dan pemerintah daerah yang bertanggung jawab di bidang lingkungan hidup berwenang mengajukan gugatan…",
+    "options": [
+      "Pidana terhadap perusahaan pencemar lingkungan",
+      "Ganti rugi dan tindakan tertentu",
+      "Pencabutan hak atas tanah pelaku",
+      "Pembubaran perusahaan pencemar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 90.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 90",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-class-action",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Gugatan perwakilan kelompok oleh masyarakat korban pencemaran (Pasal 91 UU 32/2009) dapat diajukan bila ada kesamaan…",
+    "options": [
+      "Jumlah kerugian setiap anggota kelompok",
+      "Fakta atau peristiwa, dasar hukum, dan tuntutan",
+      "Kuasa hukum dan organisasi pendamping",
+      "Tempat tinggal dan pekerjaan seluruh anggota kelompok"
+    ],
+    "answerIndex": 1,
+    "explanation": "Antara wakil kelompok dan anggota kelompoknya.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 91",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-organisasi-tuntutan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Gugatan organisasi lingkungan hidup menurut Pasal 92 ayat (2) UU 32/2009 terbatas pada…",
+    "options": [
+      "Tindakan tertentu, tanpa ganti rugi kecuali biaya riil",
+      "Ganti rugi materiil dan imateriil sepenuhnya kepada anggota",
+      "Pembatalan izin usaha pencemar oleh pengadilan negeri",
+      "Tuntutan pidana terhadap direksi perusahaan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 92 ayat (3): berbadan hukum, anggaran dasarnya menegaskan tujuan pelestarian fungsi lingkungan, dan telah berkegiatan nyata paling singkat 2 tahun.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 92",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-tun-amdal",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 93 UU 32/2009, setiap orang dapat menggugat keputusan TUN bila pejabat menerbitkan izin lingkungan untuk usaha wajib amdal yang…",
+    "options": [
+      "Belum membayar pajak daerah",
+      "Dimiliki oleh perusahaan asing",
+      "Lokasinya jauh dari permukiman",
+      "Tidak dilengkapi dokumen amdal"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tata caranya mengikuti hukum acara peradilan TUN. Catatan: istilah \"izin lingkungan\" diganti \"persetujuan lingkungan\" oleh UU Cipta Kerja; sumber ini mencatat Pasal 93 dalam rumusan 2009, belum dicek apakah pasal ini diubah atau dihapus.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 93",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-asas-keadilan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Penjelasan Pasal 2 UU 32/2009, asas keadilan berarti perlindungan dan pengelolaan lingkungan hidup mencerminkan keadilan proporsional bagi setiap warga negara, baik lintas daerah, lintas generasi, maupun lintas…",
+    "options": [
+      "Gender",
+      "Partai",
+      "Agama",
+      "Profesi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penjelasan Pasal 2 huruf g.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 2 huruf g",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-asas-kehati",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Penjelasan Pasal 2 huruf f UU 32/2009, asas kehati-hatian berarti ketidakpastian dampak karena keterbatasan iptek…",
+    "options": [
+      "Membebaskan pelaku usaha dari kewajiban menyusun amdal",
+      "Menjadi alasan sah untuk menunda pengawasan sampai ada bukti ilmiah",
+      "Bukan alasan menunda langkah mencegah pencemaran atau kerusakan",
+      "Harus diputus lebih dahulu oleh pengadilan sebelum ada tindakan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dikenal sebagai precautionary principle.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 2 huruf f",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-ag-humor-slapp",
+    "type": "humor",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Lapor balik",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Warga: saya lapor sungai berubah warna."
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Perusahaan: kami laporkan balik, pencemaran nama baik!"
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Hakim: Pasal 66: pejuang lingkungan tak bisa dituntut atau digugat."
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Warga: jadi yang tercemar sungainya, bukan nama baiknya."
+        }
+      ]
+    },
+    "caption": "Anti-SLAPP: pembalasan hukum terhadap pejuang lingkungan dilarang.",
+    "teaches": "Pasal 66 UU 32/2009: setiap orang yang memperjuangkan hak atas lingkungan hidup yang baik dan sehat tidak dapat dituntut pidana maupun digugat perdata. Penjelasannya diperluas oleh putusan MK 2025 (cek nomor perkaranya).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 66",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

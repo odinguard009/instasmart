@@ -1469,5 +1469,624 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-ahli-waris-syarat",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 171 KHI, ahli waris adalah orang yang saat pewaris meninggal mempunyai hubungan darah atau perkawinan dengan pewaris, serta…",
+    "options": [
+      "Beragama Islam dan tidak terhalang karena hukum",
+      "Ikut merawat pewaris selama sakit",
+      "Tercatat dalam kartu keluarga yang sama",
+      "Telah dewasa dan tinggal serumah dengan pewaris"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 171 huruf c KHI. Pewaris pun didefinisikan sebagai orang yang beragama Islam (huruf b).",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 171 huruf b-c",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-harta-waris",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "\"Harta waris\" menurut Pasal 171 KHI adalah harta bawaan ditambah bagian harta bersama setelah dikurangi…",
+    "options": [
+      "Biaya sakit, jenazah, utang, dan pemberian kerabat",
+      "Pajak penghasilan pewaris lima tahun terakhir",
+      "Seluruh hibah yang pernah diberikan pewaris semasa hidupnya",
+      "Bagian janda atau duda dari harta bawaan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 171 huruf e: setelah digunakan untuk keperluan pewaris selama sakit sampai meninggal, biaya pengurusan jenazah (tajhiz), pembayaran utang, dan pemberian untuk kerabat.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 171 huruf e",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-agama-bayi",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Bayi atau anak yang belum dewasa, menurut Pasal 172 KHI, dipandang beragama…",
+    "options": [
+      "Sesuai agama wali yang ditunjuk hakim",
+      "Menurut agama ibunya saja",
+      "Menurut ayahnya atau lingkungannya",
+      "Sesuai pilihannya saat dewasa nanti"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 172: ahli waris dipandang beragama Islam bila diketahui dari kartu identitas, pengakuan, amalan, atau kesaksian; bayi atau anak belum dewasa beragama menurut ayahnya atau lingkungannya.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 172",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-terhalang",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Seseorang terhalang menjadi ahli waris (Pasal 173 KHI) bila dengan putusan berkekuatan hukum tetap dihukum karena…",
+    "options": [
+      "Tidak hadir saat pemakaman pewaris",
+      "Membunuh atau menganiaya berat pewaris",
+      "Tinggal di luar negeri saat pewaris meninggal dunia",
+      "Pernah berutang kepada pewaris dan belum lunas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 173 huruf a. Huruf b: karena memfitnah dengan mengadukan pewaris melakukan kejahatan yang diancam hukuman 5 tahun penjara atau lebih berat.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 173",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-semua-ada",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Bila semua ahli waris ada, menurut Pasal 174 ayat (2) KHI yang berhak mendapat warisan hanya…",
+    "options": [
+      "Anak laki-laki dan ayah saja",
+      "Anak, ayah, ibu, janda atau duda",
+      "Semua kerabat sampai derajat ketiga",
+      "Anak dan saudara kandung pewaris"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 174 ayat (2). Ayat (1) membagi kelompok ahli waris menurut hubungan darah (golongan laki-laki dan perempuan) dan menurut hubungan perkawinan (duda atau janda).",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 174",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-utang-terbatas",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Tanggung jawab ahli waris atas utang pewaris menurut Pasal 175 ayat (2) KHI…",
+    "options": [
+      "Gugur seluruhnya saat pewaris meninggal",
+      "Tanpa batas, termasuk harta pribadi ahli waris",
+      "Terbatas pada nilai harta peninggalan",
+      "Hanya ditanggung anak laki-laki tertua"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 175 ayat (2): hanya terbatas pada jumlah atau nilai harta peninggalannya. Ayat (1) menyebut kewajiban ahli waris: mengurus jenazah, menyelesaikan utang, menyelesaikan wasiat, membagi warisan.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 175",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-ibu",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris meninggalkan anak. Bagian ibu menurut Pasal 178 KHI adalah…",
+    "options": [
+      "Seperempat",
+      "Separoh",
+      "Seperenam",
+      "Sepertiga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 178 ayat (1): ibu mendapat 1/6 bila ada anak atau dua saudara atau lebih; bila tidak ada, 1/3. Ayat (2): 1/3 dari sisa sesudah diambil janda atau duda bila bersama ayah.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 178",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-saudara-seibu",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris tanpa anak dan ayah meninggalkan seorang saudara laki-laki seibu. Bagiannya (Pasal 181 KHI)…",
+    "options": [
+      "Ashabah, mengambil sisa",
+      "Seperenam",
+      "Sepertiga",
+      "Separoh"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 181: saudara laki-laki dan perempuan seibu masing-masing 1/6; dua orang atau lebih bersama-sama 1/3.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 181",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-saudari-kandung",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris tanpa anak dan ayah meninggalkan satu saudara perempuan kandung. Bagiannya menurut Pasal 182 KHI…",
+    "options": [
+      "Dua pertiga",
+      "Separoh",
+      "Seperenam",
+      "Sepertiga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 182: satu saudara perempuan kandung atau seayah 1/2; dua orang atau lebih bersama-sama 2/3; bila bersama saudara laki-laki kandung atau seayah, laki-laki dua berbanding satu.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 182",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-pengganti",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Ahli waris yang meninggal lebih dahulu daripada pewaris, menurut Pasal 185 KHI…",
+    "options": [
+      "Bagiannya dibagi rata ke ahli waris lain",
+      "Dapat digantikan oleh anaknya",
+      "Dapat digantikan janda atau dudanya",
+      "Bagiannya otomatis kembali ke Baitul Mal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 185 ayat (1): digantikan oleh anaknya, kecuali mereka yang terhalang menurut Pasal 173. Ayat (2): bagian ahli waris pengganti tidak boleh melebihi bagian ahli waris yang sederajat dengan yang diganti.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 185",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-pengganti-batas",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Bagian ahli waris pengganti (cucu yang menggantikan ayahnya) menurut Pasal 185 ayat (2) KHI…",
+    "options": [
+      "Sebesar sepertiga harta warisan",
+      "Tak boleh melebihi ahli waris sederajat yang diganti",
+      "Ditentukan bebas oleh hakim tanpa batas atas apa pun",
+      "Selalu sama dengan bagian anak laki-laki"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 185 ayat (2).",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 185 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-lahan-2ha",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Warisan berupa lahan pertanian kurang dari 2 hektar, menurut Pasal 189 KHI, sebaiknya…",
+    "options": [
+      "Dipecah sesuai bagian masing-masing",
+      "Dipertahankan kesatuannya",
+      "Wajib dijual lalu uangnya dibagi",
+      "Diserahkan kepada anak laki-laki tertua"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 189 ayat (1): dipertahankan kesatuannya dan dimanfaatkan bersama. Ayat (2): bila ada ahli waris yang memerlukan uang, lahan dapat dimiliki seorang atau lebih ahli waris dengan membayar harganya kepada yang berhak.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 189",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-baitul-mal",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris tidak meninggalkan ahli waris sama sekali. Menurut Pasal 191 KHI, hartanya…",
+    "options": [
+      "Dibagikan ke masjid tempat pewaris salat",
+      "Diambil tetangga terdekat yang mengurus jenazah",
+      "Atas putusan PA diserahkan kepada Baitul Mal",
+      "Otomatis menjadi milik negara lewat kas daerah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 191: atas putusan Pengadilan Agama diserahkan penguasaannya kepada Baitul Mal untuk kepentingan agama Islam dan kesejahteraan umum. Baitul Mal adalah Balai Harta Keagamaan (Pasal 171 huruf i).",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 191",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-umur-wasiat",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 194 KHI, orang dapat berwasiat bila berumur sekurang-kurangnya…",
+    "options": [
+      "18 tahun, berakal sehat, tanpa paksaan",
+      "25 tahun dan punya penghasilan",
+      "17 tahun atau sudah menikah",
+      "21 tahun, berakal sehat, tanpa paksaan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 194 ayat (1). Harta yang diwasiatkan harus hak pewasiat (ayat (2)) dan pemilikannya baru dapat dilaksanakan sesudah pewasiat meninggal (ayat (3)).",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 194",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-bentuk-wasiat",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 195 ayat (1) KHI, wasiat dilakukan…",
+    "options": [
+      "Tertulis lalu wajib didaftarkan di Pengadilan Agama setempat",
+      "Hanya lisan di hadapan keluarga inti",
+      "Hanya tertulis di hadapan notaris",
+      "Lisan/tertulis di depan dua saksi, atau di depan notaris"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 195 ayat (1).",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 195 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-wasiat-ahli-waris",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Wasiat kepada ahli waris menurut Pasal 195 ayat (3) KHI…",
+    "options": [
+      "Berlaku tanpa syarat apa pun sampai batas sepertiga",
+      "Berlaku bila disetujui semua ahli waris",
+      "Berlaku bila disahkan hakim",
+      "Selalu batal demi hukum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 195 ayat (3): wasiat kepada ahli waris berlaku bila disetujui oleh semua ahli waris. Persetujuan dibuat lisan atau tertulis di hadapan dua saksi atau notaris (ayat (4)).",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 195 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-wasiat-lebih",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Wasiat melebihi sepertiga harta warisan dan ada ahli waris yang tidak setuju. Menurut Pasal 201 KHI…",
+    "options": [
+      "Wasiat batal seluruhnya",
+      "Wasiat dilaksanakan hanya sampai sepertiga",
+      "Wasiat tetap dilaksanakan penuh sesuai kehendak pewasiat",
+      "Hakim menentukan besarnya bebas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 201. Batas umum wasiat sepertiga harta warisan kecuali semua ahli waris menyetujui (Pasal 195 ayat (2)).",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 201, Pasal 195 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-wasiat-batal",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Mana yang membuat wasiat batal menurut Pasal 197 KHI?",
+    "options": [
+      "Wasiat dibuat lebih dari sepuluh tahun lalu",
+      "Penerima wasiat bukan kerabat sedarah dari pewasiat",
+      "Penerima wasiat dihukum karena membunuh pewasiat",
+      "Pewasiat menulis wasiat dengan tulisan tangannya sendiri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 197 ayat (1): antara lain bila calon penerima wasiat dengan putusan berkekuatan hukum tetap dihukum karena membunuh, mencoba membunuh, atau menganiaya berat pewasiat, atau memfitnah pewasiat.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 197",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-ortu-angkat",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Orang tua angkat yang tidak menerima wasiat dari anak angkatnya, menurut Pasal 209 KHI, diberi…",
+    "options": [
+      "Bagian ashabah seperti ayah kandung",
+      "Seperenam seperti ibu kandung",
+      "Tidak mendapat apa pun dari harta anak angkatnya",
+      "Wasiat wajibah sebanyak-banyaknya 1/3"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 209 ayat (1). Ayat (2) mengatur sebaliknya: anak angkat yang tidak menerima wasiat diberi wasiat wajibah sebanyak-banyaknya 1/3 dari harta warisan orang tua angkatnya.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 209",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-hibah-batas",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 210 KHI, hibah kepada orang lain atau lembaga dapat diberikan sebanyak-banyaknya…",
+    "options": [
+      "1/3 harta benda, di hadapan dua saksi",
+      "Seluruh harta, asal sukarela",
+      "1/2 harta benda, di hadapan notaris",
+      "1/4 harta benda, dengan izin ahli waris"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 210 ayat (1): penghibah berumur sekurang-kurangnya 21 tahun, berakal sehat, tanpa paksaan, sebanyak-banyaknya 1/3 harta bendanya, di hadapan dua orang saksi.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 210",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-hibah-tarik",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Hibah menurut Pasal 212 KHI tidak dapat ditarik kembali, kecuali…",
+    "options": [
+      "Hibah yang nilainya di bawah sepertiga",
+      "Hibah kepada lembaga keagamaan",
+      "Hibah orang tua kepada anaknya",
+      "Hibah yang belum dicatat notaris"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 212. Pasal 211: hibah orang tua kepada anaknya dapat diperhitungkan sebagai warisan.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 211-212",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-hibah-sakit",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "question": "Hibah yang diberikan saat pemberi hibah sakit yang dekat dengan kematian, menurut Pasal 213 KHI…",
+    "options": [
+      "Otomatis batal demi hukum",
+      "Hanya sah bila disaksikan dokter yang merawatnya",
+      "Sah tanpa syarat apa pun",
+      "Harus mendapat persetujuan ahli warisnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 213.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 213",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-humor-hibah-tarik",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "comic",
+      "title": "Hibah bersyarat chat",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Hibah motor ke teman sudah, tapi dia mulai jarang chat."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Terus?"
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Kutarik saja hibahnya."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Pasal 212 KHI: tidak bisa, kecuali orang tua ke anaknya."
+        }
+      ]
+    },
+    "caption": "Ikhlas itu tanpa syarat dibalas.",
+    "teaches": "Pasal 212 KHI: hibah tidak dapat ditarik kembali, kecuali hibah orang tua kepada anaknya. Pasal 211: hibah orang tua kepada anak dapat diperhitungkan sebagai warisan.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 211-212",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-humor-utang-warisan",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "meme",
+      "top": "Penagih: \"Utang almarhum Rp500 juta, warisannya Rp50 juta\"",
+      "bottom": "Ahli waris: tanggung jawab kami sebatas Rp50 juta itu.",
+      "character": "kancil",
+      "expression": "shock"
+    },
+    "caption": "Warisan bukan paket bundling utang tanpa batas.",
+    "teaches": "Pasal 175 ayat (2) KHI: tanggung jawab ahli waris terhadap utang atau kewajiban pewaris hanya terbatas pada jumlah atau nilai harta peninggalannya.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 175 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-khi-humor-grup-keluarga",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-islam",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "meme",
+      "top": "Grup keluarga sebelum pembagian warisan: 52 anggota aktif",
+      "bottom": "Pasal 174(2): bila semua ada, cuma anak, ayah, ibu, janda/duda.",
+      "character": "owl",
+      "expression": "think"
+    },
+    "caption": "Grupnya sepi, hukumnya jelas.",
+    "teaches": "Pasal 174 ayat (2) KHI: bila semua ahli waris ada, yang berhak mendapat warisan hanya anak, ayah, ibu, janda atau duda.",
+    "source": {
+      "title": "Kompilasi Hukum Islam (Inpres No. 1 Tahun 1991)",
+      "reference": "Pasal 174 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/KHI.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

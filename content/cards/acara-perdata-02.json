@@ -1338,5 +1338,432 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-cacat-otentik",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Akta yang tidak dapat diperlakukan sebagai akta otentik karena pejabatnya tidak berwenang atau bentuknya cacat, menurut Pasal 1869 KUHPerdata, berkekuatan sebagai…",
+    "options": [
+      "Tulisan di bawah tangan, bila ditandatangani para pihak",
+      "Bukti permulaan saja, tanpa tanda tangan",
+      "Tidak berkekuatan bukti apa pun",
+      "Akta otentik, asalkan isi akta itu benar dan tidak dibantah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1869 KUHPerdata (terjemahan tidak resmi).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1869",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-pejabat-umum",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 1868 KUHPerdata, akta otentik dibuat dalam bentuk yang ditentukan undang-undang oleh atau di hadapan…",
+    "options": [
+      "Kepala desa atau lurah di tempat tinggal para pihak",
+      "Dua orang saksi dewasa",
+      "Pejabat umum yang berwenang di tempat akta dibuat",
+      "Hakim pengadilan negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1868 KUHPerdata. Contoh pejabat umum yang lazim disebut: notaris.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1868",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-ingkari-ttd",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Seseorang yang dihadapkan pada tulisan di bawah tangan, menurut Pasal 1876 KUHPerdata, wajib…",
+    "options": [
+      "Mengajukan gugatan balik dalam waktu 14 hari",
+      "Membawa notaris ke sidang untuk mengesahkan tulisan itu",
+      "Diam sampai hakim memeriksa keaslian tulisan",
+      "Mengakui atau memungkiri tanda tangannya dengan tegas"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bagi ahli waris atau penerima hak, cukup menerangkan tidak mengakui tulisan atau tanda tangan itu. Pasal 1877: bila dipungkiri, hakim memerintahkan pemeriksaan kebenarannya di pengadilan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1876-1877",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-unus-testis",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 1905 KUHPerdata, keterangan seorang saksi saja tanpa alat bukti lain…",
+    "options": [
+      "Tidak boleh dipercaya di pengadilan",
+      "Sama kuatnya dengan akta otentik",
+      "Cukup bila saksi itu pejabat negara",
+      "Cukup bila saksi itu disumpah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dikenal sebagai asas unus testis nullus testis (satu saksi bukan saksi).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1905",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-saksi-tolak",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Siapa yang dapat meminta dibebaskan dari kewajiban bersaksi menurut Pasal 1909 KUHPerdata?",
+    "options": [
+      "Orang yang tinggal di luar kota tempat pengadilan berada",
+      "Orang yang wajib merahasiakan sesuatu karena jabatannya",
+      "Orang yang pernah bertemu salah satu pihak",
+      "Setiap orang yang tidak mau terlibat perkara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Juga keluarga sedarah garis ke samping derajat kedua atau semenda dengan salah satu pihak, dan keluarga tertentu dari suami/isteri salah satu pihak.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1909",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-saksi-15",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 1912 KUHPerdata, orang yang belum genap … tahun tidak dapat diterima sebagai saksi.",
+    "options": [
+      "17",
+      "15",
+      "12",
+      "21"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hakim boleh mendengar mereka tanpa sumpah, tetapi keterangannya hanya dianggap penjelasan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1912",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-persangkaan-def",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Persangkaan menurut Pasal 1915 KUHPerdata adalah kesimpulan yang ditarik oleh undang-undang atau hakim dari…",
+    "options": [
+      "Peristiwa yang diketahui ke peristiwa yang tidak diketahui",
+      "Isi akta otentik yang dibacakan dan dibenarkan di sidang",
+      "Pengakuan tergugat yang diberikan di luar sidang pengadilan",
+      "Keterangan satu saksi yang disumpah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dua jenis: persangkaan berdasarkan undang-undang dan yang tidak berdasarkan undang-undang (diserahkan pada pertimbangan hakim, Pasal 1922).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1915, 1922",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-persangkaan-uu",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 1921 KUHPerdata, persangkaan menurut undang-undang…",
+    "options": [
+      "Kekuatannya sama dengan satu orang saksi",
+      "Selalu boleh dilawan dengan bukti sebaliknya oleh pihak lawan",
+      "Hanya berlaku bila hakim menyetujuinya",
+      "Membebaskan pihak yang diuntungkan dari pembuktian lanjut"
+    ],
+    "answerIndex": 3,
+    "explanation": "Terhadap persangkaan tertentu tidak boleh diadakan pembuktian sebaliknya, kecuali undang-undang membolehkannya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1921",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-ne-bis",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Kekuatan putusan berkekuatan hukum tetap menurut Pasal 1917 KUHPerdata hanya dapat dipakai bila…",
+    "options": [
+      "Tuntutan, alasan, dan para pihaknya sama",
+      "Perkara baru diajukan dalam waktu satu tahun",
+      "Pengadilan yang memutus berada di wilayah yang sama",
+      "Hakim yang memeriksa perkara sama"
+    ],
+    "answerIndex": 0,
+    "explanation": "Soal yang dituntut sama, didasarkan alasan yang sama, diajukan oleh dan terhadap pihak yang sama dalam hubungan yang sama.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1917",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-status-erga",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 1920 KUHPerdata, putusan hakim mengenai kedudukan hukum seseorang yang dijatuhkan terhadap pihak yang berwenang membantahnya berlaku…",
+    "options": [
+      "Hanya di wilayah pengadilan pemutus",
+      "Hanya terhadap ahli waris para pihak",
+      "Hanya terhadap para pihak",
+      "Terhadap siapa pun"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1920 KUHPerdata.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1920",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-pengakuan-lisan",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Pengakuan lisan di luar sidang pengadilan menurut Pasal 1927 KUHPerdata…",
+    "options": [
+      "Hanya dipakai bila pembuktian dengan saksi diizinkan",
+      "Sama kuatnya dengan pengakuan yang diberikan di depan hakim",
+      "Wajib dikuatkan dengan akta notaris",
+      "Selalu ditolak sebagai alat bukti"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1923: pengakuan ada yang diberikan dalam sidang dan ada yang di luar sidang.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1923, 1927",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-sumpah-dua",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Dua macam sumpah di hadapan hakim menurut Pasal 1929 KUHPerdata adalah…",
+    "options": [
+      "Sumpah pemutus dan sumpah yang diperintahkan hakim karena jabatan",
+      "Sumpah promisoir dan sumpah yang diucapkan oleh kuasa hukum",
+      "Sumpah saksi dan sumpah ahli yang diangkat sebelum memberi keterangan",
+      "Sumpah jabatan pejabat dan sumpah yang diucapkan di luar sidang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sumpah pemutus diperintahkan satu pihak kepada pihak lain. Sumpah karena jabatan diperintahkan hakim kepada salah satu pihak (Pasal 1940).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1929, 1940",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-sumpah-sendiri",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 1931 KUHPerdata, sumpah pemutus hanya dapat diperintahkan mengenai…",
+    "options": [
+      "Pendapat ahli tentang nilai kerugian",
+      "Perbuatan yang dilakukan sendiri oleh yang disumpah",
+      "Perbuatan siapa pun yang diketahui dari berita",
+      "Isi akta otentik yang dibantah oleh pihak lawan di sidang"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1931 KUHPerdata (terjemahan tidak resmi).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1931",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-enggan-sumpah",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Pihak yang diperintahkan mengangkat sumpah pemutus tetapi enggan mengangkat dan enggan mengembalikannya, menurut Pasal 1932 KUHPerdata…",
+    "options": [
+      "Harus dikalahkan dalam tuntutan atau tangkisannya",
+      "Wajib membayar denda kepada pengadilan",
+      "Dianggap mengundurkan diri dari perkara tanpa akibat",
+      "Diberi waktu tiga bulan untuk berpikir ulang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Begitu pula pihak yang memerintahkan sumpah lalu enggan mengangkatnya setelah sumpah dikembalikan kepadanya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1932",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-serah-surat",
+    "type": "quiz",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "hir.hari.ini",
+    "question": "Menurut Pasal 1886 KUHPerdata, pada setiap tingkat perkara pihak dapat meminta hakim agar lawan diperintahkan…",
+    "options": [
+      "Membayar biaya perkara lebih dahulu",
+      "Mengakui seluruh dalil gugatan",
+      "Menghadirkan semua saksi yang dikenalnya ke persidangan",
+      "Menyerahkan surat sengketa yang ada di tangannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1886 KUHPerdata.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1886",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-humor-satu-saksi",
+    "type": "humor",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Satu saksi",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Penggugat: saksi saya cuma satu, tapi yakinnya seratus persen."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim: Pasal 1905: satu saksi tanpa bukti lain tidak boleh dipercaya."
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Penggugat: kalau dia bersumpah dua kali?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Hakim: tetap satu orang. Yang dihitung orang, bukan semangatnya."
+        }
+      ]
+    },
+    "caption": "Unus testis nullus testis.",
+    "teaches": "Pasal 1905 KUHPerdata: keterangan seorang saksi saja tanpa alat pembuktian lain tidak boleh dipercaya di pengadilan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1905",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-perdata-bk-humor-ttd",
+    "type": "humor",
+    "topicId": "acara-perdata",
+    "subTopicId": "pembuktian-putusan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Tergugat: itu tanda tangan saya? Hmm, mirip sih…",
+      "bottom": "Pasal 1876: akui atau pungkiri secara tegas",
+      "character": "gecko",
+      "expression": "think"
+    },
+    "caption": "Ragu-ragu bukan jawaban di depan tulisan di bawah tangan.",
+    "teaches": "Pasal 1876 KUHPerdata: orang yang dihadapkan pada tulisan di bawah tangan wajib mengakui atau memungkiri tanda tangannya secara tegas; bila dipungkiri, hakim memerintahkan pemeriksaan kebenarannya (Pasal 1877).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan tidak resmi)",
+      "reference": "Pasal 1876-1877",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

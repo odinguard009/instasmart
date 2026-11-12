@@ -429,3 +429,69 @@
 
 > Legitieme portie atau bagian warisan menurut undang-undang ialah bagian dan harta benda yang harus diberikan kepada para ahli waris dalam garis lurus menurut undang-undang, yang terhadapnya orang yang meninggal dunia tidak boleh menetapkan sesuatu, baik sebagai hibah antara orang-orang yang masih hidup, maupun sebagai wasiat.
 
+
+## Tambahan ketiga (diambil 12 November 2026 dari berkas yang sama): alat bukti, saksi, persangkaan, pengakuan, dan sumpah
+
+## Pasal 1866
+
+> Alat pembuktian meliputi: bukti tertulis; bukti saksi; persangkaan; pengakuan; sumpah. Semuanya tunduk pada aturan-aturan yang tercantum dalam bab-bab berikut.
+
+## Pasal 1868
+
+> Suatu akta otentik ialah suatu akta yang dibuat dalam bentuk yang ditentukan undang-undang oleh atau dihadapan pejabat umum yang berwenang untuk itu di tempat akta itu dibuat.
+
+## Pasal 1869
+
+> Suatu akta yang tidak dapat diperlakukan sebagai akta otentik, baik karena tidak berwenang atau tidak cakapnya pejabat umum yang bersangkutan maupun karena cacat dalam bentuknya, mempunyai kekuatan sebagai tulisan di bawah tangan bila ditandatangani oleh para pihak.
+
+## Pasal 1876
+
+> Barangsiapa dihadapi dengan suatu tulisan di bawah tangan oleh orang yang mengajukan tuntutan terhadapnya, wajib mengakui atau memungkiri tanda tangannya secara tegas, tetapi bagi para ahli warisnya atau orang yang mendapat hak darinya, cukuplah mereka menerangkan bahwa mereka tidak mengakui tulisan atau tanda tangan itu sebagai tulisan atau tanda tangan orang yang mereka wakili.
+
+## Pasal 1877
+
+> Jika seseorang memungkiri tulisan atau tanda tangannya, ataupun jika para ahli warisnya atau orang yang mendapat hak daripadanya tidak mengakuinya, maka Hakim harus memerintahkan supaya kebenaran tulisan atau tanda tangan tersebut diperiksa di muka Pengadilan.
+
+## Pasal 1909
+
+> Semua orang yang cakap untuk menjadi saksi, wajib memberikan kesaksian di muka Hakim. Namun dapatlah meminta dibebaskan dari kewajiban memberikan kesaksian; 1. siapa saja yang mempunyai pertalian keluarga sedarah dalam garis ke samping derajat kedua atau keluarga semenda dengan salah satu pihak: 2. siapa saja yang mempunyai pertalian darah dalam garis lurus tak terbatas dan dalam garis ke samping dalam derajat kedua dengan suami atau isteri salah satu pihak; 3. siapa saja yang karena kedudukannya, pekerjaannya atau jabatannya diwajibkan undang- undang untuk merahasiakan sesuatu, namun hanya mengenai hal-hal yang dipercayakan kepadanya karena kedudukan, pekerjaan dan jabatannya itu.
+
+## Pasal 1912
+
+> Orang yang belum genap lima belas tahun, orang yang berada di bawah pengampuan karena dungu, gila atau mata gelap, atau orang yang atas perintah Hakim telah dimasukkan dalam tahanan selama perkara diperiksa Pengadilan tidak dapat diterima sebagai saksi. Hakim boleh mendengar anak yang belum dewasa atau orang yang berada di bawah pengampuan yang kadang-kadang dapat berpikir saat itu tanpa suatu penyumpahan, tetapi keterangan mereka hanya dapat dianggap sebagai penjelasan. Juga Hakim tidak boleh mempercayai apa yang menurut orang tak cakap itu telah didengarnya, dilihatnya, dihadirinya dan dialaminya, biarpun itu semua disertai keterangan tentang bagaimana ia mengetahuinya; Hakim hanya boleh menggunakannya untuk mengetahui dan mendapatkan petunjuk-petunjuk ke arah peristiwa-peristiwa yang dapat dibuktikan lebih lanjut dengan upaya pembuktian biasa.
+
+## Pasal 1915
+
+> Persangkaan ialah kesimpulan yang oleh undang-undang atau oleh Hakim ditarik dari suatu peristiwa yang diketahui umum ke arah suatu peristiwa yang tidak diketahui umum. Ada dua persangkaan, yaitu persangkaan yang berdasarkan undang-undang dan persangkaan yang tidak berdasarkan undang-undang.
+
+## Pasal 1917
+
+> Kekuatan suatu putusan Hakim yang telah memperoleh kekuatan hukum yang pasti hanya mengenai pokok perkara yang bersangkutan. Untuk dapat menggunakan kekuatan itu, soal yang dituntut harus sama; tuntutan harus didasarkan pada alasan yang sama; dan harus diajukan oleh pihak yang sama dan terhadap pihak-pihak yang sama dalam hubungan yang sama pula.
+
+## Pasal 1920
+
+> Putusan Hakim mengenai kedudukan hukum seseorang, yang dijatuhkan terhadap orang yang menurut undang-undang berwenang untuk membantah tuntutan itu, berlaku terhadap siapa pun.
+
+## Pasal 1923
+
+> Pengakuan yang dikemukakan terhadap suatu pihak, ada yang diberikan dalam sidang Pengadilan dan ada yang diberikan di luar sidang Pengadilan.
+
+## Pasal 1927
+
+> Suatu pengakuan lisan yang diberikan di luar sidang pengadilan tidak dapat digunakan untuk pembuktian, kecuali dalam hal pembuktian dengan saksi-saksi diizinkan.
+
+## Pasal 1929
+
+> Ada dua macam sumpah dihadapan Hakim: 1. sumpah yang diperintahkan oleh pihak yang satu kepada pihak yang lain untuk pemutusan suatu perkara; sumpah itu disebut sumpah pemutus; 2. sumpah yang diperintahkan oleh Hakim karena jabatan kepada salah satu pihak.
+
+## Pasal 1931
+
+> Sumpah itu hanya dapat diperintahkan untuk suatu perbuatan yang telah dilakukan sendiri oleh orang yang menggantungkan perkara pada sumpah itu.
+
+## Pasal 1932
+
+> Barang siapa diperintahkan mengangkat sumpah tetapi enggan mengangkatnya dan enggan mengembalikannya, dan barang siapa memerintahkan pengangkatan sumpah dan enggan mengangkatnya setelah sumpah itu dikembalikan kepadanya, harus dikalahkan dalam tuntutan atau tangkisannya.
+
+## Pasal 1940
+
+> Hakim, karena jabatannya, dapat memerintahkan salah satu pihak yang berperkara untuk mengangkat sumpah, supaya dengan sumpah itu dapat diputuskan perkara itu atau dapat ditentukan jumlah uang yang dikabulkan.

@@ -2222,5 +2222,739 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "acara-pidana-up-tersangka-bukti",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "KUHAP baru: penetapan tersangka oleh penyidik didasarkan pada minimal…",
+    "options": [
+      "3 alat bukti",
+      "Laporan polisi saja",
+      "2 alat bukti",
+      "1 alat bukti dan keyakinan penyidik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 90 ayat (1) UU 20/2025.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 90 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-tersangka-pemberitahuan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Surat penetapan tersangka wajib diberitahukan kepada tersangka paling lama…",
+    "options": [
+      "3 hari sejak surat dikeluarkan",
+      "1 hari sejak surat dikeluarkan",
+      "7 hari sejak surat dikeluarkan",
+      "Saat berkas dilimpahkan ke penuntut umum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 90 ayat (2). Surat itu memuat identitas tersangka, uraian singkat perkara, dan hak tersangka (ayat (3)). Bila tersangka WNA, surat diberitahukan kepada perwakilan negaranya (ayat (5)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 90",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-praduga",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Pasal 91 KUHAP baru: dalam melakukan penetapan tersangka, penyidik dilarang…",
+    "options": [
+      "Melakukan perbuatan yang menimbulkan praduga bersalah",
+      "Menetapkan tersangka sebelum ada laporan polisi resmi",
+      "Memeriksa saksi yang meringankan tersangka di kantor",
+      "Meminta bantuan media untuk mencari tersangka"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 91. Sebaliknya, Pasal 92 membolehkan penyidik meminta bantuan media dan masyarakat untuk mencari keberadaan tersangka.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 91, 92",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-tangkap-durasi",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Penangkapan menurut KUHAP baru dilakukan paling lama…",
+    "options": [
+      "1x24 jam, kecuali ditentukan lain oleh UU",
+      "3x24 jam tanpa pengecualian apa pun",
+      "7 hari atas izin ketua pengadilan negeri",
+      "2x24 jam dan dapat diperpanjang oleh penyidik"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 96 UU 20/2025.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 96",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-tangkap-denda",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Tersangka disangka melakukan tindak pidana yang ancamannya hanya denda paling banyak kategori II. Bolehkah ia ditangkap?",
+    "options": [
+      "Boleh kapan saja asal ada surat perintah penangkapan",
+      "Boleh hanya bila tertangkap tangan pada malam hari",
+      "Tidak, kecuali mangkir 2 kali berturut-turut tanpa alasan sah",
+      "Tidak boleh sama sekali dalam keadaan apa pun, termasuk mangkir"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 97 ayat (1)-(2).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 97",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-tangkap-tembusan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Tembusan surat perintah penangkapan harus diberikan kepada keluarga tersangka (atau orang yang ditunjuk, atau ketua RT/RW) paling lama…",
+    "options": [
+      "Saat penahanan dimulai",
+      "3 hari sejak penangkapan",
+      "7 hari sejak penangkapan",
+      "1 hari sejak penangkapan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 95 ayat (3). Dalam hal tertangkap tangan, penangkapan dilakukan tanpa surat perintah (ayat (4)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 95 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-hakim",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Penangkapan atau penahanan terhadap seorang hakim menurut KUHAP baru harus berdasarkan…",
+    "options": [
+      "Izin Ketua Komisi Yudisial",
+      "Persetujuan ketua pengadilan tempat hakim bertugas",
+      "Izin Ketua Mahkamah Agung",
+      "Izin Presiden"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 98 (penangkapan) dan Pasal 101 (penahanan).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 98, 101",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-tahan-penyidik",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Penahanan oleh penyidik: paling lama … hari, dapat diperpanjang penuntut umum paling lama … hari.",
+    "options": [
+      "40; 20",
+      "30; 60",
+      "20; 30",
+      "20; 40"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 102 ayat (1)-(2). Bila 40 hari perpanjangan terlampaui, penyidik wajib mengeluarkan tersangka dari tahanan (ayat (3)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 102",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-tahan-pu",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Penahanan oleh penuntut umum: paling lama 20 hari, dapat diperpanjang oleh … paling lama 30 hari.",
+    "options": [
+      "Penyidik",
+      "Ketua pengadilan negeri",
+      "Kepala kejaksaan tinggi",
+      "Ketua pengadilan tinggi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 103 ayat (1)-(2).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 103",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-tahan-pn",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Penahanan oleh hakim pengadilan negeri: paling lama … hari, dapat diperpanjang ketua PN paling lama … hari.",
+    "options": [
+      "30; 30",
+      "30; 60",
+      "60; 30",
+      "20; 40"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 104 ayat (1)-(2). Penahanan di tingkat banding (Pasal 105) dan kasasi (Pasal 106) juga dimulai dari paling lama 30 hari.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 104",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-jenis-tahan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Jenis penahanan menurut Pasal 108 KUHAP baru adalah…",
+    "options": [
+      "Penahanan rumah dan wajib lapor saja",
+      "Rutan militer, rutan sipil, dan penahanan kota",
+      "Rutan negara, lapas, dan pos polisi",
+      "Rutan negara, penahanan rumah, penahanan kota"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 108 ayat (1).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 108 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-penangguhan",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Siapa yang dapat memberi jaminan orang untuk penangguhan penahanan menurut KUHAP baru?",
+    "options": [
+      "Hanya keluarga sedarah sampai derajat kedua yang tinggal satu rumah",
+      "Hanya pejabat negara setingkat eselon II atau lebih tinggi",
+      "Keluarga, advokat, atau orang lain yang bersedia menanggung risiko",
+      "Hanya advokat yang mendampingi tersangka sejak awal penyidikan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 110 ayat (3): termasuk orang lain yang tidak mempunyai hubungan apa pun dengan tersangka/terdakwa, sepanjang bersedia dan bertanggung jawab memikul risiko bila tahanan melarikan diri.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 110 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-pembantaran",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Tahanan sakit dan dirawat di rumah sakit (pembantaran). Bagaimana masa pembantaran dihitung?",
+    "options": [
+      "Tidak dihitung sebagai masa penahanan",
+      "Dihitung separuh dari masa penahanan",
+      "Dihitung bila disetujui hakim pengawas",
+      "Dihitung penuh sebagai masa penahanan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 111 ayat (2). Selama pembantaran, tersangka/terdakwa diawasi penyidik, penuntut umum, atau hakim sesuai tahapnya (ayat (3)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 111",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-geledah-izin",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Sebelum menggeledah, penyidik mengajukan izin ke ketua PN. Bila menggeledah tanpa izin karena keadaan mendesak, persetujuan ketua PN harus diminta paling lama…",
+    "options": [
+      "14 hari setelah penggeledahan",
+      "5 hari kerja setelah penggeledahan",
+      "2x24 jam setelah penggeledahan",
+      "1x24 jam sebelum penggeledahan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 113 ayat (1), (4), dan (6). Ketua PN mengeluarkan penetapan paling lama 2x24 jam setelah persetujuan diminta (ayat (7)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 113",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-geledah-larang",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Penyidik DILARANG menggeledah ruang yang di dalamnya sedang berlangsung…",
+    "options": [
+      "Kegiatan belajar di sekolah",
+      "Pesta pernikahan",
+      "Sidang pengadilan",
+      "Rapat direksi perusahaan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 115: juga ruang yang sedang berlangsung sidang MPR, DPR, DPD, DPRD, serta ibadah dan/atau upacara keagamaan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 115",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-sita-mendesak",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Penyitaan tanpa izin ketua PN dalam keadaan mendesak hanya boleh atas … dan persetujuan wajib diminta paling lama …",
+    "options": [
+      "Semua jenis benda; 7 hari",
+      "Benda bergerak; 30 hari",
+      "Benda tidak bergerak; 2x24 jam",
+      "Benda bergerak; 5 hari kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 120 ayat (1). Ketua PN wajib mengeluarkan penetapan persetujuan atau penolakan dalam 2 hari kerja (ayat (3)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 120",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-kembali-sita",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Benda sitaan yang tidak lagi diperlukan harus dikembalikan paling lama…",
+    "options": [
+      "7 hari sejak tidak lagi diperlukan",
+      "30 hari setelah putusan inkracht",
+      "3 bulan sejak penghentian penyidikan",
+      "14 hari kerja setelah permohonan pemilik"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 134 UU 20/2025.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 134",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-blokir",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Pemblokiran menurut KUHAP baru berlaku untuk jangka waktu…",
+    "options": [
+      "2 tahun, dapat diperpanjang 1 kali selama 1 tahun",
+      "1 tahun, dapat diperpanjang 2 kali @ 6 bulan",
+      "6 bulan, tanpa kemungkinan perpanjangan sama sekali",
+      "Sampai perkara diputus berkekuatan hukum tetap"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 140 ayat (6). Pemblokiran butuh izin ketua PN (ayat (2)), kecuali keadaan mendesak (ayat (7)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 140",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-cegah",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Pelarangan sementara tersangka/terdakwa keluar wilayah Indonesia berlaku paling lama…",
+    "options": [
+      "1 tahun, dapat diperpanjang 2 kali masing-masing 1 tahun",
+      "3 bulan, tanpa kemungkinan perpanjangan",
+      "6 bulan, dapat diperpanjang 1 kali 6 bulan",
+      "Sampai putusan berkekuatan hukum tetap"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 141 ayat (3); dilaksanakan dengan berkoordinasi dengan kementerian di bidang keimigrasian (ayat (2)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 141",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-hakim-tunggal",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Praperadilan menurut KUHAP baru dipimpin oleh…",
+    "options": [
+      "Majelis tiga hakim yang ditunjuk ketua PN setempat secara acak",
+      "Hakim tunggal yang ditunjuk ketua PN, dibantu panitera",
+      "Hakim pengawas dan pengamat bersama hakim anggota",
+      "Ketua pengadilan tinggi dalam daerah hukum PN itu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 159 ayat (2).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 159",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-pemohon-stop",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Siapa yang dapat mengajukan praperadilan atas sah atau tidaknya penghentian penyidikan atau penuntutan?",
+    "options": [
+      "Hanya tersangka atau advokatnya",
+      "Hanya penuntut umum",
+      "Korban, pelapor, atau kuasa hukumnya",
+      "Siapa saja tanpa harus berkepentingan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 161. Upaya paksa digugat tersangka, keluarganya, atau advokatnya (Pasal 160 ayat (1)); penyitaan benda tak terkait tindak pidana oleh pihak ketiga (Pasal 160 ayat (2)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 160, 161",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-dpo",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Permohonan praperadilan atas sahnya upaya paksa TIDAK dapat diajukan bila tersangka…",
+    "options": [
+      "Belum didampingi advokat sama sekali",
+      "Sedang menjalani pembantaran",
+      "Melarikan diri atau berstatus DPO",
+      "Berkewarganegaraan asing (WNA)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 160 ayat (4). Permohonan oleh tersangka/keluarga/advokat soal upaya paksa juga hanya dapat diajukan 1 kali untuk hal yang sama (ayat (3)).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 160 ayat (3), (4)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-tujuh-hari",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Acara praperadilan: hakim menetapkan hari sidang dalam … hari sejak permintaan diterima, dan wajib memutus paling lama … hari sejak permohonan dibacakan.",
+    "options": [
+      "3; 7",
+      "7; 14",
+      "3; 30",
+      "1; 3"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 163 ayat (1).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 163 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-termohon-absen",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Termohon (penyidik/penuntut umum) dua kali tidak hadir dalam sidang praperadilan. Akibatnya…",
+    "options": [
+      "Pemeriksaan lanjut; termohon dianggap melepaskan haknya",
+      "Permohonan gugur demi hukum tanpa putusan",
+      "Hakim wajib memanggil paksa termohon lewat jaksa",
+      "Sidang ditunda sampai termohon benar-benar hadir di ruang sidang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 163 ayat (1).",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 163 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-bukti-tidak-sah",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Praperadilan memutus penggeledahan atau penyitaan tidak sah. Apa akibatnya bagi barang bukti yang diperoleh?",
+    "options": [
+      "Tidak dapat digunakan sebagai alat bukti",
+      "Diserahkan ke negara tanpa pembuktian",
+      "Tetap sah dipakai asal relevan dengan perkara",
+      "Harus disita ulang dengan izin ketua PN"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 163 ayat (3): berlaku juga untuk penyadapan dan pemeriksaan surat yang tidak sah.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 163 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-banding",
+    "type": "quiz",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "saksi.cicak",
+    "question": "Putusan praperadilan yang dapat dimintakan putusan akhir ke pengadilan tinggi adalah putusan yang menetapkan…",
+    "options": [
+      "Sahnya penetapan tersangka oleh penyidik",
+      "Tidak sahnya penangkapan atau penahanan",
+      "Tidak sahnya penghentian penyidikan/penuntutan",
+      "Ganti rugi atas penyitaan benda milik pihak ketiga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 164: putusan praperadilan atas Pasal 160-162 tidak dapat dibanding, kecuali yang menetapkan tidak sahnya penghentian penyidikan atau penuntutan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 164",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-humor-1x24",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Ngobrol tiga hari",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Penyidik: kita tahan dia di ruang tunggu dulu. Tiga hari."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Advokat: atas dasar apa?"
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Penyidik: bukan ditahan, cuma 'diajak ngobrol panjang'."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Advokat: Pasal 96: tangkap paling lama 1x24 jam."
+        }
+      ]
+    },
+    "caption": "Ganti nama tindakannya tidak mengubah jamnya.",
+    "teaches": "Pasal 96 KUHAP baru (UU 20/2025): penangkapan paling lama 1x24 jam, kecuali ditentukan lain oleh undang-undang. Lewat dari itu, perlu dasar penahanan yang sah; bila tidak, bisa diuji lewat praperadilan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 96, 158",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-humor-mangkir",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Termohon praperadilan: tidak datang sidang dua kali, biar hakim bosan",
+      "bottom": "Pasal 163: sidang jalan terus, hakmu dianggap dilepas",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Strategi menghilang hanya berhasil di sulap, bukan di praperadilan.",
+    "teaches": "Pasal 163 ayat (1) KUHAP baru: bila termohon tidak hadir dua kali persidangan, pemeriksaan praperadilan tetap dilanjutkan dan termohon dianggap melepaskan haknya. Hakim wajib memutus paling lama 7 hari sejak permohonan dibacakan.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 163",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "acara-pidana-up-humor-dpo",
+    "type": "humor",
+    "topicId": "acara-pidana",
+    "subTopicId": "praperadilan-upaya-paksa",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Praperadilan jarak jauh",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Tersangka (dari luar negeri): aku ajukan praperadilan lewat video!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim: statusmu?"
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Tersangka: DPO, tapi koneksi internetku stabil."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Hakim: Pasal 160 (4): DPO tak bisa ajukan. Sinyal bagus tak membantu."
+        }
+      ]
+    },
+    "caption": "Kabur dulu, menggugat kemudian: urutannya terbalik.",
+    "teaches": "Pasal 160 ayat (4) KUHAP baru: permohonan praperadilan soal sahnya upaya paksa dan ganti rugi/rehabilitasi (Pasal 158 huruf a dan c) tidak dapat diajukan jika tersangka melarikan diri atau berstatus daftar pencarian orang.",
+    "source": {
+      "title": "KUHAP (UU No. 20 Tahun 2025), teks pasal via DataHukum",
+      "reference": "Pasal 160 ayat (4)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2025.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

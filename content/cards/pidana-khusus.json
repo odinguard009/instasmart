@@ -1747,5 +1747,691 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-kembalikan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pelaku mengembalikan kerugian keuangan negara. Menurut Pasal 4 UU Tipikor, hal itu…",
+    "options": [
+      "Mengubah perkara menjadi sengketa perdata",
+      "Menghapus pidana bila dikembalikan sebelum vonis",
+      "Otomatis menghentikan penyidikan perkara",
+      "Tidak menghapuskan dipidananya pelaku"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 4 UU 31/1999. Catatan versi: pasal yang dirujuk sebagian sudah dicabut dan dipindah ke KUHP Nasional sejak 2 Januari 2026; cek cara rujukannya sekarang.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-didahulukan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pasal 25 UU Tipikor: penyidikan, penuntutan, dan pemeriksaan perkara korupsi…",
+    "options": [
+      "Dilakukan setelah perkara lain selesai",
+      "Wajib tertutup untuk umum",
+      "Harus didahulukan dari perkara lain",
+      "Hanya boleh dilakukan oleh KPK"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 25: didahulukan guna penyelesaian secepatnya.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 25",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-acara-umum",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 26, acara perkara korupsi dilakukan berdasarkan…",
+    "options": [
+      "Peraturan internal lembaga penyidik",
+      "Hukum acara perdata karena perkaranya menyangkut kerugian keuangan negara",
+      "Hukum acara tata usaha negara",
+      "Hukum acara pidana yang berlaku, kecuali diatur lain UU Tipikor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 26. Sejak 2 Januari 2026 hukum acara pidana umum yang berlaku adalah KUHAP baru (UU 20/2025).",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 26",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-petunjuk-elektronik",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pasal 26A memperluas sumber alat bukti petunjuk khusus perkara korupsi, yaitu juga dari…",
+    "options": [
+      "Informasi elektronik dan dokumen",
+      "Pendapat masyarakat yang dihimpun penyidik",
+      "Pengakuan tersangka di media sosial saja",
+      "Laporan harta kekayaan yang belum diverifikasi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 26A: informasi yang diucapkan, dikirim, diterima, atau disimpan secara elektronik, dan dokumen (rekaman data/informasi dalam bentuk apa pun). Pasal ini merujuk Pasal 188 ayat (2) KUHAP 1981, yang kini diganti KUHAP baru; padanannya belum dicek.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 26A",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-tim-gabungan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Tindak pidana korupsi yang sulit pembuktiannya: Pasal 27 memungkinkan dibentuk tim gabungan di bawah koordinasi…",
+    "options": [
+      "Jaksa Agung",
+      "Kepala Kepolisian Daerah",
+      "Menteri Keuangan",
+      "Ketua Mahkamah Agung"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 27.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 27",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-harta-keluarga",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Untuk kepentingan penyidikan, Pasal 28 mewajibkan tersangka memberi keterangan tentang harta…",
+    "options": [
+      "Miliknya sendiri saja, tanpa harta keluarga",
+      "Miliknya, istri/suami, anak, dan pihak yang diduga terkait",
+      "Yang tercatat di kantor pajak selama lima tahun terakhir saja",
+      "Hanya rekening bank yang masih aktif"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 28: seluruh harta bendanya dan harta benda istri atau suami, anak, serta setiap orang atau korporasi yang diketahui dan/atau diduga berhubungan dengan tindak pidana korupsi tersangka.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 28",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-rahasia-bank",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Permintaan keterangan kepada bank tentang keuangan tersangka korupsi diajukan kepada Gubernur BI, yang wajib memenuhinya paling lambat…",
+    "options": [
+      "30 hari kerja sejak surat diterima",
+      "14 hari kerja sejak tersangka ditetapkan",
+      "3 hari kerja sejak dokumen lengkap",
+      "7 hari kalender sejak permintaan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 29 ayat (2)-(3). Ayat (4): penyidik, penuntut umum, atau hakim dapat meminta bank memblokir rekening yang diduga hasil korupsi.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 29",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-cabut-blokir",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Hasil pemeriksaan tidak memberi bukti yang cukup terhadap pemilik rekening yang diblokir. Menurut Pasal 29 ayat (5), bank mencabut pemblokiran…",
+    "options": [
+      "Setelah ada putusan pengadilan yang berkekuatan hukum tetap",
+      "Setelah 30 hari sejak permintaan pencabutan",
+      "Setelah nasabah menggugat bank ke pengadilan",
+      "Pada hari itu juga atas permintaan penyidik/penuntut/hakim"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 29 ayat (5).",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 29 ayat (5)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-jpn-perdata",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Penyidik menilai unsur pidana korupsi tidak cukup bukti, padahal kerugian negara nyata. Menurut Pasal 32 ayat (1), berkas diserahkan kepada…",
+    "options": [
+      "Ombudsman untuk diperiksa maladministrasinya oleh asisten Ombudsman di daerah",
+      "Badan Pemeriksa Keuangan untuk diaudit ulang",
+      "Jaksa Pengacara Negara atau instansi yang dirugikan, untuk digugat perdata",
+      "Pengadilan Tipikor untuk diputus tanpa dakwaan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 32 ayat (1). Ayat (2): putusan bebas tidak menghapuskan hak menuntut kerugian keuangan negara.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 32",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-bebas-tetap-tuntut",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Terdakwa korupsi diputus bebas. Menurut Pasal 32 ayat (2), hak menuntut kerugian keuangan negara…",
+    "options": [
+      "Beralih kepada saksi pelapor",
+      "Ikut hapus bersama putusan bebas",
+      "Tidak hapus",
+      "Hanya bisa diajukan lewat peninjauan kembali"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 32 ayat (2).",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 32 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-meninggal-sidik",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Tersangka meninggal saat penyidikan, sedangkan kerugian negara nyata. Menurut Pasal 33…",
+    "options": [
+      "Berkas diserahkan untuk gugatan perdata terhadap ahli warisnya",
+      "Ahli warisnya dijadikan tersangka pengganti",
+      "Penyidikan dilanjutkan dan diputus in absentia",
+      "Kerugian negara dianggap ikut hapus bersama meninggalnya tersangka"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 33: kepada Jaksa Pengacara Negara atau instansi yang dirugikan. Pasal 34 mengatur hal serupa bila terdakwa meninggal saat pemeriksaan di sidang.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 33-34",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-saksi-keluarga",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 35 ayat (1), yang dikecualikan dari kewajiban memberi keterangan sebagai saksi dalam perkara korupsi antara lain…",
+    "options": [
+      "Notaris yang pernah membuat akta jual beli untuk terdakwa",
+      "Rekan kerja satu unit dengan terdakwa",
+      "Atasan langsung terdakwa",
+      "Saudara kandung, istri atau suami, dan cucu terdakwa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 35 ayat (1): ayah, ibu, kakek, nenek, saudara kandung, istri atau suami, anak, dan cucu terdakwa. Ayat (2)-(3): mereka dapat diperiksa sebagai saksi bila menghendaki dan disetujui tegas terdakwa; tanpa persetujuan itu dapat memberi keterangan tanpa disumpah.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 35",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-rahasia-jabatan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pasal 36: kewajiban bersaksi juga berlaku bagi orang yang wajib menyimpan rahasia karena pekerjaan atau jabatannya, KECUALI…",
+    "options": [
+      "Pegawai bank tempat terdakwa menabung",
+      "Akuntan publik yang mengaudit laporan keuangan perusahaan milik terdakwa",
+      "Petugas agama yang menurut keyakinannya harus menyimpan rahasia",
+      "Dokter yang merawat terdakwa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 36.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 36",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-hak-buktikan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pasal 37 ayat (1) UU Tipikor (setelah UU 20/2001): terdakwa…",
+    "options": [
+      "Berhak membuktikan bahwa ia tidak melakukan korupsi",
+      "Wajib mengaku bila hartanya melebihi penghasilan",
+      "Dilarang mengajukan bukti selain melalui penasihat hukum",
+      "Wajib dianggap bersalah sampai membuktikan sebaliknya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 37 ayat (1)-(2): bila terdakwa dapat membuktikannya, pembuktian itu dipakai pengadilan sebagai dasar menyatakan dakwaan tidak terbukti.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 37",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-jpu-tetap-wajib",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 37A ayat (3), meskipun terdakwa wajib menerangkan seluruh hartanya, penuntut umum…",
+    "options": [
+      "Tetap berkewajiban membuktikan dakwaannya",
+      "Dibebaskan dari kewajiban membuktikan dakwaan",
+      "Hanya perlu menghadirkan satu saksi",
+      "Cukup membuktikan selisih harta dan penghasilan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 37A ayat (1)-(3). Bila terdakwa tidak dapat membuktikan kekayaan yang tidak seimbang dengan penghasilannya, keterangannya dipakai memperkuat alat bukti yang sudah ada. Catatan versi: pasal yang dirujuk sebagian sudah dicabut dan dipindah ke KUHP Nasional sejak 2 Januari 2026; cek cara rujukannya sekarang.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 37A",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-in-absentia",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Terdakwa korupsi sudah dipanggil secara sah tetapi tidak hadir tanpa alasan sah. Menurut Pasal 38 ayat (1)…",
+    "options": [
+      "Perkara dialihkan menjadi gugatan perdata",
+      "Perkara dapat diperiksa dan diputus tanpa kehadirannya",
+      "Hakim wajib membebaskan terdakwa",
+      "Perkara wajib ditunda sampai terdakwa ditangkap dan dihadirkan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 38 ayat (1). Ayat (4): terdakwa atau kuasanya dapat mengajukan banding atas putusan itu.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38 ayat (1), (4)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-absen-hadir",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Terdakwa yang semula tidak hadir datang pada sidang berikutnya sebelum putusan. Menurut Pasal 38 ayat (2)…",
+    "options": [
+      "Ia tidak boleh diperiksa karena sudah dianggap melepaskan hak",
+      "Persidangan dihentikan dan perkara dikembalikan ke penyidik",
+      "Seluruh persidangan wajib diulang dari awal, termasuk pemeriksaan semua saksi",
+      "Ia wajib diperiksa; keterangan sebelumnya dianggap diucapkan di sidang itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 38 ayat (2).",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-meninggal-rampas",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Terdakwa meninggal sebelum putusan dan ada bukti cukup kuat ia korupsi. Menurut Pasal 38 ayat (5)-(6), hakim atas tuntutan penuntut umum…",
+    "options": [
+      "Wajib menghentikan perkara tanpa penetapan apa pun",
+      "Menetapkan perampasan barang yang telah disita; tidak dapat dibanding",
+      "Menetapkan perampasan, yang masih dapat dimohonkan banding oleh ahli warisnya",
+      "Menjatuhkan pidana kepada ahli warisnya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 38 ayat (5)-(6). Ayat (7): pihak berkepentingan dapat mengajukan keberatan ke pengadilan itu dalam 30 hari sejak pengumuman.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38 ayat (5)-(7)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-terbalik-harta",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pasal 38B: terdakwa wajib membuktikan sebaliknya terhadap harta miliknya yang…",
+    "options": [
+      "Sudah dirampas dalam perkara lain",
+      "Tercatat atas nama perusahaan terbuka",
+      "Diwarisi dari orang tuanya sebelum ia menjadi pegawai negeri",
+      "Belum didakwakan tetapi diduga berasal dari korupsi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 38B ayat (1)-(2): bila tidak dapat membuktikannya, harta itu dianggap juga dari korupsi dan hakim berwenang memutus dirampas untuk negara, seluruh atau sebagian. Catatan versi: pasal yang dirujuk sebagian sudah dicabut dan dipindah ke KUHP Nasional sejak 2 Januari 2026; cek cara rujukannya sekarang.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38B ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-terbalik-kapan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pembuktian terdakwa bahwa harta dalam Pasal 38B bukan hasil korupsi diajukan pada saat…",
+    "options": [
+      "Pemeriksaan pendahuluan oleh penyidik saja, sebelum berkas dilimpahkan",
+      "Sidang praperadilan yang diajukan oleh terdakwa",
+      "Pledoi perkara pokok; dapat diulang di memori banding dan kasasi",
+      "Setelah putusan berkekuatan hukum tetap"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 38B ayat (4). Ayat (3): tuntutan perampasan diajukan penuntut umum saat membacakan tuntutan perkara pokok. Ayat (5): hakim wajib membuka sidang khusus untuk memeriksa pembuktian terdakwa.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38B ayat (3)-(5)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-bebas-tolak",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Terdakwa dibebaskan dari perkara pokok. Menurut Pasal 38B ayat (6), tuntutan perampasan harta dalam pasal itu…",
+    "options": [
+      "Ditunda sampai ada putusan kasasi",
+      "Harus ditolak hakim",
+      "Diteruskan sebagai perkara terpisah",
+      "Tetap dikabulkan bila hartanya besar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 38B ayat (6): berlaku juga bila terdakwa dinyatakan lepas dari segala tuntutan hukum.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38B ayat (6)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-gugat-setelah-inkracht",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Setelah putusan berkekuatan hukum tetap, ditemukan harta terpidana yang diduga dari korupsi dan belum dirampas. Menurut Pasal 38C…",
+    "options": [
+      "Tidak ada upaya apa pun karena asas ne bis in idem",
+      "Perkara pidananya dibuka kembali dari awal oleh penuntut umum",
+      "Negara dapat menggugat perdata terpidana atau ahli warisnya",
+      "Harta itu otomatis menjadi milik negara tanpa putusan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 38C.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38C",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-lapor-jawab",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Pelapor dugaan korupsi berhak memperoleh jawaban atas pertanyaan tentang laporannya dari penegak hukum paling lama…",
+    "options": [
+      "30 hari",
+      "1 tahun",
+      "90 hari",
+      "7 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 41 ayat (2) huruf d. Pasal 42: pemerintah memberi penghargaan kepada anggota masyarakat yang berjasa membantu pencegahan, pemberantasan, atau pengungkapan korupsi.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 41 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-status-gratifikasi",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "question": "Setelah menerima laporan gratifikasi, KPK wajib menetapkan status gratifikasi itu (milik penerima atau milik negara) paling lambat…",
+    "options": [
+      "60 hari kalender sejak gratifikasi diterima",
+      "7 hari kerja sejak menerima laporan",
+      "30 hari kerja sejak menerima laporan",
+      "Tanpa batas waktu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 12C ayat (3). Ayat (2): penerima wajib melapor paling lambat 30 hari kerja sejak gratifikasi diterima.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 12C ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-humor-kembalikan",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "comic",
+      "title": "Garansi uang kembali",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Tersangka: uangnya sudah saya kembalikan. Impas ya?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Jaksa: Pasal 4: pengembalian tidak menghapus pidananya."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Tersangka: lho, bukan sistem retur barang?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Jaksa: ini perkara, bukan marketplace."
+        }
+      ]
+    },
+    "caption": "Bisa dikembalikan bukan berarti boleh diambil.",
+    "teaches": "Pasal 4 UU Tipikor: pengembalian kerugian keuangan negara atau perekonomian negara tidak menghapuskan dipidananya pelaku. Pasal 2 dan 3 yang dirujuknya kini dipindah ke KUHP Nasional; cek rujukan terbarunya.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-humor-sakit-mendadak",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "comic",
+      "title": "Mukjizat ruang sidang",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "sad",
+          "text": "Terdakwa: maaf, saya sakit lagi. Sidang ditunda ya."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim: dipanggil sah, tidak hadir tanpa alasan sah?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Hakim: Pasal 38 ayat (1): perkara dapat diputus tanpa kehadiran."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Terdakwa: ...kok saya mendadak sembuh."
+        }
+      ]
+    },
+    "caption": "Kursi terdakwa kosong, berkas tetap jalan.",
+    "teaches": "Pasal 38 ayat (1) UU Tipikor: terdakwa yang dipanggil secara sah dan tidak hadir tanpa alasan yang sah dapat diperiksa dan diputus tanpa kehadirannya. Alasan sakit yang sah tentu dinilai hakim, bukan dianggap otomatis palsu.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tk-humor-harta-gaib",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "korupsi",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "meme",
+      "top": "Gaji pas-pasan, rumah lima, alasannya rezeki anak saleh",
+      "bottom": "Pasal 38B: buktikan asal harta, bukan cuma alasannya",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Rezeki boleh tak terduga, asal-usulnya tetap harus terbukti.",
+    "teaches": "Pasal 38B UU Tipikor: terdakwa perkara korupsi tertentu wajib membuktikan sebaliknya atas harta yang belum didakwakan tetapi diduga dari korupsi; bila gagal, hakim berwenang memutus harta itu dirampas untuk negara.",
+    "source": {
+      "title": "UU No. 31 Tahun 1999 jo. UU No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi, naskah terkonsolidasi",
+      "reference": "Pasal 38B",
+      "url": "https://www.datahukum.com/peraturan/UU_31_Tahun_1999.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

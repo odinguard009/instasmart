@@ -354,3 +354,43 @@
 ## Pasal 303 ayat (1)-(3)
 
 "(1) Setiap Tenaga Medis dan Tenaga Kesehatan dalam melaksanakan Pelayanan Kesehatan wajib menyelenggarakan kendali mutu dan kendali biaya serta memperhatikan keselamatan Pasien. (2) Dalam rangka pelaksanaan kegiatan sebagaimana dimaksud pada ayat (1) dapat diselenggarakan audit Pelayanan Kesehatan. (3) Kendali mutu dan kendali biaya dalam Fasilitas Pelayanan Kesehatan merupakan tanggung jawab Fasilitas Pelayanan Kesehatan."
+
+## Tambahan (diambil 12 November 2026 dari salinan DDTC yang sama): rumah sakit, fasilitas, dan larangan
+
+> Judul bab/bagian yang terbawa di akhir pasal dibuang. Catatan: dalam salinan DDTC, Pasal 174 ayat (1) memuat teks yang sama dengan Pasal 438 ayat (1) (ketentuan pidana), tampaknya salah salin; karena itu Pasal 174 tidak dikutip.
+
+## Pasal 5
+
+> (1) Setiap Orang berkewajiban: a. mewujudkan, mempertahankan, dan meningkatkan derajat Kesehatan masyarakat yang setinggi­-tingginya; b. menjaga dan meningkatkan derajat Kesehatan bagi orang lain yang menjadi tanggung jawabnya; c. menghormati hak orang lain dalam upaya memperoleh lingkungan yang sehat; d. menerapkan perilaku hidup sehat dan menghormati hak Kesehatan orang lain; e. mematuhi kegiatan penanggulangan KLB atau Wabah; dan f. mengikuti program jaminan kesehatan dalam sistem jaminan sosial nasional. (2) Pelaksanaan kewajiban sebagaimana dimaksud pada ayat (1) huruf a meliputi: a. Upaya Kesehatan perseorangan; b. Upaya Kesehatan masyarakat; dan c. pembangunan berwawasan Kesehatan. (3) Kewajiban mengikuti program jaminan sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan perundang-undangan.
+
+## Pasal 176
+
+> (1) Fasilitas Pelayanan Kesehatan wajib menerapkan standar keselamatan Pasien. (2) Standar keselamatan Pasien sebagaimana dimaksud pada ayat (1) dilaksanakan melalui identifikasi dan pengelolaan risiko, analisis dan pelaporan, serta pemecahan masalah dalam mencegah dan menangani kejadian yang membahayakan keselamatan Pasien. (3) Ketentuan lebih lanjut mengenai standar keselamatan Pasien sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri.
+
+## Pasal 177
+
+> (1) Setiap Fasilitas Pelayanan Kesehatan harus menyimpan rahasia Kesehatan pribadi Pasien. (2) Fasilitas Pelayanan Kesehatan dapat menolak mengungkapkan segala informasi kepada publik yang berkaitan dengan rahasia Kesehatan pribadi Pasien, kecuali berdasarkan ketentuan sebagaimana dimaksud dalam Pasal 4 ayat (4). (3) Ketentuan lebih lanjut mengenai rahasia Kesehatan pribadi Pasien diatur dengan Peraturan Pemerintah.
+
+## Pasal 178
+
+> (1) Setiap Fasilitas Pelayanan Kesehatan wajib melakukan peningkatan mutu Pelayanan Kesehatan secara internal dan eksternal secara terus-menerus dan berkesinambungan. (2) Peningkatan mutu Pelayanan Kesehatan secara internal sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pengukuran dan pelaporan indikator mutu; b. pelaporan insiden keselamatan Pasien; dan c. manajemen risiko. (3) Peningkatan mutu Pelayanan Kesehatan secara eksternal sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. registrasi; b. lisensi; dan c. akreditasi. (4) Pelaksanaan registrasi, lisensi, dan akreditasi sebagaimana dimaksud pada ayat (3) dilaksanakan dengan berorientasi pada pemenuhan standar mutu, pembinaan dan peningkatan kualitas layanan, serta proses yang cepat, terbuka, dan akuntabel. (5) Akreditasi Fasilitas Pelayanan Kesehatan sebagaimana dimaksud pada ayat (3) huruf c diselenggarakan oleh Menteri atau lembaga penyelenggara akreditasi yang ditetapkan oleh Menteri. (6) Ketentuan lebih lanjut mengenai peningkatan mutu Pelayanan Kesehatan secara internal dan eksternal sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+## Pasal 189
+
+> (1) Setiap Rumah Sakit mempunyai kewajiban: a. memberikan informasi yang benar tentang pelayanan Rumah Sakit kepada masyarakat; b. memberikan Pelayanan Kesehatan yang aman, bermutu, antidiskriminatif, dan efektif dengan mengutamakan kepentingan Pasien sesuai dengan standar pelayanan Rumah Sakit; c. memberikan pelayanan Gawat Darurat kepada Pasien sesuai dengan kemampuan pelayanannya; d. berperan aktif dalam memberikan Pelayanan Kesehatan pada bencana sesuai dengan kemampuan pelayanannya; e. menyediakan sarana dan pelayanan bagi masyarakat tidak mampu atau miskin; f. melaksanakan fungsi sosial antara lain dengan memberikan fasilitas pelayanan bagi Pasien tidak mampu atau miskin, pelayanan Gawat Darurat tanpa uang muka, ambulans gratis, pelayanan bagi korban bencana dan KLB, atau bakti sosial bagi misi kemanusiaan; g. membuat, melaksanakan, dan menjaga standar mutu Pelayanan Kesehatan di Rumah Sakit sebagai acuan dalam melayani Pasien; h. menyelenggarakan rekam medis; i. menyediakan sarana dan prasarana umum yang layak, antara lain sarana ibadah, tempat parkir, ruang tunggu, sarana untuk penyandang disabilitas, wanita menyusui, anak-anak, dan lanjut usia; j. melaksanakan sistem rujukan; k. menolak keinginan Pasien yang bertentangan dengan standar profesi dan etika serta ketentuan peraturan perundang-undangan; l. memberikan informasi yang benar, jelas, dan jujur mengenai hak dan kewajiban Pasien; m. menghormati dan melindungi hak-hak Pasien; n. melaksanakan etika Rumah Sakit; o. memiliki sistem pencegahan kecelakaan dan penanggulangan bencana; p. melaksanakan program pemerintah di bidang Kesehatan, baik secara regional maupun nasional; q. membuat daftar Tenaga Medis yang melakukan praktik kedokteran atau kedokteran gigi dan Tenaga Kesehatan lainnya; r. menyusun dan melaksanakan peraturan internal Rumah Sakit; s. melindungi dan memberikan bantuan hukum bagi semua petugas Rumah Sakit dalam melaksanakan tugas; dan t. memberlakukan seluruh lingkungan Rumah Sakit sebagai kawasan tanpa rokok. (2) Pelanggaran atas kewajiban sebagaimana dimaksud pada ayat (1) dikenai sanksi administratif sesuai dengan ketentuan peraturan perundang-undangan.
+
+## Pasal 191
+
+> Rumah Sakit mempunyai hak: a. menentukan jumlah, jenis, dan kualifikasi sumber daya manusia sesuai dengan klasifikasi Rumah Sakit; b. menerima imbalan jasa pelayanan serta menentukan remunerasi, insentif, dan penghargaan sesuai dengan ketentuan peraturan perundang-undangan; c. melakukan kerja sama dengan pihak lain dalam mengembangkan pelayanan; d. menerima bantuan dari pihak lain sesuai dengan ketentuan peraturan perundang-undangan; e. menggugat pihak yang mengakibatkan kerugian; f. mendapatkan pelindungan hukum dalam melaksanakan Pelayanan Kesehatan; dan g. mempromosikan layanan Kesehatan yang ada di Rumah Sakit sesuai dengan ketentuan peraturan perundang-undangan.
+
+## Pasal 192
+
+> (1) Rumah Sakit tidak bertanggung jawab secara hukum apabila Pasien dan/atau keluarganya menolak atau menghentikan pengobatan yang dapat berakibat kematian Pasien setelah adanya penjelasan medis yang komprehensif. (2) Rumah Sakit tidak dapat dituntut dalam melaksanakan tugas dalam menyelamatkan nyawa manusia.
+
+## Pasal 193
+
+> Rumah Sakit bertanggung jawab secara hukum terhadap semua kerugian yang ditimbulkan atas kelalaian yang dilakukan oleh Sumber Daya Manusia Kesehatan Rumah Sakit.
+
+## Pasal 312
+
+> Setiap orang dilarang: a. tanpa hak menggunakan identitas berupa gelar atau bentuk lain yang menimbulkan kesan bagi masyarakat yang bersangkutan merupakan Tenaga Medis atau Tenaga Kesehatan yang telah memiliki STR dan/atau SIP; b. menggunakan alat, metode, atau cara lain dalam memberikan pelayanan kepada masyarakat yang menimbulkan kesan yang bersangkutan merupakan Tenaga Medis atau Tenaga Kesehatan yang telah memiliki STR dan/atau SIP; dan c. melakukan praktik sebagai Tenaga Medis atau Tenaga Kesehatan tanpa memiliki STR dan/atau SIP.

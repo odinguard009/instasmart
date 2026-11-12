@@ -1296,5 +1296,600 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-kewajiban-orang",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 5 ayat (1) UU Kesehatan, manakah yang termasuk kewajiban setiap orang?",
+    "options": [
+      "Memiliki asuransi kesehatan swasta",
+      "Memeriksakan diri ke dokter setiap bulan sekali secara rutin",
+      "Menyumbang ke fasilitas kesehatan",
+      "Mengikuti program jaminan kesehatan dalam SJSN"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5 ayat (1) huruf f: mengikuti program jaminan kesehatan dalam sistem jaminan sosial nasional. Ada juga kewajiban mematuhi penanggulangan KLB/wabah.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 5 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-kewajiban-wabah",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Saat terjadi wabah, Pasal 5 ayat (1) huruf e mewajibkan setiap orang untuk…",
+    "options": [
+      "Membeli obat sendiri",
+      "Menutup usaha pribadinya",
+      "Mengungsi ke luar daerah yang terkena wabah secepatnya",
+      "Mematuhi kegiatan penanggulangan KLB atau Wabah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5 ayat (1) huruf e: mematuhi kegiatan penanggulangan KLB atau Wabah.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 5 ayat (1) huruf e",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-keselamatan-pasien",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 176, standar keselamatan pasien dilaksanakan melalui…",
+    "options": [
+      "Asuransi wajib bagi setiap pasien yang dirawat inap di fasilitas",
+      "Pemeriksaan oleh polisi",
+      "Pengaduan ke DPR",
+      "Pengelolaan risiko, pelaporan, dan pemecahan masalah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 176 ayat (2): identifikasi dan pengelolaan risiko, analisis dan pelaporan, serta pemecahan masalah.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 176",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-fasyankes-rahasia",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasal 177 ayat (2): fasilitas pelayanan kesehatan dapat menolak mengungkapkan rahasia kesehatan pribadi pasien kepada publik, kecuali…",
+    "options": [
+      "Berdasarkan ketentuan Pasal 4 ayat (4)",
+      "Ada permintaan resmi dari wartawan media nasional",
+      "Ada permintaan tetangga",
+      "Pasien seorang pejabat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 177 ayat (2) merujuk pengecualian di Pasal 4 ayat (4) (misalnya permintaan aparat penegak hukum, penanggulangan wabah, atau permintaan pasien sendiri).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 177",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-mutu-eksternal",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 178 ayat (3), peningkatan mutu pelayanan kesehatan secara eksternal dilakukan melalui…",
+    "options": [
+      "Pelaporan insiden dan manajemen risiko",
+      "Survei kepuasan dan iklan",
+      "Audit BPK dan KPK",
+      "Registrasi, lisensi, dan akreditasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 178 ayat (3): registrasi, lisensi, akreditasi. Pelaporan insiden dan manajemen risiko adalah jalur internal (ayat 2).",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 178",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-mutu-internal",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Manakah yang termasuk peningkatan mutu INTERNAL menurut Pasal 178 ayat (2)?",
+    "options": [
+      "Pelaporan insiden keselamatan pasien",
+      "Lisensi",
+      "Akreditasi oleh lembaga yang ditetapkan Menteri",
+      "Registrasi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Internal: indikator mutu, pelaporan insiden keselamatan pasien, manajemen risiko. Eksternal: registrasi, lisensi, akreditasi.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 178",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-akreditasi-oleh",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 178 ayat (5), akreditasi fasilitas pelayanan kesehatan diselenggarakan oleh…",
+    "options": [
+      "Pemerintah desa",
+      "DPR melalui komisi bidang kesehatan",
+      "Organisasi profesi tenaga medis yang bersangkutan",
+      "Menteri atau lembaga yang ditetapkan Menteri"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 178 ayat (5): Menteri atau lembaga penyelenggara akreditasi yang ditetapkan Menteri.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 178 ayat (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-rs-uang-muka",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasal 189 ayat (1) huruf f menyebut fungsi sosial rumah sakit, antara lain…",
+    "options": [
+      "Pelayanan Gawat Darurat tanpa uang muka",
+      "Obat paten murah",
+      "Diskon tarif rawat inap untuk pegawai negeri",
+      "Kamar VIP gratis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 189 ayat (1) huruf f: fasilitas bagi pasien tidak mampu, pelayanan gawat darurat tanpa uang muka, ambulans gratis, dll.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 189 ayat (1) huruf f",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-rs-tolak-keinginan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasien meminta tindakan yang bertentangan dengan standar profesi. Menurut Pasal 189 ayat (1) huruf k, rumah sakit…",
+    "options": [
+      "Wajib menuruti karena pasien membayar",
+      "Boleh asal pasien menandatangani surat pernyataan risiko",
+      "Harus meminta izin pengadilan",
+      "Berkewajiban menolak keinginan tersebut"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 189 ayat (1) huruf k: RS wajib menolak keinginan pasien yang bertentangan dengan standar profesi, etika, dan peraturan.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 189 ayat (1) huruf k",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-rs-tanpa-rokok",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasal 189 ayat (1) huruf t mewajibkan rumah sakit untuk…",
+    "options": [
+      "Melarang rokok hanya di ruang rawat",
+      "Menyediakan ruang merokok khusus yang tertutup dan berventilasi",
+      "Menjual rokok elektrik",
+      "Menjadikan seluruh lingkungannya kawasan tanpa rokok"
+    ],
+    "answerIndex": 3,
+    "explanation": "Seluruh lingkungan RS adalah kawasan tanpa rokok, bukan hanya ruang rawat.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 189 ayat (1) huruf t",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-rs-sanksi",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Rumah sakit melanggar kewajiban dalam Pasal 189 ayat (1). Menurut ayat (2), sanksinya…",
+    "options": [
+      "Pidana penjara bagi direktur rumah sakit itu",
+      "Tidak ada sanksi",
+      "Sanksi administratif sesuai peraturan",
+      "Ganti rugi kepada negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 189 ayat (2): pelanggaran kewajiban dikenai sanksi administratif.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 189 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-rs-info-hak",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Kewajiban RS memberi informasi yang benar, jelas, dan jujur mengenai hak dan kewajiban pasien ada di…",
+    "options": [
+      "Pasal 189 ayat (1) huruf l",
+      "Pasal 312 huruf a",
+      "Pasal 191 huruf e tentang hak rumah sakit",
+      "Pasal 193"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 189 ayat (1) huruf l. Huruf m: menghormati dan melindungi hak pasien.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 189 ayat (1) huruf l",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-rs-sarana-umum",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 189 ayat (1) huruf i, sarana umum layak yang wajib disediakan RS antara lain…",
+    "options": [
+      "Pusat perbelanjaan",
+      "Kantin bertarif tetap",
+      "Hotel bagi keluarga pasien yang datang dari luar kota jauh",
+      "Sarana ibadah, parkir, ruang tunggu, sarana disabilitas"
+    ],
+    "answerIndex": 3,
+    "explanation": "Huruf i menyebut sarana ibadah, tempat parkir, ruang tunggu, sarana untuk penyandang disabilitas, wanita menyusui, anak-anak, dan lansia.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 189 ayat (1) huruf i",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-hak-rs",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Manakah yang termasuk HAK rumah sakit menurut Pasal 191?",
+    "options": [
+      "Membuka rekam medis untuk promosi",
+      "Menahan pasien sampai tagihan lunas",
+      "Menggugat pihak yang mengakibatkan kerugian",
+      "Menolak pasien gawat darurat yang tidak membawa uang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 191 huruf e: menggugat pihak yang mengakibatkan kerugian; ada juga hak pelindungan hukum dan promosi sesuai peraturan.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 191",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-promosi-rs",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Bolehkah RS mempromosikan layanannya menurut Pasal 191 huruf g?",
+    "options": [
+      "Hanya rumah sakit milik pemerintah daerah atau pusat",
+      "Tidak boleh sama sekali",
+      "Boleh tanpa batas",
+      "Boleh, sesuai ketentuan peraturan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 191 huruf g: mempromosikan layanan sesuai ketentuan peraturan.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 191 huruf g",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-tolak-pengobatan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Keluarga pasien menghentikan pengobatan setelah mendapat penjelasan medis yang komprehensif, lalu pasien meninggal. Menurut Pasal 192 ayat (1)…",
+    "options": [
+      "Dokter otomatis dipidana",
+      "RS tetap bertanggung jawab penuh",
+      "RS tidak bertanggung jawab secara hukum",
+      "Keluarga wajib membayar denda kepada rumah sakit itu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 192 ayat (1): RS tidak bertanggung jawab secara hukum bila pasien/keluarga menolak atau menghentikan pengobatan setelah penjelasan medis komprehensif.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 192 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-syarat-penjelasan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Syarat penting agar Pasal 192 ayat (1) melindungi RS ketika pasien menolak pengobatan adalah…",
+    "options": [
+      "Adanya penjelasan medis yang komprehensif",
+      "Pasien membayar tagihan",
+      "Ada saksi dari kepolisian",
+      "Pasien sudah berusia di atas 60 tahun saat itu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kata kuncinya 'setelah adanya penjelasan medis yang komprehensif'.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 192 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-selamatkan-nyawa",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Menurut Pasal 192 ayat (2), RS tidak dapat dituntut dalam…",
+    "options": [
+      "Menolak pasien",
+      "Tugas menyelamatkan nyawa manusia",
+      "Menunda operasi terjadwal karena alasan administrasi",
+      "Menagih biaya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 192 ayat (2): RS tidak dapat dituntut dalam melaksanakan tugas menyelamatkan nyawa manusia.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 192 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-tanggung-renteng-rs",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Perawat RS lalai dan pasien dirugikan. Menurut Pasal 193, siapa yang bertanggung jawab secara hukum atas kerugian itu?",
+    "options": [
+      "Organisasi profesi perawat",
+      "Hanya perawat itu pribadi",
+      "Kementerian Kesehatan",
+      "Rumah sakit"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 193: RS bertanggung jawab secara hukum atas semua kerugian akibat kelalaian SDM Kesehatan RS.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 193",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-gelar-palsu",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Seseorang tanpa STR/SIP memasang gelar yang menimbulkan kesan ia tenaga medis berizin. Menurut Pasal 312 huruf a…",
+    "options": [
+      "Boleh selama tidak memungut bayaran",
+      "Boleh bila mendapat izin kepala desa",
+      "Hanya dilarang di kota besar",
+      "Dilarang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 312 huruf a melarang memakai identitas/gelar tanpa hak yang menimbulkan kesan telah memiliki STR dan/atau SIP.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 312 huruf a",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-alat-kesan",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasal 312 huruf b melarang setiap orang…",
+    "options": [
+      "Memakai alat atau cara yang mengesankan ia nakes berizin",
+      "Membuka apotek di rumah sendiri tanpa memberi tahu tetangga",
+      "Menjual obat bebas",
+      "Membeli alat kesehatan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Huruf b: memakai alat, metode, atau cara lain yang menimbulkan kesan ia tenaga medis/kesehatan ber-STR/SIP.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 312 huruf b",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-praktik-tanpa-izin",
+    "type": "quiz",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "question": "Pasal 312 huruf c melarang…",
+    "options": [
+      "Praktik pada hari libur",
+      "Praktik tanpa papan nama di depan tempat praktiknya",
+      "Praktik sebagai nakes tanpa STR/SIP",
+      "Praktik di dua tempat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 312 huruf c: melakukan praktik sebagai tenaga medis/kesehatan tanpa memiliki STR dan/atau SIP.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 312 huruf c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-humor-pulang-paksa",
+    "type": "humor",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Pulang Atas Permintaan Sendiri",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Saya mau pulang paksa, Dok. Bosan di sini."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Boleh, tapi saya jelaskan dulu risikonya selengkapnya."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Panjang amat penjelasannya..."
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Penjelasan lengkap itu syarat di undang-undang, bukan basa-basi."
+        }
+      ]
+    },
+    "caption": "Penjelasan lengkap itu bukan formalitas.",
+    "teaches": "Pasal 192 ayat (1) UU 17/2023: RS tidak bertanggung jawab secara hukum bila pasien/keluarga menolak atau menghentikan pengobatan setelah ada penjelasan medis yang komprehensif.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 192 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-rs-humor-asap-rs",
+    "type": "humor",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Merokok di parkiran rumah sakit",
+      "bottom": "Pasal 189: SELURUH lingkungan RS kawasan tanpa rokok, parkiran juga",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Paru-paru pasien tidak mengenal zona parkir.",
+    "teaches": "Pasal 189 ayat (1) huruf t UU 17/2023: rumah sakit wajib memberlakukan seluruh lingkungan rumah sakit sebagai kawasan tanpa rokok.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 189 ayat (1) huruf t",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-17-tahun-2023"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

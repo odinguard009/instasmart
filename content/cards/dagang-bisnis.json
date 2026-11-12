@@ -1040,5 +1040,624 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-sita-umum",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Pasal 1 angka 1 UU 37/2004 mendefinisikan kepailitan sebagai…",
+    "options": [
+      "Pembubaran badan hukum debitor",
+      "Sita umum atas semua kekayaan debitor",
+      "Penundaan pembayaran seluruh utang",
+      "Sita jaminan atas aset yang dijaminkan saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 1: sita umum atas semua kekayaan debitor pailit yang pengurusan dan pemberesannya dilakukan kurator di bawah pengawasan hakim pengawas. Pailit tidak sama dengan bubarnya badan hukum.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 1 angka 1",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-pengadilan-niaga",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "\"Pengadilan\" dalam UU Kepailitan dan PKPU adalah…",
+    "options": [
+      "Pengadilan Niaga di lingkungan peradilan umum",
+      "Pengadilan Tata Usaha Negara di ibu kota",
+      "Pengadilan Tinggi di wilayah usaha debitor",
+      "Pengadilan Negeri tempat debitor berdomisili tetap"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 angka 7.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 1 angka 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-hari",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Batas akhir tenggang waktu dalam perkara pailit jatuh pada hari Minggu. Menurut Pasal 1 angka 9…",
+    "options": [
+      "Ditentukan hakim pengawas",
+      "Batasnya maju sehari sebelumnya",
+      "Tetap hari Minggu itu",
+      "Berlaku hari berikutnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 9: hari adalah hari kalender; bila hari terakhir tenggang waktu jatuh pada hari Minggu atau hari libur, berlaku hari berikutnya. Hari mulai tidak dihitung (angka 10).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 1 angka 9-10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-kejaksaan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Selain debitor dan kreditor, Pasal 2 ayat (2) memberi wewenang mengajukan permohonan pailit kepada…",
+    "options": [
+      "Kurator, untuk kepentingan kreditor",
+      "Kepolisian, untuk ketertiban umum",
+      "Kejaksaan, untuk kepentingan umum",
+      "Pemerintah daerah tempat debitor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 2 ayat (2). Pihak khusus untuk bank, perusahaan efek, asuransi, dan sejenisnya (ayat (3)-(5)) telah bergeser lewat undang-undang sektor keuangan; kartu ini tidak membahasnya.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 2 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-kasasi-kreditor-lain",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Siapa yang menurut Pasal 11 ayat (3) juga dapat mengajukan kasasi atas putusan pernyataan pailit?",
+    "options": [
+      "Hanya debitor yang dinyatakan pailit",
+      "Kreditor lain yang bukan pihak semula",
+      "Kurator sementara yang telah ditunjuk",
+      "Hanya kreditor yang menjadi pemohon pailit"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11 ayat (3): selain debitor dan kreditor yang menjadi pihak, juga kreditor lain yang bukan pihak dan tidak puas. Kasasi diajukan paling lambat 8 hari setelah putusan diucapkan (ayat (2)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 11 ayat (2)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-bhp",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Bila tidak ada usul pengangkatan kurator kepada pengadilan, Pasal 15 ayat (2) menentukan yang diangkat sebagai kurator adalah…",
+    "options": [
+      "Kreditor dengan piutang terbesar",
+      "Balai Harta Peninggalan",
+      "Kejaksaan Negeri setempat",
+      "Panitera Pengadilan Niaga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 15 ayat (2). Kurator menurut Pasal 1 angka 5 adalah Balai Harta Peninggalan atau orang perseorangan yang diangkat pengadilan.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 15 ayat (2), Pasal 1 angka 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-kurator-independen",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Kurator menurut Pasal 15 ayat (3) harus independen, tanpa benturan kepentingan, dan tidak sedang menangani perkara kepailitan dan PKPU lebih dari…",
+    "options": [
+      "10 perkara",
+      "3 perkara",
+      "1 perkara",
+      "5 perkara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 15 ayat (3).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 15 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-kurator-sejak",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Sejak kapan kurator berwenang melaksanakan pengurusan dan/atau pemberesan harta pailit?",
+    "options": [
+      "Sejak putusan pailit berkekuatan hukum tetap",
+      "Sejak rapat kreditor pertama selesai",
+      "Sejak diumumkan di Berita Negara",
+      "Sejak putusan pailit diucapkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 16 ayat (1): sejak tanggal putusan pailit diucapkan meskipun diajukan kasasi atau peninjauan kembali. Bila putusan pailit dibatalkan, perbuatan kurator sebelumnya tetap sah dan mengikat debitor (ayat (2)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 16",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-harta-pailit",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Menurut Pasal 21, kepailitan meliputi…",
+    "options": [
+      "Kekayaan debitor dan seluruh keluarganya",
+      "Hanya kekayaan yang ada saat permohonan pailit didaftarkan",
+      "Kekayaan saat putusan + yang diperoleh selama pailit",
+      "Hanya kekayaan yang dijaminkan kepada kreditor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 21. Pengecualiannya ada di Pasal 22.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 21-22",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-pengecualian",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Manakah yang menurut Pasal 22 TIDAK termasuk harta pailit?",
+    "options": [
+      "Rekening tabungan dan deposito debitor di bank",
+      "Kendaraan pribadi debitor",
+      "Bahan makanan 30 hari untuk keluarga",
+      "Rumah tempat tinggal debitor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 22: benda yang benar-benar dibutuhkan untuk pekerjaan, alat medis, tempat tidur, bahan makanan 30 hari; penghasilan dari pekerjaan sejauh ditentukan hakim pengawas; uang untuk memenuhi kewajiban nafkah menurut undang-undang.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 22",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-pukul-00",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Debitor kehilangan hak menguasai dan mengurus harta pailit sejak tanggal putusan diucapkan, yang menurut Pasal 24 ayat (2) dihitung sejak…",
+    "options": [
+      "Pukul 00.00 WIB",
+      "Pukul 00.00 waktu setempat",
+      "Pukul 08.00 waktu setempat",
+      "Saat palu hakim diketuk"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 24 ayat (1)-(2). Transfer dana yang sudah dilaksanakan sebelum putusan diucapkan pada tanggal itu wajib diteruskan (ayat (3)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 24",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-tuntutan-kurator",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Gugatan mengenai hak atau kewajiban yang menyangkut harta pailit menurut Pasal 26 ayat (1) diajukan oleh atau terhadap…",
+    "options": [
+      "Hakim pengawas",
+      "Debitor pailit",
+      "Kurator",
+      "Panitia kreditor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 26 ayat (1). Bila tetap diajukan terhadap debitor pailit, penghukumannya tidak berakibat hukum terhadap harta pailit (ayat (2)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 26",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-42-setahun",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Pasal 42 menganggap debitor dan pihak lawannya mengetahui perbuatan itu merugikan kreditor (kecuali dibuktikan sebaliknya) bila perbuatan tak wajib itu dilakukan dalam jangka…",
+    "options": [
+      "6 bulan sebelum permohonan pailit",
+      "30 hari sebelum putusan pailit",
+      "1 tahun sebelum putusan pailit",
+      "2 tahun sebelum putusan pailit"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 42, misalnya perjanjian yang kewajiban debitornya jauh melebihi lawannya, pembayaran utang yang belum jatuh tempo, atau transaksi dengan keluarga sampai derajat ketiga. Ini memperingan pembuktian actio pauliana (Pasal 41).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 41-42",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-41-kecuali",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Perbuatan hukum debitor yang TIDAK dapat dibatalkan dengan actio pauliana menurut Pasal 41 ayat (3) adalah…",
+    "options": [
+      "Yang wajib menurut perjanjian atau UU",
+      "Yang nilainya di bawah satu miliar",
+      "Yang dilakukan lebih dari setahun sebelum pailit",
+      "Yang dilakukan dengan akta notaris"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 41 ayat (3). Pembatalan menurut ayat (2) mensyaratkan debitor dan lawannya mengetahui atau sepatutnya mengetahui perbuatan itu merugikan kreditor.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 41",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-separatis",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Kreditor pemegang hak tanggungan atau jaminan fidusia menurut Pasal 55 ayat (1) dapat mengeksekusi haknya…",
+    "options": [
+      "Setelah harta pailit selesai dibereskan",
+      "Seolah-olah tidak terjadi kepailitan",
+      "Hanya setelah semua kreditor konkuren dibayar",
+      "Hanya melalui kurator dan seizin rapat kreditor"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 55 ayat (1), dengan memperhatikan Pasal 56-58 (antara lain penangguhan 90 hari).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 55-56",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-stay-90",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Hak eksekusi kreditor separatis ditangguhkan (stay) paling lama…",
+    "options": [
+      "270 hari sejak putusan PKPU",
+      "2 bulan sejak insolvensi",
+      "30 hari sejak putusan pailit",
+      "90 hari sejak putusan pailit"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 56 ayat (1). Penangguhan tidak berlaku untuk tagihan yang dijamin uang tunai dan hak memperjumpakan utang (ayat (2)). Dua bulan setelah insolvensi adalah batas separatis melaksanakan haknya (Pasal 59 ayat (1)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 56, 59",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-59-dua-bulan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Bila kreditor separatis tidak melaksanakan haknya dalam 2 bulan setelah keadaan insolvensi, menurut Pasal 59 ayat (2)…",
+    "options": [
+      "Agunan otomatis menjadi milik debitor kembali",
+      "Ia wajib mengajukan gugatan baru ke pengadilan",
+      "Kurator menuntut agunan diserahkan",
+      "Haknya hapus dan ia menjadi kreditor konkuren"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 59 ayat (2): kurator harus menuntut penyerahan agunan untuk dijual, tanpa mengurangi hak kreditor itu atas hasil penjualannya.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 59",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-kurator-tanpa-izin",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Dalam melaksanakan tugasnya, menurut Pasal 69 ayat (2) huruf a kurator…",
+    "options": [
+      "Wajib meminta persetujuan RUPS debitor",
+      "Tak perlu persetujuan debitor/organnya",
+      "Wajib memberi tahu debitor sebelum bertindak",
+      "Hanya boleh bertindak bersama direksi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 69 ayat (2) huruf a, meskipun di luar kepailitan persetujuan itu disyaratkan. Pinjaman yang membebani harta pailit dengan agunan perlu persetujuan hakim pengawas (ayat (3)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 69",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-perdamaian",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Menurut Pasal 144, debitor pailit berhak…",
+    "options": [
+      "Menolak hasil pencocokan piutang",
+      "Mengurus sendiri hartanya bersama kurator",
+      "Mengganti kurator tanpa izin pengadilan",
+      "Menawarkan perdamaian ke semua kreditor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 144.",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 144",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-pkpu-siapa",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Menurut Pasal 222 ayat (1), PKPU dapat diajukan oleh…",
+    "options": [
+      "Hanya kreditor separatis",
+      "Hanya debitor yang beritikad baik saja",
+      "Kejaksaan untuk kepentingan umum",
+      "Debitor (kreditor >1) atau kreditor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 222 ayat (1). Tujuannya agar debitor dapat mengajukan rencana perdamaian berupa tawaran pembayaran sebagian atau seluruh utang (ayat (2)-(3)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 222",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-pkpus-3-20",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "PKPU sementara harus dikabulkan paling lambat … sejak permohonan didaftarkan, bila pemohonnya debitor; dan … bila pemohonnya kreditor.",
+    "options": [
+      "3 hari; 20 hari",
+      "7 hari; 14 hari",
+      "20 hari; 3 hari",
+      "45 hari; 45 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 225 ayat (2)-(3). Sidang berikutnya paling lama hari ke-45 sejak putusan PKPU sementara (ayat (4)); bila debitor tidak hadir, PKPU sementara berakhir dan debitor dinyatakan pailit (ayat (5)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 225",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-pkpu-duluan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "Permohonan pailit dan PKPU terhadap debitor yang sama diperiksa bersamaan. Menurut Pasal 229 ayat (3)…",
+    "options": [
+      "Keduanya digabung dalam satu putusan",
+      "PKPU harus diputus terlebih dahulu",
+      "Yang lebih dulu didaftarkan diputus dulu",
+      "Pailit harus diputus terlebih dahulu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 229 ayat (3). PKPU yang diajukan setelah ada permohonan pailit wajib diajukan pada sidang pertama pemeriksaan permohonan pailit agar diputus lebih dulu (ayat (4)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 229 ayat (3)-(4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-pkpu-tetap-suara",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "question": "PKPU tetap ditetapkan berdasarkan persetujuan lebih dari 1/2 jumlah kreditor konkuren yang hadir dan mewakili paling sedikit … tagihan mereka.",
+    "options": [
+      "2/3",
+      "3/4",
+      "1/2",
+      "1/3"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 229 ayat (1) huruf a; syarat yang sama juga untuk kreditor dengan jaminan kebendaan (huruf b).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 229 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-humor-dua-kreditor",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "comic",
+      "title": "Merasa punya satu kreditor",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Utangku cuma ke satu orang. Aman dari pailit!"
+        },
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Itu kartu kreditmu dari bank lain?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pasal 2: dua kreditor atau lebih, satu utang jatuh tempo tak lunas."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Sejak kapan cicilan HP termasuk kreditor?!"
+        }
+      ]
+    },
+    "caption": "Orang yang paling yakin utangnya sedikit biasanya belum menghitung paylater.",
+    "teaches": "Debitor yang mempunyai dua atau lebih kreditor dan tidak membayar lunas sedikitnya satu utang yang telah jatuh waktu dan dapat ditagih dapat dinyatakan pailit dengan putusan pengadilan (Pasal 2 ayat (1) UU 37/2004).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 2 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-pailit-humor-hibah-adik",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "kepailitan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "meme",
+      "top": "Seminggu sebelum pailit: 'Rumah ini kuhibahkan ke adik, kebetulan saja'",
+      "bottom": "Kurator: kebetulannya akan kami bahas di pengadilan.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Kebetulan yang terjadi seminggu sebelum pailit jarang benar-benar kebetulan.",
+    "teaches": "Perbuatan debitor yang merugikan kreditor sebelum putusan pailit dapat dibatalkan (Pasal 41). Untuk perbuatan tak wajib dalam 1 tahun sebelum putusan, termasuk dengan keluarga sampai derajat ketiga, para pihak dianggap mengetahui akibatnya kecuali dibuktikan sebaliknya (Pasal 42).",
+    "source": {
+      "title": "UU No. 37 Tahun 2004 tentang Kepailitan dan PKPU",
+      "reference": "Pasal 41-42",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2004"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

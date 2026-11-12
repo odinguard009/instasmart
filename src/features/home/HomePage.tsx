@@ -22,7 +22,7 @@ function FeedPost({ item }: { item: FeedItem }) {
 
   if (item.kind === 'surprise') {
     return (
-      <div ref={ref}>
+      <div ref={ref} data-anchor={item.key}>
         <SurprisePost surprise={item.surprise} />
       </div>
     );
@@ -31,7 +31,7 @@ function FeedPost({ item }: { item: FeedItem }) {
   if (!card) return null;
   const ribbon = item.isReview ? 'Ulang: waktunya mengingat lagi' : item.round ? 'Putaran ulang hari ini' : undefined;
   return (
-    <div ref={ref}>
+    <div ref={ref} data-anchor={item.key}>
       <CardView card={card} ribbon={ribbon} round={item.round} />
     </div>
   );

@@ -249,6 +249,10 @@
       {
         "id": "aliran-filsafat",
         "name": "Aliran Filsafat Hukum"
+      },
+      {
+        "id": "subjek-objek",
+        "name": "Subjek, Objek & Peristiwa Hukum"
       }
     ]
   },

@@ -586,5 +586,480 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pengantar-hukum-so-nasciturus",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Ayah meninggal saat anaknya masih dalam kandungan. Agar anak itu tetap dapat mewaris, berlaku Pasal 2 KUH Perdata yang menyatakan anak dalam kandungan…",
+    "options": [
+      "Dianggap lahir bila kepentingannya menghendaki",
+      "Tidak pernah dapat menjadi ahli waris",
+      "Diwakili negara sampai ia dewasa",
+      "Baru menjadi subjek hukum setelah akta lahir terbit"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 2 (asas nasciturus). Syaratnya: bila mati sewaktu dilahirkan, ia dianggap tidak pernah ada.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 2",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-kematian-perdata",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Seorang terpidana seumur hidup. Menurut Pasal 3 KUH Perdata, hukuman itu…",
+    "options": [
+      "Menghapus semua perjanjian yang pernah dibuatnya",
+      "Membuat seluruh hartanya beralih kepada negara",
+      "Tidak menghapus hak keperdataannya",
+      "Menyebabkan kematian perdata"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 3: tiada hukuman yang mengakibatkan kematian perdata atau hilangnya segala hak kewargaan. Manusia tetap subjek hukum sejak lahir sampai meninggal.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 3",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-badan-hukum",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Selain manusia, KUH Perdata Pasal 1653-1654 mengakui subjek hukum lain yang dapat melakukan perbuatan perdata, yaitu…",
+    "options": [
+      "Benda yang punya sertipikat",
+      "Setiap kumpulan orang tanpa syarat",
+      "Hewan peliharaan yang terdaftar resmi",
+      "Badan hukum yang berdiri sah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1653-1654: perhimpunan orang sebagai badan hukum diakui UU, dan badan hukum yang berdiri sah berkuasa melakukan perbuatan perdata. Badan hukum tertentu (PT, yayasan, koperasi) kini diatur UU tersendiri.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1653-1654",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-pengurus",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Siapa yang bertindak atas nama badan hukum di pengadilan, bila akta pendiriannya tidak menentukan lain?",
+    "options": [
+      "Anggota yang paling lama",
+      "Siapa pun anggota yang hadir",
+      "Para pengurusnya",
+      "Notaris yang membuat aktanya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1655: pengurus berkuasa bertindak demi dan atas nama badan hukum, mengikatkannya kepada pihak ketiga, dan bertindak di pengadilan sebagai penggugat atau tergugat.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1655",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-domisili",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 17 KUH Perdata, tempat tinggal (domisili) seseorang dianggap berada di…",
+    "options": [
+      "Alamat yang tertera di akta kelahirannya",
+      "Kota tempat orang tuanya tinggal",
+      "Tempat ia bekerja paling lama",
+      "Tempat pusat kediamannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 17. Bila tidak ada pusat kediaman, tempat kediaman yang sesungguhnya dianggap tempat tinggalnya. Domisili penting antara lain untuk menentukan pengadilan yang berwenang.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 17",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-barang",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 499 KUH Perdata, yang disebut barang (benda) adalah…",
+    "options": [
+      "Hanya benda yang punya nilai pasar dan dapat dijual",
+      "Hanya benda berwujud yang dapat dipegang dan dilihat",
+      "Hanya benda yang terdaftar resmi di instansi pemerintah",
+      "Tiap benda dan hak yang dapat menjadi objek hak milik"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 499. Karena itu hak (misalnya piutang) juga dapat menjadi objek hukum; ada barang bertubuh dan tak bertubuh (Pasal 503).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 499 dan 503",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-tak-bertubuh",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Piutang dan hak cipta adalah contoh barang…",
+    "options": [
+      "Yang bukan milik siapa pun",
+      "Tak bergerak karena sifatnya",
+      "Yang dapat dihabiskan",
+      "Tak bertubuh"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 503 membedakan barang bertubuh dan tak bertubuh. Piutang tergolong barang bergerak karena ditentukan UU (Pasal 511).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 503 dan 511",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-habis-pakai",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Beras dan bensin termasuk barang bergerak yang…",
+    "options": [
+      "Tak bertubuh",
+      "Dapat dihabiskan",
+      "Tak bergerak karena tujuan",
+      "Tidak dapat dihabiskan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 505: barang yang dapat dihabiskan adalah barang yang habis karena dipakai. Konsep ini penting, misalnya pada pinjam pakai habis (Pasal 1754).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 505",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-bergerak-sifat",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 509, barang bergerak karena sifatnya adalah barang yang…",
+    "options": [
+      "Melekat pada tanah atau bangunan",
+      "Ditentukan sebagai bergerak oleh undang-undang",
+      "Dapat berpindah sendiri atau dipindahkan",
+      "Didaftarkan di kantor pertanahan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 509. Ada juga barang bergerak karena ditentukan UU, misalnya hak atas bunga, piutang, dan saham (Pasal 511).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 509 dan 511",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-kapal",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 510 KUH Perdata, kapal dan perahu digolongkan sebagai barang…",
+    "options": [
+      "Milik negara",
+      "Tak bertubuh",
+      "Bergerak",
+      "Tak bergerak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 510. Kapal berukuran tertentu yang didaftarkan dapat dibebani hipotek menurut peraturan pelayaran; itu pengecualian yang tidak dibahas di kartu ini.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 510",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-saham",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Saham dalam persekutuan dagang menurut Pasal 511 dipandang sebagai barang…",
+    "options": [
+      "Tak bergerak karena tujuan",
+      "Yang bukan objek hak milik",
+      "Tak bergerak, bila perusahaannya punya tanah",
+      "Bergerak, karena ditentukan undang-undang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 511 angka 4: saham dipandang barang bergerak, sekalipun barang perusahaan itu milik persekutuan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 511",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-tanpa-ahli-waris",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Seseorang meninggal tanpa ahli waris dan meninggalkan rumah. Menurut Pasal 520 KUH Perdata, rumah itu…",
+    "options": [
+      "Menjadi milik siapa pun yang pertama menempati",
+      "Menjadi barang yang bukan milik siapa pun",
+      "Menjadi milik tetangga yang merawatnya",
+      "Menjadi milik negara"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 520. Pasal 519 membedakan barang yang bukan milik siapa pun dengan milik negara, persekutuan, atau perorangan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 519-520",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-hak-milik",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 570, hak milik memberi kebebasan menikmati dan berbuat atas barang, dengan batas…",
+    "options": [
+      "Hanya dibatasi oleh hukum adat setempat",
+      "Tak melanggar UU dan tak mengganggu hak orang lain",
+      "Hanya dibatasi oleh perjanjian pribadi",
+      "Tidak ada batas apa pun bagi pemilik yang sah atas barangnya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 570, termasuk kemungkinan pencabutan hak demi kepentingan umum dengan ganti kerugian yang pantas. Untuk tanah, ketentuannya kini mengikuti UUPA, termasuk fungsi sosial hak atas tanah.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 570",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-cara-milik",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Manakah yang TIDAK disebut Pasal 584 sebagai cara memperoleh hak milik?",
+    "options": [
+      "Pewarisan",
+      "Perlekatan",
+      "Penyerahan berdasarkan peristiwa perdata",
+      "Penguasaan diam-diam selama sebulan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 584: pengambilan untuk dimiliki, perlekatan, lewat waktu, pewarisan, dan penyerahan berdasarkan peristiwa perdata oleh orang yang berhak. Lewat waktu memang cara memperoleh, tetapi syarat waktunya panjang, bukan sebulan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 584",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-levering-bergerak",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Bagaimana penyerahan (levering) barang bergerak bertubuh menurut Pasal 612?",
+    "options": [
+      "Dengan mendaftarkannya ke pengadilan negeri setempat",
+      "Penyerahan nyata, atau penyerahan kuncinya",
+      "Cukup dengan kata sepakat",
+      "Wajib dengan akta notaris dan dua orang saksi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 612. Piutang atas nama diserahkan dengan akta (cessie) dan baru berakibat bagi debitur setelah diberitahukan, disetujui, atau diakuinya (Pasal 613).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 612-613",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-cessie",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "A menjual piutangnya kepada B dengan akta. Menurut Pasal 613, penyerahan itu berakibat bagi debitur setelah…",
+    "options": [
+      "Didaftarkan di kantor pertanahan",
+      "Diberitahukan, disetujui, atau diakui debitur",
+      "Debitur sudah membayar setengah dari utangnya",
+      "Disahkan oleh hakim pengadilan negeri tempat debitur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 613 ayat kedua.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 613",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-besit",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Kedudukan menguasai atau menikmati barang seakan-akan miliknya sendiri, langsung atau lewat orang lain, disebut…",
+    "options": [
+      "Hak retensi atas barang",
+      "Besit (bezit)",
+      "Hak pakai",
+      "Detensi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 529. Besit beritikad baik terjadi bila pemegangnya memperoleh barang tanpa mengetahui cacat celanya (Pasal 531). Detensi adalah penguasaan tanpa maksud memiliki (istilah doktrin).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 529 dan 531",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-humor-nasciturus",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Rapat warisan kilat",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Warisan dibagi sekarang. Yang belum lahir jangan dihitung."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Lho, adik bayi kan sudah di perut!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 2: dianggap sudah lahir bila kepentingannya menghendaki."
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Kalah suara sama janin."
+        }
+      ]
+    },
+    "caption": "Ada ahli waris yang belum bisa protes, tapi pasalnya sudah protes duluan.",
+    "teaches": "Anak yang ada dalam kandungan dianggap telah lahir setiap kali kepentingan si anak menghendakinya; bila mati sewaktu dilahirkan, ia dianggap tidak pernah ada (Pasal 2 KUH Perdata).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 2",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so-humor-hak-milik",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "meme",
+      "top": "'Tanahku, hakku. Mau bakar sampah tiap malam, urusanku.'",
+      "bottom": "Pasal 570: hak milik tetap tak boleh ganggu hak orang lain.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Hak milik itu luas, tetapi pagarnya tetap ada.",
+    "teaches": "Hak milik adalah hak menikmati dan berbuat bebas atas barang, asal tidak bertentangan dengan undang-undang atau peraturan umum dan tidak mengganggu hak orang lain (Pasal 570 KUH Perdata).",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 570",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

@@ -4,7 +4,8 @@
 > URL: https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf
 > Teks diekstrak dengan pdftotext; salah ketik dalam berkas (misalnya "Ialai" untuk "lalai", "dan" untuk "dari") dibiarkan apa adanya. Pada Pasal 1150 berkas menulis "diserahkan kepadanya oleh kreditur"; dalam rumusan gadai yang lazim dikutip, yang menyerahkan adalah debitur atau orang lain atas namanya, jadi bagian itu tampaknya salah terjemah/ketik.
 > Sebagian pasal KUH Perdata tidak berlaku lagi atau dinyatakan tidak berlaku oleh SEMA No. 3 Tahun 1963 dan undang-undang yang lebih baru (antara lain UU Perkawinan, UUPA, UU Hak Tanggungan, UU Fidusia). Pasal yang dikutip di sini dipilih dari bagian yang umumnya masih dipakai, tetapi status tiap pasal belum diperiksa satu per satu.
-> Judul bab/bagian yang ikut terbawa saat ekstraksi dibuang.
+> Pasal Buku Kedua tentang tanah (misalnya pembagian barang tak bergerak dan hak milik atas tanah) sebagian telah digantikan UUPA (UU 5/1960); pasal yang menyangkut benda dikutip untuk konsep umumnya. Pasal 330 (batas dewasa 21 tahun) tidak dikutip karena batas umur di peraturan yang lebih baru berbeda-beda.
+> Judul bab/bagian yang ikut terbawa saat ekstraksi dibuang. Pasal tambahan dari Buku I dan II ada di bagian bawah, setelah pasal Buku III dan IV.
 
 ## Pasal 1150
 
@@ -209,3 +210,85 @@
 ## Pasal 1905
 
 "Keterangan seorang saksi saja tanpa alat pembuktian lain, dalam Pengadilan tidak boleh dipercaya."
+
+## Tambahan: Buku I dan Buku II
+
+## Pasal 2
+
+"Anak yang ada dalam kandungan seorang perempuan dianggap telah lahir, setiap kali kepentingan si anak menghendakinya. Bila telah mati sewaktu dilahirkan, dia dianggap tidak pernah ada."
+
+## Pasal 3
+
+"Tiada suatu hukuman pun yang mengakibatkan kematian perdata, atau hilangnya segala hak- hak kewargaan."
+
+## Pasal 17
+
+"Setiap orang dianggap bertempat tinggal di tempat yang dijadikan pusat kediamannya. Bila tidak ada tempat kediaman yang demikian, maka tempat kediaman yang sesungguhnya dianggap sebagai tempat tinggalnya."
+
+## Pasal 499
+
+"Menurut Undang-undang, barang adalah tiap benda dan tiap hak yang dapat menjadi obyek dari hak milik."
+
+## Pasal 503
+
+"Ada barang yang bertubuh, dan ada barang yang tak bertubuh."
+
+## Pasal 504
+
+"Ada barang yang bergerak dan ada barang yang tak bergerak, menurut ketentuan-ketentuan yang diatur dalam kedua bagian berikut ini."
+
+## Pasal 505
+
+"Ada barang bergerak yang dapat dihabiskan, dan ada yang tidak dapat dihabiskan; yang dapat dihabiskan adalah barang-barang yang habis karena dipakai."
+
+## Pasal 509
+
+"Barang bergerak karena sifatnya adalah barang yang dapat berpindah sendiri atau dipindahkan."
+
+## Pasal 510
+
+"Kapal, perahu, sampan tambang, kincir dan tempat penimbunan kayu yang dipasang di perahu atau yang terlepas dan barang semacam itu adalah barang bergerak."
+
+## Pasal 511
+
+"Yang dianggap sebagai barang bergerak karena ditentukan undang-undang adalah: 1. hak pakai hasil dan hak pakai barang-barang bergerak; 2. hak atas bunga yang dijanjikan, baik bunga yang terus-menerus, maupun bunga cagak hidup; 3. perikatan dan tuntutan mengenai jumlah uang yang dapat ditagih atau mengenai barang bergerak; 4. bukti saham atau saham dalam persekutuan perdagangan uang, persekutuan perdagangan atau persekutuan perusahaan, sekalipun barang-barang bergerak yang bersangkutan dan perusahaan itu merupakan milik persekutuan. Bukti saham atau saham ini dipandang sebagai barang bergerak, tetapi hanya terhadap masing-masing peserta saja, selama persekutuan berjalan; 5. Saham dalam utang negara Indonesia, baik yang terdaftar dalam buku besar, maupun sertifikat, surat pengakuan utang, obligasi atau surat berharga lainnya, berserta kupon atau surat-surat bukti bunga yang berhubungan dengan itu; 6. sero-sero atau kupon obligasi dari pinjaman lainnya, termasuk juga pinjaman yang dilakukan negara-negara asing."
+
+## Pasal 519
+
+"Ada barang yang bukan milik siapa pun; barang lainnya adalah milik negara, milik persekutuan atau milik perorangan."
+
+## Pasal 520
+
+"Pekarangan dan barang tak bergerak lainnya yang tidak dipelihara dan tidak ada pemiliknya, seperli halnya barang seseorang yang meninggal dunia tanpa ahli waris atau yang pewarisannya ditinggalkan, adalah milik negara."
+
+## Pasal 529
+
+"Yang dimaksud dengan besit adalah kedudukan menguasai atau menikmati suatu barang yang ada dalam kekuasaan seseorang secara pribadi atau dengan perantaraan orang lain, seakan-akan barang itu miliknya sendiri."
+
+## Pasal 570
+
+"Hak milik adalah hak untuk menikmati suatu barang secara lebih leluasa dan untuk berbuat terhadap barang itu secara bebas sepenuhnya, asalkan tidak bertentangan dengan undang- undang atau peraturan umum yang ditetapkan oleh kuasa yang berwenang dan asal tidak mengganggu hak-hak orang lain; kesemuanya itu tidak mengurangi kemungkinan pencabutan hak demi kepentingan umum dan penggantian kerugian yang pantas, berdasarkan ketentuan- ketentuan perundang-undangan."
+
+## Pasal 584
+
+"Hak milik atas suatu barang tidak dapat diperoleh selain dengan pengambilan untuk dimiliki, dengan perlekatan, dengan lewat waktu, dengan pewarisan, baik menurut undang-undang maupun menurut surat wasiat, dan dengan penunjukan atau penyerahan berdasarkan suatu peristiwa perdata untuk pemindahan hak milik, yang dilakukan oleh orang yang berhak untuk berbuat terhadap barang itu."
+
+## Pasal 612
+
+"Penyerahan barang-barang bergerak, kecuali yang tidak bertubuh dilakukan dengan penyerahan yang nyata oleh atau atas nama pemilik, atau dengan penyerahan kunci-kunci bangunan tempat barang-barang itu berada. Penyerahan tidak diharuskan, bila barang-barang yang harus diserahkan, dengan alasan hak lain, telah dikuasai oleh orang yang hendak menerimanya."
+
+## Pasal 613
+
+"Penyerahan piutang-piutang atas nama dan barang-barang lain yang tidak bertubuh, dilakukan dengan jalan membuat akta otentik atau di bawah tangan yang melimpahkan hak-hak atas barang-barang itu kepada orang lain. Penyerahan ini tidak ada akibatnya bagi yang berutang sebelum penyerahan itu diberitahukan kepadanya atau disetujuinya secara tertulis atau diakuinya. Penyerahan surat-surat utang atas tunjuk dilakukan dengan memberikannya; penyerahan surat utang atas perintah dilakukan dengan memberikannya bersama endosemen surat itu."
+
+## Pasal 1653
+
+"Selain perseroan perdata sejati, perhimpunan orang-orang sebagai badan hukum juga diakui undang-undang, entah badan hukum itu diadakan oleh kekuasaan umum atau diakuinya sebagai demikian, entah pula badan hukum itu diterima sebagai yang diperkenankan atau telah didirikan untuk suatu maksud tertentu yang tidak bertentangan dengan undang-undang atau kesusilaan."
+
+## Pasal 1654
+
+"Semua badan hukum yang berdiri dengan sah, begitu pula orang-orang swasta, berkuasa untuk melakukan perbuatan-perbuatan perdata, tanpa mengurangi perundang-undangan yang mengubah kekuasaan itu, membatasinya atau menundukkannya kepada tata cara tertentu."
+
+## Pasal 1655
+
+"Para pengurus badan hukum, bila tidak ditentukan lain dalam akta pendiriannya, dalam surat perjanjian atau dalam reglemen berkuasa untuk bertindak demi dan atas nama badan hukum itu, untuk mengikatkan badan hukum itu kepada pihak ketiga atau sebaliknya, dan untuk bertindak dalam sidang Pengadilan baik sebagai penggugat maupun sebagai tergugat."

@@ -800,5 +800,758 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-keluarga-hakim",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Menurut terminologi KEPPH, \"keluarga hakim\" mencakup…",
+    "options": [
+      "Hanya suami/istri yang sah dan anak kandung yang masih tinggal serumah dengan hakim",
+      "Siapa saja yang tercantum dalam kartu keluarga hakim",
+      "Sedarah sampai derajat kedua saja, tanpa keluarga semenda",
+      "Sedarah/semenda sampai derajat ketiga, dan suami/istri walau sudah bercerai"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bagian B angka 6 KEPPH.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Bagian B angka 6",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-ad-hoc",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Apakah KEPPH berlaku bagi hakim ad hoc?",
+    "options": [
+      "Hanya selama ia bertugas di Mahkamah Agung",
+      "Tidak; hakim ad hoc tunduk hanya pada kode etik profesi asalnya",
+      "Ya; definisi hakim dalam KEPPH menyebut termasuk hakim ad hoc",
+      "Hanya bila hakim ad hoc itu berasal dari kalangan PNS"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bagian B angka 1: hakim adalah hakim agung dan hakim di semua lingkungan badan peradilan di bawah MA termasuk hakim ad hoc.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Bagian B angka 1",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-praduga",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 1.1 (1) KEPPH: hakim wajib melaksanakan tugas hukumnya dengan menghormati…",
+    "options": [
+      "Asas praduga tak bersalah, tanpa mengharapkan imbalan",
+      "Arahan pimpinan pengadilan dalam perkara-perkara tertentu yang menarik perhatian",
+      "Kepentingan negara di atas hak terdakwa",
+      "Pendapat mayoritas masyarakat yang mengikuti perkara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Butir 1.1 (1), penerapan prinsip berperilaku adil.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 1.1 (1)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-bukan-menghukum",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 1.1 (8) KEPPH: hakim harus memberikan keadilan kepada semua pihak dan…",
+    "options": [
+      "Mengikuti tuntutan penuntut umum",
+      "Selalu menjatuhkan pidana maksimum agar ada efek jera",
+      "Mengutamakan pihak yang lebih lemah secara ekonomi",
+      "Tidak beritikad semata-mata untuk menghukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Butir 1.1 (8).",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 1.1 (8)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-komunikasi-pihak",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Hakim boleh berkomunikasi dengan pihak berperkara di luar persidangan hanya bila…",
+    "options": [
+      "Dilakukan lewat telepon pribadi sehingga tidak ada pertemuan tatap muka sama sekali",
+      "Pihak itu sudah dikenal hakim sebelum perkara diajukan",
+      "Disetujui oleh advokat pihak tersebut saja",
+      "Di gedung pengadilan, demi kelancaran sidang, terbuka, dan diketahui para pihak"
+    ],
+    "answerIndex": 3,
+    "explanation": "Butir 1.2 (2): kecuali di lingkungan gedung pengadilan demi kelancaran persidangan yang dilakukan secara terbuka, diketahui pihak-pihak berperkara, dan tidak melanggar prinsip persamaan perlakuan dan ketidakberpihakan.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 1.2 (2)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-hadiah-keluarga",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 2.2 (1) KEPPH: larangan menerima hadiah dari advokat, penuntut, atau pihak berperkara juga berarti hakim harus…",
+    "options": [
+      "Mencegah suami/istri, orang tua, anak, dan keluarganya menerimanya",
+      "Mengembalikan hadiah lewat panitera pengganti",
+      "Melaporkan advokat itu ke organisasi advokat dan Komisi Yudisial dalam 7 hari kerja",
+      "Menerima dulu lalu menyerahkannya ke kas pengadilan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Butir 2.2 (1): hakim tidak boleh meminta/menerima dan harus mencegah suami atau istri, orang tua, anak, atau anggota keluarga lainnya meminta atau menerima janji, hadiah, hibah, warisan, pemberian, penghargaan, pinjaman, atau fasilitas dari pihak-pihak tersebut.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 2.2 (1)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-hadiah-500",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Pengecualian butir 2.2 (1) KEPPH 2009: pemberian dari saudara/teman pada perkawinan, ulang tahun, hari besar keagamaan, dan sejenisnya, yang nilainya tidak melebihi…",
+    "options": [
+      "Rp250.000",
+      "Rp500.000",
+      "Rp10.000.000",
+      "Rp1.000.000"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 2.2 (1) bagian pengecualian. Pemberian itu tetap termasuk pengertian gratifikasi menurut UU Tipikor. Angka ini dari SKB 2009; ketentuan gratifikasi di lingkungan MA mungkin sudah diatur lebih baru, cek sebelum dihafal.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 2.2 (1)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-imbalan-ekstra",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Bolehkah hakim menerima honor sebagai pembicara seminar hukum?",
+    "options": [
+      "Tidak boleh sama sekali dalam keadaan apa pun",
+      "Boleh dari siapa saja, termasuk pihak berperkara, asalkan dilaporkan setelah setahun",
+      "Boleh hanya bila seminarnya diadakan oleh pihak berperkara",
+      "Boleh, dari pihak tanpa konflik kepentingan dan tidak memengaruhi tugas yudisial"
+    ],
+    "answerIndex": 3,
+    "explanation": "Butir 2.3 (imbalan untuk kegiatan ekstra yudisial) dan butir 3.1 (9) (hak melakukan kegiatan ekstra yudisial seperti menulis, memberi kuliah, mengajar).",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 2.3, 3.1 (9)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-lapor-gratifikasi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Menurut butir 2.4 (1) KEPPH, gratifikasi yang diterima hakim wajib dilaporkan secara tertulis kepada…",
+    "options": [
+      "Inspektorat jenderal kementerian dalam 14 hari kerja",
+      "KPK, Ketua Muda Pengawasan MA, dan Ketua KY dalam 30 hari kerja",
+      "Kepolisian setempat dalam 3 x 24 jam",
+      "Ketua pengadilan negeri tempatnya bertugas saja dalam 7 hari kalender"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 2.4 (1). Butir 2.4 (2): laporan kekayaan kepada KPK sebelum, selama, dan setelah menjabat.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 2.4",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-rumah-advokat",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Advokat kenalan meminta izin memakai ruang tamu rumah hakim untuk menerima kliennya. Menurut KEPPH…",
+    "options": [
+      "Boleh asal tidak ada perkara klien itu di pengadilan tempat hakim bertugas",
+      "Dilarang (butir 3.1 (4))",
+      "Boleh asal advokat membayar sewa wajar",
+      "Boleh asal disaksikan keluarga hakim"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 3.1 (4): hakim dilarang mengizinkan tempat kediamannya digunakan anggota profesi hukum untuk menerima klien atau anggota profesi hukum lainnya.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 3.1 (4)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-jelaskan-prosedur",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Hakim yang diberi tugas resmi oleh pengadilan boleh menjelaskan kepada masyarakat tentang…",
+    "options": [
+      "Pendapat pribadinya tentang terdakwa",
+      "Alasan putusan perkara yang masih berjalan",
+      "Prosedur beracara, bukan substansi perkara",
+      "Kemungkinan amar putusan perkara yang menarik perhatian publik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Butir 3.2 (3).",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 3.2 (3)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-forum-ilmiah",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 3.2 (6): hakim tidak boleh secara terbuka mengomentari putusan yang telah berkekuatan hukum tetap, kecuali…",
+    "options": [
+      "Di media sosial pribadi dengan akun anonim yang tidak menyebut jabatan hakimnya",
+      "Di forum ilmiah yang hasilnya tidak dimaksudkan untuk dipublikasikan",
+      "Setelah lewat satu tahun sejak putusan dibacakan",
+      "Bila putusan itu dibuat oleh hakim lain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 3.2 (6). Kalimat aslinya: \"...kecuali dalam sebuah forum ilmiah yang hasilnya tidak dimaksudkan untuk dipublikasikan yang dapat mempengaruhi putusan Hakim dalam perkara lain.\"",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 3.2 (6)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-parpol",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 3.3 (3) KEPPH tentang partai politik melarang hakim…",
+    "options": [
+      "Menjadi pengurus/anggota parpol atau terbuka mendukung parpol",
+      "Membaca berita tentang partai politik",
+      "Memiliki anggota keluarga yang menjadi anggota atau simpatisan parpol",
+      "Memberikan suara dalam pemilihan umum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Butir 3.3 (3), juga melarang keterlibatan dalam kegiatan yang dapat menimbulkan persangkaan beralasan bahwa hakim mendukung parpol.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 3.3 (3)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-mandiri-eksekutif",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Prinsip bersikap mandiri, penerapan (2): hakim wajib bebas dari hubungan yang tidak patut dengan…",
+    "options": [
+      "Akademisi dan mahasiswa yang meneliti dan mengkritik putusan-putusannya",
+      "Eksekutif, legislatif, dan kelompok lain yang mengancam independensi",
+      "Sesama hakim di pengadilan yang berbeda",
+      "Pegawai pengadilan tempat ia bertugas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Prinsip 4 (Bersikap Mandiri), penerapan (2).",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Prinsip 4 penerapan (2)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-advokat-sering",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 5.1.4: hakim harus membatasi hubungan akrab dengan advokat yang…",
+    "options": [
+      "Berasal dari kantor hukum asing",
+      "Pernah menjadi teman kuliahnya puluhan tahun lalu dan kini tinggal di luar negeri",
+      "Belum pernah beracara di pengadilan itu",
+      "Sering berperkara di wilayah hukum pengadilan tempat hakim menjabat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Butir 5.1.4, penerapan prinsip berintegritas tinggi.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 5.1.4",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-tawar-putusan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Mana yang TIDAK termasuk larangan dalam butir 5.1.7 KEPPH?",
+    "options": [
+      "Menunda eksekusi",
+      "Menunda sidang karena saksi tidak hadir",
+      "Menunjuk advokat tertentu untuk menangani perkara di pengadilan",
+      "Tawar-menawar putusan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 5.1.7 melarang tawar-menawar putusan, memperlambat pemeriksaan perkara, menunda eksekusi, atau menunjuk advokat tertentu, kecuali ditentukan lain oleh undang-undang. Menunda sidang karena saksi tidak hadir adalah alasan acara, bukan sengaja memperlambat.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 5.1.7",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-tingkat-bawah",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Hakim tinggi mendapat perkara banding yang dulu ia adili sendiri di pengadilan negeri. Menurut butir 5.2.2 (1)…",
+    "options": [
+      "Ia boleh mengadili karena lebih memahami berkasnya",
+      "Ia wajib mengadili karena sudah ditunjuk ketua",
+      "Ia dilarang mengadili perkara itu",
+      "Ia boleh mengadili asal menjadi hakim anggota, bukan ketua"
+    ],
+    "answerIndex": 2,
+    "explanation": "Butir 5.2.2 (1): dilarang bila pernah mengadili atau menjadi penuntut, advokat, atau panitera dalam perkara itu di tingkat lebih rendah. Bandingkan Pasal 17 UU 48/2009 tentang kewajiban mengundurkan diri.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 5.2.2 (1)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-bekas-organisasi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Salah satu pihak perkara adalah organisasi kemasyarakatan tempat hakim dulu aktif. Menurut butir 5.2.2 (4)…",
+    "options": [
+      "Boleh karena ia sudah tidak aktif lagi",
+      "Hakim dilarang mengadili perkara itu",
+      "Boleh asal pihak lawan tidak keberatan",
+      "Boleh asal ia bukan pendiri organisasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 5.2.2 (4): berlaku bila hakim masih atau pernah aktif dalam organisasi, kelompok masyarakat, atau parpol tersebut.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 5.2.2 (4)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-tahu-fakta",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 5.2.4: hakim dilarang mengadili perkara bila ia telah memiliki prasangka terhadap salah satu pihak atau…",
+    "options": [
+      "Lebih muda daripada advokat para pihak",
+      "Mengetahui fakta atau bukti yang berkaitan dengan perkara itu",
+      "Belum pernah menangani perkara sejenis",
+      "Tinggal di kota yang berbeda dengan tempat tinggal para pihak yang berperkara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 5.2.4 (prasangka dan pengetahuan atas fakta).",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 5.2.4",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-pemda",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Pemerintah daerah rutin memberi bantuan kepada hakim di wilayahnya. Pemberian itu tidak memengaruhi putusan. Menurut butir 5.2.5…",
+    "options": [
+      "Tetap dilarang, khususnya yang rutin/terus-menerus",
+      "Boleh karena tidak memengaruhi tugas yudisial",
+      "Boleh asal dicatat dalam laporan kekayaan",
+      "Boleh asal nilainya di bawah Rp500.000 setiap bulannya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Butir 5.2.5: dilarang walaupun pemberian tersebut tidak mempengaruhi pelaksanaan tugas yudisial.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 5.2.5",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-ragu-mundur",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Hakim ragu apakah ia wajib mengundurkan diri dari suatu perkara. Menurut butir 5.3.2, ia wajib…",
+    "options": [
+      "Meminta pertimbangan Ketua",
+      "Tetap mengadili lalu mencatat keraguannya di putusan",
+      "Menunggu salah satu pihak mengajukan keberatan",
+      "Bertanya kepada advokat para pihak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Butir 5.3.2. Butir 5.3.1: keputusan mengundurkan diri harus dibuat seawal mungkin.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 5.3",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-nasihat-teman",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 7.3.1 melarang hakim bekerja layaknya advokat, KECUALI…",
+    "options": [
+      "Bila seluruh honornya disumbangkan ke lembaga sosial atau panti asuhan yang terdaftar",
+      "Menjadi pihak sendiri, atau nasihat cuma-cuma untuk keluarga/teman sesama hakim",
+      "Untuk klien lama sebelum ia diangkat menjadi hakim",
+      "Bila perkaranya di luar wilayah hukum pengadilannya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 7.3.1 huruf a dan b.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 7.3.1",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-arbiter",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Bolehkah hakim menjadi arbiter atau mediator dalam kapasitas pribadi?",
+    "options": [
+      "Boleh, karena arbitrase dan mediasi swasta berada di luar sistem pengadilan negara",
+      "Boleh, asal para pihak bukan warga wilayah hukumnya",
+      "Tidak, kecuali dalam jabatan yang diperintahkan/dibolehkan peraturan",
+      "Boleh, asal tidak menerima honor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Butir 7.3.2. Contohnya, hakim mediator dalam mediasi di pengadilan bertindak dalam jabatan, bukan kapasitas pribadi.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 7.3.2",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-pensiun-advokat",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 7.4 KEPPH menganjurkan mantan hakim tidak berpraktik sebagai advokat, terutama di lingkungan peradilan tempat ia pernah menjabat, sekurang-kurangnya…",
+    "options": [
+      "Seumur hidup",
+      "2 tahun setelah pensiun/berhenti",
+      "6 bulan setelah pensiun/berhenti",
+      "5 tahun setelah pensiun/berhenti"
+    ],
+    "answerIndex": 1,
+    "explanation": "Butir 7.4. Rumusannya \"dianjurkan dan sedapat mungkin\", jadi bersifat anjuran.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 7.4",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-popularitas",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Butir 9.2 KEPPH (prinsip rendah hati) melarang hakim…",
+    "options": [
+      "Mencari popularitas, pujian, penghargaan, dan sanjungan",
+      "Menerima penghargaan resmi dari negara atas masa pengabdiannya yang panjang",
+      "Mengajar di perguruan tinggi",
+      "Menulis buku hukum dengan namanya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Butir 9.2. Bandingkan butir 3.1 (9) dan 3.3 (1) yang membolehkan menulis dan mengajar.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 9.2",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-dibatalkan",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Putusan MA No. 36 P/HUM/2011 menyatakan bertentangan dengan peraturan perundang-undangan butir-butir KEPPH pada prinsip…",
+    "options": [
+      "Disiplin tinggi (8.1-8.4) dan profesional (10.1-10.4)",
+      "Bersikap mandiri (4) dan berintegritas tinggi (5.1-5.3)",
+      "Rendah hati (9.1-9.2) dan menjunjung tinggi harga diri (7.3-7.4)",
+      "Berperilaku adil (1.1) dan berperilaku jujur (2.2)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Menurut pemberitaan hukumonline yang mengutip amar putusan itu (dibacakan 9 Februari 2012). Teks putusannya belum dibaca langsung.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Putusan MA No. 36 P/HUM/2011",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-mkh",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Menurut Penutup KEPPH angka 5, hakim yang diusulkan dijatuhi pemberhentian sementara atau pemberhentian diberi kesempatan membela diri di…",
+    "options": [
+      "Badan Pengawasan Mahkamah Agung saja",
+      "Majelis Kehormatan Hakim",
+      "Pengadilan Tata Usaha Negara",
+      "Rapat pleno Dewan Perwakilan Rakyat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penutup angka 5. Angka 3: hakim yang diduga melanggar diperiksa oleh MA dan/atau KY.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Bagian D angka 3, 5",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-faktor-sanksi",
+    "type": "quiz",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "question": "Menurut Penutup KEPPH angka 2, dalam menentukan sanksi atas pelanggaran perlu dipertimbangkan…",
+    "options": [
+      "Latar belakang, tingkat keseriusan, dan akibat pelanggaran",
+      "Lama masa kerja dan pangkat hakim",
+      "Popularitas hakim di masyarakat",
+      "Jumlah perkara yang telah diputus hakim itu selama kariernya di pengadilan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bagian D angka 2.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Bagian D angka 2",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-humor-ruang-tamu",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Kantor cabang tak resmi",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Advokat: Pak, ruang tamu Bapak luas. Saya terima klien di sini ya?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim: kantormu kenapa?"
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Advokat: kurang berwibawa. Di rumah hakim, klien lebih yakin."
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Hakim: itu justru masalahnya. Butir 3.1 (4): dilarang."
+        }
+      ]
+    },
+    "caption": "Yang disewa bukan ruangannya, tapi kesannya.",
+    "teaches": "Butir 3.1 (4) KEPPH: hakim dilarang mengizinkan tempat kediamannya digunakan oleh anggota profesi hukum untuk menerima klien atau anggota profesi hukum lainnya.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 3.1 (4)",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-humor-konten",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "meme",
+      "top": "Hakim bikin konten: 'Vlog sidang hari ini, jangan lupa like!'",
+      "bottom": "Butir 9.2 KEPPH: dilarang cari popularitas",
+      "character": "gecko",
+      "expression": "happy"
+    },
+    "caption": "Yang perlu viral itu pertimbangan putusan, bukan wajah hakimnya.",
+    "teaches": "Butir 9.2 KEPPH: hakim tidak boleh bersikap atau bertindak mencari popularitas, pujian, penghargaan, dan sanjungan. Butir 3.2 juga membatasi komentar hakim tentang substansi perkara di luar persidangan.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 9.2, 3.2",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-kp-humor-pemda",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "kepph",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Sayang bersyarat",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Staf pemda: ini tunjangan rutin dari kami, Pak Hakim. Tiap bulan."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim: atas dasar apa?"
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Staf pemda: tanda sayang. Tenang, tidak ada hubungannya dengan perkara."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Hakim: butir 5.2.5: tetap dilarang, justru karena rutin."
+        }
+      ]
+    },
+    "caption": "Cinta dari pemda yang datang tiap bulan biasanya punya alamat balasan.",
+    "teaches": "Butir 5.2.5 KEPPH: hakim dilarang menerima janji, hadiah, hibah, pemberian, pinjaman, atau manfaat lain, khususnya yang rutin atau terus-menerus dari pemerintah daerah, walaupun tidak memengaruhi tugas yudisial.",
+    "source": {
+      "title": "Keputusan Bersama Ketua MA dan Ketua KY No. 047/KMA/SKB/IV/2009 dan No. 02/SKB/P.KY/IV/2009 tentang Kode Etik dan Pedoman Perilaku Hakim",
+      "reference": "Butir 5.2.5",
+      "url": "https://kepaniteraan.mahkamahagung.go.id/images/artikel/kode%20etik%20dan%20pedoman%20perilaku%20hakim%20ma%20ky.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

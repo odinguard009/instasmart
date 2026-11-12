@@ -5,7 +5,7 @@ import { library } from '@/content';
 import type { Scene, Visual } from '@/content/schema';
 import { activeFilterCount, filterCards, visibleCount } from '@/domain/explore';
 import { favoriteCards } from '@/domain/favorites';
-import { initialStoryNav, storyNavReducer, type StoryNavAction } from '@/features/stories/storyNav';
+import { classifyStoryGesture, initialStoryNav, storyNavReducer, type StoryNavAction } from '@/features/stories/storyNav';
 import { addDays, diffDays, toDateKey } from '@/lib/date';
 import { createRng, shuffle, weightedPick } from '@/lib/rng';
 import { ReelStage } from '@/reels/ReelStage';
@@ -34,6 +34,24 @@ describe('navigasi story', () => {
     const prev: StoryNavAction = { type: 'prev' };
     expect(run(next, next, next, prev).position).toMatchObject({ story: 0, slide: 2 });
     expect(run(tick(3000), prev).position).toEqual({ story: 0, slide: 0, elapsedMs: 0 });
+  });
+
+  it('geser pindah ke awal story lain; geser setelah story terakhir menutup', () => {
+    const next: StoryNavAction = { type: 'next' };
+    expect(run(next, { type: 'nextStory' }).position).toEqual({ story: 1, slide: 0, elapsedMs: 0 });
+    expect(run({ type: 'nextStory' }, { type: 'prevStory' }).position).toEqual({ story: 0, slide: 0, elapsedMs: 0 });
+    expect(run({ type: 'prevStory' }).position).toEqual({ story: 0, slide: 0, elapsedMs: 0 });
+    expect(run({ type: 'nextStory' }, { type: 'nextStory' }).done).toBe(true);
+  });
+
+  it('klasifikasi gestur: geser bawah, geser samping, tap, tahan', () => {
+    expect(classifyStoryGesture(5, 120, 300, 0.5)).toBe('close');
+    expect(classifyStoryGesture(-90, 10, 200, 0.5)).toBe('nextStory');
+    expect(classifyStoryGesture(90, 10, 200, 0.5)).toBe('prevStory');
+    expect(classifyStoryGesture(2, 2, 100, 0.1)).toBe('tapPrev');
+    expect(classifyStoryGesture(2, 2, 100, 0.8)).toBe('tapNext');
+    expect(classifyStoryGesture(2, 2, 600, 0.8)).toBe('none');
+    expect(classifyStoryGesture(0, -120, 200, 0.5)).toBe('none');
   });
 });
 

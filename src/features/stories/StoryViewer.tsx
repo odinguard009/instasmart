@@ -1,4 +1,4 @@
-/** Penampil story layar penuh: auto-lanjut, progress bar, tap kiri/kanan, tahan untuk jeda. */
+/** Penampil story layar penuh: auto-lanjut, progress bar, tap kiri/kanan, tahan untuk jeda, geser untuk pindah/tutup. */
 import { useEffect, useReducer, useRef, useState } from 'react';
 import { AccountAvatar } from '@/components/AccountAvatar';
 import { Icon } from '@/components/Icon';
@@ -8,7 +8,7 @@ import { subTopicName, topicPaletteOf } from '@/content/lookup';
 import { effectiveStatus } from '@/domain/moderation';
 import { useActions, useStore } from '@/state/store';
 import { VisualView } from '@/visuals/VisualView';
-import { initialStoryNav, storyNavReducer, type StoryNavAction, type StoryNavState } from './storyNav';
+import { classifyStoryGesture, initialStoryNav, storyNavReducer, type StoryNavAction, type StoryNavState } from './storyNav';
 
 interface StoryViewerProps {
   stories: readonly CardOf<'story'>[];
@@ -16,14 +16,11 @@ interface StoryViewerProps {
   onClose: () => void;
 }
 
-/** Tekanan lebih singkat dari ini dianggap tap (navigasi), lebih lama = tahan (jeda). */
-const TAP_MAX_MS = 250;
-
 export function StoryViewer({ stories, startIndex, onClose }: StoryViewerProps) {
   const slideCounts = stories.map((story) => story.slides.length);
   const [nav, dispatch] = useReducer((state: StoryNavState, action: StoryNavAction) => storyNavReducer(state, action, slideCounts), initialStoryNav(startIndex));
   const [paused, setPaused] = useState(false);
-  const pressedAt = useRef(0);
+  const press = useRef({ at: 0, x: 0, y: 0 });
   const { markStorySeen } = useActions();
 
   const story = stories[nav.position.story];
@@ -61,17 +58,21 @@ export function StoryViewer({ stories, startIndex, onClose }: StoryViewerProps) 
         <VisualView visual={slide.visual} topicPalette={topicPaletteOf(story)} frame="story" className="absolute inset-0 h-full w-full" />
         <button
           type="button"
-          className="absolute inset-0 h-full w-full cursor-default"
-          aria-label="Tap kanan untuk lanjut, kiri untuk kembali, tahan untuk jeda"
-          onPointerDown={() => {
-            pressedAt.current = performance.now();
+          className="absolute inset-0 h-full w-full cursor-default touch-none"
+          aria-label="Tap kanan untuk lanjut, kiri untuk kembali, tahan untuk jeda, geser ke bawah untuk menutup"
+          onPointerDown={(event) => {
+            press.current = { at: performance.now(), x: event.clientX, y: event.clientY };
             setPaused(true);
           }}
           onPointerUp={(event) => {
             setPaused(false);
-            if (performance.now() - pressedAt.current > TAP_MAX_MS) return;
             const box = event.currentTarget.getBoundingClientRect();
-            dispatch({ type: event.clientX - box.left < box.width * 0.3 ? 'prev' : 'next' });
+            const start = press.current;
+            const gesture = classifyStoryGesture(event.clientX - start.x, event.clientY - start.y, performance.now() - start.at, (event.clientX - box.left) / box.width);
+            if (gesture === 'close') onClose();
+            else if (gesture === 'nextStory' || gesture === 'prevStory') dispatch({ type: gesture });
+            else if (gesture === 'tapPrev') dispatch({ type: 'prev' });
+            else if (gesture === 'tapNext') dispatch({ type: 'next' });
           }}
           onPointerCancel={() => setPaused(false)}
           onKeyDown={(event) => {

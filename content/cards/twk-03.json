@@ -2423,5 +2423,622 @@
     },
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-serangkai-terikat",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan bentuk terikat yang sesuai EYD V adalah…",
+    "options": [
+      "antar-kota, pasca-sarjana, sub-bagian",
+      "antar kota, pasca sarjana, sub bagian",
+      "antarkota, pasca sarjana, sub-bagian",
+      "antarkota, pascasarjana, subbagian"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab II B.1.b: kata yang mendapat bentuk terikat ditulis serangkai, misalnya antargolongan, pascasarjana, subbagian.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.1.b",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-non-kapital",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Bentuk terikat yang diikuti kata berhuruf awal kapital ditulis…",
+    "options": [
+      "nonIndonesia",
+      "non Indonesia",
+      "Non Indonesia",
+      "non-Indonesia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab II B.1.c: kata yang diawali huruf kapital dan mendapat bentuk terikat dirangkaikan dengan tanda hubung: non-Indonesia, pro-Barat, pasca-Orba. Tanpa huruf kapital tetap serangkai: nonkolaborasi.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.1.c",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-maha-esa",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan yang sesuai EYD V untuk sifat Tuhan adalah…",
+    "options": [
+      "Tuhan yang maha esa",
+      "Tuhan Yang Mahaesa",
+      "Tuhan Yang Maha Esa",
+      "Tuhan Yang Maha-Esa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II B.1.e: bentuk terikat maha- yang mengacu pada nama atau sifat Tuhan ditulis terpisah dengan huruf awal kapital sebagai pengkhususan, misalnya Yang Maha Esa, Yang Maha Pengasih.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.1.e",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-ulang-gabungan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Bentuk ulang dari \"surat kabar\" yang benar adalah…",
+    "options": [
+      "surat-surat kabar",
+      "surat-kabar surat-kabar",
+      "surat kabar-kabar",
+      "surat kabar-surat kabar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab II B.2.b: bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama: rak-rak buku, kapal-kapal barang.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.2.b",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-gabungan-terpisah",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kelompok gabungan kata yang ditulis TERPISAH menurut EYD V adalah…",
+    "options": [
+      "rumah sakit, ibukota, wali kota",
+      "rumahsakit, ibukota, walikota",
+      "rumah sakit, ibu kota, wali kota",
+      "rumah-sakit, ibu kota, wali-kota"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II B.3.a: unsur gabungan kata, termasuk istilah khusus, ditulis terpisah: rumah sakit, ibu kota, wali kota, duta besar, orang tua.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.3.a",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-konfiks-gabungan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Gabungan kata \"tanggung jawab\" yang mendapat awalan DAN akhiran sekaligus ditulis…",
+    "options": [
+      "per tanggungjawaban",
+      "pertanggung-jawaban",
+      "pertanggung jawaban",
+      "pertanggungjawaban"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab II B.3.c: gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai: pertanggungjawaban, menyebarluaskan.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.3.c",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-awalan-saja",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Manakah penulisan yang benar menurut EYD V?",
+    "options": [
+      "bertanggung jawab",
+      "bertanggung-jawab",
+      "bertanggungjawab",
+      "ber tanggung jawab"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab II B.3.d: gabungan kata yang hanya mendapat awalan ATAU akhiran ditulis terpisah: bertepuk tangan, garis bawahi. Bila mendapat keduanya, serangkai: pertanggungjawaban (B.3.c).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.3.c-d",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-serangkai-lazim",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kelompok kata yang menurut EYD V ditulis serangkai adalah…",
+    "options": [
+      "olahraga, kaca mata, bea siswa",
+      "olahraga, kacamata, beasiswa",
+      "olah raga, kaca mata, beasiswa",
+      "olah raga, kacamata, bea siswa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bab II B.3.e menyebut gabungan kata yang ditulis serangkai, antara lain olahraga, kacamata, beasiswa, kosakata, sukarela, belasungkawa.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.3.e",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-keluar",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat dengan penulisan yang benar adalah…",
+    "options": [
+      "Saya pergi keluar kota, lalu ia keluar dari rumah.",
+      "Saya pergi keluar kota, lalu ia ke luar dari rumah.",
+      "Saya pergi ke luar kota, lalu ia keluar dari rumah.",
+      "Saya pergi ke luar kota, lalu ia ke luar dari rumah."
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II D: kata depan \"ke\" ditulis terpisah (ke luar kota). \"Keluar\" dalam \"ia keluar dari rumah\" adalah kata kerja, bukan kata depan + kata, sehingga serangkai. Kedua contoh ada di EYD V.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II D",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-partikel-lah",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan partikel yang benar adalah…",
+    "options": [
+      "Bacalah buku itu! Apa kah kamu siap?",
+      "Bacalah buku itu! Apakah kamu siap?",
+      "Baca lah buku itu! Apa kah kamu siap?",
+      "Baca-lah buku itu! Apa-kah kamu siap?"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bab II E.1: partikel -lah, -kah, dan -tah ditulis serangkai dengan kata yang mendahuluinya.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II E.1",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-apa-pun",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat dengan penulisan \"pun\" yang benar adalah…",
+    "options": [
+      "Apa pun masalahnya dia tenang",
+      "Apa-pun masalahnya, dia tenang.",
+      "Apapun masalahnya, dia tenang.",
+      "Apa pun masalahnya, dia tenang."
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab II E.2: partikel pun ditulis terpisah dari kata yang mendahuluinya (apa pun). Anak kalimat yang mendahului induk kalimat dipisah dengan koma (Bab III B.3).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II E.2; Bab III B.3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-meskipun",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Manakah \"pun\" yang ditulis SERANGKAI sesuai EYD V?",
+    "options": [
+      "meski pun, walau pun, ada pun",
+      "meski pun, walaupun, ada pun",
+      "apapun, siapapun, meskipun",
+      "meskipun, walaupun, adapun"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab II E.3: pun yang merupakan bagian kata penghubung ditulis serangkai, antara lain adapun, ataupun, bagaimanapun, maupun, meskipun, walaupun. \"Apa pun\" dan \"siapa pun\" bukan kata penghubung, jadi terpisah (E.2).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II E.2-3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-sekalipun",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Contoh EYD V: \"Sekalipun teman dekat, dia belum pernah sekali pun datang ke rumahku.\" Mengapa ditulis berbeda?",
+    "options": [
+      "Keduanya boleh ditulis serangkai atau terpisah",
+      "Keduanya kata penghubung, beda hanya gaya",
+      "Yang pertama kata penghubung; yang kedua partikel",
+      "Yang pertama partikel; yang kedua kata penghubung"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II E.3: \"sekalipun\" sebagai kata penghubung (= walaupun) ditulis serangkai. \"Sekali pun\" berarti 'satu kali pun' memakai partikel pun yang ditulis terpisah (E.2).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II E.2-3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-per",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan partikel \"per\" yang benar adalah…",
+    "options": [
+      "Mereka masuk satu per satu.",
+      "Mereka masuk satu-per-satu.",
+      "Mereka masuk satu-persatu.",
+      "Mereka masuk satu persatu."
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab II E.4: partikel per yang berarti 'demi', 'tiap', 'mulai', atau 'melalui' ditulis terpisah: satu per satu, Rp50.000,00 per meter, per 1 Januari.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II E.4",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-angka-awal",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat yang sesuai EYD V adalah…",
+    "options": [
+      "2.500 orang peserta diundang panitia.",
+      "2.500 orang peserta, diundang oleh panitia.",
+      "2500 orang peserta diundang oleh panitia acara.",
+      "Sebanyak 2.500 orang peserta diundang panitia."
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab II G.4: bilangan berupa angka pada awal kalimat yang terdiri atas lebih dari satu kata didahului kata seperti sebanyak, sejumlah, sebesar, atau susunan kalimatnya diubah (Panitia mengundang 2.500 orang peserta).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II G.4",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-satu-kata",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Menurut EYD V, \"Mereka menonton drama itu sampai … kali.\" Bilangan yang dapat dinyatakan dengan satu kata ditulis…",
+    "options": [
+      "Bebas, huruf atau angka",
+      "Angka dan huruf: 3 (tiga)",
+      "Dengan huruf: tiga",
+      "Dengan angka: 3"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II G.2: bilangan yang dapat dinyatakan dengan satu kata ditulis dengan huruf, kecuali bila dipakai berurutan dalam perincian (52 orang setuju, 15 orang tidak setuju, dan 5 orang abstain).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II G.2",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-pecahan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan bilangan pecahan ¾ dengan huruf (misalnya dalam akta) yang benar adalah…",
+    "options": [
+      "tiga-perempat",
+      "tigaperempat",
+      "tiga perempat",
+      "tiga per empat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab II G.8.b: bilangan pecahan ditulis dengan per- yang dilekatkan pada bilangan penyebut yang mengikutinya: tiga perempat, seperenam belas, satu persen.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II G.8.b",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-koma-anak",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat dengan tanda koma yang benar adalah…",
+    "options": [
+      "Saya, akan datang kalau diundang.",
+      "Kalau diundang saya, akan datang.",
+      "Saya akan datang, kalau diundang.",
+      "Kalau diundang, saya akan datang."
+    ],
+    "answerIndex": 3,
+    "explanation": "Bab III B.3-4: koma memisahkan anak kalimat yang mendahului induk kalimat; bila induk kalimat di depan, koma tidak dipakai (Saya akan datang kalau diundang).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III B.3-4",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-koma-tetapi",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Kalimat majemuk pertentangan dengan tanda koma yang benar adalah…",
+    "options": [
+      "Saya ingin membeli kamera tetapi, uang saya belum cukup.",
+      "Saya ingin membeli kamera, tetapi uang saya belum cukup.",
+      "Saya ingin membeli kamera; tetapi, uang saya belum cukup.",
+      "Saya ingin membeli kamera tetapi uang, saya belum cukup."
+    ],
+    "answerIndex": 1,
+    "explanation": "Bab III B.2: koma dipakai sebelum kata penghubung seperti tetapi, melainkan, dan sedangkan dalam kalimat majemuk pertentangan.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III B.2",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-koma-oleh-karena",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan ungkapan penghubung antarkalimat yang benar adalah…",
+    "options": [
+      "Oleh karena itu dia memperoleh beasiswa",
+      "Oleh, karena itu dia memperoleh beasiswa.",
+      "Oleh karena itu, dia memperoleh beasiswa.",
+      "Oleh karena itu dia, memperoleh beasiswa."
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab III B.5: koma dipakai di belakang ungkapan penghubung antarkalimat, seperti oleh karena itu, jadi, dengan demikian, dan meskipun demikian.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III B.5",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-koma-petikan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Petikan langsung yang diakhiri tanda tanya ditulis…",
+    "options": [
+      "\"Di mana Saudara tinggal?\" tanya Pak Lurah.",
+      "\"Di mana Saudara tinggal?\", tanya Pak Lurah.",
+      "\"Di mana Saudara tinggal,\" tanya Pak Lurah?",
+      "\"Di mana Saudara tinggal\"? tanya Pak Lurah."
+    ],
+    "answerIndex": 0,
+    "explanation": "Bab III B.8: koma tidak dipakai untuk memisahkan petikan langsung yang diakhiri tanda tanya atau tanda seru dari bagian kalimat berikutnya.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab III B.8",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-kapital-satuan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan yang sesuai kaidah huruf kapital EYD V adalah…",
+    "options": [
+      "15 watt, mesin diesel, hukum archimedes",
+      "15 Watt, mesin Diesel, hukum Archimedes",
+      "15 watt, mesin diesel, hukum Archimedes",
+      "15 Watt, mesin diesel, Hukum archimedes"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab I F.3: nama orang yang dipakai sebagai nama jenis atau satuan ukuran tidak berhuruf kapital (watt, diesel, mujair). Bab I F.4: nama orang pada nama teori, hukum, dan rumus berhuruf kapital (teori Darwin, hukum Archimedes).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab I F.3-4",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-kapital-turunan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "question": "Penulisan yang benar adalah…",
+    "options": [
+      "pengIndonesiaan kata asing",
+      "peng-Indonesiaan kata asing",
+      "pengindonesiaan kata asing",
+      "Pengindonesiaan Kata Asing"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bab I F.12: huruf kapital tidak dipakai pada nama bangsa, suku, bahasa, dan aksara yang berupa bentuk dasar kata turunan: pengindonesiaan, keinggris-inggrisan, kesunda-sundaan.",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab I F.12",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-humor-apapun",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "visual": {
+      "template": "comic",
+      "title": "Siap apa pun, kecuali ejaan",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Apapun yang terjadi, aku siap SKD!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Partikel pun ditulis terpisah: apa pun."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Lho, meskipun kok nempel?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Itu kata penghubung. Hafalkan daftarnya, jangan perasaan."
+        }
+      ]
+    },
+    "caption": "Siap menghadapi apa pun, asal bukan soal ejaan.",
+    "teaches": "Partikel pun ditulis terpisah (apa pun, siapa pun); pun bagian kata penghubung ditulis serangkai (meskipun, walaupun, adapun, bagaimanapun) (EYD V Bab II E.2-3).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II E.2-3",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-humor-dimana",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "Caption pejabat: 'Kami hadir dimana pun rakyat membutuhkan'",
+      "bottom": "Hadirnya entah. Spasinya pasti absen: di mana pun.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Janji boleh menyeluruh, ejaan tetap per kata.",
+    "teaches": "Kata depan di ditulis terpisah dari kata yang mengikutinya (Di mana dia sekarang?), dan partikel pun ditulis terpisah (EYD V Bab II D dan E.2).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II D dan E.2",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-eyd-humor-tanggung-jawab",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "bahasa-indonesia",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "Rapat evaluasi: semua mengaku 'bertanggungjawab'",
+      "bottom": "Spasinya saja tidak ada yang mau menanggung.",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Spasi di tanggung jawab sama seperti tanggung jawabnya: sering hilang saat dibutuhkan.",
+    "teaches": "Gabungan kata yang hanya mendapat awalan ditulis terpisah (bertanggung jawab); yang mendapat awalan dan akhiran sekaligus ditulis serangkai (pertanggungjawaban) (EYD V Bab II B.3.c-d).",
+    "source": {
+      "title": "Ejaan Bahasa Indonesia yang Disempurnakan (EYD) Edisi V, Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022",
+      "reference": "Bab II B.3.c-d",
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/SK_EYD_Edisi_V_16082022.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

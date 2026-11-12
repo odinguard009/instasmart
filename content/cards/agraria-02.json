@@ -1191,5 +1191,312 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-abadi",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 1 ayat (3) UUPA, hubungan antara bangsa Indonesia dan bumi, air, serta ruang angkasa bersifat…",
+    "options": [
+      "Turun-temurun terbatas",
+      "Sementara",
+      "Kontraktual",
+      "Abadi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 ayat (2): bumi, air, ruang angkasa beserta kekayaan alamnya adalah karunia Tuhan Yang Maha Esa dan merupakan kekayaan nasional.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 1 ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-bumi",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 1 ayat (4) UUPA, pengertian \"bumi\" mencakup…",
+    "options": [
+      "Daratan pulau-pulau besar saja",
+      "Permukaan tanah yang sudah bersertifikat hak saja",
+      "Tanah pertanian dan perkebunan saja",
+      "Permukaan, tubuh bumi, dan yang di bawah air"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (5): air mencakup perairan pedalaman dan laut wilayah Indonesia. Ayat (6): ruang angkasa adalah ruang di atas bumi dan air itu.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 1 ayat (4)-(6)",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-hmn-wewenang",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Manakah yang BUKAN wewenang hak menguasai dari Negara menurut Pasal 2 ayat (2) UUPA?",
+    "options": [
+      "Memiliki seluruh tanah sebagai milik pribadi negara",
+      "Menentukan hubungan hukum antara orang dan bumi, air, ruang angkasa",
+      "Mengatur peruntukan, penggunaan, persediaan, dan pemeliharaan",
+      "Mengatur perbuatan hukum mengenai bumi, air, dan ruang angkasa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Negara menguasai pada tingkatan tertinggi sebagai organisasi kekuasaan seluruh rakyat, bukan sebagai pemilik.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 2 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-ulayat",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 3 UUPA, pelaksanaan hak ulayat masyarakat hukum adat diakui dengan syarat…",
+    "options": [
+      "Mendapat persetujuan seluruh pemerintah daerah",
+      "Dimiliki oleh masyarakat yang sudah ada sebelum 1945",
+      "Didaftarkan sebagai hak milik atas nama kepala adat",
+      "Masih ada dan sesuai kepentingan nasional"
+    ],
+    "answerIndex": 3,
+    "explanation": "Juga tidak boleh bertentangan dengan undang-undang dan peraturan lain yang lebih tinggi.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 3",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-wewenang-tanah",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 4 ayat (2) UUPA, hak atas tanah memberi wewenang menggunakan tanah, juga tubuh bumi, air, dan ruang di atasnya…",
+    "options": [
+      "Hanya untuk permukaan tanah, tidak termasuk ruang di atasnya",
+      "Tanpa batas sampai ke inti bumi dan ruang angkasa",
+      "Sepanjang pemegang hak membayar pajak bumi dan bangunan",
+      "Sekadar diperlukan untuk penggunaan tanah itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Dalam batas UUPA dan peraturan lain yang lebih tinggi.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 4 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-nasionalitas",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Pasal 9 ayat (1) UUPA menentukan bahwa yang dapat mempunyai hubungan sepenuhnya dengan bumi, air, dan ruang angkasa hanya…",
+    "options": [
+      "Badan hukum yang terdaftar di Indonesia",
+      "Pemegang sertifikat hak milik",
+      "Warga negara Indonesia",
+      "Penduduk yang tinggal lebih dari lima tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dikenal sebagai asas nasionalitas. Sejalan dengan Pasal 21 ayat (1): hanya WNI dapat mempunyai hak milik.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 9 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-kesetaraan",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Pasal 9 ayat (2) UUPA menegaskan bahwa setiap WNI, baik laki-laki maupun wanita…",
+    "options": [
+      "Berkesempatan sama memperoleh hak atas tanah",
+      "Hanya dapat memiliki tanah melalui pewarisan",
+      "Wajib mendaftarkan tanah atas nama kepala keluarga",
+      "Mendapat bagian tanah yang ditentukan oleh hukum adat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Termasuk untuk mendapat manfaat dari hasilnya, bagi diri sendiri maupun keluarga.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 9 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-ekonomis-lemah",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Pasal 11 ayat (2) UUPA memperhatikan perbedaan keadaan masyarakat dengan menjamin perlindungan terhadap kepentingan golongan…",
+    "options": [
+      "Pegawai negeri",
+      "Ekonomis lemah",
+      "Pemilik modal besar",
+      "Bangsawan adat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11 ayat (1): hubungan hukum diatur agar dicegah penguasaan atas kehidupan dan pekerjaan orang lain yang melampaui batas.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 11",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-koperasi",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 12 ayat (1) UUPA, segala usaha bersama dalam lapangan agraria didasarkan atas kepentingan bersama dalam bentuk…",
+    "options": [
+      "Yayasan sosial keagamaan",
+      "Kemitraan dengan perusahaan asing",
+      "Koperasi atau gotong royong lainnya",
+      "Perseroan terbatas milik negara saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayat (2): negara dapat bersama pihak lain menyelenggarakan usaha bersama dalam lapangan agraria.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 12",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-monopoli",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 13 UUPA, usaha pemerintah dalam lapangan agraria yang bersifat monopoli…",
+    "options": [
+      "Cukup ditetapkan dengan peraturan menteri terkait",
+      "Hanya dapat diselenggarakan dengan UU",
+      "Dilarang sama sekali dalam keadaan apa pun",
+      "Boleh asal disetujui pemerintah daerah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (2): pemerintah mencegah usaha agraria yang bersifat monopoli swasta.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 13 ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-pelihara",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 15 UUPA, memelihara tanah, termasuk menambah kesuburan dan mencegah kerusakannya, adalah kewajiban…",
+    "options": [
+      "Setiap pihak yang berhubungan hukum dengan tanah itu",
+      "Pemerintah daerah tempat tanah berada",
+      "Penggarap saja, bukan pemilik tanah",
+      "Kementerian yang membidangi pertanian dan tata ruang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dengan memperhatikan pihak yang ekonomis lemah.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 15",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-as-humor-nasionalitas",
+    "type": "humor",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "comic",
+      "title": "Pinjam nama",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Investor: saya mau beli tanah hak milik, pakai nama sendiri."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Notaris: WNA? Pasal 9 dan 21 UUPA: hak milik hanya untuk WNI."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Investor: kalau pinjam nama teman?"
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Notaris: itu namanya cari masalah, bukan cari tanah."
+        }
+      ]
+    },
+    "caption": "Asas nasionalitas: hak milik atas tanah hanya untuk WNI.",
+    "teaches": "Pasal 9 ayat (1) UUPA: hanya WNI dapat mempunyai hubungan sepenuhnya dengan bumi, air, dan ruang angkasa. Pasal 21 ayat (1): hanya WNI dapat mempunyai hak milik. Akibat hukum perjanjian pinjam nama tidak dibahas di kartu ini.",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria",
+      "reference": "Pasal 9, Pasal 21",
+      "url": "https://www.datahukum.com/peraturan/UU_5_Tahun_1960.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

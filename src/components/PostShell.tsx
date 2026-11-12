@@ -1,6 +1,7 @@
 /** Kerangka post ala Instagram: header akun, media, bar aksi pribadi, caption, sumber, komentar statis. */
 import { useState, type ReactNode } from 'react';
 import type { Card } from '@/content/schema';
+import { shouldCollapseCaption } from '@/domain/caption';
 import { accountOf, subTopicName, topicOf, TYPE_LABELS } from '@/content/lookup';
 import { useActions, useStore } from '@/state/store';
 import { AccountAvatar } from './AccountAvatar';
@@ -39,6 +40,24 @@ function Comments({ card }: { card: Card }) {
         </button>
       )}
       <p className="text-xs text-muted">Komentar fiktif, bagian dari kartu.</p>
+    </div>
+  );
+}
+
+function Caption({ account, text }: { account: string; text: string }) {
+  const [expanded, setExpanded] = useState(false);
+  const collapsible = shouldCollapseCaption(text);
+  const clamped = collapsible && !expanded;
+  return (
+    <div className="text-sm leading-relaxed">
+      <p className={`whitespace-pre-line ${clamped ? 'line-clamp-3' : ''}`}>
+        <span className="font-semibold">{account}</span> {text}
+      </p>
+      {clamped && (
+        <button type="button" className="-my-2 min-h-11 text-muted" onClick={() => setExpanded(true)} aria-label="Tampilkan caption lengkap">
+          lainnya
+        </button>
+      )}
     </div>
   );
 }
@@ -109,11 +128,7 @@ export function PostShell({ card, ribbon, caption, extra, children }: PostShellP
 
       <div className="space-y-2 px-3">
         {shareNote && <p className="text-xs text-muted">{shareNote}</p>}
-        {caption && (
-          <p className="whitespace-pre-line text-sm leading-relaxed">
-            <span className="font-semibold">{card.account}</span> {caption}
-          </p>
-        )}
+        {caption && <Caption account={card.account} text={caption} />}
         {extra}
         <p className="text-xs text-muted">
           Sumber: {card.source.title}, {card.source.reference}

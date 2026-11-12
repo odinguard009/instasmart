@@ -1,8 +1,9 @@
 /** Beranda: baris Stories + feed tanpa batas (paket lanjutan dimuat otomatis) + penanda target harian. */
-import { Fragment, useEffect } from 'react';
+import { Fragment, useEffect, useRef } from 'react';
 import { CardView } from '@/cards/CardView';
 import { FEED_CONFIG } from '@/config/feed';
 import { library } from '@/content';
+import { useHeaderReveal } from '@/lib/useHeaderReveal';
 import { useInView } from '@/lib/useInView';
 import type { FeedItem } from '@/state/schema';
 import { itemCardIds, planStories } from '@/state/selectors';
@@ -54,6 +55,8 @@ function ExtendSentinel() {
 export function HomePage() {
   const day = useStore((s) => s.day);
   const target = useStore((s) => s.settings.dailyQuota);
+  const header = useRef<HTMLElement>(null);
+  const headerVisible = useHeaderReveal(header, day !== null);
   if (!day) return null;
   const items = day.plan.items;
   const total = items.length;
@@ -61,7 +64,10 @@ export function HomePage() {
 
   return (
     <div>
-      <header className="sticky top-0 z-30 flex h-12 items-center justify-between border-b border-line bg-bg/95 px-4 backdrop-blur">
+      <header
+        ref={header}
+        className={`sticky top-0 z-30 flex h-12 items-center justify-between border-b border-line bg-bg/95 px-4 backdrop-blur transition-transform duration-200 ${headerVisible ? '' : '-translate-y-full'}`}
+      >
         <h1 className="text-xl font-black tracking-tight">Instasmart</h1>
         <p className="rounded-full bg-raised px-3 py-1 text-xs font-bold" aria-label={`${day.consumed.length} item dilihat hari ini, target ${target}`}>
           {reached ? `${day.consumed.length} item hari ini` : `${day.consumed.length}/${target} target`}

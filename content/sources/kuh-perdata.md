@@ -507,3 +507,175 @@
 ## Pasal 1922
 
 > Persangkaan yang tidak berdasarkan undang-undang sendiri diserahkan kepada pertimbangan dan kewaspadaan Hakim, yang dalam hal ini tidak boleh memperhatikan persangkaan- persangkaan yang lain. Persangkaan-persangkaan yang demikian hanya boleh diperhatikan, bila undang-undang mengizinkan pembuktian dengan saksi-saksi, begitu pula bila terhadap suatu perbuatan atau suatu akta diajukan suatu bantahan dengan alasan-alasan adanya itikad buruk atau penipuan.
+
+## Tambahan keempat (diambil 12 November 2026 dari berkas yang sama): pewarisan menurut undang-undang, penggantian, wasiat, legitieme portie, penerimaan dan penolakan warisan
+
+> Pasal 852a, 854-861 sudah lama dirujuk kartu waris; teksnya kini ikut dikutip di sini. Pada Pasal 858 akhir kalimat "Pasal 845." berada di baris berikutnya dalam berkas. Pada Pasal 831 berkas menulis "dan terjadi peralihan warisan"; rumusan yang lazim dikutip dari terjemahan lain menyatakan tidak terjadi peralihan warisan di antara mereka, jadi bagian itu perlu dicek ke terjemahan lain (kartu tidak menguji bagian itu).
+
+## Pasal 831
+
+> Bila beberapa orang, yang antara seorang dengan yang lainnya ada hubungan pewarisan, memnggal karena suatu kecelakaan yang sama, atau meninggal pada hari yang sama, tanpa diketahui siapa yang meninggal lebih dahulu, maka mereka dianggap meninggal pada saat yang sama, dan terjadi peralihan warisan dan yang seorang kepada yang lainnya.
+
+## Pasal 834
+
+> Ahli waris berhak mengajukan gugatan untuk memperoleh warisannya terhadap semua orang yang memegang besit atas seluruh atau sebagian warisan itu dengan alas hak ataupun tanpa alas hak, demikian pula terhadap mereka yang dengan licik telah menghentikan besitnya. Dia boleh mengajukan gugatan itu untuk seluruh warisan bila ia adalah satu-satunya ahli waris, atau hanya untuk sebagian bila ada ahli waris lain. Gugatan itu bertujuan untuk menuntut supaya diserahkan apa saja yang dengan alas hak apa pun ada dalam warisan itu, beserta segala penghasilan, pendapatan dan ganti rugi, menurut peraturan-peraturan yang termaktub dalam Bab III buku ini mengenai penuntutan kembali hak milik.
+
+## Pasal 835
+
+> Tuntutan itu menjadi lewat waktu dengan Iewatnya waktu tiga puluh tahun, terhitung dan hari terbukanya warisan itu.
+
+## Pasal 839
+
+> Ahli waris yang tidak mungkin untuk mendapat warisan karena tidak pantas, wajib mengembalikan segala hasil dan pendapatan yang telah dinikmatinya sejak terbukanya warisan itu.
+
+## Pasal 840
+
+> Bila anak-anak dan orang telah dinyatakan tidak pantas menjadi ahli waris merasa dirinya menjadi ahli waris, maka mereka tidak dikecualikan dan pewarisan karena kesalahan orangtua mereka; tetapi orangtua ini sekali-kali tidak berhak menuntut hak pakai hasil atas harta peninggalan yang menurut undang-undang hak nikmat hasilnya diberikan kepada orangtua.
+
+## Pasal 841
+
+> Penggantian memberikan hak kepada orang yang mengganti untuk bertindak sebagai pengganti dalam derajat dan dalam segala hak orang yang digantikannya.
+
+## Pasal 843
+
+> Tidak ada penggantian terhadap keluarga sedarah dalam garis lurus ke atas. Keluarga sedarah terdekat dalam kedua garis itu setiap waktu menyampingkan semua keluarga yang ada dalam derajat yang lebih jauh.
+
+## Pasal 844
+
+> Dalam garis ke samping, penggantian diperkenankan demi keuntungan semua anak dan keturunan saudara laki-laki dan perempuan orang yang meninggal, baik jika mereka menjadi ahli waris bersama-sama dengan paman-paman atau bibi-bibi mereka, maupun jika warisan itu, setelah meninggalnya semua saudara yang meninggal, harus dibagi di antara semua keturunan mereka, yang satu sama larnnya bertalian keluarga dalam derajat yang tidak sama.
+
+## Pasal 846
+
+> Dalam segala hal, bila penggantian diperkenankan, pembagian dilakukan pancang demi pancang; bila suatu pancang mempunyai beberapa cabang, maka pembagian lebih lanjut dalam tiap-tiap cabang dilakukan pancang demi pancang pula, sedangkan antara orang-orang dalam cabang yang sama, pembagian dilakukan kepala demi kepala.
+
+## Pasal 847
+
+> Tak seorang pun boleh menggantikan orang yang masih hidup.
+
+## Pasal 848
+
+> Anak tidak memperoleh hak dan orangtuanya untuk mewakili mereka, tetapi seseorang dapat mewakili orang yang tak mau menerima harta peninggalannya.
+
+## Pasal 849
+
+> Undang-undang tidak memperhatikan sifat atau asal usul barang-barang harta peninggalan, untuk mengadakan peraturan tentang pewarisannya.
+
+## Pasal 852a
+
+> Dalam hal warisan dan seorang suami atau isteri yang telah meninggal lebih dahulu, suami atau isteri yang ditinggal mati, dalam menerapkan ketentuan-ketentuan bab ini, disamakan dengan seorang anak sah dan orang yang meninggal, dengan pengertian bahwa bila perkawinan suami isteri itu adalah perkawinan kedua atau selanjutnya, dan dari perkawinan yang dulu ada anak- anak atau keturunan-keturunan anak-anak itu, suami atau isteri yang baru tidak boleh mewarisi lebih dan bagian terkecil yang diterima oleh salah seorang dan anak-anak itu, atau oleh semua keturunan penggantinya bila ia meninggal lebih dahulu, dan bagaimanapun juga bagian warisan isteri atau suami itu tidak boleh melebihi seperempat dan harta peninggalan si pewaris. Bila untuk kebahagiaan suami atau isteri dan perkawinan kedua atau pekawinan yang berikutnya telah dikeluarkan wasiat, maka bila jumlah bagian yang diperoleh dan pewarisan pada kematian dan bagian yang diperoleh dan wasiat melampaui batas-batas dan jumlah termaktub dalam alinea pertama, bagian dan pewarisan pada kematian harus dikurangi sedemikian, sehingga jumlah bersama itu tetap berada dalam batas-batas itu. Bila penetapan wasiat itu, seluruhnya atau sebagian, terdiri dan hak pakai hasil, maka harga dan hak pakai hasil itu harus ditaksir, dan jumlah bersama termaksud dalam alinea yang lalu harus dihitung berdasarkan harga yang ditaksir itu. Apa yang dinikmati suami atau isteri yang berikut menurut pasal ini harus dikurangkan dalam menghitung apa yang boleh diperoleh suami atau isteri itu atau diperjanjikan menurut Bab VIII Buku Pertama.
+
+## Pasal 853
+
+> Bila yang meninggal itu tidak meninggalkan keturunan, suami atau isteri, saudara laki-laki atau perempuan, maka harta peninggalannya harus dibagi dua sama besar, satu bagian untuk keluarga sedarah dalam garis lurus ayah ke atas, dan satu bagian lagi untuk keluarga garis lurus ibu ke atas, tanpa mengurangi ketentuan Pasal 859. Keluarga yang terdekat derajatnya dalam garis lurus ke atas, mendapat separuh dari bagian yang diperuntukkan bagi garisnya, dengan mengesampingkan semua hali waris lainnya. Keluarga sedarah dalam garis ke atas dan derajat yang sama, memperoleh wanisan kepala demi kepala.
+
+## Pasal 854
+
+> Bila seseorang meninggal dunia tanpa meninggalkan keturunan dan suami atau isteri, maka bapaknya atau ibunya yang masih hidup masing-masing mendapat sepertiga bagian dan harta peninggalannya, bila yang mati itu hanya meninggalkan satu orang saudara laki-laki atau perempuan yang mendapat sisa yang sepertiga bagian. Bapak dan ibunya masing-masing mewarisi seperempat bagian, bila yang mati meninggalkan lebih banyak saudara laki-laki atau perempuan, dan dalam hal itu mereka yang tersebut terakhir mendapat sisanya yang dua perempat bagian.
+
+## Pasal 855
+
+> Bila seseorang meninggal tanpa meninggalkan keturunan dan suami atau isteri, dan bapak atau ibunya telah meninggal lebih dahulu daripada dia, maka bapaknya atau ibunya yang hidup terlama mendapat separuh dan harta peninggalannya, bila yang mati itu meninggalkan saudara laki-laki atau perempuan hanya satu orang saja; sepertiga, bila saudara laki-laki atau perempuan yang ditinggalkan dua orang; seperempat bagian, bila saudara laki-laki atau perempuan yang ditinggalkan lebih dan dua. Sisanya menjadi bagian saudara laki-laki dan perempuan tersebut.
+
+## Pasal 856
+
+> Bila seseorang meninggal tanpa meninggalkan seorang keturunan ataupun suami dan isteri, sedangkan bapak dan ibunya telah meninggal lebih dahulu, maka saudara laki-laki dan perempuan mewarisi seluruh warisannya.
+
+## Pasal 857
+
+> Pembagian dan apa yang menurut pasal-pasal tersebut di atas menjadi bagian saudara perempuan dan laki-laki, dilakukan antara mereka menurut bagian-bagian yang sama, bila mereka berasal dan perkawinan yang sama; bila mereka dilahirkan dan berbagai perkawinan, maka apa yang mereka warisi harus dibagi menjadi dua bagian yang sama, antara garis bapak dengan garis ibu dan orang dan orang yang meninggal itu; saudara-saudara sebapak seibu memperoleh bagian mereka dan kedua garis, dan yang sebapak saja atau yang seibu saja hanya dan garis di mana mereka termasuk. Bila hanya ada saudara tiri laki-laki atau perempuan dan salah satu garis saja, mereka mendapat seluruh harta peninggalan, dengan mengesampingkan semua keluarga sedarah lainnya dan garis yang lain.
+
+## Pasal 858
+
+> Bila tidak ada saudara laki-laki dan perempuan dan juga tidak ada keluarga sedarah yang masih hidup dalam salah satu garis ke atas, maka separuh harta peninggalan itu menjadi bagian dan keluarga sedarah dalam garis ke atas yang masih hidup, sedangkan yang separuh lagi menjadi bagian keluarga sedarah dalam garis ke samping dan garis ke atas lainnya, kecuali dalam hal yang tercantum dalam pasal berikut. Bila tidak ada saudara laki-laki dan perempuan dan keluarga sedarah yang masih hidup dalam kedua garis ke atas, maka keluarga sedarah terdekat dalam tiap-tiap garis ke samping masing- masing mendapat warisan separuhnya. Bila dalam satu garis ke samping terdapat beberapa keluarga sedarah dalam derajat yang sama, maka mereka berbagi antara mereka kepala demi kepala tanpa mengurangi ketentuan dalam Pasal 845.
+
+## Pasal 859
+
+> Bapak atau ibu yang hidup terlama mewarisi seluruh harta peninggalan anaknya yang meninggal tanpa meninggalkan keturunan, suami atau isteri, saudara laki-laki atau perempuan.
+
+## Pasal 860
+
+> Sebutan saudara laki-laki dan saudara perempuan yang terdapat dalam bagian ini, selalu mencakup juga keturunan sah mereka masing-masing.
+
+## Pasal 861
+
+> Keluarga-keluarga sedarah yang hubungannya dengan yang meninggal dunia itu lebih jauh dan derajat keenam dalam garis ke samping, tidak mendapat warisan. Bila dalam garis yang satu tidak ada keluarga sedarah dalam derajat yang mengizinkan untuk mendapat warisan, maka keluarga-keluarga sedarah dalam garis yang lain memperoleh seluruh warisan.
+
+## Pasal 876
+
+> Ketetapan-ketetapan dengan surat wasiat tentang harta benda dapat juga dibuat secara umum, dapat juga dengan alas hak umum, dan dapat juga dengan alas hak khusus. Tiap-tiap ketetapan demikian, baik yang dibuat dengan nama pengangkatan ahli waris, maupun yang dengan nama hibah wasiat, ataupun yang dengan nama lain, mempunyai kekuatan menurut peraturan-peraturan yang ditetapkan dalam bab ini.
+
+## Pasal 879
+
+> Pengangkatan ahli waris yang bersifat melompat atau substitusi fidelcommissaire adalah dilarang. Dengan demikian, bahkan terhadap ahli waris yang diangkat atau yang menerima hibah wasiat adalah batal dan tidaklah berharga setiap penetapan yang memerintahkannya untuk menyimpan warisan atau hibah wasiat dan untuk menyerahkan seluruhnya atau sebagian kepada pihak ketiga.
+
+## Pasal 885
+
+> Bila kata-kata sebuah surat wasiat telah jelas, maka surat itu tidak boleh ditafsirkan dengan menyimpang dan kata-kata itu.
+
+## Pasal 895
+
+> Untuk dapat membuat atau menarik kembali suatu wasiat, orang harus mempunyai kemampuan bernalar.
+
+## Pasal 897
+
+> Anak-anak di bawah umur yang belum mencapai umur delapan belas tahun penuh, tidak diperkenankan membuat surat wasiat.
+
+## Pasal 899
+
+> Untuk dapat menikmati sesuatu berdasarkan surat wasiat, seseorang harus sudah ada pada saat pewaris meninggal, dengan mengindahkan peraturan yang ditetapkan dalam Pasal 2 undang- undang ini. Ketentuan ini tidak berlaku bagi orang-orang yang diberi hak untuk mendapat keuntungan dari yayasan-yayasan.
+
+## Pasal 912
+
+> Orang yang dijatuhi hukuman karena telah membunuh pewaris, orang yang telah menggelapkan, memusnahkan atau memalsukan surat wasiat pewaris, atau orang yang dengan paksaan atau kekerasan telah menghalangi pewaris untuk mencabut atau mengubah surat wasiatnya, serta isteri atau suaminya dan anak-anakniya, tidak boleh menikmati suatu keuntungan pun dari wasiat itu.
+
+## Pasal 915
+
+> Dalam garis ke atas legitieme portie itu selalu sebesar separuh dari apa yang menurut undang- undang menjadi bagian tiap-tiap keluarga sedarah dalam garis itu pada pewarisan karena kematian.
+
+## Pasal 916
+
+> Legitieme portie dan anak yang lahir di luar perkawinan tetapi telah diakui dengan sah, ialah seperdua dari bagian yang oleh undang-undang sedianya diberikan kepada anak di luar kawin itu pada pewarisan karena kematian.
+
+## Pasal 917
+
+> Bila keluarga sedarah dalam garis ke atas dan garis ke bawah dan anak-anak di luar kawin yang diakui menurut undang-undang tidak ada, maka hibah-hibah dengan akta yang diadakan antara mereka yang masih hidup atau dengan surat wasiat, dapat mencakup seluruh harta peninggalan.
+
+## Pasal 921
+
+> Untuk menentukan besarnya legitieme portie, pertama-tama hendaknya dijumlahkan semua harta yang ada pada waktu si pemberi atau pewanis meninggal dunia; kemudian ditambahkan jumlah barang-barang yang telah dihibahkan semasa ia masih hidup, dinilai menurut keadaan pada waktu meninggalnya si penghibah akhirnya; setelah dikurangkan utang-utang dan seluruh harta peninggalan itu, dihitunglah dan seluruh harta itu berapa bagian warisan yang dapat mereka tuntut, sebanding dengan derajat para legitimaris, dan dari bagian-bagian itu dipotong apa yang telah mereka terima dan yang meninggal, pun sekiranya mereka dibebaskan dan perhitungan kembali.
+
+## Pasal 930
+
+> Tidaklah diperkenankan dua orang atau lebih membuat wasiat dalam satu akta yang sama, baik untuk keuntungan pihak ketiga maupun berdasarkan penetapan timbal balik atau bersama.
+
+## Pasal 931
+
+> Surat wasiat hanya boleh dibuat, dengan akta olografis atau ditulis tangan sendiri, dengan akta umum atau dengan akta rahasia atau akta tertutup.
+
+## Pasal 938
+
+> Wasiat dengan akta umum harus dibuat di hadapan Notaris dan dua orang saksi.
+
+## Pasal 1031
+
+> Ahli waris kehilangan hak istimewa pemerincian, dan dianggap sebagai ahli waris murni: 1. bila ia dengan sadar dan sengaja, serta dengan itikad buruk, tidak memasukkan barang- barang yang termasuk harta peninggalan ke dalam pemerincian harta itu; 2. bila ia berbuat salah dengan menggelapkan barang-barang yang termasuk warisan itu.
+
+## Pasal 1032
+
+> Hak istimewa untuk mengadakan pemerincian mempunyai akibat: 1. bahwa ahli waris itu tidak wajib membayar utang-utang dan beban-beban harta peninggalan itu Iebih daripada jumlah harga barang-barang yang termasuk warisan itu, dan bahkan bahwa ia dapat membebaskan diri dari pembayaran itu, dengan menyerahkan semua barang-barang yang termasuk harta peninggalan itu kepada penguasaan para kreditur dan penerima hibah wasiat; 2. bahwa barang-barang para ahli waris sendiri tidak dicampur dengan barang-barang harta peninggalan itu, dan bahwa dia tetap berhak menagih piutang-piutangnya sendiri dari harta peninggalan itu.
+
+## Pasal 1047
+
+> Penerima suatu warisan berlaku surut sampai pada hari warisan itu terbuka.
+
+## Pasal 1059
+
+> Bagian warisan dari orang yang menolak warisan jatuh ke tangan orang yang sedianya berhak atas bagian itu, andaikata orang yang menolak itu tidak ada pada waktu pewaris meninggal.
+
+## Pasal 1060
+
+> Orang yang telah menolak warisan sekali-kali tidak dapat diwakili dengan penggantian ahli waris bila ia itu satu-satunya ahli waris dalam derajatnya, atau bila semua ahli waris menolak warisannya, maka anak-anak mereka menjadi ahli waris karena diri mereka sendiri dan mewarisi bagian yang sama.
+
+## Pasal 1062
+
+> Wewenang untuk menolak warisan tidak dapat hilang karena lewat waktu.

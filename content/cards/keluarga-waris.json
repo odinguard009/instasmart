@@ -2088,5 +2088,979 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-komorientes",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Ayah dan anak yang saling mewarisi meninggal dalam kecelakaan yang sama, tanpa diketahui siapa yang lebih dulu. Menurut Pasal 831 KUH Perdata, mereka…",
+    "options": [
+      "Dianggap yang lebih muda meninggal dulu",
+      "Diundi oleh Balai Harta Peninggalan",
+      "Dianggap ayah meninggal lebih dahulu",
+      "Dianggap meninggal pada saat yang sama"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 831 tidak memakai dugaan umur atau jenis kelamin; semuanya dianggap meninggal pada saat yang sama. Akibatnya terhadap peralihan warisan, cek teks terjemahan resmi, karena berkas terjemahan yang dikutip berbeda dari rumusan yang lazim.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 831",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-hereditatis-petitio",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 834 KUH Perdata, gugatan ahli waris untuk memperoleh warisannya dapat diajukan terhadap pemegang besit atas warisan yang…",
+    "options": [
+      "Masih keluarga sedarah pewaris saja",
+      "Memegang dengan atau tanpa alas hak",
+      "Memegang tanpa alas hak saja",
+      "Memegang dengan alas hak yang sah saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gugatan ini (hereditatis petitio) juga dapat diajukan terhadap orang yang dengan licik menghentikan besitnya. Tujuannya menuntut penyerahan barang warisan beserta penghasilan dan ganti rugi.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 834",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-daluwarsa-30",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 835 KUH Perdata, tuntutan ahli waris atas warisannya lewat waktu setelah…",
+    "options": [
+      "5 tahun sejak terbukanya warisan",
+      "10 tahun sejak pewaris dimakamkan",
+      "30 tahun sejak gugatan pertama",
+      "30 tahun sejak terbukanya warisan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Warisan terbuka karena kematian (Pasal 830). Hitungan 30 tahun dimulai dari hari terbukanya warisan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 830, 835",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-tak-pantas-hasil",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Ahli waris yang ternyata tidak pantas (onwaardig) sudah menikmati hasil warisan. Menurut Pasal 839 KUH Perdata, ia wajib…",
+    "options": [
+      "Membayar denda dua kali nilai hasilnya",
+      "Menyimpan hasil itu sampai anaknya dewasa",
+      "Mengembalikan hasil sejak putusan hakim berkekuatan tetap",
+      "Mengembalikan hasil dan pendapatan sejak warisan terbuka"
+    ],
+    "answerIndex": 3,
+    "explanation": "Alasan tidak pantas ada di Pasal 838, antara lain dihukum karena membunuh atau mencoba membunuh pewaris.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 838, 839",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-anak-tak-pantas",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Ayah dinyatakan tidak pantas mewarisi dari kakek. Menurut Pasal 840 KUH Perdata, anak-anak sang ayah yang merasa menjadi ahli waris…",
+    "options": [
+      "Harus izin Pengadilan Negeri lebih dulu",
+      "Ikut dikecualikan karena kesalahan ayah mereka",
+      "Tidak dikecualikan karena kesalahan ayahnya",
+      "Hanya mendapat setengah bagian ayahnya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kesalahan orang tua tidak ditimpakan ke anak. Tetapi orang tua itu tidak berhak atas hak nikmat hasil atas bagian yang diterima anaknya.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 840",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-penggantian-arti",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 841 KUH Perdata, penggantian (plaatsvervulling) memberi hak kepada orang yang mengganti untuk…",
+    "options": [
+      "Bertindak dalam derajat dan segala hak yang digantikan",
+      "Memilih derajat yang paling menguntungkan baginya",
+      "Mendapat dua kali lipat bagian orang yang digantikannya",
+      "Menolak warisan atas nama orang yang digantikan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Contoh: cucu menggantikan ayahnya yang meninggal lebih dulu dalam warisan kakek, sehingga cucu menempati derajat ayahnya.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 841",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-tanpa-ganti-atas",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 843 KUH Perdata, penggantian TIDAK ada dalam garis…",
+    "options": [
+      "Lurus ke bawah",
+      "Lurus ke atas",
+      "Keturunan saudara",
+      "Ke samping (saudara)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dalam garis ke atas, keluarga sedarah terdekat selalu menyampingkan yang derajatnya lebih jauh. Penggantian dalam garis ke samping diatur Pasal 844-845.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 843, 844",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-masih-hidup",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 847 KUH Perdata, penggantian tempat terhadap orang yang masih hidup…",
+    "options": [
+      "Boleh bila ia sakit berat",
+      "Tidak boleh sama sekali",
+      "Boleh bila ia setuju",
+      "Boleh lewat akta notaris"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penggantian hanya untuk orang yang sudah meninggal lebih dahulu. Pasal 1060: orang yang menolak warisan juga tidak dapat diwakili dengan penggantian.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 847, 1060",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-pancang",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 846 KUH Perdata, bila penggantian diperkenankan, pembagian antara pancang-pancang dilakukan…",
+    "options": [
+      "Menurut wasiat terakhir",
+      "Pancang demi pancang",
+      "Kepala demi kepala",
+      "Menurut usia ahli waris"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pembagian per pancang (cabang keturunan). Di dalam satu cabang yang sama, antar-orang dibagi kepala demi kepala.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 846",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-asal-barang",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 849 KUH Perdata, dalam mengatur pewarisan menurut undang-undang, sifat atau asal-usul barang warisan…",
+    "options": [
+      "Diperhatikan khusus untuk tanah",
+      "Menentukan besar bagian anak",
+      "Menentukan garis ahli waris",
+      "Tidak diperhatikan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Jadi tidak ada pembedaan barang \"dari pihak ayah\" atau \"dari pihak ibu\" untuk menentukan siapa mewarisi barang tertentu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 849",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-kloving",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Warisan jatuh kepada keluarga garis ke atas atau ke samping. Menurut Pasal 850 KUH Perdata, warisan itu lebih dulu…",
+    "options": [
+      "Dibelah dua: garis ayah dan garis ibu",
+      "Dibagi rata kepada semua yang masih hidup",
+      "Diserahkan ke garis yang paling dekat",
+      "Dibagi tiga: ayah, ibu, dan saudara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pemecahan ini dikenal sebagai kloving. Warisan tidak beralih ke garis lain kecuali di satu garis tidak ada keluarga sedarah sama sekali.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 850, 853",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-ortu-1-saudara",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris tanpa keturunan dan tanpa suami/isteri; ayah, ibu, dan satu saudara masih hidup. Menurut Pasal 854 KUH Perdata, bagian ayah adalah…",
+    "options": [
+      "Sepertiga",
+      "Seperenam",
+      "Seperempat",
+      "Setengah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayah 1/3, ibu 1/3, saudara mendapat sisa 1/3.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 854",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-ortu-banyak-saudara",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris tanpa keturunan dan tanpa suami/isteri; ayah, ibu, dan tiga saudara masih hidup. Menurut Pasal 854 KUH Perdata, bagian ibu adalah…",
+    "options": [
+      "Sepertiga",
+      "Dua pertiga",
+      "Seperenam",
+      "Seperempat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bila saudara lebih dari satu, ayah dan ibu masing-masing 1/4; para saudara berbagi sisa 2/4.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 854",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-satu-ortu-2-saudara",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris tanpa keturunan dan tanpa suami/isteri; tinggal ibu dan dua saudara. Menurut Pasal 855 KUH Perdata, bagian ibu adalah…",
+    "options": [
+      "Seperempat",
+      "Sepertiga",
+      "Seperenam",
+      "Setengah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 855: orang tua yang hidup terlama mendapat 1/2 bila ada satu saudara, 1/3 bila dua saudara, 1/4 bila lebih dari dua. Sisanya untuk saudara.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 855",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-tanpa-ortu",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris tanpa keturunan, tanpa suami/isteri, dan kedua orang tuanya sudah meninggal lebih dahulu. Menurut Pasal 856 KUH Perdata, warisannya jatuh kepada…",
+    "options": [
+      "Negara, melalui Balai Harta Peninggalan",
+      "Saudara laki-laki dan perempuan seluruhnya",
+      "Paman dan bibi dari kedua garis",
+      "Kakek nenek dan para saudara, dibagi dua sama"
+    ],
+    "answerIndex": 1,
+    "explanation": "Saudara mewarisi seluruh warisan. Menurut Pasal 860, sebutan saudara mencakup juga keturunan sah mereka.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 856, 860",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-saudara-tiri",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Pewaris meninggalkan saudara kandung (sebapak seibu) dan saudara seibu saja. Menurut Pasal 857 KUH Perdata, saudara seibu saja mendapat bagian dari…",
+    "options": [
+      "Kedua garis",
+      "Garis ibu saja",
+      "Garis ayah saja",
+      "Sisa setelah saudara kandung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bagian saudara dibelah dua antara garis bapak dan garis ibu; saudara kandung ikut di kedua garis, saudara tiri hanya di garisnya sendiri.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 857",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-derajat-6",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 861 KUH Perdata, keluarga sedarah dalam garis ke samping tidak mendapat warisan bila hubungannya lebih jauh dari derajat…",
+    "options": [
+      "Kedelapan",
+      "Ketiga",
+      "Keempat",
+      "Keenam"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bila di satu garis tidak ada keluarga sedarah dalam derajat yang diizinkan, keluarga sedarah di garis yang lain memperoleh seluruh warisan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 861",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-pasangan-kedua",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Suami dari perkawinan kedua mewarisi bersama anak-anak isteri dari perkawinan pertama. Menurut Pasal 852a KUH Perdata, bagian suami itu paling banyak…",
+    "options": [
+      "Setengah harta peninggalan",
+      "Sepertiga harta peninggalan",
+      "Sama dengan bagian anak terbesar",
+      "Seperempat harta peninggalan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bagiannya juga tidak boleh melebihi bagian terkecil yang diterima salah seorang anak dari perkawinan terdahulu. Di luar kasus ini, pasangan disamakan dengan anak sah.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 852a",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-fideicommis",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Wasiat berbunyi: \"Rumah untuk A, tetapi A wajib menyimpannya lalu menyerahkannya kepada B.\" Menurut Pasal 879 KUH Perdata, ketetapan seperti itu…",
+    "options": [
+      "Sah tetapi hanya untuk barang bergerak",
+      "Dilarang, batal, dan tidak berharga",
+      "Sah bila dibuat dengan akta notaris",
+      "Sah asalkan B sudah dewasa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ini pengangkatan ahli waris melompat (fideicommis). Pengecualiannya diatur dalam Bagian 7 dan 8 bab itu (Pasal 880).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 879, 880",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-tafsir-jelas",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 885 KUH Perdata, bila kata-kata surat wasiat sudah jelas, maka surat itu…",
+    "options": [
+      "Tidak boleh ditafsirkan menyimpang dari kata-kata itu",
+      "Ditafsirkan sesuai kesepakatan seluruh para ahli waris",
+      "Tetap ditafsirkan menurut kebiasaan setempat pewaris",
+      "Ditafsirkan oleh notaris yang membuatnya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penafsiran baru diperlukan bila kata-katanya tidak jelas.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 885",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-umur-wasiat",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 897 KUH Perdata, anak di bawah umur yang belum mencapai umur berapa tahun penuh tidak diperkenankan membuat surat wasiat?",
+    "options": [
+      "17 tahun",
+      "16 tahun",
+      "18 tahun",
+      "21 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Selain umur, Pasal 895 mensyaratkan pembuat wasiat mempunyai kemampuan bernalar.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 895, 897",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-harus-ada",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 899 KUH Perdata, untuk dapat menikmati sesuatu berdasarkan surat wasiat, seseorang harus sudah ada pada saat…",
+    "options": [
+      "Pewaris meninggal",
+      "Wasiat dibuat",
+      "Wasiat dibuka notaris",
+      "Warisan dibagi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 899 menunjuk Pasal 2 (anak dalam kandungan dianggap telah lahir bila kepentingannya menghendaki). Ketentuan ini tidak berlaku bagi yang diberi hak mendapat keuntungan dari yayasan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 899",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-wasiat-bersama",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Suami dan isteri ingin membuat wasiat timbal balik dalam satu akta yang sama. Menurut Pasal 930 KUH Perdata, hal itu…",
+    "options": [
+      "Boleh bila tanpa anak",
+      "Tidak diperkenankan",
+      "Boleh dengan 4 saksi",
+      "Boleh di hadapan notaris"
+    ],
+    "answerIndex": 1,
+    "explanation": "Larangan berlaku baik untuk keuntungan pihak ketiga maupun penetapan timbal balik atau bersama. Masing-masing harus membuat wasiat sendiri.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 930",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-bentuk-wasiat",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 931 KUH Perdata, surat wasiat hanya boleh dibuat dengan…",
+    "options": [
+      "Akta olografis yang disahkan pengadilan",
+      "Akta olografis, akta umum, atau akta rahasia",
+      "Akta umum atau surat di bawah tangan biasa",
+      "Pernyataan lisan di hadapan dua orang saksi dewasa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Olografis = ditulis tangan sendiri dan ditandatangani, lalu dititipkan kepada notaris (Pasal 932).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 931, 932",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-akta-umum-saksi",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 938 KUH Perdata, wasiat dengan akta umum harus dibuat di hadapan notaris dan…",
+    "options": [
+      "Tanpa saksi",
+      "Dua orang saksi",
+      "Empat orang saksi",
+      "Satu orang saksi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bandingkan wasiat rahasia/tertutup: diserahkan kepada notaris di hadapan empat orang saksi (Pasal 940).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 938, 940",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-rahasia-saksi",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 940 KUH Perdata, wasiat tertutup atau rahasia diserahkan kepada notaris dalam keadaan tertutup dan disegel di hadapan…",
+    "options": [
+      "Empat orang saksi",
+      "Dua orang saksi",
+      "Hakim dan panitera",
+      "Tiga orang saksi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pewaris menandatangani penetapannya, baik ditulis sendiri maupun oleh orang lain, lalu notaris membuat akta penjelasan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 940",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-lp-ke-atas",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 915 KUH Perdata, legitieme portie keluarga sedarah dalam garis ke atas selalu sebesar…",
+    "options": [
+      "Seluruh bagian menurut undang-undang",
+      "Sepertiga bagian menurut undang-undang",
+      "Separuh bagian menurut undang-undang",
+      "Tiga perempat bagian menurut undang-undang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Untuk anak sah dalam garis ke bawah, besarnya bertingkat menurut jumlah anak (Pasal 914).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 914, 915",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-lp-luar-kawin",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 916 KUH Perdata, legitieme portie anak luar kawin yang telah diakui dengan sah adalah…",
+    "options": [
+      "Seperdua bagiannya menurut undang-undang",
+      "Tidak ada legitieme portie",
+      "Sama dengan bagian anak sah",
+      "Sepertiga bagiannya menurut undang-undang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Patokannya adalah bagian yang oleh undang-undang sedianya diberikan kepada anak luar kawin itu pada pewarisan karena kematian.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 916",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-tanpa-legitimaris",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 917 KUH Perdata, bila tidak ada keluarga sedarah garis ke atas dan ke bawah serta anak luar kawin yang diakui, hibah dan wasiat dapat mencakup…",
+    "options": [
+      "Seluruh harta peninggalan",
+      "Paling banyak separuh harta",
+      "Hanya barang bergerak",
+      "Paling banyak sepertiga harta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tanpa legitimaris, tidak ada bagian mutlak yang harus dilindungi.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 917",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-hitung-lp",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 921 KUH Perdata, untuk menentukan besarnya legitieme portie, harta saat pewaris meninggal…",
+    "options": [
+      "Dihitung hanya dari barang yang tidak dihibahkan",
+      "Dikurangi hibah semasa hidup dan dikurangi utang",
+      "Dihitung tanpa hibah sama sekali, lalu ditambah utang",
+      "Ditambah hibah semasa hidup, lalu dikurangi utang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hibah semasa hidup dinilai menurut keadaan saat penghibah meninggal. Dari bagian legitimaris dipotong apa yang telah mereka terima dari pewaris.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 921",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-beneficiair",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Ahli waris menerima warisan dengan hak istimewa pemerincian harta (beneficiair). Menurut Pasal 1032 KUH Perdata, ia…",
+    "options": [
+      "Bebas dari semua utang pewaris tanpa menyerahkan apa pun",
+      "Wajib melunasi semua utang pewaris dari harta pribadinya",
+      "Hanya wajib membayar utang yang tercatat di akta notaris",
+      "Tidak wajib membayar utang melebihi harga barang warisan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Barang pribadi ahli waris juga tidak dicampur dengan harta peninggalan, dan ia tetap dapat menagih piutangnya sendiri dari harta itu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1023, 1032",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-hilang-beneficiair",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 1031 KUH Perdata, ahli waris kehilangan hak istimewa pemerincian dan dianggap ahli waris murni bila ia…",
+    "options": [
+      "Menggelapkan barang yang termasuk warisan",
+      "Meminta waktu berpikir kepada pengadilan",
+      "Menjual barang warisan dengan izin hakim",
+      "Terlambat sehari menyerahkan daftar harta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alasan lain: dengan sadar, sengaja, dan beritikad buruk tidak memasukkan barang warisan ke dalam pemerincian.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1031",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-terima-surut",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 1047 KUH Perdata, penerimaan suatu warisan berlaku…",
+    "options": [
+      "Sejak semua utang pewaris lunas",
+      "Sejak akta penerimaan ditandatangani",
+      "Sejak didaftarkan di pengadilan",
+      "Surut sampai hari warisan terbuka"
+    ],
+    "answerIndex": 3,
+    "explanation": "Warisan terbuka karena kematian (Pasal 830), jadi akibat penerimaan dihitung sejak hari itu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 830, 1047",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-bagian-penolak",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 1059 KUH Perdata, bagian warisan orang yang menolak warisan jatuh kepada…",
+    "options": [
+      "Penerima hibah wasiat terbesar",
+      "Anak-anak si penolak lewat penggantian tempat",
+      "Yang sedianya berhak andai penolak tidak ada",
+      "Negara melalui Balai Harta Peninggalan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penolak dianggap tidak pernah menjadi ahli waris (Pasal 1058) dan tidak dapat diwakili dengan penggantian (Pasal 1060).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1058, 1059, 1060",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-tolak-daluwarsa",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 1062 KUH Perdata, wewenang untuk menolak warisan…",
+    "options": [
+      "Hilang setelah lewat waktu 4 bulan",
+      "Hilang setelah warisan dibagi",
+      "Hilang setelah lewat waktu 30 tahun sejak kematian",
+      "Tidak dapat hilang karena lewat waktu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bandingkan tuntutan ahli waris atas warisannya (Pasal 835) yang lewat waktu setelah 30 tahun.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 835, 1062",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-tak-pantas-wasiat",
+    "type": "quiz",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "nikah.waris.notes",
+    "question": "Menurut Pasal 912 KUH Perdata, siapa yang tidak boleh menikmati keuntungan dari wasiat karena pembuatnya dibunuh oleh penerima wasiat?",
+    "options": [
+      "Pembunuh saja, keluarganya tetap boleh",
+      "Tidak ada, wasiat tetap berlaku penuh",
+      "Pembunuh, beserta suami/isteri dan anaknya",
+      "Pembunuh dan seluruh keluarga sedarahnya juga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bandingkan Pasal 840 untuk pewarisan menurut undang-undang: anak orang yang tidak pantas tidak dikecualikan karena kesalahan orang tuanya.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 840, 912",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-humor-masih-hidup",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Cucu: \"Aku maju jadi pengganti Papa di warisan Kakek.\"",
+      "bottom": "Papa (masih hidup): \"Papa di sini, Nak.\"",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Plaatsvervulling bukan sistem kudeta.",
+    "teaches": "Pasal 847 KUH Perdata: tak seorang pun boleh menggantikan orang yang masih hidup. Cucu baru dapat menggantikan ayahnya dalam warisan kakek bila ayahnya sudah meninggal lebih dahulu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 841, 847",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-humor-utang-bonus",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Paket warisan lengkap",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Warisan Om: rumah tua!"
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Bonus: utang 2 miliar."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Terima dengan pemerincian harta saja."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Bayar utang maks. senilai warisan."
+        }
+      ]
+    },
+    "caption": "Warisan datang satu paket: aset dan utangnya. Untung ada fitur pemerincian.",
+    "teaches": "Pasal 1032 KUH Perdata: ahli waris yang menerima dengan hak istimewa pemerincian harta tidak wajib membayar utang pewaris lebih dari harga barang warisan, dan harta pribadinya tidak dicampur dengan harta peninggalan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1023, 1032",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "keluarga-waris-bw3-humor-wasiat-berdua",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "waris-perdata",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Wasiat couple",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Sayang, wasiat kita satu akta aja ya. Hemat."
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Romantis! Saling mewariskan."
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Pasal 930: dilarang."
+        },
+        {
+          "character": "kancil",
+          "expression": "sad",
+          "text": "Hemat kertas, boros sengketa."
+        }
+      ]
+    },
+    "caption": "Cinta boleh sehidup semati, aktanya jangan.",
+    "teaches": "Pasal 930 KUH Perdata: dua orang atau lebih tidak boleh membuat wasiat dalam satu akta yang sama, baik untuk pihak ketiga maupun dengan penetapan timbal balik. Masing-masing membuat wasiat sendiri.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 930",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

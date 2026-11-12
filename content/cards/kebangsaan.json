@@ -1004,5 +1004,392 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea1-alasan",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Menurut alinea pertama Pembukaan UUD 1945, penjajahan harus dihapuskan karena…",
+    "options": [
+      "Merugikan perdagangan dan ekonomi antarbangsa di kawasan Asia",
+      "Menghambat persatuan bangsa Indonesia",
+      "Bertentangan dengan Piagam PBB",
+      "Tidak sesuai dengan peri-kemanusiaan dan peri-keadilan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Alinea pertama: \"kemerdekaan itu ialah hak segala bangsa dan oleh sebab itu, maka penjajahan di atas dunia harus dihapuskan, karena tidak sesuai dengan peri-kemanusiaan dan peri-keadilan.\"",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea pertama",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea1-hak",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Alinea pertama Pembukaan UUD 1945 menyatakan bahwa kemerdekaan itu ialah…",
+    "options": [
+      "Hadiah dari bangsa lain",
+      "Hak bangsa Indonesia saja",
+      "Hak segala bangsa",
+      "Kewajiban negara besar"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"Bahwa sesungguhnya kemerdekaan itu ialah hak segala bangsa\". Karena itu penjajahan di atas dunia harus dihapuskan.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea pertama",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea2-sifat",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Alinea kedua menyebut Negara Indonesia yang dicita-citakan sebagai negara yang…",
+    "options": [
+      "Aman, damai, sejahtera, religius, dan berbudaya luhur",
+      "Maju, modern, kuat, dan disegani",
+      "Bebas, aktif, mandiri, dan berwibawa",
+      "Merdeka, bersatu, berdaulat, adil dan makmur"
+    ],
+    "answerIndex": 3,
+    "explanation": "Alinea kedua: perjuangan pergerakan kemerdekaan telah mengantarkan rakyat ke depan pintu gerbang kemerdekaan Negara Indonesia \"yang merdeka, bersatu, berdaulat, adil dan makmur.\"",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea kedua",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea2-pintu",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Menurut alinea kedua, perjuangan pergerakan kemerdekaan telah mengantarkan rakyat Indonesia…",
+    "options": [
+      "Ke depan pintu gerbang kemerdekaan",
+      "Ke dalam kemerdekaan penuh dan sempurna",
+      "Ke meja perundingan internasional",
+      "Ke puncak kejayaan dan kemakmuran bangsa"
+    ],
+    "answerIndex": 0,
+    "explanation": "\"…mengantarkan rakyat Indonesia ke depan pintu gerbang kemerdekaan Negara Indonesia…\". Kalimat ini sering dipakai untuk menjelaskan bahwa kemerdekaan adalah awal, bukan akhir perjuangan.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea kedua",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea3-berkat",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Alinea ketiga Pembukaan UUD 1945 dibuka dengan frasa…",
+    "options": [
+      "Demi persatuan dan kesatuan bangsa",
+      "Atas berkat rakhmat Allah Yang Maha Kuasa",
+      "Dengan rahmat dan karunia Tuhan Yang Maha Esa",
+      "Kemudian dari pada itu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alinea ketiga: \"Atas berkat rakhmat Allah Yang Maha Kuasa dan dengan didorongkan oleh keinginan luhur, supaya berkehidupan kebangsaan yang bebas, maka rakyat Indonesia menyatakan dengan ini kemerdekaannya.\" \"Kemudian dari pada itu\" adalah pembuka alinea keempat.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea ketiga",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea3-isi",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Inti alinea ketiga Pembukaan UUD 1945 adalah…",
+    "options": [
+      "Pernyataan kemerdekaan rakyat Indonesia",
+      "Tujuan negara Indonesia",
+      "Rumusan lima dasar negara yang dicita-citakan",
+      "Penolakan penjajahan di dunia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alinea ketiga diakhiri \"maka rakyat Indonesia menyatakan dengan ini kemerdekaannya.\" Rumusan dasar negara dan tujuan negara ada di alinea keempat; penolakan penjajahan di alinea pertama.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea ketiga",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea4-sila2",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Rumusan sila kedua dalam alinea keempat Pembukaan UUD 1945 adalah…",
+    "options": [
+      "Kemanusiaan yang beradab dan berbudaya",
+      "Kemanusiaan Yang Adil dan Beradab",
+      "Kemanusiaan dan keadilan sosial",
+      "Perikemanusiaan yang adil dan makmur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alinea keempat: \"…Ketuhanan Yang Maha Esa, Kemanusiaan Yang Adil dan Beradab, Persatuan Indonesia dan Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam Permusyawaratan/Perwakilan, serta dengan mewujudkan suatu Keadilan sosial bagi seluruh rakyat Indonesia.\"",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea keempat",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea4-sila4",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Lengkapi rumusan dalam alinea keempat: \"Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam…\"",
+    "options": [
+      "Musyawarah untuk mufakat",
+      "Permusyawaratan/Perwakilan",
+      "Demokrasi dan perwakilan rakyat",
+      "Lembaga perwakilan rakyat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rumusan dalam naskah: \"Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam Permusyawaratan/Perwakilan\".",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea keempat",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea4-berkedaulatan",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Menurut alinea keempat, Undang-Undang Dasar itu terbentuk dalam suatu susunan Negara Republik Indonesia yang…",
+    "options": [
+      "Berbentuk kerajaan konstitusional",
+      "Berdasarkan kekuasaan semata",
+      "Berkedaulatan rakyat",
+      "Berbentuk federasi"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"…dalam suatu Undang-Undang Dasar Negara Indonesia, yang terbentuk dalam suatu susunan Negara Republik Indonesia yang berkedaulatan rakyat dengan berdasarkan kepada…\" kelima sila.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea keempat",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea4-ketertiban",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Ketertiban dunia yang ikut dilaksanakan Indonesia, menurut alinea keempat, berdasarkan…",
+    "options": [
+      "Persatuan, kesatuan, dan gotong royong",
+      "Kekuatan militer dan perjanjian internasional bersama",
+      "Hukum internasional dan Piagam PBB",
+      "Kemerdekaan, perdamaian abadi dan keadilan sosial"
+    ],
+    "answerIndex": 3,
+    "explanation": "\"…ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi dan keadilan sosial\".",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea keempat",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-alinea4-lokasi",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "question": "Rumusan lima dasar negara (Pancasila) dalam Pembukaan UUD 1945 terdapat di…",
+    "options": [
+      "Alinea kedua",
+      "Alinea ketiga",
+      "Alinea keempat",
+      "Alinea pertama"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kelima sila disebut di bagian akhir alinea keempat, setelah tujuan negara. Kata \"Pancasila\" sendiri tidak tertulis dalam Pembukaan; yang tertulis adalah rumusan kelima silanya.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea keempat",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-terdiri-atas",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Menurut Aturan Tambahan Pasal II, setelah perubahan, UUD NRI Tahun 1945 terdiri atas…",
+    "options": [
+      "Pembukaan, batang tubuh, dan penjelasan",
+      "Pasal-pasal dan penjelasan",
+      "Pembukaan dan penjelasan",
+      "Pembukaan dan pasal-pasal"
+    ],
+    "answerIndex": 3,
+    "explanation": "Aturan Tambahan Pasal II (Perubahan Keempat): \"…Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 terdiri atas Pembukaan dan pasal-pasal.\" Penjelasan tidak lagi menjadi bagian UUD.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Aturan Tambahan Pasal II",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-37-pasal-pasal",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Pasal 37 ayat (1)-(4) UUD 1945 mengatur tata cara perubahan atas…",
+    "options": [
+      "Pasal-pasal Undang-Undang Dasar",
+      "Pembukaan UUD dan Penjelasannya saja",
+      "Ketetapan MPR beserta lampirannya",
+      "Pembukaan dan pasal-pasal UUD"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 37 ayat (1)-(4) menyebut \"pasal-pasal Undang-Undang Dasar\". Ayat (5): khusus bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pasal 37",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-tanpa-bintang",
+    "type": "quiz",
+    "topicId": "kebangsaan",
+    "subTopicId": "sejarah-konstitusi",
+    "account": "nusantara.pintar",
+    "question": "Dalam naskah UUD 1945 satu naskah terbitan MPR, Pembukaan tidak bertanda bintang. Artinya…",
+    "options": [
+      "Pembukaan dihapus seluruhnya pada Perubahan Keempat",
+      "Pembukaan tidak diubah dalam empat perubahan",
+      "Pembukaan diubah pada Perubahan Pertama",
+      "Pembukaan belum disahkan MPR"
+    ],
+    "answerIndex": 1,
+    "explanation": "Naskah MPR menandai rumusan hasil perubahan dengan *) sampai ****) (Perubahan Pertama sampai Keempat). Rumusan tanpa tanda adalah rumusan asli.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan; keterangan tanda bintang naskah MPR",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-humor-pintu-gerbang",
+    "type": "humor",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "meme",
+      "top": "Alinea kedua: \"…ke depan pintu gerbang kemerdekaan\"",
+      "bottom": "Sebagian orang: sampai depan pintu, lalu rebahan.",
+      "character": "kancil",
+      "expression": "think"
+    },
+    "caption": "Pintunya sudah sampai. Masuk dan mengisinya itu tugas berikutnya.",
+    "teaches": "Alinea kedua Pembukaan UUD 1945: perjuangan pergerakan kemerdekaan mengantarkan rakyat Indonesia ke depan pintu gerbang kemerdekaan Negara Indonesia yang merdeka, bersatu, berdaulat, adil dan makmur.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea kedua",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kebangsaan-pemb-humor-hafal-sila",
+    "type": "humor",
+    "topicId": "kebangsaan",
+    "subTopicId": "pancasila",
+    "account": "nusantara.pintar",
+    "visual": {
+      "template": "comic",
+      "title": "Hafalan campur aduk",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Sila kedua? Gampang: Kemanusiaan yang adil dan makmur."
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Makmur itu dari alinea kedua."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Lalu yang benar?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Kemanusiaan Yang Adil dan Beradab. Adil dan makmur: sifat negara."
+        }
+      ]
+    },
+    "caption": "Hafal itu bagus. Hafal yang benar lebih bagus.",
+    "teaches": "Alinea keempat Pembukaan UUD 1945 merumuskan sila kedua \"Kemanusiaan Yang Adil dan Beradab\". Frasa \"adil dan makmur\" ada di alinea kedua sebagai sifat Negara Indonesia yang dicita-citakan.",
+    "source": {
+      "title": "UUD Negara Republik Indonesia Tahun 1945",
+      "reference": "Pembukaan, alinea kedua dan keempat",
+      "url": "https://www.mpr.go.id/uploads/jdih/UUD_1945_DALAM_SATU_NASKAH.pdf"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

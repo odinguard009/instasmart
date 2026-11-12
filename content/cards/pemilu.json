@@ -1604,5 +1604,667 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-asas-vs-prinsip",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Dalam UU 7/2017, \"luber jurdil\" disebut asas (Pasal 2). Lalu \"mandiri, profesional, akuntabel\" disebut…",
+    "options": [
+      "Tujuan pengaturan pemilu dalam Pasal 4",
+      "Asas tambahan yang menggantikan luber jurdil sejak 2017",
+      "Syarat menjadi peserta pemilu dalam Pasal 173",
+      "Prinsip penyelenggaraan yang wajib dipenuhi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 3: penyelenggara melaksanakan pemilu berdasarkan asas Pasal 2 dan penyelenggaraannya harus memenuhi 11 prinsip: mandiri, jujur, adil, berkepastian hukum, tertib, terbuka, proporsional, profesional, akuntabel, efektif, efisien.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 2-3",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-prinsip-bukan",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Manakah yang TIDAK termasuk 11 prinsip penyelenggaraan pemilu dalam Pasal 3 UU 7/2017?",
+    "options": [
+      "Efisien",
+      "Berkepastian hukum",
+      "Proporsional",
+      "Populer"
+    ],
+    "answerIndex": 3,
+    "explanation": "Prinsipnya: mandiri, jujur, adil, berkepastian hukum, tertib, terbuka, proporsional, profesional, akuntabel, efektif, efisien. Populer tidak termasuk, walau sering dikejar.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 3",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-tujuan",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Manakah yang termasuk tujuan pengaturan penyelenggaraan pemilu menurut Pasal 4 UU 7/2017?",
+    "options": [
+      "Mengurangi jumlah pemilih di luar negeri",
+      "Mencegah duplikasi pengaturan Pemilu",
+      "Membatasi jumlah partai menjadi tiga",
+      "Menjamin kemenangan partai yang sedang berkuasa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 4: memperkuat sistem ketatanegaraan demokratis; pemilu adil dan berintegritas; konsistensi sistem pemilu; kepastian hukum dan mencegah duplikasi; pemilu efektif dan efisien.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-kpu-susunan",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Menurut Pasal 6 UU 7/2017, manakah yang termasuk dalam susunan KPU?",
+    "options": [
+      "Panwaslu Kecamatan dan Pengawas TPS",
+      "DKPP",
+      "Gakkumdu",
+      "PPK, PPS, dan KPPS"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 6: KPU terdiri atas KPU, KPU Provinsi, KPU Kab/Kota, PPK, PPS, PPLN, KPPS, dan KPPSLN. Panwaslu dan Pengawas TPS ada di bawah Bawaslu (Pasal 89).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-kpu-bebas",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Pasal 7 ayat (3) UU 7/2017 menyatakan bahwa dalam menyelenggarakan Pemilu, KPU…",
+    "options": [
+      "Bebas dari pengaruh pihak mana pun terkait tugas dan wewenangnya",
+      "Wajib berkonsultasi dulu dengan Presiden sebelum mengambil setiap keputusan",
+      "Tunduk pada arahan menteri dalam negeri",
+      "Bertanggung jawab kepada partai politik peserta pemilu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 7: wilayah kerja KPU seluruh NKRI, tugasnya berkesinambungan, dan bebas dari pengaruh pihak mana pun.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-nonstruktural",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Kedudukan KPU, KPU Provinsi, dan KPU Kabupaten/Kota menurut Pasal 8 ayat (4) UU 7/2017 adalah…",
+    "options": [
+      "Unit pelaksana teknis kementerian",
+      "Lembaga nonstruktural",
+      "Alat kelengkapan DPR",
+      "Badan usaha milik negara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 8: KPU berkedudukan di ibu kota negara; KPU Provinsi di ibu kota provinsi; semuanya lembaga nonstruktural.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 8",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-hierarkis-tetap",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Sifat KPU, KPU Provinsi, dan KPU Kabupaten/Kota menurut Pasal 9 UU 7/2017:",
+    "options": [
+      "Hierarkis dan ad hoc",
+      "Sejajar dan ad hoc",
+      "Hierarkis dan tetap",
+      "Otonom dan sementara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 9 ayat (1)-(2). KPU dibantu sekretariat jenderal; KPU daerah dibantu sekretariat.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 9",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-jumlah-kpu",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Jumlah anggota KPU (pusat) menurut Pasal 10 UU 7/2017:",
+    "options": [
+      "7 orang",
+      "5 orang",
+      "9 orang",
+      "11 orang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 10 ayat (1): KPU 7; KPU Provinsi 5 atau 7; KPU Kab/Kota 3 atau 5. Jumlah per daerah tercantum dalam Lampiran I.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 10 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-masa-jabatan",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Masa jabatan anggota KPU menurut Pasal 10 ayat (9) UU 7/2017:",
+    "options": [
+      "4 tahun, tidak dapat dipilih kembali",
+      "7 tahun, satu kali masa jabatan saja",
+      "5 tahun, dapat dipilih lagi satu kali pada tingkatan sama",
+      "5 tahun, dapat dipilih kembali tanpa batas berapa pun kali"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 10 ayat (9). Jabatan dihitung sejak pengucapan sumpah/janji (ayat (8)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 10 ayat (8)-(9)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-perempuan",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Komposisi keanggotaan KPU memperhatikan keterwakilan perempuan paling sedikit…",
+    "options": [
+      "20%",
+      "30%",
+      "50%",
+      "10%"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 10 ayat (7). Angka yang sama dipakai untuk Bawaslu (Pasal 92) dan tim seleksi (Pasal 22).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 10 ayat (7)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-ketua-tandatangan",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Menurut Pasal 11 UU 7/2017, tugas apa yang dimiliki Ketua KPU tetapi TIDAK berlaku bagi ketua KPU Provinsi dan Kabupaten/Kota?",
+    "options": [
+      "Memberi keterangan resmi tentang kegiatan lembaganya",
+      "Menandatangani Peraturan KPU",
+      "Bertanggung jawab kepada rapat pleno",
+      "Memimpin rapat pleno"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11 ayat (2): tugas Ketua KPU berlaku mutatis mutandis bagi ketua daerah, kecuali menandatangani Peraturan KPU. Ayat (3): semua ketua bertanggung jawab kepada rapat pleno.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 11",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-usia",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Usia paling rendah saat pendaftaran calon anggota KPU (pusat) menurut Pasal 21 UU 7/2017:",
+    "options": [
+      "30 tahun",
+      "35 tahun",
+      "40 tahun",
+      "45 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 21 ayat (1): 40 tahun untuk KPU, 35 untuk KPU Provinsi, 30 untuk KPU Kab/Kota.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 21 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-parpol",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Syarat calon anggota KPU terkait partai politik menurut Pasal 21 UU 7/2017 (rumusan 2017):",
+    "options": [
+      "Sudah mundur dari partai minimal 5 tahun saat mendaftar",
+      "Boleh tetap anggota partai asal bukan pengurus",
+      "Mundur dari partai 1 tahun sebelum mendaftar",
+      "Cukup mundur dari partai setelah resmi dilantik sebagai anggota"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 21 ayat (1). Syarat lain: tidak dalam ikatan perkawinan dengan sesama penyelenggara pemilu, bersedia bekerja penuh waktu. Cek perubahan/putusan MK sebelum dihafal.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 21 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-timsel",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Tim seleksi calon anggota KPU dibentuk Presiden dengan anggota paling banyak 11 orang, terdiri atas…",
+    "options": [
+      "4 pemerintah, 4 partai politik, 3 akademisi",
+      "3 pemerintah, 4 akademisi, 4 masyarakat",
+      "11 orang seluruhnya dari unsur akademisi",
+      "5 unsur DPR, 3 pemerintah, 3 akademisi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 22 ayat (1) dan (3). Tim membantu Presiden menetapkan calon yang diajukan kepada DPR (ayat (2)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 22",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-bawaslu-adhoc",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Menurut Pasal 89 ayat (5) UU 7/2017, manakah pengawas pemilu yang bersifat AD HOC?",
+    "options": [
+      "Panwaslu Kecamatan, Pengawas TPS",
+      "Bawaslu Provinsi beserta sekretariatnya",
+      "Bawaslu Kabupaten/Kota",
+      "Bawaslu (pusat) di ibu kota"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 89 ayat (4)-(5): Bawaslu, Bawaslu Provinsi, Bawaslu Kab/Kota bersifat tetap; Panwaslu Kecamatan, Panwaslu Kelurahan/Desa, Panwaslu LN, Pengawas TPS bersifat ad hoc.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 89",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-jumlah-bawaslu",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Jumlah anggota Bawaslu (pusat) menurut Pasal 92 UU 7/2017:",
+    "options": [
+      "3 orang",
+      "5 orang",
+      "9 orang",
+      "7 orang"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 92 ayat (2): Bawaslu 5; Bawaslu Provinsi 5 atau 7; Bawaslu Kab/Kota 3 atau 5; Panwaslu Kecamatan 3. Panwaslu Kelurahan/Desa 1 orang; Pengawas TPS 1 orang per TPS.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 92",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-pengawas-tps",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Berapa Pengawas TPS untuk setiap TPS menurut Pasal 92 ayat (6) UU 7/2017?",
+    "options": [
+      "2 orang",
+      "3 orang",
+      "1 orang",
+      "Sesuai jumlah pemilih"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 92 ayat (6). Satu orang, satu TPS, satu termos kopi (bagian terakhir tidak diatur).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 92 ayat (6)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-dkpp-fungsi",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "DKPP dibentuk untuk memeriksa dan memutus…",
+    "options": [
+      "Tindak pidana pemilu termasuk politik uang",
+      "Perselisihan hasil pemilu antarpeserta pemilu",
+      "Sengketa proses dan sengketa TUN pemilu",
+      "Dugaan pelanggaran etik anggota KPU/Bawaslu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 155 ayat (2). Perselisihan hasil ke MK; tindak pidana lewat Gakkumdu dan pengadilan; sengketa TUN pemilu ke PTUN.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 155 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-dkpp-komposisi",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Komposisi 7 anggota DKPP menurut Pasal 155 ayat (4) UU 7/2017:",
+    "options": [
+      "1 ex officio KPU, 1 Bawaslu, 5 tokoh masyarakat",
+      "3 dari DPR, 2 dari Presiden, 2 dari MA",
+      "2 dari KPU, 2 dari Bawaslu, 3 akademisi",
+      "7 tokoh masyarakat tanpa unsur penyelenggara pemilu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 155 ayat (4)-(5): 5 tokoh masyarakat diusulkan Presiden 2 orang dan DPR 3 orang. DKPP bersifat tetap dan berkedudukan di ibu kota negara.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 155",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-dkpp-bentuk",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "DKPP dibentuk paling lama…",
+    "options": [
+      "Segera setelah ada aduan etik pertama yang masuk",
+      "1 tahun setelah seluruh tahapan pemilu selesai",
+      "2 bulan sejak sumpah anggota KPU dan Bawaslu",
+      "6 bulan sebelum hari pemungutan suara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 155 ayat (3). Masa tugas anggota DKPP 5 tahun (Pasal 156 ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 155 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-dkpp-konflik",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Anggota DKPP yang berasal dari KPU diadukan melanggar kode etik. Menurut Pasal 158 ayat (2), ia…",
+    "options": [
+      "Diberhentikan otomatis dari KPU",
+      "Tidak dapat menjadi majelis etik untuk aduan itu",
+      "Tetap memimpin sidang asal didampingi dua anggota",
+      "Boleh menjadi majelis bila pengadu setuju"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 158 ayat (2): versi tertulis dari asas tidak boleh menjadi hakim atas perkara sendiri.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 158 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-dkpp-pasif",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Menurut Pasal 159 ayat (3) UU 7/2017, salah satu kewajiban DKPP adalah bersikap…",
+    "options": [
+      "Mengumumkan dugaan pelanggaran kepada media sebelum pemeriksaan dimulai",
+      "Aktif mencari pelanggaran tanpa aduan",
+      "Netral, pasif, tidak memanfaatkan kasus demi popularitas",
+      "Mendampingi penyelenggara yang diadukan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 159 ayat (3) juga mewajibkan prinsip keadilan, kemandirian, imparsialitas, dan transparansi.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 159 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-kode-etik",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "question": "Kode etik penyelenggara pemilu disusun dan ditetapkan oleh…",
+    "options": [
+      "DKPP, dengan mengikutsertakan KPU dan Bawaslu",
+      "KPU sendiri tanpa melibatkan lembaga lain mana pun",
+      "DPR bersama Presiden melalui undang-undang",
+      "Mahkamah Konstitusi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 157: bersifat mengikat dan ditetapkan dengan peraturan DKPP paling lambat 3 bulan sejak anggota DKPP mengucapkan sumpah/janji.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 157",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-humor-prinsip",
+    "type": "humor",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "meme",
+      "top": "Prinsip penyelenggara pemilu: mandiri, jujur, adil, profesional…",
+      "bottom": "…dan efisien. Bukan 'viral'. Cek Pasal 3.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Sebelas prinsip, nol di antaranya 'trending topic'.",
+    "teaches": "Pasal 3 UU 7/2017: 11 prinsip penyelenggaraan pemilu, terpisah dari asas luber jurdil (Pasal 2).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 2-3",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-humor-dkpp",
+    "type": "humor",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "comic",
+      "title": "Kursi yang salah",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Teradu: saya diadukan? Tenang, saya juga anggota DKPP."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Panitera: Pasal 158 ayat (2): Bapak tidak bisa jadi majelis."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Teradu: bahkan sebagai anggota cadangan?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Panitera: silakan duduk di kursi teradu. Sudah kami siapkan."
+        }
+      ]
+    },
+    "caption": "Hakim atas perkara sendiri: tidak tersedia, bahkan di DKPP.",
+    "teaches": "Pasal 158 ayat (2) UU 7/2017: anggota DKPP dari KPU/Bawaslu yang diadukan tidak dapat menjadi majelis untuk aduan itu.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 158 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-pa-humor-adhoc",
+    "type": "humor",
+    "topicId": "pemilu",
+    "subTopicId": "penyelenggara-asas",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "comic",
+      "title": "Tetap vs ad hoc",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Pengawas TPS: saya pengawas pemilu, lembaga tetap!"
+        },
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Senior: kamu ad hoc. Pasal 89 ayat (5)."
+        },
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Pengawas TPS: jadi setelah pemilu…"
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Senior: kembali jadi warga biasa yang hafal Pasal 89."
+        }
+      ]
+    },
+    "caption": "Yang tetap: Bawaslu sampai kabupaten/kota. Sisanya: kontrak cinta satu musim.",
+    "teaches": "Pasal 89 UU 7/2017: Bawaslu, Bawaslu Provinsi, Bawaslu Kab/Kota tetap; Panwaslu Kecamatan, Kelurahan/Desa, LN, dan Pengawas TPS ad hoc.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum",
+      "reference": "Pasal 89",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

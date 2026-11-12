@@ -495,3 +495,15 @@
 ## Pasal 1940
 
 > Hakim, karena jabatannya, dapat memerintahkan salah satu pihak yang berperkara untuk mengangkat sumpah, supaya dengan sumpah itu dapat diputuskan perkara itu atau dapat ditentukan jumlah uang yang dikabulkan.
+
+## Pasal 1886
+
+> Pada setiap tingkat perkara, masing-masing pihak dapat meminta kepada Hakim, supaya pihak lawannya diperintahkan menyerahkan surat-surat kepunyaan kedua belah pihak yang menyangkut hal yang sedang dipersengketakan dan berada di tangan pihak lawan.
+
+## Pasal 1921
+
+> Suatu persangkaan menurut undang-undang, membebaskan orang yang diuntungkan persangkaan itu dan segala pembuktian lebih lanjut. Terhadap suatu persangkaan menurut undang-undang, tidak boleh diadakan pembuktian, bila berdasarkan persangkaan itu undang-undang menyatakan batalnya perbuatan-perbuatan tertentu atau menolak diajukannya suatu gugatan ke muka Pengadilan, kecuali bila undang- undang memperbolehkan pembuktian sebaliknya, tanpa mengurangi ketentuan-ketentuan mengenai sumpah di hadapan Hakim.
+
+## Pasal 1922
+
+> Persangkaan yang tidak berdasarkan undang-undang sendiri diserahkan kepada pertimbangan dan kewaspadaan Hakim, yang dalam hal ini tidak boleh memperhatikan persangkaan- persangkaan yang lain. Persangkaan-persangkaan yang demikian hanya boleh diperhatikan, bila undang-undang mengizinkan pembuktian dengan saksi-saksi, begitu pula bila terhadap suatu perbuatan atau suatu akta diajukan suatu bantahan dengan alasan-alasan adanya itikad buruk atau penipuan.

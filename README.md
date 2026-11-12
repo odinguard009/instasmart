@@ -13,10 +13,9 @@ Instasmart mengubah kebiasaan doom-scrolling menjadi smart-scrolling. Tampilanny
 | Tab | Isi |
 | --- | --- |
 | Beranda | Baris Stories (3 per hari), feed tanpa batas (paket baru dimuat otomatis), penanda "Target harian tercapai" setelah 20 item (bisa diatur) |
-| Jelajah | Grid seluruh pustaka, pencarian teks, filter kelompok (Ilmu Hukum / CPNS), format, dan topik |
-| Reels | Reel hari ini, layar penuh, snap per item, lalu kartu penutup |
-| Favorit | Koleksi pribadi (disukai/disimpan) per topik |
-| Profil | Streak, statistik, akurasi per sub-topik, topik terlemah, pengaturan, cadangan JSON, pintu ke Review |
+| Jelajah | Grid seluruh pustaka (diacak per hari, dimuat bertahap), pencarian teks, chip format, dan filter kelompok/topik di lembar bawah |
+| Reels | Layar penuh, snap per item, tanpa batas: reel hari ini dulu, lalu pustaka reel diacak dan didaur ulang |
+| Profil | Streak, kartu dilihat, akurasi, sorotan topik (cakupan per topik), tab Disimpan/Disukai/Statistik; ikon menu membuka Pengaturan (preferensi, Review, cadangan JSON) |
 
 Topik (33): ilmu hukum (pengantar ilmu hukum, perdata, acara perdata, pidana KUHP Nasional, acara pidana KUHAP baru, pidana khusus, HTN, HAN & PTUN, perundang-undangan, etika hakim, keluarga & waris, peradilan agama, peradilan anak, peradilan militer, dagang & bisnis, internasional, HAM, agraria, ketenagakerjaan, lingkungan, adat, HKI, konsumen & persaingan, pemilu, pajak, siber & PDP, perbankan & pasar modal, hukum kesehatan, wawasan kebangsaan) dan CPNS (TWK, TIU, TKP, ASN & seleksi). Kedalaman tiap topik berbeda; lihat peta cakupan di `ROADMAP.md`.
 

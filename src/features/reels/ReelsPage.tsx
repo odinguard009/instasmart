@@ -53,7 +53,7 @@ function ReelSlide({ reel }: { reel: QueuedReel & { card: PlanReel['card'] } }) 
           {draft && <p className="mt-0.5 text-[11px] font-bold text-amber-300">Belum diverifikasi: cek sumbernya sebelum dihafal.</p>}
         </div>
         <div className="pointer-events-auto flex flex-col items-center gap-1">
-          <button type="button" className="grid h-12 w-12 place-items-center" aria-label={favorite?.liked ? 'Batal suka' : 'Suka (masuk Favorit)'} aria-pressed={favorite?.liked ?? false} onClick={() => toggleFavorite(card.id, 'liked')}>
+          <button type="button" className="grid h-12 w-12 place-items-center" aria-label={favorite?.liked ? 'Batal suka' : 'Suka (masuk koleksi Profil)'} aria-pressed={favorite?.liked ?? false} onClick={() => toggleFavorite(card.id, 'liked')}>
             <Icon name="heart" filled={favorite?.liked} className={`h-8 w-8 drop-shadow ${favorite?.liked ? 'text-red-500' : ''}`} />
           </button>
           <button type="button" className="grid h-12 w-12 place-items-center" aria-label={favorite?.saved ? 'Hapus dari simpanan' : 'Simpan'} aria-pressed={favorite?.saved ?? false} onClick={() => toggleFavorite(card.id, 'saved')}>

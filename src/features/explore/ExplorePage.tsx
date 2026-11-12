@@ -1,5 +1,6 @@
 /** Jelajah: grid seluruh pustaka dengan pencarian teks, filter format, dan filter materi di lembar bawah. */
 import { useMemo, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { BottomSheet } from '@/components/BottomSheet';
 import { CardGrid } from '@/components/CardGrid';
 import { Icon } from '@/components/Icon';
@@ -23,8 +24,11 @@ export function ExplorePage() {
   const moderation = useStore((s) => s.moderation);
   const showUnverified = useStore((s) => s.settings.showUnverified);
   const [text, setText] = useState('');
-  const [group, setGroup] = useState<TopicGroup | null>(null);
-  const [topicId, setTopicId] = useState<string | null>(null);
+  // ?topik=<id> (dari sorotan topik di Profil) membuka Jelajah langsung terfilter.
+  const [params] = useSearchParams();
+  const linkedTopic = library.topicById.get(params.get('topik') ?? '');
+  const [group, setGroup] = useState<TopicGroup | null>(linkedTopic?.group ?? null);
+  const [topicId, setTopicId] = useState<string | null>(linkedTopic?.id ?? null);
   const groupTopics = useMemo(() => library.topics.filter((topic) => group === null || topic.group === group), [group]);
   const [format, setFormat] = useState<FormatFilter>('semua');
   const [sheetOpen, setSheetOpen] = useState(false);

@@ -77,3 +77,15 @@ export function totals(cards: readonly Card[], progress: ProgressMap): Totals {
   }
   return { cardsSeen: seen, cardsTotal: cards.length, answers: toAccuracy(correct, wrong) };
 }
+
+/** Proporsi kartu yang sudah pernah dilihat per topik (0..1), untuk cincin progres di Profil. */
+export function coverageByTopic(cards: readonly Card[], progress: ProgressMap): Map<string, number> {
+  const counts = new Map<string, { seen: number; total: number }>();
+  for (const card of cards) {
+    const entry = counts.get(card.topicId) ?? { seen: 0, total: 0 };
+    entry.total += 1;
+    if ((progress[card.id]?.seenCount ?? 0) > 0) entry.seen += 1;
+    counts.set(card.topicId, entry);
+  }
+  return new Map([...counts].map(([topicId, { seen, total }]) => [topicId, total === 0 ? 0 : seen / total]));
+}

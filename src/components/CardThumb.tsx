@@ -1,4 +1,4 @@
-/** Thumbnail kartu untuk grid Jelajah/Favorit/Profil. */
+/** Thumbnail kartu untuk grid Jelajah dan Profil. */
 import { memo } from 'react';
 import { Link } from 'react-router-dom';
 import { coverVisual } from '@/cards/coverVisual';

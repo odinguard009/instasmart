@@ -48,7 +48,7 @@ src/state/          schema.ts (kontrak data pengguna), reducers.ts (murni), stor
 src/visuals/        Mesin visual SVG: templates/, characters/ (maskot), palettes.ts, text.ts, VisualView.tsx
 src/reels/          engine/ (timeline, player, motion: murni) + SceneView, ReelStage, ReelPlayer, useNarration
 src/cards/          CardView.tsx (tipe kartu -> komponen), media/, coverVisual.ts
-src/features/       Satu folder per layar: home, stories, reels, explore, favorites, profile, review
+src/features/       Satu folder per layar: home, stories, reels, explore, profile (termasuk koleksi Disimpan/Disukai dan Pengaturan), review
 src/components/     Komponen bersama (PostShell, BottomNav, Icon, ...)
 src/lib/            Utilitas kecil (date, rng, useInView, shareImage)
 scripts/            Skrip Node (tsx): validasi, ikon, generator, foto, render reel, smoke check

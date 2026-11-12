@@ -1,4 +1,4 @@
-/** Visual sampul untuk kartu apa pun: dipakai thumbnail Jelajah/Favorit dan "bagikan sebagai gambar". */
+/** Visual sampul untuk kartu apa pun: dipakai thumbnail Jelajah/Profil dan "bagikan sebagai gambar". */
 import type { Card, Visual } from '@/content/schema';
 
 export function coverVisual(card: Card): Visual {

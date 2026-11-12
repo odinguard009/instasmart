@@ -4,6 +4,7 @@ import { cardSearchText, coverVisual } from '@/cards/coverVisual';
 import { library } from '@/content';
 import type { Scene, Visual } from '@/content/schema';
 import { activeFilterCount, filterCards, visibleCount } from '@/domain/explore';
+import { favoriteCards } from '@/domain/favorites';
 import { initialStoryNav, storyNavReducer, type StoryNavAction } from '@/features/stories/storyNav';
 import { addDays, diffDays, toDateKey } from '@/lib/date';
 import { createRng, shuffle, weightedPick } from '@/lib/rng';
@@ -141,5 +142,19 @@ describe('Jelajah bertahap', () => {
   it('activeFilterCount menghitung kelompok dan topik', () => {
     expect(activeFilterCount({ group: null, topicId: null })).toBe(0);
     expect(activeFilterCount({ group: 'hukum', topicId: 'perdata' })).toBe(2);
+  });
+});
+
+describe('favoriteCards', () => {
+  it('menyaring per field, terbaru dulu, dan mengabaikan id yang hilang', () => {
+    const [a, b] = library.cards;
+    if (!a || !b) throw new Error('pustaka kosong');
+    const favorites = {
+      [a.id]: { liked: true, saved: true, updatedAt: '2026-01-01T00:00:00Z' },
+      [b.id]: { liked: false, saved: true, updatedAt: '2026-02-01T00:00:00Z' },
+      hilang: { liked: true, saved: true, updatedAt: '2026-03-01T00:00:00Z' },
+    };
+    expect(favoriteCards(library.cardById, favorites, 'saved').map((card) => card.id)).toEqual([b.id, a.id]);
+    expect(favoriteCards(library.cardById, favorites, 'liked').map((card) => card.id)).toEqual([a.id]);
   });
 });

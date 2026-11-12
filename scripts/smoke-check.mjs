@@ -83,17 +83,19 @@ await visit('07-jelajah-cari', '/jelajah', async () => {
   await page.getByPlaceholder('Cari pasal, konsep, atau kata kunci').fill('1320');
   await page.waitForTimeout(400);
 });
-await visit('08-favorit', '/favorit', () => expectText('Favorit'));
-await visit('09-profil', '/profil', () => expectText('Target harian'));
+await visit('08-favorit-dialihkan', '/favorit', () => expectText('Disimpan'));
+await visit('09-profil', '/profil', () => expectText('hari streak'));
+await visit('09-profil-statistik', '/profil?tab=statistik', () => expectText('Topik terlemah'));
+await visit('09-pengaturan', '/pengaturan', () => expectText('Target harian'));
 await visit('10-review', '/review', () => expectText('Lapor salah'));
 
 await visit('11-kuis-detail', '/kartu/perdata-unsur-pmh', async () => {
   await page.getByRole('button', { name: /Ada perjanjian tertulis sebelumnya/ }).click();
   await page.waitForTimeout(300);
   await expectText('Tepat!');
-  await page.getByRole('button', { name: 'Suka (masuk Favorit)' }).click();
+  await page.getByRole('button', { name: 'Suka (masuk koleksi Profil)' }).click();
 });
-await visit('12-favorit-terisi', '/favorit', async () => {
+await visit('12-favorit-terisi', '/profil?tab=disukai', async () => {
   if ((await page.locator('a[href="#/kartu/perdata-unsur-pmh"]').count()) !== 1) errors.push('[cek] kartu yang disukai tidak muncul di Favorit');
 });
 await visit('13-carousel-detail', '/kartu/perdata-asas-perjanjian', async () => {
@@ -114,7 +116,7 @@ await visit('16-review-setujui', '/review', async () => {
   await page.getByRole('button', { name: 'Laporkan', exact: true }).click();
   await expectText('Dilaporkan · 1');
 });
-await visit('17-tema-terang', '/profil', async () => {
+await visit('17-tema-terang', '/pengaturan', async () => {
   await page.getByText('Terang', { exact: true }).click();
   await page.waitForTimeout(300);
   if (await page.evaluate(() => document.documentElement.classList.contains('dark'))) errors.push('[cek] tema terang tidak diterapkan');

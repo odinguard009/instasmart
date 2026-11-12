@@ -83,7 +83,7 @@ export function consumeItem(state: UserState, itemKey: string, cardIds: readonly
   return { ...seen, day: { ...day, consumed: [...day.consumed, itemKey] }, history: patchHistory(seen, today, { items: 1 }) };
 }
 
-/** Kartu dibuka di luar feed (Jelajah/Favorit): tercatat dilihat, tidak memakan kuota. */
+/** Kartu dibuka di luar feed (Jelajah/Profil): tercatat dilihat, tidak memakan kuota. */
 export function viewCard(state: UserState, cardId: string, today: DateKey): UserState {
   return markSeen(state, [cardId], today);
 }

@@ -24,7 +24,7 @@ export function SettingsSection() {
   return (
     <section aria-labelledby="settings-title" className="rounded-2xl bg-surface p-4">
       <h2 id="settings-title" className="text-sm font-bold">
-        Pengaturan
+        Preferensi
       </h2>
 
       <label className="mt-3 block" htmlFor="quota">

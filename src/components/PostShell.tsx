@@ -95,7 +95,7 @@ export function PostShell({ card, ribbon, caption, extra, children }: PostShellP
       </div>
 
       <div className="flex items-center px-1.5 pt-1">
-        <button type="button" className="grid h-11 w-11 place-items-center" aria-label={liked ? 'Batal suka' : 'Suka (masuk Favorit)'} aria-pressed={liked} onClick={() => toggleFavorite(card.id, 'liked')}>
+        <button type="button" className="grid h-11 w-11 place-items-center" aria-label={liked ? 'Batal suka' : 'Suka (masuk koleksi Profil)'} aria-pressed={liked} onClick={() => toggleFavorite(card.id, 'liked')}>
           <Icon name="heart" filled={liked} className={`h-7 w-7 transition-transform active:scale-125 ${liked ? 'text-bad' : ''}`} />
         </button>
         <button type="button" className="grid h-11 w-11 place-items-center" aria-label="Bagikan sebagai gambar" onClick={share}>

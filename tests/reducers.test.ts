@@ -3,7 +3,7 @@ import { FEED_CONFIG, SM2_QUALITY } from '@/config/feed';
 import { planCardIds } from '@/domain/feedBuilder';
 import { effectiveStatus, eligibleCards } from '@/domain/moderation';
 import { bumpStreak, visibleStreak } from '@/domain/streak';
-import { accuracyBySubTopic, totals, weakestTopics } from '@/domain/stats';
+import { accuracyBySubTopic, coverageByTopic, totals, weakestTopics } from '@/domain/stats';
 import { loadState, reviveState, saveState, STORAGE_KEY, type KeyValueStorage } from '@/state/persistence';
 import * as r from '@/state/reducers';
 import { createInitialState, userStateSchema, type UserState } from '@/state/schema';
@@ -189,6 +189,15 @@ describe('pengaturan, streak, statistik', () => {
     expect(rows.map((row) => row.ratio)).toEqual([0.25, null, 1]);
     expect(weakestTopics([a, b], progress)[0]).toEqual({ topicId: 't1', ratio: 0.25 });
     expect(totals([a, b], progress)).toMatchObject({ cardsSeen: 2, cardsTotal: 2, answers: { correct: 5, wrong: 3 } });
+  });
+
+  it('cakupan per topik = proporsi kartu yang pernah dilihat', () => {
+    const a = makeCard('quiz', 'a', { topicId: 't1' });
+    const b = makeCard('quiz', 'b', { topicId: 't1' });
+    const c = makeCard('quiz', 'c', { topicId: 't2' });
+    const coverage = coverageByTopic([a, b, c], { a: { seenCount: 2, lastSeen: TODAY, correct: 0, wrong: 0 } });
+    expect(coverage.get('t1')).toBe(0.5);
+    expect(coverage.get('t2')).toBe(0);
   });
 });
 

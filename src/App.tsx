@@ -1,9 +1,8 @@
 import { lazy, Suspense, useEffect, useRef } from 'react';
-import { HashRouter, Outlet, Route, Routes, useLocation } from 'react-router-dom';
+import { HashRouter, Navigate, Outlet, Route, Routes, useLocation } from 'react-router-dom';
 import { BottomNav } from '@/components/BottomNav';
 import { CardDetailPage } from '@/features/explore/CardDetailPage';
 import { ExplorePage } from '@/features/explore/ExplorePage';
-import { FavoritesPage } from '@/features/favorites/FavoritesPage';
 import { HomePage } from '@/features/home/HomePage';
 import { ReelsPage } from '@/features/reels/ReelsPage';
 import { useScrollMemory } from '@/lib/useScrollMemory';
@@ -11,6 +10,7 @@ import { useActions, useStore } from '@/state/store';
 
 // Layar yang jarang dibuka dimuat saat dibutuhkan, supaya pembukaan awal (Beranda) lebih ringan.
 const ProfilePage = lazy(() => import('@/features/profile/ProfilePage').then((m) => ({ default: m.ProfilePage })));
+const SettingsPage = lazy(() => import('@/features/profile/SettingsPage').then((m) => ({ default: m.SettingsPage })));
 const ReviewPage = lazy(() => import('@/features/review/ReviewPage').then((m) => ({ default: m.ReviewPage })));
 const RenderPage = lazy(() => import('@/features/reels/RenderPage').then((m) => ({ default: m.RenderPage })));
 
@@ -86,8 +86,10 @@ export function App() {
           <Route index element={<HomePage />} />
           <Route path="jelajah" element={<ExplorePage />} />
           <Route path="reels" element={<ReelsPage />} />
-          <Route path="favorit" element={<FavoritesPage />} />
+          {/* Favorit kini tab Disimpan/Disukai di Profil; alamat lama tetap berfungsi. */}
+          <Route path="favorit" element={<Navigate to="/profil" replace />} />
           <Route path="profil" element={<ProfilePage />} />
+          <Route path="pengaturan" element={<SettingsPage />} />
           <Route path="review" element={<ReviewPage />} />
           <Route path="kartu/:id" element={<CardDetailPage />} />
         </Route>

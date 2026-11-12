@@ -794,5 +794,835 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-pm-unsur-merek",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 1 angka 1 UU Merek, manakah yang dapat menjadi unsur merek?",
+    "options": [
+      "Rasa makanan",
+      "Suara",
+      "Tekstur kain",
+      "Aroma parfum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Unsur merek yang disebut: gambar, logo, nama, kata, huruf, angka, susunan warna, 2 atau 3 dimensi, suara, hologram, atau kombinasinya. Aroma, rasa, dan tekstur tidak disebut.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 1 angka 1; Pasal 2 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-lingkup-merek",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 2 ayat (2) UU Merek, merek meliputi…",
+    "options": [
+      "Merek terdaftar dan tidak terdaftar",
+      "Merek dagang dan merek jasa",
+      "Merek lokal dan merek asing",
+      "Merek pribadi dan merek negara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 ayat (1): lingkup undang-undang ini adalah merek dan indikasi geografis.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 2 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-prioritas",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Permohonan merek dengan hak prioritas harus diajukan paling lama berapa lama sejak permohonan pertama di negara anggota Konvensi Paris atau WTO?",
+    "options": [
+      "12 bulan",
+      "18 bulan",
+      "6 bulan",
+      "3 bulan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 9: paling lama 6 bulan sejak Tanggal Penerimaan permohonan pertama di negara lain anggota Konvensi Paris atau Persetujuan WTO.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 9",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-hanya-menyebut",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Merek \"Beras\" dimohonkan untuk produk beras. Menurut Pasal 20 UU Merek, merek itu…",
+    "options": [
+      "Otomatis menjadi merek terkenal",
+      "Ditolak karena ada merek lain",
+      "Tidak dapat didaftar",
+      "Dapat didaftar asal dipakai dulu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20 huruf b: merek tidak dapat didaftar jika sama dengan, berkaitan dengan, atau hanya menyebut barang/jasa yang dimohonkan. Juga terkait huruf e (tidak memiliki daya pembeda).",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 20 huruf b, e",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-fungsional",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Alasan \"mengandung bentuk yang bersifat fungsional\" dalam Pasal 20 UU Merek menurut rumusan yang dicatat agregator berasal dari…",
+    "options": [
+      "Putusan Mahkamah Konstitusi 2023",
+      "Peraturan Menteri Hukum dan HAM",
+      "Perubahan oleh UU 6/2023",
+      "Rumusan asli UU Merek tahun 2016"
+    ],
+    "answerIndex": 2,
+    "explanation": "DataHukum mencatat rumusan 2016 berhenti di huruf f (nama umum/lambang milik umum); huruf g (bentuk fungsional) muncul pada versi perubahan UU 6/2023. Cek naskah resmi.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 20 huruf g",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-menyesatkan",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Merek yang memuat keterangan tidak sesuai dengan kualitas, manfaat, atau khasiat barangnya, menurut Pasal 20 UU Merek…",
+    "options": [
+      "Ditolak hanya bila ada keberatan",
+      "Dapat didaftar dengan catatan",
+      "Tidak dapat didaftar",
+      "Dihapus setelah 3 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20 huruf d. Huruf c menambahkan unsur yang dapat menyesatkan masyarakat tentang asal, kualitas, jenis, ukuran, macam, atau tujuan penggunaan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 20 huruf c, d",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-orang-terkenal",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Permohonan merek yang menyerupai nama orang terkenal milik orang lain, tanpa persetujuan tertulis yang berhak, menurut Pasal 21 ayat (2) UU Merek…",
+    "options": [
+      "Ditolak",
+      "Diterima jika pemohon WNI",
+      "Ditunda sampai ada gugatan",
+      "Diterima jika barangnya tidak sejenis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 21 ayat (2) huruf a: ditolak kecuali atas persetujuan tertulis dari yang berhak. Huruf b dan c mengatur bendera, lambang negara/lembaga, dan cap resmi negara.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 21 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-iktikad",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 21 ayat (3) UU Merek, permohonan ditolak jika diajukan oleh pemohon yang…",
+    "options": [
+      "Belum berbadan hukum",
+      "Belum pernah memakai merek",
+      "Beriktikad tidak baik",
+      "Berdomisili di luar negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Iktikad tidak baik juga membuat gugatan pembatalan bisa diajukan tanpa batas waktu (Pasal 77 ayat (2)).",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 21 ayat (3); Pasal 77 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-generik",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Merek terdaftar yang kemudian menjadi nama generik. Menurut Pasal 22 UU Merek, setiap orang…",
+    "options": [
+      "Otomatis menjadi pemilik bersama merek itu",
+      "Dilarang memakai nama generik itu sama sekali",
+      "Wajib meminta izin pemilik merek lama selamanya",
+      "Boleh memohon merek itu plus kata pembeda"
+    ],
+    "answerIndex": 3,
+    "explanation": "Syaratnya: ada tambahan kata lain sepanjang ada unsur pembeda.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 22",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-perpanjangan",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 35 UU Merek, permohonan perpanjangan merek diajukan…",
+    "options": [
+      "Kapan saja selama merek masih dipakai",
+      "Dalam 6 bulan sebelum masa berakhir",
+      "Paling cepat 2 tahun sebelum berakhir",
+      "Tepat pada hari perlindungan berakhir"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (4): masih bisa paling lama 6 bulan setelah berakhir, dengan biaya dan denda sebesar biaya perpanjangan. Perlindungan 10 tahun sejak Tanggal Penerimaan, dapat diperpanjang untuk jangka waktu yang sama.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 35 ayat (1)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-syarat-perpanjangan",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 36 UU Merek, perpanjangan disetujui jika pemohon melampirkan pernyataan bahwa…",
+    "options": [
+      "Merek belum pernah digugat oleh siapa pun",
+      "Merek sudah terkenal di luar negeri",
+      "Merek dan barangnya masih dipakai/dijual",
+      "Pemilik merek tidak punya tunggakan pajak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dua hal: merek masih digunakan pada barang/jasa dalam sertifikat, dan barang/jasa itu masih diproduksi dan/atau diperdagangkan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 36",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-alih-semua",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Pemilik punya beberapa merek terdaftar yang mirip untuk barang sejenis. Menurut Pasal 41 ayat (2) UU Merek, pengalihannya…",
+    "options": [
+      "Dilarang selama merek masih terdaftar",
+      "Boleh satu per satu ke pihak berbeda",
+      "Hanya bisa melalui pewarisan atau wasiat",
+      "Semuanya harus ke pihak yang sama"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (1): cara peralihan antara lain pewarisan, wasiat, wakaf, hibah, perjanjian. Ayat (3): pengalihan dimohonkan pencatatannya kepada Menteri.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 41 ayat (1)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-gugat-tak-terdaftar",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Pemilik merek tidak terdaftar ingin menggugat pembatalan merek terdaftar. Menurut Pasal 76 UU Merek, ia harus lebih dulu…",
+    "options": [
+      "Mengajukan permohonan kepada Menteri",
+      "Mendapat izin pemilik merek terdaftar",
+      "Melapor pidana ke kepolisian",
+      "Memakai mereknya selama 5 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (1): gugatan berdasarkan alasan Pasal 20 dan/atau 21. Ayat (3): diajukan kepada Pengadilan Niaga terhadap pemilik merek terdaftar.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 76 ayat (1)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-pengadilan-gugatan",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Gugatan ganti rugi dan penghentian pemakaian merek tanpa hak menurut Pasal 83 UU Merek diajukan ke…",
+    "options": [
+      "Pengadilan Tata Usaha Negara",
+      "Pengadilan Niaga",
+      "Pengadilan Negeri biasa",
+      "Pengadilan Agama"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ayat (1): dapat diajukan oleh pemilik merek terdaftar dan/atau penerima lisensi. Ayat (2): juga oleh pemilik merek terkenal berdasarkan putusan pengadilan.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 83 ayat (1)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-penggugat-83",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Selain pemilik merek terdaftar, siapa yang menurut Pasal 83 ayat (1) UU Merek dapat menggugat pemakai merek tanpa hak?",
+    "options": [
+      "Asosiasi pedagang setempat",
+      "Penerima lisensi merek terdaftar",
+      "Konsumen yang membeli barang palsu",
+      "Kantor pajak daerah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bentuk gugatan: ganti rugi dan/atau penghentian semua perbuatan yang berkaitan dengan penggunaan merek itu.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 83 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-definisi-paten",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 1 angka 1 UU Paten, paten adalah hak eksklusif yang diberikan oleh negara kepada…",
+    "options": [
+      "Pemerintah daerah tempat invensi itu dibuat",
+      "Inventor atas invensi di bidang teknologi",
+      "Perusahaan yang mendanai riset",
+      "Siapa saja yang pertama menjual produk"
+    ],
+    "answerIndex": 1,
+    "explanation": "Untuk jangka waktu tertentu, melaksanakan sendiri invensi itu atau memberi persetujuan kepada pihak lain untuk melaksanakannya.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 1 angka 1",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-paten-sederhana",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 3 ayat (2) UU Paten, paten sederhana diberikan untuk invensi baru yang…",
+    "options": [
+      "Belum pernah dipamerkan di pameran mana pun",
+      "Dibuat oleh usaha mikro dan kecil saja",
+      "Mengandung langkah inventif yang tak terduga",
+      "Mengembangkan yang ada dan berguna praktis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Paten biasa (ayat (1)) mensyaratkan baru, mengandung langkah inventif, dan dapat diterapkan dalam industri. Ayat (3): pengembangan meliputi produk, proses, atau metode sederhana.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 3",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-program-komputer",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 4 UU Paten (rumusan perubahan 2024 menurut agregator), program komputer…",
+    "options": [
+      "Bukan invensi, kecuali yang terimplementasi komputer",
+      "Selalu dapat dipatenkan sebagai paten sederhana",
+      "Termasuk invensi jika ditulis di Indonesia",
+      "Hanya dilindungi sebagai merek dagang terdaftar saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Program komputer sebagai ciptaan dilindungi hak cipta. Pengecualian \"invensi yang diimplementasikan komputer\" tercatat pada versi UU 65/2024 di agregator; cek naskah resmi.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-metode-bisnis",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 4 UU Paten, manakah yang TIDAK termasuk invensi?",
+    "options": [
+      "Metode melakukan kegiatan bisnis",
+      "Alat penyaring air minum portabel",
+      "Proses kimia pembuatan pupuk",
+      "Mesin pengering gabah tenaga surya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Juga tidak mencakup kreasi estetika, skema, metode kegiatan mental dan permainan, presentasi informasi, serta teori dan metode di bidang ilmu pengetahuan dan matematika.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-kebaruan",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 5 UU Paten, invensi dianggap baru jika pada Tanggal Penerimaan…",
+    "options": [
+      "Inventornya belum pernah punya paten apa pun",
+      "Beda dari teknologi yang terungkap sebelumnya",
+      "Belum didaftarkan sebagai merek",
+      "Belum pernah dijual di wilayah Indonesia mana pun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Teknologi yang diungkapkan sebelumnya mencakup pengumuman di dalam atau luar negeri lewat tulisan, uraian lisan, peragaan, penggunaan, atau cara lain.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 5 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-masa-tenggang",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Invensi dipresentasikan dalam ujian skripsi 8 bulan sebelum Tanggal Penerimaan. Menurut Pasal 6 UU Paten, invensi itu…",
+    "options": [
+      "Hanya bisa jadi paten sederhana",
+      "Menjadi milik kampus",
+      "Kehilangan kebaruannya",
+      "Tidak dianggap telah diumumkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pengecualian berlaku jika dalam paling lama 12 bulan sebelum Tanggal Penerimaan invensi dipamerkan di pameran resmi, dipakai untuk percobaan riset, atau diumumkan inventor dalam sidang ilmiah seperti ujian skripsi.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 6 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-langkah-inventif",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 7 UU Paten, invensi mengandung langkah inventif jika bagi orang yang ahli di bidang teknik invensi itu…",
+    "options": [
+      "Sudah diuji di laboratorium resmi",
+      "Dapat dipakai dalam keseharian",
+      "Murah untuk diproduksi",
+      "Tidak dapat diduga sebelumnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penilaiannya memperhatikan keahlian yang ada pada saat permohonan diajukan, atau saat permohonan pertama bila memakai hak prioritas.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-pengobatan",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 9 UU Paten, manakah yang tidak dapat diberi paten?",
+    "options": [
+      "Metode pembedahan pada manusia",
+      "Mesin sterilisasi alat medis",
+      "Alat bedah dengan desain baru",
+      "Obat dengan formula kimia baru"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 9 menyebut metode pemeriksaan, perawatan, pengobatan, dan/atau pembedahan terhadap manusia dan/atau hewan. Alat dan produknya tidak termasuk larangan ini, tetapi tetap harus memenuhi syarat paten.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 9",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-makhluk-hidup",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 9 UU Paten, makhluk hidup tidak dapat dipatenkan, kecuali…",
+    "options": [
+      "Hewan ternak unggul",
+      "Bibit padi lokal",
+      "Tanaman hias",
+      "Jasad renik"
+    ],
+    "answerIndex": 3,
+    "explanation": "Proses biologis yang esensial untuk memproduksi tanaman atau hewan juga dikecualikan, kecuali proses nonbiologis atau mikrobiologis.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 9",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-bersama",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Invensi dihasilkan tiga orang bersama-sama. Menurut Pasal 10 ayat (2) UU Paten, hak atas invensi itu…",
+    "options": [
+      "Milik orang yang mendaftar paling dulu",
+      "Jatuh kepada negara",
+      "Milik inventor dengan kontribusi terbesar",
+      "Dimiliki bersama oleh para inventor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (1): yang berhak memperoleh paten adalah inventor atau orang yang menerima lebih lanjut hak inventor.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-hubungan-kerja",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Karyawan swasta menghasilkan invensi dalam hubungan kerja. Menurut Pasal 12 UU Paten, pemegang patennya…",
+    "options": [
+      "Dibagi rata karyawan dan pemberi kerja",
+      "Pemberi kerja, kecuali diperjanjikan",
+      "Karyawan, tanpa pengecualian apa pun",
+      "Negara, karena menyangkut teknologi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Inventor berhak atas imbalan berdasarkan perjanjian dengan pemberi kerja, dengan memperhatikan manfaat ekonomi invensi (ayat (3)).",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 12 ayat (1)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-hubungan-dinas",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Invensi dihasilkan inventor dalam hubungan dinas dengan instansi pemerintah. Menurut Pasal 13 UU Paten, pemegang patennya…",
+    "options": [
+      "Kementerian Keuangan sebagai bendahara negara",
+      "Instansi dan inventor, kecuali diperjanjikan",
+      "Hanya instansi pemerintah tempatnya bekerja",
+      "Hanya inventornya, sebagai pribadi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Setelah dikomersialkan, inventor berhak atas imbalan dari sumber penerimaan negara bukan pajak (ayat (2)).",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 13 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-wajib-laksana",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 20 UU Paten (rumusan UU 6/2023), pelaksanaan paten-produk di Indonesia meliputi…",
+    "options": [
+      "Membuat, mengimpor, atau melisensikan",
+      "Menjual produk itu di luar negeri",
+      "Mendaftarkan ulang paten setiap tahun",
+      "Membuat produk itu di Indonesia saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (1): paten wajib dilaksanakan di Indonesia. Rumusan yang memasukkan impor dan lisensi tercatat pada versi perubahan di agregator; cek naskah resmi.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 20",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-satu-invensi",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 24 ayat (3) UU Paten, setiap permohonan diajukan untuk…",
+    "options": [
+      "Satu invensi per inventor per tahun",
+      "Semua invensi milik pemohon sekaligus",
+      "Paling banyak lima invensi apa saja",
+      "Satu invensi atau kesatuan invensi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (2a) versi perubahan: permohonan dengan lebih dari 10 klaim dikenai biaya untuk kelebihannya.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 24 ayat (2a), (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-sdg",
+    "type": "quiz",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "question": "Menurut Pasal 26 UU Paten, invensi yang berasal dari sumber daya genetik atau pengetahuan tradisional wajib…",
+    "options": [
+      "Menyebutkan dengan jelas asal-usulnya",
+      "Diberi paten sederhana saja",
+      "Dimiliki oleh masyarakat adat setempat",
+      "Didaftarkan sebagai indikasi geografis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Informasi asal itu dicatat dan diumumkan, untuk pertimbangan pembagian hasil dan/atau akses pemanfaatan.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 26",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-humor-metode-rebahan",
+    "type": "humor",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "comic",
+      "title": "Paten rebahan",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Kucing: saya mau patenkan metode rebahan produktif."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pemeriksa: itu metode kegiatan mental, plus bisnis seminar."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Kucing: tapi sudah dijual 3 batch kelas online!"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pemeriksa: Pasal 4 bukan tempat jualan motivasi."
+        }
+      ]
+    },
+    "caption": "Rebahan boleh, dipatenkan jangan. Seminarnya juga tidak.",
+    "teaches": "Pasal 4 UU Paten: metode kegiatan mental, permainan, dan bisnis tidak termasuk invensi. Paten hanya untuk pemecahan masalah spesifik di bidang teknologi (Pasal 1 angka 2).",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 1 angka 2; Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-humor-merek-kopi",
+    "type": "humor",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "meme",
+      "top": "Daftar merek \"KOPI\" untuk produk kopi",
+      "bottom": "Pasal 20: tidak bisa. Kreativitasnya kurang satu sendok.",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Kalau semua penjual kopi kena somasi, yang untung cuma pengacara.",
+    "teaches": "Pasal 20 huruf b dan e UU Merek: merek yang hanya menyebut barang yang dimohonkan, atau tidak punya daya pembeda, tidak dapat didaftar.",
+    "source": {
+      "title": "UU No. 20 Tahun 2016 tentang Merek dan Indikasi Geografis sebagaimana diubah oleh UU No. 6 Tahun 2023",
+      "reference": "Pasal 20 huruf b, e",
+      "url": "https://www.datahukum.com/peraturan/UU_20_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "hki-pm-humor-skripsi-paten",
+    "type": "humor",
+    "topicId": "hki",
+    "subTopicId": "paten-merek",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "comic",
+      "title": "Sidang dulu, paten kemudian",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Mahasiswa: alatku sudah tampil di sidang skripsi. Hangus?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Konsultan: Pasal 6, ada masa tenggang 12 bulan."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Mahasiswa: jadi revisi bab 5 masih lebih lama dari itu?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Konsultan: daftarkan dulu, revisinya belakangan."
+        }
+      ]
+    },
+    "caption": "Sidang skripsi tidak otomatis membunuh kebaruan, asal kamu cepat mendaftar.",
+    "teaches": "Pasal 6 ayat (1) UU Paten: invensi tidak dianggap diumumkan jika paling lama 12 bulan sebelum Tanggal Penerimaan diumumkan inventor dalam sidang ilmiah, misalnya ujian skripsi.",
+    "source": {
+      "title": "UU No. 13 Tahun 2016 tentang Paten sebagaimana diubah, antara lain oleh UU No. 65 Tahun 2024",
+      "reference": "Pasal 6 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_13_Tahun_2016.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

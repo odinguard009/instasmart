@@ -379,6 +379,10 @@
       {
         "id": "yurisdiksi-negara",
         "name": "Negara & Yurisdiksi"
+      },
+      {
+        "id": "mahkamah-internasional",
+        "name": "Mahkamah Internasional (ICJ)"
       }
     ]
   },

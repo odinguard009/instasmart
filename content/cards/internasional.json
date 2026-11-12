@@ -1599,5 +1599,507 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-38-urutan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Pasal 38 ayat (1) Statuta ICJ menyebut putusan pengadilan dan ajaran para sarjana terkemuka sebagai…",
+    "options": [
+      "Sarana tambahan untuk menentukan kaidah hukum",
+      "Sumber utama yang mengikat semua negara",
+      "Sumber yang hanya berlaku di Eropa",
+      "Sumber yang selalu mengalahkan perjanjian internasional"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 38 ayat (1) huruf d: judicial decisions and the teachings of the most highly qualified publicists sebagai \"subsidiary means for the determination of rules of law\", dengan tunduk pada Pasal 59.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 38(1)(d)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-kebiasaan-unsur",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Pasal 38 ayat (1) huruf b merumuskan kebiasaan internasional sebagai bukti dari…",
+    "options": [
+      "Resolusi Majelis Umum PBB yang disahkan",
+      "Praktik umum yang diterima sebagai hukum",
+      "Pendapat mayoritas hakim Mahkamah Internasional",
+      "Perjanjian tertulis antarnegara besar"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"International custom, as evidence of a general practice accepted as law\". Dua unsur yang biasa diajarkan: praktik umum dan penerimaan sebagai hukum (opinio juris).",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 38(1)(b)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-prinsip-umum",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Pasal 38 ayat (1) huruf c menyebut sumber berupa…",
+    "options": [
+      "Kebijakan luar negeri anggota Dewan Keamanan",
+      "Prinsip hukum umum yang diakui bangsa beradab",
+      "Hukum nasional yang berlaku di negara penggugat",
+      "Pendapat penasihat hukum para pihak"
+    ],
+    "answerIndex": 1,
+    "explanation": "\"The general principles of law recognized by civilized nations\". Contoh yang sering dikutip doktrin: itikad baik, larangan menjadi hakim bagi perkara sendiri.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 38(1)(c)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-perjanjian-sumber",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 38 ayat (1) huruf a, konvensi internasional menjadi dasar putusan bila menetapkan aturan yang…",
+    "options": [
+      "Telah berlaku sedikitnya sepuluh tahun lamanya",
+      "Ditandatangani oleh lebih dari 100 negara",
+      "Secara tegas diakui negara yang bersengketa",
+      "Disahkan oleh Dewan Keamanan PBB"
+    ],
+    "answerIndex": 2,
+    "explanation": "\"International conventions, whether general or particular, establishing rules expressly recognized by the contesting states\".",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 38(1)(a)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-ex-aequo",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Mahkamah dapat memutus perkara ex aequo et bono (berdasarkan kepatutan dan keadilan) bila…",
+    "options": [
+      "Para pihak menyetujuinya",
+      "Tidak ada perjanjian yang relevan",
+      "Hakim ketua menganggap perlu",
+      "Dewan Keamanan memintanya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 38 ayat (2): kewenangan memutus ex aequo et bono hanya \"if the parties agree thereto\".",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 38(2)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-59-mengikat",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "question": "Putusan Mahkamah Internasional menurut Pasal 59 mengikat…",
+    "options": [
+      "Para pihak dan negara tetangganya",
+      "Semua anggota PBB tanpa kecuali",
+      "Semua negara pihak Statuta Mahkamah Internasional",
+      "Hanya para pihak dan untuk perkara itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 59: \"no binding force except between the parties and in respect of that particular case\". Karena itu tidak ada asas preseden mengikat (stare decisis) secara formal di ICJ.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 59",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-pihak-negara",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Siapa yang dapat menjadi pihak dalam perkara sengketa (contentious case) di Mahkamah Internasional?",
+    "options": [
+      "Negara dan perusahaan multinasional",
+      "Hanya negara",
+      "Semua organisasi internasional",
+      "Negara dan individu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 34 ayat (1): \"Only states may be parties in cases before the Court.\" Organisasi internasional dapat dimintai atau memberi informasi (ayat (2)), dan badan yang berwenang dapat meminta advisory opinion (Pasal 65).",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 34(1)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-lima-belas",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Mahkamah Internasional terdiri atas berapa anggota?",
+    "options": [
+      "15 hakim, boleh dari negara yang sama",
+      "15 hakim, tidak boleh dua dari negara yang sama",
+      "9 hakim, masing-masing satu dari setiap kawasan dunia",
+      "21 hakim, dipilih Majelis Umum"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 3 ayat (1): \"fifteen Members, no two of whom may be nationals of the same State.\"",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 3(1)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-masa-jabatan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Masa jabatan hakim Mahkamah Internasional menurut Pasal 13 ayat (1) adalah…",
+    "options": [
+      "9 tahun dan dapat dipilih kembali",
+      "Seumur hidup sampai usia pensiun",
+      "9 tahun dan tidak dapat dipilih kembali",
+      "5 tahun dan dapat dipilih kembali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 13 ayat (1): \"elected for nine years and may be re-elected\".",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 13(1)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-pemilih",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Hakim Mahkamah Internasional dipilih oleh…",
+    "options": [
+      "Majelis Umum dan Dewan Keamanan PBB",
+      "Sekretaris Jenderal PBB seorang diri",
+      "Negara pihak dalam perkara yang ada",
+      "Para hakim yang sedang menjabat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 4 ayat (1) Statuta: dipilih oleh General Assembly dan Security Council dari daftar calon yang diajukan kelompok nasional di Permanent Court of Arbitration.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 4(1)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-keterwakilan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Pasal 9 meminta pemilih memperhatikan agar Mahkamah secara keseluruhan mewakili…",
+    "options": [
+      "Negara-negara dengan kontribusi dana PBB yang terbesar",
+      "Negara anggota tetap Dewan Keamanan",
+      "Setiap benua dengan jumlah yang sama",
+      "Bentuk utama peradaban dan sistem hukum dunia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 9: \"the representation of the main forms of civilization and of the principal legal systems of the world should be assured.\"",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 9",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-ad-hoc",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Bila di Mahkamah tidak ada hakim berkewarganegaraan salah satu pihak, pihak itu…",
+    "options": [
+      "Wajib menerima susunan hakim yang ada",
+      "Dapat memilih seseorang sebagai hakim ad hoc",
+      "Dapat menunda perkara sampai pemilihan",
+      "Dapat meminta perkara dialihkan ke arbitrase"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 31 ayat (2)-(3): pihak dapat memilih seseorang untuk duduk sebagai hakim (lazim disebut hakim ad hoc). Hakim berkewarganegaraan para pihak tetap berhak ikut mengadili (ayat (1)).",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 31",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-optional-clause",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Deklarasi negara bahwa ia mengakui yurisdiksi wajib Mahkamah terhadap negara lain yang menerima kewajiban yang sama diatur dalam…",
+    "options": [
+      "Pasal 36 ayat (2)",
+      "Pasal 41 ayat (1)",
+      "Pasal 65 ayat (1)",
+      "Pasal 38 ayat (2)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 36 ayat (2), lazim disebut optional clause: berlaku terhadap negara lain yang menerima kewajiban yang sama, dan dapat disertai syarat timbal balik (ayat (3)).",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 36(2)-(3)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-provisional",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Kewenangan Mahkamah untuk menunjukkan tindakan sementara (provisional measures) guna melindungi hak para pihak diatur dalam…",
+    "options": [
+      "Pasal 41",
+      "Pasal 60",
+      "Pasal 63",
+      "Pasal 53"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 41: tindakan sementara diberitahukan kepada para pihak dan kepada Dewan Keamanan sambil menunggu putusan akhir.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 41",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-tidak-hadir",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Salah satu pihak tidak hadir. Sebelum mengabulkan tuntutan pihak lain, Mahkamah wajib memastikan…",
+    "options": [
+      "Dewan Keamanan tidak keberatan",
+      "Pihak yang hadir menyetor jaminan biaya",
+      "Pihak yang tidak hadir sudah dipanggil secara patut tiga kali",
+      "Ia berwenang dan tuntutan beralasan secara fakta dan hukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 53 ayat (2): Mahkamah harus yakin berwenang (Pasal 36 dan 37) dan bahwa tuntutan \"well founded in fact and law\". Ketidakhadiran tidak otomatis berarti kalah.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 53",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-final",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 60, putusan Mahkamah Internasional…",
+    "options": [
+      "Dapat dikasasi ke Dewan Keamanan",
+      "Final dan tanpa banding",
+      "Berlaku setelah diratifikasi para pihak",
+      "Dapat dibanding ke Majelis Umum PBB"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 60: \"The judgment is final and without appeal.\" Bila ada sengketa tentang makna putusan, Mahkamah menafsirkannya atas permintaan pihak.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 60",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-revisi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Permohonan revisi putusan (Pasal 61) hanya dapat diajukan berdasarkan…",
+    "options": [
+      "Fakta baru yang menentukan dan tidak diketahui sebelumnya",
+      "Pendapat hakim yang berbeda (dissenting)",
+      "Putusan lain yang lebih baru di perkara lain",
+      "Perubahan pemerintahan atau konstitusi di negara pihak yang kalah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 61 ayat (1): fakta yang menentukan, yang saat putusan dijatuhkan tidak diketahui Mahkamah dan pihak pemohon, asalkan ketidaktahuan itu bukan karena kelalaian.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 61(1)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-intervensi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Negara yang turut serta (intervensi) dalam perkara mengenai penafsiran konvensi berdasarkan Pasal 63 akan…",
+    "options": [
+      "Bebas dari penafsiran dalam putusan itu",
+      "Wajib menanggung seluruh biaya perkara para pihak",
+      "Otomatis menjadi penggugat utama",
+      "Terikat pada penafsiran dalam putusan itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 63 ayat (2): negara yang memakai hak intervensinya terikat pada penafsiran yang diberikan putusan. Intervensi atas dasar kepentingan hukum (Pasal 62) diputus oleh Mahkamah.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 62-63",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-advisory",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "question": "Advisory opinion (Pasal 65) dapat diminta oleh…",
+    "options": [
+      "Pengadilan nasional tertinggi dari negara anggota mana pun",
+      "Individu yang haknya dilanggar negara",
+      "Setiap negara anggota PBB secara langsung",
+      "Badan yang diberi wewenang oleh atau sesuai Piagam PBB"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 65 ayat (1): \"at the request of whatever body may be authorized by or in accordance with the Charter of the United Nations\".",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 65(1)",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-humor-advisory",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "mahkamah-internasional",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "comic",
+      "title": "Minta pendapat",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Mahkamah, kami minta pendapat soal sengketa ini."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Advisory opinion bisa diminta badan yang berwenang menurut Piagam PBB."
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Jadi pendapatnya pasti kami ikuti?"
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Yang wajib dipatuhi itu putusan sengketa. Sisanya, tergantung niat."
+        }
+      ]
+    },
+    "caption": "Bertanya itu murah. Mendengarkan jawabannya yang mahal.",
+    "teaches": "Advisory opinion diminta badan yang berwenang menurut Piagam PBB (Pasal 65 Statuta) dan tidak memutus sengketa antarnegara; putusan sengketa (contentious) mengikat para pihak untuk perkara itu (Pasal 59) dan final tanpa banding (Pasal 60).",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 59, 60, 65",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-icj-humor-preseden",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "sumber-hi",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "meme",
+      "top": "Mengutip putusan ICJ lama: \"Ini sudah jadi hukum untuk semua!\"",
+      "bottom": "Pasal 59: mengikat hanya para pihak, untuk perkara itu.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Putusan lama itu rujukan, bukan undang-undang dunia.",
+    "teaches": "Pasal 59 Statuta: putusan mengikat hanya para pihak dan untuk perkara itu. Pasal 38 ayat (1) huruf d menempatkan putusan pengadilan sebagai sarana tambahan untuk menentukan kaidah hukum.",
+    "source": {
+      "title": "Statuta Mahkamah Internasional (Statute of the International Court of Justice)",
+      "reference": "Article 38(1)(d), 59",
+      "url": "https://www.icj-cij.org/statute"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

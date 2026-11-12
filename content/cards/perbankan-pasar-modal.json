@@ -436,5 +436,643 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-emiten",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Menurut UU Pasar Modal, emiten adalah…",
+    "options": [
+      "Perantara pedagang efek di bursa",
+      "Bank yang menyimpan efek nasabah",
+      "Perusahaan yang sahamnya dimiliki negara",
+      "Pihak yang melakukan penawaran umum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Definisi di Pasal 1 UU 8/1995. Perusahaan Publik: perseroan dengan jumlah pemegang saham dan modal disetor yang ditetapkan Peraturan OJK.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-efek-digital",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Setelah diubah UU P2SK, definisi efek mencakup…",
+    "options": [
+      "Surat berharga/kontrak investasi, konvensional maupun digital",
+      "Hanya saham dan obligasi yang sudah tercatat di bursa efek Indonesia",
+      "Hanya surat berharga dalam bentuk warkat fisik",
+      "Semua aset kripto tanpa kecuali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 (rumusan setelah UU 4/2023): efek adalah surat berharga atau kontrak investasi baik dalam bentuk konvensional dan digital atau bentuk lain sesuai perkembangan teknologi, yang memberi hak memperoleh manfaat ekonomis.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-syarat-pu",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Penawaran umum hanya dapat dilakukan bila…",
+    "options": [
+      "Penjamin emisi sudah membeli seluruh efek",
+      "Emiten sudah tercatat di bursa minimal 1 tahun",
+      "Pernyataan pendaftaran ke OJK sudah efektif",
+      "Prospektus sudah diiklankan di sedikitnya dua media cetak nasional"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 70 ayat (1).",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 70 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-pengecualian-pu",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Mana yang dikecualikan dari kewajiban pernyataan pendaftaran efektif menurut Pasal 70 ayat (2)?",
+    "options": [
+      "Efek yang diterbitkan/dijamin Pemerintah Indonesia",
+      "Obligasi korporasi bertenor 5 tahun",
+      "Unit penyertaan reksa dana saham",
+      "Saham perusahaan rintisan teknologi yang baru berdiri dan belum untung"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 70 ayat (2): antara lain efek utang/sukuk jatuh tempo tidak lebih dari 1 tahun, efek yang diterbitkan/dijamin Pemerintah, efek utang LPS khusus investor profesional, dan efek lain yang ditetapkan OJK.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 70 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-baca-prospektus",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Efek dalam penawaran umum tidak boleh dijual kecuali pemesan menyatakan dalam formulir bahwa ia…",
+    "options": [
+      "Sudah menerima/berkesempatan membaca prospektus",
+      "Bersedia menahan efek tersebut paling sedikit selama satu tahun penuh",
+      "Telah lulus uji kompetensi investor dari OJK",
+      "Memiliki rekening bank minimal lima tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 71.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 71",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-efektif-20",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Pernyataan pendaftaran menjadi efektif pada…",
+    "options": [
+      "Hari kerja ke-20 sejak lengkap, atau lebih awal bila OJK menyatakannya",
+      "Saat RUPS emiten menyetujuinya",
+      "Hari kerja ke-45 sejak diterima",
+      "Hari ke-7 sejak diterima, tanpa pengecualian apa pun dari regulator pasar modal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 74 ayat (1). Jika OJK meminta perubahan atau tambahan informasi, penghitungan waktu dimulai lagi sejak tambahan itu diterima (ayat (2)-(4)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 74",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-tidak-menilai",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Saat menelaah pernyataan pendaftaran, regulator pasar modal…",
+    "options": [
+      "Tidak menilai keunggulan dan kelemahan efek",
+      "Menjamin efek tersebut pasti menguntungkan",
+      "Menetapkan harga wajar saham yang ditawarkan kepada masyarakat luas",
+      "Memberi peringkat bintang pada setiap emiten"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 75: regulator memperhatikan kelengkapan, kecukupan, objektivitas, kemudahan dimengerti, dan kejelasan dokumen (Prinsip Keterbukaan), tetapi tidak menilai keunggulan atau kelemahan efek. Teks pasal masih menyebut Bapepam.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 75",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-klaim-disetujui",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Iklan berbunyi \"saham ini sudah disetujui regulator, dijamin aman\". Menurut Pasal 78 ayat (2)…",
+    "options": [
+      "Hanya dilarang bila disampaikan langsung oleh emiten, bukan oleh agen pemasar",
+      "Boleh, karena efektif berarti dijamin regulator",
+      "Dilarang mengklaim regulator menyetujui/meneliti keunggulan efek",
+      "Boleh, asalkan pernyataan pendaftaran sudah efektif"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 78 ayat (2). Ayat (1): prospektus dilarang memuat keterangan tidak benar tentang fakta material atau menghilangkan fakta material sehingga menyesatkan.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 78",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-tanggung-jawab",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Pernyataan pendaftaran memuat informasi material yang menyesatkan. Siapa yang bertanggung jawab atas kerugian?",
+    "options": [
+      "Hanya direktur utama emiten secara pribadi",
+      "Investor sendiri, karena dianggap sudah membaca seluruh isi prospektus sebelum membeli",
+      "Hanya OJK karena telah menyatakan efektif",
+      "Penanda tangan, direksi-komisaris, penjamin emisi, profesi penunjang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 80 ayat (1): sendiri-sendiri maupun bersama-sama. Profesi penunjang hanya atas pendapatnya (ayat (2)); penjamin emisi dan profesi penunjang bebas bila membuktikan telah bertindak profesional (ayat (3)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 80 ayat (1)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-gugat-5",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Tuntutan ganti rugi atas pernyataan pendaftaran yang menyesatkan hanya dapat diajukan dalam…",
+    "options": [
+      "90 hari sejak efek dicatatkan",
+      "1 tahun sejak kerugian diketahui",
+      "30 tahun, mengikuti daluwarsa perdata umum dalam KUH Perdata",
+      "5 tahun sejak pendaftaran efektif"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 80 ayat (4).",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 80 ayat (4)",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-hmetd",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "OJK dapat mewajibkan emiten memberikan hak memesan efek terlebih dahulu (HMETD) kepada…",
+    "options": [
+      "Setiap pemegang saham, proporsional",
+      "Hanya pemegang saham pengendali",
+      "Investor asing terlebih dahulu sesuai porsinya",
+      "Karyawan emiten secara prioritas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 82 ayat (1)-(2): saat emiten menerbitkan saham atau efek yang dapat ditukar dengan saham.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 82 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-benturan",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Transaksi yang kepentingan ekonomis emiten berbenturan dengan kepentingan pribadi direksi/komisaris/pemegang saham utama dapat diwajibkan memperoleh…",
+    "options": [
+      "Izin dari pengadilan niaga tempat emiten berdomisili",
+      "Persetujuan direksi saja",
+      "Persetujuan bursa efek",
+      "Restu mayoritas pemegang saham independen"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 82 ayat (3).",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 82 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-peristiwa-material",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Emiten yang pernyataan pendaftarannya efektif wajib melaporkan dan mengumumkan peristiwa material yang dapat memengaruhi harga efek…",
+    "options": [
+      "Setelah harga saham sudah bergerak naik atau turun signifikan",
+      "Dalam laporan tahunan berikutnya",
+      "Hanya bila diminta pemegang saham",
+      "Sesegera mungkin setelah terjadi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 86 ayat (1) huruf b; huruf a: laporan berkala. Jangka waktu rinci diatur OJK (ayat (3)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 86",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-wash-sale",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Transaksi efek yang tidak mengakibatkan perubahan kepemilikan untuk menciptakan gambaran perdagangan semu termasuk…",
+    "options": [
+      "Perdagangan orang dalam menurut Pasal 95",
+      "Manipulasi pasar yang dilarang Pasal 91",
+      "Pelanggaran kode etik saja, tanpa larangan",
+      "Transaksi sah selama dilakukan di bursa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 91 huruf a; juga penawaran jual-beli pada harga yang sama hasil persekongkolan (huruf b). Pasal 92: dua transaksi atau lebih yang menciptakan harga semu juga dilarang.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 91-92",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-harga-semu",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Pasal 92 melarang melakukan dua transaksi efek atau lebih yang…",
+    "options": [
+      "Menciptakan harga tetap, naik, atau turun yang semu demi untung",
+      "Dibayar dengan mata uang asing",
+      "Melibatkan efek dari dua emiten berbeda dalam sektor industri yang sama",
+      "Dilakukan pada hari yang sama"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 92: berlaku baik di bursa maupun di luar bursa.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 92",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-info-menyesatkan",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Menyebar pernyataan tidak benar yang memengaruhi harga efek dilarang Pasal 93 bila pembuatnya…",
+    "options": [
+      "Merupakan orang dalam emiten",
+      "Tahu/patut tahu itu tidak benar, atau kurang hati-hati mengeceknya",
+      "Menyebarkannya lewat media cetak saja",
+      "Menerima imbalan uang atau fasilitas lebih dari Rp1 miliar dari pihak lain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 93.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 93",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-insider",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Orang dalam yang mempunyai informasi orang dalam dilarang membeli atau menjual efek…",
+    "options": [
+      "Hanya efek emiten itu di pasar negosiasi",
+      "Emiten itu, atau perusahaan yang bertransaksi dengannya",
+      "Apa pun, termasuk reksa dana pasar uang dan surat berharga negara ritel",
+      "Hanya bila nilainya di atas batas OJK"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 95. Pasal 96: orang dalam juga dilarang memengaruhi pihak lain bertransaksi atau membocorkan informasi kepada pihak yang patut diduga akan memakainya.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 95-96",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-tipee",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Seseorang yang bukan orang dalam menerima bocoran informasi orang dalam dan sepatutnya tahu itu informasi orang dalam. Menurut Pasal 97…",
+    "options": [
+      "Ia terkena larangan yang sama",
+      "Ia boleh bertransaksi setelah 24 jam",
+      "Ia bebas bertransaksi karena bukan orang dalam",
+      "Ia hanya wajib lapor ke bursa sebelum transaksi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 97.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 97",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-perusahaan-efek-insider",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Perusahaan efek yang memiliki informasi orang dalam boleh bertransaksi efek emiten itu hanya jika…",
+    "options": [
+      "Setelah memberi tahu emiten secara lisan maupun tertulis sebelumnya",
+      "Untuk portofolio sendiri dengan nilai kecil",
+      "Tidak pernah boleh dalam keadaan apa pun",
+      "Atas perintah nasabah, tanpa memberi rekomendasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 98.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 98",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-penipuan",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Mengelabui orang dengan nama palsu atau rangkaian kebohongan agar ia menyerahkan dana untuk dikelola sebagai investasi termasuk larangan…",
+    "options": [
+      "Perdagangan orang dalam dalam Pasal 95",
+      "Kewajiban keterbukaan dalam Pasal 86",
+      "Penipuan dalam Pasal 90",
+      "HMETD dalam Pasal 82"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 90 (rumusan P2SK) mencakup kegiatan perdagangan efek dan pengelolaan investasi.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 90",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-tidak-lanjut",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Menurut Pasal 100A, OJK dapat memutuskan tidak melanjutkan dugaan tindak pidana pasar modal ke penyelidikan dengan mempertimbangkan antara lain…",
+    "options": [
+      "Permintaan tertulis dari emiten",
+      "Nilai transaksi, ganti kerugian, dan dampak ke pasar",
+      "Ada atau tidaknya liputan media massa dan sorotan warganet",
+      "Jabatan dan popularitas pelaku"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 100A ayat (1)-(2); bila tidak dilanjutkan, OJK dapat menjatuhkan sanksi administratif dan/atau perintah tertulis (ayat (3)).",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 100A",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-sanksi-admin",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "question": "Mana yang BUKAN bentuk sanksi administratif dalam Pasal 102 ayat (2)?",
+    "options": [
+      "Pidana kurungan",
+      "Pembekuan kegiatan usaha",
+      "Peringatan tertulis",
+      "Pembatalan pendaftaran"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 102 ayat (2): peringatan tertulis, denda, pembatasan, pembekuan, pencabutan izin usaha, pembatalan persetujuan, dan pembatalan pendaftaran.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 102 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-humor-grup-saham",
+    "type": "humor",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "comic",
+      "title": "Grup sinyal premium",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Admin grup: besok saham X naik 300%, info orang dalam!"
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Anggota: siap, beli semua!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pengawas: info orang dalam? Pasal 97 berlaku juga buat kalian."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Anggota: ...saya keluar grup."
+        }
+      ]
+    },
+    "caption": "Cuan instan, pasal juga instan.",
+    "teaches": "Pasal 95-97 UU Pasar Modal: orang dalam dilarang bertransaksi atau membocorkan informasi orang dalam, dan pihak yang memperolehnya serta sepatutnya tahu itu informasi orang dalam dikenai larangan yang sama.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 95-97",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-humor-disetujui",
+    "type": "humor",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "meme",
+      "top": "Sudah terdaftar resmi, pasti untung",
+      "bottom": "Pasal 75 & 78: regulator tidak menilai untung-ruginya efek",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Terdaftar itu syarat, bukan jimat.",
+    "teaches": "Pasal 75 ayat (2) UU 8/1995: regulator tidak menilai keunggulan atau kelemahan efek. Pasal 78 ayat (2) melarang menyatakan regulator telah menyetujui atau meneliti keunggulan suatu efek.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 75, 78",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-pm-humor-goreng",
+    "type": "humor",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "pasar-modal",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "comic",
+      "title": "Dapur saham",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Bandar: beli dari akun A, jual ke akun B. Volume naik!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Analis: pemilik akun A dan B siapa?"
+        },
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Bandar: saya juga dong."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Analis: Pasal 91: transaksi tanpa ganti pemilik itu semu."
+        }
+      ]
+    },
+    "caption": "Masaknya di dua akun, gosongnya di satu orang.",
+    "teaches": "Pasal 91 UU Pasar Modal melarang tindakan yang menciptakan gambaran semu tentang perdagangan atau harga efek, antara lain transaksi efek yang tidak mengakibatkan perubahan kepemilikan. Pasal 92 melarang transaksi yang menciptakan harga semu.",
+    "source": {
+      "title": "UU No. 8 Tahun 1995 tentang Pasar Modal sebagaimana diubah UU 4/2023 (P2SK), naskah terkonsolidasi",
+      "reference": "Pasal 91-92",
+      "url": "https://www.datahukum.com/peraturan/UU_8_Tahun_1995.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

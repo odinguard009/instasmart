@@ -110,13 +110,15 @@
       "10 tahun"
     ],
     "answerIndex": 3,
-    "explanation": "Pasal 100 KUHP Nasional: pidana mati dijatuhkan dengan masa percobaan 10 tahun. Jika selama masa itu terpidana menunjukkan sikap dan perbuatan terpuji, pidana mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden setelah pertimbangan Mahkamah Agung.",
+    "explanation": "Pasal 100 KUHP Nasional: pidana mati dijatuhkan dengan masa percobaan 10 tahun. Jika selama masa itu terpidana menunjukkan sikap dan perbuatan terpuji, pidana mati diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden setelah pertimbangan Mahkamah Agung. Rumusan asli UU 1/2023 berbunyi \"dapat diubah\"; menurut naskah konsolidasi DataHukum, UU 1/2026 mengubahnya menjadi \"diubah\".",
     "source": {
-      "title": "KUHP Nasional (UU No. 1 Tahun 2023)",
-      "reference": "Pasal 100"
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 100 (setelah diubah UU 1/2026)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
     },
     "status": "draft",
-    "createdAt": "2026-11-11"
+    "createdAt": "2026-11-11",
+    "needsVerification": true
   },
   {
     "id": "pidana-analogi-ygy",
@@ -536,5 +538,1440 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-b1-teritorial",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Tindak pidana di kapal berbendera Indonesia yang sedang berlayar di laut lepas. Menurut Pasal 4 KUHP Nasional, ketentuan pidana Indonesia…",
+    "options": [
+      "Berlaku bagi setiap orang yang melakukannya",
+      "Berlaku jika negara lain setuju",
+      "Hanya berlaku bagi awak WNI",
+      "Tidak berlaku karena laut lepas berada di luar wilayah negara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 4 huruf b: berlaku bagi setiap orang yang melakukan tindak pidana di Kapal Indonesia atau Pesawat Udara Indonesia.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-akibat-di-indonesia",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Peretas di luar negeri menyerang sistem yang akibatnya terjadi di Indonesia. Pasal 4 huruf c KUHP Nasional…",
+    "options": [
+      "Menjangkaunya karena akibatnya terjadi di wilayah Indonesia",
+      "Hanya berlaku jika ada perjanjian ekstradisi",
+      "Tidak menjangkaunya karena pelaku di luar negeri",
+      "Hanya menjangkau bila pelaku berstatus warga negara Indonesia saat itu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 4 huruf c: tindak pidana di bidang teknologi informasi atau lainnya yang akibatnya terjadi di wilayah Indonesia.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 4",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-asas-pelindungan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pemalsuan mata uang rupiah oleh WNA di luar negeri dijangkau ketentuan pidana Indonesia berdasarkan…",
+    "options": [
+      "Pasal 8 (warga negara Indonesia di luar negeri)",
+      "Pasal 11 (tempat tindak pidana)",
+      "Pasal 7 (pengambilalihan penuntutan)",
+      "Pasal 5 (kepentingan negara yang dilindungi)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5 menjangkau setiap orang di luar negeri yang melakukan tindak pidana terhadap kepentingan Indonesia, antara lain mata uang dan surat berharga yang dikeluarkan Pemerintah.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 5",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-universal",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pasal 6 KUHP Nasional memberlakukan ketentuan pidana bagi setiap orang di luar negeri yang melakukan…",
+    "options": [
+      "Pelanggaran lalu lintas",
+      "Tindak pidana terhadap WNA",
+      "Tindak pidana apa pun asalkan pelakunya kemudian berada di Indonesia",
+      "Tindak pidana internasional yang telah ditetapkan dalam UU"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 6 (asas universal): tindak pidana menurut hukum internasional yang telah ditetapkan sebagai tindak pidana dalam undang-undang.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-ambil-alih",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pasal 7 KUHP Nasional mengatur berlakunya hukum pidana Indonesia atas tindak pidana di luar negeri yang…",
+    "options": [
+      "Dilakukan oleh pejabat Indonesia yang sedang bertugas di kantor perwakilan luar negeri",
+      "Korbannya turis",
+      "Diberitakan media Indonesia",
+      "Penuntutannya diambil alih Indonesia atas dasar perjanjian internasional"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 7: penuntutan diambil alih Pemerintah Indonesia berdasarkan perjanjian internasional yang memberi kewenangan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-nasional-aktif",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "WNI melakukan tindak pidana di luar negeri. Menurut Pasal 8 ayat (2), ketentuan pidana Indonesia berlaku jika…",
+    "options": [
+      "Ada izin Presiden",
+      "Pelaku sudah pulang",
+      "Perbuatan itu juga tindak pidana di negara tempat dilakukan",
+      "Korbannya warga negara Indonesia yang tinggal di negara itu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 8 ayat (2): syarat dapat dipidana di kedua negara (double criminality).",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 8 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-batas-perjanjian",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 9, penerapan Pasal 4 sampai Pasal 8 dibatasi oleh…",
+    "options": [
+      "Putusan MK",
+      "Peraturan Pemerintah",
+      "Kebijakan Jaksa Agung yang ditetapkan setiap tahun anggaran untuk perkara lintas negara",
+      "Hal yang dikecualikan menurut perjanjian internasional yang berlaku"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 9: dibatasi pengecualian menurut perjanjian internasional yang berlaku (misalnya kekebalan diplomatik).",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 9",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-waktu-tempat",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 10 dan 11 KUHP Nasional, waktu dan tempat tindak pidana ditentukan oleh…",
+    "options": [
+      "Saat dan tempat pelaku ditangkap",
+      "Saat dan tempat akibat perbuatan itu benar-benar dirasakan korban",
+      "Saat dan tempat laporan dibuat",
+      "Saat dan tempat dilakukannya perbuatan yang dapat dipidana"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 10: waktu = saat dilakukannya perbuatan. Pasal 11: tempat = tempat dilakukannya perbuatan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 10 dan 11",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-bentuk-pelaku",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Manakah yang menurut Pasal 20 KUHP Nasional dipidana sebagai PELAKU, bukan pembantu?",
+    "options": [
+      "Orang yang kebetulan lewat di lokasi kejadian",
+      "Orang yang sekadar mendengar rencana kejahatan dari temannya",
+      "Orang yang dengan sengaja memberi bantuan pada waktu tindak pidana dilakukan",
+      "Orang yang menggerakkan orang lain dengan menjanjikan sesuatu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 20 huruf d: penggerak (dengan memberi atau menjanjikan sesuatu, kekerasan, penyesatan, dll.) dipidana sebagai pelaku. Memberi bantuan pada waktu tindak pidana dilakukan adalah pembantuan (Pasal 21 ayat (1)).",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 20 dan 21",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pembantu-maks",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 21 ayat (3), pidana untuk pembantuan paling banyak…",
+    "options": [
+      "Sama dengan pelaku",
+      "1/2 dari maksimum ancaman pidana pokok",
+      "2/3 dari maksimum ancaman pidana pokok",
+      "1/3 dari maksimum ancaman pidana pokok"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 21 ayat (3): paling banyak 2/3 dari maksimum ancaman pidana pokok.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 21 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pembantu-ringan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 21 ayat (2), pembantuan TIDAK dipidana untuk tindak pidana yang hanya diancam…",
+    "options": [
+      "Pidana denda paling banyak kategori II",
+      "Pidana pengawasan",
+      "Pidana penjara paling lama 1 tahun atau pidana denda",
+      "Pidana kerja sosial"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 21 ayat (2): tidak berlaku untuk pembantuan tindak pidana yang hanya diancam denda paling banyak kategori II.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 21 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-keadaan-pribadi",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 22, keadaan pribadi pelaku atau pembantu dapat…",
+    "options": [
+      "Menular ke semua peserta",
+      "Tidak berpengaruh apa pun",
+      "Hanya memperberat pidana, tidak pernah mengurangi atau menghapusnya",
+      "Menghapus, mengurangi, atau memperberat pidananya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 22: keadaan pribadi dapat menghapus, mengurangi, atau memperberat pidana pelaku/pembantu yang bersangkutan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 22",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pengulangan-5-tahun",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 23 ayat (1), pengulangan tindak pidana terjadi jika orang melakukan tindak pidana lagi dalam waktu…",
+    "options": [
+      "10 tahun sejak penangkapan",
+      "5 tahun setelah menjalani seluruh atau sebagian pidana pokok",
+      "1 tahun setelah bebas",
+      "2 tahun sejak putusan pertama memperoleh kekuatan hukum tetap"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 23 ayat (1) huruf a: dalam 5 tahun setelah menjalani seluruh/sebagian pidana pokok atau pidana pokok itu dihapuskan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 23 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-aduan-tegas",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 24 ayat (2), tindak pidana aduan…",
+    "options": [
+      "Ditentukan oleh penyidik berdasarkan pertimbangan kerugian yang dialami korban",
+      "Ditentukan oleh korban",
+      "Harus ditentukan secara tegas dalam undang-undang",
+      "Berlaku untuk semua tindak pidana ringan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 24 ayat (2): tindak pidana aduan harus ditentukan secara tegas dalam undang-undang.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 24 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pengadu-anak",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Korban tindak pidana aduan berumur 15 tahun. Menurut Pasal 25 ayat (1), yang berhak mengadu adalah…",
+    "options": [
+      "Jaksa",
+      "Kepala sekolah tempat korban belajar",
+      "Orang tua atau walinya",
+      "Korban sendiri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 25 ayat (1): korban belum berumur 16 tahun, yang berhak mengadu orang tua atau walinya.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 25 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pengampuan-boros",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 26 ayat (1), korban aduan di bawah pengampuan diwakili pengampunya, KECUALI bila ia diampu karena…",
+    "options": [
+      "Boros",
+      "Lanjut usia",
+      "Sakit jiwa",
+      "Kecanduan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 26 ayat (1): pengecualian bagi korban yang berada dalam pengampuan karena boros.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 26 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-korban-meninggal",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Korban tindak pidana aduan meninggal dunia. Menurut Pasal 27, pengaduan dapat dilakukan oleh…",
+    "options": [
+      "Tidak bisa lagi diadukan",
+      "Siapa saja yang mengetahui peristiwanya, termasuk tetangga dan rekan kerja",
+      "Polisi atas inisiatif sendiri",
+      "Orang tua, anak, suami, atau istri korban"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 27, kecuali korban sebelumnya secara tegas tidak menghendaki penuntutan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 27",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-tenggat-aduan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pengadu tinggal di Indonesia. Menurut Pasal 29 ayat (1), pengaduan harus diajukan dalam waktu…",
+    "options": [
+      "3 bulan sejak tindak pidana terjadi, di mana pun pengadu tinggal",
+      "1 tahun sejak ia mengetahui",
+      "6 bulan sejak ia mengetahui adanya tindak pidana",
+      "9 bulan sejak tindak pidana terjadi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 29 ayat (1): 6 bulan sejak mengetahui bila tinggal di Indonesia; 9 bulan bila tinggal di luar negeri.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 29 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-tarik-aduan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 30, pengaduan dapat ditarik kembali dalam waktu…",
+    "options": [
+      "6 bulan sejak diajukan",
+      "1 bulan sejak diajukan, dan pengaduan boleh diajukan lagi kapan saja",
+      "3 bulan sejak diajukan, dan tidak dapat diajukan lagi",
+      "Kapan saja sebelum putusan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 30: ditarik dalam 3 bulan sejak pengaduan diajukan; pengaduan yang ditarik tidak dapat diajukan lagi.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 30",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pembenar-uu",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Petugas eksekusi yang melaksanakan putusan sesuai undang-undang tidak dipidana berdasarkan…",
+    "options": [
+      "Pasal 43: pembelaan terpaksa melampaui batas",
+      "Pasal 31: melaksanakan peraturan perundang-undangan",
+      "Pasal 38: disabilitas mental",
+      "Pasal 42: daya paksa karena ancaman atau tekanan yang tidak dapat dihindari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 31 adalah alasan pembenar: perbuatan dilakukan untuk melaksanakan ketentuan peraturan perundang-undangan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 31",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-darurat",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 33 KUHP Nasional, perbuatan yang dilarang tidak dipidana jika dilakukan karena…",
+    "options": [
+      "Keadaan darurat",
+      "Kebiasaan setempat",
+      "Perintah teman",
+      "Kurangnya pengetahuan hukum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 33: keadaan darurat termasuk alasan pembenar.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 33",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-bela-paksa",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pembelaan terpaksa menurut Pasal 34 dapat dilakukan terhadap serangan seketika yang melawan hukum atas…",
+    "options": [
+      "Diri sendiri saja; membela orang lain atau harta benda tidak termasuk dalam pasal ini",
+      "Harta benda negara saja",
+      "Diri sendiri atau orang lain, kehormatan kesusilaan, atau harta benda",
+      "Nama baik di media sosial"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 34: diri sendiri atau orang lain, kehormatan dalam arti kesusilaan, atau harta benda sendiri atau orang lain.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 34",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-bela-lampau",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pembelaan terpaksa yang melampaui batas karena keguncangan jiwa hebat akibat serangan seketika. Menurut Pasal 43…",
+    "options": [
+      "Hanya dikenai tindakan",
+      "Tidak dipidana",
+      "Tetap dipidana dengan pengurangan",
+      "Dipidana penuh"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 43: tidak dipidana bila langsung disebabkan keguncangan jiwa hebat karena serangan seketika yang melawan hukum.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 43",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-perintah-tanpa-wenang",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Bawahan melaksanakan perintah jabatan yang ternyata tanpa wewenang. Menurut Pasal 44, ia tetap tidak dipidana jika…",
+    "options": [
+      "Atasan membuat surat pernyataan bertanggung jawab sepenuhnya atas akibat perintah itu, disahkan notaris",
+      "Perintah diberikan lisan",
+      "Ia belum lama bekerja",
+      "Dengan iktikad baik mengira perintah itu sah dan pelaksanaannya dalam lingkup pekerjaannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 44: perintah tanpa wewenang tidak menghapus pidana, kecuali yang diperintah beriktikad baik mengira berwenang dan pelaksanaannya dalam lingkup pekerjaannya.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 44",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-daya-paksa",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pasal 42 KUHP Nasional menyatakan tidak dipidana orang yang melakukan tindak pidana karena…",
+    "options": [
+      "Mabuk karena kemauan sendiri sebelum melakukan perbuatan itu",
+      "Tidak tahu ada larangannya",
+      "Diminta keluarga",
+      "Dipaksa oleh kekuatan yang tidak dapat ditahan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 42: dipaksa oleh kekuatan yang tidak dapat ditahan, atau oleh ancaman, tekanan, atau kekuatan yang tidak dapat dihindari.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 42",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-sengaja-ciptakan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Seseorang sengaja memancing serangan agar bisa 'membela diri'. Menurut Pasal 55…",
+    "options": [
+      "Ia mendapat pengurangan pidana",
+      "Ia tetap dibebaskan karena pembelaan terpaksa",
+      "Hakim wajib memaafkan",
+      "Ia tidak bebas dari pertanggungjawaban pidana"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 55: alasan peniadaan pidana tidak berlaku bagi orang yang dengan sengaja menyebabkan terjadinya keadaan itu.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 55",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-kealpaan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 36 ayat (2), tindak pidana karena kealpaan dapat dipidana jika…",
+    "options": [
+      "Korban meminta",
+      "Secara tegas ditentukan dalam peraturan perundang-undangan",
+      "Akibatnya berat, misalnya menimbulkan korban luka atau kematian",
+      "Pelaku pernah dipidana"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 36 ayat (2): asasnya yang dipidana adalah kesengajaan; kealpaan hanya bila tegas ditentukan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 36 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-strict-liability",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pasal 37 (setelah diubah UU 1/2026 menurut naskah konsolidasi) memungkinkan pemidanaan semata-mata karena unsur terpenuhi tanpa memperhatikan kesalahan, dengan syarat…",
+    "options": [
+      "Korban lebih dari satu",
+      "Hakim yakin",
+      "Ditentukan oleh UU",
+      "Pelaku adalah korporasi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 37: 'Dalam hal ditentukan oleh Undang-Undang' (pertanggungjawaban mutlak/strict liability).",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 37 (setelah diubah UU 1/2026)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-disabilitas-berat",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 39, pelaku dengan disabilitas mental dalam kekambuhan akut disertai gambaran psikotik…",
+    "options": [
+      "Dibebaskan tanpa tindakan apa pun",
+      "Dipidana seperti biasa karena disabilitas bukan alasan pemaaf menurut KUHP",
+      "Tidak dapat dijatuhi pidana, tetapi dapat dikenai tindakan",
+      "Dipidana dengan pengurangan sepertiga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 39: tidak dapat dijatuhi pidana, tetapi dapat dikenai tindakan. Pasal 38 (disabilitas tanpa keadaan berat itu): pidana dapat dikurangi dan/atau dikenai tindakan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 38 dan 39",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-anak-12-keputusan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Anak berumur 11 tahun diduga melakukan tindak pidana. Menurut Pasal 41, siapa yang mengambil keputusan penanganannya?",
+    "options": [
+      "Penyidik, pembimbing kemasyarakatan, dan pekerja sosial profesional",
+      "Kepala desa bersama tokoh masyarakat dalam musyawarah adat setempat",
+      "Hakim anak",
+      "Orang tua sendiri"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 41: penyidik, pembimbing kemasyarakatan, dan pekerja sosial profesional memutuskan menyerahkan ke orang tua/wali atau program pembinaan paling lama 6 bulan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 41",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-bentuk-korporasi",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 45 ayat (2), manakah yang termasuk korporasi sebagai subjek tindak pidana?",
+    "options": [
+      "Hanya perseroan terbatas yang telah mendapat pengesahan badan hukum",
+      "Hanya badan hukum asing",
+      "Termasuk perkumpulan tidak berbadan hukum, firma, dan CV",
+      "Hanya badan usaha milik negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 45 ayat (2): PT, yayasan, koperasi, BUMN, BUMD, perkumpulan berbadan hukum maupun tidak, firma, CV, atau yang disamakan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 45",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-beneficial-owner",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Pasal 47 menyatakan tindak pidana oleh korporasi juga dapat dilakukan oleh pihak di luar struktur organisasi, yaitu…",
+    "options": [
+      "Pemberi perintah, pemegang kendali, atau pemilik manfaat",
+      "Pemerintah daerah",
+      "Konsumen korporasi",
+      "Auditor eksternal yang memeriksa laporan keuangan korporasi tersebut"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 47: pemberi perintah, pemegang kendali, atau pemilik manfaat yang berada di luar struktur tetapi dapat mengendalikan korporasi.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 47",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-korporasi-tak-cegah",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 48 (setelah diubah UU 1/2026), salah satu syarat tindak pidana dapat dipertanggungjawabkan kepada korporasi adalah…",
+    "options": [
+      "Direktur sedang di luar negeri",
+      "Korporasi terdaftar di bursa",
+      "Korporasi tidak melakukan langkah pencegahan dan memastikan kepatuhan",
+      "Korporasi telah berdiri lebih dari 5 tahun dan memiliki izin usaha yang masih berlaku"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 48 antara lain: korporasi tidak melakukan langkah yang diperlukan untuk pencegahan dan kepatuhan, atau membiarkan terjadinya tindak pidana.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 48 (setelah diubah UU 1/2026)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pembenar-korporasi",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 50, alasan pembenar dan pemaaf milik pengurus dapat diajukan korporasi sepanjang…",
+    "options": [
+      "Disetujui rapat umum pemegang saham sebelum perkara dilimpahkan ke pengadilan",
+      "Pengurus sudah meninggal",
+      "Berhubungan langsung dengan tindak pidana yang didakwakan kepada korporasi",
+      "Korporasi membayar jaminan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 50: sepanjang alasan itu berhubungan langsung dengan tindak pidana yang didakwakan kepada korporasi.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 50",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-alternatif-ringan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 57, bila tindak pidana diancam pidana pokok secara alternatif, hakim…",
+    "options": [
+      "Menjatuhkan keduanya",
+      "Menyerahkan pilihan kepada jaksa penuntut umum yang paling memahami berkas perkara",
+      "Lebih mengutamakan pidana pokok yang lebih ringan bila sesuai tujuan pemidanaan",
+      "Wajib memilih pidana yang terberat agar menimbulkan efek jera bagi masyarakat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 57: penjatuhan pidana pokok yang lebih ringan harus lebih diutamakan jika dipertimbangkan sesuai dan menunjang tujuan pemidanaan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 57",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pemberat",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Manakah yang termasuk faktor pemberat pidana menurut Pasal 58?",
+    "options": [
+      "Pelaku masih muda",
+      "Pelaku mengaku bersalah setelah dihadapkan pada alat bukti di persidangan",
+      "Korban memaafkan",
+      "Penggunaan bendera kebangsaan saat melakukan tindak pidana"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 58: pejabat menyalahgunakan jabatan, penggunaan bendera/lagu kebangsaan/lambang negara saat melakukan tindak pidana, atau pengulangan. Pasal 59: ditambah paling banyak 1/3.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 58 dan 59",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-penjara-maks",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 68, pidana penjara untuk waktu tertentu…",
+    "options": [
+      "Paling lama 15 tahun tanpa pengecualian",
+      "Paling singkat 1 bulan",
+      "Boleh sampai 25 tahun bila ada pemberatan karena pengulangan",
+      "Tidak boleh dijatuhkan lebih dari 20 tahun"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 68: umumnya paling lama 15 tahun dan paling singkat 1 hari; bisa 20 tahun dalam keadaan tertentu; tidak boleh lebih dari 20 tahun.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 68",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-seumur-hidup-ubah",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Narapidana seumur hidup telah menjalani paling singkat 10 tahun. Menurut Pasal 69 (setelah diubah UU 1/2026), pidananya dapat diubah menjadi…",
+    "options": [
+      "Pidana pengawasan",
+      "Pidana penjara 15 tahun dengan putusan PN",
+      "Bebas bersyarat otomatis tanpa perlu keputusan dari pejabat mana pun setelah 10 tahun",
+      "Pidana penjara 20 tahun dengan Keputusan Presiden setelah pertimbangan MA"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 69 ayat (1): dapat diubah menjadi penjara 20 tahun dengan Keputusan Presiden setelah pertimbangan Mahkamah Agung.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 69 (setelah diubah UU 1/2026)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-hindari-penjara",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Manakah keadaan yang menurut Pasal 70 ayat (1) membuat pidana penjara sedapat mungkin tidak dijatuhkan?",
+    "options": [
+      "Tindak pidana diancam minimum khusus",
+      "Terdakwa berumur di atas 75 tahun",
+      "Tindak pidana merugikan keuangan negara",
+      "Terdakwa pejabat negara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 70 ayat (1) antara lain: terdakwa anak, berumur di atas 75 tahun, baru pertama kali. Ayat (2) mengecualikan antara lain tindak pidana dengan minimum khusus dan yang merugikan keuangan negara.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 70",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-hindari-penjara-kecuali",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Pasal 70 ayat (1) (penjara sedapat mungkin tidak dijatuhkan) TIDAK berlaku bagi tindak pidana yang diancam penjara…",
+    "options": [
+      "5 tahun atau lebih",
+      "Di bawah 6 bulan",
+      "Paling lama di bawah 1 tahun",
+      "Hanya denda"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 70 ayat (2) huruf a: tidak berlaku bagi tindak pidana yang diancam penjara 5 tahun atau lebih.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 70 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pembebasan-bersyarat",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 72 ayat (1), narapidana dapat diberi pembebasan bersyarat setelah menjalani paling singkat…",
+    "options": [
+      "1/2 pidana",
+      "3/4 pidana",
+      "1/3 pidana, dan 1/3 itu tidak kurang dari 6 bulan",
+      "2/3 pidana, dan tidak kurang dari 9 bulan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 72 ayat (1): 2/3 pidana penjara, dengan 2/3 itu tidak kurang dari 9 bulan. Masa percobaan = sisa pidana + 1 tahun (ayat 4).",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 72",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-tutupan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Pidana tutupan menurut Pasal 74 ayat (2) dapat dijatuhkan kepada terdakwa yang melakukan tindak pidana karena…",
+    "options": [
+      "Terdorong oleh maksud yang patut dihormati",
+      "Terpaksa karena tekanan ekonomi keluarga yang sangat berat",
+      "Disuruh atasan",
+      "Masih di bawah umur"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 74 ayat (2): terdorong maksud yang patut dihormati; ayat (3) mengecualikan bila cara atau akibatnya membuat penjara lebih tepat.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 74",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-pengawasan-syarat",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 75 dan 76 (setelah diubah UU 1/2026), pidana pengawasan dapat dijatuhkan kepada orang yang…",
+    "options": [
+      "Melakukan tindak pidana berulang kali tetapi selalu dengan kerugian yang kecil bagi korban",
+      "Sudah menjalani penjara",
+      "Pertama kali melakukan tindak pidana yang diancam penjara paling lama 5 tahun",
+      "Melakukan korupsi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 75: ancaman penjara paling lama 5 tahun. Pasal 76 ayat (1): paling lama sama dengan ancaman penjara yang tidak lebih dari 3 tahun, bagi yang pertama kali.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 75 dan 76",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-kerja-sosial-jam",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 85 ayat (4), pidana kerja sosial dijatuhkan…",
+    "options": [
+      "Paling lama 6 bulan penuh",
+      "Paling lama 8 jam saja",
+      "Paling singkat 1 jam dan paling lama 100 jam",
+      "Paling singkat 8 jam dan paling lama 240 jam"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 85 ayat (4): 8 sampai 240 jam; ayat (5): paling lama 8 jam sehari, dapat diangsur paling lama 6 bulan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 85",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-kerja-sosial-pertimbangan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Manakah yang WAJIB dipertimbangkan hakim sebelum menjatuhkan pidana kerja sosial menurut Pasal 85 ayat (2)?",
+    "options": [
+      "Jabatan terdakwa",
+      "Kekayaan keluarga terdakwa dan kesediaannya menanggung biaya pelaksanaan",
+      "Pendapat korban di media",
+      "Persetujuan terdakwa setelah dijelaskan tujuannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 85 ayat (2) antara lain: pengakuan terdakwa, kemampuan kerja, persetujuan terdakwa, riwayat sosial, keselamatan kerja. Ayat (3): tidak boleh dikomersialkan.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 85",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-mati-alternatif",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 98, pidana mati diancamkan…",
+    "options": [
+      "Secara kumulatif dengan denda",
+      "Sebagai pidana pokok utama yang wajib didahulukan",
+      "Hanya untuk korporasi",
+      "Secara alternatif sebagai upaya terakhir"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 98: diancamkan secara alternatif sebagai upaya terakhir untuk mencegah tindak pidana dan mengayomi masyarakat.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 98",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-mati-tunda",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 99 ayat (4), pelaksanaan pidana mati DITUNDA bagi…",
+    "options": [
+      "Perempuan hamil, perempuan menyusui, atau orang sakit jiwa",
+      "Terpidana yang mengajukan banding",
+      "Terpidana WNA",
+      "Terpidana berusia di atas 60 tahun pada saat eksekusi dijadwalkan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 99 ayat (4): ditunda sampai melahirkan, tidak lagi menyusui, atau sembuh.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 99 ayat (4)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-mati-10-grasi",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Grasi terpidana mati ditolak dan eksekusi tidak dilaksanakan 10 tahun bukan karena ia kabur. Menurut Pasal 101 (setelah diubah UU 1/2026)…",
+    "options": [
+      "Hakim tingkat pertama memeriksa ulang seluruh perkara dari awal",
+      "Eksekusi tetap dilaksanakan",
+      "Pidana mati demi hukum diubah menjadi penjara seumur hidup",
+      "Terpidana dibebaskan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 101 versi terbaru: demi hukum diubah menjadi penjara seumur hidup (versi asli: 'dapat diubah ... dengan Keputusan Presiden').",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 101 (setelah diubah UU 1/2026)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-percobaan-mulai",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 100 ayat (3), masa percobaan pidana mati 10 tahun mulai dihitung…",
+    "options": [
+      "Sejak penangkapan",
+      "1 hari setelah putusan berkekuatan hukum tetap",
+      "Sejak putusan tingkat pertama dibacakan di sidang terbuka",
+      "Sejak grasi ditolak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 100 ayat (3): dimulai 1 hari setelah putusan memperoleh kekuatan hukum tetap.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 100 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-gugur-tuntut",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Manakah yang menurut Pasal 132 ayat (1) menggugurkan kewenangan penuntutan?",
+    "options": [
+      "Tersangka pindah domisili",
+      "Tersangka atau terdakwa meninggal dunia",
+      "Korban memaafkan untuk tindak pidana bukan aduan",
+      "Saksi utama meninggal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 132 ayat (1) antara lain: ne bis in idem, tersangka/terdakwa meninggal, kedaluwarsa, penarikan aduan, penyelesaian di luar peradilan menurut UU, amnesti/abolisi.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 132",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-korporasi-pailit",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Korporasi yang sedang dituntut dinyatakan pailit. Menurut Pasal 132 ayat (2), kewenangan penuntutan…",
+    "options": [
+      "Beralih ke kurator",
+      "Gugur demi hukum",
+      "Tidak gugur",
+      "Ditunda sampai pailit selesai"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 132 ayat (2): tidak gugur karena kepailitan, perubahan nama, penggabungan, peleburan, pengambilalihan, pemisahan, atau pembubaran.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 132 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-daluwarsa-anak",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 136 ayat (2), bila tindak pidana dilakukan oleh anak, tenggang kedaluwarsa penuntutan…",
+    "options": [
+      "Sama dengan orang dewasa",
+      "Dihapus",
+      "Dikurangi menjadi 1/3",
+      "Diperpanjang dua kali"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 136 ayat (2): dikurangi menjadi 1/3.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 136 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-daluwarsa-berat",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 136 ayat (1) (setelah diubah UU 1/2026), kedaluwarsa penuntutan untuk tindak pidana yang diancam pidana mati atau penjara seumur hidup adalah…",
+    "options": [
+      "12 tahun",
+      "Tidak pernah kedaluwarsa",
+      "20 tahun",
+      "18 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 136 ayat (1) huruf e: 20 tahun untuk ancaman penjara paling lama 20 tahun, seumur hidup, atau pidana mati.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 136 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-daluwarsa-mulai",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 137, jangka kedaluwarsa umumnya dihitung mulai…",
+    "options": [
+      "Saat pelaku diketahui",
+      "Hari ketika perbuatan itu dilakukan pelaku",
+      "Saat laporan diterima",
+      "Keesokan hari setelah perbuatan dilakukan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 137: keesokan hari setelah perbuatan dilakukan, dengan pengecualian antara lain pemalsuan dan perusakan mata uang (dihitung sejak barang dipakai).",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 137",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-daluwarsa-henti",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Menurut Pasal 138, tindakan penuntutan terhadap tindak pidana…",
+    "options": [
+      "Tidak berpengaruh pada kedaluwarsa",
+      "Menghapus kedaluwarsa selamanya",
+      "Memperpendek tenggang kedaluwarsa menjadi setengahnya sejak penuntutan dimulai",
+      "Menghentikan tenggang kedaluwarsa, lalu berlaku tenggang baru"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 138: penuntutan menghentikan tenggang kedaluwarsa; setelah itu mulai berlaku tenggang baru.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 138",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-gugur-pelaksanaan",
+    "type": "quiz",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "ngopi.kuhp",
+    "question": "Manakah yang menurut Pasal 140 menggugurkan kewenangan pelaksanaan pidana?",
+    "options": [
+      "Terpidana menikah",
+      "Terpidana pindah agama",
+      "Terpidana berganti nama dengan penetapan pengadilan",
+      "Terpidana mendapat grasi atau amnesti"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 140: terpidana meninggal, kedaluwarsa, grasi atau amnesti, atau penyerahan pelaksanaan pidana ke negara lain.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 140",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-humor-pancing-serangan",
+    "type": "humor",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Sutradara Pembelaan Terpaksa",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Saya pancing dia menyerang dulu, baru saya 'bela diri'."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 55: sengaja menciptakan keadaannya, ya tidak lolos."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Lho, skenarionya sudah rapi!"
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Rapi di sinetron, bukan di persidangan."
+        }
+      ]
+    },
+    "caption": "Alasan peniadaan pidana bukan hasil rekayasa.",
+    "teaches": "Pasal 55 KUHP Nasional: orang yang dengan sengaja menyebabkan terjadinya keadaan yang menjadi alasan peniadaan pidana tidak dibebaskan dari pertanggungjawaban pidana.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 55",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-humor-aduan-cabut",
+    "type": "humor",
+    "topicId": "pidana",
+    "subTopicId": "asas-umum",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Cabut laporan, lalu mau lapor lagi",
+      "bottom": "Pasal 30: aduan yang ditarik tidak dapat diajukan lagi",
+      "character": "kancil",
+      "expression": "shock"
+    },
+    "caption": "Galau boleh, tapi aduannya cuma sekali jalan.",
+    "teaches": "Pasal 30 KUHP Nasional: pengaduan dapat ditarik dalam 3 bulan sejak diajukan; pengaduan yang ditarik tidak dapat diajukan lagi.",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 30",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-b1-humor-kerja-sosial",
+    "type": "humor",
+    "topicId": "pidana",
+    "subTopicId": "pemidanaan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Pidana kerja sosial",
+      "bottom": "Tidak boleh dikomersialkan. Jadi bukan magang gratis untuk kantor siapa pun.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Hukuman, bukan tenaga kerja murah.",
+    "teaches": "Pasal 85 ayat (3) KUHP Nasional: pelaksanaan pidana kerja sosial tidak boleh dikomersialkan; lamanya 8 sampai 240 jam (ayat 4).",
+    "source": {
+      "title": "KUHP Nasional (UU No. 1 Tahun 2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 85",
+      "url": "https://www.datahukum.com/peraturan/UU_1_Tahun_2023.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

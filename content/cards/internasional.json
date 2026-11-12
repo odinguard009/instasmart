@@ -1196,5 +1196,408 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-wilayah-perairan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 1 angka 2 UU 43/2008, Wilayah Perairan terdiri atas…",
+    "options": [
+      "Laut teritorial serta laut bebas di sekitarnya",
+      "Perairan pedalaman, kepulauan, laut teritorial",
+      "Laut teritorial, zona tambahan, dan ZEE Indonesia",
+      "Perairan kepulauan, ZEE, dan landas kontinennya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 2. ZEE, landas kontinen, dan zona tambahan bukan Wilayah Negara, melainkan Wilayah Yurisdiksi (angka 3).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 1 angka 2-3",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-yurisdiksi",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "ZEE, Landas Kontinen, dan Zona Tambahan menurut UU 43/2008 termasuk…",
+    "options": [
+      "Wilayah Negara dengan kedaulatan penuh RI",
+      "Kawasan Perbatasan di darat dan di laut",
+      "Wilayah Yurisdiksi di luar Wilayah Negara",
+      "Laut bebas milik bersama semua negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 3: Wilayah Yurisdiksi adalah wilayah di luar Wilayah Negara tempat negara memiliki hak-hak berdaulat dan kewenangan tertentu. Bedakan kedaulatan (Wilayah Negara) dengan hak berdaulat (Wilayah Yurisdiksi).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 1 angka 3 dan Pasal 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-zona-tambahan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 1 angka 7, lebar Zona Tambahan Indonesia tidak melebihi … dari garis pangkal.",
+    "options": [
+      "12 mil laut",
+      "24 mil laut",
+      "200 mil laut",
+      "350 mil laut"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 7. Di zona tambahan Pemerintah berwenang mengawasi untuk mencegah dan menghukum pelanggaran di bidang bea cukai, fiskal, imigrasi, atau saniter (Pasal 10 ayat (1) huruf g).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 1 angka 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-landas-kontinen",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Bila pinggiran luar tepi kontinen melampaui 200 mil laut, Landas Kontinen Indonesia menurut Pasal 1 angka 9 paling jauh…",
+    "options": [
+      "350 mil, atau 100 mil dari isobat 2.500 m",
+      "200 mil laut, tidak boleh lebih jauh lagi",
+      "24 mil laut dari garis pangkal kepulauan",
+      "Sejauh dasar lautnya masih dapat ditambang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 angka 9: hingga paling jauh 350 mil laut sampai dengan jarak 100 mil laut dari garis kedalaman 2.500 meter.",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 1 angka 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-batas-darat",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 6 ayat (1), Indonesia berbatas DARAT dengan…",
+    "options": [
+      "Malaysia, Filipina, dan Timor Leste",
+      "Papua Nugini, Australia, dan Timor Leste",
+      "Malaysia, Singapura, dan Papua Nugini",
+      "Malaysia, Papua Nugini, dan Timor Leste"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 6 ayat (1) huruf a. Batas laut Wilayah Negara: Malaysia, Papua Nugini, Singapura, dan Timor Leste (huruf b).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 6 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-batas-laut",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Negara mana yang menurut Pasal 6 ayat (1) huruf b berbatas LAUT dengan Wilayah Negara Indonesia, tetapi tidak berbatas darat?",
+    "options": [
+      "Timor Leste",
+      "Singapura",
+      "Papua Nugini",
+      "Malaysia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 6 ayat (1): batas laut Wilayah Negara dengan Malaysia, Papua Nugini, Singapura, Timor Leste; batas darat hanya Malaysia, Papua Nugini, Timor Leste. Negara seperti Australia, India, atau Vietnam muncul pada batas Wilayah Yurisdiksi (Pasal 8).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 6 dan 8",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-udara",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 6 ayat (1) huruf c, batas Wilayah Negara di udara…",
+    "options": [
+      "Ditetapkan sendiri oleh otoritas navigasi penerbangan",
+      "Sejauh jangkauan radar pertahanan nasional",
+      "Mengikuti batas darat dan laut; batas angkasa luar menurut HI",
+      "Ditetapkan pada ketinggian 100 km di atas permukaan laut rata-rata"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 6 ayat (1) huruf c. UU ini tidak menetapkan angka ketinggian.",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 6 ayat (1) huruf c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-dasar-batas",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Batas Wilayah Negara beserta titik koordinatnya ditetapkan berdasarkan…",
+    "options": [
+      "Putusan Mahkamah Internasional semata",
+      "Perjanjian bilateral dan/atau trilateral",
+      "Keputusan Menteri Dalam Negeri setiap tahun",
+      "Peta buatan Badan Pengelola nasional saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 6 ayat (2). Bila tidak berbatasan dengan negara lain, Indonesia menetapkan batas secara unilateral berdasarkan peraturan dan hukum internasional (ayat (3)). Perjanjian hasil perundingan batas menjadi bagian tak terpisahkan dari UU ini (Pasal 25).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 6 dan 25",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-lintas-damai",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Siapa yang berwenang memberi izin lintas damai kepada kapal asing di laut teritorial dan perairan kepulauan pada jalur yang ditentukan?",
+    "options": [
+      "Pemerintah provinsi terdekat",
+      "Badan Pengelola daerah",
+      "Pemerintah (pusat)",
+      "Syahbandar pelabuhan tujuan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 10 ayat (1) huruf f; termasuk juga izin penerbangan internasional melintasi wilayah udara teritorial (huruf e).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 10 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-peta-dpr",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 10 ayat (1) huruf i, Pemerintah membuat dan memperbarui peta Wilayah Negara dan menyampaikannya kepada DPR sekurang-kurangnya…",
+    "options": [
+      "Hanya bila ada sengketa batas",
+      "Setiap tahun",
+      "Setiap 5 tahun sekali",
+      "Setiap 10 tahun sekali"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 10 ayat (1) huruf i.",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 10 ayat (1) huruf i",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-kawasan-perbatasan",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Batas Wilayah Negara di darat. Menurut Pasal 1 angka 6, Kawasan Perbatasan berada di…",
+    "options": [
+      "Provinsi",
+      "Kecamatan",
+      "Kabupaten",
+      "Desa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 6: Kawasan Perbatasan adalah bagian Wilayah Negara di sisi dalam sepanjang batas; untuk batas darat, berada di kecamatan.",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 1 angka 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-badan-pengelola",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Untuk mengelola Batas Wilayah Negara dan Kawasan Perbatasan, Pasal 14 memerintahkan pembentukan…",
+    "options": [
+      "Komisi perbatasan bersama negara ASEAN",
+      "Komando khusus TNI di setiap perbatasan",
+      "Otorita kawasan ekonomi khusus",
+      "Badan Pengelola nasional dan daerah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 14 ayat (1); kepala badannya bertanggung jawab kepada Presiden atau kepala daerah (ayat (2)). Hubungan kerja nasional-daerah bersifat koordinatif (Pasal 16).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 14 dan 16",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-tanda-batas",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Seseorang memindahkan patok tanda batas negara supaya ladangnya terlihat lebih luas. Perbuatan itu menurut Pasal 20 ayat (1)…",
+    "options": [
+      "Dilarang",
+      "Boleh dengan izin kepala desa",
+      "Hanya pelanggaran adat",
+      "Boleh bila di tanah miliknya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 20 ayat (1) melarang setiap orang menghilangkan, merusak, mengubah, atau memindahkan tanda batas negara, atau mengurangi luas Wilayah Negara. Ancaman pidananya (Pasal 21) tidak dikutip di kartu ini karena penyesuaian dengan KUHP Nasional belum diperiksa.",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 20",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-laut-bebas",
+    "type": "quiz",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "question": "Menurut Pasal 22, di laut bebas serta dasar laut internasional Indonesia berhak…",
+    "options": [
+      "Menarik pajak dari kapal asing yang lewat",
+      "Mengelola kekayaan alam sesuai hukum",
+      "Melarang kapal asing berlayar di sana",
+      "Menyatakan kedaulatan penuh"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 22: pengelolaan dan pemanfaatan kekayaan alam dan lingkungan laut sesuai peraturan perundang-undangan dan hukum internasional. Laut bebas tidak tunduk pada kedaulatan negara mana pun.",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 22",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-humor-patok",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "comic",
+      "title": "Ekspansi teritorial pribadi",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Patoknya kugeser dua meter. Kebunku nambah!"
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Itu tanda batas NEGARA, bukan batas kebun."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 20: dilarang memindahkan tanda batas negara."
+        },
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Jadi panen tetap segitu, masalahnya nambah."
+        }
+      ]
+    },
+    "caption": "Ekspansi wilayah paling cepat, sekaligus paling cepat dapat masalah.",
+    "teaches": "Setiap orang dilarang menghilangkan, merusak, mengubah, atau memindahkan tanda-tanda batas negara, atau mengurangi luas Wilayah Negara (Pasal 20 ayat (1) UU 43/2008).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 20",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "internasional-wn-humor-zee",
+    "type": "humor",
+    "topicId": "internasional",
+    "subTopicId": "yurisdiksi-negara",
+    "account": "lintas.negara",
+    "visual": {
+      "template": "meme",
+      "top": "Nelayan asing: 'ZEE kan bukan wilayah kalian, bebas dong'",
+      "bottom": "Benar, bukan wilayah. Tapi hak berdaulatnya punya kami.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Bukan wilayah bukan berarti bukan urusan.",
+    "teaches": "ZEE termasuk Wilayah Yurisdiksi, di luar Wilayah Negara, tempat Indonesia memiliki hak-hak berdaulat dan kewenangan tertentu menurut peraturan dan hukum internasional (Pasal 1 angka 3 dan Pasal 7).",
+    "source": {
+      "title": "UU No. 43 Tahun 2008 tentang Wilayah Negara",
+      "reference": "Pasal 1 angka 3 dan Pasal 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-43-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

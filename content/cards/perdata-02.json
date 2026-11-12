@@ -2529,5 +2529,576 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-lepas-sebelum",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1947 KUH Perdata, melepaskan lewat waktu…",
+    "options": [
+      "Tak boleh sebelum waktunya, boleh setelah diperoleh",
+      "Boleh sebelum tiba waktunya, tidak boleh setelahnya",
+      "Tidak boleh sama sekali karena lewat waktu demi hukum",
+      "Boleh kapan saja asal dibuat dengan akta notaris"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pelepasan dapat tegas atau diam-diam (Pasal 1948), misalnya dari perbuatan yang menunjukkan ia tidak hendak memakai hak itu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1947, 1948",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-hakim-pasif",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1950 KUH Perdata, hakim karena jabatannya…",
+    "options": [
+      "Wajib mempertimbangkan lewat waktu sendiri",
+      "Wajib menanyakan lewat waktu kepada para pihak",
+      "Boleh memakai lewat waktu bila jelas terbukti",
+      "Tidak boleh mempergunakan lewat waktu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Lewat waktu harus diajukan oleh pihak yang berkepentingan. Menurut Pasal 1951, ia dapat diajukan pada setiap tingkat pemeriksaan, bahkan banding.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1950, 1951",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-tingkat-banding",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1951 KUH Perdata, adanya lewat waktu dapat diajukan…",
+    "options": [
+      "Hanya di tingkat kasasi sebagai alasan hukum",
+      "Hanya dalam jawaban pertama di pengadilan tingkat pertama",
+      "Di setiap tingkat pemeriksaan, termasuk banding",
+      "Hanya sebelum hakim memeriksa pokok perkaranya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bandingkan Pasal 1950: hakim tidak boleh memakainya karena jabatan, jadi pihaklah yang harus mengajukannya.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1950, 1951",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-lepas-curang",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Debitur secara curang melepaskan lewat waktu untuk mengurangi hak krediturnya. Menurut Pasal 1952 KUH Perdata, kreditur…",
+    "options": [
+      "Harus menerima pelepasan itu",
+      "Boleh melapor ke notaris saja",
+      "Kehilangan hak tagihnya",
+      "Dapat melawan pelepasan itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Orang lain yang berkepentingan juga dapat melawannya.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1952",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-luar-dagang",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1953 KUH Perdata, lewat waktu TIDAK dapat dipakai untuk memperoleh hak milik atas…",
+    "options": [
+      "Barang bergerak yang nilainya sangat rendah",
+      "Barang yang diperoleh dari warisan",
+      "Barang yang tak beredar dalam perdagangan",
+      "Barang yang dibeli secara tunai"
+    ],
+    "answerIndex": 2,
+    "explanation": "Contoh konsepnya: barang yang oleh hukum dikeluarkan dari lalu lintas perdagangan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1953",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-syarat-besit",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1955 KUH Perdata, untuk memperoleh hak milik dengan lewat waktu, seseorang harus menguasai barang sebagai pemilik secara…",
+    "options": [
+      "Diam-diam asalkan dilakukan terus-menerus",
+      "Bergantian dengan pemilik asal",
+      "Terbuka cukup selama satu tahun",
+      "Terus-menerus, terbuka, dan tegas"
+    ],
+    "answerIndex": 3,
+    "explanation": "Menurut Pasal 1956, paksaan, perbuatan sewenang-wenang, atau sekadar membiarkan tidak menimbulkan besit yang dapat membuahkan lewat waktu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1955, 1956",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-tambah-waktu",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1958 KUH Perdata, untuk memenuhi waktu lewat waktu, penguasa barang boleh…",
+    "options": [
+      "Meminta hakim memperpendek jangka waktunya",
+      "Menambah masa berkuasa pendahulunya",
+      "Menghitung masa sengketa dua kali",
+      "Menghitung sejak barang dibuat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cara peralihannya tidak dipersoalkan: alas hak umum atau khusus, cuma-cuma atau atas beban.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1958",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-penyewa",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1959 KUH Perdata, penyewa yang sudah menempati barang sangat lama…",
+    "options": [
+      "Memperoleh hak milik setelah lewat 20 tahun menyewa",
+      "Memperoleh hak milik bila pemiliknya tak menagih",
+      "Memperoleh hak milik setelah lewat 30 tahun menyewa",
+      "Tak dapat memperoleh barang itu dengan lewat waktu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ia menguasai untuk orang lain. Begitu pula penyimpan dan penikmat hasil. Pengecualiannya bila alas hak besitnya berganti (Pasal 1960).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1959, 1960",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-itikad-baik",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1965 KUH Perdata, itikad baik…",
+    "options": [
+      "Dianggap tidak ada sampai dibuktikan dengan akta otentik",
+      "Harus dibuktikan oleh pihak yang mengajukan lewat waktu itu sendiri",
+      "Hanya dianggap ada untuk barang bergerak bernilai kecil",
+      "Selalu dianggap ada; penuduh itikad buruk wajib membuktikan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Beban pembuktian ada pada pihak yang menuduh itikad buruk.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1965",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-satu-tahun",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1968 KUH Perdata, tuntutan pengusaha rumah makan dan penginapan atas pemberian makanan dan penginapan lewat waktu setelah…",
+    "options": [
+      "1 tahun",
+      "2 tahun",
+      "5 tahun",
+      "30 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1968 juga memuat tuntutan pengajar untuk pelajaran tiap bulan atau waktu lebih pendek. Lewat waktu pendek ini tetap berjalan meskipun jasa terus diberikan (Pasal 1972).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1968, 1972",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-advokat",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1970 KUH Perdata, tuntutan advokat untuk pembayaran jasanya lewat waktu setelah…",
+    "options": [
+      "30 tahun sejak perkara selesai",
+      "5 tahun sejak gugatan didaftarkan di kepaniteraan pengadilan",
+      "2 tahun sejak perkara diputus, damai, atau kuasa dicabut",
+      "1 tahun sejak surat kuasa ditandatangani kedua belah pihak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Untuk perkara yang tidak selesai, persekot dan jasa yang tertunggak lebih dari 10 tahun tidak dapat dituntut. Tuntutan notaris juga 2 tahun sejak akta dibuat.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1970",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-sumpah-bayar",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1973 KUH Perdata, orang yang dihadapkan pada lewat waktu pendek (Pasal 1968-1971) dapat menuntut agar pihak yang memakai lewat waktu itu…",
+    "options": [
+      "Membayar setengah utang sebagai tanda itikad baik",
+      "Menghadirkan dua saksi yang melihat pembayaran",
+      "Bersumpah bahwa utangnya sungguh telah dibayar",
+      "Membuktikan pembayaran dengan kuitansi bermeterai"
+    ],
+    "answerIndex": 2,
+    "explanation": "Janda, ahli waris, atau wali ahli waris yang belum dewasa dapat diperintahkan bersumpah bahwa mereka tidak tahu adanya utang itu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1973",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-lima-tahun",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1975 KUH Perdata, harga sewa rumah dan tanah serta bunga atas utang pinjaman lewat waktu setelah…",
+    "options": [
+      "5 tahun",
+      "1 tahun",
+      "30 tahun",
+      "2 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pada umumnya berlaku bagi segala yang harus dibayar tiap tahun atau tiap waktu tertentu yang lebih pendek.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1975",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-anak-pengampuan",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1976 KUH Perdata, lewat waktu pendek (Pasal 1968 dan seterusnya) terhadap anak belum dewasa dan orang dalam pengampuan…",
+    "options": [
+      "Hanya berlaku bila disetujui oleh Balai Harta Peninggalan",
+      "Berlaku dua kali lebih lama daripada untuk orang dewasa",
+      "Tidak berlaku sampai mereka dewasa atau pengampuannya berakhir",
+      "Tetap berlaku; tuntutan ganti rugi ke wali/pengampu tetap ada"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bandingkan Pasal 1987: pada asasnya lewat waktu tidak berlaku terhadap mereka, kecuali ditentukan undang-undang. Pasal 1976 adalah salah satu pengecualian itu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1976, 1987",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-cegah-gugatan",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1979 KUH Perdata, lewat waktu dicegah oleh…",
+    "options": [
+      "Laporan ke kepala desa tempat tinggal debitur",
+      "Pesan singkat yang dibaca debitur dan tidak dibalas sama sekali",
+      "Pengumuman di surat kabar tanpa disampaikan ke debitur",
+      "Peringatan, gugatan, atau tuntutan yang diberitahukan resmi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pemberitahuan harus dalam bentuk yang ditentukan, ditandatangani pejabat berwenang atas nama pihak yang berhak, dan disampaikan kepada orang yang hendak dicegah.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1979",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-hakim-tak-berwenang",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1980 KUH Perdata, gugatan yang diajukan di muka hakim yang tidak berkuasa…",
+    "options": [
+      "Tidak mencegah lewat waktu",
+      "Juga mencegah lewat waktu",
+      "Membuat lewat waktu berlipat",
+      "Mencegah bila diterima"
+    ],
+    "answerIndex": 1,
+    "explanation": "Namun lewat waktu tidak dicegah bila gugatan dicabut atau dinyatakan batal (Pasal 1981).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1980, 1981",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-gugatan-dicabut",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1981 KUH Perdata, lewat waktu TIDAK dicegah bila peringatan atau gugatan…",
+    "options": [
+      "Diperiksa lebih dari satu tahun",
+      "Diajukan di pengadilan yang salah",
+      "Dicabut atau dinyatakan batal",
+      "Diajukan melalui kuasa hukum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gugatan di hakim yang tidak berwenang justru tetap mencegah lewat waktu (Pasal 1980).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1980, 1981",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-pengakuan",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1982 KUH Perdata, lewat waktu juga dicegah oleh…",
+    "options": [
+      "Diamnya kreditur selama lebih dari setahun penuh tanpa menagih",
+      "Pengakuan hak oleh debitur, lewat kata atau perbuatan",
+      "Matinya saksi yang mengetahui perjanjian",
+      "Pindahnya debitur ke luar negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Misalnya debitur mengakui utang. Pasal 1972 juga menyebut pengakuan utang tertulis untuk lewat waktu pendek.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1972, 1982",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-penanggung",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1984 KUH Perdata, pemberitahuan kepada debitur utama atau pengakuan debitur utama…",
+    "options": [
+      "Membebaskan penanggung dari kewajibannya",
+      "Hanya mencegah lewat waktu untuk bunga",
+      "Mencegah lewat waktu terhadap penanggung",
+      "Tidak berpengaruh terhadap penanggung utang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dalam perikatan tanggung-menanggung, pencegahan oleh salah satu kreditur berlaku bagi semua kreditur (Pasal 1985).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1984, 1985",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-suami-istri",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1988 KUH Perdata, lewat waktu di antara suami istri…",
+    "options": [
+      "Berlaku setelah cerai",
+      "Berlaku 5 tahun",
+      "Tidak dapat terjadi",
+      "Berlaku 30 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1986: lewat waktu berlaku terhadap siapa saja, kecuali yang dikecualikan undang-undang, salah satunya Pasal 1988.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1986, 1988",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-syarat-tanggal",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1990 KUH Perdata, lewat waktu tidak berjalan terhadap piutang yang baru dapat ditagih pada hari tertentu…",
+    "options": [
+      "Setelah satu tahun berjalan",
+      "Sejak debitur diberi tahu",
+      "Sejak perjanjian dibuat",
+      "Selama hari itu belum tiba"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hal sama untuk piutang bersyarat, selama syaratnya belum dipenuhi.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1990",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-humor-tagih-teman",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Reuni plus tagihan",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Bro, utang 1990 mana?"
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Sudah lewat waktu, bro."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim tak boleh pakai lewat waktu sendiri."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Jadi dia yang harus ajukan."
+        }
+      ]
+    },
+    "caption": "Teman lama, utang lama, dalil lama.",
+    "teaches": "Pasal 1950 KUH Perdata: hakim karena jabatannya tidak boleh mempergunakan lewat waktu, jadi pihak yang ingin memakainya harus mengajukannya. Menurut Pasal 1951, ia boleh diajukan pada setiap tingkat pemeriksaan, termasuk banding.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1950, 1951",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw5-humor-ngontrak-30",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "bukti-daluwarsa",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Ngontrak 30 tahun di rumah yang sama",
+      "bottom": "Pasal 1959: tetap penyewa, bukan pemilik",
+      "character": "kancil",
+      "expression": "think"
+    },
+    "caption": "Loyalitas tidak otomatis jadi sertifikat.",
+    "teaches": "Pasal 1959 KUH Perdata: orang yang menguasai barang untuk orang lain, termasuk penyewa dan penyimpan, tidak dapat memperoleh barang itu dengan lewat waktu, berapa lama pun waktunya. Untuk tanah, perolehan hak kini juga tunduk pada UUPA.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1959",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

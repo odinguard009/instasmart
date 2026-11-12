@@ -819,3 +819,115 @@
 ## Pasal 1273
 
 > Hak memilih ada pada debitur, jika hal ini tidak secara tegas diberikan kepada kreditur.
+
+## Tambahan keenam (diambil 12 November 2026 dari berkas yang sama): lewat waktu (daluwarsa)
+
+> Pasal tentang lewat waktu atas barang tak bergerak (misalnya Pasal 1963) tidak dikutip karena perolehan hak atas tanah kini diatur UUPA dan peraturan pendaftaran tanah. Pasal 1989 (lewat waktu terhadap istri) tidak dikutip karena bertumpu pada aturan harta perkawinan lama.
+
+## Pasal 1947
+
+> Seseorang tidak boleh melepaskan lewat waktu sebelum tiba waktunya tetapi boleh melepaskan suatu lewat waktu yang telah diperolehnya.
+
+## Pasal 1948
+
+> Pelepasan lewat waktu dapat dilakukan secara tegas atau secara diam-diam. Pelepasan secara diam-diam disimpulkan dari suatu perbuatan yang menimbulkan dugaan bahwa seseorang tidak hendak menggunakan suatu hak yang telah diperolehnya.
+
+## Pasal 1950
+
+> Hakim, karena jabatannya, tidak boleh mempergunakan lewat waktu.
+
+## Pasal 1951
+
+> Pada setiap tingkat pemeriksaan perkara, dapat diajukan adanya lewat waktu, bahkan pada tingkat banding pun.
+
+## Pasal 1952
+
+> Kreditur atau orang lain yang berkepentingan dapat melawan pelepasan lewat waktu yang dilakukan oleh debitur yang secara curang bermaksud mengurangi hak kreditur atau orang yang lain tersebut.
+
+## Pasal 1953
+
+> Seseorang tidak dapat menggunakan lewat waktu untuk memperoleh hak milik atas barang- barang yang tidak beredar dalam perdagangan.
+
+## Pasal 1955
+
+> Untuk memperoleh hak milik atas sesuatu dengan upaya lewat waktu, seseorang harus bertindak sebagai pemilik sesuai itu dengan menguasainya secara terus-menerus dan tidak terputus-putus, secara terbuka di hadapan umum dan secara tegas.
+
+## Pasal 1956
+
+> Perbuatan memaksa, perbuatan sewenang-wenang atau perbuatan membiarkan begitu saja, tidaklah menimbulkan suatu besit yang dapat membuahkan lewat waktu.
+
+## Pasal 1958
+
+> Untuk memenuhi waktu yang diperlukan untuk lewat waktu, dapatlah seseorang menambah waktu selama ia berkuasa dengan waktu selama berkuasanya orang yang lebih dahulu berkuasa dari siapa ia telah memperoleh barangnya, tak peduli bagaimana ia menggantikan orang itu, baik dengan alas hak umum maupun dengan alas hak khusus, baik dengan cuma-cuma maupun atas beban.
+
+## Pasal 1959
+
+> Orang yang menguasai suatu barang untuk orang lain, begitu pula ahli warisnya, sekali-kali tidak dapat memperoleh sesuatu dengan jalan lewat waktu, berapa lama pun waktu yang telah lewat. Demikian pula seorang penyewa, seorang penyimpan, seorang penikmat hasil, dan semua orang lain yang memegang suatu barang berdasarkan suatu persetujuan dengan pemiliknya, tak dapat memperoleh barang itu.
+
+## Pasal 1965
+
+> Itikad baik harus selalu dianggap ada, dan barangsiapa mengajukan tuntutan atas dasar itikad buruk, wajib membuktikannya.
+
+## Pasal 1968
+
+> Tuntutan para ahli dan pengajar dalam bidang kebudayaan dan ilmu pengetahuan, untuk pelajaran yang mereka berikan dalam tiap-tiap bulan atau waktu yang lebih pendek; tuntutan para penguasa rumah penginapan dan rumah makan, untuk pemberian penginapan serta makanan; tuntutan para buruh yang upahnya harus dibayar dalam bentuk uang tiap-tiap kali setelah lewat waktu yang kurang dari satu triwulan, untuk mendapat pembayaran upah mereka serta jumlah kenaikan upah itu menurut Pasal 1602q; semua tuntutan ini lewat waktu dengan lewatnya waktu satu tahun.
+
+## Pasal 1970
+
+> Tuntutan para advokat untuk pembayaran jasa mereka dan tuntutan para pengacara untuk pembayaran persekot dan upah mereka, hapus karena lewat waktu dengan lewatnya waktu dengan lewatnya waktu dua tahun, terhitung sejak hari diputusnya perkara, hari tercapainya perdamaian antara pihak-pihak yang berperkara, atau hari dicabutnya kuasa pengacara itu. Dalam hal perkara yang tidak selesai, tak dapatlah mereka menuntut pembayaran persekot dan jasa yang telah ditunggak lebih dari sepuluh tahun. Tuntutan para Notaris untuk pembayaran persekot dan upah mereka, lewat waktu juga dengan lewatnya waktu dua tahun, terhitung sejak hari dibuatnya akta yang bersangkutan.
+
+## Pasal 1972
+
+> Lewat waktu yang disebutkan dalam keempat pasal yang lalu terjadi, meskipun seseorang terus melakukan penyerahan, memberikan jasa dan menjalankan pekerjaannya. Lewat waktu itu hanya berhenti berjalan, bila dibuat suatu pengakuan utang tertulis, atau bila lewat waktu dicegah menurut Pasal 1979 dan 1980.
+
+## Pasal 1973
+
+> Namun demikian, orang yang kepadanya diajukan lewat waktu yang disebut dalam Pasal 1968, 1969, 1970 dan 1971, dapat menuntut supaya mereka yang menggunakan lewat waktu itu bersumpah bahwa utang mereka benar-benar telah dibayar. Kepada para janda dan para ahli waris, atau jika mereka yang disebut terakhir ini belum dewasa, kepada para wali mereka, dapat diperintahkan sumpah untuk menerangkan bahwa mereka tidak tahu tentang adanya utang yang demikian.
+
+## Pasal 1975
+
+> Bunga atas bunga abadi atau bunga cagak hidup; bunga atas tunjangan tahunan untuk pemeliharaan; harga sewa rumah dan tanah; bunga atas utang pinjaman, dan pada umumnya segala sesuatu yang harus dibayar tiap tahun atau tiap waktu tertentu yang lebih pendek; semua itu lewat waktu setelah lewatnya waktu lima tahun.
+
+## Pasal 1976
+
+> Lewat waktu yang diatur dalam Pasal 1968 dan seterusnya dalam bab ini, berlaku bagi anak- anak yang belum dewasa dan orang-orang yang berada di bawah pengampuan; hal ini tidak mengurangi tuntutan mereka akan ganti rugi terhadap para ahli waris atau para pengampu mereka.
+
+## Pasal 1979
+
+> Lewat waktu itu dicegah pula oleh suatu peringatan, suatu gugatan, dan tiap perbuatan- perbuatan berupa tuntutan hukum, masing-masing dengan pemberitahuan dalam bentuk yang telah ditentukan, ditandatangani oleh pejabat yang berwenang dalam hal itu atas nama pihak yang berhak, dan disampaikan kepada orang yang berhak dicegah memperoleh lewat waktu itu.
+
+## Pasal 1980
+
+> Gugatan di muka Hakim yang tidak berkuasa, juga mencegah lewat waktu.
+
+## Pasal 1981
+
+> Namun lewat waktu tidak dicegah, bila peringatan atau gugatan dicabut atau dinyatakan batal, entah karena penggugat menggugurkan tuntutannya, entah karena tuntutan itu dinyatakan gugur akibat lewat waktunya.
+
+## Pasal 1982
+
+> Pengakuan akan hak seseorang yang terhadapnya lewat waktu berjalan, yang diberikan dengan kata-kata atau dengan perbuatan oleh orang yang menguasainya atau debitur, juga mencegah lewat waktu.
+
+## Pasal 1984
+
+> Pemberitahuan yang dilakukan kepada debitur utama atau pengakuan yang diberikan oleh debitur utama mencegah lewat waktu terhadap penanggung utang.
+
+## Pasal 1985
+
+> Pencegahan lewat waktu yang dilakukan oleh salah seorang kreditur dalam suatu perikatan tanggung menanggung berlaku bagi semua kreditur lainnya.
+
+## Pasal 1986
+
+> Lewat waktu berlaku terhadap siapa saja, kecuali terhadap mereka yang dikecualikan oleh undang-undang.
+
+## Pasal 1987
+
+> Lewat waktu tidak dapat mulai berlaku atau berlangsung terhadap anak-anak yang belum dewasa dan orang-orang yang ada di bawah pengampuan, kecuali dalam hal-hal yang ditentukan undang-undang.
+
+## Pasal 1988
+
+> Lewat waktu tidak dapat terjadi di antara suami istri.
+
+## Pasal 1990
+
+> Lewat waktu tidak berjalan: terhadap piutang yang bersyarat, selama syarat ini tidak dipenuhi; dalam hal suatu perkara untuk menanggung suatu penjualan, selama belum ada putusan untuk menyerahkan barang yang bersangkutan kepada orang lain; terhadap suatu piutang yang baru dapat ditagih pada hari yang telah ditentukan, selama hari itu belum tiba.

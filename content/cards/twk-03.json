@@ -1196,5 +1196,638 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "twk-kkn-kolusi",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Permufakatan atau kerja sama secara melawan hukum antara penyelenggara negara dan pihak lain yang merugikan orang lain, masyarakat, atau negara disebut…",
+    "options": [
+      "Kolusi",
+      "Nepotisme",
+      "Maladministrasi",
+      "Gratifikasi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 angka 4: kolusi adalah permufakatan atau kerja sama secara melawan hukum antar-penyelenggara negara atau antara penyelenggara negara dan pihak lain yang merugikan orang lain, masyarakat, dan atau negara.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 1 angka 4",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-nepotisme",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Perbuatan penyelenggara negara secara melawan hukum yang menguntungkan kepentingan keluarga atau kroninya di atas kepentingan masyarakat, bangsa, dan negara disebut…",
+    "options": [
+      "Pungutan liar",
+      "Nepotisme",
+      "Kolusi",
+      "Konflik yurisdiksi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 5 mendefinisikan nepotisme persis seperti itu. Kuncinya: menguntungkan keluarga/kroni secara melawan hukum.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 1 angka 5",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-asas-bukan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Asas mana yang TIDAK tercantum dalam daftar asas umum penyelenggaraan negara pada Pasal 3 UU 28/1999?",
+    "options": [
+      "Asas Akuntabilitas",
+      "Asas Kepastian Hukum",
+      "Asas Kemanfaatan",
+      "Asas Proporsionalitas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 3 memuat tujuh asas: kepastian hukum, tertib penyelenggaraan negara, kepentingan umum, keterbukaan, proporsionalitas, profesionalitas, dan akuntabilitas. Kemanfaatan tidak ada di daftar ini (jangan tertukar dengan daftar AUPB di UU Administrasi Pemerintahan).",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 3",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-keterbukaan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Asas yang membuka diri terhadap hak masyarakat untuk memperoleh informasi yang benar, jujur, dan tidak diskriminatif tentang penyelenggaraan negara adalah asas…",
+    "options": [
+      "Keterbukaan",
+      "Kepentingan umum",
+      "Tertib penyelenggaraan negara",
+      "Profesionalitas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penjelasan Pasal 3 angka 4: asas keterbukaan, dengan tetap memperhatikan perlindungan atas hak asasi pribadi, golongan, dan rahasia negara.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Penjelasan Pasal 3 angka 4",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-proporsionalitas",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Asas yang mengutamakan keseimbangan antara hak dan kewajiban penyelenggara negara adalah asas…",
+    "options": [
+      "Kepastian hukum",
+      "Tertib penyelenggaraan negara",
+      "Proporsionalitas",
+      "Akuntabilitas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 3 angka 5: asas proporsionalitas mengutamakan keseimbangan antara hak dan kewajiban penyelenggara negara.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Penjelasan Pasal 3 angka 5",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-profesionalitas",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Asas yang mengutamakan keahlian yang berlandaskan kode etik dan ketentuan peraturan perundang-undangan adalah asas…",
+    "options": [
+      "Kepentingan umum",
+      "Tertib penyelenggaraan negara",
+      "Proporsionalitas",
+      "Profesionalitas"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penjelasan Pasal 3 angka 6: asas profesionalitas.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Penjelasan Pasal 3 angka 6",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-akuntabilitas",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Asas yang menentukan bahwa setiap kegiatan dan hasil akhir kegiatan penyelenggara negara harus dapat dipertanggungjawabkan kepada masyarakat atau rakyat adalah asas…",
+    "options": [
+      "Kepastian hukum",
+      "Akuntabilitas",
+      "Profesionalitas",
+      "Keterbukaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 3 angka 7: asas akuntabilitas, karena rakyat adalah pemegang kedaulatan tertinggi negara.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Penjelasan Pasal 3 angka 7",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-kepentingan-umum",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Menurut Penjelasan Pasal 3, asas kepentingan umum mendahulukan kesejahteraan umum dengan cara yang…",
+    "options": [
+      "Tertutup, rahasia, dan hanya untuk kalangan terbatas",
+      "Cepat, murah, dan sederhana",
+      "Aspiratif, akomodatif, dan selektif",
+      "Seragam, terpusat, dan mengikat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 3 angka 3: asas kepentingan umum adalah asas yang mendahulukan kesejahteraan umum dengan cara yang aspiratif, akomodatif, dan selektif.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Penjelasan Pasal 3 angka 3",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-diperiksa-kekayaan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 5, penyelenggara negara wajib bersedia diperiksa kekayaannya pada waktu…",
+    "options": [
+      "Hanya setelah menjabat",
+      "Hanya jika ada laporan dari masyarakat",
+      "Hanya sebelum menjabat",
+      "Sebelum, selama, dan setelah menjabat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5: bersedia diperiksa kekayaannya sebelum, selama, dan setelah menjabat. Bandingkan: kewajiban melaporkan dan mengumumkan kekayaan disebut \"sebelum dan setelah menjabat\".",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 5",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-lapor-kekayaan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Pasal 5 mewajibkan penyelenggara negara melaporkan DAN mengumumkan kekayaannya…",
+    "options": [
+      "Setiap bulan selama menjabat",
+      "Hanya selama menjabat",
+      "Hanya setelah pensiun",
+      "Sebelum dan setelah menjabat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5: melaporkan dan mengumumkan kekayaannya sebelum dan setelah menjabat. (Diperiksa: sebelum, selama, dan setelah.)",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 5",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-hak-jawab",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Manakah yang merupakan HAK penyelenggara negara menurut Pasal 4?",
+    "options": [
+      "Mengangkat kerabat tanpa seleksi",
+      "Menolak pemeriksaan kekayaan selama masih menjabat",
+      "Menerima imbalan di luar ketentuan",
+      "Menggunakan hak jawab atas kritik masyarakat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 4: menggunakan hak jawab terhadap setiap teguran, tindakan dari atasannya, ancaman hukuman, dan kritik masyarakat. Pilihan lain justru melanggar kewajiban Pasal 5.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 4",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-saksi",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Pasal 5 mewajibkan penyelenggara negara bersedia menjadi … dalam perkara korupsi, kolusi, dan nepotisme.",
+    "options": [
+      "Hakim ad hoc",
+      "Penyidik",
+      "Penuntut umum",
+      "Saksi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5: bersedia menjadi saksi dalam perkara korupsi, kolusi, dan nepotisme serta dalam perkara lainnya.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 5",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-tanpa-membedakan",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Kewajiban penyelenggara negara menurut Pasal 5 termasuk melaksanakan tugas tanpa membeda-bedakan…",
+    "options": [
+      "Jabatan, golongan gaji, dan masa kerja pegawai",
+      "Pangkat dan masa kerja",
+      "Pusat dan daerah",
+      "Suku, agama, ras, dan golongan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5: melaksanakan tugas tanpa membeda-bedakan suku, agama, ras, dan golongan.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 5",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-pasal2-hakim",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Siapa yang disebut tegas dalam daftar penyelenggara negara di Pasal 2 UU 28/1999?",
+    "options": [
+      "Notaris",
+      "Ketua RT",
+      "Hakim",
+      "Advokat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 2 menyebut antara lain menteri, gubernur, dan hakim. Penjelasannya: \"hakim\" meliputi hakim di semua tingkatan pengadilan.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 2",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-fungsi-strategis",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Menurut Penjelasan Pasal 2 angka 7, yang termasuk \"pejabat lain yang memiliki fungsi strategis\" adalah…",
+    "options": [
+      "Advokat",
+      "Pengurus partai politik",
+      "Panitera pengadilan",
+      "Wartawan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 2 angka 7 menyebut antara lain direksi/komisaris BUMN dan BUMD, pimpinan PTN, pejabat eselon I, jaksa, penyidik, panitera pengadilan, serta pemimpin dan bendaharawan proyek.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Penjelasan Pasal 2 angka 7",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-peran-serta",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Pasal 8 ayat (1): peran serta masyarakat dalam penyelenggaraan negara merupakan…",
+    "options": [
+      "Hak dan tanggung jawab masyarakat",
+      "Hak eksklusif LSM terdaftar",
+      "Kewajiban yang selalu bersanksi pidana",
+      "Wewenang aparat penegak hukum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 8 ayat (1): peran serta masyarakat merupakan hak dan tanggung jawab masyarakat untuk ikut mewujudkan penyelenggara negara yang bersih.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 8 ayat (1)",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-saksi-pelapor",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Menurut Pasal 9 ayat (1), masyarakat yang diminta hadir sebagai saksi pelapor dalam penyidikan berhak memperoleh…",
+    "options": [
+      "Imbalan jabatan",
+      "Perlindungan hukum",
+      "Hak veto atas putusan",
+      "Kekebalan pidana seumur hidup"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 9 ayat (1): hak memperoleh perlindungan hukum ketika diminta hadir dalam penyelidikan, penyidikan, dan sidang sebagai saksi pelapor, saksi, atau saksi ahli.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 9 ayat (1)",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-hubungan-antar",
+    "type": "quiz",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "question": "Pasal 7: hubungan antar-penyelenggara negara dilaksanakan dengan menaati norma kelembagaan, kesopanan, kesusilaan, dan etika yang berlandaskan…",
+    "options": [
+      "Kesepakatan antarpejabat",
+      "Pancasila dan UUD 1945",
+      "Kebiasaan kantor setempat",
+      "Arahan atasan langsung"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 7 ayat (1); ayat (2) menambahkan bahwa hubungan itu berpegang teguh pada asas-asas Pasal 3.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 7",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-humor-ordal",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "comic",
+      "title": "Jalur orang dalam",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Selamat, kamu lolos seleksi!"
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Lho, saya kan belum ikut tes…"
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Kamu keponakan Pak Kepala. Itu tesnya."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Itu namanya nepotisme, bukan 'jalur prestasi keluarga'."
+        }
+      ]
+    },
+    "caption": "Jalur prestasi, jalur afirmasi, dan… jalur 'kebetulan keponakan'. Yang terakhir punya nama resmi di UU.",
+    "teaches": "UU 28/1999 Pasal 1 angka 5: nepotisme adalah perbuatan penyelenggara negara secara melawan hukum yang menguntungkan kepentingan keluarga dan/atau kroninya di atas kepentingan masyarakat, bangsa, dan negara.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 1 angka 5",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-humor-sinergi",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "\"Ini bukan kolusi. Ini sinergi strategis lintas pemangku kepentingan.\"",
+      "bottom": "Ganti nama, unsur tetap: permufakatan melawan hukum yang merugikan = kolusi.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Kosakata rapat makin canggih, definisinya tetap sama.",
+    "teaches": "UU 28/1999 Pasal 1 angka 4: kolusi adalah permufakatan atau kerja sama secara melawan hukum antar-penyelenggara negara atau antara penyelenggara negara dan pihak lain yang merugikan orang lain, masyarakat, dan/atau negara.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 1 angka 4",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-humor-keterbukaan",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "comic",
+      "title": "Asas keterbukaan, versi loket",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Boleh lihat informasi anggaran kegiatan ini?"
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Boleh. Bawa fotokopi KTP, KK, dan akta lahir kakek."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "…Itu informasi publik atau warisan?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Keterbukaan: informasi benar, jujur, tidak diskriminatif."
+        }
+      ]
+    },
+    "caption": "Transparan, katanya. Transparan seperti kaca film 80%.",
+    "teaches": "Penjelasan Pasal 3 angka 4 UU 28/1999: asas keterbukaan membuka diri terhadap hak masyarakat memperoleh informasi yang benar, jujur, dan tidak diskriminatif tentang penyelenggaraan negara, dengan tetap memperhatikan hak asasi pribadi, golongan, dan rahasia negara.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Penjelasan Pasal 3 angka 4",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-humor-akuntabilitas",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "Ditanya hasil kerja setahun: \"Yang penting kami sudah rapat koordinasi 48 kali.\"",
+      "bottom": "Akuntabilitas menanyakan kegiatan DAN hasil akhirnya.",
+      "character": "owl",
+      "expression": "sad"
+    },
+    "caption": "Rapat koordinasi untuk membahas jadwal rapat evaluasi rapat sebelumnya.",
+    "teaches": "Penjelasan Pasal 3 angka 7 UU 28/1999: asas akuntabilitas menentukan bahwa setiap kegiatan dan hasil akhir dari kegiatan penyelenggara negara harus dapat dipertanggungjawabkan kepada masyarakat atau rakyat sebagai pemegang kedaulatan tertinggi negara.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Penjelasan Pasal 3 angka 7",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-humor-hak-jawab",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "comic",
+      "title": "Dikritik warga",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Warga mengkritik pelayanan kita di media sosial."
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Gampang. Blokir semua akunnya."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Itu… hak jawab atau hak blokir?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "UU memberi hak jawab terhadap kritik, bukan tombol blokir."
+        }
+      ]
+    },
+    "caption": "Kritik dijawab dengan data, bukan dengan fitur blokir.",
+    "teaches": "UU 28/1999 Pasal 4: penyelenggara negara berhak menggunakan hak jawab terhadap setiap teguran, tindakan dari atasannya, ancaman hukuman, dan kritik masyarakat. Pasal 8 ayat (1): peran serta masyarakat adalah hak dan tanggung jawab masyarakat.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 4; Pasal 8 ayat (1)",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "twk-kkn-humor-harta",
+    "type": "humor",
+    "topicId": "twk",
+    "subTopicId": "integritas",
+    "account": "twk.harian",
+    "visual": {
+      "template": "meme",
+      "top": "Laporan kekayaan: \"Harta saya cuma motor tua.\"",
+      "bottom": "Garasi rumah: tiga mobil, satu kapal, dan seekor kuda.",
+      "character": "cat",
+      "expression": "shock"
+    },
+    "caption": "Saat harta lebih rajin bertambah daripada laporannya.",
+    "teaches": "UU 28/1999 Pasal 5: penyelenggara negara wajib bersedia diperiksa kekayaannya sebelum, selama, dan setelah menjabat, serta melaporkan dan mengumumkan kekayaannya sebelum dan setelah menjabat.",
+    "source": {
+      "title": "UU No. 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari KKN",
+      "reference": "Pasal 5",
+      "url": "https://datacenter.ortax.org/ortax/aturan/show/25357"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

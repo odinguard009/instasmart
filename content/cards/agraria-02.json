@@ -620,5 +620,576 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-definisi",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Hak jaminan atas hak atas tanah untuk pelunasan utang tertentu yang memberi kedudukan diutamakan kepada kreditor tertentu disebut…",
+    "options": [
+      "Gadai tanah",
+      "Hak retensi",
+      "Hak Tanggungan",
+      "Jaminan fidusia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 1 UU 4/1996. Fidusia untuk benda bergerak dan benda tidak bergerak yang tidak dapat dibebani Hak Tanggungan; gadai untuk benda bergerak yang dikuasai kreditor.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 1 angka 1",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-objek",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Hak atas tanah mana yang menurut Pasal 4 ayat (1) dapat dibebani Hak Tanggungan?",
+    "options": [
+      "Hak Memungut Hasil Hutan",
+      "Hak Milik, HGU, dan HGB",
+      "Hak Sewa untuk Bangunan",
+      "Hak Membuka Tanah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 4 ayat (1). Hak Pakai atas tanah Negara yang wajib didaftar dan dapat dipindahtangankan juga dapat dibebani (ayat (2)).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 4 ayat (1)-(2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-tidak-dibagi",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 2 ayat (1), Hak Tanggungan pada asasnya bersifat…",
+    "options": [
+      "Dapat dibagi-bagi sesuai jumlah cicilan yang sudah dibayar",
+      "Gugur sebagian setiap kali debitor membayar angsuran",
+      "Terbagi rata di antara semua kreditor yang ada",
+      "Tak dapat dibagi-bagi, kecuali diperjanjikan dalam APHT"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 2: tidak dapat dibagi-bagi, kecuali bila dibebankan pada beberapa hak atas tanah dan diperjanjikan pelunasan secara angsuran sesuai nilai masing-masing bidang (istilah praktiknya 'roya parsial').",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 2",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-peringkat",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Satu bidang tanah dibebani dua Hak Tanggungan untuk dua bank. Peringkat masing-masing ditentukan menurut…",
+    "options": [
+      "Kesepakatan para kreditor setelah debitor macet",
+      "Besar kecilnya nilai utang masing-masing",
+      "Tanggal pendaftarannya pada Kantor Pertanahan",
+      "Urutan kreditor yang lebih dulu menagih"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 5 ayat (2); bila didaftar pada tanggal yang sama, menurut tanggal pembuatan APHT (ayat (3)).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-droit-de-suite",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Tanah yang dibebani Hak Tanggungan dijual debitor kepada pihak ketiga. Menurut Pasal 7, Hak Tanggungan…",
+    "options": [
+      "Tetap mengikuti obyeknya di tangan siapa pun",
+      "Hapus karena tanah sudah berganti pemilik",
+      "Hanya berlaku bila pembeli beritikad buruk",
+      "Beralih menjadi jaminan atas uang hasil penjualan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 7 (sifat droit de suite). Pembeli dapat meminta pembersihan Hak Tanggungan melalui penetapan peringkat oleh Ketua PN (Pasal 18 ayat (1) huruf c dan ayat (3)).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-parate",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Debitor cidera janji. Menurut Pasal 6, pemegang Hak Tanggungan pertama berhak…",
+    "options": [
+      "Langsung memiliki obyek sebagai ganti pelunasan utang",
+      "Menjual obyek di bawah tangan tanpa persetujuan siapa pun",
+      "Menyewakan obyek kepada pihak lain sampai utang lunas",
+      "Menjual obyek atas kekuasaan sendiri lewat lelang umum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 6 (parate eksekusi), lalu mengambil pelunasan dari hasil penjualan. Memiliki obyek justru dilarang (Pasal 12), dan penjualan di bawah tangan butuh kesepakatan serta syarat Pasal 20 ayat (2)-(3).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-vervalbeding",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "APHT memuat janji: bila debitor macet, bank langsung menjadi pemilik tanah. Menurut Pasal 12, janji itu…",
+    "options": [
+      "Sah bila disepakati di depan PPAT",
+      "Batal demi hukum",
+      "Sah bila nilai tanah sama dengan utang",
+      "Dapat dibatalkan atas permintaan debitor"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 12: janji yang memberi kewenangan pemegang Hak Tanggungan untuk memiliki obyek bila debitor cidera janji batal demi hukum.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 12",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-apht",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Pemberian Hak Tanggungan dilakukan dengan pembuatan Akta Pemberian Hak Tanggungan oleh…",
+    "options": [
+      "PPAT",
+      "Panitera Pengadilan Negeri",
+      "Notaris saja",
+      "Kepala desa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 10 ayat (2). Pemberian HT didahului janji memberi HT dalam perjanjian utang-piutang pokoknya (ayat (1)).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-kirim-7",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Setelah APHT ditandatangani, PPAT wajib mengirimkan APHT dan warkahnya ke Kantor Pertanahan paling lambat…",
+    "options": [
+      "30 hari kerja",
+      "3 bulan",
+      "14 hari kalender",
+      "7 hari kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 13 ayat (2).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 13 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-lahir",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Kapan Hak Tanggungan lahir menurut Pasal 13 ayat (5)?",
+    "options": [
+      "Pada saat APHT ditandatangani",
+      "Pada saat sertipikat HT diserahkan ke bank",
+      "Pada saat perjanjian kredit ditandatangani",
+      "Pada tanggal buku-tanah Hak Tanggungan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 13 ayat (4)-(5): tanggal buku-tanah adalah hari ketujuh setelah surat-surat lengkap diterima (bila libur, hari kerja berikutnya), dan HT lahir pada tanggal itu. Inilah asas publisitas.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 13 ayat (4)-(5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-eksekutorial",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Sertipikat Hak Tanggungan yang memuat irah-irah 'DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA' mempunyai…",
+    "options": [
+      "Kekuatan pembuktian bebas yang dinilai oleh hakim",
+      "Kekuatan eksekutorial setara putusan inkracht",
+      "Kekuatan sebagai surat di bawah tangan",
+      "Nilai sebagai bukti permulaan saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 14 ayat (2)-(3); berlaku sebagai pengganti grosse acte Hypotheek sepanjang mengenai hak atas tanah. Ini dasar titel eksekutorial dalam Pasal 20 ayat (1) huruf b.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 14",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-skmht-syarat",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Manakah syarat Surat Kuasa Membebankan Hak Tanggungan (SKMHT) menurut Pasal 15 ayat (1)?",
+    "options": [
+      "Tidak memuat kuasa substitusi",
+      "Boleh memuat kuasa menjual tanah",
+      "Boleh tanpa menyebut jumlah utang",
+      "Cukup dibuat di bawah tangan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 15 ayat (1): dibuat dengan akta notaris atau akta PPAT, tidak memuat kuasa perbuatan hukum lain selain membebankan HT, tidak memuat kuasa substitusi, dan mencantumkan jelas obyek, jumlah utang, serta identitas kreditor.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 15 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-skmht-waktu",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "SKMHT atas tanah yang SUDAH terdaftar wajib diikuti pembuatan APHT paling lambat…",
+    "options": [
+      "1 tahun sesudah diberikan",
+      "1 bulan sesudah diberikan",
+      "3 bulan sesudah diberikan",
+      "7 hari kerja sesudah diberikan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 15 ayat (3); untuk tanah yang belum terdaftar 3 bulan (ayat (4)), kecuali kredit tertentu (ayat (5)). Lewat waktu, SKMHT batal demi hukum (ayat (6)).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 15 ayat (3)-(6)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-skmht-batal",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "SKMHT tidak diikuti pembuatan APHT dalam jangka waktu yang ditentukan. Akibatnya SKMHT itu…",
+    "options": [
+      "Batal demi hukum",
+      "Diperpanjang otomatis satu kali",
+      "Dapat dibatalkan oleh pemberi kuasa",
+      "Tetap berlaku sampai dicabut"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 15 ayat (6). Selain itu SKMHT tidak dapat ditarik kembali atau berakhir oleh sebab apa pun kecuali telah dilaksanakan atau habis jangka waktunya (ayat (2)).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 15 ayat (2) dan (6)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-cessie",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Bank A menjual piutangnya (cessie) kepada Bank B. Hak Tanggungan yang menjamin piutang itu…",
+    "options": [
+      "Beralih hanya bila debitor menyetujuinya secara tertulis",
+      "Tetap dipegang Bank A sebagai kuasa Bank B",
+      "Hapus dan harus dibebankan ulang oleh debitor ke Bank B",
+      "Ikut beralih karena hukum dan wajib didaftarkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 16 ayat (1)-(2): HT ikut beralih karena hukum bila piutang beralih karena cessie, subrogasi, pewarisan, atau sebab lain; kreditor baru wajib mendaftarkannya. Ini cerminan sifat accessoir.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 16",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-hapus",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Manakah yang menyebabkan Hak Tanggungan hapus menurut Pasal 18 ayat (1)?",
+    "options": [
+      "Obyek dijual kepada pihak ketiga",
+      "Meninggalnya debitor",
+      "Pemberi HT dinyatakan pailit",
+      "Hapusnya utang yang dijamin"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 18 ayat (1): hapusnya utang, dilepaskan pemegangnya, pembersihan berdasarkan penetapan peringkat Ketua PN, dan hapusnya hak atas tanah. Pailitnya pemberi HT tidak menghapus HT (Pasal 21), dan HT mengikuti obyeknya (Pasal 7).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 18 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-tanah-hapus",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "HGB yang dibebani Hak Tanggungan berakhir dan tidak diperpanjang, sehingga HT hapus. Bagaimana dengan utangnya?",
+    "options": [
+      "Utang tetap ada; jaminannya yang hapus",
+      "Utang beralih menjadi tanggungan negara",
+      "Utang ikut hapus bersama jaminannya itu",
+      "Utang berkurang sebesar nilai tanah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 18 ayat (4): hapusnya HT karena hapusnya hak atas tanah tidak menyebabkan hapusnya utang yang dijamin. Kreditor kehilangan kedudukan diutamakan, bukan piutangnya.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 18 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-bawah-tangan",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Pemberi dan pemegang HT sepakat menjual obyek di bawah tangan agar harga lebih tinggi. Menurut Pasal 20 ayat (3), penjualan itu baru dapat dilakukan setelah…",
+    "options": [
+      "Lewat 7 hari sejak obyek ditawarkan kembali kepada debitor",
+      "Mendapat penetapan Ketua Pengadilan Negeri setempat lebih dulu",
+      "Lewat 1 bulan sejak diumumkan, tanpa keberatan",
+      "Disetujui oleh seluruh kreditor konkuren milik debitor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20 ayat (2)-(3): pemberitahuan tertulis kepada pihak berkepentingan, pengumuman sedikitnya di 2 surat kabar dan/atau media setempat, lewat 1 bulan, dan tidak ada keberatan. Janji eksekusi yang menyimpang batal demi hukum (ayat (4)).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 20 ayat (2)-(4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-lunasi",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Obyek Hak Tanggungan akan dilelang. Sampai kapan debitor masih dapat menghindarkan penjualan dengan melunasi utang dan biaya eksekusi?",
+    "options": [
+      "Sampai pemenang lelang membayar lunas harga",
+      "Tidak bisa lagi setelah cidera janji",
+      "Sampai 30 hari setelah lelang",
+      "Sampai pengumuman lelang dikeluarkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 20 ayat (5).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 20 ayat (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-pailit",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Pemberi Hak Tanggungan dinyatakan pailit. Menurut Pasal 21 UU Hak Tanggungan, pemegang HT…",
+    "options": [
+      "Hanya mendapat bagian setelah pajak dan upah dibayar penuh",
+      "Harus menunggu kurator membagi harta secara rata",
+      "Tetap berwenang melakukan segala haknya menurut UU HT",
+      "Kehilangan haknya dan menjadi kreditor konkuren"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 21 UU HT. Bagaimana hak itu dijalankan dalam proses kepailitan (misalnya masa penangguhan) diatur juga dalam UU Kepailitan; ketentuan itu belum diperiksa di sini.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 21",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-sarusun",
+    "type": "quiz",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "question": "Menurut Pasal 27, ketentuan UU Hak Tanggungan berlaku juga terhadap pembebanan hak jaminan atas…",
+    "options": [
+      "Rumah susun dan HM satuan rumah susun",
+      "Kendaraan bermotor yang terdaftar",
+      "Pesawat terbang dan helikopter sipil milik swasta",
+      "Kapal laut yang berukuran 20 m3 ke atas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 27. Kapal yang terdaftar dibebani hipotek menurut peraturan pelayaran; kendaraan bermotor biasanya dengan fidusia.",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 27",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-humor-vervalbeding",
+    "type": "humor",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "comic",
+      "title": "Klausul tebal, nilai nol",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Kalau macet sebulan, rumahnya otomatis jadi milik bank ya."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Lho, ada pasal begitu?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Ada. Pasal 12: janji begitu batal demi hukum."
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Yah, padahal sudah dicetak tebal di APHT."
+        }
+      ]
+    },
+    "caption": "Dicetak tebal tidak membuat janji terlarang jadi sah.",
+    "teaches": "Janji yang memberi kewenangan kepada pemegang Hak Tanggungan untuk memiliki obyek Hak Tanggungan bila debitor cidera janji batal demi hukum (Pasal 12); obyek dijual melalui pelelangan umum (Pasal 6 dan 20).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 12",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "agraria-ht-humor-pindah-tangan",
+    "type": "humor",
+    "topicId": "agraria",
+    "subTopicId": "hak-atas-tanah",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "meme",
+      "top": "Jual rumah yang masih diagunkan biar 'jaminannya ikut hilang'",
+      "bottom": "Pasal 7: Hak Tanggungan mengikuti obyeknya, di tangan siapa pun.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Jaminan itu bukan stiker yang lepas saat pindah rumah.",
+    "teaches": "Hak Tanggungan tetap mengikuti obyeknya dalam tangan siapa pun obyek tersebut berada (Pasal 7).",
+    "source": {
+      "title": "UU No. 4 Tahun 1996 tentang Hak Tanggungan",
+      "reference": "Pasal 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

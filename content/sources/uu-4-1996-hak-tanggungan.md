@@ -1,0 +1,78 @@
+# UU No. 4 Tahun 1996 tentang Hak Tanggungan (kutipan)
+
+> Diambil pada 12 November 2026 dari salinan teks UU di DDTC (perpajakan.ddtc.co.id), bukan dari Lembaran Negara resmi.
+> URL: https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-4-tahun-1996
+> Peraturan pelaksana (misalnya pendaftaran Hak Tanggungan elektronik), ketentuan lelang, dan putusan MK belum diperiksa. Pasal 1 dikutip sebagian (angka 1). Pasal 19 tidak terbaca utuh dari salinan sehingga tidak dikutip.
+> Kutipan disalin dari salinan tersebut; judul bab/bagian yang ikut terbawa dibuang.
+
+## Pasal 1
+
+"Dalam Undang-Undang ini yang dimaksud dengan: 1. Hak Tanggungan atas tanah beserta benda-benda yang berkaitan dengan tanah, yang selanjutnya disebut Hak Tanggungan, adalah hak jaminan yang dibebankan pada hak atas tanah sebagaimana dimaksud dalam Undang-Undang Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria, berikut atau tidak berikut benda-benda lain yang merupakan satu kesatuan dengan tanah itu, untuk pelunasan utang tertentu, yang memberikan kedudukan yang diutamakan kepada kreditor tertentu terhadap kreditor-kreditor lain; (...)"
+
+## Pasal 2
+
+"(1)  Hak Tanggungan mempunyai sifat tidak dapat dibagi-bagi, kecuali jika diperjanjikan dalam Akta Pemberian Hak Tanggungan sebagaimana dimaksud pada ayat (2). (2)  Apabila Hak Tanggungan dibebankan pada beberapa hak atas tanah, dapat diperjanjikan dalam Akta Pemberian Hak Tanggungan yang bersangkutan, bahwa pelunasan utang yang dijamin dapat dilakukan dengan cara angsuran yang besarnya sama dengan nilai masing-masing hak atas tanah yang merupakan bagian dari obyek Hak Tanggungan, yang akan dibebaskan dari Hak Tanggungan tersebut, sehingga kemudian Hak Tanggungan itu hanya membebani sisa obyek Hak Tanggungan untuk menjamin sisa utang yang belum dilunasi."
+
+## Pasal 4
+
+"(1)  Hak atas tanah yang dapat dibebani Hak Tanggungan adalah: a. Hak Milik; b. Hak Guna Usaha; c. Hak Guna Bangunan. (2)  Selain hak-hak atas tanah sebagaimana dimaksud pada ayat (1), Hak Pakai atas tanah Negara yang menurut ketentuan yang berlaku wajib didaftar dan menurut sifatnya dapat dipindahtangankan dapat juga dibebani Hak Tanggungan. (3)  Pembebanan Hak Tanggungan pada Hak Pakai atas tanah Hak Milik akan diatur lebih lanjut dengan Peraturan Pemerintah. (4)  Hak Tanggungan dapat juga dibebankan pada hak atas tanah berikut bangunan, tanaman, dan hasil karya yang telah ada atau akan ada yang merupakan satu kesatuan dengan tanah tersebut, dan yang merupakan milik pemegang hak atas tanah yang pembebanannya dengan tegas dinyatakan di dalam Akta Pemberian Hak Tanggungan yang bersangkutan. (5)  Apabila bangunan, tanaman, dan hasil karya sebagaimana dimaksud pada ayat (4) tidak dimiliki oleh pemegang hak atas tanah, pembebanan Hak Tanggungan atas benda-benda tersebut hanya dapat dilakukan dengan penandatanganan serta pada Akta Pemberian Hak Tanggungan yang bersangkutan oleh pemiliknya atau yang diberi kuasa untuk itu olehnya dengan akta otentik."
+
+## Pasal 5
+
+"(1)  Suatu obyek Hak Tanggungan dapat dibebani dengan lebih dari satu Hak Tanggungan guna menjamin pelunasan lebih dari satu utang. (2)  Apabila suatu obyek Hak Tanggungan dibebani dengan lebih dari satu Hak Tanggungan, peringkat masing-masing Hak Tanggungan ditentukan menurut tanggal pendaftarannya pada Kantor Pertanahan. (3)  Peringkat Hak Tanggungan yang didaftar pada tanggal yang sama ditentukan menurut tanggal pembuatan Akta Pemberian Hak Tanggungan yang bersangkutan."
+
+## Pasal 6
+
+"Apabila debitor cidera janji, pemegang Hak Tanggungan pertama mempunyai hak untuk menjual obyek Hak Tanggungan atas kekuasaan sendiri melalui pelelangan umum serta mengambil pelunasan piutangnya dari hasil penjualan tersebut."
+
+## Pasal 7
+
+"Hak Tanggungan tetap mengikuti obyeknya dalam tangan siapa pun obyek tersebut berada."
+
+## Pasal 8
+
+"(1)  Pemberi Hak Tanggungan adalah orang perseorangan atau badan hukum yang mempunyai kewenangan untuk melakukan perbuatan hukum terhadap obyek Hak Tanggungan yang bersangkutan. (2)  Kewenangan untuk melakukan perbuatan hukum terhadap obyek Hak Tanggungan sebagaimana dimaksud pada ayat (1) harus ada pada pemberi Hak Tanggungan pada saat pendaftaran Hak Tanggungan dilakukan."
+
+## Pasal 10
+
+"(1)  Pemberian Hak Tanggungan didahului dengan janji untuk memberikan Hak Tanggungan sebagai jaminan pelunasan utang tertentu, yang dituangkan di dalam dan merupakan bagian tak terpisahkan dari perjanjian utang-piutang yang bersangkutan atau perjanjian lainnya yang menimbulkan utang tersebut. (2)  Pemberian Hak Tanggungan dilakukan dengan pembuatan Akta Pemberian Hak Tanggungan oleh PPAT sesuai dengan peraturan perundang-undangan yang berlaku. (3)  Apabila obyek Hak Tanggungan berupa hak atas tanah yang berasal dari konversi hak lama yang telah memenuhi syarat untuk didaftarkan akan tetapi pendaftarannya belum dilakukan, pemberian Hak Tanggungan dilakukan bersamaan dengan permohonan pendaftaran hak atas tanah yang bersangkutan."
+
+## Pasal 11
+
+"(1)  Di dalam Akta Pemberian Hak Tanggungan wajib dicantumkan: a. Nama dan identitas pemegang dan pemberi Hak Tanggungan; b. Domisili pihak-pihak sebagaimana dimaksud pada huruf a, dan apabila diantara mereka ada yang berdomisili di luar Indonesia, baginya harus pula dicantumkan suatu domisili pilihan di Indonesia, dan dalam hal domisili pilihan itu tidak dicantumkan, kantor PPAT tempat pembuatan Akta Pemberian Hak Tanggungan dianggap sebagai domisili yang dipilih; c. Penunjukan secara jelas utang atau utang-utang yang dijamin sebagaimana dimaksud dalam Pasal 3 dan Pasal 10 ayat (1); d. Nilai tanggungan; e. Uraian yang jelas mengenai obyek Hak Tanggungan. (2)  Dalam Akta Pemberian Hak Tanggungan dapat dicantumkan janji-janji, antara lain: a. Janji yang membatasi kewenangan pemberi Hak Tanggungan untuk menyewakan obyek Hak Tanggungan dan/atau menentukan atau mengubah jangka waktu sewa dan/atau menerima uang sewa di muka. kecuali dengan persetujuan tertulis lebih dahulu dari pemegang Hak Tanggungan; b. Janji yang membatasi kewenangan pemberi Hak Tanggungan untuk mengubah bentuk atau tata susunan obyek Hak Tanggungan, kecuali dengan persetujuan tertulis lebih dahulu dari pemegang Hak Tanggungan; c. Janji yang memberikan kewenangan kepada pemegang Hak Tanggungan untuk mengelola obyek Hak Tanggungan berdasarkan penetapan Ketua Pengadilan Negeri yang daerah hukumnya meliputi letak obyek Hak Tanggungan apabila debitor sungguh-sungguh cidera janji; d. Janji yang memberikan kewenangan kepada pemegang Hak Tanggungan untuk menyelamatkan obyek Hak Tanggungan, jika hal itu diperlukan untuk pelaksanaan eksekusi atau untuk mencegah menjadi hapusnya atau dibatalkannya hak yang menjadi obyek Hak Tanggungan karena tidak dipenuhi atau dilanggarnya ketentuan Undang-Undang; e. Janji bahwa pemegang Hak Tanggungan pertama mempunyai hak untuk menjual atas kekuasaan sendiri obyek Hak Tanggungan apabila debitor cidera janji; f. Janji yang diberikan oleh pemegang Hak Tanggungan pertama bahwa obyek Hak Tanggungan tidak akan dibersihkan dari Hak Tanggungan; g. Janji bahwa pemberi Hak Tanggungan tidak akan melepaskan haknya atas obyek Hak Tanggungan tanpa persetujuan tertulis lebih dahulu dari pemegang Hak Tanggungan; h. Janji bahwa pemegang Hak Tanggungan akan memperoleh seluruh atau sebagian dari ganti rugi yang diterima pemberi Hak Tanggungan untuk pelunasan piutangnya apabila obyek Hak Tanggungan dilepaskan haknya oleh pemberi Hak Tanggungan atau dicabut haknya untuk kepentingan umum; i. Janji bahwa pemegang Hak Tanggungan akan memperoleh seluruh atau sebagian dari uang asuransi yang diterima pemberi Hak Tanggungan untuk pelunasan piutangnya, jika obyek Hak Tanggungan diasuransikan; j. Janji bahwa pemberi Hak Tanggungan akan mengosongkan obyek Hak Tanggungan pada waktu eksekusi Hak Tanggungan; k. Janji yang dimaksud dalam Pasal 14 ayat (4)."
+
+## Pasal 12
+
+"Janji yang memberikan kewenangan kepada pemegang Hak Tanggungan untuk memiliki obyek Hak Tanggungan apabila debitor cidera janji, batal demi hukum."
+
+## Pasal 13
+
+"(1)  Pemberian Hak Tanggungan wajib didaftarkan pada Kantor Pertanahan. (2)  Selambat-lambatnya 7 (tujuh) hari kerja setelah penandatanganan Akta Pemberian Hak Tanggungan sebagaimana dimaksud dalam Pasal 10 ayat (2), PPAT wajib mengirimkan Akta Pemberian Hak Tanggungan yang bersangkutan dan warkah lain yang diperlukan kepada Kantor Pertanahan. (3)  Pendaftaran Hak Tanggungan sebagaimana dimaksud pada ayat (1) dilakukan oleh Kantor Pertanahan dengan membuatkan buku-tanah Hak Tanggungan dan mencatatnya dalam buku-tanah hak atas tanah yang menjadi obyek Hak Tanggungan serta menyalin catatan tersebut pada sertipikat hak atas tanah yang bersangkutan. (4)  Tanggal buku-tanah Hak Tanggungan sebagaimana dimaksud pada ayat (3) adalah tanggal hari ketujuh setelah penerimaan secara lengkap surat-surat yang diperlukan bagi pendaftarannya dan jika hari ketujuh itu jatuh pada hari libur, buku-tanah yang bersangkutan diberi bertanggal hari kerja berikutnya. (5)  Hak Tanggungan lahir pada hari tanggal buku-tanah Hak Tanggungan sebagaimana dimaksud pada ayat (4)."
+
+## Pasal 14
+
+"(1)  Sebagai tanda bukti adanya Hak Tanggungan, Kantor Pertanahan menerbitkan sertipikat Hak Tanggungan sesuai dengan peraturan perundang-undangan yang berlaku. (2)  Sertipikat Hak Tanggungan sebagaimana dimaksud pada ayat (1) memuat irah-irah dengan kata-kata "DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA". (3)  Sertipikat Hak Tanggungan sebagaimana dimaksud pada ayat (2) mempunyai kekuatan eksekutorial yang sama dengan putusan pengadilan yang telah memperoleh kekuatan hukum tetap dan berlaku sebagai pengganti grosse acte Hypotheek sepanjang mengenai hak atas tanah. (4)  Kecuali apabila diperjanjikan lain, sertipikat hak atas tanah yang telah dibubuhi catatan pembebanan Hak Tanggungan sebagaimana dimaksud dalam Pasal 13 ayat (3) dikembalikan kepada pemegang hak atas tanah yang bersangkutan. (5)  Sertipikat Hak Tanggungan diserahkan kepada pemegang Hak Tanggungan."
+
+## Pasal 15
+
+"(1)  Surat Kuasa Membebankan Hak Tanggungan wajib dibuat dengan akta notaris atau akta PPAT dan memenuhi persyaratan sebagai berikut: a. Tidak memuat kuasa untuk melakukan perbuatan hukum lain daripada membebankan Hak Tanggungan; b. Tidak memuat kuasa substitusi; c. Mencantumkan secara jelas obyek Hak Tanggungan, jumlah utang dan nama serta identitas kreditornya, nama dan identitas debitor apabila debitor bukan pemberi Hak Tanggungan. (2)  Kuasa Untuk Membebankan Hak Tanggungan tidak dapat ditarik kembali atau tidak dapat berakhir oleh sebab apapun juga kecuali karena kuasa tersebut telah dilaksanakan atau karena telah habis jangka waktunya sebagaimana dimaksud pada ayat (3) dan ayat (4). (3)  Surat Kuasa Membebankan Hak Tanggungan mengenai hak atas tanah yang sudah terdaftar wajib diikuti dengan pembuatan Akta Pemberian Hak Tanggungan selambat-lambatnya 1 (satu) bulan sesudah diberikan. (4)  Surat Kuasa Membebankan Hak Tanggungan mengenai hak atas tanah yang belum terdaftar wajib diikuti dengan pembuatan Akta Pemberian Hak Tanggungan selambat-lambatnya 3 (tiga) bulan sesudah diberikan. (5)  Ketentuan sebagaimana dimaksud pada ayat (3) dan ayat (4) tidak berlaku dalam hal Surat Kuasa Membebankan Hak Tanggungan diberikan untuk menjamin kredit tertentu yang ditetapkan dalam peraturan perundang-undangan yang berlaku. (6)  Surat Kuasa Membebankan Hak Tanggungan yang tidak diikuti dengan pembuatan Akta Pemberian Hak Tanggungan dalam waktu yang ditentukan sebagaimana yang dimaksud pada ayat (3) atau ayat (4), atau waktu yang ditentukan menurut ketentuan sebagaimana yang dimaksud pada ayat (5) batal demi hukum."
+
+## Pasal 16
+
+"(1)  Jika piutang yang dijamin dengan Hak Tanggungan beralih karena cessie, subrogasi, pewarisan, atau sebab-sebab lain, Hak Tanggungan tersebut ikut beralih karena hukum kepada kreditor yang baru. (2)  Beralihnya Hak Tanggungan sebagaimana dimaksud pada ayat (1) wajib didaftarkan oleh kreditor yang baru kepada Kantor Pertanahan. (3)  Pendaftaran beralihnya Hak Tanggungan sebagaimana dimaksud pada ayat (2) dilakukan oleh Kantor Pertanahan dengan mencatatnya pada buku-tanah Hak Tanggungan dan buku-tanah hak atas tanah yang menjadi obyek Hak Tanggungan serta menyalin catatan tersebut pada sertipikat Hak Tanggungan dan sertipikat hak atas tanah yang bersangkutan. (4)  Tanggal pencatatan pada buku-tanah sebagaimana dimaksud pada ayat (3) adalah tanggal hari ketujuh setelah diterimanya secara lengkap surat-surat yang diperlukan bagi pendaftaran beralihnya Hak Tanggungan dan jika hari ketujuh itu jatuh pada hari libur, catatan itu diberi bertanggal hari kerja berikutnya. (5)  Beralihnya Hak Tanggungan mulai berlaku bagi pihak ketiga pada hari tanggal pencatatan sebagaimana dimaksud pada ayat (4)."
+
+## Pasal 18
+
+"(1)  Hak Tanggungan hapus karena hal-hal sebagai berikut: a. Hapusnya utang yang dijamin dengan Hak Tanggungan; b. Dilepaskannya Hak Tanggungan oleh pemegang Hak Tanggungan; c. Pembersihan Hak Tanggungan berdasarkan penetapan peringkat oleh Ketua Pengadilan Negeri; d. Hapusnya hak atas tanah yang dibebani Hak Tanggungan. (2)  Hapusnya Hak Tanggungan karena dilepaskan oleh pemegangnya dilakukan dengan pemberian pernyataan tertulis mengenai dilepaskannya Hak Tanggungan tersebut oleh pemegang Hak Tanggungan kepada pemberi Hak Tanggungan. (3)  Hapusnya Hak Tanggungan karena pembersihan Hak Tanggungan berdasarkan penetapan peringkat oleh Ketua Pengadilan Negeri terjadi karena permohonan pembeli hak atas tanah yang dibebani Hak Tanggungan tersebut agar hak atas tanah yang dibelinya itu dibersihkan dari beban Hak Tanggungan sebagaimana diatur dalam Pasal 19. (4)  Hapusnya Hak Tanggungan karena hapusnya hak atas tanah yang dibebani Hak Tanggungan tidak menyebabkan hapusnya utang yang dijamin."
+
+## Pasal 20
+
+"(1)  Apabila debitor cidera janji, maka berdasarkan: a. Hak pemegang Hak Tanggungan pertama untuk menjual obyek Hak Tanggungan sebagaimana dimaksud dalam Pasal 6, atau b. Titel eksekutorial yang terdapat dalam sertipikat Hak Tanggungan sebagaimana dimaksud dalam Pasal 14 ayat (2), obyek Hak Tanggungan dijual melalui pelelangan umum menurut tata cara yang ditentukan dalam peraturan perundang-undangan untuk pelunasan piutang pemegang Hak Tanggungan dengan hak mendahulu dari pada kreditor-kreditor lainnya. (2)  Atas kesepakatan pemberi dan pemegang Hak Tanggungan, penjualan obyek Hak Tanggungan dapat dilaksanakan di bawah tangan jika dengan demikian itu akan dapat diperoleh harga tertinggi yang menguntungkan semua pihak. (3)  Pelaksanaan penjualan sebagaimana dimaksud pada ayat (2) hanya dapat dilakukan setelah lewat waktu 1 (satu) bulan sejak diberitahukan secara tertulis oleh pemberi dan/atau pemegang Hak Tanggungan kepada pihak-pihak yang berkepentingan dan diumumkan sedikit-dikitnya dalam 2 (dua) surat kabar yang beredar di daerah yang bersangkutan dan/atau media massa setempat, serta tidak ada pihak yang menyatakan keberatan. (4)  Setiap janji untuk melaksanakan eksekusi Hak Tanggungan dengan cara yang bertentangan dengan ketentuan pada ayat (1), ayat (2), dan ayat (3) batal demi hukum. (5)  Sampai saat pengumuman untuk lelang dikeluarkan, penjualan sebagaimana dimaksud pada ayat (1) dapat dihindarkan dengan pelunasan utang yang dijamin dengan Hak Tanggungan itu beserta biaya-biaya eksekusi yang telah dikeluarkan."
+
+## Pasal 21
+
+"Apabila pemberi Hak Tanggungan dinyatakan pailit, pemegang Hak Tanggungan tetap berwenang melakukan segala hak yang diperolehnya menurut ketentuan Undang-Undang ini."
+
+## Pasal 27
+
+"Ketentuan Undang-Undang ini berlaku juga terhadap pembebanan hak jaminan atas Rumah Susun dan Hak Milik atas Satuan Rumah Susun."

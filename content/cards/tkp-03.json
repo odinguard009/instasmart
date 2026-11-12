@@ -1486,5 +1486,739 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "tkp-pelpub-maklumat",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Pernyataan tertulis yang berisi keseluruhan rincian kewajiban dan janji yang terdapat dalam standar pelayanan disebut…",
+    "options": [
+      "Standar pelayanan",
+      "Sistem informasi pelayanan",
+      "Maklumat pelayanan",
+      "Tanda terima pengaduan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 8: maklumat pelayanan adalah pernyataan tertulis berisi rincian kewajiban dan janji dalam standar pelayanan. Standar pelayanan sendiri (angka 7) adalah tolok ukur/pedomannya.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 1 angka 8",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-standar",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Tolok ukur yang dipakai sebagai pedoman penyelenggaraan pelayanan dan acuan penilaian kualitas pelayanan sebagai kewajiban dan janji penyelenggara disebut…",
+    "options": [
+      "Standar pelayanan",
+      "Indeks kepuasan masyarakat",
+      "Maklumat pelayanan",
+      "Rencana strategis instansi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 angka 7: standar pelayanan, dalam rangka pelayanan yang berkualitas, cepat, mudah, terjangkau, dan terukur.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 1 angka 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-pelaksana",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Menurut UU Pelayanan Publik, pejabat, pegawai, petugas, dan setiap orang di organisasi penyelenggara yang bertugas melaksanakan tindakan pelayanan disebut…",
+    "options": [
+      "Pengawas fungsional",
+      "Atasan satuan kerja",
+      "Penyelenggara",
+      "Pelaksana"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 5 menyebutnya Pelaksana. Penyelenggara (angka 2) adalah institusinya: penyelenggara negara, korporasi, lembaga independen, atau badan hukum lain untuk pelayanan publik.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 1 angka 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-braille",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Menurut definisi Sistem Informasi dalam UU Pelayanan Publik, informasi dapat disampaikan dalam bentuk berikut, KECUALI…",
+    "options": [
+      "Tulisan dalam huruf Braille",
+      "Hanya bahasa Inggris resmi",
+      "Bahasa gambar",
+      "Bahasa lokal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 9 menyebut bentuk lisan, tulisan Latin, huruf Braille, bahasa gambar, dan/atau bahasa lokal, disajikan manual atau elektronik. Bahasa Inggris tidak disebut.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 1 angka 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-asas-bukan",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Manakah yang TIDAK termasuk asas penyelenggaraan pelayanan publik dalam Pasal 4 UU 25/2009?",
+    "options": [
+      "Partisipatif",
+      "Keterbukaan informasi",
+      "Efisiensi anggaran",
+      "Ketepatan waktu dalam pelayanan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 4 memuat 12 asas, antara lain kepentingan umum, kepastian hukum, kesamaan hak, keprofesionalan, partisipatif, tidak diskriminatif, keterbukaan, akuntabilitas, perlakuan khusus kelompok rentan, ketepatan waktu, serta kecepatan, kemudahan, dan keterjangkauan. 'Efisiensi anggaran' tidak ada.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 4",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-rentan",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Asas pelayanan publik yang menjadi dasar disediakannya kursi roda dan loket prioritas bagi lansia adalah…",
+    "options": [
+      "Keprofesionalan pelaksana",
+      "Keseimbangan hak dan kewajiban antara warga dan petugas",
+      "Kepastian hukum bagi semua pemohon",
+      "Fasilitas dan perlakuan khusus bagi kelompok rentan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 4 huruf j. Pasal 29 juga mewajibkan perlakuan khusus kepada anggota masyarakat tertentu, dan fasilitas khusus itu dilarang dipakai orang yang tidak berhak.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 4 huruf j dan Pasal 29",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-fasilitas-khusus",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Seorang pemuda sehat parkir di slot khusus penyandang disabilitas di kantor pelayanan 'karena cuma sebentar'. Menurut Pasal 29 ayat (2), sarana dengan perlakuan khusus…",
+    "options": [
+      "Boleh dipakai siapa saja selama slotnya sedang kosong",
+      "Boleh dipakai asal sudah minta izin kepada satpam",
+      "Dilarang digunakan oleh orang yang tidak berhak",
+      "Hanya berlaku pada hari dan jam kerja kantor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 29 ayat (2): sarana, prasarana, dan/atau fasilitas pelayanan publik dengan perlakuan khusus dilarang digunakan oleh orang yang tidak berhak. 'Sebentar' tidak mengubah hak.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 29 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-komisaris",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Pelaksana pelayanan publik yang berasal dari instansi pemerintah, BUMN, atau BUMD dilarang…",
+    "options": [
+      "Mengikuti pelatihan kompetensi di luar kantor pada hari libur",
+      "Menulis artikel ilmiah tentang mutu pelayanan publik",
+      "Menjadi anggota biasa koperasi pegawai di kantornya",
+      "Merangkap sebagai komisaris atau pengurus organisasi usaha"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 17 huruf a. Larangan lain: meninggalkan tugas tanpa alasan sah, menambah pelaksana atau membuat perjanjian kerja sama tanpa persetujuan penyelenggara, dan melanggar asas pelayanan publik.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 17 huruf a",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-tambah-pelaksana",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Petugas loket diam-diam mengajak kerabatnya membantu melayani antrean tanpa persetujuan kantor. Perbuatan ini dilarang oleh Pasal 17 sebagai…",
+    "options": [
+      "Menambah pelaksana tanpa persetujuan penyelenggara",
+      "Pelanggaran kewajiban masyarakat menjaga sarana publik",
+      "Penyalahgunaan maklumat pelayanan oleh petugas loket",
+      "Pelanggaran hak masyarakat untuk mengadukan pelaksana"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 17 huruf c melarang pelaksana menambah pelaksana tanpa persetujuan penyelenggara. Niat baik membantu antrean tidak menghapus larangan ini.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 17 huruf c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-hak-masyarakat",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Manakah yang termasuk HAK masyarakat menurut Pasal 18 UU Pelayanan Publik?",
+    "options": [
+      "Menetapkan maklumat pelayanan",
+      "Menjaga terpeliharanya sarana pelayanan",
+      "Mengawasi pelaksanaan standar pelayanan",
+      "Mematuhi persyaratan standar pelayanan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 18 huruf b. Menjaga sarana dan mematuhi persyaratan adalah KEWAJIBAN masyarakat (Pasal 19), sedangkan menetapkan maklumat adalah kewajiban penyelenggara (Pasal 15 dan 22).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 18 huruf b",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-libatkan",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Dalam menyusun dan menetapkan standar pelayanan, penyelenggara wajib…",
+    "options": [
+      "Mengikutsertakan masyarakat dan pihak terkait",
+      "Merahasiakannya dari publik sampai resmi disahkan",
+      "Menyerahkan seluruh penyusunannya kepada konsultan",
+      "Meminta persetujuan tertulis dari Ombudsman lebih dulu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 20 ayat (2), dengan prinsip tidak diskriminatif, terkait langsung dengan jenis pelayanan, kompeten, musyawarah, dan memperhatikan keberagaman (ayat (4)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 20 ayat (2) dan (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-komponen",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Manakah yang termasuk komponen standar pelayanan menurut Pasal 21?",
+    "options": [
+      "Jumlah pengikut akun media sosial resmi instansi",
+      "Jangka waktu penyelesaian dan biaya/tarif",
+      "Target pendapatan asli daerah tahun berjalan",
+      "Daftar nama anggota keluarga setiap pelaksana"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 21 memuat sekurang-kurangnya 14 komponen, antara lain dasar hukum, persyaratan, prosedur, jangka waktu penyelesaian, biaya/tarif, produk pelayanan, kompetensi pelaksana, penanganan pengaduan, dan evaluasi kinerja pelaksana.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 21",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-maklumat-publikasi",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Maklumat pelayanan menurut Pasal 22 ayat (2) wajib…",
+    "options": [
+      "Dipublikasikan secara jelas dan luas",
+      "Diperbarui setiap pergantian kepala dinas",
+      "Disimpan di arsip internal pimpinan",
+      "Diberikan hanya kepada pemohon yang meminta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 22: maklumat adalah pernyataan kesanggupan penyelenggara melaksanakan pelayanan sesuai standar, dan ayat (2) mewajibkan publikasi yang jelas dan luas.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 22",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-tidak-mempersulit",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Petugas meminta pemohon bolak-balik tiga kali untuk syarat yang tidak tercantum di standar pelayanan. Perilaku pelaksana yang dilanggar menurut Pasal 34 terutama adalah…",
+    "options": [
+      "Santun dan ramah kepada setiap pemohon yang datang ke loket",
+      "Patuh pada perintah atasan yang sah dan wajar",
+      "Tidak membocorkan informasi atau dokumen rahasia",
+      "Tidak mempersulit dan tidak menyimpang dari prosedur"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 34 huruf f (tidak mempersulit) dan huruf o (tidak menyimpang dari prosedur). Bisa saja ia tetap ramah, tapi ramah sambil mempersulit tetap melanggar.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 34 huruf f dan o",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-biaya",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Menurut Pasal 31 ayat (4), penentuan biaya/tarif pelayanan publik ditetapkan…",
+    "options": [
+      "Oleh pelaksana loket sesuai kesepakatan lisan dengan setiap pemohon layanan",
+      "Dengan persetujuan DPR/DPRD dan berdasarkan peraturan perundang-undangan",
+      "Secara sukarela sesuai kemampuan serta keikhlasan masing-masing pemohon",
+      "Oleh kepala kantor setiap awal bulan melalui pengumuman di papan informasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 31 ayat (4). Jadi tarif bukan hasil tawar-menawar di loket, dan 'seikhlasnya' tidak punya dasar dalam pasal ini.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 31 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-pengawasan-eksternal",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Manakah yang termasuk pengawasan EKSTERNAL penyelenggaraan pelayanan publik menurut Pasal 35?",
+    "options": [
+      "Pengawasan oleh ombudsman",
+      "Pengawasan oleh sesama pelaksana loket",
+      "Pengawasan oleh atasan langsung",
+      "Pengawasan oleh pengawas fungsional"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 35 ayat (3): pengawasan eksternal oleh masyarakat, ombudsman, dan DPR/DPRD. Atasan langsung dan pengawas fungsional adalah pengawasan internal (ayat (2)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 35",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-mengadu-ke",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Menurut Pasal 40 ayat (1), masyarakat berhak mengadukan penyelenggaraan pelayanan publik kepada…",
+    "options": [
+      "Hanya kepada kementerian yang membidangi urusan itu",
+      "Penyelenggara, ombudsman, dan/atau DPR/DPRD",
+      "Hanya kepada kepolisian di wilayah setempat",
+      "Hanya kepada pengadilan negeri di domisili pengadu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 40 ayat (1). Pengaduan ditujukan terhadap penyelenggara yang tidak melaksanakan kewajiban/melanggar larangan, atau pelaksana yang memberi pelayanan tidak sesuai standar (ayat (3)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 40",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-30-hari",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Menurut Pasal 42 ayat (2), pengaduan dilakukan paling lambat…",
+    "options": [
+      "1 tahun sejak kerugian diketahui",
+      "60 hari sejak pelayanan diumumkan",
+      "14 hari sejak pengadu menerima pelayanan",
+      "30 hari sejak pengadu menerima pelayanan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 42 ayat (2): paling lambat 30 hari sejak pengadu menerima pelayanan. Angka 14 hari adalah batas penyelenggara/ombudsman menanggapi pengaduan (Pasal 44 ayat (3)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 42 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-rahasia",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Seorang pengadu takut dibalas jika namanya diketahui. Menurut Pasal 42 ayat (5)…",
+    "options": [
+      "Identitas pengadu wajib diumumkan ke publik agar prosesnya transparan",
+      "Pengadu yang takut harus diwakili advokat berlisensi",
+      "Dalam keadaan tertentu, nama dan identitas pengadu dapat dirahasiakan",
+      "Pengaduan tanpa nama terang selalu ditolak tanpa diperiksa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 42 ayat (5). Pengaduan juga bisa diajukan oleh pihak lain yang menerima kuasa (ayat (1)), dan pengadu boleh memasukkan tuntutan ganti rugi (ayat (4)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 42 ayat (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-tanggap-14",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Penyelenggara dan/atau ombudsman wajib menanggapi pengaduan masyarakat paling lambat…",
+    "options": [
+      "14 hari sejak pengaduan diterima",
+      "7 hari kerja sejak pengaduan dicatat",
+      "30 hari sejak pengaduan diterima",
+      "60 hari sejak berkas dinyatakan lengkap"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 44 ayat (3): 14 hari, berisi setidaknya informasi lengkap/tidak lengkapnya materi aduan.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 44 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-dianggap-cabut",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Materi aduan dinyatakan tidak lengkap, tetapi pengadu tidak melengkapinya dalam 30 hari sejak menerima tanggapan. Akibatnya…",
+    "options": [
+      "Pengaduan otomatis dikabulkan",
+      "Penyelenggara wajib melengkapinya sendiri",
+      "Pengadu dianggap mencabut pengaduannya",
+      "Pengaduan diteruskan ke PTUN"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 44 ayat (4) dan (5).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 44 ayat (4)-(5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-atasan",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Pengaduan terhadap PELAKSANA (petugas) ditujukan kepada…",
+    "options": [
+      "Ketua DPRD setempat",
+      "Atasan pelaksana",
+      "Mahkamah Agung",
+      "Menteri Dalam Negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 45 ayat (1). Pengaduan terhadap penyelenggara (instansi) ditujukan kepada atasan satuan kerja penyelenggara atau pejabat instansi pemberi misi (ayat (2)-(3)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 45 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-60-hari",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Penyelenggara wajib memutuskan hasil pemeriksaan pengaduan paling lambat…",
+    "options": [
+      "30 hari sejak pengadu menerima pelayanan yang dikeluhkan",
+      "60 hari sejak berkas pengaduan dinyatakan lengkap",
+      "14 hari sejak pengaduan pertama kali masuk ke loket",
+      "90 hari sejak tanda terima pengaduan diberikan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 50 ayat (1); keputusan disampaikan kepada pengadu paling lambat 14 hari sejak diputuskan (ayat (2)). Jika ada tuntutan ganti rugi, keputusan memuat jumlah dan batas waktu pembayaran (ayat (3)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 50 ayat (1)-(3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-ombudsman-mediasi",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Atas permintaan para pihak, dalam menyelesaikan pengaduan ombudsman wajib melakukan…",
+    "options": [
+      "Penyitaan aset pelaksana",
+      "Penyidikan dan penuntutan",
+      "Pemberhentian pelaksana",
+      "Mediasi dan konsiliasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 46 ayat (5). Ombudsman juga wajib menyelesaikan pengaduan bila pengadu menghendaki penyelesaian tidak dilakukan oleh penyelenggara (ayat (2)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 46 ayat (2) dan (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-ptun",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "question": "Pelayanan yang diberikan penyelenggara menimbulkan kerugian di bidang tata usaha negara. Menurut Pasal 51, masyarakat dapat menggugat melalui…",
+    "options": [
+      "Peradilan tata usaha negara",
+      "Pengadilan hubungan industrial",
+      "Pengadilan niaga",
+      "Mahkamah Konstitusi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 51: gugatan terhadap penyelenggara atau pelaksana melalui PTUN apabila pelayanan menimbulkan kerugian di bidang tata usaha negara.",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 51",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-humor-loket",
+    "type": "humor",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Standar ganda (literal)",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Syaratnya kurang satu. Fotokopi KTP dilegalisir camat."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Di standar pelayanan yang ditempel di dinding nggak ada itu."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Itu standar yang di dinding. Ini standar yang di hati saya."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pasal 34: tidak mempersulit, tidak menyimpang dari prosedur."
+        }
+      ]
+    },
+    "caption": "Standar pelayanan cukup satu, yang dipublikasikan. Versi 'di hati petugas' tidak diundangkan.",
+    "teaches": "Persyaratan pelayanan adalah komponen standar pelayanan (Pasal 21). Pelaksana wajib tidak mempersulit dan tidak menyimpang dari prosedur (Pasal 34 huruf f dan o).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 21 dan 34",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-humor-maklumat",
+    "type": "humor",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "visual": {
+      "template": "meme",
+      "top": "Maklumat pelayanan: dipajang 2 tahun, dibaca 0 orang",
+      "bottom": "Padahal itu janji tertulis kantor. Bacalah, lalu tagih.",
+      "character": "owl",
+      "expression": "think"
+    },
+    "caption": "Spanduk paling diabaikan sedunia ternyata yang paling bisa dipakai menagih.",
+    "teaches": "Maklumat pelayanan adalah pernyataan tertulis berisi rincian kewajiban dan janji dalam standar pelayanan (Pasal 1 angka 8), wajib dipublikasikan secara jelas dan luas (Pasal 22 ayat (2)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 1 angka 8 dan 22",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-humor-seikhlasnya",
+    "type": "humor",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Ikhlas yang bersyarat",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Biayanya seikhlasnya saja, Pak."
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Oh, kalau begitu saya ikhlas nol rupiah."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "...Berkasnya mungkin agak lama ya."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Tarif ditetapkan dengan persetujuan DPR/DPRD, bukan dengan perasaan."
+        }
+      ]
+    },
+    "caption": "Ikhlas kok ada SLA-nya.",
+    "teaches": "Penentuan biaya/tarif pelayanan publik ditetapkan dengan persetujuan DPR/DPRD dan berdasarkan peraturan perundang-undangan (Pasal 31 ayat (4)); biaya/tarif juga komponen standar pelayanan (Pasal 21 huruf e).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 31 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pelpub-humor-telat-ngadu",
+    "type": "humor",
+    "topicId": "tkp",
+    "subTopicId": "pelayanan-publik",
+    "account": "tkp.bijak",
+    "visual": {
+      "template": "meme",
+      "top": "Baru mau komplain pelayanan buruk… dari tiga bulan lalu",
+      "bottom": "Batas pengaduan: 30 hari sejak menerima pelayanan.",
+      "character": "gecko",
+      "expression": "sad"
+    },
+    "caption": "Dendam boleh awet, tapi hak mengadu ada tenggatnya.",
+    "teaches": "Pengaduan dilakukan paling lambat 30 hari sejak pengadu menerima pelayanan (Pasal 42 ayat (2)); penyelenggara/ombudsman wajib menanggapi paling lambat 14 hari (Pasal 44 ayat (3)).",
+    "source": {
+      "title": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+      "reference": "Pasal 42 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-25-tahun-2009"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

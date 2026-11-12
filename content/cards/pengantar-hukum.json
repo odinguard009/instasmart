@@ -1725,5 +1725,530 @@
     },
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-gramatikal",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Hakim menafsirkan kata dalam undang-undang menurut arti bahasa sehari-hari atau kamus. Ini penafsiran…",
+    "options": [
+      "Historis",
+      "Gramatikal",
+      "Sistematis",
+      "Teleologis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penafsiran gramatikal (tata bahasa) berangkat dari bunyi kata. Biasanya langkah pertama sebelum metode lain.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-sistematis",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Hakim memahami satu pasal dengan menghubungkannya dengan pasal lain dalam undang-undang yang sama atau undang-undang lain. Ini penafsiran…",
+    "options": [
+      "Futuristik",
+      "Gramatikal",
+      "Sistematis",
+      "Autentik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Peraturan dipandang sebagai satu sistem yang saling berkaitan.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-historis",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Untuk memahami maksud pasal, hakim membaca risalah pembahasan RUU di DPR. Metode ini termasuk penafsiran…",
+    "options": [
+      "Komparatif",
+      "Gramatikal",
+      "Historis",
+      "Sistematis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penafsiran historis dibedakan menjadi sejarah undang-undang (wetshistorisch) dan sejarah hukum (rechtshistorisch).",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-teleologis",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Hakim menafsirkan undang-undang lama sesuai tujuan kemasyarakatannya pada saat ini. Ini penafsiran…",
+    "options": [
+      "Autentik atau resmi",
+      "Gramatikal atau bahasa",
+      "Historis atau sejarah undang-undang",
+      "Teleologis atau sosiologis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penafsiran teleologis/sosiologis menyesuaikan makna undang-undang dengan tujuan dan keadaan masyarakat.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-autentik",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Penafsiran yang diberikan oleh pembentuk undang-undang sendiri, misalnya dalam pasal ketentuan umum atau penjelasan, disebut penafsiran…",
+    "options": [
+      "Doktrinal",
+      "Analogis",
+      "Autentik",
+      "Ekstensif"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penafsiran autentik (resmi) mengikat karena berasal dari pembentuk undang-undang.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-ekstensif",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Memperluas arti kata dalam undang-undang melampaui arti sehari-hari, tetapi masih dalam batas bunyi kata itu, disebut penafsiran…",
+    "options": [
+      "Restriktif",
+      "Historis",
+      "Autentik",
+      "Ekstensif"
+    ],
+    "answerIndex": 3,
+    "explanation": "Contoh yang sering dipakai dalam literatur: \"barang\" ditafsirkan mencakup energi listrik. Kebalikannya penafsiran restriktif (mempersempit).",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-restriktif",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Hakim mempersempit arti suatu kata dalam undang-undang. Ini penafsiran…",
+    "options": [
+      "Teleologis",
+      "Futuristik",
+      "Restriktif",
+      "Ekstensif"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lawan dari penafsiran ekstensif.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-futuristik",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Penafsiran yang berpedoman pada rancangan undang-undang yang belum berlaku disebut penafsiran…",
+    "options": [
+      "Komparatif atau perbandingan",
+      "Historis atau sejarah",
+      "Futuristik atau antisipatif",
+      "Autentik atau resmi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dipakai untuk mengantisipasi hukum yang akan datang (ius constituendum); hasilnya tidak mengikat seperti hukum positif.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-komparatif",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Hakim membandingkan pengaturan suatu hal dalam sistem hukum negara lain untuk mencari kejelasan makna. Ini penafsiran…",
+    "options": [
+      "Gramatikal",
+      "Komparatif",
+      "Restriktif",
+      "Sistematis"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sering dipakai untuk ketentuan yang berasal dari perjanjian internasional.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-penghalusan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Metode konstruksi hukum yang mempersempit berlakunya aturan umum karena terlalu luas untuk kasus tertentu disebut…",
+    "options": [
+      "Penghalusan hukum (rechtsverfijning)",
+      "A contrario (argumentum a contrario)",
+      "Analogi (argumentum per analogiam)",
+      "Penafsiran autentik oleh pembentuk UU"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tiga metode konstruksi yang biasa disebut: analogi, a contrario, dan penghalusan hukum.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-tafsir-vs-konstruksi",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "question": "Perbedaan pokok penafsiran dan konstruksi hukum menurut ajaran penemuan hukum adalah…",
+    "options": [
+      "Penafsiran hanya untuk hukum pidana; konstruksi hanya untuk hukum perdata",
+      "Penafsiran tidak mengikat, sedangkan konstruksi selalu mengikat semua orang",
+      "Penafsiran dilakukan DPR; konstruksi dilakukan hakim",
+      "Konstruksi dipakai saat aturannya tidak ada atau tidak jelas"
+    ],
+    "answerIndex": 3,
+    "explanation": "Konstruksi (analogi, a contrario, penghalusan hukum) mengisi kekosongan atau ketidakjelasan. Dalam hukum pidana, analogi dilarang.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-materiil",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Faktor yang menentukan isi hukum, seperti keadaan sosial, ekonomi, dan pandangan moral masyarakat, disebut sumber hukum…",
+    "options": [
+      "Autentik",
+      "Sekunder",
+      "Materiil",
+      "Formil"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sumber hukum formil adalah bentuk tempat hukum ditemukan: undang-undang, kebiasaan, yurisprudensi, traktat, dan doktrin.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-formil-lima",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Manakah yang lazim TIDAK dimasukkan sebagai sumber hukum formil?",
+    "options": [
+      "Opini di media sosial",
+      "Yurisprudensi Mahkamah Agung",
+      "Traktat antarnegara",
+      "Doktrin para sarjana"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lima sumber hukum formil yang lazim diajarkan: undang-undang, kebiasaan, yurisprudensi, traktat, doktrin.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-yurisprudensi",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Yurisprudensi dalam arti sumber hukum formil adalah…",
+    "options": [
+      "Kebiasaan yang diulang-ulang oleh masyarakat setempat",
+      "Perjanjian antarnegara yang sudah diratifikasi DPR",
+      "Pendapat ahli hukum terkemuka yang dikutip hakim dalam putusan",
+      "Putusan hakim terdahulu yang diikuti dalam perkara serupa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Indonesia tidak menganut asas stare decisis yang mengikat secara mutlak; yurisprudensi bersifat persuasif.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-doktrin",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Pendapat para sarjana hukum terkemuka yang dipakai hakim sebagai dasar pertimbangan disebut…",
+    "options": [
+      "Konvensi",
+      "Traktat",
+      "Doktrin",
+      "Yurisprudensi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Istilah yang sering dipakai: communis opinio doctorum (pendapat umum para sarjana).",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-kebiasaan-syarat",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Agar kebiasaan menjadi sumber hukum, menurut ajaran umum dibutuhkan…",
+    "options": [
+      "Umur kebiasaan minimal seratus tahun",
+      "Persetujuan tertulis dari seluruh warga yang terdampak kebiasaan itu",
+      "Perbuatan berulang dan keyakinan bahwa itu mengikat",
+      "Pengesahan oleh presiden"
+    ],
+    "answerIndex": 2,
+    "explanation": "Unsur materiil: perbuatan berulang. Unsur psikologis: keyakinan hukum (opinio juris sive necessitatis).",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-lex-superior",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Peraturan daerah bertentangan dengan undang-undang. Asas yang dipakai adalah…",
+    "options": [
+      "Lex posterior derogat legi priori",
+      "Lex superior derogat legi inferiori",
+      "Lex dura sed tamen scripta",
+      "Lex specialis derogat legi generali"
+    ],
+    "answerIndex": 1,
+    "explanation": "Aturan yang lebih tinggi mengesampingkan aturan yang lebih rendah.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-res-judicata",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Asas res judicata pro veritate habetur berarti…",
+    "options": [
+      "Tidak ada yang boleh menjadi hakim dalam perkaranya sendiri",
+      "Putusan hakim harus dianggap benar sampai dibatalkan",
+      "Hakim dianggap tahu hukumnya",
+      "Kedua pihak harus didengar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ius curia novit: hakim dianggap tahu hukum. Nemo judex in causa sua: tidak boleh mengadili perkara sendiri. Audi et alteram partem: dengar kedua pihak.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-lex-dura",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Asas lex dura sed tamen scripta mengajarkan bahwa…",
+    "options": [
+      "Undang-undang khusus mengesampingkan yang umum",
+      "Undang-undang itu keras, tetapi begitulah bunyinya",
+      "Undang-undang baru mengesampingkan yang lama",
+      "Undang-undang tidak boleh diberlakukan secara surut"
+    ],
+    "answerIndex": 1,
+    "explanation": "Menekankan kepastian hukum: aturan tertulis tetap dijalankan walau terasa berat.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-hinkt",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "question": "Ungkapan \"het recht hinkt achter de feiten aan\" berarti…",
+    "options": [
+      "Hukum tidak boleh berlaku surut",
+      "Hukum tertatih-tatih mengikuti perkembangan",
+      "Hukum selalu mendahului peristiwa",
+      "Hukum hanya berlaku bagi orang yang sudah mengetahuinya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alasan mengapa penemuan hukum oleh hakim diperlukan.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-humor-tafsir-tujuan",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "penafsiran",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "comic",
+      "title": "Tafsir hemat tenaga",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Pegawai: aturan bilang 'surat'. Surel bukan surat, jadi tidak wajib saya balas."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Atasan: gramatikalnya kamu jago. Tujuan aturannya apa?"
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Pegawai: …supaya warga dapat jawaban."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Atasan: nah, itu namanya teleologis."
+        }
+      ]
+    },
+    "caption": "Membaca kata itu langkah pertama, bukan satu-satunya.",
+    "teaches": "Penafsiran gramatikal berangkat dari bunyi kata; penafsiran teleologis/sosiologis mencari tujuan aturan. Metode-metode itu dipakai bersama, bukan dipilih yang paling menguntungkan diri sendiri.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-ds-humor-hinkt",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "sumber-asas",
+    "account": "teori.hukum.santai",
+    "visual": {
+      "template": "meme",
+      "top": "Teknologi: rilis fitur baru tiap minggu",
+      "bottom": "Hukum: sabar, risalah rapatnya baru halaman tiga",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Het recht hinkt achter de feiten aan.",
+    "teaches": "Hukum tertulis cenderung tertinggal dari perkembangan masyarakat; karena itu hakim menggali nilai hukum dan memakai penafsiran untuk mengisi celah.",
+    "source": {
+      "title": "Doktrin ilmu hukum (Pengantar Ilmu Hukum)",
+      "reference": "Ajaran penafsiran dan sumber hukum"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

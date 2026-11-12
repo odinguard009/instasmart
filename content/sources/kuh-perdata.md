@@ -679,3 +679,143 @@
 ## Pasal 1062
 
 > Wewenang untuk menolak warisan tidak dapat hilang karena lewat waktu.
+
+## Tambahan kelima (diambil 12 November 2026 dari berkas yang sama): perikatan, ganti rugi wanprestasi, syarat dan waktu, perbuatan melanggar hukum, penghinaan
+
+> Pasal 1365 dan 1234 sudah dirujuk kartu lama; teksnya kini ikut dikutip. Pasal 1373 menunjuk Pasal 314 KUHP lama; KUHP Nasional (UU 1/2023) berlaku sejak 2 Januari 2026, jadi rujukan itu perlu dicek ke ketentuan yang sekarang berlaku.
+
+## Pasal 1365
+
+> Tiap perbuatan yang melanggar hukum dan membawa kerugian kepada orang lain, mewajibkan orang yang menimbulkan kerugian itu karena kesalahannya untuk menggantikan kerugian tersebut.
+
+## Pasal 1371
+
+> Menyebabkan luka atau cacat anggota badan seseorang dengan sengaja atau karena kurang hati-hati, memberi hak kepada korban selain untuk menuntut penggantian biaya pengobatan, juga untuk menuntut penggantian kerugian yang disebabkan oleh luka atau cacat badan tersebut. Juga penggantian kerugian ini dinilai menurut kedudukan dan kemampuan kedua belah pihak dan menurut keadaan. Ketentuan terakhir ini pada umumnya berlaku dalam hal menilai kerugian yang ditimbulkan oleh suatu kejahatan terhadap pribadi seseorang.
+
+## Pasal 1373
+
+> Selain itu, orang yang dihina dapat menuntut pula supaya dalam putusan juga dinyatakan bahwa perbuatan yang telah dilakukan adalah perbuatan memfitnah. Jika ia menuntut supaya dinyatakan bahwa perbuatan itu adalah fitnah, maka berlakulah ketentuan-ketentuan dalam Pasal 314 Kitab Undang-undang Hukum Pidana tentang penuntutan perbuatan memfitnah. Jika diminta oleh pihak yang dihina, putusan akan ditempelkan di tempatkan di tempat umum, dalam jumlah sekian lembar dan tempat, sebagaimana diperintahkan oleh Hakim atas biaya si terhukum.
+
+## Pasal 1374
+
+> Tanpa mengurangi kewajibannya untuk memberikan ganti rugi, tergugat dapat mencegah pengabulan tuntutan yang disebutkan dalam pasal yang lalu dengan menawarkan dan sungguh- sungguh melakukan di muka umum di hadapan Hakim suatu pernyataan yang berbunyi bahwa Ia menyesali perbuatan yang telah ía lakukan, bahwa Ia meminta maaf karenanya, dan menganggap orang yang dihina itu sebagai orang yang terhormat.
+
+## Pasal 1375
+
+> Tuntutan-tuntutan yang disebutkan dalam ketiga pasal yang lalu dapat juga diajukan oleh suami atau istri, orangtua, kakek nenek, anak dan cucu, karena penghinaan yang dilakukan terhadap istri atau suami, anak, cucu, orangtua dan kakek nenek mereka, setelah orang-orang yang bersangkutan meninggal.
+
+## Pasal 1377
+
+> Begitu pula tuntutan perdata itu tidak dapat dikabulkan, jika orang yang dihina itu dengan suatu putusan Hakim yang telah memperoleh kekuatan hukum yang pasti, telah dipersalahkan melakukan perbuatan yang dituduhkan kepadanya. Akan tetapi jika seseorang terus-menerus melancarkan penghinaan terhadap seseorang yang lain, dengan maksud semata-mata untuk menghina, juga setelah kebenaran tuduhan ternyata dan suatu putusan yang memperoleh kekuatan hukum yang pasti atau dan sepucuk akta otentik, maka ia diwajibkan memberikan kepada orang yang dihina tersebut penggantian kerugian yang dideritanya.
+
+## Pasal 1378
+
+> Segala tuntutan yang diatur dalam ketentuan keenam pasal yang lalu, gugur dengan pembebasan orang dinyatakan secara tegas atau diam-diam, jika setelah penghinaan terjadi dan diketahui oleh orang yang dihina, ia melakukan perbuatan-perbuatan yang menyatakan adanya perdamaian atau pengampuan, yang bertentangan dengan maksud untuk menuntut penggantian kerugian atau pemulihan kehormatan.
+
+## Pasal 1379
+
+> Hak untuk menuntut ganti rugi sebagaimana disebutkan dalam pasal 1372, tidak hilang dengan meninggalnya orang yang menghina ataupun orang yang dihina.
+
+## Pasal 1234
+
+> Perikatan ditujukan untuk memberikan sesuatu, untuk berbuat sesuatu, atau untuk tidak berbuat sesuatu.
+
+## Pasal 1235
+
+> Dalam perikatan untuk memberikan sesuatu, termasuk kewajiban untuk menyerahkan barang yang bersangkutan dan untuk merawatnya sebagai seorang kepala rumah tangga yang baik, sampai saat penyerahan. Luas tidaknya kewajiban yang terakhir ini tergantung pada persetujuan tertentu; akibatnya akan ditunjuk dalam bab-bab yang bersangkutan.
+
+## Pasal 1236
+
+> Debitur wajib memberi ganti biaya, kerugian dan bunga kepada kreditur bila ia menjadikan dirinya tidak mampu untuk menyerahkan barang itu atau tidak merawatnya dengan sebaik- baiknya untuk menyelamatkannya.
+
+## Pasal 1237
+
+> Pada suatu perikatan untuk memberikan barang tertentu, barang itu menjadi tanggungan kreditur sejak perikatan lahir. Jika debitur lalai untuk menyerahkan barang yang bersangkutan, maka barang itu semenjak perikatan dilakukan, menjadi tanggungannya.
+
+## Pasal 1239
+
+> Tiap perikatan untuk berbuat sesuatu, atau untuk tidak berbuat sesuatu, wajib diselesaikan dengan memberikan penggantian biaya, kerugian dan bunga, bila debitur tidak memenuhi kewajibannya.
+
+## Pasal 1240
+
+> Walaupun demikian, kreditur berhak menuntut penghapusan segala sesuatu yang dilakukan secara bertentangan dengan perikatan dan ia dapat minta kuasa dari Hakim untuk menyuruh menghapuskan segala sesuatu yang telah dibuat itu atas tanggungan debitur; hal ini tidak mengurangi hak untuk menuntut penggantian biaya, kerugian dan bunga, jika ada alasan untuk itu.
+
+## Pasal 1241
+
+> Bila perikatan itu tidak dilaksanakan, kreditur juga boleh dikuasakan untuk melaksanakan sendiri perikatan itu atas biaya debitur.
+
+## Pasal 1242
+
+> Jika perikatan itu bertujuan untuk tidak berbuat sesuatu, maka pihak mana pun yang berbuat bertentangan dengan perikatan itu, karena pelanggaran itu saja, diwajibkan untuk mengganti biaya, kerugian dan bunga.
+
+## Pasal 1244
+
+> Debitur harus dihukum untuk mengganti biaya, kerugian dan bunga. bila ia tak dapat membuktikan bahwa tidak dilaksanakannya perikatan itu atau tidak tepatnya waktu dalam melaksanakan perikatan itu disebabkan oleh sesuatu hal yang tak terduga, yang tak dapat dipertanggungkan kepadanya. walaupun tidak ada itikad buruk kepadanya.
+
+## Pasal 1245
+
+> Tidak ada penggantian biaya. kerugian dan bunga. bila karena keadaan memaksa atau karena hal yang terjadi secara kebetulan, debitur terhalang untuk memberikan atau berbuat sesuatu yang diwajibkan, atau melakukan suatu perbuatan yang terlarang baginya.
+
+## Pasal 1246
+
+> Biaya, ganti rugi dan bunga, yang boleh dituntut kreditur, terdiri atas kerugian yang telah dideritanya dan keuntungan yang sedianya dapat diperolehnya, tanpa mengurangi pengecualian dan perubahan yang disebut di bawah ini.
+
+## Pasal 1247
+
+> Debitur hanya diwajibkan mengganti biaya, kerugian dan bunga, yang diharap atau sedianya dapat diduga pada waktu perikatan diadakan, kecuali jika tidak dipenuhinya perikatan itu disebabkan oleh tipu daya yang dilakukannya.
+
+## Pasal 1248
+
+> Bahkan jika tidak dipenuhinya perikatan itu disebabkan oleh tipu daya debitur, maka penggantian biaya, kerugian dan bunga, yang menyebabkan kreditur menderita kerugian dan kehilangan keuntungan, hanya mencakup hal-hal yang menjadi akibat langsung dari tidak dilaksanakannya perikatan itu.
+
+## Pasal 1249
+
+> Jika dalam suatu perikatan ditentukan bahwa pihak yang lalai memenuhinya harus membayar suatu jumlah uang tertentu sebagai ganti kerugian, maka kepada pihak lain-lain tak boleh diberikan suatu jumlah yang lebih ataupun yang kurang dari jumlah itu.
+
+## Pasal 1250
+
+> Dalam perikatan yang hanya berhubungan dengan pembayaran sejumlah uang, penggantian biaya, kerugian dan bunga yang timbul karena keterlambatan pelaksanaannya, hanya terdiri atas bunga yang ditentukan oleh undang-undang tanpa mengurangi berlakunya peraturan undang- undang khusus. Penggantian biaya, kerugian dan bunga itu wajib dibayar, tanpa perlu dibuktikan adanya suatu kerugian o!eh kreditur. Penggantian biaya,. kerugian dan bunga itu baru wajib dibayar sejak diminta di muka Pengadilan, kecuali bila undang-undang menetapkan bahwa hal itu berlaku demi hukum.
+
+## Pasal 1253
+
+> Suatu perikatan adalah bersyarat jika digantungkan pada suatu peristiwa yang mungkin terjadi dan memang belum terjadi, baik dengan cara menangguhkan berlakunya perikatan itu sampai terjadinya peristiwa itu, maupun dengan cara membatalkan perikatan itu, tergantung pada terjadi tidaknya peristiwa itu.
+
+## Pasal 1254
+
+> Semua syarat yang bertujuan melakukan sesuatu yang tak mungkin terlaksana, sesuatu yang bertentangan dengan kesusilaan yang baik, atau sesuatu yang dilarang oleh undang-undang adalah batal dan mengakibatkan persetujuan yang digantungkan padanya tak berlaku.
+
+## Pasal 1263
+
+> Suatu perikatan dengan syarat tunda adalah suatu perikatan yang tergantung pada suatu peristiwa yang masih akan datang dan belum tentu akan terjadi, atau yang tergantung pada suatu hal yang sudah terjadi tetapi hal itu tidak diketahui oleh kedua belah pihak. Dalam hal pertama, perikatan tidak dapat dilaksanakan sebelum peristiwanya terjadi; dalam hal kedua, perikatan mulai berlaku sejak terjadi.
+
+## Pasal 1265
+
+> Suatu syarat batal adalah syarat yang bila dipenuhi akan menghapuskan perikatan dan membawa segala sesuatu kembali pada keadaan semula, seolah-olah tidak pernah ada suatu perikatan. Syarat ini tidak menunda pemenuhan perikatan; ia hanya mewajibkan kreditur mengembalikan apa yang telah diterimanya, bila peristiwa yang dimaksudkan terjadi.
+
+## Pasal 1266
+
+> Syarat batal dianggap selalu dicantumkan dalam persetujuan yang timbal balik, andaikata salah satu pihak tidak memenuhi kewajibannya. Dalam hal demikian persetujuan tidak batal demi hukum, tetapi pembatalan harus dimintakan kepada Pengadilan. Permintaan ini juga harus dilakukan, meskipun syarat batal mengenai tidak dipenuhinya kewajiban dinyatakan di dalam persetujuan. Jika syarat batal tidak dinyatakan dalam persetujuan, maka Hakim dengan melihat keadaan, atas permintaan tergugat, leluasa memberikan suatu jangka waktu untuk memenuhi kewajiban, tetapi jangka waktu itu tidak boleh lebih dan satu bulan.
+
+## Pasal 1268
+
+> Waktu yang ditetapkan tidaklah menunda perikatan, melainkan hanya pelaksanaannya.
+
+## Pasal 1269
+
+> Apa yang harus dibayar pada waktu yang ditentukan itu, tidak dapat ditagih sebelum waktu itu tiba; tetapi apa yang telah dibayar sebelum waktu itu, tak dapat diminta kembali.
+
+## Pasal 1270
+
+> Waktu yang ditetapkan selalu ditentukan untuk kepentingan debitur, kecuali jika dari sifat perikatan sendiri atau keadaan ternyata bahwa waktu itu ditentukan untuk kepentingan kreditur.
+
+## Pasal 1271
+
+> Debitur tidak dapat lagi menarik manfaat dan suatu ketetapan waktu, jika ia telah dinyatakan pailit, atau jika jaminan yang diberikannya kepada kreditur telah merosot karena kesalahannya sendiri.
+
+## Pasal 1272
+
+> Dalam perikatan dengan pilihan, debitur dibebaskan jika ia menyerahkan salah satu dari dua barang yang disebut dalam perikatan, tetapi ia tidak dapat memaksa kreditur untuk menerima sebagian dari barang yang satu dan sebagian dari barang yang lain.
+
+## Pasal 1273
+
+> Hak memilih ada pada debitur, jika hal ini tidak secara tegas diberikan kepada kreditur.

@@ -1699,5 +1699,835 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-kematian-penuntut",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Seseorang meninggal karena kurang hati-hatinya orang lain. Menurut Pasal 1370 KUH Perdata, yang berhak menuntut ganti rugi adalah suami/istri, anak, atau orang tua korban yang…",
+    "options": [
+      "Tercatat sebagai ahli waris dalam wasiat",
+      "Hadir di tempat kejadian saat korban wafat",
+      "Lazim dapat nafkah dari pekerjaan korban",
+      "Tinggal serumah dengan korban saat kejadian"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ganti ruginya dinilai menurut kedudukan dan kekayaan kedua belah pihak serta menurut keadaan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1370",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-luka-cacat",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1371 KUH Perdata, korban luka atau cacat karena kesengajaan atau kurang hati-hati orang lain dapat menuntut…",
+    "options": [
+      "Biaya pengobatan saja, tanpa kerugian lain",
+      "Biaya pengobatan dan kerugian karena luka/cacat",
+      "Kerugian karena cacat saja, tanpa biaya obat",
+      "Uang duka yang besarnya ditetapkan undang-undang"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penggantian kerugian ini juga dinilai menurut kedudukan dan kemampuan kedua belah pihak serta menurut keadaan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1371",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-tujuan",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1372 KUH Perdata, tuntutan perdata tentang penghinaan diajukan untuk memperoleh…",
+    "options": [
+      "Hukuman penjara bagi orang yang menghina",
+      "Ganti rugi saja, tanpa pemulihan nama baik",
+      "Pencabutan hak bicara orang yang menghina",
+      "Ganti rugi dan pemulihan nama baik"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hakim memperhatikan kasar atau tidaknya penghinaan, pangkat, kedudukan, kemampuan kedua belah pihak, dan keadaan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1372",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-tempel",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1373 KUH Perdata, atas permintaan pihak yang dihina, putusan dapat ditempelkan di tempat umum atas biaya…",
+    "options": [
+      "Negara",
+      "Kedua pihak, dibagi dua",
+      "Pihak yang dihina",
+      "Si terhukum"
+    ],
+    "answerIndex": 3,
+    "explanation": "Jumlah lembar dan tempatnya diperintahkan hakim.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1373",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-maaf",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1374 KUH Perdata, tergugat dapat mencegah pengabulan tuntutan menurut Pasal 1373 dengan…",
+    "options": [
+      "Membayar dua kali lipat seluruh ganti rugi yang dituntut penggugat",
+      "Membuktikan bahwa penghinaan dilakukan tanpa saksi apa pun",
+      "Meminta maaf secara tertulis kepada penggugat secara pribadi",
+      "Pernyataan menyesal dan minta maaf di muka umum di depan hakim"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pernyataan itu tidak menghapus kewajiban membayar ganti rugi. Isinya: menyesali perbuatan, minta maaf, dan menganggap orang yang dihina sebagai orang terhormat.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1373, 1374",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-almarhum",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1375 KUH Perdata, tuntutan karena penghinaan terhadap orang yang sudah meninggal dapat diajukan oleh…",
+    "options": [
+      "Suami/istri, orang tua, kakek nenek, anak, cucu",
+      "Jaksa atas nama keluarga almarhum",
+      "Siapa saja yang mengenal almarhum semasa hidupnya dulu",
+      "Ahli waris berdasarkan wasiat saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1375 menyebut tuntutan dalam tiga pasal sebelumnya (Pasal 1372-1374).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1375",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-kepentingan-umum",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1376 KUH Perdata, maksud untuk menghina tidak dianggap ada bila perbuatan itu nyata-nyata dilakukan untuk…",
+    "options": [
+      "Menagih utang yang sudah jatuh tempo",
+      "Kepentingan pribadi yang sah menurut adat",
+      "Kepentingan umum atau bela diri terpaksa",
+      "Bercanda di antara teman yang sudah akrab"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tanpa maksud menghina, tuntutan perdata tentang penghinaan tidak dapat dikabulkan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1376",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-terbukti",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1377 KUH Perdata, tuntutan perdata penghinaan tidak dikabulkan bila orang yang dihina…",
+    "options": [
+      "Pernah menghina balik orang yang menghinanya sebelum gugatan diajukan",
+      "Belum pernah melaporkan penghinaan itu ke polisi dalam waktu satu bulan",
+      "Sudah dipersalahkan atas tuduhan itu lewat putusan berkekuatan tetap",
+      "Tidak dapat menghadirkan dua orang saksi yang mendengar penghinaan itu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pengecualiannya: orang yang terus-menerus menghina semata-mata untuk menghina, meski kebenaran tuduhan sudah terbukti, tetap wajib mengganti kerugian.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1377",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-damai",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1378 KUH Perdata, tuntutan karena penghinaan gugur bila setelah mengetahui penghinaan, orang yang dihina…",
+    "options": [
+      "Menerima permintaan maaf melalui pesan singkat",
+      "Berbuat yang menyatakan damai atau pengampunan",
+      "Pindah tempat tinggal ke luar daerah hukum",
+      "Tidak membalas penghinaan itu di media sosial"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pembebasan dapat tegas atau diam-diam, berupa perbuatan yang bertentangan dengan maksud menuntut ganti rugi atau pemulihan kehormatan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1378",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-meninggal",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1379 KUH Perdata, hak menuntut ganti rugi karena penghinaan (Pasal 1372) bila orang yang menghina atau yang dihina meninggal…",
+    "options": [
+      "Berkurang separuh",
+      "Hilang seketika",
+      "Tidak hilang",
+      "Beralih ke negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hak itu tetap ada meskipun salah satu pihak meninggal.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1379",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hina-setahun",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1380 KUH Perdata, tuntutan dalam perkara penghinaan gugur karena lewat waktu…",
+    "options": [
+      "1 tahun sejak dilakukan dan diketahui",
+      "30 tahun sejak penghinaan dilakukan tergugat",
+      "1 tahun sejak penghinaan diucapkan tergugat",
+      "5 tahun sejak penghinaan diketahui penggugat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hitungannya dimulai dari hari perbuatan dilakukan tergugat dan diketahui oleh penggugat.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1380",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-tiga-prestasi",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1234 KUH Perdata, perikatan ditujukan untuk…",
+    "options": [
+      "Memberi, berbuat, atau tidak berbuat sesuatu",
+      "Berjanji, bersumpah, atau mengakui sesuatu",
+      "Membayar, menyerahkan, atau menjamin sesuatu",
+      "Menjual, menyewakan, atau meminjamkan sesuatu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ketiganya disebut bentuk prestasi. Perikatan untuk memberikan sesuatu termasuk kewajiban merawat barang sampai diserahkan (Pasal 1235).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1234, 1235",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-risiko-barang",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1237 KUH Perdata, dalam perikatan memberikan barang tertentu, barang itu menjadi tanggungan kreditur sejak perikatan lahir, KECUALI…",
+    "options": [
+      "Barang itu belum dibayar lunas",
+      "Barang itu berupa barang bergerak",
+      "Perikatan dibuat di bawah tangan",
+      "Debitur lalai menyerahkannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Jika debitur lalai menyerahkan, barang itu menjadi tanggungan debitur sejak perikatan dilakukan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1237",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-laksana-sendiri",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1241 KUH Perdata, bila perikatan (berbuat sesuatu) tidak dilaksanakan, kreditur juga boleh…",
+    "options": [
+      "Menyita harta debitur tanpa putusan pengadilan",
+      "Dikuasakan melaksanakannya atas biaya debitur",
+      "Mengambil barang debitur senilai prestasi",
+      "Menunjuk polisi untuk memaksa debitur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pada dasarnya perikatan berbuat atau tidak berbuat sesuatu diselesaikan dengan penggantian biaya, kerugian, dan bunga (Pasal 1239).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1239, 1241",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-tidak-berbuat",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1242 KUH Perdata, dalam perikatan untuk TIDAK berbuat sesuatu, pihak yang berbuat bertentangan dengan perikatan wajib mengganti biaya, kerugian, dan bunga…",
+    "options": [
+      "Bila kerugiannya di atas nilai tertentu",
+      "Setelah ada putusan pidana",
+      "Setelah disomasi tiga kali",
+      "Karena pelanggaran itu saja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Kreditur juga dapat menuntut penghapusan apa yang dibuat bertentangan dengan perikatan itu (Pasal 1240).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1240, 1242",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-unsur-ganti-rugi",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1246 KUH Perdata, biaya, ganti rugi, dan bunga yang boleh dituntut kreditur terdiri atas…",
+    "options": [
+      "Keuntungan yang hilang saja, tanpa kerugian yang diderita",
+      "Denda yang besarnya ditetapkan hakim menurut kepatutan",
+      "Kerugian diderita dan keuntungan yang sedianya diperoleh",
+      "Kerugian yang diderita saja, tanpa keuntungan yang hilang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pengecualian dan pembatasannya diatur dalam pasal-pasal berikutnya, misalnya Pasal 1247 dan 1248.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1246",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-dapat-diduga",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1247 KUH Perdata, debitur hanya wajib mengganti kerugian yang dapat diduga pada waktu perikatan diadakan, KECUALI…",
+    "options": [
+      "Perikatan dibuat dengan akta notaris",
+      "Kreditur sudah mengirim somasi",
+      "Wanprestasi itu karena tipu dayanya",
+      "Kerugian itu bernilai sangat besar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bahkan bila ada tipu daya, ganti rugi hanya mencakup akibat langsung dari tidak dilaksanakannya perikatan (Pasal 1248).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1247, 1248",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-akibat-langsung",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Debitur tidak memenuhi perikatan karena tipu daya. Menurut Pasal 1248 KUH Perdata, ganti ruginya mencakup…",
+    "options": [
+      "Dua kali kerugian yang diderita",
+      "Semua akibat, langsung atau tidak",
+      "Kerugian yang dapat diduga saja",
+      "Hanya akibat langsungnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1248 membatasi ganti rugi pada akibat langsung, meskipun tipu daya membuat batas \"dapat diduga\" dalam Pasal 1247 tidak berlaku.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1247, 1248",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-jumlah-tetap",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Perjanjian menetapkan pihak yang lalai membayar ganti rugi sejumlah uang tertentu. Menurut Pasal 1249 KUH Perdata, kepada pihak lain…",
+    "options": [
+      "Boleh diberikan kurang bila debitur miskin",
+      "Boleh diberikan lebih bila kerugian terbukti",
+      "Tak boleh diberi jumlah lebih atau kurang",
+      "Diberikan sesuai taksiran ahli independen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1249 mengikat besar ganti rugi pada jumlah yang diperjanjikan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1249",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-bunga-moratoir",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1250 KUH Perdata, dalam perikatan membayar sejumlah uang, ganti rugi karena keterlambatan…",
+    "options": [
+      "Berupa seluruh kerugian yang dapat dibuktikan",
+      "Berupa denda harian yang diperjanjikan",
+      "Hanya berupa bunga menurut undang-undang",
+      "Ditentukan hakim menurut kepatutan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bunga itu wajib dibayar tanpa kreditur perlu membuktikan kerugian, dan baru wajib sejak diminta di muka pengadilan, kecuali undang-undang menetapkan berlaku demi hukum. Peraturan undang-undang khusus tetap berlaku.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1250",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-syarat-terlarang",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1254 KUH Perdata, syarat yang bertujuan melakukan sesuatu yang tak mungkin, bertentangan dengan kesusilaan, atau dilarang undang-undang…",
+    "options": [
+      "Sah selama kedua pihak menyetujuinya",
+      "Dapat dibatalkan atas permintaan debitur",
+      "Dianggap tidak ada, persetujuan tetap sah",
+      "Batal, dan persetujuannya tak berlaku"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bukan hanya syaratnya yang batal; persetujuan yang digantungkan padanya juga tidak berlaku.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1254",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-syarat-tunda",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1263 KUH Perdata, perikatan dengan syarat tunda yang bergantung pada peristiwa yang masih akan datang…",
+    "options": [
+      "Batal demi hukum karena peristiwanya belum pasti",
+      "Tidak dapat dilaksanakan sebelum peristiwanya terjadi",
+      "Berlaku segera dan batal bila peristiwa tidak terjadi",
+      "Dapat dilaksanakan kapan saja atas pilihan kreditur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Syarat tunda menangguhkan lahirnya perikatan. Bandingkan syarat batal (Pasal 1265) yang tidak menunda pemenuhan perikatan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1253, 1263",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-syarat-batal",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1265 KUH Perdata, bila syarat batal dipenuhi, maka…",
+    "options": [
+      "Perikatan ditunda sampai ada putusan pengadilan negeri",
+      "Perikatan hapus, keadaan kembali seperti semula",
+      "Perikatan tetap berlaku untuk sisa waktunya",
+      "Debitur wajib membayar denda kepada kreditur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Syarat batal tidak menunda pemenuhan perikatan; ia mewajibkan kreditur mengembalikan apa yang telah diterimanya bila peristiwa itu terjadi.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1265",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-tenggang-sebulan",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Syarat batal karena wanprestasi tidak dinyatakan dalam persetujuan. Menurut Pasal 1266 KUH Perdata, hakim atas permintaan tergugat dapat memberi jangka waktu untuk memenuhi kewajiban paling lama…",
+    "options": [
+      "1 bulan",
+      "6 bulan",
+      "14 hari",
+      "3 bulan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pembatalan persetujuan timbal balik karena wanprestasi harus dimintakan kepada pengadilan, tidak batal demi hukum.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1266",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-pilihan-kreditur",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1267 KUH Perdata, pihak yang terhadapnya perikatan tidak dipenuhi dapat memilih…",
+    "options": [
+      "Menyita barang debitur atau melaporkannya ke polisi",
+      "Membatalkan sendiri tanpa perlu ke pengadilan",
+      "Menuntut ganti rugi saja, tanpa dapat meminta pembatalannya",
+      "Memaksa pemenuhan atau minta pembatalan plus ganti rugi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pemenuhan dapat dipaksakan jika masih dapat dilakukan.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1267",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-ketetapan-waktu",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1268 KUH Perdata, waktu yang ditetapkan dalam perikatan menunda…",
+    "options": [
+      "Pelaksanaannya saja",
+      "Semua akibat hukumnya",
+      "Keabsahan perikatan",
+      "Lahirnya perikatan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bedanya dengan syarat tunda: perikatannya sudah ada, hanya pelaksanaannya menunggu waktu.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1268",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-bayar-duluan",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Debitur membayar utang sebelum waktu yang ditentukan. Menurut Pasal 1269 KUH Perdata, pembayaran itu…",
+    "options": [
+      "Dapat diminta kembali bunganya",
+      "Dapat diminta kembali seluruhnya",
+      "Dianggap belum sah sampai jatuh tempo",
+      "Tidak dapat diminta kembali"
+    ],
+    "answerIndex": 3,
+    "explanation": "Yang harus dibayar pada waktu tertentu tidak dapat ditagih sebelum waktunya; tetapi yang telah dibayar lebih awal tidak dapat diminta kembali.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1269",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-waktu-untuk-debitur",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1270 KUH Perdata, waktu yang ditetapkan dalam perikatan pada asasnya ditentukan untuk kepentingan…",
+    "options": [
+      "Kreditur",
+      "Debitur",
+      "Kedua pihak",
+      "Pihak ketiga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kecuali dari sifat perikatan atau keadaan ternyata waktu itu untuk kepentingan kreditur.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1270",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-pailit-waktu",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Menurut Pasal 1271 KUH Perdata, debitur tidak dapat lagi menarik manfaat dari ketetapan waktu bila…",
+    "options": [
+      "Ia pindah domisili",
+      "Krediturnya meninggal",
+      "Utangnya dialihkan",
+      "Ia dinyatakan pailit"
+    ],
+    "answerIndex": 3,
+    "explanation": "Alasan lain: jaminan yang diberikannya kepada kreditur merosot karena kesalahannya sendiri.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1271",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-hak-memilih",
+    "type": "quiz",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "bw.receh",
+    "question": "Dalam perikatan dengan pilihan (alternatif), menurut Pasal 1273 KUH Perdata hak memilih ada pada…",
+    "options": [
+      "Debitur, kecuali tegas diberikan kepada kreditur",
+      "Hakim, bila para pihak tidak sepakat",
+      "Kreditur, kecuali tegas diberikan kepada debitur",
+      "Pihak yang lebih dulu menyatakannya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1272: debitur bebas dengan menyerahkan salah satu barang, tetapi tidak dapat memaksa kreditur menerima sebagian dari masing-masing barang.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1272, 1273",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-humor-tukang-hilang",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "perjanjian",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Tukang janji renovasi, lalu menghilang 3 bulan",
+      "bottom": "Pasal 1241: minta dikuasakan, kerjakan sendiri, tagih ongkosnya",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Ghosting juga ada konsekuensi perdatanya.",
+    "teaches": "Pasal 1241 KUH Perdata: bila perikatan tidak dilaksanakan, kreditur dapat dikuasakan untuk melaksanakan sendiri perikatan itu atas biaya debitur. Pada dasarnya perikatan berbuat sesuatu diselesaikan dengan ganti biaya, kerugian, dan bunga (Pasal 1239).",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1239, 1241",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-humor-dendam-kadaluwarsa",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Dendam lewat waktu",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Dia menghina saya!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Kapan kamu tahunya?"
+        },
+        {
+          "character": "cat",
+          "expression": "sad",
+          "text": "Dua tahun lalu."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Gugatanmu gugur. Dendammu silakan."
+        }
+      ]
+    },
+    "caption": "Sakit hati boleh awet, gugatan penghinaan tidak.",
+    "teaches": "Pasal 1380 KUH Perdata: tuntutan dalam perkara penghinaan gugur dengan lewat waktu satu tahun, terhitung sejak perbuatan dilakukan tergugat dan diketahui penggugat.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1380",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perdata-bw4-humor-maaf-resmi",
+    "type": "humor",
+    "topicId": "perdata",
+    "subTopicId": "pmh",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Maaf versi BW",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Saya sudah minta maaf di grup WA."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 1374: di muka umum, di depan hakim."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Ganti ruginya batal?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Tidak. Tetap bayar."
+        }
+      ]
+    },
+    "caption": "Maaf diterima. Tagihan tetap jalan.",
+    "teaches": "Pasal 1374 KUH Perdata: tergugat dapat mencegah pengabulan tuntutan Pasal 1373 (misalnya putusan ditempel di tempat umum) dengan pernyataan menyesal dan minta maaf di muka umum di hadapan hakim, tanpa mengurangi kewajibannya membayar ganti rugi.",
+    "source": {
+      "title": "KUHPerdata (Burgerlijk Wetboek)",
+      "reference": "Pasal 1373, 1374",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

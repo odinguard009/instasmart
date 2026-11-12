@@ -2250,5 +2250,792 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-hak-kewargaan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 1 KUH Perdata, menikmati hak-hak kewargaan (perdata)…",
+    "options": [
+      "Hanya bagi warga yang punya hak pilih",
+      "Tidak tergantung pada hak-hak kenegaraan",
+      "Bergantung pada status kewarganegaraan penuhnya",
+      "Diberikan setelah seseorang dewasa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1: menikmati hak-hak kewargaan tidak tergantung pada hak-hak kenegaraan. Hak perdata tidak menunggu hak politik.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-pindah-domisili",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 18, perubahan tempat tinggal terjadi dengan…",
+    "options": [
+      "Menyewa rumah kedua di kota lain",
+      "Pindah rumah secara nyata dengan niat menetap di sana",
+      "Tinggal di tempat lain lebih dari setahun lamanya tanpa putus",
+      "Mengganti alamat di kartu identitas saja"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 18 menuntut dua unsur: pindah rumah secara nyata dan niat menempatkan pusat kediaman di tempat baru.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 18",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-bukti-niat",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Jika tidak ada pernyataan pindah kepada Kepala Pemerintahan, menurut Pasal 19 niat pindah dibuktikan dengan…",
+    "options": [
+      "Akta notaris",
+      "Disimpulkan dari keadaan-keadaannya",
+      "Sumpah di depan hakim",
+      "Kesaksian dua orang tetangga di tempat baru"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 19: niat dibuktikan dengan pernyataan kepada Kepala Pemerintahan; bila tidak ada, disimpulkan dari keadaan-keadaannya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 19",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-dinas-umum",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 20, orang yang ditugaskan menjalankan dinas umum dianggap bertempat tinggal di…",
+    "options": [
+      "Tempat mereka melaksanakan dinas",
+      "Ibu kota negara",
+      "Tempat kelahirannya sesuai akta kelahiran",
+      "Tempat keluarganya tinggal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 20: mereka dianggap bertempat tinggal di tempat melaksanakan dinas.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 20",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-rumah-kematian",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Pasal 23 menentukan bahwa rumah kematian seseorang adalah…",
+    "options": [
+      "Tempat ia dimakamkan",
+      "Rumah ahli waris tertua",
+      "Tempat ia meninggal dunia secara fisik",
+      "Rumah tempat tinggalnya yang terakhir"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 23: rumah kematian adalah rumah tempat tinggal terakhir, bukan lokasi meninggalnya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 23",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-domisili-pilihan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 24, dalam suatu akta para pihak boleh…",
+    "options": [
+      "Memilih hukum negara mana pun",
+      "Menghapus tempat tinggal sama sekali",
+      "Menentukan sendiri hakim yang akan mengadili perkaranya",
+      "Memilih tempat tinggal lain untuk soal tertentu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 24 mengatur domisili pilihan: untuk soal tertentu dalam akta, para pihak bebas memilih tempat tinggal lain; gugatan boleh diajukan di sana.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 24",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-ubah-domisili-pilihan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 25, bila tidak disepakati lain, pihak boleh mengubah tempat tinggal pilihannya asalkan…",
+    "options": [
+      "Tak lebih dari sepuluh pal dan diberitahukan",
+      "Dibuat dengan akta notaris baru yang dicatatkan di pengadilan",
+      "Disetujui pengadilan",
+      "Masih di provinsi yang sama"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 25: perubahan boleh asal jaraknya tidak lebih dari sepuluh pal dari yang lama dan diberitahukan kepada pihak lawan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 25",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-perlekatan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 500, buah yang masih melekat pada dahan pohon…",
+    "options": [
+      "Milik siapa saja yang memetiknya",
+      "Sudah menjadi barang tersendiri",
+      "Merupakan bagian dari barang itu",
+      "Menjadi milik negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 500: hasil yang masih melekat pada dahan atau akarnya, atau terpaut pada tanah, adalah bagian dari barang itu.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 500",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-buah-perdata",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 502, contoh buah-buah perdata adalah…",
+    "options": [
+      "Anak sapi yang baru lahir",
+      "Hasil tambang batu bara",
+      "Uang sewa dan bunga uang",
+      "Padi hasil panen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 502: hasil alami = dari tanah dan binatang; buah perdata = uang sewa, uang iuran usaha, bunga uang.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 502",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-hasil-alami",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Anak kambing yang lahir dari induk milik Ali termasuk jenis hasil apa menurut Pasal 502?",
+    "options": [
+      "Buah perdata",
+      "Barang tak bertubuh",
+      "Hasil kerajinan",
+      "Hasil alami"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 502: segala sesuatu yang dilahirkan oleh binatang termasuk hasil alami.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 502",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-buah-perdata-belum-tagih",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Pasal 501 menyatakan buah-buah perdata dipandang sebagai bagian dari suatu barang selama…",
+    "options": [
+      "Belum dibelanjakan",
+      "Belum dapat ditagih",
+      "Belum dibayar pajaknya",
+      "Belum dicatat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 501: buah perdata dipandang bagian dari barang selama belum dapat ditagih.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 501",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-karena-tujuan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 507, cermin yang dilekatkan pada dinding rumah termasuk…",
+    "options": [
+      "Barang bergerak menurut sifatnya",
+      "Barang yang habis karena pemakaian",
+      "Barang tak bergerak karena tujuan",
+      "Barang tanpa pemilik"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 507 angka 2: cermin, lukisan, dan perhiasan yang dilekatkan pada dinding termasuk barang tak bergerak karena tujuan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 507",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-ukuran-tujuan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Kapan pemilik dianggap menghubungkan barang dengan barang tak bergerak untuk selamanya menurut Pasal 507?",
+    "options": [
+      "Bila barang itu dibeli bersamaan dengan rumah yang ditempatinya",
+      "Bila barang itu dicatat di daftar inventaris",
+      "Bila tak dapat dilepas tanpa membongkar atau merusak",
+      "Bila barang itu bernilai tinggi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 507 bagian akhir: dilekatkan dengan penggalian, perkayuan, semen, atau tak dapat dilepas tanpa membongkar/merusak.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 507",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-jenis-besit",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Pasal 530 membagi besit menjadi…",
+    "options": [
+      "Besit tetap dan besit sementara",
+      "Besit sah dan besit batal",
+      "Itikad baik dan itikad buruk",
+      "Besit pribadi dan besit badan hukum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 530: besit ada yang dalam itikad baik dan ada yang dalam itikad buruk.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 530",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-itikad-buruk",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 532, besit dalam itikad buruk terjadi bila pemegangnya…",
+    "options": [
+      "Menerima barang itu dari orang yang tidak ia kenal",
+      "Belum membayar lunas barang itu",
+      "Tahu barang yang dipegangnya bukan miliknya",
+      "Menyimpan barang tanpa surat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 532: itikad buruk = pemegang tahu barang itu bukan hak miliknya. Bila digugat dan kalah, ia dianggap beritikad buruk sejak perkara diajukan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 532",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-kalah-gugatan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Pemegang besit digugat dan kalah. Menurut Pasal 532, sejak kapan ia dianggap beritikad buruk?",
+    "options": [
+      "Sejak ia pertama kali memegang barang",
+      "Sejak eksekusi",
+      "Sejak putusan berkekuatan tetap",
+      "Sejak perkara diajukan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 532 kalimat kedua: dianggap beritikad buruk sejak perkara diajukan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 532",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-praduga-baik",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Pasal 533 menentukan pemegang besit selalu dianggap beritikad baik, sehingga…",
+    "options": [
+      "Hakim menilai tanpa pembuktian",
+      "Pemegang besit wajib membuktikan itikad baiknya",
+      "Pemilik asli kehilangan haknya",
+      "Yang menuduh itikad buruk harus membuktikannya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 533: siapa menuduh itikad buruk, dia yang membuktikan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 533",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-untuk-sendiri",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 534, pemegang besit dianggap memegang barang…",
+    "options": [
+      "Untuk diri sendiri, kecuali terbukti lain",
+      "Untuk pemilik terdaftar",
+      "Untuk orang lain sampai terbukti sebaliknya oleh hakim",
+      "Untuk negara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 534: anggapannya untuk diri sendiri, kecuali terbukti untuk orang lain.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 534",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-tak-ubah-alas",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Penyewa yang memegang rumah untuk pemiliknya lalu berniat menguasainya untuk diri sendiri. Menurut Pasal 536…",
+    "options": [
+      "Besitnya berubah bila ia menyatakannya ke tetangga",
+      "Ia tak dapat mengubah dasar besitnya sendiri",
+      "Besitnya berubah bila ia membayar pajak",
+      "Besitnya berubah setelah 30 tahun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 536: baik atas kehendak sendiri maupun karena lewat waktu, pemegang besit tidak dapat mengubah alasan dan dasar besitnya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 536",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-besit-perantara",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 540, besit dapat diperoleh…",
+    "options": [
+      "Sendiri atau lewat orang lain atas namanya",
+      "Hanya lewat putusan hakim",
+      "Hanya dengan memegang barang itu secara langsung sendiri",
+      "Hanya lewat akta notaris"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 540: besit bisa diperoleh sendiri atau melalui orang lain atas namanya, bahkan sebelum ia mengetahuinya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 540",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-hak-besit-baik",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Manakah yang BUKAN hak pemegang besit itikad baik menurut Pasal 548?",
+    "options": [
+      "Dianggap pemilik sementara sampai dituntut di muka hakim",
+      "Memperoleh hak milik karena lewat waktu",
+      "Menolak semua gugatan pemilik asli selamanya",
+      "Menikmati hasilnya sampai dituntut kembali"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 548 memberi empat hak; tidak ada hak menolak gugatan pemilik selamanya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 548",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-revindikasi",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Hak pemilik untuk menuntut siapa pun yang menguasai barangnya agar mengembalikannya diatur dalam…",
+    "options": [
+      "Pasal 1338",
+      "Pasal 574",
+      "Pasal 1365",
+      "Pasal 1977"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 574: pemilik berhak menuntut siapa pun yang menguasai barangnya supaya dikembalikan sebagaimana adanya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 574",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-hasil-sebelum-gugat",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 575, pemegang besit itikad baik wajib mengembalikan hasil yang dinikmatinya…",
+    "options": [
+      "Tidak pernah",
+      "Sejak digugat, dikurangi biaya memperolehnya",
+      "Sejak ia pertama memegang barang",
+      "Hanya bila hakim memerintahkan pembayaran denda tambahan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 575: hasil sebelum digugat boleh ia kuasai; sejak digugat wajib dikembalikan setelah dikurangi biaya memperolehnya.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 575",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-hak-retensi",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 575, pemegang besit itikad baik boleh menahan barang yang diminta kembali selama…",
+    "options": [
+      "Belum ada putusan banding",
+      "Biaya dan pengeluarannya belum diganti",
+      "Pemilik belum datang sendiri untuk mengambil barangnya",
+      "Barang belum diasuransikan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 575: ia berhak menguasai barang itu selama belum mendapat penggantian biaya penyelamatan dan pengeluaran.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 575",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-pendakuan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 585, barang bergerak yang bukan milik siapa pun menjadi milik…",
+    "options": [
+      "Pemilik tanah terdekat",
+      "Kepala desa tempat barang itu ditemukan pertama kali",
+      "Orang pertama yang mengambilnya untuk dimiliki",
+      "Negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 585: barang bergerak tanpa pemilik menjadi milik orang yang pertama mengambilnya untuk dimiliki.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 585",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-wenang-perikatan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Pasal 1329 menyatakan setiap orang berwenang membuat perikatan, kecuali…",
+    "options": [
+      "Ia bukan warga negara Indonesia",
+      "Ia tidak punya harta",
+      "Ia dinyatakan tidak cakap",
+      "Ia belum menikah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1329: kecakapan adalah aturan umum; ketidakcakapan adalah pengecualian.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1329",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-tak-cakap",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Menurut Pasal 1330, siapa yang termasuk tidak cakap membuat persetujuan?",
+    "options": [
+      "Orang yang belum pernah membuat kontrak",
+      "Orang yang sedang berutang",
+      "Orang yang ditaruh di bawah pengampuan",
+      "Pegawai negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1330 angka 1 dan 2: anak belum dewasa dan orang di bawah pengampuan. Angka 3 (perempuan kawin) umumnya dianggap tidak berlaku lagi.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1330",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-bubar-persekutuan",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Manakah yang menurut Pasal 1646 menjadi sebab bubarnya persekutuan perdata?",
+    "options": [
+      "Pergantian pengurus",
+      "Perubahan alamat kantor",
+      "Seorang peserta meninggal dunia",
+      "Kerugian selama satu tahun buku penuh"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1646 angka 4: salah seorang peserta meninggal, di bawah pengampuan, atau bangkrut.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1646",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-bubar-dini",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Persekutuan dibuat untuk waktu tertentu. Menurut Pasal 1647, seorang peserta boleh menuntut pembubaran sebelum waktunya bila…",
+    "options": [
+      "Ia mendapat tawaran kerja lain yang gajinya lebih besar",
+      "Ia bosan",
+      "Ada alasan sah, misalnya peserta lain ingkar",
+      "Untungnya kecil"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1647: harus ada alasan sah; sah dan beratnya alasan dinilai pengadilan.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1647",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-pengurus-lampaui",
+    "type": "quiz",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "teori.hukum.santai",
+    "question": "Perbuatan pengurus yang tidak berwenang mengikat badan hukum menurut Pasal 1656 bila…",
+    "options": [
+      "Dicatat dalam buku kas",
+      "Diketahui oleh sebagian besar anggota perkumpulan",
+      "Bermanfaat atau kemudian diterima dengan sah",
+      "Dilakukan atas nama badan hukum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1656: hanya mengikat bila bermanfaat atau kemudian diterima (diratifikasi) dengan sah.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 1656",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-humor-besit-penyewa",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Klaim Rumah Kontrakan",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Sudah 10 tahun saya sewa rumah ini. Sekarang jadi milik saya."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Dasarnya sewa. Pasal 536: alas besit tak bisa diubah sendiri."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Lewat waktu juga tidak?"
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Tidak. Penyewa tetap penyewa, seberapa betah pun."
+        }
+      ]
+    },
+    "caption": "Betah boleh, mengklaim jangan.",
+    "teaches": "Pasal 536 KUH Perdata: pemegang besit tidak dapat mengubah alasan dan dasar besitnya untuk diri sendiri, baik atas kehendak sendiri maupun karena lewat waktu.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 536",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pengantar-hukum-so2-humor-rumah-kematian",
+    "type": "humor",
+    "topicId": "pengantar-hukum",
+    "subTopicId": "subjek-objek",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Meninggal di rumah sakit",
+      "bottom": "Rumah kematian menurut hukum: tetap rumah tinggal terakhir",
+      "character": "kancil",
+      "expression": "think"
+    },
+    "caption": "Pasal 23 tidak peduli lokasi IGD.",
+    "teaches": "Pasal 23 KUH Perdata: rumah kematian seseorang adalah rumah tempat tinggalnya yang terakhir, bukan tempat ia meninggal.",
+    "source": {
+      "title": "Kitab Undang-Undang Hukum Perdata (terjemahan, berkas Kejari Sukoharjo)",
+      "reference": "Pasal 23",
+      "url": "https://kejari-sukoharjo.kejaksaan.go.id/file/a6d2803a1ea733394063e8f006d31912.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

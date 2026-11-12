@@ -931,3 +931,111 @@
 ## Pasal 1990
 
 > Lewat waktu tidak berjalan: terhadap piutang yang bersyarat, selama syarat ini tidak dipenuhi; dalam hal suatu perkara untuk menanggung suatu penjualan, selama belum ada putusan untuk menyerahkan barang yang bersangkutan kepada orang lain; terhadap suatu piutang yang baru dapat ditagih pada hari yang telah ditentukan, selama hari itu belum tiba.
+
+## Tambahan ketujuh (diambil 12 November 2026 dari berkas yang sama): subjek dan objek hukum
+
+> Pasal 1330 angka 3 (perempuan yang telah kawin) umumnya dianggap tidak berlaku lagi (rujukan yang lazim: SEMA No. 3 Tahun 1963 dan UU Perkawinan); status ini belum diperiksa ke teks SEMA. Pasal itu dikutip utuh, tetapi kartu hanya memakai angka 1 dan 2. Pasal 21 (tempat tinggal istri) sengaja tidak dikutip karena bertumpu pada aturan perkawinan lama. Pasal tentang benda tak bergerak dikutip untuk konsepnya; untuk tanah berlaku UUPA.
+
+## Pasal 1
+
+> Menikmati hak-hak kewargaan tidak tergantung pada hak-hak kenegaraan.
+
+## Pasal 18
+
+> Perubahan tempat tinggal terjadi dengan pindah rumah secara nyata ke tempat lain disertai niat untuk menempatkan pusat kediamannya di sana.
+
+## Pasal 19
+
+> Niat itu dibuktikan dengan menyampaikan pernyataan kepada Kepala Pemerintahan, baik di tempat yang ditinggalkan, maupun di tempat tujuan pindah rumah kediaman. Bila tidak ada pernyataan, maka bukti tentang adanya niat itu harus disimpulkan dari keadaan-keadaannya.
+
+## Pasal 20
+
+> Mereka yang ditugaskan untuk menjalankan dinas umum, dianggap bertempat tinggal di tempat mereka melaksanakan dinas.
+
+## Pasal 23
+
+> Yang dianggap sebagai rumah kematian seseorang yang meninggal dunia adalah rumah tempat tinggalnya yang terakhir.
+
+## Pasal 24
+
+> Dalam suatu akta dan terhadap suatu soal tertentu, kedua pihak atau salah satu pihak bebas untuk memilih tempat tinggal yang lain daripada tempat tinggal yang sebenarnya. Pemilihan itu dapat dilakukan secara mutlak, bahkan sampai meliputi pelaksanaan putusan Hakim, atau dapat dibatasi sedemikian rupa sebagaimana dikehendaki oleh kedua pihak atau salah satu pihak. Dalam hal ini surat-surat juru sita, gugatan-gugatan atau tuntutan-tuntutan yang tercantum atau termaksud dalam akta itu boleh dilakukan di tempat tinggal yang dipilih dan di muka Hakim tempat tinggal itu.
+
+## Pasal 25
+
+> Bila hal sebaliknya tidak disepakati, masing-masing pihak boleh mengubah tempat tinggal yang dipilih untuk dirinya, asalkan tempat tinggal yang baru tidak lebih dan sepuluh pal jauhnya dari tempat tinggal yang lama dan perubahan itu diberitahukan kepada pihak yang lain / pihak lawan.
+
+## Pasal 500
+
+> Segala sesuatu yang termasuk dalam suatu barang karena hukum perlekatan, begitu pula segala hasilnya, baik hasil alam, maupun hasil usaha kerajinan, selama melekat pada dahan atau akarnya, atau terpaut pada tanah, adalah bagian dan barang itu.
+
+## Pasal 501
+
+> Buah-buah perdata harus dipandang sebagai bagian dari suatu barang selama buah-buah perdata itu belum dapat ditagih, tanpa mengurangi ketentuan-ketentuan khusus dalam perundang-undangan dan perjanjian-perjanjian.
+
+## Pasal 502
+
+> Hasil alami adalah: 1. segala sesuatu yang dihasilkan oleh tanah sendiri; 2. segala sesuatu yang dihasilkan atau dilahirkan oleh binatang-binatang. Hasil kerajinan yang diambil dari tanah adalah segala sesuatu yang diperoleh dari pengolahan tanah. Buah-buah perdata adalah uang sewa dan uang iuran usaha (pacht penningen), bunga dari sejumlah uang dan bunga-bunga yang harus dibayar.
+
+## Pasal 507
+
+> Yang termasuk barang tak bergerak karena tujuan adalah: 1. pada pabrik; barang hasil pabrik, penggilangan, penempaan besi dan barang tak bergerak semacam itu, apitan besi, ketel kukusan, tempat api, jambangan, tong dan perkakas- perkakas sebagainya yang termasuk bagian pabrik, sekalipun barang itu tidak terpaku; 2. pada perumahan: cermin, lukisan dan perhiasan lainnya bila dilekatkan pada papan atau pasangan batu yang merupakan bagian dinding, pagar atau plesteran suatu ruangan, sekalipun barang itu tidak terpaku; 3. dalam pertanahan: lungkang atau tumbuhan pupuk yang dipergunakan untuk merabuk tanah; kawanan burung merpati; sarang burung yang biasa dimakan, selama belum dikumpulkan; ikan yang ada di dalam kolam; 4. runtuhan bahan bangunan yang dirombak, bila dipergunakan untuk pembangunan kembali; 5. dan pada umumnya semua barang yang oleh pemiliknya dihubungkan dengan barang tak bergerak guna dipakai selamanya. Pemilik dianggap telah menghubungkan barang-barang itu dengan barang tak bergerak guna dipakai untuk selamanya, bila barang-barang itu dilekatkan padanya dengan penggalian, pekerjaan perkayuan dan pemasangan batu semen, atau bila barang-barang itu tidak dapat dilepaskan tanpa membongkar atau merusak barang itu atau bagian dari barang tak bergerak di mana barang-barang itu dilekatkan.
+
+## Pasal 530
+
+> Besit ada yang dalam itikad baik dan ada yang dalam itikad buruk.
+
+## Pasal 532
+
+> Besit dalam itikad buruk terjadi bila pemegarignya mengetahui, bahwa barang yang dipegangnya bukanlah hak miliknya. Bila pemegang besit digugat di muka Hakim dan dalam hal ini dikalahkan, maka ia dianggap beritikad buruk sejak perkara diajukan.
+
+## Pasal 533
+
+> Pemegang besit harus selalu dianggap beritikad baik barangsiapa menuduhnya beritikad buruk, harus membuktikannya.
+
+## Pasal 534
+
+> Pemegang besit harus selalu dianggap memegangnya untuk diri sendiri, selama tidak terbukti, bahwa ia memegangnya untuk orang lain.
+
+## Pasal 536
+
+> Baik atas kehendak sendiri maupun karena lewatnya waktu, pemegang besit tidak dapat mengubah alasan dan dasarnya untuk diri sendiri.
+
+## Pasal 540
+
+> Orang dapat memperoleh suatu besit atau suatu barang, baik dengan diri sendiri, maupun dengan perantaraan orang lain yang bertindak atas namanya. Dalam hal yang terakhir ini, orang malah dapat memperoleh besit, sebelum mengetahui besit atas barang tersebut diperolehnya.
+
+## Pasal 548
+
+> Besit dengan itikad baik memberi hak atas suatu barang kepada pemegangnya: 1. untuk dianggap sebagai pemilik barang untuk sementara, sampai saat barang itu dituntut kembali di muka Hakim; 2. untuk dapat memperoleh hak milik atas barang itu karena lewat waktu; 3. untuk menikmati segala hasilnya sampai saat barang itu dituntut kembali di muka hakim; 4. untuk mempertahankan besitnya bila ia digangu dalam memegangnya, atau dipulihkan kembali besitnya bila ía kehilangan besitnya itu.
+
+## Pasal 574
+
+> Pemilik barang berhak menuntut siapa pun juga yang menguasai barang itu, supaya mengembalikannya dalam keadaan sebagaimana adanya.
+
+## Pasal 575
+
+> Pemegang besit dengan itikad baik berhak menguasai segala hasil yang telah dinikmatinya dari barang yang dituntut kembali, sampai pada hari ía digugat di muka Hakim. Ia wajib mengembalikan kepada pemilik barang itu segala hasil yang dinikmatinya sejak ía digugat, setelah dikurangi segala biaya untuk memperolehnya, yaitu untuk penanaman, pembenihan dan pengolahan tanah. Selanjutnya ia berhak menuntut kembali segala biaya yang telah harus dikeluarkan guna menyelamatkan dan demi kepentingan barang tersebut, demikian pula ía berhak menguasai barang yang diminta kembali itu selama ia belum mendapat penggantian biaya dan pengeluaran tersebut dalam pasal ini.
+
+## Pasal 585
+
+> Barang bergerak yang bukan milik siapa pun, menjadi hak milik orang yang pertama-tama mengambil barang itu untuk dimilikinya.
+
+## Pasal 1329
+
+> Tiap orang berwenang untuk membuat perikatan, kecuali jika ia dinyatakan tidak cakap untuk hal itu.
+
+## Pasal 1330
+
+> Yang tak cakap untuk membuat persetujuan adalah; 1. anak yang belum dewasa; 2. orang yang ditaruh di bawah pengampuan; 3. perempuan yang telah kawin dalam hal-hal yang ditentukan undang-undang dan pada umumnya semua orang yang oleh undang-undang dilarang untuk membuat persetujuan tertentu.
+
+## Pasal 1646
+
+> Perseroan bubar: 1. karena waktu yang ditetapkan dalam perjanjian telah habis; 2. karena musnahnya barang yang dipergunakan untuk tujuan perseroan atau karena tercapainya tujuan itu; 3. karena kehendak beberapa peserta atau salah seorang peserta 4. karena salah seorang dari peserta meninggal dunia, di tempat di bawah pengampuan atau bangkrut atau dinyatakan sebagai orang yang tidak mampu.
+
+## Pasal 1647
+
+> Pembubaran perseroan yang didirikan untuk suatu waktu tertentu tidak boleh dituntut oleh seorang peserta sebelum lewatnya waktu itu, kecuali jika ada alasan yang sah seperti jika seorang peserta tidak memenuhi kewajibannya atau sakit-sakitan sehingga tidak dapat mengurus perseroan itu, atau alasan lain semacam itu yang pertimbangan tentang sah dan beratnya diserahkan kepada Pengadilan.
+
+## Pasal 1656
+
+> Perbuatan yang dilakukan oleh pengurus yang tidak berkuasa melakukan perbuatan itu hanya mengikat badan hukum bila ada manfaatnya bagi badan hukum itu atau bila perbuatan itu kemudian diterima dengan sah.

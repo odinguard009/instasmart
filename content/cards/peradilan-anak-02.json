@@ -1536,5 +1536,552 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-umur-21",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Anak melakukan tindak pidana sebelum genap 18 tahun, tetapi baru diajukan ke sidang saat berumur 19 tahun. Menurut Pasal 20 UU SPPA, ia…",
+    "options": [
+      "Dibebaskan karena perkaranya sudah lewat waktu",
+      "Diadili di sidang Anak hanya bila korban setuju",
+      "Tetap diajukan ke sidang Anak",
+      "Diadili di sidang biasa untuk orang dewasa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20: tetap sidang Anak bila saat diajukan sudah lewat 18 tahun tetapi belum mencapai 21 tahun.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 20",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-bawah12-putus",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Anak belum 12 tahun diduga melakukan tindak pidana. Menurut Pasal 21 ayat (1) UU SPPA, keputusan diambil oleh…",
+    "options": [
+      "Penyidik, Pembimbing Kemasyarakatan, dan Pekerja Sosial Profesional",
+      "Kepala desa dan tokoh masyarakat setempat",
+      "Hakim Anak dalam sidang yang tertutup untuk umum bersama Penuntut Umum",
+      "Penuntut Umum bersama orang tua/Wali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pilihannya: menyerahkan kembali kepada orang tua/Wali, atau mengikutsertakan dalam program pendidikan, pembinaan, dan pembimbingan paling lama 6 bulan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 21 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-bawah12-6bln",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Program pendidikan, pembinaan, dan pembimbingan bagi Anak di bawah 12 tahun menurut Pasal 21 ayat (1) huruf b UU SPPA paling lama…",
+    "options": [
+      "3 bulan",
+      "2 tahun",
+      "6 bulan",
+      "1 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dilaksanakan di instansi pemerintah atau LPKS. Pasal 21 ayat (3): Bapas wajib mengevaluasi pelaksanaannya.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 21 ayat (1) huruf b",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-bawah12-3hari",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Keputusan Penyidik, Pembimbing Kemasyarakatan, dan Pekerja Sosial Profesional atas Anak di bawah 12 tahun diserahkan ke pengadilan untuk ditetapkan paling lama…",
+    "options": [
+      "30 hari",
+      "3 hari",
+      "14 hari",
+      "7 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 21 ayat (2).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 21 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-jaminan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Menurut Pasal 32 ayat (1) UU SPPA, penahanan terhadap Anak TIDAK boleh dilakukan bila…",
+    "options": [
+      "Anak sudah berumur 14 tahun atau lebih",
+      "Ada jaminan dari orang tua/Wali dan/atau lembaga",
+      "Ancaman pidananya 7 tahun atau lebih",
+      "Penyidik masih membutuhkan keterangan tambahan dari Anak tersebut"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jaminannya: Anak tidak akan melarikan diri, tidak menghilangkan atau merusak barang bukti, dan/atau tidak mengulangi tindak pidana.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 32 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-syarat-tegas",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "question": "Menurut Pasal 32 ayat (3) UU SPPA, syarat penahanan Anak (umur dan ancaman pidana) harus…",
+    "options": [
+      "Disampaikan secara lisan kepada orang tua/Wali",
+      "Dinyatakan secara tegas dalam surat perintah penahanan",
+      "Dicatat dalam berita acara pemeriksaan setelah penahanan selesai",
+      "Dimintakan persetujuan Ketua Pengadilan Negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Selama ditahan, kebutuhan jasmani, rohani, dan sosial Anak harus tetap dipenuhi (Pasal 32 ayat (4)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 32 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-tidak-pidana",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Pasal 70 UU SPPA membolehkan hakim tidak menjatuhkan pidana atau tindakan kepada Anak dengan mempertimbangkan, antara lain…",
+    "options": [
+      "Permintaan tertulis dari penyidik",
+      "Jumlah perkara yang menumpuk di pengadilan",
+      "Ringannya perbuatan dan keadaan pribadi Anak",
+      "Status sosial, pekerjaan, dan penghasilan orang tua Anak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 70: ringannya perbuatan, keadaan pribadi Anak, atau keadaan pada waktu dilakukan perbuatan atau yang terjadi kemudian, dengan mempertimbangkan segi keadilan dan kemanusiaan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 70",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-tambahan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Pidana tambahan bagi Anak menurut Pasal 71 ayat (2) UU SPPA adalah…",
+    "options": [
+      "Pengumuman putusan hakim di media massa nasional dan lokal",
+      "Perampasan keuntungan atau pemenuhan kewajiban adat",
+      "Denda dan pembayaran ganti rugi kepada negara",
+      "Pencabutan hak memilih dan hak dipilih"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 71 ayat (2).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 71 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-denda-kumulatif",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Menurut Pasal 71 ayat (3) UU SPPA, bila hukum materiil mengancam pidana kumulatif penjara dan denda, denda bagi Anak diganti dengan…",
+    "options": [
+      "Pidana peringatan",
+      "Kurungan pengganti",
+      "Pelayanan masyarakat",
+      "Pelatihan kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 71 ayat (3). Ayat (4): pidana yang dijatuhkan kepada Anak dilarang melanggar harkat dan martabat Anak.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 71 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-peringatan",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Menurut Pasal 72 UU SPPA, pidana peringatan adalah pidana ringan yang…",
+    "options": [
+      "Tidak mengakibatkan pembatasan kebebasan anak",
+      "Dijalani di LPKA selama paling lama 1 bulan",
+      "Wajib disertai pelatihan kerja paling singkat 3 bulan",
+      "Hanya dijatuhkan kepada anak di bawah 14 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 72.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 72",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-syarat-2th",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Pidana dengan syarat bagi Anak menurut Pasal 73 ayat (1) UU SPPA dapat dijatuhkan bila pidana penjara yang dijatuhkan paling lama…",
+    "options": [
+      "1 tahun",
+      "5 tahun",
+      "2 tahun",
+      "3 tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 73 ayat (6): masa pidana dengan syarat paling lama 3 tahun. Ayat (8): selama menjalaninya Anak harus mengikuti wajib belajar 9 tahun.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 73 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-syarat-umum",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Syarat umum dalam pidana dengan syarat bagi Anak menurut Pasal 73 ayat (3) UU SPPA adalah…",
+    "options": [
+      "Anak tinggal di LPKS selama masa percobaan",
+      "Orang tua membayar uang jaminan ke pengadilan sebelum putusan dijatuhkan",
+      "Anak tidak melakukan tindak pidana lagi selama masa pidana dengan syarat",
+      "Anak wajib melapor ke kantor polisi setiap minggu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Syarat khusus (ayat (4)): melakukan atau tidak melakukan hal tertentu yang ditetapkan hakim dengan tetap memperhatikan kebebasan Anak. Masa syarat khusus lebih lama dari syarat umum (ayat (5)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 73 ayat (3)-(5)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-yanmas-jam",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Pidana pelayanan masyarakat untuk Anak menurut Pasal 76 ayat (3) UU SPPA dijatuhkan…",
+    "options": [
+      "Paling singkat 3 bulan dan paling lama 1 tahun",
+      "Paling singkat 7 jam dan paling lama 120 jam",
+      "Paling singkat 12 jam dan paling lama 240 jam",
+      "Paling singkat 1 hari dan paling lama 30 hari"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 76 ayat (3). Ayat (2): bila tidak dipenuhi tanpa alasan sah, pejabat pembina dapat mengusulkan kepada hakim pengawas agar Anak mengulanginya.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 76 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-latker",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Pidana pelatihan kerja bagi Anak menurut Pasal 78 ayat (2) UU SPPA dikenakan…",
+    "options": [
+      "Paling singkat 3 bulan dan paling lama 1 tahun",
+      "Paling singkat 7 jam dan paling lama 120 jam",
+      "Paling singkat 6 bulan dan paling lama 2 tahun",
+      "Paling singkat 1 bulan dan paling lama 6 bulan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dilaksanakan di lembaga pelatihan kerja yang sesuai dengan usia Anak (Pasal 78 ayat (1)).",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 78 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-min-khusus",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Menurut Pasal 79 ayat (3) UU SPPA, minimum khusus pidana penjara…",
+    "options": [
+      "Tidak berlaku terhadap Anak",
+      "Berlaku bila Anak sudah berumur 16 tahun",
+      "Berlaku separuhnya terhadap Anak",
+      "Berlaku penuh terhadap Anak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 79 ayat (2): pidana pembatasan kebebasan paling lama 1/2 dari maksimum pidana penjara bagi orang dewasa.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 79 ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-dalam-lembaga",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Pidana pembinaan di dalam lembaga bagi Anak menurut Pasal 80 ayat (3) UU SPPA dilaksanakan…",
+    "options": [
+      "Paling singkat 7 hari dan paling lama 6 bulan",
+      "Paling singkat 3 bulan dan paling lama 24 bulan",
+      "Paling singkat 6 bulan dan paling lama 36 bulan",
+      "Paling singkat 1 bulan dan paling lama 12 bulan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 80 ayat (2): dijatuhkan bila keadaan dan perbuatan Anak tidak membahayakan masyarakat. Ayat (4): pembebasan bersyarat setelah menjalani 1/2 masa dan tidak kurang dari 3 bulan, berkelakuan baik.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 80",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-lpka-syarat",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Menurut Pasal 81 ayat (1) UU SPPA, Anak dijatuhi pidana penjara di LPKA apabila…",
+    "options": [
+      "Anak telah berumur 16 tahun pada saat putusan dijatuhkan oleh hakim",
+      "Korban menolak mengikuti proses diversi",
+      "Anak tidak memiliki orang tua atau Wali",
+      "Keadaan dan perbuatan Anak akan membahayakan masyarakat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bandingkan Pasal 80 ayat (2): pembinaan dalam lembaga justru bila tidak membahayakan masyarakat.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 81 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-lpka-pb",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Anak di LPKA berhak mendapatkan pembebasan bersyarat menurut Pasal 81 ayat (4) UU SPPA setelah…",
+    "options": [
+      "Menjalani 1/2 dari lamanya pembinaan dan berkelakuan baik",
+      "Berumur 18 tahun, berapa pun sisa pidananya",
+      "Menjalani 2/3 dari masa pidana dan melunasi seluruh denda yang dijatuhkan",
+      "Menjalani 1/3 dari masa pidana tanpa syarat lain"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 81 ayat (3): pembinaan di LPKA dilaksanakan sampai Anak berumur 18 tahun.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 81 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-pindah-18",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Anak yang belum selesai menjalani pidana di LPKA dan telah mencapai umur 18 tahun, menurut Pasal 86 ayat (1) UU SPPA, dipindahkan ke…",
+    "options": [
+      "Rumah tahanan negara",
+      "Lembaga pemasyarakatan dewasa",
+      "LPKS di daerah asalnya",
+      "Lembaga pemasyarakatan pemuda"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (2): bila sudah 21 tahun dan belum selesai, dipindahkan ke lapas dewasa dengan memperhatikan kesinambungan pembinaan. Ayat (3): bila tidak ada lapas pemuda, Kepala LPKA dapat memindahkan ke lapas dewasa berdasarkan rekomendasi Pembimbing Kemasyarakatan.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 86",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-serahkan-seseorang",
+    "type": "quiz",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "question": "Menurut Pasal 83 ayat (1) UU SPPA, tindakan penyerahan Anak kepada seseorang dilakukan untuk…",
+    "options": [
+      "Kepentingan korban dan keluarganya",
+      "Mengurangi beban LPKA",
+      "Kepentingan Anak yang bersangkutan",
+      "Memberi efek jera kepada orang tua Anak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 83 ayat (2): tindakan perawatan dimaksudkan untuk membantu orang tua/Wali mendidik dan membimbing Anak.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 83",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-humor-umur-sidang",
+    "type": "humor",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "comic",
+      "title": "Ulang tahun",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Terdakwa: perbuatannya umur 17. Sekarang sudah 19. Berarti sidang dewasa, dong?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim: Pasal 20: belum 21 tahun, tetap sidang Anak."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Terdakwa: jadi ulang tahun bukan jalan pintas?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Hakim: lilinnya boleh, celahnya tidak."
+        }
+      ]
+    },
+    "caption": "Yang dilihat umur saat berbuat, dengan batas 21 tahun saat diajukan ke sidang.",
+    "teaches": "Pasal 20 UU SPPA: tindak pidana sebelum genap 18 tahun dan diajukan ke sidang setelah melewati 18 tahun tetapi belum 21 tahun tetap diajukan ke sidang Anak.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 20",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-anak-sk-humor-yanmas",
+    "type": "humor",
+    "topicId": "peradilan-anak",
+    "subTopicId": "batas-umur",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "meme",
+      "top": "Netizen: kerja sosial 120 jam itu hukuman ringan!",
+      "bottom": "Pasal 76: tujuannya mendidik, bukan memuaskan kolom komentar",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Pelayanan masyarakat bagi Anak: 7 sampai 120 jam.",
+    "teaches": "Pasal 76 UU SPPA: pidana pelayanan masyarakat dimaksudkan mendidik Anak lewat kepedulian pada kegiatan kemasyarakatan yang positif; paling singkat 7 jam dan paling lama 120 jam.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 76",
+      "url": "https://www.datahukum.com/peraturan/UU_11_Tahun_2012.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

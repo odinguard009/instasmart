@@ -1659,5 +1659,571 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-perusahaan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Menurut UU Wajib Daftar Perusahaan, \"perusahaan\" adalah bentuk usaha yang menjalankan usaha…",
+    "options": [
+      "Sekali waktu saja, asalkan nilainya di atas batas tertentu",
+      "Hanya bila berbentuk badan hukum yang sudah disahkan menteri",
+      "Tetap dan terus-menerus, untuk memperoleh keuntungan atau laba",
+      "Apa pun, termasuk kegiatan sosial dan keagamaan tanpa tujuan laba"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 huruf b UU 3/1982: didirikan, bekerja, serta berkedudukan di wilayah Indonesia.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-pengusaha",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "\"Pengusaha\" dalam UU Wajib Daftar Perusahaan adalah…",
+    "options": [
+      "Setiap pekerja yang menerima upah dari perusahaan",
+      "Hanya badan hukum yang terdaftar di bursa efek",
+      "Hanya orang perseorangan yang memiliki modal sendiri tanpa pinjaman bank",
+      "Orang, persekutuan, atau badan hukum yang menjalankan perusahaan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 huruf c.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-tujuan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Tujuan Daftar Perusahaan menurut Pasal 2 UU 3/1982 adalah…",
+    "options": [
+      "Sumber informasi resmi perusahaan demi kepastian berusaha",
+      "Membatasi jumlah perusahaan baru di setiap kabupaten dan kota",
+      "Menilai kelayakan kredit perusahaan oleh bank",
+      "Menentukan besarnya pajak penghasilan setiap perusahaan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 2: mencatat keterangan yang benar dan menjadi sumber informasi resmi bagi semua pihak berkepentingan, dalam rangka menjamin kepastian berusaha.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 2",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-terbuka",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Sifat Daftar Perusahaan menurut Pasal 3 UU 3/1982:",
+    "options": [
+      "Tertutup kecuali atas izin pengadilan",
+      "Rahasia, hanya untuk pemilik perusahaan",
+      "Terbuka hanya bagi instansi pemerintah",
+      "Terbuka untuk semua pihak"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 3. Pasal 4 lalu mengatur cara pihak berkepentingan memperoleh salinan atau petikan resminya.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 3",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-salinan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Salinan atau petikan resmi dari Daftar Perusahaan yang diberikan kepada pihak berkepentingan berkedudukan sebagai…",
+    "options": [
+      "Petunjuk yang harus didukung alat bukti lain",
+      "Keterangan informal tanpa nilai pembuktian",
+      "Bukti permulaan yang dapat dibantah sewaktu-waktu",
+      "Alat pembuktian sempurna"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 4 ayat (2) UU 3/1982.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 4 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-wajib",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Siapa yang wajib melakukan pendaftaran perusahaan?",
+    "options": [
+      "Notaris yang membuat akta pendirian, tanpa kecuali, atas nama pendiri",
+      "Kantor pajak secara otomatis setelah NPWP terbit",
+      "Kepala desa tempat perusahaan berkedudukan",
+      "Pemilik atau pengurus, atau kuasanya dengan surat kuasa sah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5 ayat (1)-(2): setiap perusahaan wajib didaftarkan; pendaftaran dilakukan pemilik atau pengurus atau diwakilkan dengan surat kuasa yang sah.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 5",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-beberapa-pemilik",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Perusahaan dimiliki beberapa orang dan salah seorang sudah mendaftarkannya. Bagaimana kewajiban pemilik lainnya?",
+    "options": [
+      "Wajib melapor ke menteri dalam 3 bulan",
+      "Wajib membuat pendaftaran ulang bersama",
+      "Dibebaskan dari kewajiban mendaftar",
+      "Tetap wajib mendaftar sendiri-sendiri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 5 ayat (3).",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 5 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-pengecualian",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Manakah yang DIKECUALIKAN dari wajib daftar menurut Pasal 6 UU 3/1982?",
+    "options": [
+      "Koperasi simpan pinjam yang beranggota kurang dari seratus orang",
+      "Kantor cabang perusahaan asing yang berwenang membuat perjanjian",
+      "Usaha kecil perorangan dengan keluarga terdekat, tanpa izin usaha",
+      "Persekutuan firma yang baru berdiri kurang dari setahun sejak akta dibuat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 6 ayat (1): dikecualikan Perusahaan Jawatan (Perjan) dan perusahaan kecil perorangan yang dijalankan pribadi pengusahanya atau dengan anggota keluarga terdekat, tidak memerlukan izin usaha, dan bukan badan hukum atau persekutuan.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-cabang",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Apakah kantor cabang dan agen perusahaan termasuk yang wajib didaftar?",
+    "options": [
+      "Hanya kantor cabang di luar negeri",
+      "Tidak; cukup kantor pusatnya yang didaftarkan sekali",
+      "Hanya bila cabang itu berbadan hukum sendiri dan punya akta terpisah",
+      "Ya, termasuk agen dan perwakilan yang berwenang berjanji"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 7 UU 3/1982: termasuk kantor cabang, kantor pembantu, anak perusahaan, serta agen dan perwakilan yang berwenang mengadakan perjanjian.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-bentuk",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Pasal 8 UU 3/1982 mengelompokkan perusahaan wajib daftar dalam bentuk…",
+    "options": [
+      "Perusahaan dalam negeri, perusahaan asing, dan perusahaan patungan",
+      "Perusahaan besar, menengah, kecil, dan mikro menurut omzet",
+      "PT, CV, firma, dan BUMN saja, tanpa koperasi",
+      "Badan hukum, persekutuan, perorangan, dan perusahaan lainnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 8.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 8",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-tiga-bulan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Pendaftaran perusahaan wajib dilakukan paling lambat … setelah perusahaan mulai menjalankan usahanya.",
+    "options": [
+      "1 tahun",
+      "1 bulan",
+      "3 bulan",
+      "6 bulan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 10 UU 3/1982.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-pengesahan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Setelah menerima formulir pendaftaran yang sudah diisi, pejabat kantor pendaftaran menetapkan pengesahan atau penolakan dalam jangka waktu…",
+    "options": [
+      "3 bulan",
+      "14 hari kerja",
+      "30 hari",
+      "1 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 20 UU 3/1982.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 20",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-penolakan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Pendaftaran ditolak karena dinilai tidak lengkap atau tidak benar. Ke mana pengusaha mengajukan keberatan pertama kali?",
+    "options": [
+      "Ke Pengadilan Tata Usaha Negara",
+      "Kepada Menteri",
+      "Langsung ke Mahkamah Agung",
+      "Ke Ombudsman sebagai satu-satunya jalur"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 21 ayat (2). Terhadap keputusan Menteri, pengusaha dapat mengajukan keberatan ke Pengadilan Negeri (Pasal 29 ayat (3)).",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 21, 29",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-tdp",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Menurut teks UU 3/1982, Tanda Daftar Perusahaan berlaku … dan wajib diperbarui paling lambat … sebelum masa berlakunya berakhir.",
+    "options": [
+      "5 tahun; 3 bulan",
+      "Seumur hidup; tidak perlu diperbarui",
+      "3 tahun; 1 bulan",
+      "10 tahun; 6 bulan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 22 UU 3/1982. Dalam praktik perizinan berbasis OSS sekarang, NIB dipakai sebagai pengganti TDP; cek peraturan perizinan yang berlaku.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 22",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-perubahan",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Ada perubahan data yang sudah didaftarkan (misalnya alamat). Kapan wajib dilaporkan?",
+    "options": [
+      "Dalam 3 bulan setelah perubahan terjadi",
+      "Dalam 7 hari kerja setelah perubahan",
+      "Tidak perlu dilaporkan bila hanya alamat",
+      "Saat perpanjangan TDP berikutnya saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 25 ayat (1) UU 3/1982, disertai alasan dan tanggal perubahan.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 25 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-hapus",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Manakah yang menyebabkan Daftar Perusahaan hapus menurut Pasal 26 UU 3/1982?",
+    "options": [
+      "Perusahaan merugi dua tahun berturut-turut",
+      "Kegiatannya dihentikan oleh putusan PN yang berkekuatan tetap",
+      "Pemilik perusahaan berganti kewarganegaraan menjadi warga asing",
+      "Perusahaan pindah alamat ke provinsi lain dalam satu bulan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 26 ayat (1): perusahaan menghentikan segala kegiatan usahanya; berhenti saat akta pendiriannya kedaluwarsa; atau dihentikan berdasarkan putusan PN yang berkekuatan hukum tetap.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 26",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-pihak-ketiga",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Pihak ketiga berkepentingan keberatan atas data yang didaftarkan suatu perusahaan. Apa langkahnya menurut UU 3/1982?",
+    "options": [
+      "Tidak bisa; data daftar perusahaan bersifat final dan tak bisa diganggu",
+      "Langsung melaporkan pidana ke polisi tanpa langkah lain",
+      "Menghapus sendiri data itu di kantor pendaftaran",
+      "Mengajukan keberatan tertulis dengan alasan kepada Menteri"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 27 ayat (1); keberatan itu diberitahukan kepada pengusaha dan kantor pendaftaran (ayat (2)).",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 27",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-izin",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Perusahaan terdaftar ternyata menjalankan usaha yang tidak sesuai izin usahanya. Apa yang dapat dilakukan pejabat kantor pendaftaran?",
+    "options": [
+      "Setelah peringatan, membatalkan pendaftaran dan minta daftar ulang",
+      "Memailitkan perusahaan atas inisiatif sendiri tanpa permohonan kreditor",
+      "Menjatuhkan pidana penjara kepada pengurus perusahaan itu",
+      "Langsung menyita aset perusahaan tanpa peringatan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 28 ayat (1); pengusaha dapat mengajukan keberatan kepada Menteri (ayat (2)).",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 28",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-badan-hukum",
+    "type": "quiz",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "question": "Bila tindak pidana dalam UU 3/1982 dilakukan oleh badan hukum, penuntutan dan pidana dikenakan terhadap…",
+    "options": [
+      "Karyawan yang mengisi formulir",
+      "Notaris pembuat akta pendirian",
+      "Pengurus atau pemegang kuasa badan hukum itu",
+      "Seluruh pemegang saham secara tanggung renteng"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 35 ayat (1). Ketentuan ini lahir sebelum KUHP Nasional (UU 1/2023) yang mengatur korporasi sebagai subjek tindak pidana; cek keberlakuannya.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 35",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-humor-warung",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "comic",
+      "title": "Bebas formulir",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Pemilik warung: aku jualan sendiri, dibantu istri dan anak. Wajib daftar?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Konsultan: butuh izin usaha? Berbadan hukum? Persekutuan?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Pemilik warung: tidak, tidak, tidak."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Konsultan: Pasal 6: kecil perorangan, dikecualikan. Lanjut goreng."
+        }
+      ]
+    },
+    "caption": "Birokrasi pun tahu diri: tidak semua gorengan perlu nomor registrasi.",
+    "teaches": "Pasal 6 ayat (1) UU 3/1982: perusahaan kecil perorangan yang dijalankan pribadi pengusahanya atau dengan anggota keluarga terdekat, tidak memerlukan izin usaha, dan bukan badan hukum atau persekutuan dikecualikan dari wajib daftar.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-humor-pindah",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "meme",
+      "top": "Pindah kantor 2019. Lapor perubahan alamat: 'nanti saja'",
+      "bottom": "Pasal 25: wajib lapor dalam 3 bulan",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Kurir paket menemukan kantor barumu lebih cepat daripada Daftar Perusahaan.",
+    "teaches": "Pasal 25 ayat (1) UU 3/1982: setiap perubahan atas hal yang didaftarkan wajib dilaporkan ke kantor pendaftaran dalam 3 bulan setelah perubahan, dengan alasan dan tanggal perubahan.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 25",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "dagang-bisnis-wdp-humor-rahasia",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "dagang-umum",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "comic",
+      "title": "Rahasia umum",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Bos: data perusahaan kita rahasia. Tidak ada yang boleh tahu."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Staf legal: Pasal 3: Daftar Perusahaan terbuka untuk semua pihak."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Bos: termasuk pesaing?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Staf legal: termasuk pesaing. Salinannya malah alat bukti sempurna."
+        }
+      ]
+    },
+    "caption": "Yang rahasia itu resep, bukan alamat kantor dan nama direktur.",
+    "teaches": "Pasal 3 UU 3/1982: Daftar Perusahaan bersifat terbuka untuk semua pihak. Pasal 4: pihak berkepentingan dapat memperoleh salinan atau petikan resmi, yang merupakan alat pembuktian sempurna.",
+    "source": {
+      "title": "UU No. 3 Tahun 1982 tentang Wajib Daftar Perusahaan",
+      "reference": "Pasal 3, 4",
+      "url": "https://www.datahukum.com/peraturan/UU_3_Tahun_1982.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

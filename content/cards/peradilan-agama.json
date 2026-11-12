@@ -1419,5 +1419,547 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-pencari-keadilan",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Penjelasan Pasal 2 UU 3/2006: \"rakyat pencari keadilan\" adalah…",
+    "options": [
+      "Hanya WNI yang beragama Islam dan sudah dewasa",
+      "Hanya WNI yang berdomisili di wilayah hukum pengadilan",
+      "Hanya pihak yang mampu membayar biaya perkara",
+      "Setiap orang, WNI maupun orang asing"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 2 menyebut Peradilan Agama sebagai pelaku kekuasaan kehakiman bagi rakyat pencari keadilan yang beragama Islam mengenai perkara tertentu.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 2",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-menundukkan-diri",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Menurut Penjelasan Pasal 49, \"antara orang-orang yang beragama Islam\" termasuk…",
+    "options": [
+      "Hanya badan hukum yang seluruh pengurusnya muslim",
+      "Orang/badan hukum yang sukarela tunduk pada hukum Islam",
+      "Siapa pun yang tinggal di daerah mayoritas muslim",
+      "Hanya orang yang tercatat beragama Islam di KTP elektronik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Karena itu bank syariah berbentuk badan hukum dan nasabah nonmuslim dapat berperkara di pengadilan agama untuk sengketa ekonomi syariah.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-ekonomi-luas",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Penjelasan Pasal 49 menegaskan penyelesaian sengketa ekonomi syariah oleh pengadilan agama…",
+    "options": [
+      "Hanya untuk sengketa dengan nilai gugatan kecil",
+      "Hanya terbatas pada sengketa perbankan syariah",
+      "Tidak hanya perbankan syariah, tapi juga lainnya",
+      "Hanya bila para pihak sepakat secara tertulis di akad"
+    ],
+    "answerIndex": 2,
+    "explanation": "Daftar contoh: bank syariah, LKM syariah, asuransi, reasuransi, reksa dana, obligasi dan surat berharga berjangka menengah syariah, sekuritas, pembiayaan, pegadaian, dana pensiun LK syariah, bisnis syariah.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf i",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-ekonomi-contoh",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Manakah yang disebut dalam Penjelasan Pasal 49 huruf i sebagai contoh ekonomi syariah?",
+    "options": [
+      "Pegadaian syariah",
+      "Koperasi simpan pinjam konvensional",
+      "Kredit pemilikan rumah konvensional",
+      "Asuransi jiwa konvensional"
+    ],
+    "answerIndex": 0,
+    "explanation": "Huruf i: ekonomi syariah adalah perbuatan atau kegiatan usaha yang dilaksanakan menurut prinsip syariah, antara lain bank syariah sampai bisnis syariah (11 butir).",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf i",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-angkat-anak",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Butir baru dalam bidang perkawinan menurut Penjelasan Pasal 49 UU 3/2006 (dibanding penjelasan UU 7/1989) adalah…",
+    "options": [
+      "Izin beristri lebih dari seorang (poligami)",
+      "Gugatan perceraian oleh pihak istri",
+      "Pengangkatan anak menurut hukum Islam",
+      "Dispensasi kawin bagi calon di bawah umur"
+    ],
+    "answerIndex": 2,
+    "explanation": "Butir 20 kini berbunyi \"penetapan asal-usul seorang anak dan penetapan pengangkatan anak berdasarkan hukum Islam\". Penjelasan UU 7/1989 butir 20 hanya \"penetapan asal usul seorang anak\".",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf a",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-dispensasi",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Dispensasi kawin bagi pasangan muslim diajukan ke…",
+    "options": [
+      "Kantor urusan agama",
+      "Pengadilan negeri",
+      "Pengadilan agama",
+      "Pengadilan tinggi agama langsung"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 49 huruf a butir 3 menyebut dispensasi kawin sebagai perkara bidang perkawinan.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf a",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-waris",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Menurut Penjelasan Pasal 49 huruf b, kewenangan bidang \"waris\" meliputi…",
+    "options": [
+      "Hanya sengketa waris yang nilainya di atas batas yang ditentukan MA",
+      "Hanya penetapan ahli waris tanpa pembagian harta",
+      "Ahli waris, harta peninggalan, bagian, dan pembagiannya",
+      "Hanya pembagian harta setelah ada akta notaris yang sah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Termasuk penetapan pengadilan atas permohonan seseorang tentang siapa ahli waris dan bagian masing-masing.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf b",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-wasiat",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "\"Wasiat\" menurut Penjelasan Pasal 49 huruf c adalah pemberian benda atau manfaat yang berlaku…",
+    "options": [
+      "Setelah disahkan notaris",
+      "Setelah penerimanya menikah",
+      "Setelah pemberi meninggal",
+      "Seketika saat diucapkan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bedakan dengan hibah (huruf d): pemberian sukarela tanpa imbalan untuk dimiliki, berlaku semasa hidup.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf c",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-hibah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "\"Hibah\" menurut Penjelasan Pasal 49 huruf d adalah pemberian suatu benda…",
+    "options": [
+      "Sukarela, tanpa imbalan, untuk dimiliki",
+      "Dengan imbalan yang disepakati",
+      "Yang baru berlaku setelah pemberinya meninggal dunia",
+      "Kepada negara untuk kepentingan umum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pemberinya bisa seseorang atau badan hukum, penerimanya orang lain atau badan hukum.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf d",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-wakaf",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Menurut Penjelasan Pasal 49 huruf e, harta benda wakaf dimanfaatkan…",
+    "options": [
+      "Selamanya atau jangka waktu tertentu",
+      "Hanya selama wakif masih hidup di dunia",
+      "Hanya selamanya, tidak boleh berjangka",
+      "Hanya 25 tahun, lalu kembali ke ahli waris"
+    ],
+    "answerIndex": 0,
+    "explanation": "Untuk keperluan ibadah dan/atau kesejahteraan umum menurut syariah. Wakaf berjangka juga dikenal dalam UU 41/2004 tentang Wakaf.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf e",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-zakat-def",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "\"Zakat\" menurut Penjelasan Pasal 49 huruf f adalah harta yang wajib disisihkan oleh…",
+    "options": [
+      "Setiap WNI tanpa memandang agama",
+      "Hanya orang yang berpenghasilan tetap bulanan",
+      "Muslim atau badan hukum milik orang muslim",
+      "Hanya badan amil zakat nasional dan daerah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Untuk diberikan kepada yang berhak menerimanya, sesuai ketentuan syariah.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf f",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-shadaqah",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Unsur yang membedakan \"shadaqah\" dalam Penjelasan Pasal 49 huruf h adalah pemberian…",
+    "options": [
+      "Spontan, sukarela, tanpa batas waktu dan jumlah",
+      "Wajib, dengan syarat nisab dan haul terpenuhi",
+      "Berlaku setelah pemberi meninggal",
+      "Dengan imbalan jasa yang disepakati kedua pihak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bandingkan: zakat wajib; wasiat berlaku setelah meninggal; hibah untuk dimiliki tanpa imbalan.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49 huruf h",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-milik-1",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Dalam perkara waris di pengadilan agama muncul sengketa hak milik atas objeknya. Pasal 50 ayat (1) UU 3/2006 menentukan objek itu…",
+    "options": [
+      "Diputus lebih dahulu oleh peradilan umum",
+      "Selalu diputus pengadilan agama tanpa pengecualian apa pun",
+      "Menghentikan seluruh perkara",
+      "Diserahkan kepada BPN untuk diukur ulang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tetapi ayat (2) memberi pengecualian bila subjeknya sama-sama beragama Islam.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 50 ayat (1)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-milik-2",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Sengketa hak milik itu terjadi antara para pihak yang sama-sama beragama Islam. Menurut Pasal 50 ayat (2):",
+    "options": [
+      "Tetap harus diputus pengadilan negeri lebih dulu",
+      "Diselesaikan lewat musyawarah desa setempat",
+      "Perkara ditunda sampai ada putusan MA",
+      "Diputus pengadilan agama bersama perkara pokok"
+    ],
+    "answerIndex": 3,
+    "explanation": "Penjelasan: untuk menghindari upaya memperlambat penyelesaian sengketa dengan alasan sengketa milik.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 50 ayat (2)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-milik-3",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Sengketa milik diajukan oleh pihak yang BUKAN subjek perkara di pengadilan agama. Menurut Penjelasan Pasal 50 ayat (2), perkara di pengadilan agama…",
+    "options": [
+      "Tetap berjalan tanpa menghiraukan gugatan itu sama sekali",
+      "Ditunda, bila ada bukti gugatan sudah didaftarkan di PN",
+      "Otomatis gugur demi hukum",
+      "Dilimpahkan ke pengadilan negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penangguhan hanya bila pihak yang berkeberatan sudah mengajukan bukti pendaftaran gugatan di PN atas objek yang sama. Objek yang tidak terkait tidak perlu ditangguhkan.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 50 ayat (2)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-isbat-hilal",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Pasal 52A UU 3/2006: pengadilan agama memberikan itsbat kesaksian rukyat hilal dalam…",
+    "options": [
+      "Penentuan awal bulan pada tahun Hijriyah",
+      "Penentuan arah kiblat masjid baru secara mengikat",
+      "Penetapan hari libur nasional",
+      "Penentuan tanggal pemilu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penjelasan: selama ini atas permintaan Menteri Agama untuk penetapan 1 Ramadhan dan 1 Syawal. Untuk arah kiblat dan waktu shalat, pengadilan agama dapat memberi keterangan atau nasihat.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 52A",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-kiblat",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Mengenai perbedaan penentuan arah kiblat dan waktu shalat, menurut Penjelasan Pasal 52A pengadilan agama…",
+    "options": [
+      "Menyerahkannya kepada pengadilan negeri setempat",
+      "Wajib menjatuhkan putusan yang mengikat umat",
+      "Dapat memberi keterangan atau nasihat",
+      "Tidak berwenang sama sekali"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan Pasal 52A UU 3/2006.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 52A",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-pengkhususan",
+    "type": "quiz",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "question": "Pasal 3A UU 3/2006: di lingkungan Peradilan Agama dapat diadakan…",
+    "options": [
+      "Pengadilan adat yang dibentuk oleh kepala daerah",
+      "Pengadilan banding di setiap kabupaten dan kota",
+      "Pengkhususan pengadilan, diatur undang-undang",
+      "Peradilan arbitrase wajib"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penjelasan: Mahkamah Syar'iyah di Aceh adalah pengadilan khusus di lingkungan peradilan agama sepanjang kewenangannya menyangkut kewenangan peradilan agama, dan di lingkungan peradilan umum sepanjang menyangkut kewenangan peradilan umum.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 3A",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-humor-nasabah",
+    "type": "humor",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "comic",
+      "title": "Akad membawa pintu",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Nasabah nonmuslim: saya bukan muslim, masa digugat di pengadilan agama?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Hakim: akadnya syariah? Penjelasan Pasal 49: menundukkan diri sukarela."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Nasabah: saya cuma pilih yang marginnya kecil."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Hakim: itu juga pilihan. Akadnya ikut."
+        }
+      ]
+    },
+    "caption": "Yang dibaca pengadilan: akadnya, bukan KTP-nya.",
+    "teaches": "Penjelasan Pasal 49 UU 3/2006: \"antara orang-orang yang beragama Islam\" termasuk orang atau badan hukum yang menundukkan diri dengan sukarela kepada hukum Islam.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Penjelasan Pasal 49",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-humor-ulur",
+    "type": "humor",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "meme",
+      "top": "Strategi: tiap sidang waris, ajukan sengketa milik baru",
+      "bottom": "Pasal 50 ayat (2): sesama muslim? Diputus sekalian.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Taktik mengulur waktu ini sudah diantisipasi sejak 2006.",
+    "teaches": "Pasal 50 ayat (2) UU 3/2006 dan penjelasannya: sengketa milik antara pihak beragama Islam diputus pengadilan agama bersama perkara pokok, untuk menghindari upaya mengulur waktu.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 50 ayat (2)",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-agama-kw-humor-hilal",
+    "type": "humor",
+    "topicId": "peradilan-agama",
+    "subTopicId": "kewenangan-pa",
+    "account": "serambi.syariah",
+    "visual": {
+      "template": "comic",
+      "title": "Pembagian kerja",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Saksi: saya lihat hilal! Tolong ditetapkan."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hakim PA: Pasal 52A: kami beri itsbat kesaksian rukyat."
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Saksi: sekalian tetapkan lebaran besok?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Hakim PA: itu penetapan Menteri Agama. Kami cuma kesaksianmu."
+        }
+      ]
+    },
+    "caption": "Pengadilan mengesahkan kesaksian; tanggalnya ditetapkan pemerintah.",
+    "teaches": "Pasal 52A UU 3/2006 dan penjelasannya: pengadilan agama memberi itsbat kesaksian rukyat hilal; penetapan 1 Ramadhan dan 1 Syawal secara nasional dikeluarkan Menteri Agama.",
+    "source": {
+      "title": "UU No. 3 Tahun 2006 tentang Perubahan atas UU No. 7 Tahun 1989 tentang Peradilan Agama",
+      "reference": "Pasal 52A",
+      "url": "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/3TAHUN2006UUPenj.htm"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

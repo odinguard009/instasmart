@@ -1060,5 +1060,49 @@
     "status": "draft",
     "createdAt": "2026-11-11",
     "needsVerification": true
+  },
+  {
+    "id": "tiu-sarkas-diskon-bertingkat",
+    "type": "humor",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "visual": {
+      "template": "meme",
+      "top": "Spanduk: \"DISKON 50% + 20%!\" Pembeli: \"Wah, 70%!\"",
+      "bottom": "Kasir: 100 → 50 → 40. Diskonnya 60%, bukan 70%.",
+      "character": "cat",
+      "expression": "shock"
+    },
+    "caption": "Diskon bertingkat: matematikanya jujur, spanduknya yang kreatif.",
+    "teaches": "Diskon bertingkat dikalikan, bukan dijumlah: harga akhir = 100% × (1 − 0,5) × (1 − 0,2) = 40% harga awal, jadi total diskon 60%.",
+    "source": {
+      "title": "Latihan buatan sendiri (perhitungan dapat dicek ulang)",
+      "reference": "Persentase bertingkat"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tiu-sarkas-naik-turun-10",
+    "type": "humor",
+    "topicId": "tiu",
+    "subTopicId": "numerik",
+    "account": "tiu.ngebut",
+    "visual": {
+      "template": "meme",
+      "top": "Harga naik 10%, minggu depan turun 10%. \"Berarti kembali seperti semula!\"",
+      "bottom": "100 → 110 → 99. Tetap rugi 1%.",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Persentase turun dihitung dari angka yang sudah naik.",
+    "teaches": "Naik 10% lalu turun 10%: 100 × 1,1 × 0,9 = 99. Hasilnya turun 1% dari harga awal, karena 10% kedua dihitung dari 110.",
+    "source": {
+      "title": "Latihan buatan sendiri (perhitungan dapat dicek ulang)",
+      "reference": "Persentase berurutan"
+    },
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

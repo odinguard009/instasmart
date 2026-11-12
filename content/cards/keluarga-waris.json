@@ -1163,5 +1163,28 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "keluarga-waris-sarkas-cerai-anak",
+    "type": "humor",
+    "topicId": "keluarga-waris",
+    "subTopicId": "perkawinan",
+    "account": "nikah.waris.notes",
+    "visual": {
+      "template": "meme",
+      "top": "\"Kita sudah cerai, jadi urusan anak juga ikut selesai, kan?\"",
+      "bottom": "Perkawinan bisa putus. Kewajiban ke anak tidak ikut putus.",
+      "character": "owl",
+      "expression": "shock"
+    },
+    "caption": "Mantan pasangan ada. Mantan anak tidak ada.",
+    "teaches": "Pasal 45 UU 1/1974: kedua orang tua wajib memelihara dan mendidik anak-anak mereka sebaik-baiknya, sampai anak itu kawin atau dapat berdiri sendiri, dan kewajiban itu berlaku terus meskipun perkawinan antara kedua orang tua putus.",
+    "source": {
+      "title": "UU No. 1 Tahun 1974 tentang Perkawinan",
+      "reference": "Pasal 45"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

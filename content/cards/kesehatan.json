@@ -1231,5 +1231,70 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "kesehatan-sarkas-grup-wa",
+    "type": "humor",
+    "topicId": "kesehatan",
+    "subTopicId": "tanggung-jawab-medis",
+    "account": "rekam.medis",
+    "visual": {
+      "template": "comic",
+      "title": "Ruang jaga",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Eh, tahu nggak pasien kamar 3 sakit apa?"
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Apa? Apa?"
+        },
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Nanti kuceritakan di grup arisan."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Rahasia kesehatan pasien wajib dijaga, bukan dijadikan bahan arisan."
+        }
+      ]
+    },
+    "caption": "Rekam medis itu dokumen, bukan konten.",
+    "teaches": "Pasal 274 huruf c UU 17/2023: tenaga medis dan tenaga kesehatan dalam menjalankan praktik wajib menjaga rahasia kesehatan pasien.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 274 huruf c"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "kesehatan-sarkas-second-opinion",
+    "type": "humor",
+    "topicId": "kesehatan",
+    "subTopicId": "hak-pasien",
+    "account": "rekam.medis",
+    "visual": {
+      "template": "meme",
+      "top": "Pasien: \"Dok, saya mau minta pendapat dokter lain.\"",
+      "bottom": "\"Oh, jadi kamu nggak percaya saya?\" (Padahal itu hak pasien.)",
+      "character": "kancil",
+      "expression": "shock"
+    },
+    "caption": "Second opinion bukan pengkhianatan.",
+    "teaches": "Pasal 276 huruf f UU 17/2023: pasien mempunyai hak meminta pendapat tenaga medis atau tenaga kesehatan lain.",
+    "source": {
+      "title": "UU No. 17 Tahun 2023 tentang Kesehatan",
+      "reference": "Pasal 276 huruf f"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

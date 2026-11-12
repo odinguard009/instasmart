@@ -937,5 +937,47 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "han-ptun-sarkas-tender-ipar",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "visual": {
+      "template": "comic",
+      "title": "Tender keluarga",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Pemenang tender: CV Maju Terus Pantang Kalah."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Itu perusahaan siapa, Pak?"
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Ipar saya. Tapi sangat profesional."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Hubungan kerabat dan keluarga = konflik kepentingan."
+        }
+      ]
+    },
+    "caption": "Profesional sekali: profesional mengenal keluarga sendiri.",
+    "teaches": "Pasal 43 ayat (1) UU 30/2014: konflik kepentingan terjadi apabila penetapan keputusan dan/atau tindakan dilatarbelakangi antara lain kepentingan pribadi dan/atau bisnis, atau hubungan dengan kerabat dan keluarga.",
+    "source": {
+      "title": "UU No. 30 Tahun 2014 tentang Administrasi Pemerintahan",
+      "reference": "Pasal 43 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

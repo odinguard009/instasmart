@@ -136,5 +136,70 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "konsumen-persaingan-sarkas-keluhan-penting",
+    "type": "humor",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "comic",
+      "title": "Layanan pelanggan",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Keluhan Anda sangat penting bagi kami."
+        },
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Saya lapor tiga minggu lalu, belum dibalas."
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Penting untuk disimpan, bukan untuk dibalas."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Hak untuk didengar keluhannya itu hak konsumen."
+        }
+      ]
+    },
+    "caption": "Sangat penting. Saking pentingnya, disimpan rapat-rapat.",
+    "teaches": "Pasal 4 huruf d UU 8/1999: konsumen berhak untuk didengar pendapat dan keluhannya atas barang dan/atau jasa yang digunakan.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 4 huruf d"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-sarkas-iklan-asli",
+    "type": "humor",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "konsumen",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "meme",
+      "top": "Iklan: \"100% ASLI, TANPA CAMPURAN!\"",
+      "bottom": "Label kecil di belakang: \"mengandung perisa identik alami\".",
+      "character": "kancil",
+      "expression": "shock"
+    },
+    "caption": "Font besar untuk janji, font semut untuk kenyataan.",
+    "teaches": "Pasal 4 huruf c UU 8/1999: konsumen berhak atas informasi yang benar, jelas, dan jujur mengenai kondisi dan jaminan barang dan/atau jasa.",
+    "source": {
+      "title": "UU No. 8 Tahun 1999 tentang Perlindungan Konsumen",
+      "reference": "Pasal 4 huruf c"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

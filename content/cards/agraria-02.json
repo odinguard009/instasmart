@@ -597,5 +597,28 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "agraria-sarkas-sawah-pajangan",
+    "type": "humor",
+    "topicId": "agraria",
+    "subTopicId": "asas-agraria",
+    "account": "tanah.kita",
+    "visual": {
+      "template": "meme",
+      "top": "Punya sawah 10 hektare. Digarap: tidak pernah. Dipamerkan: tiap Lebaran.",
+      "bottom": "UUPA: tanah pertanian pada asasnya wajib dikerjakan sendiri secara aktif.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Sawah bukan hiasan dinding.",
+    "teaches": "Pasal 10 ayat (1) UU 5/1960: setiap orang dan badan hukum yang mempunyai hak atas tanah pertanian pada asasnya diwajibkan mengerjakan atau mengusahakannya sendiri secara aktif, dengan mencegah cara-cara pemerasan; pengecualiannya diatur peraturan perundangan (ayat (3)).",
+    "source": {
+      "title": "UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria (UUPA)",
+      "reference": "Pasal 10 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

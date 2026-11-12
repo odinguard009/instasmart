@@ -947,5 +947,28 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-anak-sarkas-tahan-biar-kapok",
+    "type": "humor",
+    "topicId": "peradilan-anak",
+    "subTopicId": "acara-anak",
+    "account": "ruang.anak",
+    "visual": {
+      "template": "meme",
+      "top": "\"Anak ini tahan saja dulu, biar kapok.\"",
+      "bottom": "Untuk Anak, penahanan itu upaya terakhir, bukan terapi kejut.",
+      "character": "owl",
+      "expression": "shock"
+    },
+    "caption": "\"Biar kapok\" tidak ada di daftar dasar hukum.",
+    "teaches": "Pasal 3 huruf g UU 11/2012: setiap Anak dalam proses peradilan pidana berhak tidak ditangkap, ditahan, atau dipenjara, kecuali sebagai upaya terakhir dan dalam waktu yang paling singkat.",
+    "source": {
+      "title": "UU No. 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak",
+      "reference": "Pasal 3 huruf g"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

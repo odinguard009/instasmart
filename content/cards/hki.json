@@ -242,5 +242,28 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "hki-sarkas-no-copyright-intended",
+    "type": "humor",
+    "topicId": "hki",
+    "subTopicId": "hak-cipta",
+    "account": "karya.cipta",
+    "visual": {
+      "template": "meme",
+      "top": "Unggah film utuh: \"No copyright infringement intended.\"",
+      "bottom": "Niat di keterangan tidak menggantikan izin pencipta.",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Kalimat sakti yang kesaktiannya nol di depan undang-undang.",
+    "teaches": "Pasal 9 ayat (2) dan (3) UU 28/2014: setiap orang yang melaksanakan hak ekonomi wajib mendapatkan izin Pencipta atau Pemegang Hak Cipta; tanpa izin dilarang melakukan Penggandaan dan/atau Penggunaan Secara Komersial Ciptaan.",
+    "source": {
+      "title": "UU No. 28 Tahun 2014 tentang Hak Cipta",
+      "reference": "Pasal 9 ayat (2)-(3)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

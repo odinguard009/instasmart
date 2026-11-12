@@ -123,5 +123,28 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "lingkungan-sarkas-bakar-lahan",
+    "type": "humor",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "\"Biar cepat dan hemat, lahannya dibakar saja.\"",
+      "bottom": "Hemat di biaya, boros di paru-paru orang satu provinsi.",
+      "character": "owl",
+      "expression": "sad"
+    },
+    "caption": "Efisiensi versi asap.",
+    "teaches": "Pasal 69 ayat (1) huruf h UU 32/2009 (teks asli): setiap orang dilarang melakukan pembukaan lahan dengan cara membakar; ayat (2) meminta ketentuan ini memperhatikan dengan sungguh-sungguh kearifan lokal di daerah masing-masing. Perubahan oleh UU 6/2023 belum dicek untuk ayat ini.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup",
+      "reference": "Pasal 69 ayat (1) huruf h"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

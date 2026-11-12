@@ -735,5 +735,70 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "etika-hakim-sarkas-salah-orang",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "meme",
+      "top": "\"Oh, ternyata salah orang. Ya sudah, silakan pulang.\"",
+      "bottom": "Pulang boleh. Ganti kerugian dan rehabilitasi juga berhak dituntut.",
+      "character": "gecko",
+      "expression": "sad"
+    },
+    "caption": "Permintaan maaf saja tidak mengembalikan nama baik.",
+    "teaches": "Pasal 9 ayat (1) UU 48/2009: setiap orang yang ditangkap, ditahan, dituntut, atau diadili tanpa alasan berdasarkan undang-undang atau karena kekeliruan mengenai orangnya atau hukum yang diterapkannya, berhak menuntut ganti kerugian dan rehabilitasi.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 9 ayat (1)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "etika-hakim-sarkas-mediasi-nanti-dipikir",
+    "type": "humor",
+    "topicId": "etika-hakim",
+    "subTopicId": "asas-peradilan",
+    "account": "pakhoot.bijak",
+    "visual": {
+      "template": "comic",
+      "title": "Damai, tapi…",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Kesepakatan mediasi sudah ditandatangani. Damai!"
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Sip. Nanti saya pikir-pikir lagi, ya."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Lho, kan sudah tanda tangan?"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Kesepakatan tertulis ADR final dan mengikat."
+        }
+      ]
+    },
+    "caption": "Tanda tangan dulu, menyesal kemudian: tidak termasuk upaya hukum.",
+    "teaches": "Pasal 60 ayat (2)-(3) UU 48/2009: hasil penyelesaian sengketa melalui alternatif penyelesaian sengketa dituangkan dalam kesepakatan tertulis yang bersifat final dan mengikat para pihak untuk dilaksanakan dengan itikad baik.",
+    "source": {
+      "title": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman",
+      "reference": "Pasal 60 ayat (2)-(3)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

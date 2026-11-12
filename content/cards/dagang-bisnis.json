@@ -1017,5 +1017,28 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "dagang-bisnis-sarkas-tjsl-baliho",
+    "type": "humor",
+    "topicId": "dagang-bisnis",
+    "subTopicId": "perseroan",
+    "account": "pasal.dagang",
+    "visual": {
+      "template": "meme",
+      "top": "TJSL perusahaan tambang: baliho \"Selamat Hari Raya\" ukuran 10 meter.",
+      "bottom": "TJSL itu kewajiban yang dianggarkan, bukan ucapan yang dicetak besar.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Tanggung jawab sosial, bukan tanggung jawab spanduk.",
+    "teaches": "Pasal 74 UU 40/2007: perseroan yang usahanya di bidang dan/atau berkaitan dengan sumber daya alam wajib melaksanakan Tanggung Jawab Sosial dan Lingkungan, yang merupakan kewajiban perseroan yang dianggarkan dan diperhitungkan sebagai biaya perseroan.",
+    "source": {
+      "title": "UU No. 40 Tahun 2007 tentang Perseroan Terbatas",
+      "reference": "Pasal 74 ayat (1)-(2)"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

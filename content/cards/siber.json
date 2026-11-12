@@ -899,5 +899,28 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "siber-sarkas-undian-kipas",
+    "type": "humor",
+    "topicId": "siber",
+    "subTopicId": "pdp",
+    "account": "data.pribadi",
+    "visual": {
+      "template": "meme",
+      "top": "Formulir undian kipas angin: foto KTP, swafoto pegang KTP, nama ibu kandung.",
+      "bottom": "Hadiahnya kipas. Yang terbang data kita.",
+      "character": "cat",
+      "expression": "shock"
+    },
+    "caption": "Gratis, katanya. Bayarnya pakai identitas.",
+    "teaches": "Pasal 5 UU 27/2022: subjek data pribadi berhak mendapatkan informasi tentang kejelasan identitas, dasar kepentingan hukum, tujuan permintaan dan penggunaan data pribadi, dan akuntabilitas pihak yang meminta data pribadi.",
+    "source": {
+      "title": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+      "reference": "Pasal 5"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

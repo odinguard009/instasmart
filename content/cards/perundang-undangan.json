@@ -1023,5 +1023,28 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "perundang-undangan-sarkas-baru-diundangkan",
+    "type": "humor",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "visual": {
+      "template": "meme",
+      "top": "\"Santai, aturannya kan baru diundangkan tadi pagi.\"",
+      "bottom": "Pasal 87: berlaku sejak tanggal diundangkan, kecuali ditentukan lain.",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "\"Baru\" bukan berarti \"belum berlaku\".",
+    "teaches": "Pasal 87 UU 12/2011: peraturan perundang-undangan mulai berlaku dan mempunyai kekuatan mengikat pada tanggal diundangkan, kecuali ditentukan lain di dalam peraturan perundang-undangan yang bersangkutan.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+      "reference": "Pasal 87"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

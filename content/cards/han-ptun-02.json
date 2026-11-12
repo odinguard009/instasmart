@@ -979,5 +979,763 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-asas",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 2 ayat (1) UU KIP, setiap Informasi Publik pada dasarnya bersifat…",
+    "options": [
+      "Rahasia sampai diumumkan dalam Berita Negara",
+      "Terbuka dan dapat diakses setiap Pengguna Informasi Publik",
+      "Terbuka hanya bagi pegawai dan pensiunan Badan Publik itu sendiri",
+      "Tertutup kecuali ada izin pimpinan Badan Publik"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 ayat (1). Informasi yang dikecualikan bersifat ketat dan terbatas (ayat (2)). Jadi prinsipnya terbuka; pengecualian adalah eksepsi.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 2 ayat (1)-(2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-uji-konsekuensi",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 2 ayat (4), menutup suatu informasi didasarkan pada pengujian konsekuensi dan pertimbangan bahwa…",
+    "options": [
+      "Pemohon tidak menyebutkan jabatan dan instansi asalnya",
+      "Informasi itu sudah lebih dari lima tahun umurnya",
+      "Menutupnya melindungi kepentingan yang lebih besar",
+      "Pejabat yang bersangkutan merasa tidak nyaman bila dibuka"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 2 ayat (4): informasi dikecualikan bersifat rahasia sesuai UU, kepatutan, dan kepentingan umum, berdasarkan uji konsekuensi serta pertimbangan bahwa menutup informasi melindungi kepentingan yang lebih besar daripada membukanya, atau sebaliknya.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 2 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-cepat-murah",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pasal 2 ayat (3) UU KIP menghendaki Informasi Publik dapat diperoleh dengan…",
+    "options": [
+      "Rekomendasi tertulis dari kepala desa atau lurah",
+      "Cepat dan tepat waktu, biaya ringan, dan cara sederhana",
+      "Gratis tanpa syarat apa pun dalam waktu satu hari kerja",
+      "Prosedur berjenjang melalui tiga tingkat pejabat"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2 ayat (3). Pasal 21 mengulang prinsipnya: mekanisme memperoleh informasi didasarkan pada prinsip cepat, tepat waktu, dan biaya ringan.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 2 ayat (3) dan Pasal 21",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-pemohon",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 1 angka 12 UU KIP, Pemohon Informasi Publik adalah…",
+    "options": [
+      "Hanya wartawan dan lembaga swadaya masyarakat terdaftar",
+      "Hanya anggota DPR, DPD, dan DPRD yang sedang menjabat",
+      "Setiap orang di seluruh dunia yang memiliki akses internet",
+      "WNI dan/atau badan hukum Indonesia yang meminta informasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 12. Bandingkan 'Orang' (angka 10) yang lebih luas: perseorangan, kelompok, badan hukum, atau badan publik.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 1 angka 12",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-badan-publik",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Sebuah organisasi nonpemerintah menerima sebagian dananya dari sumbangan masyarakat. Menurut Pasal 1 angka 3, organisasi itu…",
+    "options": [
+      "Pasti bukan Badan Publik karena bukan lembaga negara",
+      "Hanya Badan Publik jika berbadan hukum perseroan",
+      "Dapat termasuk Badan Publik",
+      "Badan Publik hanya bila dananya dari luar negeri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 3: Badan Publik mencakup organisasi nonpemerintah sepanjang sebagian atau seluruh dananya bersumber dari APBN/APBD, sumbangan masyarakat, dan/atau luar negeri.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 1 angka 3",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-alasan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 4 ayat (3), Pemohon Informasi Publik berhak mengajukan permintaan informasi…",
+    "options": [
+      "Hanya melalui kuasa hukum yang terdaftar",
+      "Setelah membayar uang jaminan terlebih dahulu",
+      "Tanpa boleh ditanya identitasnya sama sekali",
+      "Disertai alasan permintaan tersebut"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 4 ayat (3). Badan Publik juga wajib mencatat nama dan alamat pemohon, subjek dan format informasi, serta cara penyampaiannya (Pasal 22 ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 4 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-hak-orang",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Manakah yang termasuk hak setiap Orang menurut Pasal 4 ayat (2) UU KIP?",
+    "options": [
+      "Menetapkan klasifikasi informasi Badan Publik",
+      "Membuka arsip yang telah dinyatakan dikecualikan",
+      "Menghadiri pertemuan publik yang terbuka untuk umum",
+      "Memaksa pejabat memberi keterangan lisan secara pribadi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 4 ayat (2): melihat dan mengetahui informasi, menghadiri pertemuan publik yang terbuka untuk umum, mendapat salinan melalui permohonan, dan menyebarluaskan informasi sesuai peraturan.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 4 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-berkala",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Informasi Publik yang wajib diumumkan secara berkala (misalnya laporan keuangan) disampaikan paling singkat…",
+    "options": [
+      "3 bulan sekali",
+      "1 tahun sekali",
+      "Setiap pergantian pimpinan",
+      "6 bulan sekali"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 9 ayat (3): paling singkat 6 bulan sekali, dengan cara yang mudah dijangkau dan bahasa yang mudah dipahami (ayat (4)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 9 ayat (2)-(4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-serta-merta",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Informasi yang dapat mengancam hajat hidup orang banyak dan ketertiban umum (misalnya peringatan bencana) wajib diumumkan…",
+    "options": [
+      "Secara berkala enam bulan sekali",
+      "Setelah disetujui Komisi Informasi",
+      "Secara serta-merta",
+      "Hanya jika ada permohonan tertulis"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 10 ayat (1): wajib diumumkan secara serta-merta, dengan cara yang mudah dijangkau dan bahasa yang mudah dipahami.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-setiap-saat",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Manakah yang termasuk informasi yang wajib tersedia SETIAP SAAT menurut Pasal 11?",
+    "options": [
+      "Perjanjian Badan Publik dengan pihak ketiga",
+      "Isi wasiat seseorang yang dibuat di notaris",
+      "Korespondensi diplomatik antarnegara",
+      "Riwayat kesehatan pegawai Badan Publik"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 11 ayat (1) huruf e. Tiga pilihan lain justru contoh informasi yang dikecualikan (Pasal 17 huruf h, f, dan g).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 11 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-ppid",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Untuk mewujudkan pelayanan informasi yang cepat, tepat, dan sederhana, setiap Badan Publik wajib menunjuk…",
+    "options": [
+      "Mediator bersertifikat yang ditunjuk pengadilan",
+      "Juru bicara tetap dari kalangan wartawan senior",
+      "Komisioner Komisi Informasi di instansinya sendiri",
+      "Pejabat Pengelola Informasi dan Dokumentasi (PPID)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 13 ayat (1) huruf a. PPID dibantu oleh pejabat fungsional (ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 13",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-dikecualikan-pribadi",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Manakah yang termasuk informasi yang DIKECUALIKAN karena mengungkap rahasia pribadi menurut Pasal 17 huruf h?",
+    "options": [
+      "Riwayat dan perawatan kesehatan seseorang",
+      "Laporan keuangan tahunan lembaga penegak hukum",
+      "Surat perintah penghentian penyidikan",
+      "Putusan badan peradilan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 17 huruf h angka 2. Tiga pilihan lain disebut Pasal 18 ayat (1) sebagai informasi yang TIDAK termasuk dikecualikan.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 17 huruf h dan 18 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-tidak-dikecualikan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 18 ayat (1), manakah yang TIDAK termasuk informasi yang dikecualikan?",
+    "options": [
+      "Sistem persandian negara",
+      "Putusan badan peradilan",
+      "Rencana awal perubahan nilai tukar",
+      "Rencana awal investasi asing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 18 ayat (1) huruf a. Sistem persandian negara (Pasal 17 huruf c), rencana awal perubahan nilai tukar, dan rencana awal investasi asing (Pasal 17 huruf e) adalah informasi yang dikecualikan.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 18 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-pejabat-publik",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Rahasia pribadi pada dasarnya dikecualikan. Menurut Pasal 18 ayat (2), pengecualian itu tidak berlaku antara lain apabila…",
+    "options": [
+      "Pengungkapannya terkait posisi seseorang di jabatan publik",
+      "Informasinya sudah berumur lebih dari satu tahun penuh",
+      "Pemohon informasinya adalah kerabat dekat orang tersebut",
+      "Pemohon bersedia membayar seluruh biaya penggandaan dokumen"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 18 ayat (2): tidak termasuk dikecualikan (untuk Pasal 17 huruf g dan h) apabila pihak yang rahasianya diungkap memberi persetujuan tertulis dan/atau pengungkapan berkaitan dengan posisi seseorang dalam jabatan publik.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 18 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-tidak-permanen",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Pengecualian informasi berdasarkan Pasal 17 huruf a sampai f (antara lain penegakan hukum dan pertahanan) menurut Pasal 20 bersifat…",
+    "options": [
+      "Ditentukan sendiri oleh pemohon",
+      "Berlaku selama pejabatnya menjabat",
+      "Permanen selamanya",
+      "Tidak permanen"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 20 ayat (1); jangka waktu pengecualian diatur lebih lanjut dengan Peraturan Pemerintah (ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 20",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-10-hari",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Setelah menerima permintaan informasi, Badan Publik wajib menyampaikan pemberitahuan tertulis paling lambat…",
+    "options": [
+      "30 hari kerja sejak permintaan didaftarkan oleh petugas",
+      "14 hari kalender tanpa kemungkinan perpanjangan apa pun",
+      "3 hari kerja, dapat diperpanjang 3 hari kerja berikutnya",
+      "10 hari kerja; dapat diperpanjang 7 hari kerja beralasan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 22 ayat (7) dan (8). Pemberitahuan memuat antara lain dikuasai/tidaknya informasi, diterima/ditolaknya permintaan dengan alasan Pasal 17, format, serta biaya dan cara pembayaran.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 22 ayat (7)-(8)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-dihitamkan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Dokumen yang diminta ternyata sebagian berisi materi yang dikecualikan. Menurut Pasal 22 ayat (7) huruf e, Badan Publik…",
+    "options": [
+      "Wajib menolak memberikan seluruh dokumen tanpa terkecuali",
+      "Dapat menghitamkan bagian dikecualikan, disertai alasan",
+      "Wajib memberikan seluruhnya tanpa sensor sedikit pun",
+      "Harus menunggu izin pengadilan negeri dahulu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 22 ayat (7) huruf e: informasi yang dikecualikan dapat dihitamkan dengan disertai alasan dan materinya. Bagian lain tetap dapat diberikan.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 22 ayat (7) huruf e",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-lisan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Bolehkah permintaan informasi publik diajukan secara lisan?",
+    "options": [
+      "Hanya boleh bila pemohon berstatus pejabat negara aktif",
+      "Tidak; permintaan harus tertulis dan dibubuhi meterai",
+      "Boleh; Badan Publik wajib mencatat permintaan lisan itu",
+      "Boleh, tetapi pemohon tidak mendapat nomor pendaftaran"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 22 ayat (1) dan (3): permintaan dapat tertulis atau tidak tertulis; yang tidak tertulis wajib dicatat. Tanda bukti berupa nomor pendaftaran diberikan (ayat (4)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 22 ayat (1), (3), (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-komisi",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Komisi Informasi menyelesaikan Sengketa Informasi Publik melalui…",
+    "options": [
+      "Mediasi dan/atau Ajudikasi nonlitigasi",
+      "Arbitrase internasional berbayar",
+      "Penyidikan dan penuntutan oleh penyidik",
+      "Musyawarah adat di balai desa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 23 (dan Pasal 1 angka 4). Mediasi dibantu mediator Komisi Informasi; Ajudikasi diputus oleh Komisi Informasi (Pasal 1 angka 6-7).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 23",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-anggota",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Jumlah anggota Komisi Informasi Pusat menurut Pasal 25 ayat (1) adalah…",
+    "options": [
+      "9 orang",
+      "11 orang",
+      "7 orang",
+      "5 orang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 25: KI Pusat 7 orang; KI provinsi dan/atau kabupaten/kota 5 orang; mencerminkan unsur pemerintah dan unsur masyarakat.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 25 ayat (1)-(2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-keberatan-ke",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Permintaan informasi tidak ditanggapi. Langkah pertama pemohon menurut UU KIP adalah mengajukan keberatan tertulis kepada…",
+    "options": [
+      "Atasan PPID",
+      "Ombudsman",
+      "Komisi Informasi Pusat",
+      "Pengadilan tata usaha negara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 35 ayat (1) huruf c. Keberatan ke atasan PPID dulu; baru jika tanggapannya tidak memuaskan, sengketa diajukan ke Komisi Informasi (Pasal 37).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 35 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-keberatan-waktu",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Keberatan diajukan paling lambat… setelah ditemukannya alasan keberatan.",
+    "options": [
+      "14 hari kerja",
+      "60 hari kalender",
+      "30 hari kerja",
+      "10 hari kerja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 36 ayat (1): 30 hari kerja. Atasan PPID menanggapi paling lambat 30 hari kerja sejak keberatan diterima (ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 36",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-ke-ki",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Tanggapan atasan PPID atas keberatan tidak memuaskan pemohon. Permohonan penyelesaian sengketa ke Komisi Informasi diajukan paling lambat…",
+    "options": [
+      "30 hari kerja setelah keberatan pertama kali diajukan",
+      "7 hari kalender setelah tanggapan diterima",
+      "14 hari kerja setelah menerima tanggapan tertulis",
+      "90 hari sejak permintaan informasi pertama"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 37 ayat (2). Komisi Informasi mulai mengupayakan penyelesaian paling lambat 14 hari kerja setelah menerima permohonan dan dapat menyelesaikannya paling lambat 100 hari kerja (Pasal 38).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 37 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-100-hari",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Proses penyelesaian sengketa di Komisi Informasi paling lambat dapat diselesaikan dalam…",
+    "options": [
+      "60 hari kerja",
+      "30 hari kerja",
+      "180 hari kalender",
+      "100 hari kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 38 ayat (2).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 38",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-mediasi-final",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Putusan Komisi Informasi yang berasal dari kesepakatan melalui Mediasi bersifat…",
+    "options": [
+      "Final dan mengikat",
+      "Dapat digugat ke pengadilan negeri",
+      "Hanya rekomendasi",
+      "Dapat digugat ke PTUN dalam 14 hari"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 39. Mediasi bersifat sukarela dan tidak dapat dipakai untuk penolakan berdasarkan pengecualian Pasal 17 (Pasal 40 ayat (2) hanya menyebut Pasal 35 ayat (1) huruf b-g).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 39-40",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-ptun-pn",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Sengketa informasi lanjut ke pengadilan setelah Ajudikasi. Jika yang digugat Badan Publik NEGARA, gugatan diajukan ke…",
+    "options": [
+      "Pengadilan tata usaha negara",
+      "Mahkamah Konstitusi RI",
+      "Pengadilan negeri setempat",
+      "Pengadilan tinggi di provinsi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 47 ayat (1). Jika Badan Publik selain Badan Publik negara, gugatan ke pengadilan negeri (ayat (2)). Syaratnya: menyatakan tidak menerima putusan Ajudikasi paling lambat 14 hari kerja (Pasal 48 ayat (1)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 47-48",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-kasasi",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "ktun-gugatan",
+    "account": "ktun.final",
+    "question": "Pihak yang tidak menerima putusan PTUN/PN dalam sengketa informasi publik dapat mengajukan kasasi paling lambat…",
+    "options": [
+      "Tidak ada kasasi; putusan PTUN/PN final",
+      "30 hari kerja sejak putusan dibacakan",
+      "90 hari sejak putusan berkekuatan tetap",
+      "14 hari sejak diterimanya putusan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 50 UU KIP. Hukum acaranya diatur lebih lanjut dalam peraturan MA; jangka waktu dan aturan pelaksananya belum diperiksa di sini.",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 50",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-humor-rahasia",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "visual": {
+      "template": "comic",
+      "title": "Klasifikasi kreatif",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Saya minta laporan keuangan dinas, Pak."
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Maaf, itu rahasia negara."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Wajib diumumkan berkala minimal 6 bulan sekali, lho."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "...Rahasia negara yang diumumkan berkala. Nah."
+        }
+      ]
+    },
+    "caption": "Kalau semua dicap rahasia, cap rahasianya yang jadi tidak bermakna.",
+    "teaches": "Laporan keuangan termasuk informasi yang wajib diumumkan secara berkala, paling singkat 6 bulan sekali (Pasal 9 ayat (2)-(3)). Pengecualian bersifat ketat dan terbatas (Pasal 2 ayat (2)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 2 dan 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-humor-disposisi",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "visual": {
+      "template": "meme",
+      "top": "Permohonan informasi: didisposisi, didisposisi lagi, didisposisi ulang",
+      "bottom": "Pemberitahuan tertulis: maksimal 10 hari kerja (+7 dengan alasan).",
+      "character": "owl",
+      "expression": "sad"
+    },
+    "caption": "Disposisi bukan hobi; ada tenggatnya.",
+    "teaches": "Badan Publik wajib menyampaikan pemberitahuan tertulis paling lambat 10 hari kerja sejak permintaan diterima, dapat diperpanjang paling lambat 7 hari kerja dengan alasan tertulis (Pasal 22 ayat (7)-(8)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 22 ayat (7)-(8)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-kip-humor-spidol",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "visual": {
+      "template": "comic",
+      "title": "Spidol hitam premium",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Ini dokumennya, sudah kami beri."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Kok hitam semua? Tinggal kop surat dan tanda tangan."
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Dihitamkan, kan boleh."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Boleh untuk bagian yang dikecualikan, disertai alasan. Bukan seluruhnya."
+        }
+      ]
+    },
+    "caption": "Transparansi versi spidol permanen.",
+    "teaches": "Bagian dokumen yang dikecualikan berdasarkan Pasal 17 dapat dihitamkan dengan disertai alasan dan materinya (Pasal 22 ayat (7) huruf e); informasi lainnya tetap terbuka (Pasal 2 ayat (1)).",
+    "source": {
+      "title": "UU No. 14 Tahun 2008 tentang Keterbukaan Informasi Publik",
+      "reference": "Pasal 22 ayat (7) huruf e",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-14-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

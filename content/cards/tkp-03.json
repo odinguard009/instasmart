@@ -2220,5 +2220,1121 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ti-sandi-ditempel",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "tik",
+    "account": "tkp.bijak",
+    "question": "Rekan menempelkan kata sandi aplikasi kantor di monitor agar tidak lupa. Anda…",
+    "options": [
+      "Ikut menempelkan sandi Anda sendiri supaya lebih praktis saat bekerja",
+      "Membiarkan karena itu urusan pribadi rekan dan bukan tanggung jawab Anda",
+      "Diam-diam mencopot kertasnya lalu membuangnya tanpa bilang apa-apa",
+      "Mengingatkannya dengan sopan dan menyarankan pengelola sandi yang aman",
+      "Memotretnya sebagai bukti untuk dilaporkan ke atasan saat rapat berikutnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Keamanan data kantor tanggung jawab bersama; tegur dengan solusi, bukan mempermalukan.",
+    "scores": [
+      1,
+      1,
+      2,
+      5,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ti-surel-hadiah",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "tik",
+    "account": "tkp.bijak",
+    "question": "Anda menerima surel 'hadiah dari instansi' yang meminta mengisi data akun kantor lewat tautan. Anda…",
+    "options": [
+      "Menghapus surel tanpa memberi tahu siapa pun",
+      "Mengisi datanya karena pengirimnya memakai logo instansi yang tampak resmi",
+      "Membuka tautan dulu untuk melihat isinya, lalu memutuskan mengisi atau tidak",
+      "Tidak mengklik tautan dan melaporkannya ke pengelola TI kantor",
+      "Meneruskan surel ke grup agar semua rekan bisa ikut mendapatkan hadiahnya"
+    ],
+    "answerIndex": 3,
+    "explanation": "Indikasi phishing: jangan klik, laporkan agar rekan lain terlindungi.",
+    "scores": [
+      3,
+      1,
+      2,
+      5,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ti-aplikasi-baru",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "tik",
+    "account": "tkp.bijak",
+    "question": "Kantor menerapkan aplikasi persuratan baru, tetapi Anda belum terbiasa. Anda…",
+    "options": [
+      "Mempelajari panduannya dan bertanya bila ada yang belum dipahami",
+      "Tetap memakai cara manual sampai aplikasi itu terbukti benar-benar bermanfaat",
+      "Meminta rekan yang lebih paham mengerjakan semua surat Anda di aplikasi itu",
+      "Menunggu pelatihan resmi tanpa mencoba aplikasinya terlebih dahulu",
+      "Mengeluh di grup bahwa aplikasi itu hanya menambah pekerjaan pegawai"
+    ],
+    "answerIndex": 0,
+    "explanation": "Adaptif terhadap teknologi: belajar aktif, bukan menghindar.",
+    "scores": [
+      5,
+      2,
+      2,
+      3,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ti-flashdisk",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "tik",
+    "account": "tkp.bijak",
+    "question": "Anda menemukan flashdisk tanpa nama di ruang rapat. Anda…",
+    "options": [
+      "Menyerahkannya ke bagian umum atau TI tanpa membuka isinya",
+      "Membawanya pulang dan memeriksanya di laptop pribadi supaya lebih aman",
+      "Membiarkannya di meja rapat sampai pemiliknya datang mengambilnya sendiri",
+      "Memformatnya lalu memakainya karena tidak ada yang mengaku pemiliknya",
+      "Mencolokkannya ke komputer kantor untuk mencari tahu siapa pemiliknya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Perangkat tak dikenal berisiko malware dan bisa berisi data orang lain.",
+    "scores": [
+      5,
+      2,
+      3,
+      1,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ti-data-warga",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "tik",
+    "account": "tkp.bijak",
+    "question": "Rekan meminta Anda mengirim data pribadi warga lewat aplikasi pesan pribadi agar cepat. Anda…",
+    "options": [
+      "Mengirimnya lalu langsung menghapus pesan itu dari ponsel Anda",
+      "Mengirimnya karena rekan itu juga pegawai dan datanya untuk urusan kantor",
+      "Menolak membantu sama sekali karena data warga tidak boleh disentuh",
+      "Mengirim lewat kanal resmi kantor dan menjelaskan alasannya",
+      "Mengirim foto layar saja supaya tidak terlihat seperti mengirim berkas"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pelindungan data pribadi: gunakan saluran resmi yang terkontrol.",
+    "scores": [
+      2,
+      2,
+      2,
+      5,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ti-medsos-kantor",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "tik",
+    "account": "tkp.bijak",
+    "question": "Anda diminta mengelola akun media sosial kantor yang lama tidak aktif. Anda…",
+    "options": [
+      "Menyusun rencana konten yang akurat bersama atasan",
+      "Membalas komentar kritis warga dengan nada tajam agar kantor tidak diremehkan",
+      "Mengunggah apa saja setiap hari supaya akun terlihat ramai dan aktif lagi",
+      "Memakai akun itu sekalian untuk mempromosikan usaha keluarga Anda",
+      "Mengunggah ulang konten lama karena paling aman dan tidak perlu disusun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kanal digital kantor dipakai untuk informasi layanan yang akurat dan terencana.",
+    "scores": [
+      5,
+      1,
+      2,
+      1,
+      3
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ti-ai-laporan",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "tik",
+    "account": "tkp.bijak",
+    "question": "Anda memakai alat AI untuk membantu menyusun draf laporan. Anda…",
+    "options": [
+      "Menyalin hasilnya apa adanya karena AI lebih cepat dan jarang keliru",
+      "Tidak mau memakainya sama sekali karena teknologi baru belum tentu benar",
+      "Memeriksa kebenaran isinya dan tidak memasukkan data rahasia",
+      "Memakainya hanya untuk merapikan kalimat tanpa membaca ulang hasilnya",
+      "Memasukkan seluruh data rahasia kantor supaya hasil AI lebih lengkap"
+    ],
+    "answerIndex": 2,
+    "explanation": "Teknologi dimanfaatkan dengan verifikasi dan menjaga kerahasiaan.",
+    "scores": [
+      1,
+      2,
+      5,
+      3,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ti-sistem-down",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "tik",
+    "account": "tkp.bijak",
+    "question": "Sistem layanan daring sedang gangguan dan antrean warga menumpuk. Anda…",
+    "options": [
+      "Menjalankan prosedur cadangan, mengabari warga, dan melapor ke TI",
+      "Mencatat nama warga di kertas tanpa memberi kepastian kapan akan diproses",
+      "Menunggu di meja sambil sesekali memuat ulang halaman sampai normal",
+      "Menutup loket sampai sistem pulih dan meminta warga datang lagi besok",
+      "Meminta warga mengeluh langsung ke penyedia sistem karena bukan salah Anda"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tetap melayani dengan rencana cadangan dan komunikasi yang jelas.",
+    "scores": [
+      5,
+      3,
+      2,
+      2,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ar-poster-khilafah",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "anti-radikalisme",
+    "account": "tkp.bijak",
+    "question": "Anda melihat poster kajian yang menyerukan penggantian dasar negara di papan pengumuman kantor. Anda…",
+    "options": [
+      "Mencopotnya diam-diam lalu melupakannya karena tidak mau ikut repot",
+      "Membiarkannya karena setiap orang bebas mengumumkan kegiatan",
+      "Melaporkannya ke atasan atau unit terkait beserta foto sebagai bukti",
+      "Mendatangi kajian itu untuk berdebat langsung dengan pembicaranya",
+      "Mengunggah fotonya ke media sosial disertai komentar pedas tentang kantor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ajakan mengganti dasar negara dilaporkan lewat jalur resmi, bukan diviralkan.",
+    "scores": [
+      3,
+      1,
+      5,
+      2,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ar-anak-game",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "anti-radikalisme",
+    "account": "tkp.bijak",
+    "question": "Adik Anda bergabung dengan komunitas gim daring yang mulai membagikan konten kebencian terhadap kelompok tertentu. Anda…",
+    "options": [
+      "Membiarkan karena itu hanya permainan dan nanti juga bosan sendiri",
+      "Memarahinya di depan keluarga besar agar ia malu dan jera",
+      "Mengajaknya berdiskusi dan menjelaskan bahaya konten itu",
+      "Ikut bergabung diam-diam untuk mengawasi tanpa membicarakannya dengannya",
+      "Menyita ponselnya dan melarang bermain gim selamanya tanpa penjelasan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pencegahan radikalisasi dimulai dari dialog dan pendampingan.",
+    "scores": [
+      1,
+      1,
+      5,
+      3,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ar-ceramah-asn",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "anti-radikalisme",
+    "account": "tkp.bijak",
+    "question": "Seorang penceramah di acara kantor menyatakan bahwa hormat bendera haram. Peserta lain diam. Anda…",
+    "options": [
+      "Menyampaikan keberatan ke panitia dan atasan setelah acara secara tertulis",
+      "Menyela ceramah dengan keras di depan semua peserta",
+      "Merekam ceramahnya lalu menyebarkannya ke grup alumni dengan caption sindiran",
+      "Meninggalkan ruangan tanpa menyampaikan apa pun kepada siapa pun",
+      "Diam saja karena tidak enak dengan penceramah dan panitia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sampaikan keberatan melalui jalur yang tepat; ASN wajib setia pada Pancasila dan NKRI.",
+    "scores": [
+      5,
+      2,
+      2,
+      3,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ar-donasi-anonim",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "anti-radikalisme",
+    "account": "tkp.bijak",
+    "question": "Ada permintaan donasi 'untuk saudara di daerah konflik' tanpa kejelasan lembaga penyalurnya. Anda…",
+    "options": [
+      "Mengecek legalitas lembaga, lalu memilih yang resmi",
+      "Meneruskannya ke semua grup agar terkumpul dana lebih banyak",
+      "Menyumbang sedikit saja supaya tidak rugi bila ternyata penipuan",
+      "Langsung menyumbang karena tujuan kemanusiaan selalu baik",
+      "Mengabaikannya tanpa mengecek apa pun dan tanpa memberi tahu rekan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dana tanpa kejelasan bisa disalahgunakan, termasuk untuk pendanaan terorisme.",
+    "scores": [
+      5,
+      1,
+      2,
+      2,
+      3
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ar-teman-berubah",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "anti-radikalisme",
+    "account": "tkp.bijak",
+    "question": "Sahabat Anda mulai menjauhi keluarga dan menyebut semua yang berbeda pandangan sebagai musuh. Anda…",
+    "options": [
+      "Menjauhinya juga karena ia sudah sulit diajak bicara",
+      "Menyebarkan cerita tentang perubahannya ke teman-teman lain",
+      "Tetap berkomunikasi dan bila perlu melibatkan keluarga",
+      "Berdebat keras setiap kali bertemu sampai ia mengaku salah",
+      "Menunggu saja karena perubahan sikap orang dewasa bukan urusan orang lain"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pendekatan dialogis dan dukungan sosial membantu mencegah radikalisasi.",
+    "scores": [
+      2,
+      1,
+      5,
+      2,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ar-akun-provokator",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "anti-radikalisme",
+    "account": "tkp.bijak",
+    "question": "Akun anonim terus mengomentari unggahan kantor dengan ajakan kekerasan terhadap aparat. Anda sebagai admin…",
+    "options": [
+      "Membiarkan komentarnya tampil karena itu bagian dari kebebasan berpendapat",
+      "Membalas dengan ancaman agar akun itu takut",
+      "Menghapus komentar tanpa menyimpan bukti atau melapor ke siapa pun",
+      "Menyimpan bukti dan melaporkannya sesuai prosedur",
+      "Menghapus akun kantor supaya tidak ada lagi komentar seperti itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ajakan kekerasan tidak dilindungi kebebasan berpendapat; tangani sesuai prosedur.",
+    "scores": [
+      1,
+      1,
+      3,
+      5,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-ar-humor-kebencian",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "anti-radikalisme",
+    "account": "tkp.bijak",
+    "question": "Rekan membagikan meme 'lucu' yang merendahkan pemeluk agama lain. Rekan lain tertawa. Anda…",
+    "options": [
+      "Membalas dengan meme yang merendahkan agama rekan tersebut",
+      "Keluar dari grup tanpa penjelasan apa pun",
+      "Mengumumkan di grup bahwa rekan itu intoleran dan meminta semua menjauhinya",
+      "Ikut tertawa agar suasana tetap cair",
+      "Menegur secara pribadi bahwa candaan itu menyinggung dan bisa memecah belah"
+    ],
+    "answerIndex": 4,
+    "explanation": "Toleransi dijaga dengan teguran yang santun, bukan balas-membalas.",
+    "scores": [
+      1,
+      2,
+      2,
+      1,
+      5
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pr-salah-input",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "profesionalisme",
+    "account": "tkp.bijak",
+    "question": "Anda menyadari salah memasukkan angka di laporan yang sudah dikirim ke atasan. Anda…",
+    "options": [
+      "Segera melapor dan mengirim perbaikannya",
+      "Menunggu atasan bertanya dulu lalu baru menjelaskan kesalahannya",
+      "Menyalahkan aplikasi karena tampilannya membingungkan",
+      "Diam saja karena belum tentu atasan menyadarinya",
+      "Memperbaiki diam-diam di berkas Anda tanpa memberi tahu siapa pun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Integritas: akui dan perbaiki kesalahan secepatnya.",
+    "scores": [
+      5,
+      2,
+      1,
+      1,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pr-tugas-bentrok",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "profesionalisme",
+    "account": "tkp.bijak",
+    "question": "Dua atasan memberi tugas mendesak dengan tenggat yang sama. Anda…",
+    "options": [
+      "Lembur sendirian tanpa memberi tahu siapa pun bahwa tenggatnya bentrok",
+      "Mengerjakan tugas dari atasan yang lebih galak terlebih dahulu",
+      "Memilih tugas yang lebih mudah dan menunda yang lain tanpa kabar",
+      "Mengerjakan keduanya setengah-setengah supaya adil",
+      "Memberi tahu keduanya dan meminta penetapan prioritas"
+    ],
+    "answerIndex": 4,
+    "explanation": "Komunikasikan konflik prioritas agar keputusan diambil oleh yang berwenang.",
+    "scores": [
+      3,
+      1,
+      1,
+      2,
+      5
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pr-hadiah-vendor",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "profesionalisme",
+    "account": "tkp.bijak",
+    "question": "Penyedia barang yang sedang ikut pengadaan mengirim parsel ke rumah Anda. Anda…",
+    "options": [
+      "Menerima, tetapi berjanji dalam hati tidak akan terpengaruh saat menilai",
+      "Menerimanya karena hanya parsel dan nilainya kecil",
+      "Menerima lalu membagikannya ke tetangga agar tidak dinikmati sendiri",
+      "Menyimpannya dulu dan memutuskan nanti setelah pengadaan selesai",
+      "Menolak atau mengembalikan, lalu melaporkannya sesuai aturan gratifikasi"
+    ],
+    "answerIndex": 4,
+    "explanation": "Pemberian terkait jabatan berpotensi gratifikasi; tolak dan laporkan.",
+    "scores": [
+      1,
+      1,
+      2,
+      2,
+      5
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pr-rapat-terlambat",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "profesionalisme",
+    "account": "tkp.bijak",
+    "question": "Anda terjebak macet dan akan terlambat ke rapat yang Anda pimpin. Anda…",
+    "options": [
+      "Mengabari peserta bahwa Anda terlambat tanpa mengatur siapa yang memulai rapat",
+      "Mengabari peserta dan meminta rekan membuka rapat",
+      "Meminta peserta menunggu sampai Anda tiba, berapa pun lamanya",
+      "Datang terlambat tanpa kabar karena macet di luar kendali",
+      "Membatalkan rapat mendadak tanpa menjadwalkan ulang"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tanggung jawab dan antisipasi agar pekerjaan tim tetap berjalan.",
+    "scores": [
+      3,
+      5,
+      2,
+      1,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pr-ide-ditolak",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "profesionalisme",
+    "account": "tkp.bijak",
+    "question": "Usulan Anda ditolak dalam rapat dengan alasan anggaran. Anda…",
+    "options": [
+      "Tetap menjalankan usulan diam-diam dengan dana unit lain",
+      "Kecewa dan tidak mau lagi mengajukan usulan",
+      "Mengeluhkan keputusan itu kepada rekan di luar rapat",
+      "Menerima keputusan dan tidak memikirkan usulan itu lagi",
+      "Menerima keputusan dan menyiapkan alternatif hemat"
+    ],
+    "answerIndex": 4,
+    "explanation": "Profesional menerima keputusan dan tetap berorientasi solusi.",
+    "scores": [
+      1,
+      1,
+      1,
+      3,
+      5
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pr-kerja-rumah",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "profesionalisme",
+    "account": "tkp.bijak",
+    "question": "Saat kerja dari rumah, Anda merasa tidak diawasi. Anda…",
+    "options": [
+      "Menyalakan status daring terus agar terlihat aktif",
+      "Meminta rekan yang di kantor menutupi bila atasan mencari",
+      "Bekerja sesuai jam dan target, serta melaporkan hasilnya secara berkala",
+      "Bekerja seperlunya saja asal tugas wajib selesai hari itu",
+      "Mengerjakan urusan pribadi dan menyelesaikan tugas kantor menjelang tenggat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Integritas berarti bekerja baik dengan atau tanpa pengawasan.",
+    "scores": [
+      1,
+      1,
+      5,
+      3,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pr-rekan-curang",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "profesionalisme",
+    "account": "tkp.bijak",
+    "question": "Anda mengetahui rekan memalsukan daftar hadir. Anda…",
+    "options": [
+      "Langsung menyebarkan buktinya ke grup kantor",
+      "Melaporkannya secara anonim tanpa pernah mengingatkannya terlebih dahulu",
+      "Membiarkan karena tidak mau merusak hubungan pertemanan",
+      "Mengingatkannya, dan bila berlanjut melaporkan sesuai prosedur",
+      "Ikut memalsukan daftar hadir karena merasa diperlakukan tidak adil"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tegakkan integritas secara bertahap dan melalui jalur resmi.",
+    "scores": [
+      2,
+      3,
+      1,
+      5,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-pr-pelatihan",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "profesionalisme",
+    "account": "tkp.bijak",
+    "question": "Anda ditawari pelatihan yang tidak wajib, tetapi relevan dengan tugas. Anda…",
+    "options": [
+      "Mengikutinya walau pekerjaan mendesak belum diserahkan ke siapa pun",
+      "Mendaftar lalu tidak hadir karena tidak ada sanksinya",
+      "Mengikutinya hanya bila ada uang saku yang memadai",
+      "Menolak karena pekerjaan sekarang sudah bisa diselesaikan",
+      "Mengikutinya setelah mengatur pekerjaan agar tidak terbengkalai"
+    ],
+    "answerIndex": 4,
+    "explanation": "Pengembangan diri tanpa mengorbankan tanggung jawab.",
+    "scores": [
+      3,
+      1,
+      1,
+      2,
+      5
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-sb-gotong-royong",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "sosial-budaya",
+    "account": "tkp.bijak",
+    "question": "Warga sekitar kantor mengadakan kerja bakti hari Minggu dan mengundang pegawai. Anda…",
+    "options": [
+      "Hanya datang untuk berfoto lalu pulang",
+      "Menolak karena hari Minggu adalah waktu pribadi",
+      "Ikut serta sesuai kemampuan sebagai bagian dari masyarakat",
+      "Meminta kantor mewajibkan semua pegawai ikut dengan ancaman sanksi",
+      "Mengirim uang tanpa pernah berbaur dengan warga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Partisipasi sosial membangun hubungan baik dengan masyarakat.",
+    "scores": [
+      1,
+      2,
+      5,
+      1,
+      3
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-sb-difabel",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "sosial-budaya",
+    "account": "tkp.bijak",
+    "question": "Warga tunarungu datang ke loket dan kesulitan berkomunikasi. Anda…",
+    "options": [
+      "Memintanya kembali dengan pendamping agar tidak merepotkan",
+      "Berbicara lebih keras supaya ia bisa mendengar",
+      "Melayaninya belakangan setelah antrean lain selesai supaya lebih santai",
+      "Meminta warga lain di antrean menerjemahkan untuknya",
+      "Berkomunikasi dengan tulisan atau isyarat sederhana dan bersabar"
+    ],
+    "answerIndex": 4,
+    "explanation": "Layanan inklusif menyesuaikan cara komunikasi dengan kebutuhan warga.",
+    "scores": [
+      1,
+      1,
+      2,
+      2,
+      5
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-sb-beda-pendapat",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "sosial-budaya",
+    "account": "tkp.bijak",
+    "question": "Dalam diskusi tim, rekan dari daerah lain sering berbicara lebih lugas sehingga dianggap kasar. Anda…",
+    "options": [
+      "Memahami beda gaya bicara dan menjembatani salah paham",
+      "Ikut menganggapnya kasar dan menghindari bekerja dengannya",
+      "Diam saja dan membiarkan salah paham berlanjut",
+      "Menegurnya di depan tim agar ia mengubah cara bicara",
+      "Melaporkannya ke atasan sebagai pegawai yang tidak sopan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Perbedaan budaya dijembatani dengan pemahaman, bukan prasangka.",
+    "scores": [
+      5,
+      1,
+      2,
+      2,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-sb-hari-raya-libur",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "sosial-budaya",
+    "account": "tkp.bijak",
+    "question": "Rekan yang merayakan hari raya meminta tukar jadwal piket dengan Anda. Anda…",
+    "options": [
+      "Menolak karena jadwal sudah ditetapkan",
+      "Bersedia menukar bila memungkinkan dan melapor ke atasan",
+      "Menyuruhnya meminta ke rekan lain saja karena Anda sedang malas",
+      "Menyetujui, tetapi mengeluhkannya ke rekan lain",
+      "Menyetujui asal ia membayar Anda"
+    ],
+    "answerIndex": 1,
+    "explanation": "Saling menghormati dan membantu tanpa melanggar tata tertib.",
+    "scores": [
+      2,
+      5,
+      1,
+      2,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-sb-warga-lansia",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "sosial-budaya",
+    "account": "tkp.bijak",
+    "question": "Warga lansia bertanya hal yang sama berulang kali di loket. Anda…",
+    "options": [
+      "Menyuruh keluarganya saja yang datang lain kali",
+      "Menjawab singkat dan memintanya membaca papan informasi",
+      "Menjelaskan dengan sabar, perlahan, dan memastikan ia memahami",
+      "Menulis jawabannya di kertas lalu melanjutkan ke antrean berikutnya",
+      "Menunjukkan wajah kesal agar ia sadar telah mengulang pertanyaan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kesabaran dan empati kepada kelompok rentan.",
+    "scores": [
+      1,
+      2,
+      5,
+      3,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-sb-humor-daerah",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "sosial-budaya",
+    "account": "tkp.bijak",
+    "question": "Rekan baru dari daerah lain menjadi bahan candaan karena logatnya. Anda…",
+    "options": [
+      "Ikut tertawa agar tidak dianggap kaku",
+      "Menyarankan rekan baru itu belajar logat setempat",
+      "Membela dengan marah sampai suasana tegang",
+      "Mengingatkan rekan-rekan secara santun",
+      "Diam saja karena ia nanti juga terbiasa"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hormati keragaman tanpa menciptakan konflik baru.",
+    "scores": [
+      1,
+      2,
+      2,
+      5,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-sb-kearifan-lokal",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "sosial-budaya",
+    "account": "tkp.bijak",
+    "question": "Program kantor di desa berbenturan dengan jadwal ritual adat warga. Anda…",
+    "options": [
+      "Meminta warga menunda ritualnya demi program pemerintah",
+      "Menjalankan program sambil meminta maaf karena jadwalnya bentrok",
+      "Berkoordinasi dengan tokoh adat untuk mencari waktu yang tepat",
+      "Tetap menjalankan program sesuai jadwal karena sudah disetujui",
+      "Membatalkan program sepenuhnya tanpa mencari waktu pengganti"
+    ],
+    "answerIndex": 2,
+    "explanation": "Program publik berhasil bila menghormati kearifan lokal.",
+    "scores": [
+      1,
+      3,
+      5,
+      2,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-jk-unit-lain",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "jejaring-kerja",
+    "account": "tkp.bijak",
+    "question": "Pekerjaan Anda butuh data dari unit lain yang lambat merespons. Anda…",
+    "options": [
+      "Menunggu saja dan menyalahkan unit lain jika laporan terlambat",
+      "Mengirim surat resmi lalu menunggu tanpa menindaklanjuti",
+      "Mengeluhkannya ke atasan bahwa unit lain tidak kooperatif",
+      "Menghubungi langsung dan menjelaskan kebutuhan dan tenggat",
+      "Mengarang data sendiri supaya laporan selesai tepat waktu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Koordinasi aktif dan sopan memperlancar kerja lintas unit.",
+    "scores": [
+      1,
+      3,
+      2,
+      5,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-jk-anggota-pasif",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "jejaring-kerja",
+    "account": "tkp.bijak",
+    "question": "Dalam tim, satu anggota jarang berkontribusi. Anda sebagai ketua…",
+    "options": [
+      "Mengajaknya bicara untuk mencari kendalanya",
+      "Mengeluarkannya dari tim tanpa penjelasan",
+      "Menyindirnya di grup tim agar ia malu",
+      "Mengerjakan bagiannya sendiri supaya tim tidak terlambat",
+      "Melaporkannya langsung ke atasan tanpa membicarakannya dulu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kepemimpinan tim: cari akar masalah sebelum menghakimi.",
+    "scores": [
+      5,
+      1,
+      1,
+      2,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-jk-mitra-luar",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "jejaring-kerja",
+    "account": "tkp.bijak",
+    "question": "Mitra dari instansi lain mengusulkan kerja sama yang bermanfaat, tetapi di luar kewenangan Anda. Anda…",
+    "options": [
+      "Meneruskannya ke pejabat berwenang tanpa catatan apa pun",
+      "Menyambut baik dan meneruskannya ke pejabat berwenang",
+      "Menyimpannya dulu sampai ada waktu luang",
+      "Menyetujui langsung agar kesempatan tidak hilang",
+      "Menolak karena bukan kewenangan Anda"
+    ],
+    "answerIndex": 1,
+    "explanation": "Membangun jejaring dalam batas kewenangan.",
+    "scores": [
+      3,
+      5,
+      2,
+      1,
+      2
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-jk-rekan-baru",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "jejaring-kerja",
+    "account": "tkp.bijak",
+    "question": "Pegawai baru bergabung di unit Anda dan tampak canggung. Anda…",
+    "options": [
+      "Memberinya pekerjaan yang tidak disukai rekan lain",
+      "Menunggu ia yang menyapa lebih dulu",
+      "Menceritakan sisi buruk rekan-rekan kantor kepadanya",
+      "Membiarkannya beradaptasi sendiri",
+      "Menyapa dan mengenalkannya ke rekan lain"
+    ],
+    "answerIndex": 4,
+    "explanation": "Jejaring kerja yang baik dimulai dari keterbukaan.",
+    "scores": [
+      1,
+      2,
+      1,
+      2,
+      5
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-jk-konflik-tim",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "jejaring-kerja",
+    "account": "tkp.bijak",
+    "question": "Dua anggota tim berselisih sehingga pekerjaan tersendat. Anda…",
+    "options": [
+      "Melaporkan keduanya ke atasan agar diberi sanksi",
+      "Membiarkan karena urusan pribadi mereka",
+      "Mempertemukan keduanya untuk menyelesaikan masalah",
+      "Memisahkan tugas keduanya tanpa membicarakan masalahnya",
+      "Memihak yang lebih dekat dengan Anda"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mediasi konflik demi tujuan bersama.",
+    "scores": [
+      2,
+      2,
+      5,
+      3,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "tkp-jk-berbagi-ilmu",
+    "type": "quiz",
+    "topicId": "tkp",
+    "subTopicId": "jejaring-kerja",
+    "account": "tkp.bijak",
+    "question": "Anda baru mengikuti pelatihan yang bermanfaat bagi unit. Anda…",
+    "options": [
+      "Menyimpan ilmunya agar Anda lebih unggul dari rekan",
+      "Membagikan materi dan pengalaman kepada rekan unit",
+      "Membagikan ke rekan yang dekat saja",
+      "Membagikan hanya bila ada yang bertanya",
+      "Menjual materi pelatihannya ke rekan lain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Berbagi pengetahuan menguatkan kinerja tim.",
+    "scores": [
+      1,
+      5,
+      2,
+      3,
+      1
+    ],
+    "source": {
+      "title": "Latihan TKP buatan sendiri; skor mengikuti logika umum aspek TKP, bukan kunci resmi",
+      "reference": "Aspek TKP"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

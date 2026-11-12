@@ -1046,5 +1046,576 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-tahapan",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 1 angka 1 UU 12/2011, manakah yang BUKAN tahapan pembentukan peraturan perundang-undangan?",
+    "options": [
+      "Pengundangan",
+      "Pembahasan",
+      "Pengujian",
+      "Perencanaan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tahapannya: perencanaan, penyusunan, pembahasan, pengesahan atau penetapan, dan pengundangan. Pengujian (oleh MK atau MA) terjadi setelah peraturan ada.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 1 angka 1",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-definisi-perpres",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 1 angka 6 UU 12/2011, Peraturan Presiden ditetapkan untuk…",
+    "options": [
+      "Hanya menjalankan undang-undang sebagaimana mestinya",
+      "Perintah aturan lebih tinggi atau urusan pemerintahan",
+      "Menggantikan undang-undang dalam keadaan yang genting",
+      "Menampung kondisi khusus daerah otonom tertentu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bandingkan angka 5: PP ditetapkan untuk menjalankan UU sebagaimana mestinya. Angka 4: Perppu ditetapkan dalam hal ihwal kegentingan yang memaksa.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 1 angka 4-6",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-definisi-perda",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 1 angka 8 UU 12/2011, Perda Kabupaten/Kota dibentuk oleh…",
+    "options": [
+      "DPRD Kab/Kota bersama Bupati/Walikota",
+      "Bupati/Walikota sendiri setelah konsultasi",
+      "Gubernur atas usul DPRD Kab/Kota",
+      "DPRD Kab/Kota sendiri tanpa kepala daerah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pola yang sama dengan UU (angka 3: dibentuk DPR dengan persetujuan bersama Presiden) dan Perda Provinsi (angka 7: DPRD Provinsi dengan persetujuan bersama Gubernur).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 1 angka 3, 7, 8",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-asas-kelembagaan",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Menurut Penjelasan Pasal 5 huruf b UU 12/2011, peraturan yang dibuat lembaga atau pejabat yang tidak berwenang…",
+    "options": [
+      "Dapat dibatalkan atau batal demi hukum",
+      "Hanya berlaku bagi pejabat itu sendiri",
+      "Tetap sah sampai ada peraturan baru",
+      "Otomatis naik menjadi undang-undang"
+    ],
+    "answerIndex": 0,
+    "explanation": "Itulah asas kelembagaan atau pejabat pembentuk yang tepat: setiap jenis peraturan harus dibuat oleh lembaga atau pejabat yang berwenang.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 5 huruf b dan Penjelasannya",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-asas-dapat-dilaksanakan",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Menurut Penjelasan Pasal 5 huruf d UU 12/2011, asas dapat dilaksanakan menuntut pembentuk memperhitungkan efektivitas peraturan secara…",
+    "options": [
+      "Formal, material, dan prosedural",
+      "Ekonomis, politis, dan administratif",
+      "Filosofis, sosiologis, dan yuridis",
+      "Nasional, regional, dan internasional"
+    ],
+    "answerIndex": 2,
+    "explanation": "Efektivitas itu diukur di dalam masyarakat. Bandingkan huruf e (kedayagunaan dan kehasilgunaan): dibuat karena benar-benar dibutuhkan dan bermanfaat.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 5 huruf d dan Penjelasannya",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-asas-kejelasan-rumusan",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Asas yang menuntut sistematika, pilihan kata, dan bahasa hukum yang jelas sehingga tidak menimbulkan berbagai interpretasi adalah asas…",
+    "options": [
+      "Kejelasan rumusan",
+      "Kejelasan tujuan",
+      "Keterbukaan",
+      "Dapat dilaksanakan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Penjelasan Pasal 5 huruf f. Huruf a (kejelasan tujuan) berbeda: setiap pembentukan harus punya tujuan jelas yang hendak dicapai.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 5 huruf a, f dan Penjelasannya",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-asas-keterbukaan",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Menurut Penjelasan Pasal 5 huruf g (rumusan UU 13/2022), asas keterbukaan memberi akses kepada publik yang…",
+    "options": [
+      "Berkepentingan dan terdampak langsung",
+      "Bertempat tinggal di ibu kota negara",
+      "Memiliki gelar sarjana hukum",
+      "Sudah terdaftar sebagai anggota partai"
+    ],
+    "answerIndex": 0,
+    "explanation": "Akses untuk mendapat informasi dan/atau memberi masukan di setiap tahapan, termasuk pemantauan dan peninjauan, secara lisan/tertulis dan daring/luring.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Penjelasan Pasal 5 huruf g",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-asas-lain",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "hierarki-asas",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 6 ayat (2) UU 12/2011, selain asas materi muatan dalam ayat (1), peraturan tertentu…",
+    "options": [
+      "Hanya boleh memuat asas dari doktrin",
+      "Dilarang memuat asas lain apa pun",
+      "Wajib memuat asas hukum internasional",
+      "Boleh memuat asas lain sesuai bidang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (1) menyebut antara lain pengayoman, kemanusiaan, kebangsaan, kekeluargaan, kenusantaraan, bhinneka tunggal ika, keadilan, dan ketertiban serta kepastian hukum.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 6",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-dasar-prolegnas",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 18 UU 12/2011, manakah yang BUKAN dasar penyusunan daftar RUU dalam Prolegnas?",
+    "options": [
+      "Permintaan investor asing",
+      "Aspirasi dan kebutuhan hukum masyarakat",
+      "Perintah UUD 1945",
+      "Rencana kerja pemerintah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dasar lainnya: perintah Tap MPR, perintah UU lain, sistem perencanaan pembangunan nasional, RPJP, RPJM, dan rencana strategis DPR.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 18",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-naskah-akademik",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 19 ayat (3) UU 12/2011, materi yang diatur dalam RUU yang telah melalui pengkajian dan penyelarasan dituangkan dalam…",
+    "options": [
+      "Lembaran Negara",
+      "Berita Negara",
+      "Daftar Inventarisasi Masalah",
+      "Naskah Akademik"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (2): konsepsi RUU meliputi latar belakang dan tujuan, sasaran, serta jangkauan dan arah pengaturan.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 19",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-jangka-menengah",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 20 ayat (3) UU 12/2011, Prolegnas jangka menengah disusun dan ditetapkan…",
+    "options": [
+      "Di akhir masa jabatan Presiden yang lama",
+      "Setiap 10 tahun oleh MPR",
+      "Awal masa keanggotaan DPR, untuk 5 tahun",
+      "Setiap tahun, bersamaan dengan RUU APBN"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ayat (6): Prolegnas prioritas tahunan disusun setiap tahun sebelum penetapan RUU APBN. Ayat (1): penyusunannya oleh DPR, DPD, dan Pemerintah.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 20 ayat (1), (3), (6)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-kumulatif-terbuka",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 23 ayat (1) UU 12/2011, manakah yang termasuk daftar kumulatif terbuka dalam Prolegnas?",
+    "options": [
+      "RUU akibat putusan MK",
+      "RUU tentang lembaga baru apa pun",
+      "RUU usulan organisasi kemasyarakatan",
+      "RUU yang ditolak pada tahun lalu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lainnya: pengesahan perjanjian internasional tertentu, APBN, pembentukan/pemekaran/penggabungan daerah, dan penetapan/pencabutan Perppu.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 23 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-luar-prolegnas",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 23 ayat (2) UU 12/2011, DPR atau Presiden dapat mengajukan RUU di luar Prolegnas untuk…",
+    "options": [
+      "Memenuhi janji kampanye yang belum terwujud",
+      "Mengganti UU yang baru berlaku sebulan",
+      "Keadaan luar biasa, konflik, bencana alam",
+      "Menghabiskan sisa anggaran akhir tahun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Juga keadaan tertentu lain yang memastikan urgensi nasional, yang disetujui bersama alat kelengkapan DPR bidang legislasi dan menteri bidang pembentukan peraturan.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 23 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-omnibus",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 64 ayat (1b) UU 12/2011 (rumusan UU 13/2022), metode omnibus mengubah atau mencabut peraturan yang…",
+    "options": [
+      "Berlaku di daerah tertentu saja",
+      "Sudah dibatalkan MK",
+      "Jenis dan hierarkinya sama",
+      "Jenis dan hierarkinya berbeda"
+    ],
+    "answerIndex": 2,
+    "explanation": "Metode omnibus: memuat materi baru, mengubah materi yang berkaitan, dan/atau mencabut peraturan yang jenis dan hierarkinya sama, dengan menggabungkannya ke dalam satu peraturan.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 64 ayat (1a)-(1b)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-dua-tingkat",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 66-67 UU 12/2011, pembicaraan tingkat II dalam pembahasan RUU dilakukan dalam…",
+    "options": [
+      "Rapat paripurna",
+      "Rapat Badan Legislasi",
+      "Rapat Panitia Khusus",
+      "Rapat komisi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pembicaraan tingkat I dapat di rapat komisi, gabungan komisi, Badan Legislasi, Badan Anggaran, atau Panitia Khusus.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 66-67",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-tujuh-hari",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 72 ayat (2) UU 12/2011, RUU yang disetujui bersama disampaikan pimpinan DPR kepada Presiden paling lama…",
+    "options": [
+      "14 hari sejak rapat paripurna",
+      "60 hari sejak diundangkan",
+      "30 hari sejak persetujuan bersama",
+      "7 hari sejak persetujuan bersama"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (1a) versi perubahan: kesalahan teknis penulisan diperbaiki oleh pimpinan alat kelengkapan DPR yang membahas dan Pemerintah, dalam jangka waktu yang sama.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 72 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-kalimat-pengesahan",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 73 ayat (4) UU 12/2011, UU yang sah karena tidak ditandatangani Presiden dalam 30 hari memuat kalimat pengesahan yang merujuk…",
+    "options": [
+      "Pasal 22 ayat (1) UUD",
+      "Pasal 20 ayat (5) UUD",
+      "Pasal 5 ayat (1) UUD",
+      "Pasal 24C ayat (1) UUD"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bunyinya: \"Undang-Undang ini dinyatakan sah berdasarkan ketentuan Pasal 20 ayat (5) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945\", dibubuhkan di halaman terakhir sebelum pengundangan (ayat (5)).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 73 ayat (2)-(5)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-lembaran-daerah",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 86 UU 12/2011, Peraturan Gubernur dan Peraturan Bupati/Walikota diundangkan dalam…",
+    "options": [
+      "Lembaran Daerah",
+      "Berita Daerah",
+      "Tambahan Lembaran Negara",
+      "Lembaran Negara"
+    ],
+    "answerIndex": 1,
+    "explanation": "Perda Provinsi dan Perda Kabupaten/Kota diundangkan dalam Lembaran Daerah. Pengundangannya dilaksanakan oleh Sekretaris Daerah.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 86",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-masukan",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 96 ayat (1)-(2) UU 12/2011 (rumusan UU 13/2022), masukan masyarakat dapat diberikan…",
+    "options": [
+      "Tertulis saja, hanya pada tahap pembahasan",
+      "Hanya lewat organisasi berbadan hukum",
+      "Lisan saja, lewat anggota DPR dapilnya",
+      "Lisan/tertulis, daring/luring, tiap tahap"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ayat (4): Naskah Akademik dan/atau rancangan dapat diakses dengan mudah oleh masyarakat.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 96 ayat (1)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-kelompok-orang",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Penjelasan Pasal 96 ayat (3), \"kelompok orang\" yang dapat memberi masukan antara lain…",
+    "options": [
+      "Hanya perguruan tinggi negeri",
+      "Hanya asosiasi pengusaha nasional",
+      "Hanya partai politik peserta pemilu saja",
+      "Masyarakat hukum adat dan difabel"
+    ],
+    "answerIndex": 3,
+    "explanation": "Juga kelompok/organisasi masyarakat, organisasi profesi, dan LSM yang terdaftar di kementerian yang berwenang. Ayat (3): orang atau kelompok yang terdampak langsung dan/atau berkepentingan.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 96 ayat (3) dan Penjelasannya",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-konsultasi-publik",
+    "type": "quiz",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "hierarki.uu",
+    "question": "Menurut Pasal 96 ayat (6)-(7) UU 12/2011, hasil konsultasi publik…",
+    "options": [
+      "Menjadi bahan pertimbangan pembentuk",
+      "Harus disahkan dulu oleh Mahkamah Konstitusi",
+      "Diabaikan bila rapat sudah dijadwalkan",
+      "Mengikat pembentuk untuk diikuti semuanya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bentuk konsultasi: rapat dengar pendapat umum, kunjungan kerja, seminar/lokakarya/diskusi, dan kegiatan lain. Ayat (8): pembentuk dapat menjelaskan hasil pembahasan masukan itu.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 96 ayat (6)-(8)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-humor-omnibus-gerbong",
+    "type": "humor",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Satu UU mengubah puluhan UU sekaligus",
+      "bottom": "Metode omnibus: boleh, asal penumpangnya satu kelas",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Kereta omnibus punya aturan naik: jenis dan hierarkinya harus sama. Perda tidak bisa ikut gerbong UU.",
+    "teaches": "Pasal 64 ayat (1a)-(1b) UU 12/2011 (rumusan UU 13/2022): metode omnibus menggabungkan perubahan atau pencabutan peraturan yang jenis dan hierarkinya sama ke dalam satu peraturan.",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 64 ayat (1a)-(1b)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perundang-undangan-pb-humor-masukan-publik",
+    "type": "humor",
+    "topicId": "perundang-undangan",
+    "subTopicId": "pembentukan-pengujian",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Partisipasi, katanya",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Warga: saya mau kasih masukan untuk rancangan itu."
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Panitia: silakan! Lisan, tertulis, daring, luring."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Warga: naskahnya bisa dibaca di mana?"
+        },
+        {
+          "character": "owl",
+          "expression": "shock",
+          "text": "Panitia: ...ayat (4): mestinya mudah diakses. Sebentar."
+        }
+      ]
+    },
+    "caption": "Hak memberi masukan tanpa naskah ibarat diundang makan tanpa diberi piring.",
+    "teaches": "Pasal 96 UU 12/2011 (rumusan UU 13/2022): masyarakat berhak memberi masukan di setiap tahapan, dan Naskah Akademik dan/atau rancangannya dapat diakses dengan mudah oleh masyarakat (ayat (4)).",
+    "source": {
+      "title": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sebagaimana diubah dengan UU No. 15 Tahun 2019 dan UU No. 13 Tahun 2022",
+      "reference": "Pasal 96 ayat (1), (4)",
+      "url": "https://www.datahukum.com/peraturan/UU_12_Tahun_2011.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

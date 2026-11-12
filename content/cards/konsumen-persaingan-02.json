@@ -201,5 +201,720 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-asas",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Menurut Pasal 2 UU 5/1999, pelaku usaha menjalankan kegiatan usahanya berasaskan…",
+    "options": [
+      "Efisiensi pasar semata",
+      "Kebebasan berkontrak mutlak",
+      "Demokrasi ekonomi",
+      "Kekeluargaan dan gotong royong"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 2: berasaskan demokrasi ekonomi dengan memperhatikan keseimbangan antara kepentingan pelaku usaha dan kepentingan umum.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 2",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-tujuan",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Mana yang BUKAN tujuan UU 5/1999 menurut Pasal 3?",
+    "options": [
+      "Menjaga kepentingan umum dan efisiensi ekonomi",
+      "Mencegah praktek monopoli dan persaingan tidak sehat",
+      "Melindungi pelaku usaha besar dari pesaing baru",
+      "Menjamin kesempatan berusaha yang sama"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 3 menyebut empat tujuan: kepentingan umum dan efisiensi ekonomi nasional; iklim usaha kondusif dengan kesempatan sama bagi pelaku usaha besar, menengah, dan kecil; mencegah monopoli dan persaingan tidak sehat; efektivitas dan efisiensi kegiatan usaha.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 3",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-perjanjian-lisan",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Menurut Pasal 1 angka 7, \"perjanjian\" dalam UU 5/1999 mencakup…",
+    "options": [
+      "Hanya perjanjian yang didaftarkan ke KPPU",
+      "Yang tertulis maupun tidak tertulis",
+      "Hanya akta notaris antarpelaku usaha",
+      "Hanya perjanjian tertulis bermeterai"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1 angka 7: perbuatan satu atau lebih pelaku usaha untuk mengikatkan diri terhadap pelaku usaha lain dengan nama apa pun, baik tertulis maupun tidak tertulis. Kesepakatan lisan pun bisa menjadi perjanjian yang dilarang.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 1 angka 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-pasar-bersangkutan",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pasar bersangkutan (Pasal 1 angka 10) berkaitan dengan jangkauan pemasaran atas barang/jasa yang sama atau sejenis, atau…",
+    "options": [
+      "Barang yang diproduksi di luar negeri",
+      "Barang yang harganya ditetapkan pemerintah",
+      "Barang milik pelaku usaha yang sama",
+      "Substitusi dari barang/jasa itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 10: pasar bersangkutan mencakup barang dan/atau jasa yang sama atau sejenis atau substitusinya, dalam jangkauan atau daerah pemasaran tertentu.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 1 angka 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-oligopoli",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pasal 4 ayat (2): pelaku usaha patut diduga bersama-sama menguasai produksi/pemasaran bila 2 atau 3 pelaku usaha menguasai pangsa pasar…",
+    "options": [
+      "Lebih dari 90%",
+      "Lebih dari 50%",
+      "Lebih dari 60%",
+      "Lebih dari 75%"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 4 ayat (2): 2 atau 3 pelaku usaha atau kelompok pelaku usaha menguasai lebih dari 75% pangsa pasar satu jenis barang atau jasa tertentu.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 4 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-harga-patungan",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Larangan perjanjian penetapan harga dengan pesaing (Pasal 5 ayat (1)) tidak berlaku bagi perjanjian…",
+    "options": [
+      "Antara pelaku usaha yang berada dalam satu kota yang sama",
+      "Yang dibuat lisan oleh direksi tanpa notaris maupun saksi",
+      "Yang berlaku kurang dari satu tahun",
+      "Dalam usaha patungan atau yang didasarkan undang-undang"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5 ayat (2): pengecualian untuk perjanjian dalam suatu usaha patungan, atau perjanjian yang didasarkan undang-undang yang berlaku.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-diskriminasi-harga",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Perjanjian yang membuat pembeli yang satu harus membayar harga berbeda dari pembeli lain untuk barang yang sama dilarang oleh…",
+    "options": [
+      "Pasal 14",
+      "Pasal 6",
+      "Pasal 9",
+      "Pasal 21"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 6 melarang perjanjian yang mengakibatkan pembeli membayar harga berbeda untuk barang dan/atau jasa yang sama.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-di-bawah-pasar",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pasal 7 melarang perjanjian dengan pesaing untuk menetapkan harga di bawah harga pasar. Bedanya dengan jual rugi Pasal 20?",
+    "options": [
+      "Pasal 20 hanya berlaku bagi badan usaha milik negara",
+      "Tidak ada beda, keduanya sama persis",
+      "Pasal 7 butuh perjanjian dengan pesaing",
+      "Pasal 7 hanya berlaku untuk barang impor saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 7 termasuk perjanjian yang dilarang (harus ada perjanjian dengan pesaing). Pasal 20 termasuk kegiatan yang dilarang: pelaku usaha memasok dengan jual rugi atau harga sangat rendah untuk menyingkirkan pesaing, bisa dilakukan sendiri.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 7, Pasal 20",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-harga-jual-kembali",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pemasok mensyaratkan distributor tidak menjual kembali di bawah harga yang diperjanjikan. Ketentuan yang relevan…",
+    "options": [
+      "Pasal 8",
+      "Pasal 13",
+      "Pasal 5 ayat (2)",
+      "Pasal 26"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 8 melarang perjanjian yang memuat syarat penerima barang tidak akan menjual atau memasok kembali dengan harga lebih rendah daripada harga yang diperjanjikan, sehingga dapat mengakibatkan persaingan usaha tidak sehat.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 8",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-pembagian-wilayah",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Dua pesaing sepakat: A hanya berjualan di Jawa, B hanya di Sumatra. Ini diatur dalam…",
+    "options": [
+      "Pasal 18 tentang monopsoni",
+      "Pasal 9 tentang pembagian wilayah",
+      "Pasal 12 tentang trust",
+      "Pasal 16 tentang pihak luar negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 9 melarang perjanjian dengan pesaing untuk membagi wilayah pemasaran atau alokasi pasar yang dapat mengakibatkan praktek monopoli dan/atau persaingan tidak sehat.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 9",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-boikot",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Perjanjian antarpesaing untuk menolak menjual barang dari pelaku usaha lain sehingga merugikan pelaku usaha lain itu diatur Pasal…",
+    "options": [
+      "10 ayat (2)",
+      "4 ayat (1)",
+      "23",
+      "15 ayat (1)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 10 (pemboikotan): ayat (1) melarang perjanjian yang menghalangi pelaku usaha lain melakukan usaha yang sama; ayat (2) melarang perjanjian menolak menjual barang/jasa pelaku usaha lain yang merugikan atau membatasi pelaku usaha lain.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-trust",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Membentuk gabungan perusahaan yang lebih besar sambil mempertahankan hidup masing-masing anggota, untuk mengontrol produksi/pemasaran, dilarang oleh…",
+    "options": [
+      "Pasal 27",
+      "Pasal 11",
+      "Pasal 12",
+      "Pasal 28"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 12 (trust). Bedakan dengan Pasal 11 (kartel: mengatur produksi/pemasaran untuk memengaruhi harga) dan Pasal 28 (penggabungan/peleburan badan usaha).",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 12",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-oligopsoni",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Oligopsoni (Pasal 13) adalah perjanjian untuk bersama-sama menguasai…",
+    "options": [
+      "Penjualan barang kepada konsumen akhir",
+      "Mayoritas saham perusahaan pesaing",
+      "Jabatan direksi pesaing",
+      "Pembelian atau penerimaan pasokan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 13 ayat (1): menguasai pembelian atau penerimaan pasokan agar dapat mengendalikan harga. Ayat (2): patut diduga bila 2 atau 3 pelaku usaha menguasai lebih dari 75% pangsa pasar.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 13",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-integrasi-vertikal",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Perjanjian untuk menguasai produksi sejumlah produk dalam satu rangkaian produksi (hulu ke hilir) dilarang oleh Pasal 14, yang dikenal sebagai…",
+    "options": [
+      "Diskriminasi harga",
+      "Integrasi vertikal",
+      "Pembagian wilayah",
+      "Persekongkolan tender"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 14: menguasai produksi produk-produk dalam rangkaian produksi yang merupakan hasil pengolahan atau proses lanjutan, yang dapat mengakibatkan persaingan tidak sehat dan/atau merugikan masyarakat.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 14",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-tying",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Syarat bahwa pembeli barang tertentu harus bersedia membeli barang lain dari pemasok yang sama dilarang oleh…",
+    "options": [
+      "Pasal 19 huruf c",
+      "Pasal 6",
+      "Pasal 15 ayat (2)",
+      "Pasal 15 ayat (1)"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 15 ayat (2) (perjanjian tertutup, sering disebut tying). Ayat (1) mengatur syarat hanya memasok atau tidak memasok kepada pihak atau tempat tertentu.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 15",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-luar-negeri",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Perjanjian dengan pihak di luar negeri yang dapat mengakibatkan praktek monopoli…",
+    "options": [
+      "Bebas karena di luar yurisdiksi",
+      "Hanya dilarang jika pihak asing BUMN",
+      "Hanya diatur hukum negara mitra",
+      "Dilarang oleh Pasal 16"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 16 melarang pelaku usaha membuat perjanjian dengan pihak lain di luar negeri yang memuat ketentuan yang dapat mengakibatkan praktek monopoli dan/atau persaingan usaha tidak sehat.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 16",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-monopsoni",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pelaku usaha patut diduga menjadi pembeli tunggal (monopsoni, Pasal 18) bila menguasai pangsa pasar…",
+    "options": [
+      "Seluruhnya, 100%",
+      "Lebih dari 50%",
+      "Lebih dari 30%",
+      "Lebih dari 75%"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 18 ayat (2): satu pelaku usaha atau satu kelompok pelaku usaha menguasai lebih dari 50% pangsa pasar satu jenis barang atau jasa tertentu.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 18 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-penguasaan-pasar",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Menghalangi konsumen pesaing agar tidak berhubungan usaha dengan pesaing itu termasuk penguasaan pasar menurut…",
+    "options": [
+      "Pasal 50 huruf h",
+      "Pasal 26 huruf a",
+      "Pasal 9",
+      "Pasal 19 huruf b"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 19 huruf a-d: menolak/menghalangi pelaku usaha tertentu; menghalangi konsumen pesaing; membatasi peredaran barang; praktek monopoli terhadap pelaku usaha tertentu.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 19",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-biaya-produksi",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Kecurangan dalam menetapkan biaya produksi yang menjadi komponen harga, yang dapat mengakibatkan persaingan tidak sehat, dilarang oleh…",
+    "options": [
+      "Pasal 14",
+      "Pasal 21",
+      "Pasal 24",
+      "Pasal 8"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 21.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 21",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-rahasia-pesaing",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Bersekongkol dengan pihak lain untuk mendapatkan informasi usaha pesaing yang tergolong rahasia perusahaan dilarang oleh…",
+    "options": [
+      "Pasal 23",
+      "Pasal 22",
+      "Pasal 50 huruf b",
+      "Pasal 16"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 22: persekongkolan tender. Pasal 23: persekongkolan mendapatkan rahasia perusahaan pesaing. Pasal 24: persekongkolan menghambat produksi/pemasaran pesaing.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 22-24",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-posisi-dominan",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pasal 25 ayat (2): satu pelaku usaha memiliki posisi dominan bila menguasai pangsa pasar…",
+    "options": [
+      "50% atau lebih",
+      "Lebih dari 30%",
+      "Lebih dari 75%",
+      "Lebih dari 60%"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 25 ayat (2): satu pelaku/kelompok 50% atau lebih; dua atau tiga pelaku/kelompok 75% atau lebih. Perhatikan rumusannya \"atau lebih\", berbeda dengan Pasal 17 dan 18 yang memakai \"lebih dari\".",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 25 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-rangkap-jabatan",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Direksi perusahaan A juga menjadi komisaris perusahaan B di pasar bersangkutan yang sama. Ketentuan yang relevan…",
+    "options": [
+      "Pasal 23 tentang rahasia perusahaan",
+      "Pasal 12 tentang trust",
+      "Pasal 29 tentang notifikasi merger",
+      "Pasal 26 tentang jabatan rangkap"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 26: dilarang merangkap direksi atau komisaris pada perusahaan lain bila perusahaan itu di pasar bersangkutan yang sama, berkaitan erat bidang usahanya, atau bersama dapat menguasai pangsa pasar, yang dapat mengakibatkan praktek monopoli dan/atau persaingan tidak sehat.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 26",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-saham-mayoritas",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Pasal 27 melarang memiliki saham mayoritas di beberapa perusahaan sejenis di pasar yang sama bila akibatnya satu kelompok menguasai pangsa pasar…",
+    "options": [
+      "Lebih dari 90%",
+      "Lebih dari 25%",
+      "Lebih dari 50%",
+      "Lebih dari 40%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 27 huruf a: satu pelaku/kelompok lebih dari 50%; huruf b: dua atau tiga pelaku/kelompok lebih dari 75%.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 27",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-kppu-presiden",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Menurut Pasal 30 ayat (3), KPPU bertanggung jawab kepada…",
+    "options": [
+      "DPR",
+      "Menteri Perdagangan",
+      "Mahkamah Agung",
+      "Presiden"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 30: KPPU adalah lembaga independen yang terlepas dari pengaruh dan kekuasaan Pemerintah serta pihak lain (ayat (2)), dan bertanggung jawab kepada Presiden (ayat (3)).",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 30",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-pengecualian",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Mana yang dikecualikan dari UU 5/1999 menurut Pasal 50?",
+    "options": [
+      "Perjanjian penetapan harga antar-pesaing",
+      "Persekongkolan tender proyek pemerintah",
+      "Pembagian wilayah oleh dua distributor",
+      "Pelaku usaha yang tergolong usaha kecil"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 50 antara lain mengecualikan: perjanjian terkait HKI dan waralaba, standar teknis yang tidak mengekang persaingan, perjanjian internasional yang diratifikasi, ekspor yang tidak mengganggu pasokan dalam negeri, usaha kecil, dan koperasi yang khusus melayani anggotanya.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 50",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-bumn-hajat",
+    "type": "quiz",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "question": "Monopoli atas produksi/pemasaran yang menguasai hajat hidup orang banyak, menurut Pasal 51, diatur dengan undang-undang dan diselenggarakan oleh…",
+    "options": [
+      "Pemerintah daerah tempat produksi berlangsung",
+      "Swasta pemenang lelang terbuka KPPU",
+      "Koperasi yang jumlah anggotanya paling banyak",
+      "BUMN dan/atau badan yang ditunjuk Pemerintah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 51: diselenggarakan oleh Badan Usaha Milik Negara dan/atau badan atau lembaga yang dibentuk atau ditunjuk oleh Pemerintah.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 51",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-humor-grup-harga",
+    "type": "humor",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "meme",
+      "top": "Grup WA \"Paguyuban Penjual\": harga naik bareng, biar adil",
+      "bottom": "Adil buat penjual. Konsumen tidak diundang ke grup.",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Kompak itu bagus, kecuali kompaknya menetapkan harga yang dibayar pembeli.",
+    "teaches": "Pasal 5 ayat (1) UU 5/1999 melarang perjanjian dengan pesaing untuk menetapkan harga yang harus dibayar konsumen di pasar bersangkutan yang sama. Perjanjian tidak harus tertulis (Pasal 1 angka 7).",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 5 ayat (1), Pasal 1 angka 7",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-humor-printer-tinta",
+    "type": "humor",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "comic",
+      "title": "Paket hemat",
+      "panels": [
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Printer ini dijual murah, Kak."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Syaratnya apa?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Wajib beli tinta, kertas, dan kursi dari toko kami."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Kursinya buat duduk menunggu printer selesai loading."
+        }
+      ]
+    },
+    "caption": "Bonus kursi, minus pilihan.",
+    "teaches": "Pasal 15 ayat (2) UU 5/1999 melarang perjanjian yang mensyaratkan penerima barang tertentu harus bersedia membeli barang lain dari pemasok yang sama (perjanjian tertutup/tying).",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 15 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "konsumen-persaingan-uu5-humor-rangkap",
+    "type": "humor",
+    "topicId": "konsumen-persaingan",
+    "subTopicId": "persaingan",
+    "account": "pasar.adil",
+    "visual": {
+      "template": "meme",
+      "top": "Direksi di perusahaan A, komisaris di pesaingnya B",
+      "bottom": "Rapat strategi bersaing jadi lebih cepat: cukup ngobrol sendiri.",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Efisien. Terlalu efisien.",
+    "teaches": "Pasal 26 UU 5/1999 melarang rangkap jabatan direksi atau komisaris pada perusahaan lain di pasar bersangkutan yang sama atau yang usahanya berkaitan erat, bila dapat mengakibatkan praktek monopoli dan/atau persaingan tidak sehat.",
+    "source": {
+      "title": "UU No. 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat",
+      "reference": "Pasal 26",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-5-tahun-1999"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

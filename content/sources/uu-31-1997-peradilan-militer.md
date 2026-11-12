@@ -179,3 +179,135 @@
 > (6) Dalam hal pemohon tidak dapat menghadap, hal ini harus dicatat oleh Panitera dengan disertai alasannya dan catatan harus dilampirkan dalam berkas perkara dan juga ditulis dalam buku register perkara.
 
 > (7) Dalam hal Pengadilan tingkat pertama menerima permintaan banding, baik yang diajukan oleh Oditur atau Terdakwa maupun yang diajukan oleh Oditur dan Terdakwa sekaligus, Panitera wajib memberitahukan permintaan dari pihak yang satu kepada pihak yang lain.
+
+## Tambahan: susunan, kekuasaan pengadilan, hakim, oditurat, dan sengketa Tata Usaha Angkatan Bersenjata
+
+> Diambil pada 12 November 2026 dari PDF yang sama (Hukumonline). Judul bagian yang ikut terbaca di ujung pasal dibuang; huruf/angka rincian dicetak tanpa titik seperti di sumber. Pasal 7 (pembinaan organisasi oleh Panglima) dan Pasal 21 (pengangkatan hakim) sengaja tidak dikutip karena kemungkinan terdampak penyatuan atap di bawah Mahkamah Agung (UU 4/2004, kini UU 48/2009); status keduanya belum diperiksa. Pasal 15 dan Pasal 16 dikutip hanya sebagian ayat.
+
+### Pasal 5
+
+> (1) Peradilan militer merupakan pelaksana kekuasaan kehakiman di lingkungan Angkatan Bersenjata untuk menegakkan hukum dan keadilan dengan memperhatikan kepentingan penyelenggaraan pertahanan keamanan negara. (2) Oditurat merupakan badan pelaksana kekuasaan pemerintahan negara di bidang penuntutan dan penyidikan di lingkungan Angkatan Bersenjata berdasarkan pelimpahan dari Panglima, dengan memperhatikan kepentingan penyelenggaraan pertahanan keamanan negara. Pembinaan
+
+### Pasal 8
+
+> (1) Pengadilan dalam lingkungan peradilan militer merupakan badan pelaksana kekuasaan kehakiman di lingkungan Angkatan Bersenjata. (2) Pelaksanaan kekuasaan kehakiman sebagaimana dimaksud pada ayat (1) berpuncak pada Mahkamah Agung sebagai Pengadilan Negara Tertinggi.
+
+### Pasal 9
+
+> Pengadilan dalam lingkungan peradilan militer berwenang: 1. Mengadili tindak pidana yang dilakukan oleh seseorang yang pada waktu melakukan tindak pidana adalah: a Prajurit; b yang berdasarkan undang-undang dipersamakan dengan Prajurit; c anggota suatu golongan atau jawatan atau badan atau yang dipersamakan atau dianggap sebagai Prajurit berdasarkan undang-undang; d seseorang yang tidak masuk golongan pada huruf a, huruf b, dan huruf c tetapi atas keputusan Panglima dengan persetujuan Menteri Kehakiman harus diadili oleh suatu Pengadilan dalam lingkungan peradilan militer. 2. Memeriksa, memutus, dan menyelesaikan sengketa Tata Usaha Angkatan Bersenjata. 3. Menggabungkan perkara gugatan ganti rugi dalam perkara pidana yang bersangkutan atas permintaan dari pihak yang dirugikan sebagai akibat yang ditimbulkan oleh tindak pidana yang menjadi dasar dakwaan, dan sekaligus memutus kedua perkara tersebut dalam satu putusan.
+
+### Pasal 10
+
+> Pengadilan dalam lingkungan peradilan militer mengadili tindak pidana yang dilakukan oleh mereka sebagaimana dimaksud dalam Pasal 9 angka 1 yang: a tempat kejadiannya berada di daerah hukumnya; atau b terdakwanya termasuk suatu kesatuan yang berada di daerah hukumnya.
+
+### Pasal 11
+
+> Apabila lebih dari 1 (satu) pengadilan berkuasa mengadili suatu perkara dengan syarat-syarat yang sama kuatnya, pengadilan yang menerima perkara itu lebih dahulu harus mengadili perkara tersebut.
+
+### Pasal 14
+
+> (1) Tempat kedudukan Pengadilan Militer Utama berada di Ibukota Negara Republik Indonesia yang daerah hukumnya meliputi seluruh wilayah Negara Republik Indonesia. (2) Nama, tempat kedudukan, dan daerah hukum pengadilan lainnya ditetapkan dengan Keputusan Panglima. (3) Apabila perlu, Pengadilan Militer dan Pengadilan Militer Tinggi dapat bersidang di luar tempat kedudukannya. (4) Apabila perlu, Pengadilan Militer dan Pengadilan Militer Tinggi dapat bersidang di luar daerah hukumnya atas izin Kepala Pengadilan Militer Utama.
+
+### Pasal 15
+
+> (1) Pengadilan Militer dan Pengadilan Militer Tinggi bersidang untuk memeriksa dan memutus perkara pidana pada tingkat pertama dengan 1 (satu) orang Hakim Ketua dan 2 (dua) orang Hakim Anggota yang dihadiri 1 (satu) orang Oditur Militer/ Oditur Militer Tinggi dan dibantu 1 (satu) orang Panitera. (2) Pengadilan Militer Tinggi bersidang untuk memeriksa dan memutus perkara sengketa Tata Usaha Angkatan Bersenjata pada tingkat pertama dengan 1 (satu) orang Hakim Ketua dan 2 (dua) orang Hakim Anggota yang dibantu 1 (satu) orang Panitera. (3) Pengadilan Militer Tinggi dan Pengadilan Militer Utama bersidang untuk memeriksa dan memutus perkara pidana pada tingkat banding dengan 1 (satu) orang Hakim Ketua dan 2 (dua) orang Hakim Anggota yang dibantu 1 (satu) orang Panitera.
+
+### Pasal 16
+
+> (1) Hakim Ketua dalam persidangan Pengadilan Militer paling rendah berpangkat Mayor, sedangkan Hakim Anggota dan Oditur Militer paling rendah berpangkat Kapten. (2) Hakim Ketua dalam persidangan Pengadilan Militer Tinggi paling rendah berpangkat Kolonel, sedangkan Hakim Anggota dan Oditur Militer Tinggi paling rendah berpangkat Letnan Kolonel. (3) Hakim Ketua dalam persidangan Pengadilan Militer Utama paling rendah berpangkat Brigadir Jenderal/Laksamana Pertama/ Marsekal Pertama, sedangkan Hakim Anggota paling rendah berpangkat Kolonel. (4) Hakim Anggota dan Oditur sebagaimana dimaksud pada ayat (1) dan ayat (2), dan Hakim Anggota sebagaimana dimaksud pada ayat (3) paling rendah berpangkat setingkat lebih tinggi dari pada pangkat Terdakwa yang diadili.
+
+### Pasal 18
+
+> Untuk dapat diangkat menjadi Hakim Militer, seorang Prajurit harus memenuhi syarat: a bertakwa kepada Tuhan Yang Maha Esa; b setia dan taat kepada Pancasila dan Undang-Undang Dasar 1945; c tidak terlibat partai atau organisasi terlarang; d paling rendah berpangkat Kapten dan berijazah Sarjana Hukum; e berpengalaman di bidang peradilan dan/atau hukum; dan f berwibawa, jujur, adil, dan berkelakuan tidak tercela.
+
+### Pasal 19
+
+> Untuk dapat diangkat menjadi Hakim Militer Tinggi, seorang Prajurit harus memenuhi syarat: a bertakwa kepada Tuhan Yang Maha Esa; b setia dan taat kepada Pancasila dan Undang-Undang Dasar 1945; c tidak terlibat partai atau organisasi terlarang; d paling rendah berpangkat Letnan Kolonel dan berijazah Sarjana Hukum; e berpengalaman di bidang peradilan dan/atau hukum; dan f berwibawa, jujur, adil, dan berkelakuan tidak tercela.
+
+### Pasal 20
+
+> Untuk dapat diangkat menjadi Hakim Militer Utama, seorang Prajurit harus memenuhi syarat: a bertakwa kepada Tuhan Yang Maha Esa; b setia dan taat kepada Pancasila dan Undang-Undang Dasar 1945; c tidak terlibat partai atau organisasi terlarang; d paling rendah berpangkat Kolonel dan berijazah Sarjana Hukum; e berpengalaman sebagai Hakim Militer Tinggi atau sebagai Oditur Militer Tinggi; dan f berwibawa, jujur, adil, dan berkelakuan tidak tercela.
+
+### Pasal 23
+
+> Hakim dilarang merangkap pekerjaan sebagai: a pelaksana putusan pengadilan; b penasihat hukum; c pengusaha; atau d pekerjaan lain selain tersebut pada huruf a, huruf b, dan huruf c yang diatur lebih lanjut dengan Keputusan Panglima.
+
+### Pasal 41
+
+> (1) Pengadilan Militer Tinggi pada tingkat pertama: a memeriksa dan memutus perkara pidana yang Terdakwanya adalah: 1) Prajurit atau salah satu Prajuritnya berpangkat Mayor ke atas; 2) mereka sebagaimana dimaksud dalam Pasal 9 angka 1 huruf b dan huruf c yang Terdakwanya atau salah satu Terdakwanya "termasuk tingkat kepangkatan" Mayor ke atas; dan 3) mereka yang berdasarkan Pasal 9 angka 1 huruf d harus diadili oleh Pengadilan Militer Tinggi; b memeriksa, memutus, dan menyelesaikan sengketa Tata Usaha Angkatan Bersenjata. (2) Pengadilan Militer Tinggi memeriksa dan memutus pada tingkat banding perkara pidana yang telah diputus oleh Pengadilan Militer dalam daerah hukumnya yang dimintakan banding. (3) Pengadilan Militer Tinggi memutus pada tingkat pertama dan terakhir sengketa Kewenangan mengadili antara Pengadilan Militer dalam daerah hukumnya.
+
+### Pasal 42
+
+> Pengadilan Militer Utama memeriksa dan memutus pada tingkat banding perkara pidana dan sengketa Tata Usaha Angkatan Bersenjata yang telah diputus pada tingkat pertama oleh Pengadilan Militer Tinggi yang dimintakan banding.
+
+### Pasal 43
+
+> (1) Pengadilan Militer Utama memutus pada tingkat pertama dan terakhir semua sengketa tentang wewenang mengadili: a antar Pengadilan Militer yang berkedudukan di daerah hukum Pengadilan Militer Tinggi yang berlainan; b antar Pengadilan Militer Tinggi; dan c antara Pengadilan Militer Tinggi dan Pengadilan Militer. (2) Sengketa sebagaimana dimaksud pada ayat (1) terjadi: a apabila 2 (dua) pengadilan atau lebih menyatakan dirinya berwenang mengadili atas perkara yang sama; b apabila 2 (dua) pengadilan atau lebih menyatakan dirinya tidak berwenang mengadili perkara yang sama. (3) Pengadilan Militer Utama memutus perbedaan pendapat antara Perwira Penyerah Perkara dan Oditur tentang diajukan atau tidaknya suatu perkara kepada Pengadilan dalam lingkungan peradilan militer atau Pengadilan dalam lingkungan peradilan umum.
+
+### Pasal 45
+
+> Pengadilan Militer Pertempuran memeriksa dan memutus pada tingkat pertama dan terakhir perkara pidana yang dilakukan oleh mereka sebagaimana dimaksud dalam Pasal 9 angka 1 di daerah pertempuran.
+
+### Pasal 46
+
+> Pengadilan Militer Pertempuran bersifat mobil mengikuti gerakan pasukan dan berkedudukan serta berdaerah hukum di daerah pertempuran.
+
+### Pasal 47
+
+> (1) Oditurat melaksanakan kekuasaan pemerintahan negara di bidang penuntutan dan penyidikan di lingkungan Angkatan Bersenjata sebagaimana diatur dalam Undang-undang ini. (2) Oditurat adalah satu dan tidak terpisah-pisahkan dalam melakukan penuntutan.
+
+### Pasal 49
+
+> (1) Oditurat terdiri dari: a Oditurat Militer; b Oditurat Militer Tinggi; c Oditurat Jenderal; dan d Oditurat Militer Pertempuran. (2) Dalam daerah hukum Oditurat Militer dapat dibentuk unit pelaksana teknis Oditurat Militer sesuai dengan kebutuhan.
+
+### Pasal 51
+
+> (1) Tempat kedudukan Oditurat Jenderal berada di Ibukota Negara Republik Indonesia dan daerah hukumnya meliputi seluruh wilayah Negara Republik Indonesia. (2) Nama, tempat kedudukan, dan daerah hukum Oditurat Militer, dan Oditurat Militer Tinggi ditetapkan dengan Keputusan Panglima. (3) Oditurat Militer Pertempuran bersifat mobil mengikuti gerakan pasukan dan berkedudukan serta berdaerah hukum di daerah pertempuran.
+
+### Pasal 52
+
+> Untuk dapat diangkat menjadi Oditur Militer, seorang Prajurit harus memenuhi syarat: a bertakwa kepada Tuhan Yang Maha Esa; b setia dan taat kepada Pancasila dan Undang-Undang Dasar 1945; c tidak terlibat partai atau organisasi terlarang; d paling rendah berpangkat Kapten dan berijazah Sarjana Hukum; e berpengalaman di bidang peradilan dan/atau hukum; dan f berwibawa, jujur, adil, dan berkelakuan tidak tercela.
+
+### Pasal 53
+
+> Untuk dapat diangkat menjadi Oditur Militer Tinggi, seorang Prajurit harus memenuhi syarat: a bertakwa kepada Tuhan Yang Maha Esa; b setia dan taat kepada Pancasila dan Undang-Undang Dasar 1945; c tidak terlibat partai atau organisasi terlarang; d paling rendah berpangkat Letnan Kolonel dan berijazah Sarjana Hukum; e berpengalaman di bidang peradilan dan/atau hukum; dan f berwibawa, jujur, adil, dan berkelakuan tidak tercela.
+
+### Pasal 57
+
+> (1) Oditur dan Oditur Jenderal adalah pejabat fungsional yang dalam melakukan penuntutan bertindak untuk dan atas nama masyarakat, pemerintah, dan negara serta bertanggung jawab menurut saluran hirarki. (2) Oditur melaksanakan penuntutan dengan keyakinan berdasarkan alat bukti yang sah "Demi keadilan berdasarkan Ketuhanan Yang Maha Esa" (3) Dalam melakukan penuntutan Oditur senantiasa mengindahkan norma keagamaan, kemanusiaan, dan kesusilaan serta wajib menggali nilai-nilai hukum dan keadilan yang hidup dalam masyarakat dengan memperhatikan kepentingan pertahanan keamanan negara.
+
+### Pasal 64
+
+> (1) Oditurat Militer mempunyai tugas dan wewenang: a melakukan penuntutan dalam perkara pidana yang Terdakwanya: 1) Prajurit yang berpangkat Kapten ke bawah; 2) mereka sebagaimana dimaksud dalam Pasal 9 angka 1 huruf b dan huruf c yang Terdakwanya "termasuk tingkat kepangkatan" Kapten ke bawah; 3) mereka yang berdasarkan Pasal 9 angka 1 huruf d harus diadili oleh Pengadilan Militer; b melaksanakan penetapan Hakim atau putusan Pengadilan dalam lingkungan peradilan militer atau Pengadilan dalam lingkungan peradilan umum; c melakukan pemeriksaan tambahan. (2) Selain mempunyai tugas dan wewenang sebagaimana dimaksud pada ayat (1), Oditurat Militer dapat melakukan penyidikan.
+
+### Pasal 65
+
+> (1) Oditurat Militer Tinggi mempunyai tugas dan wewenang: a melakukan penuntutan dalam perkara pidana yang Terdakwanya adalah: 1) Prajurit atau salah satu Prajuritnya berpangkat Mayor ke atas; 2) mereka sebagaimana dimaksud dalam Pasal 9 angka 1 huruf b dan huruf c yang Terdakwanya atau salah satu Terdakwanya "termasuk tingkat kepangkatan" Mayor ke atas; dan 3) mereka yang berdasarkan Pasal 9 angka 1 huruf d harus diadili oleh Pengadilan Militer Tinggi; b melaksanakan penetapan Hakim atau putusan Pengadilan dalam lingkungan peradilan militer atau Pengadilan dalam lingkungan peradilan umum; c melakukan pemeriksaan tambahan. (2) Selain mempunyai tugas dan wewenang sebagaimana dimaksud pada ayat (1), Oditurat Militer Tinggi dapat melakukan penyidikan.
+
+### Pasal 66
+
+> Oditurat Jenderal mempunyai tugas dan wewenang: a membina, mengendalikan, dan mengawasi pelaksanaan tugas dan wewenang Oditurat; b menyelenggarakan pengkajian masalah kejahatan guna kepentingan penegakan serta kebijaksanaan pemidanaan; dan c dalam rangka penyelesaian dan pelaksanaan penuntutan perkara tindak pidana tertentu yang acaranya diatur secara khusus, mengadakan koordinasi dengan Kejaksaan Agung, Polisi Militer, dan badan penegak hukum lain.
+
+### Pasal 67
+
+> Oditur Jenderal mempunyai tugas dan wewenang: a selaku pimpinan dan penanggung jawab tertinggi Oditurat, mengendalikan pelaksanaan tugas dalam bidang penuntutan di lingkungan Angkatan Bersenjata; b mengendalikan dan mengawasi penggunaan wewenang penyidikan, penyerahan perkara, dan penuntutan di lingkungan Angkatan Bersenjata; c menyampaikan pertimbangan kepada Presiden mengenai permohonan grasi dalam hal pidana mati, permohonan atau rencana pemberian amnesti, abolisi, dan rehabilitasi; dan d melaksanakan tugas khusus dari Panglima sesuai dengan ketentuan peraturan perundang- undangan yang berlaku.
+
+### Pasal 266
+
+> (1) sengketa Tata Usaha Angkatan Bersenjata diajukan kepada Pengadilan Militer Tinggi yang berwenang yang daerah hukumnya meliputi tempat kedudukan Tergugat. [...] (5) Apabila Penggugat dan Tergugat berkedudukan atau berada di luar negeri, gugatan diajukan kepada Pengadilan Militer Tinggi di Jakarta.
+
+### Pasal 267
+
+> Gugatan dapat diajukan hanya dalam tenggang waktu 90 (sembilan puluh) hari terhitung sejak saat diterimanya atau diumumkannya keputusan Badan atau Pejabat Tata Usaha Angkatan Bersenjata/ Instansi atasan dari Badan atau Pejabat Tata Usaha Angkatan Bersenjata yang bersangkutan dalam hal ada upaya administrasi.
+
+### Pasal 278
+
+> (1) Gugatan tidak menunda atau menghalangi dilaksanakannya keputusan serta tindakan Badan atau Pejabat Tata Usaha Angkatan Bersenjata yang digugat. (2) Penggugat dapat mengajukan permohonan agar pelaksanaan Keputusan Tata Usaha Angkatan Bersenjata itu ditunda selama pemeriksaan sengketa Tata Usaha Angkatan Bersenjata sedang berjalan sampai dengan ada putusan Pengadilan yang memperoleh kekuatan hukum tetap. (3) Permohonan sebagaimana dimaksud pada ayat (2) dapat diajukan sekaligus dalam gugatan dan dapat diputus terlebih dahulu dari pokok sengketanya. (4) Permohonan penundaan sebagaimana dimaksud pada ayat (2) dapat dikabulkan hanya apabila terdapat keadaan yang sangat mendesak yang mengakibatkan kepentingan Penggugat sangat dirugikan, apabila Keputusan Tata Usaha Angkatan Bersenjata yang digugat itu tetap dilaksanakan. (5) Ketentuan sebagaimana dimaksud pada ayat (4) tidak berlaku apabila kepentingan militer dalam rangka menunjang kepentingan pertahanan keamanan negara mengharuskan dilaksanakannya keputusan tersebut.
+
+### Penjelasan Pasal 9 angka 1 huruf d
+
+> Yang dimaksud dalam ketentuan ini adalah orang sipil yang menurut kenyataan bekerja pada Angkatan Bersenjata yang diberi kewajiban untuk memegang rahasia militer, melakukan tindak pidana yang berhubungan dengan kewajibannya, dengan ketentuan bahwa orang tersebut tidak termasuk pada ketentuan huruf a, huruf b, dan huruf c.
+
+### Penjelasan Pasal 10
+
+> Syarat sebagaimana dimaksud pada huruf a lebih kuat daripada syarat sebagaimana dimaksud pada huruf b.

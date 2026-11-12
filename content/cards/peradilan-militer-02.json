@@ -935,5 +935,864 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "peradilan-militer-b3-oditurat-fungsi",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 5 ayat (2) UU 31/1997, Oditurat adalah badan pelaksana kekuasaan pemerintahan negara di bidang…",
+    "options": [
+      "Penuntutan dan penyidikan di lingkungan Angkatan Bersenjata",
+      "Pertahanan wilayah perbatasan negara",
+      "Pembinaan teknis hakim militer di seluruh daerah",
+      "Pemasyarakatan narapidana militer dan pembinaan prajurit yang dihukum"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 5 ayat (2): Oditurat melaksanakan penuntutan dan penyidikan berdasarkan pelimpahan dari Panglima.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 5 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-puncak-ma",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 8 ayat (2), pelaksanaan kekuasaan kehakiman di lingkungan peradilan militer berpuncak pada…",
+    "options": [
+      "Menteri Pertahanan",
+      "Mahkamah Agung",
+      "Panglima TNI selaku pimpinan tertinggi",
+      "Pengadilan Militer Utama yang berdiri sendiri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 8 ayat (2): berpuncak pada Mahkamah Agung sebagai Pengadilan Negara Tertinggi.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 8 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-sipil-diadili",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Pasal 9 angka 1 huruf d memungkinkan orang yang bukan prajurit diadili peradilan militer, dengan syarat…",
+    "options": [
+      "Ia tinggal di asrama militer bersama keluarga prajurit",
+      "Ada keputusan Panglima dengan persetujuan Menteri Kehakiman",
+      "Korban tindak pidananya prajurit",
+      "Ia pernah mengikuti pelatihan bela negara yang diselenggarakan oleh TNI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 9 angka 1 huruf d. Penjelasannya menyebut contoh orang sipil yang bekerja pada Angkatan Bersenjata dan wajib memegang rahasia militer. Sebutan menteri sudah berubah sejak 1997.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 9 angka 1 huruf d",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-gabung-ganti-rugi",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Pasal 9 angka 3 memberi pengadilan militer wewenang untuk…",
+    "options": [
+      "Menggabungkan gugatan ganti rugi ke dalam perkara pidananya",
+      "Menyelesaikan sengketa tanah milik TNI",
+      "Menjatuhkan hukuman disiplin tanpa sidang",
+      "Mengadili sengketa waris keluarga prajurit yang meninggal dalam tugas"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 9 angka 3: gugatan ganti rugi digabung dalam perkara pidana dan kedua perkara diputus dalam satu putusan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 9 angka 3",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-daerah-hukum",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 10 dan penjelasannya, syarat mana yang LEBIH KUAT untuk menentukan pengadilan militer yang berwenang?",
+    "options": [
+      "Tempat kejadian berada di daerah hukumnya",
+      "Tempat tinggal keluarga terdakwa",
+      "Tempat terdakwa ditahan",
+      "Kesatuan terdakwa berada di daerah hukumnya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 10 huruf a (tempat kejadian) dan huruf b (kesatuan terdakwa). Penjelasan Pasal 10: syarat huruf a lebih kuat daripada huruf b.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 10 dan penjelasannya",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-lebih-dulu",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Dua pengadilan militer sama kuat berwenang mengadili satu perkara. Menurut Pasal 11…",
+    "options": [
+      "Ditentukan undian oleh Oditur di hadapan kedua kepala pengadilan",
+      "Pengadilan yang menerima perkara lebih dahulu yang mengadili",
+      "Yang lebih tinggi tingkatannya mengadili",
+      "Keduanya bersidang bersama"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11: pengadilan yang menerima perkara itu lebih dahulu harus mengadili perkara tersebut.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 11",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-dilmilti-luar",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Pengadilan Militer ingin bersidang di luar daerah hukumnya. Menurut Pasal 14 ayat (4), diperlukan…",
+    "options": [
+      "Persetujuan DPR",
+      "Keputusan Presiden",
+      "Persetujuan tertulis dari terdakwa dan oditur",
+      "Izin Kepala Pengadilan Militer Utama"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 14 ayat (4). Bersidang di luar tempat kedudukan (masih dalam daerah hukum) cukup bila perlu (ayat 3).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 14 ayat (3) dan (4)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-majelis-3",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 15 ayat (1), Pengadilan Militer memeriksa perkara pidana tingkat pertama dengan…",
+    "options": [
+      "1 Hakim Ketua dan 4 Hakim Anggota",
+      "1 Hakim Ketua dan 2 Hakim Anggota",
+      "5 hakim",
+      "Hakim tunggal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 15 ayat (1).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 15 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-tun-tanpa-oditur",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Dalam sidang sengketa Tata Usaha Angkatan Bersenjata tingkat pertama (Pasal 15 ayat (2)), siapa yang TIDAK disebut hadir?",
+    "options": [
+      "Hakim Anggota",
+      "Oditur",
+      "Hakim Ketua",
+      "Panitera"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 15 ayat (2) menyebut 1 Hakim Ketua, 2 Hakim Anggota, dan 1 Panitera. Oditur hanya disebut untuk perkara pidana (ayat 1).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 15 ayat (1) dan (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-pangkat-ketua-dilmil",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 16 ayat (1), Hakim Ketua dalam persidangan Pengadilan Militer paling rendah berpangkat…",
+    "options": [
+      "Letnan Kolonel",
+      "Kolonel",
+      "Mayor",
+      "Kapten"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 16 ayat (1): Hakim Ketua paling rendah Mayor; Hakim Anggota dan Oditur Militer paling rendah Kapten.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 16 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-pangkat-dilmilti",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 16 ayat (2), di Pengadilan Militer Tinggi, Hakim Anggota dan Oditur Militer Tinggi paling rendah berpangkat…",
+    "options": [
+      "Kolonel",
+      "Brigadir Jenderal",
+      "Mayor",
+      "Letnan Kolonel"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 16 ayat (2): Hakim Ketua paling rendah Kolonel; Hakim Anggota dan Oditur Militer Tinggi paling rendah Letnan Kolonel.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 16 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-setingkat-lebih-tinggi",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 16 ayat (4), pangkat Hakim Anggota dan Oditur dibandingkan dengan terdakwa paling rendah…",
+    "options": [
+      "Setingkat lebih tinggi dari pangkat terdakwa",
+      "Tidak diatur",
+      "Dua tingkat lebih tinggi dari pangkat terdakwa",
+      "Sama dengan terdakwa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 16 ayat (4). Ayat (5) mengatur pengecualian untuk terdakwa berpangkat Kolonel dan perwira tinggi.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 16 ayat (4)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-syarat-hakim",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 18, salah satu syarat diangkat menjadi Hakim Militer adalah…",
+    "options": [
+      "Paling rendah berpangkat Kapten dan berijazah Sarjana Hukum",
+      "Pernah bertugas di daerah operasi",
+      "Berpangkat perwira tinggi",
+      "Paling rendah berpangkat Mayor dan bergelar magister hukum dari perguruan tinggi negeri"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 18 huruf d. Untuk Hakim Militer Tinggi paling rendah Letnan Kolonel (Pasal 19); Hakim Militer Utama paling rendah Kolonel (Pasal 20).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 18-20",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-syarat-hakim-utama",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 20, Hakim Militer Utama wajib berpengalaman sebagai…",
+    "options": [
+      "Hakim Militer Tinggi atau Oditur Militer Tinggi",
+      "Atase pertahanan",
+      "Komandan satuan tempur di daerah operasi paling singkat lima tahun",
+      "Dosen hukum militer"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 20 huruf e: berpengalaman sebagai Hakim Militer Tinggi atau Oditur Militer Tinggi, selain paling rendah Kolonel dan Sarjana Hukum.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 20",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-larangan-rangkap",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 23, hakim militer dilarang merangkap sebagai…",
+    "options": [
+      "Peserta pendidikan lanjutan",
+      "Pengurus koperasi keluarga",
+      "Penasihat hukum",
+      "Pembina olahraga satuan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 23: dilarang merangkap pelaksana putusan pengadilan, penasihat hukum, pengusaha, atau pekerjaan lain yang diatur Keputusan Panglima.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 23",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-dilmilti-banding",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 41 ayat (2), Pengadilan Militer Tinggi memeriksa pada tingkat banding perkara pidana yang diputus oleh…",
+    "options": [
+      "Pengadilan Militer dalam daerah hukumnya",
+      "Pengadilan Militer Pertempuran di daerah pertempuran",
+      "Pengadilan Negeri",
+      "Pengadilan Militer Utama"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 41 ayat (2).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 41 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-sengketa-wenang-dilmil",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Dua Pengadilan Militer dalam satu daerah hukum Pengadilan Militer Tinggi sama-sama menyatakan berwenang. Menurut Pasal 41 ayat (3), yang memutus adalah…",
+    "options": [
+      "Pengadilan Militer Tinggi (pertama dan terakhir)",
+      "Mahkamah Agung",
+      "Panglima",
+      "Oditur Jenderal bersama Kepala Pengadilan Militer Utama"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 41 ayat (3). Bila Pengadilan Militernya di daerah hukum Pengadilan Militer Tinggi yang berlainan, yang memutus Pengadilan Militer Utama (Pasal 43 ayat (1)).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 41 ayat (3) dan Pasal 43",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-dilmiltama-banding",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 42, Pengadilan Militer Utama memeriksa pada tingkat banding…",
+    "options": [
+      "Putusan Pengadilan Militer Pertempuran",
+      "Putusan tingkat pertama Pengadilan Militer Tinggi",
+      "Putusan Pengadilan Negeri dalam perkara koneksitas",
+      "Semua putusan Pengadilan Militer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 42.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 42",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-sengketa-negatif",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 43 ayat (2), sengketa wewenang mengadili juga terjadi apabila dua pengadilan atau lebih…",
+    "options": [
+      "Sama-sama menyatakan dirinya tidak berwenang mengadili perkara yang sama",
+      "Berada di provinsi yang sama",
+      "Bersidang pada hari yang sama",
+      "Berbeda pendapat tentang besarnya pidana yang patut dijatuhkan kepada terdakwa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 43 ayat (2): baik sama-sama menyatakan berwenang maupun sama-sama menyatakan tidak berwenang.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 43 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-papera-vs-oditur",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Perwira Penyerah Perkara dan Oditur berbeda pendapat apakah perkara diajukan ke pengadilan. Menurut Pasal 43 ayat (3), yang memutus adalah…",
+    "options": [
+      "Panglima",
+      "Pengadilan Militer Utama",
+      "Pengadilan Militer Tinggi setempat",
+      "Oditur Jenderal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 43 ayat (3).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 43 ayat (3)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-pertempuran-final",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 45, putusan Pengadilan Militer Pertempuran atas perkara pidana di daerah pertempuran bersifat…",
+    "options": [
+      "Tingkat pertama dan terakhir",
+      "Hanya rekomendasi kepada Panglima",
+      "Wajib dikukuhkan Mahkamah Agung",
+      "Dapat dibanding ke Pengadilan Militer Tinggi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 45: memeriksa dan memutus pada tingkat pertama dan terakhir. Pasal 46: bersifat mobil mengikuti gerakan pasukan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 45 dan 46",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-oditurat-satu",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Pasal 47 ayat (2) menyatakan bahwa dalam melakukan penuntutan, Oditurat…",
+    "options": [
+      "Berada di bawah Kejaksaan Agung",
+      "Tunduk pada komandan satuan terdakwa",
+      "Satu dan tidak terpisah-pisahkan",
+      "Bebas memilih pengadilan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 47 ayat (2).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 47 ayat (2)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-empat-oditurat",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Manakah yang BUKAN jenis Oditurat menurut Pasal 49 ayat (1)?",
+    "options": [
+      "Oditurat Militer Tinggi",
+      "Oditurat Militer Pertempuran",
+      "Oditurat Militer Utama",
+      "Oditurat Jenderal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 49 ayat (1): Oditurat Militer, Oditurat Militer Tinggi, Oditurat Jenderal, dan Oditurat Militer Pertempuran. 'Utama' adalah nama pengadilan, bukan oditurat.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 49 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-syarat-oditur",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 52 dan 53, pangkat paling rendah untuk diangkat menjadi Oditur Militer dan Oditur Militer Tinggi adalah…",
+    "options": [
+      "Letnan Satu dan Mayor (keduanya Sarjana Hukum)",
+      "Kapten dan Kolonel",
+      "Kapten dan Letnan Kolonel",
+      "Mayor dan Kolonel"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 52 huruf d (Kapten, Sarjana Hukum) dan Pasal 53 huruf d (Letnan Kolonel, Sarjana Hukum).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 52 dan 53",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-oditur-atas-nama",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 57 ayat (1), dalam melakukan penuntutan Oditur bertindak untuk dan atas nama…",
+    "options": [
+      "Korban tindak pidana",
+      "Masyarakat, pemerintah, dan negara",
+      "Komandan satuan tempat korban berdinas",
+      "Panglima secara pribadi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 57 ayat (1): serta bertanggung jawab menurut saluran hierarki.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 57 ayat (1)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-odmil-kapten",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Prajurit berpangkat Letnan Satu menjadi terdakwa. Menurut Pasal 64, penuntutannya dilakukan oleh…",
+    "options": [
+      "Oditurat Militer Tinggi",
+      "Oditurat Militer",
+      "Kejaksaan Negeri",
+      "Oditurat Jenderal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 64 ayat (1) huruf a: Oditurat Militer menuntut terdakwa berpangkat Kapten ke bawah. Mayor ke atas: Oditurat Militer Tinggi (Pasal 65).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 64 dan 65",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-odmil-sidik",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Selain menuntut, Pasal 64 ayat (2) menyatakan Oditurat Militer dapat…",
+    "options": [
+      "Mengangkat hakim",
+      "Menjatuhkan hukuman disiplin",
+      "Melakukan penyidikan",
+      "Memutus sengketa wewenang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 64 ayat (2). Pasal 64 ayat (1) juga memberi wewenang melaksanakan penetapan hakim atau putusan pengadilan dan melakukan pemeriksaan tambahan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 64",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-orjen-grasi",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 67 huruf c, Oditur Jenderal menyampaikan pertimbangan kepada Presiden mengenai…",
+    "options": [
+      "Kenaikan pangkat hakim militer dan oditur di seluruh Indonesia",
+      "Anggaran peradilan militer",
+      "Grasi pidana mati, amnesti, abolisi, dan rehabilitasi",
+      "Pengangkatan Panglima"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 67 huruf c.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 67 huruf c",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-odjen-koordinasi",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 66 huruf c, dalam perkara tertentu yang acaranya diatur khusus, Oditurat Jenderal berkoordinasi dengan…",
+    "options": [
+      "Kementerian Keuangan dan Badan Pemeriksa Keuangan",
+      "Kejaksaan Agung, Polisi Militer, dan penegak hukum lain",
+      "Komisi Yudisial dan Ombudsman Republik Indonesia sebagai pengawas",
+      "DPR melalui komisi yang membidangi pertahanan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 66 huruf c.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 66 huruf c",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-tun-tempat",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 266 ayat (1), gugatan sengketa Tata Usaha Angkatan Bersenjata diajukan ke Pengadilan Militer Tinggi yang daerah hukumnya meliputi…",
+    "options": [
+      "Tempat keputusan ditandatangani Panglima",
+      "Ibu kota negara",
+      "Tempat tinggal Penggugat",
+      "Tempat kedudukan Tergugat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 266 ayat (1). Ada pengecualian, misalnya bila Penggugat dan Tergugat sama-sama di luar negeri: Pengadilan Militer Tinggi di Jakarta (ayat 5).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 266",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-tun-90-hari",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 267, gugatan sengketa Tata Usaha Angkatan Bersenjata hanya dapat diajukan dalam tenggang waktu…",
+    "options": [
+      "90 hari sejak diterima atau diumumkan",
+      "30 hari sejak keputusan ditandatangani pejabat",
+      "6 bulan",
+      "1 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 267: 90 hari sejak diterima atau diumumkannya keputusan Badan/Pejabat TU Angkatan Bersenjata atau instansi atasannya dalam hal ada upaya administrasi.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 267",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-tun-tidak-tunda",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Menurut Pasal 278 ayat (1), gugatan terhadap keputusan Tata Usaha Angkatan Bersenjata…",
+    "options": [
+      "Tidak menunda atau menghalangi dilaksanakannya keputusan yang digugat",
+      "Membatalkan keputusan untuk sementara sampai ada putusan berkekuatan hukum tetap",
+      "Wajib disetujui Panglima",
+      "Otomatis menunda pelaksanaan keputusan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 278 ayat (1). Penundaan bisa dimohonkan (ayat 2) dan dikabulkan bila sangat mendesak (ayat 4), kecuali kepentingan militer menghendaki pelaksanaan (ayat 5).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 278",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-tun-kepentingan-militer",
+    "type": "quiz",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "mahmil.notes",
+    "question": "Penggugat memohon penundaan keputusan Tata Usaha Angkatan Bersenjata karena sangat mendesak. Menurut Pasal 278 ayat (5), penundaan tidak berlaku apabila…",
+    "options": [
+      "Kepentingan militer (pertahanan keamanan) mengharuskannya",
+      "Gugatan diajukan pada hari ke-80",
+      "Penggugat berpangkat rendah",
+      "Tergugat adalah pejabat setingkat menteri yang berkedudukan di Jakarta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 278 ayat (5).",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 278 ayat (5)",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-humor-oditur-bukan-utama",
+    "type": "humor",
+    "topicId": "peradilan-militer",
+    "subTopicId": "peradilan-militer-umum",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Mencari 'Oditurat Militer Utama'",
+      "bottom": "Tidak ada. Yang Utama itu pengadilannya. Puncak oditurat: Oditurat Jenderal.",
+      "character": "kancil",
+      "expression": "shock"
+    },
+    "caption": "Satu kata salah, satu soal melayang.",
+    "teaches": "Pasal 12 UU 31/1997: Pengadilan Militer, Pengadilan Militer Tinggi, Pengadilan Militer Utama, Pengadilan Militer Pertempuran. Pasal 49: Oditurat Militer, Oditurat Militer Tinggi, Oditurat Jenderal, Oditurat Militer Pertempuran.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 12 dan 49",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "peradilan-militer-b3-humor-gugat-jalan-terus",
+    "type": "humor",
+    "topicId": "peradilan-militer",
+    "subTopicId": "acara-militer",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Gugat Sambil Pindah",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Keputusan mutasi saya sudah saya gugat. Jadi saya belum berangkat."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pasal 278: gugatan tidak menunda pelaksanaan keputusan."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Jadi koper tetap dikemas?"
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Kecuali penundaan dikabulkan. Bawa juga berkas gugatannya."
+        }
+      ]
+    },
+    "caption": "Menggugat bukan tombol jeda.",
+    "teaches": "Pasal 278 UU 31/1997: gugatan tidak menunda pelaksanaan keputusan TU Angkatan Bersenjata; penundaan dapat dimohonkan dan dikabulkan hanya bila sangat mendesak, dan tidak berlaku bila kepentingan militer mengharuskan pelaksanaan.",
+    "source": {
+      "title": "UU No. 31 Tahun 1997 tentang Peradilan Militer",
+      "reference": "Pasal 278",
+      "url": "https://learning.hukumonline.com/wp-content/uploads/2020/10/UU_NO_31_1997.pdf"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

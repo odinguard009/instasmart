@@ -4,6 +4,7 @@ import type { Card } from '@/content/schema';
 import { accountOf, subTopicName, topicOf, TYPE_LABELS } from '@/content/lookup';
 import { useActions, useStore } from '@/state/store';
 import { AccountAvatar } from './AccountAvatar';
+import { BottomSheet } from './BottomSheet';
 import { DraftBadge } from './DraftBadge';
 import { Icon } from './Icon';
 import { ReportDialog } from './ReportDialog';
@@ -79,27 +80,9 @@ export function PostShell({ card, ribbon, caption, extra, children }: PostShellP
             {topicOf(card)?.shortName} · {subTopicName(card)}
           </p>
         </div>
-        <div className="relative">
-          <button type="button" className="grid h-11 w-11 place-items-center" aria-label="Menu post" aria-expanded={menuOpen} onClick={() => setMenuOpen((open) => !open)}>
-            <Icon name="more" className="h-6 w-6" />
-          </button>
-          {menuOpen && <button type="button" className="fixed inset-0 z-10 cursor-default" aria-label="Tutup menu" onClick={() => setMenuOpen(false)} />}
-          {menuOpen && (
-            <div className="absolute right-2 top-11 z-20 w-56 overflow-hidden rounded-xl border border-line bg-surface text-sm shadow-xl">
-              <p className="border-b border-line px-4 py-2.5 text-xs text-muted">{accountOf(card)?.bio}</p>
-              <button
-                type="button"
-                className="flex h-12 w-full items-center gap-2 px-4 text-left font-semibold text-bad"
-                onClick={() => {
-                  setMenuOpen(false);
-                  setReporting(true);
-                }}
-              >
-                <Icon name="flag" className="h-4 w-4" /> Lapor salah
-              </button>
-            </div>
-          )}
-        </div>
+        <button type="button" className="grid h-11 w-11 place-items-center" aria-label="Menu post" aria-haspopup="dialog" onClick={() => setMenuOpen(true)}>
+          <Icon name="more" className="h-6 w-6" />
+        </button>
       </header>
 
       <div className="relative" onDoubleClick={like}>
@@ -146,6 +129,51 @@ export function PostShell({ card, ribbon, caption, extra, children }: PostShellP
         <DraftBadge card={card} />
         <Comments card={card} />
       </div>
+      {menuOpen && (
+        <BottomSheet title="Menu post" hideTitle onClose={() => setMenuOpen(false)}>
+          <p className="px-5 pb-3 pt-2 text-center text-sm text-muted">
+            <span className="font-semibold text-ink">{card.account}</span> · {accountOf(card)?.bio}
+          </p>
+          <ul className="border-t border-line pb-4 text-[15px]">
+            <li>
+              <button type="button" className="flex h-14 w-full items-center gap-3 px-5 text-left" onClick={() => toggleFavorite(card.id, 'saved')}>
+                <Icon name="bookmark" filled={saved} className="h-6 w-6" /> {saved ? 'Hapus dari simpanan' : 'Simpan'}
+              </button>
+            </li>
+            <li>
+              <button
+                type="button"
+                className="flex h-14 w-full items-center gap-3 px-5 text-left"
+                onClick={() => {
+                  setMenuOpen(false);
+                  void share();
+                }}
+              >
+                <Icon name="share" className="h-6 w-6" /> Bagikan sebagai gambar
+              </button>
+            </li>
+            {card.source.url && (
+              <li>
+                <a className="flex h-14 w-full items-center gap-3 px-5" href={card.source.url} target="_blank" rel="noreferrer">
+                  <Icon name="link" className="h-6 w-6" /> Buka sumber
+                </a>
+              </li>
+            )}
+            <li>
+              <button
+                type="button"
+                className="flex h-14 w-full items-center gap-3 px-5 text-left font-semibold text-bad"
+                onClick={() => {
+                  setMenuOpen(false);
+                  setReporting(true);
+                }}
+              >
+                <Icon name="flag" className="h-6 w-6" /> Lapor salah
+              </button>
+            </li>
+          </ul>
+        </BottomSheet>
+      )}
       {reporting && <ReportDialog card={card} onClose={() => setReporting(false)} />}
     </article>
   );

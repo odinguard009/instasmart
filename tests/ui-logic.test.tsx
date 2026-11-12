@@ -3,7 +3,7 @@ import { describe, expect, it } from 'vitest';
 import { cardSearchText, coverVisual } from '@/cards/coverVisual';
 import { library } from '@/content';
 import type { Scene, Visual } from '@/content/schema';
-import { filterCards } from '@/domain/explore';
+import { activeFilterCount, filterCards, visibleCount } from '@/domain/explore';
 import { initialStoryNav, storyNavReducer, type StoryNavAction } from '@/features/stories/storyNav';
 import { addDays, diffDays, toDateKey } from '@/lib/date';
 import { createRng, shuffle, weightedPick } from '@/lib/rng';
@@ -127,5 +127,19 @@ describe('layoutText dan kata panjang', () => {
     const layout = layoutText('Konsensualisme', { maxWidth: 912, maxLines: 6, sizes: [150, 128, 110, 94, 80] });
     expect(layout.lines).toEqual(['Konsensualisme']);
     expect(layout.fontSize).toBeLessThan(150);
+  });
+});
+
+describe('Jelajah bertahap', () => {
+  it('visibleCount bertambah per halaman dan tidak melebihi total', () => {
+    expect(visibleCount(1, 100, 45)).toBe(45);
+    expect(visibleCount(2, 100, 45)).toBe(90);
+    expect(visibleCount(3, 100, 45)).toBe(100);
+    expect(visibleCount(0, 100, 45)).toBe(45);
+    expect(visibleCount(1, 0, 45)).toBe(0);
+  });
+  it('activeFilterCount menghitung kelompok dan topik', () => {
+    expect(activeFilterCount({ group: null, topicId: null })).toBe(0);
+    expect(activeFilterCount({ group: 'hukum', topicId: 'perdata' })).toBe(2);
   });
 });

@@ -60,7 +60,7 @@ export function BackupSection() {
             </button>
             <button
               type="button"
-              className="h-12 flex-1 rounded-xl bg-bad text-sm font-bold text-white"
+              className="h-12 flex-1 rounded-xl bg-bad text-sm font-bold text-bg"
               onClick={() => {
                 resetAll();
                 setConfirmReset(false);

@@ -20,6 +20,10 @@ const PATHS = {
   layers: 'M12 3 3 8l9 5 9-5zm-9 9 9 5 9-5m-18 4 9 5 9-5',
   shield: 'M12 3 4.5 6v6c0 4.500 3.200 7.800 7.500 9 4.300-1.200 7.500-4.500 7.500-9V6z',
   refresh: 'M4 12a8 8 0 0 1 14-5.300L20 9m0-5v5h-5m5 3a8 8 0 0 1-14 5.300L4 15m0 5v-5h5',
+  link: 'M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1 1M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1-1',
+  sliders: 'M4 6h10m4 0h2M4 12h4m4 0h8M4 18h12m4 0h0M16 4v4M10 10v4M18 16v4',
+  grid: 'M4 4h16v16H4zm0 5.3h16M4 14.7h16M9.3 4v16M14.7 4v16',
+  menu: 'M4 7h16M4 12h16M4 17h16',
 } as const;
 
 export type IconName = keyof typeof PATHS;

@@ -1,26 +1,23 @@
 import { useState } from 'react';
 import type { Card } from '@/content/schema';
 import { useActions } from '@/state/store';
+import { BottomSheet } from './BottomSheet';
 
-/** Dialog "Lapor salah": kartu yang dilaporkan langsung disembunyikan dari feed. */
+/** Lembar "Lapor salah": kartu yang dilaporkan langsung disembunyikan dari feed. */
 export function ReportDialog({ card, onClose }: { card: Card; onClose: () => void }) {
   const [note, setNote] = useState('');
   const { reportCard } = useActions();
   return (
-    <div className="fixed inset-0 z-50 grid place-items-end bg-black/60 sm:place-items-center" role="dialog" aria-modal="true" aria-labelledby="report-title" onClick={onClose}>
+    <BottomSheet title="Lapor salah" onClose={onClose}>
       <form
-        className="w-full max-w-md rounded-t-2xl bg-surface p-5 pb-8 sm:rounded-2xl"
-        onClick={(event) => event.stopPropagation()}
+        className="px-5 pb-6 pt-2"
         onSubmit={(event) => {
           event.preventDefault();
           reportCard(card.id, note);
           onClose();
         }}
       >
-        <h2 id="report-title" className="text-lg font-bold">
-          Lapor salah
-        </h2>
-        <p className="mt-1 text-sm text-muted">
+        <p className="text-sm text-muted">
           Kartu ini akan disembunyikan dari feed dan masuk daftar "Dilaporkan" di halaman Review. Sumber kartu: {card.source.title}, {card.source.reference}.
         </p>
         <label className="mt-4 block text-sm font-semibold" htmlFor="report-note">
@@ -38,11 +35,11 @@ export function ReportDialog({ card, onClose }: { card: Card; onClose: () => voi
           <button type="button" className="h-12 flex-1 rounded-xl bg-raised font-semibold" onClick={onClose}>
             Batal
           </button>
-          <button type="submit" className="h-12 flex-1 rounded-xl bg-bad font-semibold text-white">
+          <button type="submit" className="h-12 flex-1 rounded-xl bg-bad font-semibold text-bg">
             Laporkan
           </button>
         </div>
       </form>
-    </div>
+    </BottomSheet>
   );
 }

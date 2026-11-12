@@ -1944,5 +1944,504 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-rugi-2-tahun",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 231 UU 27/2026, perusahaan tutup karena rugi dapat menjadi alasan PHK jika kerugiannya terus-menerus selama…",
+    "options": [
+      "2 tahun",
+      "1 tahun",
+      "6 bulan",
+      "5 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 237: pekerja berhak atas 1 kali uang pesangon, 1 kali uang penghargaan masa kerja (UPMK), dan uang penggantian hak.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231, 237",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-tutup-permanen",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "PHK karena pemilik memutuskan menutup perusahaan secara permanen. Menurut Pasal 238 UU 27/2026, UPMK yang diterima pekerja sebesar…",
+    "options": [
+      "0,5 kali",
+      "1,5 kali",
+      "2 kali",
+      "1 kali"
+    ],
+    "answerIndex": 1,
+    "explanation": "Uang pesangon 1 kali dan uang penggantian hak tetap diberikan. Bandingkan tutup karena rugi 2 tahun (Pasal 237): UPMK 1 kali.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 238",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-merger-ditolak",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Perusahaan diambil alih dan pemberi kerja yang baru tidak bersedia menerima pekerja. Menurut Pasal 236 ayat (2) UU 27/2026, uang pesangonnya…",
+    "options": [
+      "2 kali",
+      "1 kali",
+      "Tidak ada",
+      "0,5 kali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Jika justru pekerja yang tidak bersedia melanjutkan hubungan kerja, pesangonnya 1 kali (ayat (1)). UPMK 1 kali dan uang penggantian hak berlaku pada keduanya.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 236",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-pailit",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "PHK karena perusahaan pailit atau dalam PKPU. Menurut Pasal 240 UU 27/2026, pekerja berhak atas…",
+    "options": [
+      "Hanya uang penggantian hak dan uang pisah",
+      "Pesangon 2 kali tanpa UPMK",
+      "Pesangon 1x, UPMK 1x, penggantian hak",
+      "Tidak ada hak karena perusahaan pailit"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hak yang sama (1 kali pesangon, 1 kali UPMK, penggantian hak) juga diberikan untuk PHK karena keadaan memaksa (kahar) menurut Pasal 239.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231, 239, 240",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-telat-gaji",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 231 UU 27/2026, pekerja dapat mengajukan permohonan PHK jika pemberi kerja tidak membayar upah tepat waktu selama…",
+    "options": [
+      "1 bulan, cukup sekali terlambat",
+      "12 bulan berturut-turut atau lebih",
+      "2 minggu berturut-turut",
+      "3 bulan berturut-turut atau lebih"
+    ],
+    "answerIndex": 3,
+    "explanation": "Berlaku meskipun sesudah itu upah dibayar tepat waktu. Alasan lain antara lain dianiaya atau diancam, disuruh melanggar hukum, atau diberi pekerjaan berbahaya di luar perjanjian.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-permohonan-pekerja",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Pekerja mengajukan PHK karena pemberi kerja menghina secara kasar dan mengancamnya. Menurut Pasal 241 ayat (1) UU 27/2026, uang pesangonnya…",
+    "options": [
+      "1 kali",
+      "Tidak ada",
+      "0,5 kali",
+      "2 kali"
+    ],
+    "answerIndex": 3,
+    "explanation": "Ditambah UPMK 1 kali dan uang penggantian hak. Jika lembaga PPHI menyatakan pemberi kerja tidak melakukan perbuatan itu, pekerja hanya berhak atas uang penggantian hak dan uang pisah (ayat (2)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231, 241",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-resign-30",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 231 UU 27/2026, pekerja yang mengundurkan diri atas kemauan sendiri harus mengajukan permohonan tertulis paling lambat…",
+    "options": [
+      "7 hari sebelum tanggal mulai mundur",
+      "Pada hari terakhir bekerja",
+      "30 hari sebelum tanggal mulai mundur",
+      "90 hari sebelum tanggal mulai mundur"
+    ],
+    "answerIndex": 2,
+    "explanation": "Syarat lain: tidak terikat ikatan dinas dan tetap melaksanakan kewajiban sampai tanggal mulai mundur.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-resign-hak",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 242 UU 27/2026, pekerja yang mengundurkan diri sesuai syarat berhak atas…",
+    "options": [
+      "Uang penggantian hak dan pisah",
+      "Tidak berhak atas apa pun juga",
+      "Pesangon 2 kali dan UPMK 1 kali",
+      "Pesangon 1 kali dan UPMK 1 kali"
+    ],
+    "answerIndex": 0,
+    "explanation": "PHK karena pengunduran diri dilakukan tanpa penetapan lembaga penyelesaian perselisihan hubungan industrial (ayat (2)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 242",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-mangkir",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 243 UU 27/2026, pekerja dapat dikualifikasikan mengundurkan diri jika mangkir…",
+    "options": [
+      "5 hari kerja beruntun, dipanggil 2 kali",
+      "10 hari kerja tanpa perlu dipanggil dulu",
+      "1 hari kerja tanpa izin atasan",
+      "3 hari kerja dan dipanggil 1 kali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mangkir berarti tanpa keterangan tertulis dengan bukti sah; panggilannya secara patut dan tertulis. Keterangan diserahkan paling lambat hari pertama masuk kerja. Haknya: uang penggantian hak dan uang pisah.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 243",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-sp3",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "PHK karena pelanggaran perjanjian kerja/PP/PKB setelah surat peringatan pertama, kedua, ketiga. Menurut Pasal 231, tiap SP berlaku paling lama…",
+    "options": [
+      "3 bulan, kecuali ditetapkan lain",
+      "1 bulan, tanpa pengecualian",
+      "6 bulan, kecuali ditetapkan lain",
+      "12 bulan, tanpa pengecualian"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pengecualian bisa ditetapkan dalam perjanjian kerja, peraturan perusahaan, atau PKB. Pasal 244: haknya 1 kali pesangon, 1 kali UPMK, dan uang penggantian hak.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231, 244",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-ditahan-bantuan",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Pekerja ditahan karena diduga melakukan tindak pidana. Menurut Pasal 245 UU 27/2026, pemberi kerja…",
+    "options": [
+      "Langsung boleh mem-PHK tanpa hak apa pun",
+      "Tak wajib upah, wajib bantu keluarga",
+      "Wajib menanggung biaya pengacaranya",
+      "Wajib membayar upah penuh selama ditahan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bantuan untuk tanggungan bertingkat dari 25% (1 orang) sampai 50% upah (4 orang atau lebih), paling lama 6 bulan sejak hari pertama ditahan.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 245 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-ditahan-bebas",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Pengadilan memutus sebelum 6 bulan dan pekerja yang ditahan dinyatakan tidak bersalah. Menurut Pasal 245 ayat (5), pemberi kerja…",
+    "options": [
+      "Wajib mempekerjakannya kembali",
+      "Wajib memindahkannya ke cabang lain",
+      "Boleh memilih menerima atau tidak",
+      "Boleh mem-PHK dengan uang pisah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Jika dinyatakan bersalah sebelum 6 bulan, pemberi kerja dapat mem-PHK dengan uang penggantian hak dan uang pisah (ayat (6)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 245 ayat (5)-(6)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-sakit-12",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Pekerja sakit berkepanjangan akibat kecelakaan kerja dan tidak dapat bekerja lewat 12 bulan, lalu mengajukan PHK. Menurut Pasal 246, UPMK-nya…",
+    "options": [
+      "Tidak ada",
+      "1 kali",
+      "1,5 kali",
+      "2 kali"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 246: uang pesangon 2 kali, UPMK 2 kali, dan uang penggantian hak.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231, 246",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-pensiun",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 247 UU 27/2026, PHK karena pekerja memasuki usia pensiun memberi hak atas uang pesangon sebesar…",
+    "options": [
+      "2 kali",
+      "0,5 kali",
+      "1 kali",
+      "1,5 kali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ditambah UPMK 1 kali dan uang penggantian hak. Pasal 248: iuran program pensiun yang dibayar penuh pemberi kerja dapat diperhitungkan; bila manfaatnya lebih kecil, selisihnya dibayar pemberi kerja.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 247-248",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-meninggal",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Hubungan kerja berakhir karena pekerja meninggal dunia. Menurut Pasal 249 UU 27/2026, ahli warisnya menerima uang setara…",
+    "options": [
+      "Tidak ada, karena bukan PHK",
+      "1 kali pesangon dan 1 kali UPMK saja",
+      "2x pesangon, 1x UPMK, ganti hak",
+      "Hanya uang penggantian hak dan pisah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Perhitungannya mengikuti Pasal 232 ayat (2), (3), dan (4).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231, 249",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-komponen-upah",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 234 ayat (1) UU 27/2026, komponen upah dasar perhitungan pesangon dan UPMK terdiri atas…",
+    "options": [
+      "Seluruh penghasilan termasuk insentif",
+      "Upah pokok saja",
+      "Upah pokok dan tunjangan tetap",
+      "Upah pokok, lembur, dan bonus"
+    ],
+    "answerIndex": 2,
+    "explanation": "Upah harian: upah sebulan = 30 x upah sehari. Upah satuan hasil: rata-rata 12 bulan terakhir; bila lebih rendah dari upah minimum, dipakai upah minimum di domisili perusahaan.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 234",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-skorsing",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Selama proses PHK, menurut Pasal 235 ayat (2) UU 27/2026, pemberi kerja dapat menskors pekerja dengan syarat…",
+    "options": [
+      "Tetap membayar upah dan hak lain",
+      "Hanya membayar uang makan harian",
+      "Tanpa upah sampai ada putusan",
+      "Upah dipotong separuh selama skors"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ayat (1): selama penyelesaian perselisihan, kedua pihak tetap melaksanakan kewajibannya sampai ada putusan berkekuatan hukum tetap (ayat (3)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 235",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-usaha-mikro",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 250 UU 27/2026, besaran pesangon, UPMK, uang penggantian hak, dan/atau uang pisah pada usaha mikro dan kecil ditentukan…",
+    "options": [
+      "Berdasarkan kesepakatan para pihak",
+      "Bebas oleh pemberi kerja sendiri",
+      "Sama persis dengan tabel Pasal 232 UU",
+      "Oleh pemerintah daerah setempat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kewajiban membayarnya tetap ada; yang diserahkan pada kesepakatan adalah besarannya.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 250",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-humor-tutup-tapi-buka",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Tutup permanen",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Bos: perusahaan tutup permanen. Kalian di-PHK."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Buruh: Pasal 238, UPMK 1,5 kali. Siap dibayar?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Bos: eh... tutupnya sementara saja deh."
+        },
+        {
+          "character": "gecko",
+          "expression": "smug",
+          "text": "Buruh: tutup kok bisa diskon."
+        }
+      ]
+    },
+    "caption": "Alasan PHK menentukan isi amplop. Jadi alasannya jangan diganti-ganti seperti status media sosial.",
+    "teaches": "Pasal 231 dan 238 UU 27/2026: PHK karena pemilik menutup perusahaan secara permanen memberi hak 1 kali pesangon, 1,5 kali UPMK, dan uang penggantian hak. Tiap alasan PHK punya faktor pengali sendiri (Pasal 232 ayat (1)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 231, 232 ayat (1), 238",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27b-humor-mangkir-5",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Bolos 5 hari, HP mati, tanpa kabar",
+      "bottom": "HRD: dipanggil 2 kali. Pasal 243: bisa dianggap resign.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Menghilang tanpa jejak itu cocok untuk ninja, bukan untuk pekerja.",
+    "teaches": "Pasal 243 UU 27/2026: mangkir 5 hari kerja atau lebih berturut-turut tanpa keterangan tertulis dengan bukti sah, setelah dipanggil 2 kali secara patut dan tertulis, dapat dikualifikasikan mengundurkan diri.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 243",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

@@ -434,3 +434,206 @@ Penjelasan ayat (2):
 
 > Undang-Undang ini mulai berlaku pada tanggal diundangkan.  
 > Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+## Tambahan: alasan dan hak akibat PHK (diambil dari halaman yang sama pada 12 November 2026)
+
+> Butir huruf Pasal 231 tidak ikut di salinan; urutannya a sampai o sesuai urutan butir di bawah (rujukan huruf e, f, g, i, j, k, l, m, n, o di Pasal 240-249 cocok dengan urutan ini).
+
+## Pasal 231
+
+> Pemutusan Hubungan Kerja dapat terjadi karena alasan:  
+> Perusahaan melakukan penggabungan, peleburan, pengambilalihan, atau pemisahan Perusahaan dan Pekerja/Buruh tidak bersedia melanjutkan Hubungan Kerja atau Pemberi Kerja tidak bersedia menerima Pekerja/Buruh;  
+> Perusahaan tutup yang disebabkan karena Perusahaan mengalami kerugian secara terus-menerus selama 2 (dua) tahun;  
+> Perusahaan tutup disebabkan keputusan pemilik untuk tutup permanen;  
+> adanya keadaan memaksa (kahar);  
+> Perusahaan dalam keadaan penundaan kewajiban pembayaran utang;  
+> Perusahaan pailit;  
+> adanya permohonan Pemutusan Hubungan Kerja yang diajukan oleh Pekerja/Buruh dengan alasan Pemberi Kerja melakukan perbuatan sebagai berikut:  
+> (1)  
+> menganiaya, menghina secara kasar, atau mengancam Pekerja/Buruh;  
+> (2)  
+> membujuk dan/atau menyuruh Pekerja/Buruh untuk melakukan perbuatan yang bertentangan dengan peraturan perundang-undangan;  
+> (3)  
+> tidak membayar Upah tepat pada waktu yang telah ditentukan selama 3 (tiga) bulan berturut-turut atau lebih, meskipun Pemberi Kerja membayar Upah secara tepat waktu sesudah itu;  
+> (4)  
+> tidak melakukan kewajiban yang telah dijanjikan kepada Pekerja/Buruh;  
+> (5)  
+> memerintahkan Pekerja/Buruh untuk melaksanakan pekerjaan di luar yang diperjanjikan; atau  
+> (6)  
+> memberikan pekerjaan yang membahayakan jiwa, keselamatan, kesehatan, dan kesusilaan Pekerja/Buruh sedangkan pekerjaan tersebut tidak dicantumkan pada Perjanjian Kerja;  
+> adanya putusan lembaga penyelesaian Perselisihan Hubungan Industrial yang menyatakan Pemberi Kerja tidak melakukan perbuatan sebagaimana dimaksud dalam huruf g terhadap permohonan yang diajukan oleh Pekerja/Buruh dan Pemberi Kerja memutuskan untuk melakukan Pemutusan Hubungan Kerja;  
+> Pekerja/Buruh mengundurkan diri atas kemauan sendiri dan harus memenuhi syarat:  
+> (1)  
+> mengajukan permohonan pengunduran diri secara tertulis paling lambat 30 (tiga puluh) hari sebelum tanggal mulai pengunduran diri;  
+> (2)  
+> tidak terikat dalam ikatan dinas; dan  
+> (3)  
+> tetap melaksanakan kewajibannya sampai tanggal mulai pengunduran diri;  
+> Pekerja/Buruh mangkir selama 5 (lima) hari kerja atau lebih berturut-turut tanpa keterangan secara tertulis yang dilengkapi dengan bukti yang sah dan telah dipanggil oleh Pemberi Kerja 2 (dua) kali secara patut dan tertulis;  
+> Pekerja/Buruh melakukan pelanggaran ketentuan yang diatur dalam Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama dan sebelumnya telah diberikan surat peringatan pertama, kedua, dan ketiga secara berturut-turut masing-masing berlaku untuk paling lama 6 (enam) bulan kecuali ditetapkan lain dalam Perjanjian Kerja, Peraturan Perusahaan, atau Perjanjian Kerja Bersama;  
+> Pekerja/Buruh tidak dapat melakukan pekerjaan selama 6 (enam) bulan akibat ditahan pihak yang berwajib karena diduga melakukan tindak pidana;  
+> Pekerja/Buruh mengalami sakit berkepanjangan atau disabilitas tetap akibat kecelakaan kerja dan tidak dapat melakukan pekerjaannya setelah melampaui batas 12 (dua belas) bulan;  
+> Pekerja/Buruh memasuki usia pensiun; atau  
+> Pekerja/Buruh meninggal dunia.  
+
+## Pasal 234
+
+> (1)  
+> Komponen Upah yang digunakan sebagai dasar perhitungan uang pesangon dan uang penghargaan masa kerja terdiri atas:  
+> Upah pokok; dan  
+> tunjangan tetap yang diberikan kepada Pekerja/Buruh dan keluarganya.  
+> (2)  
+> Dalam hal penghasilan Pekerja/Buruh dibayarkan atas dasar perhitungan harian, Upah sebulan sama dengan 30 (tiga puluh) dikalikan Upah 1 (satu) Hari.  
+> (3)  
+> Dalam hal Upah Pekerja/Buruh dibayarkan atas dasar perhitungan satuan hasil, Upah sebulan sama dengan penghasilan rata-rata dalam 12 (dua belas) bulan terakhir.  
+> (4)  
+> Dalam hal Upah sebulan sebagaimana dimaksud pada ayat (3) lebih rendah dari Upah minimum, Upah yang menjadi dasar perhitungan pesangon adalah Upah minimum yang berlaku di wilayah domisili Perusahaan.  
+
+## Pasal 235
+
+> (1)  
+> Selama penyelesaian Perselisihan Hubungan Industrial, Pemberi Kerja dan Pekerja/Buruh harus tetap melaksanakan kewajibannya.  
+> (2)  
+> Pemberi Kerja dapat melakukan tindakan skors kepada Pekerja/Buruh yang sedang dalam proses Pemutusan Hubungan Kerja dengan tetap membayar Upah beserta hak lainnya yang biasa diterima Pekerja/Buruh.  
+> (3)  
+> Pelaksanaan kewajiban sebagaimana dimaksud pada ayat (1) dilakukan sampai berakhirnya proses penyelesaian Perselisihan Hubungan Industrial yang berkekuatan hukum tetap sesuai dengan ketentuan dalam undang-undang mengenai penyelesaian Perselisihan Hubungan Industrial.  
+
+## Pasal 236
+
+> (1)  
+> Pemberi Kerja yang melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh dalam hal terjadi penggabungan, peleburan, pengambilalihan, atau pemisahan Perusahaan sebagaimana dimaksud dalam Pasal 231 huruf a, dan Pekerja/Buruh tidak bersedia melanjutkan Hubungan Kerja maka Pekerja/Buruh berhak atas:  
+> uang pesangon sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+> (2)  
+> Pemberi Kerja dapat melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena penggabungan, peleburan, pengambilalihan, atau pemisahan Perusahaan dan Pemberi Kerja tidak bersedia menerima Pekerja/Buruh di Perusahaannya maka Pekerja/Buruh berhak atas:  
+> uang pesangon sebesar 2 (dua) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 237
+
+> Pemberi Kerja dapat melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena alasan Perusahaan tutup yang disebabkan Perusahaan mengalami kerugian secara terus menerus selama 2 (dua) tahun maka Pekerja/Buruh berhak atas:  
+> uang pesangon sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 238
+
+> Pemberi Kerja dapat melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena alasan Perusahaan tutup disebabkan keputusan pemilik untuk tutup permanen maka Pekerja/Buruh berhak atas:  
+> uang pesangon sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja sebesar 1,5 (satu koma lima) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 239
+
+> Pengusaha dapat melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena alasan keadaan memaksa (kahar) maka Pekerja/Buruh berhak atas:  
+> uang pesangon sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 240
+
+> Pemberi Kerja yang melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena Perusahaan dalam keadaan penundaan kewajiban pembayaran utang atau pailit sebagaimana dimaksud dalam Pasal 231 huruf e dan huruf f, Pekerja/Buruh berhak atas:  
+> uang pesangon sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 241
+
+> (1)  
+> Pemberi Kerja yang melakukan perbuatan sebagaimana dimaksud dalam Pasal 231 huruf g yang menyebabkan Pekerja/Buruh mengajukan permohonan Pemutusan Hubungan Kerja, Pekerja/Buruh berhak atas:  
+> uang pesangon 2 (dua) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+> (2)  
+> Dalam hal Pemberi Kerja dinyatakan tidak melakukan perbuatan sebagaimana dimaksud dalam Pasal 231 huruf g oleh lembaga penyelesaian Perselisihan Hubungan Industrial maka Pemberi Kerja dapat melakukan Pemutusan Hubungan Kerja tanpa perjanjian bersama atau putusan lembaga penyelesaian Perselisihan Hubungan Industrial dan Pekerja/Buruh yang bersangkutan tidak berhak atas uang pesangon sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2) dan uang penghargaan masa kerja sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3) namun berhak atas:  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4); dan  
+> uang pisah yang besarannya sebagaimana diatur dalam Pasal 233 ayat (2) atau ayat (3).  
+
+## Pasal 242
+
+> (1)  
+> Pekerja/Buruh yang mengundurkan diri atas kemauan sendiri dan memenuhi syarat sebagaimana dimaksud dalam Pasal 231 huruf i, berhak atas:  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4); dan  
+> uang pisah yang besarannya sebagaimana diatur dalam Pasal 233 ayat (2) atau ayat (3).  
+> (2)  
+> Pemutusan Hubungan Kerja dengan alasan pengunduran diri atas kemauan sendiri sebagaimana dimaksud dalam Pasal 231 huruf i dilakukan tanpa penetapan lembaga penyelesaian Perselisihan Hubungan Industrial.  
+
+## Pasal 243
+
+> (1)  
+> Pekerja/Buruh yang mangkir selama 5 (lima) hari kerja atau lebih berturut-turut tanpa keterangan secara tertulis yang dilengkapi dengan bukti yang sah dan telah dipanggil oleh Pengusaha 2 (dua) kali secara patut dan tertulis sebagaimana dimaksud dalam Pasal 231 huruf j dapat diputus hubungan kerjanya karena dikualifikasikan mengundurkan diri.  
+> (2)  
+> Keterangan tertulis dengan bukti yang sah sebagaimana dimaksud pada ayat (1) harus diserahkan paling lambat pada hari pertama Pekerja/Buruh masuk bekerja.  
+> (3)  
+> Pemutusan Hubungan Kerja sebagaimana dimaksud pada ayat (1) maka Pekerja/Buruh yang bersangkutan berhak menerima:  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4); dan  
+> uang pisah yang besarannya sebagaimana diatur dalam Pasal 233 ayat (2) atau ayat (3).  
+
+## Pasal 244
+
+> Pekerja/Buruh yang mengalami Pemutusan Hubungan Kerja dengan alasan melakukan pelanggaran ketentuan sebagaimana dimaksud dalam Pasal 231 huruf k, berhak atas:  
+> uang pesangon sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja sebesar 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 245
+
+> (1)  
+> Dalam hal Pekerja/Buruh ditahan pihak yang berwajib karena diduga melakukan tindak pidana sebagaimana dimaksud dalam Pasal 231 huruf l, Pemberi Kerja tidak wajib membayar Upah, tetapi wajib memberikan bantuan kepada keluarga Pekerja/Buruh yang menjadi tanggungannya dengan ketentuan sebagai berikut:  
+> untuk 1 (satu) orang tanggungan, 25% (dua puluh lima persen) dari Upah;  
+> untuk 2 (dua) orang tanggungan, 35% (tiga puluh lima persen) dari Upah;  
+> untuk 3 (tiga) orang tanggungan, 45% (empat puluh lima persen) dari Upah; atau  
+> untuk 4 (empat) orang tanggungan atau lebih, 50% (lima puluh persen) dari Upah.  
+> (2)  
+> Bantuan sebagaimana dimaksud pada ayat (1) diberikan untuk paling lama 6 (enam) bulan terhitung sejak hari pertama Pekerja/Buruh ditahan oleh pihak yang berwajib.  
+> (3)  
+> Pemberi Kerja dapat melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena alasan Pekerja/Buruh tidak dapat melakukan pekerjaan selama 6 (enam) bulan akibat ditahan pihak yang berwajib karena diduga melakukan tindak pidana sebagaimana dimaksud pada ayat (1) yang menyebabkan kerugian perusahaan maka Pekerja/Buruh berhak atas:  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4); dan  
+> uang pisah yang besarannya sebagaimana diatur dalam Pasal 233 ayat (2) atau ayat (3).  
+> (4)  
+> Pemberi Kerja dapat melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena alasan Pekerja/Buruh tidak dapat melakukan pekerjaan selama 6 (enam) bulan akibat ditahan pihak yang berwajib karena diduga melakukan tindak pidana sebagaimana dimaksud pada ayat (1) yang tidak menyebabkan kerugian Perusahaan maka Pekerja/Buruh berhak atas:  
+> uang penghargaan masa kerja 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+> (5)  
+> Dalam hal pengadilan memutuskan perkara pidana sebelum masa 6 (enam) bulan sebagaimana dimaksud pada ayat (3) dan ayat (4) berakhir dan Pekerja/Buruh dinyatakan tidak bersalah, Pemberi Kerja wajib mempekerjakan Pekerja/Buruh kembali.  
+> (6)  
+> Dalam hal pengadilan memutuskan perkara pidana sebagaimana dimaksud pada ayat (3) sebelum masa 6 (enam) bulan berakhir dan Pekerja/Buruh dinyatakan bersalah, Pemberi Kerja dapat melakukan Pemutusan Hubungan Kerja kepada Pekerja/Buruh yang bersangkutan dan Pekerja/Buruh berhak atas:  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4); dan  
+> uang pisah yang besarannya sebagaimana diatur dalam Pasal 233 ayat (2) atau ayat (3).  
+> (7)  
+> Pemberi Kerja yang melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena Pekerja/Buruh yang ditahan sebagaimana dimaksud dalam Pasal 231 huruf l dan ayat (4), Pekerja/Buruh berhak atas:  
+> uang penghargaan masa kerja 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+> (8)  
+> Pemberi Kerja yang tidak memberikan bantuan kepada keluarga Pekerja/Buruh sebagaimana dimaksud pada ayat (1) dan ayat (2), dikenai sanksi administratif berupa:  
+> peringatan tertulis; dan/atau  
+> denda administratif.  
+> (9)  
+> Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (8) diatur dengan Peraturan Pemerintah.  
+
+## Pasal 246
+
+> Pekerja/Buruh yang mengalami sakit berkepanjangan atau disabilitas akibat kecelakaan kerja dan tidak dapat melakukan pekerjaannya setelah melampaui batas 12 (dua belas) bulan sebagaimana dimaksud dalam Pasal 231 huruf m dapat mengajukan Pemutusan Hubungan Kerja dan diberikan:  
+> uang pesangon 2 (dua) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja 2 (dua) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang pengganti hak 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 247
+
+> Pemberi Kerja dapat melakukan Pemutusan Hubungan Kerja terhadap Pekerja/Buruh karena alasan Pekerja/Buruh memasuki usia pensiun sebagaimana dimaksud dalam Pasal 231 huruf n maka Pekerja/Buruh berhak atas:  
+> uang pesangon sebesar 2 (dua) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> uang penghargaan masa kerja 1 (satu) kali sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 249
+
+> Dalam hal Hubungan Kerja berakhir karena Pekerja/Buruh meninggal dunia sebagaimana dimaksud dalam Pasal 231 huruf o, kepada ahli warisnya diberikan sejumlah uang yang besar perhitungannya sama dengan perhitungan:  
+> 2 (dua) kali uang pesangon sebagaimana dimaksud dalam Pasal 232 ayat (2);  
+> 1 (satu) kali uang penghargaan masa kerja sebagaimana dimaksud dalam Pasal 232 ayat (3); dan  
+> uang penggantian hak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 232 ayat (4).  
+
+## Pasal 250
+
+> Pemberi Kerja pada usaha mikro dan usaha kecil wajib membayar uang pesangon, uang penghargaan masa kerja, uang penggantian hak, dan/atau uang pisah bagi Pekerja/Buruh yang mengalami Pemutusan Hubungan Kerja dengan besaran ditentukan berdasarkan kesepakatan antara Pemberi Kerja pada usaha mikro dan usaha kecil dengan Pekerja/Buruh.  

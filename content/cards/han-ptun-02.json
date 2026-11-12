@@ -1737,5 +1737,619 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-maladmin",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Perilaku melawan hukum, melampaui wewenang, memakai wewenang untuk tujuan lain, termasuk kelalaian kewajiban hukum dalam pelayanan publik yang menimbulkan kerugian disebut…",
+    "options": [
+      "Detournement de pouvoir semata",
+      "Wanprestasi",
+      "Maladministrasi",
+      "Diskresi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 3 UU 37/2008. Kerugiannya bisa materiil dan/atau immateriil bagi masyarakat dan orang perseorangan.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 1 angka 3",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-lingkup",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Ombudsman mengawasi pelayanan publik yang diselenggarakan oleh…",
+    "options": [
+      "Hanya pemerintah daerah provinsi dan kabupaten/kota beserta seluruh perangkat daerahnya",
+      "Hanya kementerian dan lembaga pemerintah pusat, tidak termasuk badan usaha",
+      "Penyelenggara negara, BUMN/BUMD/BHMN, serta swasta yang diberi tugas pelayanan publik",
+      "Hanya lembaga peradilan dan kejaksaan di seluruh tingkatan wilayah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 1 dan Pasal 6. Badan swasta/perseorangan termasuk bila diberi tugas menyelenggarakan pelayanan publik tertentu.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 1 angka 1 dan Pasal 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-mandiri",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 2, Ombudsman adalah lembaga negara yang…",
+    "options": [
+      "Merupakan bagian dari kekuasaan Mahkamah Agung",
+      "Mandiri, tanpa hubungan organik dengan lembaga lain",
+      "Bertanggung jawab langsung kepada Kejaksaan Agung",
+      "Berada di bawah koordinasi Kementerian Dalam Negeri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 2: bersifat mandiri, tidak memiliki hubungan organik dengan lembaga negara dan instansi pemerintahan lainnya, serta bebas dari campur tangan kekuasaan lainnya.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 2",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-asas",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Manakah yang BUKAN asas Ombudsman menurut Pasal 3?",
+    "options": [
+      "Kemanfaatan ekonomi",
+      "Tidak memihak (imparsial)",
+      "Non-diskriminasi",
+      "Kerahasiaan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 3: kepatutan, keadilan, non-diskriminasi, tidak memihak, akuntabilitas, keseimbangan, keterbukaan, dan kerahasiaan.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 3",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-prakarsa",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Tanpa menunggu laporan, Ombudsman melihat dugaan maladministrasi yang meluas. Menurut Pasal 7 huruf d, Ombudsman…",
+    "options": [
+      "Dapat menginvestigasi atas prakarsa sendiri",
+      "Wajib meminta izin tertulis Presiden lebih dulu",
+      "Hanya boleh memberi imbauan umum melalui media",
+      "Harus menunggu laporan tertulis dari para korban"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 7 huruf d: tugas Ombudsman termasuk investigasi atas prakarsa sendiri terhadap dugaan maladministrasi.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 7 huruf d",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-rekomendasi-ganti-rugi",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 8 ayat (1) huruf f, Rekomendasi Ombudsman mengenai penyelesaian Laporan dapat mencakup…",
+    "options": [
+      "Pembubaran instansi yang dilaporkan pelapor",
+      "Pembatalan putusan pengadilan negeri",
+      "Pembayaran ganti rugi dan/atau rehabilitasi",
+      "Penjatuhan pidana penjara kepada Terlapor"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 8 ayat (1) huruf f. Ombudsman juga berwenang menyelesaikan laporan melalui mediasi dan konsiliasi atas permintaan para pihak (huruf e).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 8 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-hakim",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Dalam melaksanakan kewenangannya, Ombudsman DILARANG…",
+    "options": [
+      "Melakukan pemeriksaan lapangan ke kantor Terlapor",
+      "Mengumumkan rekomendasi demi kepentingan umum",
+      "Memanggil Terlapor secara tertulis untuk dimintai keterangan",
+      "Mencampuri kebebasan hakim dalam memberikan putusan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 9. Tetapi maladministrasi dalam proses pemeriksaan di pengadilan tetap dapat dilaporkan (lihat pengecualian Pasal 36 ayat (1) huruf b).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 9 dan 36 ayat (1) huruf b",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-imunitas",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 10, dalam rangka pelaksanaan tugas dan wewenangnya Ombudsman…",
+    "options": [
+      "Tidak dapat ditangkap, ditahan, dituntut, atau digugat",
+      "Kebal hukum dalam semua urusan pribadinya",
+      "Wajib meminta persetujuan DPR sebelum bertindak apa pun",
+      "Dapat digugat perdata oleh Terlapor yang merasa dirugikan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 10. Kekebalannya terkait pelaksanaan tugas dan wewenang, bukan urusan pribadi.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-susunan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 11, Ombudsman terdiri atas…",
+    "options": [
+      "1 Ketua, 2 Wakil Ketua, dan 6 anggota",
+      "1 Ketua, 1 Wakil Ketua, dan 7 anggota",
+      "1 Ketua dan 4 anggota",
+      "1 Ketua, 1 Wakil Ketua, dan 9 anggota"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 11 ayat (1). Totalnya 9 orang; DPR memilih dan menetapkan 9 calon dari 18 nama yang diajukan Presiden (Pasal 16).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 11 dan 16",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-dipilih",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Ketua, Wakil Ketua, dan anggota Ombudsman dipilih oleh…",
+    "options": [
+      "Rapat paripurna MPR",
+      "Mahkamah Agung dari kalangan hakim karier",
+      "Presiden berdasarkan calon yang diusulkan DPR",
+      "DPR berdasarkan calon yang diusulkan Presiden"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 14. Presiden membentuk panitia seleksi lebih dulu (Pasal 15).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 14",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-usia",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Syarat usia untuk diangkat menjadi anggota Ombudsman menurut Pasal 19 adalah…",
+    "options": [
+      "Paling rendah 30 tahun, paling tinggi 55 tahun",
+      "Paling rendah 45 tahun, tanpa batas atas",
+      "Paling rendah 35 tahun, paling tinggi 65 tahun",
+      "Paling rendah 40 tahun, paling tinggi 60 tahun"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 19 huruf e. Syarat lain antara lain sarjana hukum atau bidang lain dengan pengalaman sekurang-kurangnya 15 tahun dan tidak menjadi pengurus partai politik.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 19",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-rangkap",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Anggota Ombudsman dilarang merangkap menjadi…",
+    "options": [
+      "Anggota biasa organisasi keagamaan",
+      "Penulis buku hukum populer",
+      "Pegawai negeri atau pengusaha",
+      "Anggota koperasi warga"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20: dilarang merangkap pejabat negara/penyelenggara negara, pengusaha, pengurus/karyawan BUMN/BUMD, pegawai negeri, pengurus partai politik, atau profesi lainnya.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 20",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-gratis",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Penyampaian Laporan kepada Ombudsman…",
+    "options": [
+      "Tidak dipungut biaya atau imbalan apa pun",
+      "Wajib bermeterai dan dilegalisasi notaris",
+      "Hanya dapat diajukan melalui advokat",
+      "Dikenai biaya pendaftaran sesuai tarif PNBP"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 23: setiap WNI atau penduduk berhak melapor (ayat (1)) dan tidak dipungut biaya atau imbalan apa pun (ayat (2)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 23",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-syarat-lapor",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Salah satu syarat Laporan ke Ombudsman menurut Pasal 24 ayat (1) huruf c adalah pelapor…",
+    "options": [
+      "Mendapat surat rekomendasi tertulis dari pimpinan DPRD setempat",
+      "Mengumpulkan tanda tangan sekurang-kurangnya 100 orang",
+      "Sudah menggugat ke pengadilan dan kalah di tingkat pertama",
+      "Sudah melapor ke Terlapor/atasannya tetapi tidak diselesaikan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 24 ayat (1) huruf c. Jika belum pernah menyampaikan keberatan ke pihak yang dilaporkan, Laporan ditolak (Pasal 36 ayat (1) huruf a).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 24 ayat (1) huruf c",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-2-tahun",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Peristiwa atau keputusan yang dilaporkan ke Ombudsman menurut Pasal 24 ayat (3) belum lewat…",
+    "options": [
+      "90 hari sejak terjadi",
+      "2 tahun sejak terjadi",
+      "5 tahun sejak terjadi",
+      "30 hari sejak terjadi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 24 ayat (3) UU Ombudsman: 2 tahun. Jangan tertukar dengan pengaduan pelayanan publik menurut Pasal 42 ayat (2) UU 25/2009, yaitu 30 hari sejak menerima pelayanan.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 24 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-lengkapi",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Ombudsman memberitahukan bahwa Laporan kurang lengkap. Pelapor tidak melengkapinya dalam 30 hari. Akibatnya…",
+    "options": [
+      "Laporan otomatis diteruskan ke DPR",
+      "Laporan diperiksa apa adanya",
+      "Pelapor dianggap mencabut Laporannya",
+      "Ombudsman wajib melengkapinya sendiri"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 25 ayat (3)-(4).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 25",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-tolak-pengadilan",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Substansi Laporan sedang diperiksa pengadilan. Menurut Pasal 36 ayat (1) huruf b, Ombudsman menolak Laporan, KECUALI…",
+    "options": [
+      "Pelapor menyatakan tidak puas dengan hakim yang memeriksanya",
+      "Nilai perkaranya di atas satu miliar rupiah menurut surat gugatan",
+      "Terlapor tidak hadir dalam sidang pertama tanpa alasan sah",
+      "Laporannya tentang maladministrasi dalam proses di pengadilan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 36 ayat (1) huruf b. Ombudsman tetap dilarang mencampuri kebebasan hakim dalam memberikan putusan (Pasal 9).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 36 ayat (1) huruf b",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-hasil",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Hasil pemeriksaan Ombudsman menurut Pasal 35 dapat berupa…",
+    "options": [
+      "Pembatalan atau pengesahan keputusan tata usaha negara",
+      "Menolak Laporan, atau menerimanya dan memberi Rekomendasi",
+      "Penetapan tersangka atau penghentian penyidikan perkara",
+      "Putusan pidana atau putusan perdata yang berkekuatan tetap"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 35. Rekomendasi diberikan bila ditemukan maladministrasi (Pasal 37 ayat (1)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 35 dan 37",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-wajib-laksana",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Menurut Pasal 38 ayat (1), Rekomendasi Ombudsman…",
+    "options": [
+      "Baru mengikat setelah disahkan oleh pengadilan negeri",
+      "Hanya mengikat bila disetujui sendiri oleh Terlapor",
+      "Hanya saran moral yang boleh diabaikan instansi",
+      "Wajib dilaksanakan Terlapor dan atasan Terlapor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 38 ayat (1). Atasan Terlapor wajib melaporkan pelaksanaannya paling lambat 60 hari sejak menerima Rekomendasi (ayat (2)); pelanggaran dikenai sanksi administrasi (Pasal 39).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 38-39",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-publikasi",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Terlapor dan atasannya tidak melaksanakan Rekomendasi tanpa alasan yang dapat diterima. Menurut Pasal 38 ayat (4), Ombudsman dapat…",
+    "options": [
+      "Mencabut sendiri keputusan tata usaha yang dibuat oleh Terlapor",
+      "Membekukan seluruh anggaran instansi Terlapor untuk tahun berjalan",
+      "Menahan Terlapor paling lama 20 hari di rumah tahanan negara",
+      "Mempublikasikan atasan Terlapor dan melapor ke DPR serta Presiden"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 38 ayat (4). Selain itu, pelanggaran kewajiban melaksanakan Rekomendasi dikenai sanksi administrasi (Pasal 39).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 38 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-konflik",
+    "type": "quiz",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "question": "Seorang anggota Ombudsman diminta ikut memeriksa laporan yang menyangkut perusahaan milik iparnya. Menurut Pasal 40, ia…",
+    "options": [
+      "Wajib memimpin pemeriksaan agar objektif",
+      "Boleh ikut memeriksa bila Ketua menyetujui",
+      "Boleh ikut asal mengumumkan hubungannya ke publik",
+      "Dilarang turut serta memeriksa laporan itu"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 40: dilarang turut serta memeriksa laporan atau informasi yang mengandung atau dapat menimbulkan konflik kepentingan dengan dirinya.",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 40",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-humor-lapor-ke-mana",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "visual": {
+      "template": "comic",
+      "title": "Calo lintas sektor",
+      "panels": [
+        {
+          "character": "gecko",
+          "expression": "sad",
+          "text": "Izin saya digantung setahun. Lapor ke mana ya?"
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Ke Ombudsman. Tapi bayar 'biaya antrean' dulu."
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Pasal 23: lapor ke Ombudsman tidak dipungut biaya apa pun."
+        },
+        {
+          "character": "kancil",
+          "expression": "shock",
+          "text": "Wah, calo pun butuh reformasi birokrasi."
+        }
+      ]
+    },
+    "caption": "Satu-satunya biaya melapor ke Ombudsman: waktu Anda menulis kronologi.",
+    "teaches": "Setiap WNI atau penduduk berhak menyampaikan Laporan kepada Ombudsman, dan penyampaiannya tidak dipungut biaya atau imbalan dalam bentuk apa pun (Pasal 23 ayat (1)-(2)).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 23",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-humor-rekomendasi",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "visual": {
+      "template": "meme",
+      "top": "Rekomendasi Ombudsman: 'wajib dilaksanakan'",
+      "bottom": "Instansi: 'Kami anggap sebagai masukan yang berharga.'",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Masukan berharga yang ternyata diatur sebagai kewajiban.",
+    "teaches": "Terlapor dan atasan Terlapor wajib melaksanakan Rekomendasi Ombudsman (Pasal 38 ayat (1)); yang tidak melaksanakan dapat dipublikasikan dan dilaporkan ke DPR dan Presiden (ayat (4)) serta dikenai sanksi administrasi (Pasal 39).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 38-39",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "han-ptun-ombud-humor-lompat",
+    "type": "humor",
+    "topicId": "han-ptun",
+    "subTopicId": "aupb-wewenang",
+    "account": "ktun.final",
+    "visual": {
+      "template": "comic",
+      "title": "Jalur yang benar",
+      "panels": [
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Laporan Anda soal loket kelurahan kami terima."
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Saya belum ngomong ke lurahnya sih. Langsung ke sini."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Sampaikan dulu ke Terlapor atau atasannya."
+        },
+        {
+          "character": "gecko",
+          "expression": "shock",
+          "text": "Jadi birokrasi pun punya antrean birokrasi."
+        }
+      ]
+    },
+    "caption": "Bahkan mengeluhkan birokrasi ada urutannya.",
+    "teaches": "Laporan ke Ombudsman mensyaratkan pelapor sudah menyampaikan laporan langsung kepada Terlapor atau atasannya tetapi tidak diselesaikan sebagaimana mestinya (Pasal 24 ayat (1) huruf c); jika belum, Laporan ditolak (Pasal 36 ayat (1) huruf a).",
+    "source": {
+      "title": "UU No. 37 Tahun 2008 tentang Ombudsman Republik Indonesia",
+      "reference": "Pasal 24 dan 36",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-37-tahun-2008"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

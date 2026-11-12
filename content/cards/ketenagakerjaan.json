@@ -13,11 +13,13 @@
       "Boleh, paling lama 6 bulan dan wajib dibayar upah minimum"
     ],
     "answerIndex": 1,
-    "explanation": "Pasal 58 UU 13/2003: PKWT tidak dapat mensyaratkan masa percobaan; jika disyaratkan, batal demi hukum dan masa kerja tetap dihitung. Masa percobaan (maks. 3 bulan, Pasal 60) hanya untuk PKWTT.",
+    "explanation": "Pasal 86 UU 27/2026 (dulu Pasal 58 UU 13/2003, sudah dicabut): PKWT tidak dapat mensyaratkan masa percobaan; jika disyaratkan, batal demi hukum dan masa kerja tetap dihitung. Masa percobaan (maks. 3 bulan) hanya untuk PKWTT (Pasal 92 ayat (1)).",
     "source": {
-      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
-      "reference": "Pasal 58, 60"
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 86, 92 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
     },
+    "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
   },
@@ -36,11 +38,13 @@
         "Perintah"
       ]
     },
-    "caption": "Hubungan kerja adalah hubungan pengusaha dan pekerja berdasarkan perjanjian kerja yang mempunyai unsur pekerjaan, upah, dan perintah (Pasal 1 angka 15 UU 13/2003).",
+    "caption": "Hubungan kerja adalah hubungan antara Pemberi Kerja dengan Pekerja/Buruh berdasarkan Perjanjian Kerja, yang mempunyai unsur pekerjaan, upah, dan perintah (Pasal 1 UU 27/2026, pengganti UU 13/2003).",
     "source": {
-      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
-      "reference": "Pasal 1 angka 15"
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
     },
+    "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
   },
@@ -164,11 +168,13 @@
     "subTopicId": "hubungan-kerja",
     "account": "buruh.paham",
     "front": "Apakah mogok kerja merupakan hak pekerja?",
-    "back": "Ya. Mogok kerja adalah hak dasar pekerja/buruh dan serikat pekerja yang dilakukan secara sah, tertib, dan damai sebagai akibat gagalnya perundingan (Pasal 137 UU 13/2003).",
+    "back": "Ya. Mogok kerja adalah hak dasar pekerja/buruh dan serikat pekerja yang dilakukan secara sah, tertib, dan damai sebagai akibat gagalnya perundingan (Pasal 211 UU 27/2026; dulu Pasal 137 UU 13/2003).",
     "source": {
-      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
-      "reference": "Pasal 137"
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 211",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
     },
+    "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
   },
@@ -184,10 +190,11 @@
       "PKWTT (tetap)"
     ],
     "answerIndex": 1,
-    "explanation": "PKWT dibatasi untuk pekerjaan yang menurut jenis dan sifatnya akan selesai dalam waktu tertentu. Rincian setelah UU Cipta Kerja diatur PP 35/2021; cek ketentuan terbaru.",
+    "explanation": "Pasal 87 UU 27/2026: PKWT hanya untuk pekerjaan yang menurut jenis dan sifatnya akan selesai dalam waktu tertentu, dan tidak dapat diadakan untuk pekerjaan yang bersifat tetap; pelanggarannya demi hukum menjadi PKWTT.",
     "source": {
-      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
-      "reference": "Pasal 59"
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 87",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
     },
     "needsVerification": true,
     "status": "draft",
@@ -221,16 +228,18 @@
         {
           "character": "owl",
           "expression": "happy",
-          "text": "Pelamar: Pasal 58 UU Ketenagakerjaan."
+          "text": "Pelamar: Pasal 86 UU 27/2026."
         }
       ]
     },
     "caption": "Masa percobaan dalam PKWT batal demi hukum.",
-    "teaches": "PKWT tidak dapat mensyaratkan masa percobaan (Pasal 58 UU 13/2003).",
+    "teaches": "PKWT tidak dapat mensyaratkan masa percobaan; jika disyaratkan, batal demi hukum (Pasal 86 UU 27/2026, pengganti Pasal 58 UU 13/2003).",
     "source": {
-      "title": "UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU No. 6 Tahun 2023 (Cipta Kerja)",
-      "reference": "Pasal 58"
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 86",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
     },
+    "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
   },
@@ -750,5 +759,1190 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "ketenagakerjaan-u27-berlaku",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "UU 27/2026 tentang Pelindungan Ketenagakerjaan mulai berlaku pada…",
+    "options": [
+      "1 Januari 2027, setelah masa transisi",
+      "Setelah semua peraturan pelaksananya terbit",
+      "Tanggal diundangkan, 28 Oktober 2026",
+      "2 Januari 2026, bersama KUHP Nasional"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 313: berlaku pada tanggal diundangkan. Menurut DataHukum, diundangkan 28 Oktober 2026 (LN 2026/179). Pasal 311 mencabut UU 13/2003.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 311, 313",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-cabut",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 311 UU 27/2026, apa yang dicabut?",
+    "options": [
+      "UU 2/2004 tentang Penyelesaian Perselisihan Hubungan Industrial",
+      "Seluruh UU 6/2023 tentang Cipta Kerja beserta lampirannya",
+      "UU 13/2003 dan klaster ketenagakerjaan dalam lampiran UU Cipta Kerja",
+      "Hanya pasal-pasal pidana UU 13/2003; pasal-pasal lain tetap berlaku seperti semula"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 311 mencabut UU 13/2003 serta Bab IV Bagian Kesatu Pasal 80 huruf a dan Bagian Kedua Pasal 81 lampiran UU 6/2023. UU 2/2004 (PPHI) tidak disebut dicabut.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 311",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pp-lama",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Bagaimana status PP pelaksana UU 13/2003 dan UU Cipta Kerja setelah UU 27/2026 berlaku?",
+    "options": [
+      "Otomatis dicabut seluruhnya sejak UU 27/2026 diundangkan",
+      "Berlaku penuh sampai PP baru terbit, walau bertentangan",
+      "Hanya berlaku bagi perjanjian kerja yang dibuat sebelum 2026",
+      "Tetap berlaku sepanjang tidak bertentangan dengan UU 27/2026"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 310. Pasal 312: peraturan pelaksana UU 27/2026 harus ditetapkan paling lama 1 tahun sejak diundangkan.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 310, 312",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-definisi-hk",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 1 UU 27/2026, hubungan kerja adalah hubungan antara…",
+    "options": [
+      "Pengusaha dan pekerja yang berbentuk badan hukum dengan unsur modal dan laba",
+      "Pengusaha dan serikat pekerja berdasarkan Perjanjian Kerja Bersama yang disahkan",
+      "Pemberi Kerja dan Pekerja/Buruh berdasarkan Perjanjian Kerja; unsurnya pekerjaan, upah, perintah",
+      "Pekerja dan negara berdasarkan kontrak sosial, dengan unsur perlindungan, jaminan, dan upah layak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Definisi kini memakai 'Pemberi Kerja' (UU 13/2003 memakai 'pengusaha'). Unsurnya tetap: pekerjaan, upah, perintah.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pkwt-durasi",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Batas jangka waktu PKWT menurut Pasal 82 ayat (2) UU 27/2026?",
+    "options": [
+      "Paling lama 3 tahun dan hanya bisa diperpanjang satu kali 1 tahun",
+      "Paling lama 2 tahun; boleh diperpanjang 2 kali, masing-masing maks. 1 tahun",
+      "Tidak dibatasi undang-undang, asalkan disepakati para pihak secara tertulis",
+      "Paling lama 5 tahun, diatur seluruhnya oleh Peraturan Pemerintah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 82 ayat (2). Kalau dijumlah (hitungan sendiri, bukan bunyi pasal): paling lama 4 tahun. Rencana perpanjangan wajib diberitahukan tertulis paling lambat 7 hari sebelum PKWT berakhir (ayat (3)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 82 ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pkwt-7hari",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Pemberi Kerja yang mau memperpanjang PKWT wajib memberi tahu pekerja secara tertulis paling lambat…",
+    "options": [
+      "7 hari sebelum PKWT berakhir",
+      "1 hari setelah PKWT berakhir",
+      "30 hari kerja sebelum PKWT berakhir",
+      "3 bulan sebelum PKWT berakhir"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 82 ayat (3).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 82 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pkwt-tertulis",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "PKWT yang tidak dibuat secara tertulis berakibat…",
+    "options": [
+      "Batal demi hukum dan upah tidak wajib dibayar",
+      "Dapat dibatalkan atas permintaan Pemberi Kerja",
+      "Tetap sah sebagai PKWT lisan selama 1 tahun",
+      "Demi hukum menjadi PKWTT"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 85. Pasal 83: PKWT dibuat tertulis dengan bahasa Indonesia dan huruf latin; jika dwibahasa dan ada beda tafsir, yang berlaku versi bahasa Indonesia.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 83, 85",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pkwt-bahasa",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "PKWT dibuat dalam bahasa Indonesia dan bahasa asing, lalu tafsirnya berbeda. Yang berlaku?",
+    "options": [
+      "Versi yang ditandatangani lebih dahulu",
+      "Versi bahasa Indonesia",
+      "Keduanya batal, harus dibuat ulang di notaris",
+      "Versi bahasa asing jika pihak asing yang menyusun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 83 ayat (2). Melanggar kewajiban bahasa Indonesia dan huruf latin dikenai sanksi administratif (Pasal 84).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 83-84",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pkwt-percobaan",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "PKWT mensyaratkan masa percobaan 3 bulan. Akibat hukumnya menurut UU 27/2026?",
+    "options": [
+      "Sah bila dicatatkan ke dinas paling lambat 3 hari kerja",
+      "Masa percobaan batal demi hukum dan masa kerja tetap dihitung",
+      "Sah asalkan upah selama percobaan tidak di bawah upah minimum",
+      "Seluruh PKWT batal dan pekerja wajib dipekerjakan ulang"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 86 ayat (1)-(2).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 86",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pkwt-jenis",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Mana yang TIDAK termasuk pekerjaan yang boleh memakai PKWT menurut Pasal 87 ayat (1)?",
+    "options": [
+      "Pekerjaan terkait produk baru yang masih dalam percobaan",
+      "Pekerjaan yang bersifat musiman",
+      "Pekerjaan yang bersifat tetap",
+      "Pekerjaan yang sekali selesai atau sementara sifatnya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 87 ayat (2): PKWT tidak dapat diadakan untuk pekerjaan yang bersifat tetap. Ayat (5): PKWT yang melanggar ayat (1)-(2) demi hukum menjadi PKWTT.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 87 ayat (1), (2), (5)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pkwt-catat",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Pasal 87 ayat (3): Pemberi Kerja wajib mencatatkan PKWT paling lambat…",
+    "options": [
+      "3 hari kerja sejak diteken, ke Pemerintah Pusat/Daerah sesuai kewenangan",
+      "1 tahun sejak ditandatangani, ke notaris yang ditunjuk oleh Menteri Ketenagakerjaan",
+      "30 hari sejak ditandatangani, ke pengadilan hubungan industrial",
+      "7 hari sebelum PKWT berakhir, ke serikat pekerja di perusahaan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 87 ayat (3). Ayat (4): PKWT yang dicatatkan dapat diakses pekerja dan pengawas ketenagakerjaan.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 87 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-musiman",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Penjelasan Pasal 87 ayat (2): pekerjaan terus-menerus bagian proses produksi, tetapi bergantung cuaca, termasuk…",
+    "options": [
+      "Pekerjaan informal, sehingga di luar UU ini",
+      "Pekerjaan musiman, sehingga dapat menjadi objek PKWT",
+      "Pekerjaan tetap, sehingga wajib PKWTT",
+      "Pekerjaan alih daya, sehingga wajib lewat anak perusahaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Penjelasan Pasal 87 ayat (2).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Penjelasan Pasal 87 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-kompensasi",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Saat PKWT berakhir karena jangka waktunya habis, Pemberi Kerja wajib…",
+    "options": [
+      "Mengangkat pekerja menjadi PKWTT tanpa syarat",
+      "Membayar uang pesangon 9 bulan upah",
+      "Memberikan uang kompensasi sesuai masa kerja",
+      "Tidak wajib membayar apa pun kepada pekerja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 88 ayat (1)-(2). Besarannya diatur PP (ayat (3)). Tidak memberikan kompensasi dikenai sanksi administratif (Pasal 89).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 88-89",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-putus-dini",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Salah satu pihak mengakhiri PKWT sebelum jangka waktunya habis (bukan karena alasan Pasal 81 ayat (1)). Akibatnya?",
+    "options": [
+      "Tidak ada akibat karena PKWT memang sementara",
+      "PKWT otomatis berubah menjadi PKWTT sejak tanggal pengakhiran tersebut",
+      "Pihak yang mengakhiri cukup membayar satu bulan upah sebagai uang pisah",
+      "Yang mengakhiri bayar ganti rugi sebesar upah sampai PKWT habis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 90.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 90",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-probation",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Masa percobaan PKWTT menurut Pasal 92 UU 27/2026: lamanya dan upahnya?",
+    "options": [
+      "Paling lama 6 bulan; upah boleh di bawah upah minimum asal disepakati",
+      "Paling lama 3 bulan; upah boleh 50% dan jaminan sosial ditunda dulu",
+      "Maks. 3 bulan; upah min. 75% upah jabatan, tak di bawah UMP/UMK",
+      "Paling lama 1 tahun; upah penuh sesuai jabatan dan golongan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 92 ayat (1)-(2): juga wajib memberi jaminan sosial dan hak lain. Ayat (6): masa percobaan dihitung sebagai masa kerja.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 92 ayat (1), (2), (6)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-probation-tulis",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Syarat masa percobaan tidak dicantumkan dalam PKWTT atau surat pengangkatan tertulis. Akibatnya?",
+    "options": [
+      "Pekerja wajib mengulang dari awal",
+      "Masa percobaan otomatis 3 bulan",
+      "PKWTT berubah menjadi PKWT",
+      "Masa percobaan dianggap tidak ada"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 92 ayat (4)-(5).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 92 ayat (4)-(5)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-lisan",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "PKWTT dibuat secara lisan. Kewajiban Pemberi Kerja?",
+    "options": [
+      "Tidak ada; PKWTT lisan sudah cukup kuat",
+      "Mengubahnya menjadi PKWT tertulis",
+      "Mendaftarkannya ke pengadilan negeri",
+      "Membuat surat pengangkatan tertulis"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 93 ayat (1)-(2); isi minimal surat pengangkatan di ayat (3). Tidak membuatnya: sanksi administratif (Pasal 94).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 93-94",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-ijazah",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Menahan ijazah pekerja sebagai jaminan dalam hubungan kerja, menurut UU 27/2026…",
+    "options": [
+      "Tidak diatur, sehingga sepenuhnya diserahkan pada kesepakatan kedua belah pihak saja",
+      "Dilarang, kecuali ijazah pelatihan yang dibiayai Pemberi Kerja (perjanjian tertulis)",
+      "Diperbolehkan hanya untuk pekerja PKWT sampai masa kontraknya berakhir nanti",
+      "Diperbolehkan selama pekerja menandatangani surat persetujuan bermeterai di atas kertas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 78 ayat (1)-(2). Pelanggaran: sanksi administratif, dan tidak menghapus kewajiban mengembalikan ijazah (Pasal 79).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 78-79",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-rangkap",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Perjanjian kerja tertulis dibuat paling sedikit berapa rangkap, dan pekerja dapat apa?",
+    "options": [
+      "1 rangkap; disimpan Pemberi Kerja",
+      "2 rangkap; keduanya disimpan HRD",
+      "2 rangkap; pekerja diberi 1",
+      "3 rangkap; satu untuk dinas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 77 ayat (3)-(4).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 77 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-tidak-berakhir",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Perusahaan dijual kepada pemilik baru. Perjanjian kerja para pekerja…",
+    "options": [
+      "Ditangguhkan sampai ada perjanjian kerja bersama baru",
+      "Berakhir jika pemilik baru tidak setuju dalam 30 hari",
+      "Tidak berakhir; hak pekerja ditanggung pengusaha baru",
+      "Berakhir otomatis dan pekerja berhak atas pesangon"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 81 ayat (2)-(3), kecuali ditentukan lain dalam perjanjian pengalihan yang tidak mengurangi hak pekerja.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 81 ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-alihdaya-jenis",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 95 ayat (3), kegiatan jasa penunjang yang boleh dialihdayakan meliputi…",
+    "options": [
+      "Bebas, sesuai kesepakatan para pihak dalam perjanjian alih daya tertulis",
+      "Kebersihan, makanan pekerja, satpam, dan angkutan pekerja",
+      "Kegiatan produksi utama selama perusahaan alih daya berizin",
+      "Semua pekerjaan selain jabatan direksi dan komisaris"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 95 ayat (2)-(3): harus kegiatan jasa penunjang atau yang tidak berhubungan langsung dengan proses produksi. Sektor tambang/migas dan BUMN punya aturan sendiri lewat anak perusahaan (Pasal 96-97).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 95",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-alihdaya-produksi",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Pekerja alih daya dipakai untuk kegiatan yang berhubungan langsung dengan proses produksi. Akibatnya?",
+    "options": [
+      "Perusahaan alih daya cukup membayar denda administratif",
+      "Perjanjian alih daya batal dan pekerja diberhentikan",
+      "Tidak ada akibat hukum apa pun jika pekerja menyetujuinya tertulis",
+      "Demi hukum beralih menjadi pekerja perusahaan pemberi kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 98 ayat (1). Jika peralihan tidak dilaksanakan berdasarkan nota pemeriksaan pengawas, pekerja dapat meminta pengesahan nota ke pengadilan negeri setempat (ayat (2)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 98",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-alihdaya-ganti",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Perusahaan alih daya diganti, objek pekerjaan tetap sama. Masa kerja pekerja PKWT di vendor lama…",
+    "options": [
+      "Hanya dihitung jika vendor baru setuju",
+      "Hangus dan mulai dari nol di vendor baru",
+      "Dihitung kumulatif untuk batas PKWT",
+      "Dibayar tunai sebagai uang pisah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 99 ayat (3)-(4). Perusahaan alih daya wajib berbentuk PT dan berizin (ayat (5)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 99 ayat (3)-(5)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-alihdaya-transisi",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Perusahaan yang mempekerjakan pekerja alih daya wajib menyesuaikan diri dengan UU 27/2026 paling lama…",
+    "options": [
+      "Seketika pada tanggal diundangkan",
+      "2 tahun sejak UU diundangkan",
+      "Sampai PP baru terbit, tanpa batas",
+      "1 tahun sejak UU diundangkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 306 ayat (1). Ayat (2): perjanjian alih daya yang disepakati sebelumnya tetap berlaku sampai berakhir.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 306",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-mogok-dasar",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Menurut Pasal 211 UU 27/2026, mogok kerja sah sebagai akibat gagalnya perundingan karena…",
+    "options": [
+      "Pengusaha menolak bipartit, atau gagal sepakat usai 3 kali runding/30 hari kerja",
+      "Pemerintah Daerah tidak menanggapi pengaduan pekerja dalam waktu 7 hari kalender",
+      "Upah terlambat dibayar lebih dari 1 hari kerja dari tanggal yang ditentukan",
+      "Serikat pekerja memutuskannya dalam rapat anggota"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 211.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 211",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-mogok-7hari",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Pemberitahuan tertulis mogok kerja kepada Pengusaha dan Pemerintah Daerah wajib disampaikan paling lambat…",
+    "options": [
+      "3 bulan sebelum mogok",
+      "7 hari kerja sebelum mogok",
+      "1 hari kerja sebelum mogok",
+      "30 hari kerja sebelum mogok"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 214 ayat (1).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 214 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-mogok-upah",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Pekerja mogok secara sah menuntut hak normatif yang dilanggar pengusaha. Upahnya?",
+    "options": [
+      "Tetap berhak mendapatkan upah",
+      "Dibayar separuh",
+      "Tidak dibayar, karena tidak bekerja",
+      "Diganti uang makan saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 220. Pasal 218: pengusaha dilarang mengganti pekerja yang mogok sah dengan pekerja dari luar atau memberi tindakan balasan.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 218, 220",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-lockout",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "question": "Penutupan perusahaan (lock-out) dilarang pada…",
+    "options": [
+      "Perusahaan yang sedang dalam proses pailit",
+      "Perusahaan yang sudah memiliki perjanjian kerja bersama yang terdaftar resmi",
+      "Perusahaan layanan umum seperti rumah sakit dan air bersih",
+      "Perusahaan yang pekerjanya kurang dari 50 orang"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 222 ayat (1)-(2). Pasal 221 ayat (2): lock-out tidak dibenarkan sebagai balasan atas tuntutan normatif.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 221-222",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-cegah-phk",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Siapa yang menurut Pasal 228 ayat (1) wajib mengupayakan agar PHK tidak terjadi?",
+    "options": [
+      "Hanya Pemberi Kerja, karena dialah pihak yang memutus hubungan kerja",
+      "Pemberi Kerja, pekerja, serikat, Pemerintah Pusat dan Daerah",
+      "Hanya Pemerintah melalui pengawas ketenagakerjaan",
+      "Hanya pengadilan hubungan industrial"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 228 ayat (1); tahapan pencegahan di ayat (2), misalnya mengurangi lembur dan jam kerja.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 228 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-bipartit-30",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Perundingan bipartit soal maksud PHK harus selesai paling lama…",
+    "options": [
+      "1 tahun sejak PHK",
+      "30 hari kerja",
+      "7 hari kerja sejak dimulai",
+      "3 bulan sejak surat PHK"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 228 ayat (4).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 228 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-phk-tanpa-putusan",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "PHK dilakukan tanpa kesepakatan dan tanpa putusan lembaga PPHI berkekuatan hukum tetap. Akibatnya?",
+    "options": [
+      "Ditangguhkan sampai ada anjuran mediator",
+      "Sah jika pekerja sudah diberi tahu secara tertulis 14 hari sebelumnya",
+      "Sah, tetapi pesangon wajib dibayar dua kali",
+      "Batal demi hukum; pekerja wajib dipekerjakan lagi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 228 ayat (6)-(7).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 228 ayat (6)-(7)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-tanpa-bipartit",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Kapan perundingan bipartit PHK TIDAK perlu dilakukan?",
+    "options": [
+      "Pekerja mundur atas kemauan sendiri",
+      "Perusahaan merugi 1 bulan",
+      "Pekerja sakit 3 bulan dengan surat keterangan dokter",
+      "Pekerja menikah dengan rekan sekantor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 229: juga saat PKWT berakhir, pekerja mencapai usia pensiun, atau meninggal dunia.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 229",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-larangan-phk",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Mana alasan yang DILARANG untuk PHK menurut Pasal 230 ayat (1)?",
+    "options": [
+      "Perusahaan pailit",
+      "Perusahaan tutup karena kahar",
+      "Perusahaan merugi terus 2 tahun",
+      "Pekerja menikah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 230 ayat (1); PHK dengan alasan terlarang batal demi hukum dan pekerja wajib dipekerjakan kembali (ayat (2)). Alasan lain di pilihan adalah alasan PHK yang dimungkinkan Pasal 231.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 230-231",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-sakit-12",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "PHK dilarang bila pekerja berhalangan masuk karena sakit menurut keterangan dokter selama tidak melampaui…",
+    "options": [
+      "12 bulan terus-menerus",
+      "3 bulan secara terus-menerus",
+      "6 bulan dalam satu tahun",
+      "30 hari kerja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 230 ayat (1).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 230 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-pesangon-8",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Uang pesangon minimal untuk masa kerja 8 tahun atau lebih menurut Pasal 232 ayat (2)?",
+    "options": [
+      "12 bulan upah",
+      "9 bulan upah",
+      "8 bulan upah",
+      "10 bulan upah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 232 ayat (2): masa kerja < 1 tahun = 1 bulan upah, naik bertahap sampai ≥ 8 tahun = 9 bulan upah (paling sedikit).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 232 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-upmk-24",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Uang penghargaan masa kerja untuk masa kerja 24 tahun atau lebih menurut Pasal 232 ayat (3)?",
+    "options": [
+      "12 bulan upah",
+      "9 bulan upah",
+      "8 bulan upah",
+      "10 bulan upah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 232 ayat (3): mulai 3 tahun (2 bulan upah) sampai ≥ 24 tahun (10 bulan upah).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 232 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-upmk-mulai",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Uang penghargaan masa kerja baru diberikan mulai masa kerja…",
+    "options": [
+      "3 tahun",
+      "6 bulan",
+      "5 tahun",
+      "1 tahun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 232 ayat (3): masa kerja 3 tahun atau lebih tetapi kurang dari 6 tahun = 2 bulan upah.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 232 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-uang-pisah",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Perusahaan tidak mengatur besaran uang pisah. Menurut Pasal 233 ayat (2), uang pisah dapat ditetapkan paling sedikit…",
+    "options": [
+      "3 bulan upah",
+      "Setengah bulan upah",
+      "1 bulan upah",
+      "Tidak ada, karena tidak diatur"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 233 ayat (2). Jika aturan perusahaan lebih baik, yang berlaku aturan perusahaan (ayat (3)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 233",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-dana-cadangan",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Dana cadangan pesangon menurut Pasal 253 UU 27/2026…",
+    "options": [
+      "Wajib bagi pengusaha (kecuali usaha mikro/kecil), dikelola lembaga pemerintah",
+      "Sukarela, dikelola serikat pekerja masing-masing perusahaan",
+      "Wajib bagi semua usaha termasuk mikro, disimpan di rekening khusus milik perusahaan",
+      "Dibayar pekerja lewat potongan upah bulanan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 253 ayat (1), (3), (4). Rinciannya diatur PP (ayat (5)). Tidak menyediakan: sanksi administratif (ayat (6)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 253",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-utang-dijamin",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Hak pekerja yang belum dibayar, setelah disepakati dalam perjanjian bersama atau putusan PPHI berkekuatan hukum tetap…",
+    "options": [
+      "Menjadi utang yang dijamin seluruh aset Pemberi Kerja",
+      "Gugur seluruhnya jika perusahaan kemudian dinyatakan pailit",
+      "Menjadi utang biasa tanpa jaminan",
+      "Dibayar oleh negara dari APBN tahun berjalan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 299 ayat (1)-(2): pihak yang menguasai aset Pemberi Kerja wajib mendahulukan pembayaran hak pekerja. Pasal 298: sanksi pidana tidak menghapus kewajiban membayar hak.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 298-299",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-perkara-lama",
+    "type": "quiz",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "question": "Gugatan PHI yang sudah didaftarkan sebelum UU 27/2026 berlaku diselesaikan berdasarkan…",
+    "options": [
+      "UU 13/2003 sebagaimana diubah UU 6/2023",
+      "Pilihan penggugat di antara kedua undang-undang itu",
+      "UU 27/2026 karena berlaku seketika",
+      "Putusan MK terbaru saja"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 300 (ketentuan peralihan).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 300",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-humor-kontrak-abadi",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "meme",
+      "top": "Kontrak 1 tahun, diperpanjang tiap tahun sejak 2014",
+      "bottom": "Pasal 82: maks. 2 tahun + 2 kali perpanjangan @1 tahun",
+      "character": "cat",
+      "expression": "smug"
+    },
+    "caption": "Kontrak abadi: lebih awet daripada hubungan kebanyakan orang.",
+    "teaches": "Menurut Pasal 82 ayat (2) UU 27/2026, PKWT paling lama 2 tahun dan hanya dapat diperpanjang 2 kali, masing-masing paling lama 1 tahun. Pekerjaan tetap tidak boleh PKWT; pelanggaran membuatnya demi hukum menjadi PKWTT (Pasal 87).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 82 ayat (2), Pasal 87",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-humor-ijazah",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "comic",
+      "title": "Brankas ijazah",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "HRD: ijazah aslinya kami simpan ya. Biar aman."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pelamar: aman buat siapa, Pak?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "HRD: ...buat kami, sih."
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pelamar: Pasal 78 melarang itu."
+        }
+      ]
+    },
+    "caption": "Ijazah bukan sandera. Brankasnya juga bukan rumah singgah.",
+    "teaches": "Pasal 78 UU 27/2026 melarang Pemberi Kerja mensyaratkan atau menahan ijazah/dokumen pribadi sebagai jaminan dalam hubungan kerja, kecuali ijazah dari pendidikan yang dibiayai Pemberi Kerja berdasarkan perjanjian kerja tertulis.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 78",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-humor-probation",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "meme",
+      "top": "Masa percobaan: gaji 50%, BPJS nanti dulu",
+      "bottom": "Pasal 92: minimal 75% upah jabatan + jaminan sosial",
+      "character": "gecko",
+      "expression": "shock"
+    },
+    "caption": "Percobaan katanya. Yang dicoba ternyata kesabaran.",
+    "teaches": "Pasal 92 UU 27/2026: masa percobaan PKWTT paling lama 3 bulan; selama itu Pemberi Kerja wajib membayar upah paling sedikit 75% upah jabatan (tidak di bawah upah minimum) dan memberi jaminan sosial. PKWT tidak boleh ada masa percobaan (Pasal 86).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 86, 92",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-humor-vendor",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "hubungan-kerja",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "comic",
+      "title": "Hemat di slide",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Bos: bagian produksi kita alihdayakan saja, lebih hemat."
+        },
+        {
+          "character": "kancil",
+          "expression": "think",
+          "text": "Staf: produksi itu kegiatan inti, Bos."
+        },
+        {
+          "character": "cat",
+          "expression": "think",
+          "text": "Bos: tapi di slide konsultan boleh."
+        },
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Staf: di Pasal 98, demi hukum mereka jadi pekerja kita."
+        }
+      ]
+    },
+    "caption": "Konsultan dibayar mahal, pasal dibaca gratis.",
+    "teaches": "Pasal 95 UU 27/2026: alih daya hanya untuk jasa penunjang (kebersihan, makanan pekerja, satpam, angkutan pekerja) atau yang tidak berhubungan langsung dengan produksi. Pasal 98: bila dipakai untuk kegiatan produksi, demi hukum hubungan kerja beralih ke perusahaan pemberi pekerjaan.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 95, 98",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-humor-phk-wa",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "meme",
+      "top": "PHK lewat pesan singkat jam 23.59",
+      "bottom": "Tanpa kesepakatan/putusan PPHI: batal demi hukum",
+      "character": "owl",
+      "expression": "sad"
+    },
+    "caption": "Efisien sekali. Sayang, efisiensi bukan dasar hukum.",
+    "teaches": "Pasal 228 ayat (3)-(7) UU 27/2026: maksud PHK wajib dirundingkan bipartit; jika gagal, lewat prosedur PPHI. PHK tanpa kesepakatan atau putusan lembaga PPHI berkekuatan hukum tetap batal demi hukum dan pekerja wajib dipekerjakan kembali.",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 228",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "ketenagakerjaan-u27-humor-nikah",
+    "type": "humor",
+    "topicId": "ketenagakerjaan",
+    "subTopicId": "phk",
+    "account": "buruh.paham",
+    "visual": {
+      "template": "comic",
+      "title": "Kado pernikahan",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Pekerja: Pak, saya mau menikah bulan depan!"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Atasan: wah selamat. Sekalian surat resign, ya?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Pekerja: lho?"
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Atasan (setelah baca Pasal 230): ...lupakan."
+        }
+      ]
+    },
+    "caption": "Kado terbaik dari kantor: tidak di-PHK. Itu pun bukan kado, itu kewajiban.",
+    "teaches": "Pasal 230 ayat (1) UU 27/2026 melarang PHK dengan alasan antara lain menikah, hamil, melahirkan, atau menyusui; PHK dengan alasan itu batal demi hukum dan pekerja wajib dipekerjakan kembali (ayat (2)).",
+    "source": {
+      "title": "UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+      "reference": "Pasal 230",
+      "url": "https://www.datahukum.com/peraturan/UU_27_Tahun_2026.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

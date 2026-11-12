@@ -5,6 +5,8 @@
 > Disahkan dan diundangkan 14 Januari 2004 (LN 2004 No. 6). Kutipan disalin persis dari halaman itu (salah ketik ikut tersalin).
 > Beberapa pasal pernah diuji di Mahkamah Konstitusi (daftar di JDIH Kemnaker); pasal yang dikutip di sini belum dicocokkan satu per satu dengan semua putusan MK.
 
+Catatan 12 November 2026: UU 13/2003 yang dirujuk beberapa pasal di bawah (misalnya Pasal 96) telah dicabut oleh Pasal 311 UU No. 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan (lihat `uu-27-2026-pelindungan-ketenagakerjaan.md`). UU 2/2004 sendiri tidak disebut dicabut dalam pasal itu. Kutipan di bawah tetap teks asli 2004.
+
 ## Pasal 3
 
 > (1) Perselisihan hubungan industrial wajib diupayakan penyelesaiannya terlebih dahulu melalui perundingan bipartit secara musyawarah untuk mencapai mufakat.

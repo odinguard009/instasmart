@@ -525,5 +525,864 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-pencemaran-def",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut definisi UU PPLH, pencemaran lingkungan hidup terjadi bila masuknya zat/energi/komponen lain oleh kegiatan manusia…",
+    "options": [
+      "Melampaui baku mutu lingkungan hidup",
+      "Dilaporkan oleh masyarakat",
+      "Menimbulkan bau yang mengganggu tetangga di sekitar lokasi",
+      "Terjadi lebih dari satu kali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 (definisi pencemaran). Ukurannya baku mutu; untuk perusakan, ukurannya kriteria baku kerusakan.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 1 (definisi)",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-perusakan-def",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Perusakan lingkungan hidup menurut UU PPLH diukur dengan…",
+    "options": [
+      "Nilai kerugian ekonomi yang dihitung oleh ahli valuasi",
+      "Kriteria baku kerusakan lingkungan hidup",
+      "Baku mutu emisi",
+      "Jumlah pengaduan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1: perusakan = tindakan yang menimbulkan perubahan sifat fisik, kimia, dan/atau hayati sehingga melampaui kriteria baku kerusakan.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 1 (definisi)",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-daya-dukung-tampung",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Kemampuan lingkungan hidup untuk MENYERAP zat, energi, dan/atau komponen lain yang masuk ke dalamnya disebut…",
+    "options": [
+      "Daya tampung",
+      "Daya dukung lingkungan hidup",
+      "Ekoregion",
+      "Baku mutu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1: daya tampung = kemampuan menyerap; daya dukung = kemampuan mendukung perikehidupan manusia, makhluk hidup lain, dan keseimbangan keduanya.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 1 (definisi)",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-limbah-def",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut definisi UU PPLH, limbah adalah…",
+    "options": [
+      "Bahan yang mengandung racun",
+      "Sisa suatu usaha dan/atau kegiatan",
+      "Barang bekas yang tidak bernilai ekonomi",
+      "Sampah rumah tangga yang dibuang ke sungai"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 1: limbah = sisa suatu usaha dan/atau kegiatan. Limbah B3 = sisa usaha/kegiatan yang mengandung B3.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 1 (definisi)",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-persetujuan-lingkungan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Setelah perubahan oleh UU 6/2023, 'Persetujuan Lingkungan' didefinisikan sebagai…",
+    "options": [
+      "Persetujuan warga sekitar secara tertulis",
+      "Sertifikat ramah lingkungan dari lembaga swadaya masyarakat terakreditasi",
+      "Keputusan kelayakan/pernyataan kesanggupan yang disetujui pemerintah",
+      "Izin lingkungan yang diterbitkan bupati"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 (definisi Persetujuan Lingkungan) versi UU 6/2023.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 1 (definisi)",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-tahap-perencanaan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 5, perencanaan PPLH dilaksanakan melalui tahapan…",
+    "options": [
+      "Amdal, UKL-UPL, dan izin",
+      "Pengawasan, sanksi, dan pemulihan",
+      "Sosialisasi kepada warga, uji coba lapangan, dan evaluasi berkala",
+      "Inventarisasi, penetapan ekoregion, penyusunan RPPLH"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 5.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 5",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-ekoregion-kriteria",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Manakah yang menurut Pasal 7 TIDAK disebut sebagai kesamaan yang dipertimbangkan dalam penetapan wilayah ekoregion?",
+    "options": [
+      "Sosial budaya",
+      "Flora dan fauna",
+      "Daerah aliran sungai",
+      "Batas administrasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 7 ayat (2): bentang alam, DAS, iklim, flora dan fauna, sosial budaya, ekonomi, kelembagaan masyarakat, dan hasil inventarisasi. Batas administrasi tidak disebut.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 7",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-rpplh-bentuk",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 10, RPPLH provinsi diatur dengan…",
+    "options": [
+      "Perda provinsi",
+      "Peraturan menteri",
+      "Peraturan pemerintah pusat",
+      "Keputusan gubernur"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 10: RPPLH nasional dengan peraturan pemerintah, provinsi dengan perda provinsi, kabupaten/kota dengan perda kabupaten/kota.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-rpplh-rpjp",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 10, RPPLH menjadi dasar penyusunan dan dimuat dalam…",
+    "options": [
+      "Rencana strategis perusahaan",
+      "Anggaran tahunan",
+      "RPJP dan RPJM",
+      "Peraturan desa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 10 (ayat terakhir).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-tanpa-rpplh",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Bila RPPLH belum tersusun, Pasal 12 menyatakan pemanfaatan sumber daya alam dilaksanakan berdasarkan…",
+    "options": [
+      "Daya dukung dan daya tampung",
+      "Permintaan investor",
+      "Rencana tata ruang saja",
+      "Kebijakan kepala daerah yang sedang menjabat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 12: berdasarkan daya dukung dan daya tampung dengan memperhatikan keberlanjutan proses, produktivitas, serta keselamatan dan kesejahteraan masyarakat.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 12",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-instrumen-pencegahan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Manakah yang BUKAN instrumen pencegahan pencemaran/kerusakan menurut Pasal 14?",
+    "options": [
+      "Gugatan perwakilan kelompok",
+      "Analisis risiko lingkungan hidup",
+      "Audit lingkungan hidup",
+      "Anggaran berbasis lingkungan hidup"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 14 antara lain: KLHS, tata ruang, baku mutu, kriteria baku kerusakan, amdal, UKL-UPL, perizinan, instrumen ekonomi, anggaran berbasis LH, analisis risiko, audit LH. Gugatan kelompok adalah instrumen penegakan (Pasal 91).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 14",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-buang-limbah-syarat",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 20 (setelah diubah UU 6/2023), orang boleh membuang limbah ke media lingkungan hidup dengan syarat…",
+    "options": [
+      "Dilakukan pada malam hari",
+      "Mendapat izin kepala desa",
+      "Membayar retribusi daerah sesuai volume limbah yang dibuang",
+      "Memenuhi baku mutu dan mendapat persetujuan pemerintah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 20 ayat (3) versi terbaru.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 20",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-baku-mutu-jenis",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Manakah yang termasuk baku mutu lingkungan hidup menurut Pasal 20?",
+    "options": [
+      "Baku mutu kebisingan kendaraan pribadi saja",
+      "Baku mutu upah",
+      "Baku mutu gangguan",
+      "Baku mutu harga pangan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 20 ayat (2): baku mutu air, air limbah, air laut, udara ambien, emisi, gangguan, dan lainnya sesuai perkembangan iptek.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 20",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-kriteria-kerusakan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 21, kriteria baku kerusakan lingkungan hidup meliputi kriteria baku kerusakan ekosistem dan…",
+    "options": [
+      "Kerusakan bangunan dan infrastruktur publik",
+      "Akibat perubahan iklim",
+      "Kerusakan jalan",
+      "Kerusakan sosial"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 21 ayat (2). Parameter perubahan iklim antara lain kenaikan temperatur, muka air laut, badai, kekeringan.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 21",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-uji-kelayakan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 24 (setelah diubah UU 6/2023), tim uji kelayakan lingkungan hidup terdiri atas…",
+    "options": [
+      "Hanya pegawai kementerian",
+      "Akademisi perguruan tinggi negeri dan perwakilan LSM lingkungan hidup",
+      "Unsur pemerintah pusat, daerah, dan ahli bersertifikat",
+      "Wakil DPRD"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 24 ayat (3). Tim dibentuk lembaga uji kelayakan Pemerintah Pusat; keputusan kelayakan menjadi syarat Perizinan Berusaha (ayat 5).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 24",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-amdal-masyarakat",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 26 (setelah diubah UU 6/2023), penyusunan dokumen amdal melibatkan…",
+    "options": [
+      "Hanya konsultan bersertifikat",
+      "Tidak ada pelibatan masyarakat",
+      "Masyarakat yang terkena dampak langsung",
+      "Semua pemerhati lingkungan di Indonesia"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 26 ayat (2). Versi asli 2009 juga menyebut pemerhati lingkungan; rumusan baru membatasi pada yang terkena dampak langsung.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 26",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-amdal-umk",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Usaha mikro/kecil yang berdampak penting wajib amdal. Menurut Pasal 32, Pemerintah Pusat dan Daerah…",
+    "options": [
+      "Mewajibkannya bermitra dengan perusahaan besar",
+      "Membantu penyusunan amdalnya",
+      "Mengenakan denda",
+      "Membebaskannya dari amdal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 32 ayat (1) dan (2).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 32",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-ukl-upl",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Usaha yang TIDAK berdampak penting terhadap lingkungan hidup menurut Pasal 34 wajib…",
+    "options": [
+      "Membayar dana penjaminan",
+      "Memiliki amdal",
+      "Tidak punya kewajiban apa pun",
+      "Memenuhi standar UKL-UPL"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 34 ayat (1). Pemenuhannya dinyatakan dalam pernyataan kesanggupan pengelolaan lingkungan hidup (ayat 2).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 34",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-sppl-risiko-rendah",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 35 (setelah diubah UU 6/2023), usaha yang tidak wajib UKL-UPL membuat surat pernyataan kesanggupan yang diintegrasikan ke dalam…",
+    "options": [
+      "Kartu keluarga",
+      "Nomor induk berusaha",
+      "NPWP",
+      "Akta pendirian perusahaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 35 ayat (1); berlaku untuk kegiatan berisiko rendah (ayat 2).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 35",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-batal-perizinan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Manakah alasan pembatalan Perizinan Berusaha menurut Pasal 37 (setelah diubah UU 6/2023)?",
+    "options": [
+      "Kewajiban amdal atau UKL-UPL tidak dilaksanakan",
+      "Harga komoditas turun",
+      "Pemegang izin memindahkan kantor pusatnya ke provinsi lain",
+      "Terjadi pergantian direksi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 37: persyaratan cacat hukum/palsu, terbit tanpa memenuhi syarat keputusan kelayakan atau pernyataan kesanggupan, atau kewajiban amdal/UKL-UPL tidak dilaksanakan.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 37",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-umumkan-kelayakan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 39 (setelah diubah UU 6/2023), keputusan kelayakan lingkungan hidup diumumkan kepada masyarakat melalui…",
+    "options": [
+      "Surat kabar nasional saja, paling sedikit dua kali",
+      "Tidak wajib diumumkan",
+      "Sistem elektronik dan/atau cara lain",
+      "Papan pengumuman desa saja"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 39.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 39",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-penanggulangan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Manakah yang menurut Pasal 53 termasuk cara penanggulangan pencemaran/kerusakan lingkungan hidup?",
+    "options": [
+      "Pemindahan penduduk secara paksa",
+      "Membayar ganti rugi kepada pemerintah",
+      "Penutupan akses media",
+      "Penghentian sumber pencemaran"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 53 ayat (2): informasi peringatan kepada masyarakat, pengisolasian, penghentian sumber, atau cara lain sesuai iptek.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 53",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-tahap-pemulihan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Tahapan pemulihan fungsi lingkungan hidup menurut Pasal 54 ayat (2) meliputi…",
+    "options": [
+      "Teguran tertulis, paksaan pemerintah, dan denda administratif",
+      "Amdal, UKL-UPL, SPPL",
+      "Penyidikan, penuntutan, putusan",
+      "Pembersihan, remediasi, rehabilitasi, restorasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 54 ayat (2).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 54",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-dana-penjaminan",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 55 (setelah diubah UU 6/2023), siapa yang wajib menyediakan dana penjaminan pemulihan fungsi lingkungan hidup?",
+    "options": [
+      "Pemegang persetujuan",
+      "Bank pemerintah",
+      "Masyarakat terdampak",
+      "Pemerintah daerah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 55 ayat (1). Dana disimpan di bank pemerintah yang ditunjuk Pemerintah Pusat (ayat 2); Pemerintah Pusat dapat menunjuk pihak ketiga memakai dana itu (ayat 3).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 55",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-b3-kedaluwarsa",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "B3 yang sudah kedaluwarsa menurut Pasal 59 ayat (2)…",
+    "options": [
+      "Boleh dijual dengan label khusus",
+      "Dikelola mengikuti aturan limbah B3",
+      "Boleh dibuang ke tempat sampah biasa setelah dikemas ulang",
+      "Wajib dikembalikan ke negara asal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 59 ayat (2). Pasal ini dicatat diubah UU 6/2023 dan pernah diuji di MK; ayat (2) ini tidak termasuk yang diputus MK menurut catatan halaman sumber.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 59 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-dumping",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 61 (setelah diubah UU 6/2023), dumping limbah/bahan hanya dapat dilakukan…",
+    "options": [
+      "Bila volumenya kecil",
+      "Dengan persetujuan Pemerintah Pusat, di lokasi tertentu",
+      "Dengan izin pemerintah desa setempat, di lokasi mana saja yang disepakati warga",
+      "Di laut lepas tanpa izin"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 60 melarang dumping tanpa izin; Pasal 61 ayat (1)-(2) versi terbaru.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 60 dan 61",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-pengawas-fungsional",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 71 (setelah diubah UU 6/2023), dalam melaksanakan pengawasan, Pemerintah Pusat atau Daerah menetapkan…",
+    "options": [
+      "Relawan lingkungan",
+      "Pejabat fungsional pengawas lingkungan hidup",
+      "Konsultan swasta",
+      "Satgas gabungan TNI-Polri yang dibentuk setiap tahun anggaran"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 71 ayat (3).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 71",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-second-line",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Pemerintah daerah sengaja tidak menerapkan sanksi administratif atas pelanggaran serius. Menurut Pasal 77 (setelah diubah UU 6/2023)…",
+    "options": [
+      "DPRD menjatuhkan sanksi",
+      "Pelanggaran dibiarkan karena kewenangan daerah",
+      "Masyarakat menjatuhkan sanksi adat",
+      "Menteri dapat menerapkan sanksi administratif"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 77 (sering disebut second line enforcement).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 77",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-sanksi-adm-jenis",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 82C, manakah yang termasuk sanksi administratif?",
+    "options": [
+      "Pidana kurungan",
+      "Pembekuan perizinan",
+      "Perampasan keuntungan hasil tindak pidana",
+      "Kerja sosial"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 82C ayat (1): teguran tertulis, paksaan pemerintah, denda administratif, pembekuan Perizinan Berusaha, dan/atau pencabutan Perizinan Berusaha.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 82C",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-tanpa-izin-adm",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 82A, orang yang menjalankan usaha tanpa Perizinan Berusaha atau persetujuan lingkungan yang diwajibkan…",
+    "options": [
+      "Langsung dipidana penjara",
+      "Dibiarkan sampai ada pengaduan",
+      "Wajib membayar ganti rugi kepada warga",
+      "Dikenai sanksi administratif"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 82A (disisipkan UU 6/2023): dikenai sanksi administratif.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 82A",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-pihak-ketiga-pulih",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 82 (setelah diubah UU 6/2023), Pemerintah Pusat dapat menunjuk pihak ketiga untuk memulihkan lingkungan hidup atas beban biaya…",
+    "options": [
+      "Masyarakat yang terdampak pencemaran",
+      "Penanggung jawab usaha",
+      "Pemerintah daerah",
+      "APBN"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 82 ayat (2).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 82",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-ppns-lh",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 94 ayat (1), selain penyidik Polri, siapa yang diberi wewenang menyidik tindak pidana lingkungan hidup?",
+    "options": [
+      "Satpol PP",
+      "Lembaga swadaya masyarakat yang terdaftar",
+      "PPNS bidang lingkungan hidup",
+      "Jaksa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 94 ayat (1).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 94",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-ultimum-baku-mutu",
+    "type": "quiz",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "bumi.hijau",
+    "question": "Menurut Pasal 100 (setelah diubah UU 1/2026), pelanggaran baku mutu air limbah, emisi, atau gangguan baru dapat dipidana jika…",
+    "options": [
+      "Ada laporan dari LSM",
+      "Ada korban jiwa",
+      "Sanksi administratif diabaikan atau pelanggaran berulang",
+      "Korporasi menolak membayar ganti rugi kepada masyarakat sekitar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 100 ayat (2): pidana sebagai upaya terakhir untuk delik formil pelanggaran baku mutu.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 100 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-humor-baku-mutu-perasaan",
+    "type": "humor",
+    "topicId": "lingkungan",
+    "subTopicId": "asas-lingkungan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "comic",
+      "title": "Jernih Versi Siapa",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Air limbah kami jernih kok, lihat saja."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Ukurannya baku mutu, bukan 'kelihatannya'."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Jadi harus diuji lab?"
+        },
+        {
+          "character": "gecko",
+          "expression": "happy",
+          "text": "Iya. Sungai tidak menilai dari Instagram."
+        }
+      ]
+    },
+    "caption": "Data dulu, klaim belakangan.",
+    "teaches": "UU PPLH mendefinisikan pencemaran sebagai masuknya zat/energi/komponen oleh kegiatan manusia sehingga melampaui baku mutu lingkungan hidup; baku mutu air limbah termasuk jenis baku mutu (Pasal 1 dan Pasal 20).",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 1 dan 20",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "lingkungan-pa-humor-sanksi-dibiarkan",
+    "type": "humor",
+    "topicId": "lingkungan",
+    "subTopicId": "penegakan-lingkungan",
+    "account": "meme.meja.hijau",
+    "visual": {
+      "template": "meme",
+      "top": "Daerah pura-pura tidak lihat pelanggaran serius",
+      "bottom": "Pasal 77: Menteri dapat turun tangan sendiri",
+      "character": "owl",
+      "expression": "smug"
+    },
+    "caption": "Lempar tanggung jawab ada batasnya.",
+    "teaches": "Pasal 77 UU PPLH (setelah diubah UU 6/2023): Menteri dapat menerapkan sanksi administratif bila menganggap Pemerintah Daerah sengaja tidak menerapkan sanksi atas pelanggaran serius.",
+    "source": {
+      "title": "UU No. 32 Tahun 2009 tentang PPLH (sebagaimana diubah UU 6/2023), naskah terkonsolidasi DataHukum",
+      "reference": "Pasal 77",
+      "url": "https://www.datahukum.com/peraturan/UU_32_Tahun_2009.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

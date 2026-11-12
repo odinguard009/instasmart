@@ -1074,5 +1074,480 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-bpr-nama",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Setelah perubahan oleh UU P2SK, singkatan BPR dalam Pasal 1 UU Perbankan adalah…",
+    "options": [
+      "Bank Pembiayaan Rakyat Daerah",
+      "Bank Pembangunan Rakyat",
+      "Bank Perkreditan Rakyat",
+      "Bank Perekonomian Rakyat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Dulu Bank Perkreditan Rakyat. Rumusan baru: Bank yang kegiatan usahanya konvensional atau berdasarkan Prinsip Syariah dan tidak memberikan jasa dalam lalu lintas giral secara langsung.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-bu-vs-bpr",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Pembeda utama Bank Umum dan BPR menurut definisi Pasal 1 UU Perbankan adalah…",
+    "options": [
+      "BPR tidak memberi jasa lalu lintas giral secara langsung",
+      "Bank Umum boleh syariah, sedangkan BPR hanya boleh konvensional",
+      "Bank Umum diawasi OJK, sedangkan BPR diawasi pemerintah daerah",
+      "Bank Umum milik negara, sedangkan BPR selalu milik swasta"
+    ],
+    "answerIndex": 0,
+    "explanation": "BPR juga boleh konvensional atau berdasarkan Prinsip Syariah.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-giro",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Simpanan yang penarikannya dapat dilakukan setiap saat dengan cek, bilyet giro, sarana perintah pembayaran lainnya, atau pemindahbukuan disebut…",
+    "options": [
+      "Giro",
+      "Deposito",
+      "Tabungan",
+      "Sertifikat Deposito"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 1 UU Perbankan.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-tabungan",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Menurut Pasal 1 UU Perbankan, Tabungan adalah Simpanan yang penarikannya hanya menurut syarat tertentu yang disepakati dan…",
+    "options": [
+      "Sertifikatnya dapat dipindahtangankan",
+      "Hanya dapat ditarik pada waktu tertentu sesuai perjanjian",
+      "Dapat ditarik setiap saat dengan cek",
+      "Tidak dapat ditarik dengan cek atau bilyet giro"
+    ],
+    "answerIndex": 3,
+    "explanation": "Deposito: penarikan hanya pada waktu tertentu. Sertifikat Deposito: sertifikatnya dapat dipindahtangankan. Giro: dapat ditarik setiap saat dengan cek/bilyet giro.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-sertifikat",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Simpanan dalam bentuk Deposito yang sertifikat bukti penyimpanannya dapat dipindahtangankan disebut…",
+    "options": [
+      "Surat Berharga Komersial",
+      "Deposito berjangka",
+      "Tabungan berjangka",
+      "Sertifikat Deposito"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 UU Perbankan.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-agunan",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Menurut Pasal 1 UU Perbankan, Agunan adalah…",
+    "options": [
+      "Simpanan wajib Nasabah yang ditahan Bank sampai kreditnya lunas",
+      "Seluruh harta Nasabah yang otomatis menjadi milik Bank",
+      "Dana yang dipercayakan nasabah kepada Bank",
+      "Jaminan tambahan yang diserahkan Nasabah Debitur kepada Bank"
+    ],
+    "answerIndex": 3,
+    "explanation": "Diserahkan dalam rangka pemberian fasilitas Kredit atau Pembiayaan Berdasarkan Prinsip Syariah.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 1",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-rahasia-def",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Rumusan Rahasia Bank dalam Pasal 1 UU Perbankan (setelah P2SK) adalah informasi mengenai…",
+    "options": [
+      "Gaji direksi dan komisaris Bank",
+      "Nasabah Penyimpan dan Simpanan dari Nasabah Penyimpan",
+      "Seluruh Nasabah Debitur beserta kreditnya",
+      "Laporan keuangan tahunan Bank yang belum dipublikasikan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 40 ayat (2): bila Nasabah Penyimpan sekaligus Nasabah Debitur, yang wajib dirahasiakan adalah informasinya dalam kedudukan sebagai Nasabah Penyimpan.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 1, Pasal 40",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-fungsi",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Fungsi utama perbankan Indonesia menurut Pasal 3 UU Perbankan adalah…",
+    "options": [
+      "Pengawas lembaga keuangan nonbank",
+      "Pencetak dan pengedar uang rupiah",
+      "Penghimpun dan penyalur dana masyarakat",
+      "Pengelola kas dan surat utang milik negara"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mengeluarkan dan mengedarkan uang rupiah adalah urusan bank sentral, bukan fungsi perbankan pada umumnya.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 3",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-bu-larangan",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Menurut Pasal 10 UU Perbankan (setelah P2SK), Bank Umum dilarang…",
+    "options": [
+      "Melakukan kegiatan usaha dalam valuta asing",
+      "Menyediakan tempat menyimpan barang dan Surat Berharga",
+      "Menerbitkan dan bertransaksi Surat Berharga untuk kepentingan Nasabah",
+      "Berusaha di bidang perasuransian, kecuali memasarkan produk asuransi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Tiga opsi lain termasuk kegiatan usaha Bank Umum dalam Pasal 6 ayat (1).",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 6 ayat (1), Pasal 10",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-bpr-giro",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Menurut Pasal 14 UU Perbankan (setelah P2SK), BPR dilarang…",
+    "options": [
+      "Menerima Simpanan berupa Tabungan",
+      "Melakukan kegiatan transfer dana",
+      "Menerima Simpanan berupa Giro",
+      "Menyalurkan Kredit kepada masyarakat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sejalan dengan definisi BPR yang tidak memberikan jasa lalu lintas giral secara langsung. Tabungan, kredit, dan transfer dana termasuk kegiatan usaha BPR (Pasal 13 ayat (1)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 13-14",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-bpr-valas",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Mengenai valuta asing, Pasal 14 UU Perbankan (setelah P2SK) menentukan BPR…",
+    "options": [
+      "Bebas melakukan seluruh kegiatan valuta asing",
+      "Hanya boleh menerima deposito dalam valuta asing",
+      "Dilarang berusaha dalam valas, kecuali penukaran valuta asing",
+      "Wajib bermitra dengan Bank Umum untuk semua transaksi valuta asing"
+    ],
+    "answerIndex": 2,
+    "explanation": "Penukaran valuta asing tercantum sebagai kegiatan usaha BPR dalam Pasal 13 ayat (1).",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 13-14",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-izin",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Setiap Orang yang menghimpun dana masyarakat dalam bentuk Simpanan, menurut Pasal 16 ayat (1) UU Perbankan (setelah P2SK), wajib lebih dulu memperoleh izin usaha sebagai Bank Umum atau BPR dari…",
+    "options": [
+      "Lembaga Penjamin Simpanan",
+      "Bank Indonesia",
+      "Otoritas Jasa Keuangan",
+      "Menteri Keuangan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kecuali penghimpunan dana itu diatur dengan undang-undang tersendiri. Menghimpun simpanan tanpa izin diancam pidana oleh UU Perbankan.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 16 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-izin-syarat",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Manakah yang BUKAN persyaratan minimal izin usaha bank menurut Pasal 16 ayat (2) UU Perbankan (setelah P2SK)?",
+    "options": [
+      "Kelayakan rencana kerja",
+      "Susunan organisasi dan kepengurusan",
+      "Permodalan dan kepemilikan",
+      "Rekomendasi pemda"
+    ],
+    "answerIndex": 3,
+    "explanation": "Persyaratan minimal: susunan organisasi dan kepengurusan; permodalan; kepemilikan; keahlian di bidang Perbankan; kelayakan rencana kerja.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 16 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-bentuk-bpr",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Bentuk badan hukum BPR menurut Pasal 21 ayat (2) UU Perbankan (setelah P2SK) adalah…",
+    "options": [
+      "Perseroan terbatas saja",
+      "Perseroan terbatas atau koperasi",
+      "Yayasan atau perkumpulan",
+      "Koperasi atau perusahaan umum daerah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bank Umum berbentuk badan hukum perseroan terbatas (ayat (1)). Kantor cabang bank asing mengikuti bentuk badan hukum kantor pusatnya (ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 21",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-pengawasan",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Pengawasan langsung OJK terhadap Bank menurut Pasal 29 ayat (4) UU Perbankan (setelah P2SK) dilakukan melalui…",
+    "options": [
+      "Pemeriksaan berkala dan sewaktu-waktu",
+      "Rapat umum pemegang saham Bank",
+      "Laporan tahunan yang diaudit akuntan publik saja",
+      "Persetujuan setiap transaksi kredit"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 29 ayat (3): pengawasan dilakukan langsung maupun tidak langsung. Ayat (5): OJK juga berwenang mengawasi langsung pihak terelasi dalam kelompok usaha Bank.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 29",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-izin-pidana",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Untuk kepentingan peradilan perkara pidana, polisi, jaksa, atau hakim memperoleh informasi Simpanan tersangka/terdakwa dari Bank dengan izin…",
+    "options": [
+      "Otoritas Jasa Keuangan",
+      "Gubernur Bank Indonesia",
+      "Menteri Keuangan",
+      "Ketua Lembaga Penjamin Simpanan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 42 ayat (1)-(2) UU Perbankan (setelah P2SK): izin tertulis OJK atas permintaan tertulis pimpinan instansi, misalnya Kapolri, Jaksa Agung, atau Ketua MA.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 42",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-perdata-nasabah",
+    "type": "quiz",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "question": "Dalam perkara perdata antara Bank dan Nasabahnya, menurut Pasal 43 UU Perbankan (setelah P2SK), direksi Bank…",
+    "options": [
+      "Hanya boleh memberi keterangan bila Nasabah memberi persetujuan tertulis",
+      "Dapat menginformasikan keadaan keuangan Nasabah kepada pengadilan",
+      "Wajib menolak memberi keterangan karena rahasia bank",
+      "Harus lebih dulu meminta izin Bank Indonesia"
+    ],
+    "answerIndex": 1,
+    "explanation": "Untuk perkara antara Nasabah dan Nasabah, direksi harus menginformasikan berdasarkan permintaan ketua pengadilan negeri, ketua pengadilan tinggi, atau Ketua Mahkamah Agung.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 43",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-humor-bpr-giro",
+    "type": "humor",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "comic",
+      "title": "Beda menu",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "happy",
+          "text": "Nasabah: saya mau buka giro di BPR dekat rumah."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Teller: Pasal 14: BPR dilarang menerima Giro."
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Nasabah: lho, kan sama-sama bank?"
+        },
+        {
+          "character": "owl",
+          "expression": "smug",
+          "text": "Teller: sama-sama bank, beda menu."
+        }
+      ]
+    },
+    "caption": "BPR boleh menerima Tabungan dan Deposito, tetapi tidak Giro.",
+    "teaches": "Pasal 13-14 UU Perbankan setelah P2SK: BPR menghimpun Tabungan dan Deposito berjangka; BPR dilarang menerima Simpanan berupa Giro.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 13-14",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "perbankan-pasar-modal-bk-humor-arisan-bank",
+    "type": "humor",
+    "topicId": "perbankan-pasar-modal",
+    "subTopicId": "perbankan",
+    "account": "saldo.aman",
+    "visual": {
+      "template": "meme",
+      "top": "Investasi bodong: kami menghimpun simpanan, bunga 10% per bulan!",
+      "bottom": "Pasal 16: izin OJK dulu, bukan testimoni dulu",
+      "character": "kancil",
+      "expression": "shock"
+    },
+    "caption": "Menghimpun simpanan masyarakat wajib berizin sebagai bank, kecuali diatur undang-undang tersendiri.",
+    "teaches": "Pasal 16 ayat (1) UU Perbankan setelah P2SK: setiap orang yang menghimpun dana masyarakat dalam bentuk Simpanan wajib terlebih dahulu memperoleh izin usaha sebagai Bank Umum atau BPR dari OJK.",
+    "source": {
+      "title": "UU No. 7 Tahun 1992 tentang Perbankan sebagaimana diubah, antara lain oleh UU No. 4 Tahun 2023 (P2SK)",
+      "reference": "Pasal 16",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_1992.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

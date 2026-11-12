@@ -509,5 +509,624 @@
     "needsVerification": true,
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pidana-khusus-tppu-tkm-profil",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Transaksi keuangan yang menyimpang dari profil, karakteristik, atau kebiasaan pola transaksi pengguna jasa termasuk kategori…",
+    "options": [
+      "Transaksi Keuangan Tunai",
+      "Transfer dana luar negeri",
+      "Transaksi yang dikecualikan dari laporan",
+      "Transaksi Keuangan Mencurigakan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 5 huruf a UU 8/2010 memasukkannya ke dalam Transaksi Keuangan Mencurigakan (TKM).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 1 angka 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-tunai",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 1 angka 6, Transaksi Keuangan Tunai adalah transaksi keuangan yang dilakukan dengan menggunakan…",
+    "options": [
+      "Kartu debit dan kartu kredit",
+      "Uang elektronik dan dompet digital",
+      "Uang kertas dan/atau uang logam",
+      "Cek dan bilyet giro"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 6: Transaksi Keuangan Tunai adalah Transaksi Keuangan yang dilakukan dengan menggunakan uang kertas dan/atau uang logam.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 1 angka 6",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-setiap-orang",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Dalam UU 8/2010, \"Setiap Orang\" berarti…",
+    "options": [
+      "Hanya pejabat negara",
+      "Hanya warga negara Indonesia yang dewasa",
+      "Hanya nasabah bank",
+      "Orang perseorangan atau korporasi"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 1 angka 9: Setiap Orang adalah orang perseorangan atau Korporasi. Pasal 1 angka 10: korporasi bisa berbadan hukum maupun tidak.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 1 angka 9-10",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-permufakatan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Perbuatan dua orang atau lebih yang bersepakat untuk melakukan tindak pidana pencucian uang disebut…",
+    "options": [
+      "Percobaan",
+      "Penyertaan pasif bersyarat",
+      "Permufakatan jahat",
+      "Pembantuan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 1 angka 15 UU 8/2010 mendefinisikan Permufakatan Jahat demikian.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 1 angka 15",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-pihak-pelapor-barang",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 17 ayat (1) huruf b, siapa yang termasuk pihak pelapor sebagai penyedia barang dan/atau jasa lain?",
+    "options": [
+      "Penerbit buku",
+      "Warung kelontong",
+      "Pedagang kendaraan bermotor",
+      "Penyedia jasa katering pernikahan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 17 ayat (1) huruf b: perusahaan/agen properti, pedagang kendaraan bermotor, pedagang permata dan perhiasan/logam mulia, pedagang barang seni dan antik, serta balai lelang. Pihak pelapor lain dapat ditambah lewat Peraturan Pemerintah (ayat (2)).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 17 ayat (1) huruf b",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-pihak-pelapor-pjk",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Manakah yang termasuk penyedia jasa keuangan pihak pelapor menurut Pasal 17 ayat (1) huruf a?",
+    "options": [
+      "Balai lelang",
+      "Pedagang valuta asing",
+      "Pedagang barang seni dan antik",
+      "Agen properti"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pedagang valuta asing ada di daftar penyedia jasa keuangan (huruf a). Barang seni, balai lelang, dan agen properti ada di huruf b (penyedia barang dan/atau jasa lain).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 17 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-kyc-100jt",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Pasal 18 ayat (3): prinsip mengenali pengguna jasa wajib diterapkan antara lain saat ada transaksi keuangan paling sedikit…",
+    "options": [
+      "Rp100 juta",
+      "Rp1 miliar",
+      "Rp10 juta",
+      "Rp500 juta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 18 ayat (3) huruf b: transaksi keuangan dalam rupiah dan/atau mata uang asing paling sedikit atau setara Rp100.000.000. Jangan tertukar dengan ambang laporan transaksi tunai Rp500 juta (Pasal 23).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 18 ayat (3)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-kyc-isi",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 18 ayat (5), prinsip mengenali pengguna jasa sekurang-kurangnya memuat…",
+    "options": [
+      "Audit pajak, audit keuangan, dan audit kinerja tahunan",
+      "Identifikasi, verifikasi, dan pemantauan transaksi",
+      "Penyitaan, pemblokiran, dan perampasan",
+      "Pemanggilan, pemeriksaan, dan penahanan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 18 ayat (5): identifikasi pengguna jasa, verifikasi pengguna jasa, dan pemantauan transaksi pengguna jasa.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 18 ayat (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-ambang-tunai",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Penyedia jasa keuangan wajib melaporkan Transaksi Keuangan Tunai kepada PPATK bila jumlahnya paling sedikit…",
+    "options": [
+      "Rp500 juta per hari kerja",
+      "Rp1 miliar per bulan kalender",
+      "Rp100 juta per transaksi",
+      "Rp50 juta per minggu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 23 ayat (1) huruf b: paling sedikit Rp500.000.000 (atau setara valuta asing), baik dalam satu kali maupun beberapa kali transaksi dalam 1 hari kerja. Angka ini dapat diubah dengan Keputusan Kepala PPATK (ayat (2)).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 23 ayat (1) huruf b",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-pengecualian-gaji",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Transaksi mana yang dikecualikan dari kewajiban laporan Transaksi Keuangan Tunai menurut Pasal 23 ayat (4)?",
+    "options": [
+      "Pembayaran gaji atau pensiun",
+      "Setoran tunai hasil usaha",
+      "Pembelian mobil secara tunai",
+      "Pembelian emas secara tunai"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 23 ayat (4): dikecualikan transaksi penyedia jasa keuangan dengan pemerintah dan bank sentral, transaksi pembayaran gaji atau pensiun, dan transaksi lain yang ditetapkan/disetujui PPATK.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 23 ayat (4)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-tenggat-tkm",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Laporan Transaksi Keuangan Mencurigakan wajib disampaikan ke PPATK paling lama…",
+    "options": [
+      "14 hari kerja sejak transaksi",
+      "3 hari kerja sejak diketahui",
+      "30 hari sejak transaksi",
+      "1 hari kerja sejak transaksi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 25 ayat (1): sesegera mungkin paling lama 3 hari kerja setelah penyedia jasa keuangan mengetahui adanya unsur TKM. Laporan transaksi tunai dan transfer luar negeri: paling lama 14 hari kerja sejak transaksi (ayat (2)-(3)).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 25 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-tenggat-tunai",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Laporan Transaksi Keuangan Tunai wajib disampaikan paling lama…",
+    "options": [
+      "24 jam sejak transaksi",
+      "Akhir tahun buku berjalan",
+      "14 hari kerja sejak tanggal transaksi",
+      "3 hari kerja sejak transaksi diketahui"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 25 ayat (2): paling lama 14 (empat belas) hari kerja terhitung sejak tanggal transaksi dilakukan.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 25 ayat (2)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-tunda-pjk",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Penyedia jasa keuangan dapat menunda transaksi pengguna jasa yang patut diduga memakai harta hasil tindak pidana paling lama…",
+    "options": [
+      "15 hari kerja",
+      "5 hari kerja",
+      "30 hari",
+      "24 jam"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 26 ayat (1): paling lama 5 hari kerja. Penundaan wajib dilaporkan ke PPATK paling lama 24 jam dengan berita acara (ayat (5)), dan pada hari kerja kelima penyedia jasa keuangan harus memutuskan melaksanakan atau menolak transaksi (ayat (7)).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 26",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-lapor-tunda-24",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Setelah menunda transaksi, penyedia jasa keuangan wajib melaporkannya ke PPATK dalam waktu paling lama…",
+    "options": [
+      "14 hari kerja sejak penundaan",
+      "24 jam sejak penundaan",
+      "5 hari kerja sejak penundaan",
+      "3 hari kerja sejak penundaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 26 ayat (5): paling lama 24 (dua puluh empat) jam sejak penundaan dilakukan, dengan melampirkan berita acara penundaan transaksi.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 26 ayat (5)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-kerahasiaan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Bagaimana kedudukan kewajiban pelaporan ke PPATK terhadap ketentuan kerahasiaan (misalnya rahasia bank)?",
+    "options": [
+      "Hanya boleh setelah ada tersangka",
+      "Dikecualikan dari ketentuan kerahasiaan",
+      "Harus seizin pengadilan terlebih dahulu",
+      "Harus seizin nasabah terlebih dahulu"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 28: pelaksanaan kewajiban pelaporan oleh pihak pelapor dikecualikan dari ketentuan kerahasiaan yang berlaku bagi pihak pelapor tersebut.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 28",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-imunitas-pelapor",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Pasal 29 menyatakan pihak pelapor, pejabat, dan pegawainya tidak dapat dituntut perdata maupun pidana atas pelaksanaan kewajiban pelaporan, kecuali…",
+    "options": [
+      "Transaksi bernilai di bawah Rp100 juta",
+      "Terdapat unsur penyalahgunaan wewenang",
+      "Nasabah merasa dirugikan",
+      "Laporan ternyata tidak terbukti"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 29: kecuali terdapat unsur penyalahgunaan wewenang.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 29",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-ppatk-tanggung-jawab",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "PPATK bersifat independen dan bertanggung jawab kepada…",
+    "options": [
+      "Mahkamah Agung",
+      "DPR",
+      "Bank Indonesia",
+      "Presiden"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 37 ayat (1)-(2): PPATK independen, bebas dari campur tangan kekuasaan mana pun, dan bertanggung jawab kepada Presiden.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 37",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-hasil-pemeriksaan",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Jika PPATK menemukan indikasi tindak pidana pencucian uang dari pemeriksaan TKM, Hasil Pemeriksaan diserahkan kepada…",
+    "options": [
+      "Hakim",
+      "Pihak pelapor",
+      "Penyidik",
+      "Penuntut umum"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 64 ayat (2): PPATK menyerahkan Hasil Pemeriksaan kepada penyidik untuk dilakukan penyidikan; penyidik berkoordinasi dengan PPATK (ayat (3)).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 64",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-henti-sementara",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "PPATK dapat meminta penghentian sementara transaksi selama paling lama 5 hari kerja dan dapat memperpanjangnya paling lama…",
+    "options": [
+      "60 hari",
+      "5 hari kerja",
+      "30 hari kerja",
+      "15 hari kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 66 ayat (1)-(2): penghentian sementara paling lama 5 hari kerja, dapat diperpanjang paling lama 15 hari kerja untuk melengkapi hasil analisis atau pemeriksaan.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 66",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-penyidik-asal",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Menurut Pasal 74, penyidikan tindak pidana pencucian uang dilakukan oleh…",
+    "options": [
+      "PPATK",
+      "Pihak pelapor",
+      "Penyidik tindak pidana asal",
+      "Hakim pengawas dan pengamat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 74: penyidikan TPPU dilakukan oleh penyidik tindak pidana asal sesuai hukum acara, kecuali ditentukan lain. PPATK menganalisis, bukan menyidik.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 74",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-gabung",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Jika penyidik menemukan bukti permulaan yang cukup atas TPPU dan tindak pidana asalnya, Pasal 75 mengatur bahwa penyidik…",
+    "options": [
+      "Memilih salah satu penyidikan saja dan menghentikan yang lain",
+      "Menunda TPPU sampai tindak pidana asal diputus",
+      "Menggabungkan kedua penyidikan dan memberi tahu PPATK",
+      "Menyerahkan semua penyidikan ke PPATK"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 75: penyidik menggabungkan penyidikan tindak pidana asal dengan penyidikan TPPU dan memberitahukannya kepada PPATK.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 75",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-in-absentia",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Terdakwa TPPU telah dipanggil secara sah dan patut tetapi tidak hadir tanpa alasan sah. Menurut Pasal 79 ayat (1)…",
+    "options": [
+      "Perkara dialihkan ke pengadilan perdata",
+      "Perkara ditunda sampai terdakwa ditemukan dan dihadirkan paksa",
+      "Perkara dapat diperiksa dan diputus tanpa kehadirannya",
+      "Perkara wajib dihentikan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 79 ayat (1): perkara dapat diperiksa dan diputus tanpa hadirnya terdakwa.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 79 ayat (1)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-meninggal",
+    "type": "quiz",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "question": "Terdakwa TPPU meninggal sebelum putusan, padahal ada bukti cukup kuat. Menurut Pasal 79 ayat (4), hakim atas tuntutan penuntut umum dapat…",
+    "options": [
+      "Menjatuhkan pidana penjara kepada para ahli warisnya",
+      "Menghapus semua penyitaan",
+      "Mengalihkan perkara ke PPATK",
+      "Memutuskan perampasan harta yang telah disita"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 79 ayat (4): hakim memutuskan perampasan harta kekayaan yang telah disita. Penetapan ini tidak dapat dimohonkan upaya hukum (ayat (5)), tetapi pihak berkepentingan dapat mengajukan keberatan dalam 30 hari sejak pengumuman (ayat (6)).",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 79 ayat (4)-(6)",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-humor-pecah-setoran",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "comic",
+      "title": "Strategi jenius",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Setor 480 juta pagi, 450 juta sore. Aman, di bawah 500!"
+        },
+        {
+          "character": "gecko",
+          "expression": "think",
+          "text": "Bukannya dihitung per hari kerja?"
+        },
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "…Per hari?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Plus: memecah setoran demi hindari laporan = mencurigakan."
+        }
+      ]
+    },
+    "caption": "Rencana sempurna, kecuali bagian hukumnya.",
+    "teaches": "Pasal 23 ayat (1) huruf b UU 8/2010: laporan transaksi tunai dihitung dari satu kali atau beberapa kali transaksi dalam 1 hari kerja (paling sedikit Rp500 juta). Pasal 1 angka 5 huruf b: transaksi yang patut diduga bertujuan menghindari pelaporan termasuk Transaksi Keuangan Mencurigakan.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 23 ayat (1) huruf b; Pasal 1 angka 5",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pidana-khusus-tppu-humor-hadiah-paman",
+    "type": "humor",
+    "topicId": "pidana-khusus",
+    "subTopicId": "tppu",
+    "account": "anti.rasuah",
+    "visual": {
+      "template": "meme",
+      "top": "\"Rumah tiga, mobil lima? Itu hadiah dari paman yang tidak pernah kami temui.\"",
+      "bottom": "Di sidang TPPU, terdakwa yang wajib membuktikan asal hartanya.",
+      "character": "kancil",
+      "expression": "smug"
+    },
+    "caption": "Paman misterius: tokoh fiksi favorit di ruang sidang.",
+    "teaches": "Pasal 77 dan 78 UU 8/2010: untuk kepentingan pemeriksaan di sidang, terdakwa wajib membuktikan bahwa harta kekayaannya bukan hasil tindak pidana, dengan mengajukan alat bukti yang cukup.",
+    "source": {
+      "title": "UU No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+      "reference": "Pasal 77-78",
+      "url": "https://perpajakan.ddtc.co.id/id/sumber-hukum/peraturan-pusat/undang-undang-8-tahun-2010"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]

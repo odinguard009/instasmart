@@ -13,6 +13,8 @@ Hal-hal di bawah ini sengaja BELUM dikerjakan. Urutannya kira-kira dari yang pal
 - **Pengukur lebar teks sungguhan** untuk template SVG (sekarang perkiraan per karakter).
 - **Sinkron narasi dengan scene** (durasi scene mengikuti lama ucapan) dan pilihan suara.
 - **Virtualisasi feed** bila pemakaian sangat panjang (ratusan post) terasa berat di ponsel; sekarang hanya `content-visibility: auto`.
+- **Skeleton loader** untuk layar yang dimuat lambat (sekarang teks "Memuat…"; di Chromium desktop rute lazy terbuka hampir seketika, jadi belum diprioritaskan).
+- **Cek di ponsel fisik:** inset area aman atas (`pt-safe`) dan gestur geser story baru dites di Chromium dengan emulasi sentuh, belum di perangkat Android sungguhan.
 - **Tes komponen terperinci di peramban.** `npm run smoke` sudah jalan di CI sebelum deploy, tetapi hanya cek kasar (error konsol, beberapa teks, screenshot).
 
 ## Fase lanjutan

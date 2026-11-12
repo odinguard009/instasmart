@@ -846,5 +846,763 @@
     },
     "status": "draft",
     "createdAt": "2026-11-11"
+  },
+  {
+    "id": "pemilu-sp-asal-pelanggaran",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Menurut Pasal 454 ayat (1) UU Pemilu, pelanggaran pemilu berasal dari…",
+    "options": [
+      "Rekomendasi DPR dan pemerintah",
+      "Putusan MK dan aduan partai politik",
+      "Temuan dan laporan pelanggaran pemilu",
+      "Pemberitaan media massa dan viral di media sosial"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 454 ayat (1). Temuan = hasil pengawasan aktif pengawas pemilu (ayat (2)); laporan = laporan langsung WNI yang punya hak pilih, peserta pemilu, dan pemantau (ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 454 ayat (1)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-pelapor",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Siapa yang menurut Pasal 454 ayat (3) dapat menyampaikan laporan pelanggaran pemilu?",
+    "options": [
+      "WNI yang punya hak pilih, peserta pemilu, dan pemantau pemilu",
+      "Hanya KPU dan jajarannya",
+      "Siapa saja, termasuk warga negara asing yang sedang berada di Indonesia",
+      "Hanya peserta pemilu yang dirugikan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 454 ayat (3).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 454 ayat (3)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-lapor-7",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Laporan pelanggaran pemilu disampaikan paling lama…",
+    "options": [
+      "3 x 24 jam sejak kejadian",
+      "30 hari sejak hari pemungutan suara di tempat pemungutan suara",
+      "7 hari kerja sejak dugaan pelanggaran diketahui",
+      "14 hari kerja sejak penetapan hasil"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 454 ayat (6). Temuan dari pengawasan aktif ditetapkan paling lama 7 hari sejak ditemukannya dugaan pelanggaran (ayat (5)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 454 ayat (5)-(6)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-kode-etik",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Pelanggaran kode etik penyelenggara pemilu diselesaikan oleh…",
+    "options": [
+      "PTUN",
+      "DKPP",
+      "Bawaslu",
+      "Mahkamah Konstitusi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 457 ayat (1); termasuk kode etik PPLN, KPPSLN, dan Panwaslu LN (ayat (2)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 457",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-admin-def",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Pelanggaran administratif pemilu menurut Pasal 460 adalah pelanggaran terhadap…",
+    "options": [
+      "Hasil penghitungan suara secara nasional",
+      "Tata cara, prosedur, atau mekanisme administrasi di tiap tahapan",
+      "Ketentuan pidana dalam UU Pemilu",
+      "Etika dan sumpah jabatan anggota KPU, Bawaslu, serta jajarannya di daerah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 460 ayat (1); ayat (2): tidak termasuk tindak pidana pemilu dan pelanggaran kode etik.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 460",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-admin-14",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Bawaslu wajib memutus pelanggaran administratif pemilu paling lama…",
+    "options": [
+      "14 hari kerja setelah laporan diregistrasi",
+      "30 hari kerja setelah pemungutan suara selesai dilaksanakan",
+      "12 hari sejak permohonan diterima",
+      "3 hari kerja setelah laporan diterima"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 461 ayat (5).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 461 ayat (5)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-admin-putusan",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Mana yang BUKAN bentuk putusan Bawaslu atas pelanggaran administratif menurut Pasal 461 ayat (6)?",
+    "options": [
+      "Perbaikan administrasi",
+      "Teguran tertulis",
+      "Pidana denda",
+      "Tidak diikutkan pada tahapan tertentu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 461 ayat (6): perbaikan administrasi, teguran tertulis, tidak diikutkan pada tahapan tertentu, dan sanksi administratif lain sesuai UU ini. Pidana bukan wewenang Bawaslu.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 461 ayat (6)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-kpu-tindak-3",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "KPU wajib menindaklanjuti putusan Bawaslu paling lama…",
+    "options": [
+      "Tidak wajib, putusan Bawaslu hanya rekomendasi",
+      "7 hari kerja sejak putusan dibacakan",
+      "3 hari kerja sejak putusan dibacakan",
+      "14 hari sejak putusan diterima"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 462. Jika tidak ditindaklanjuti, Bawaslu mengadukan ke DKPP (Pasal 464).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 462, 464",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-tsm",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Pelanggaran administratif yang terstruktur, sistematis, dan masif (TSM) dapat berujung pada keputusan KPU berupa…",
+    "options": [
+      "Pemungutan suara ulang secara nasional secara otomatis",
+      "Pidana penjara bagi calon",
+      "Pembatalan caleg atau pasangan calon",
+      "Pembubaran partai politik peserta pemilu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 463 ayat (1)-(4). Calon yang dibatalkan dapat mengajukan upaya hukum ke Mahkamah Agung paling lambat 3 hari kerja sejak keputusan KPU ditetapkan (ayat (5)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 463",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-tsm-ma",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Calon yang dibatalkan KPU karena pelanggaran administratif TSM dapat mengajukan upaya hukum ke…",
+    "options": [
+      "PTUN, paling lambat 5 hari kerja",
+      "Mahkamah Konstitusi, paling lambat 3 x 24 jam",
+      "DKPP, paling lambat 7 hari",
+      "Mahkamah Agung, paling lambat 3 hari kerja"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 463 ayat (5).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 463 ayat (5)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-sengketa-proses",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Sengketa proses pemilu menurut Pasal 466 adalah sengketa…",
+    "options": [
+      "Antara pemilih dan KPU mengenai daftar pemilih tetap di daerah pemilihan",
+      "Antarpeserta, atau peserta dengan penyelenggara, akibat keputusan KPU",
+      "Antara anggota KPU dan Bawaslu mengenai kode etik",
+      "Mengenai penetapan perolehan suara hasil pemilu nasional"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 466. Sengketa hasil (perolehan suara) adalah perselisihan hasil pemilu, kewenangan MK (Pasal 473-475).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 466, 473",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-permohonan-3",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Permohonan penyelesaian sengketa proses pemilu ke Bawaslu diajukan paling lama…",
+    "options": [
+      "14 hari sejak keputusan KPU diumumkan kepada publik",
+      "5 hari kerja sejak putusan PTUN",
+      "7 hari kerja sejak diketahui",
+      "3 hari kerja sejak keputusan KPU ditetapkan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 467 ayat (4); pemohonnya calon peserta dan/atau peserta pemilu (ayat (2)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 467",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-bawaslu-12",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Bawaslu memeriksa dan memutus sengketa proses pemilu paling lama…",
+    "options": [
+      "12 hari sejak permohonan diterima",
+      "14 hari kerja sejak registrasi",
+      "3 hari sejak penetapan KPU",
+      "21 hari kerja sejak gugatan lengkap"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 468 ayat (2). Tahapannya: mengkaji permohonan, lalu mempertemukan para pihak lewat mediasi atau musyawarah mufakat; jika gagal, adjudikasi (ayat (3)-(4)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 468",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-mediasi-dulu",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Dalam sengketa proses pemilu, Bawaslu menempuh adjudikasi apabila…",
+    "options": [
+      "KPU menolak hadir di sidang pertama",
+      "Mediasi atau musyawarah tidak mencapai sepakat",
+      "Sengketa menyangkut hasil penghitungan suara nasional",
+      "Permohonan diajukan oleh partai politik besar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 468 ayat (3)-(4).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 468 ayat (3)-(4)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-final-kecuali",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Putusan Bawaslu atas sengketa proses pemilu final dan mengikat, KECUALI yang berkaitan dengan…",
+    "options": [
+      "Kampanye di media sosial dan pemasangan alat peraga kampanye",
+      "Penetapan jadwal tahapan pemilu",
+      "Pengangkatan anggota KPPS",
+      "Verifikasi parpol, penetapan DCT, penetapan paslon"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 469 ayat (1); untuk tiga hal itu, pihak yang tidak menerima dapat mengajukan upaya hukum ke PTUN (ayat (2)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 469",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-ptun-syarat",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Gugatan sengketa tata usaha negara pemilu ke PTUN baru dapat diajukan setelah…",
+    "options": [
+      "Mediasi di pengadilan negeri setempat dinyatakan gagal",
+      "Ada rekomendasi DKPP",
+      "Upaya administratif di Bawaslu dipakai",
+      "MK menolak permohonan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 471 ayat (1).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 471 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-ptun-5",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Gugatan ke PTUN atas sengketa proses pemilu diajukan paling lama…",
+    "options": [
+      "90 hari, sama seperti gugatan tata usaha negara biasa",
+      "14 hari setelah keputusan KPU",
+      "5 hari kerja setelah putusan Bawaslu",
+      "3 hari kerja setelah putusan Bawaslu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 471 ayat (2). Perbaikan gugatan paling lama 3 hari kerja (ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 471 ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-ptun-21",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "PTUN memutus sengketa proses pemilu paling lama…, dan putusannya…",
+    "options": [
+      "7 hari; dapat diajukan PK",
+      "14 hari sejak gugatan masuk; dapat dibanding",
+      "21 hari kerja sejak lengkap; final dan mengikat",
+      "30 hari kerja; masih dapat dikasasi ke Mahkamah Agung"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 471 ayat (6)-(7). KPU wajib menindaklanjuti paling lama 3 hari kerja (ayat (8)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 471 ayat (6)-(8)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-hakim-khusus",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Sengketa proses pemilu di PTUN diperiksa oleh…",
+    "options": [
+      "Hakim konstitusi yang ditugaskan MK",
+      "Majelis campuran hakim PTUN dan hakim pengadilan negeri setempat",
+      "Majelis khusus hakim karier PTUN (ditetapkan Ketua MA)",
+      "Hakim ad hoc dari unsur Bawaslu"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 472 ayat (1)-(2); umumnya berpengalaman minimal 3 tahun sebagai hakim dan dibebaskan dari perkara lain selama menangani (ayat (3)-(4)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 472",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-hasil-def",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Perselisihan hasil pemilu menurut Pasal 473 adalah perselisihan antara…",
+    "options": [
+      "Peserta pemilu dengan sesama peserta mengenai pelanggaran jadwal kampanye",
+      "KPU dan peserta pemilu soal penetapan perolehan suara nasional",
+      "Pemilih dan KPPS mengenai surat suara",
+      "Bawaslu dan KPU mengenai rekomendasi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 473 ayat (1). Untuk pemilu legislatif: yang dapat memengaruhi perolehan kursi (ayat (2)); untuk pilpres: yang dapat memengaruhi penetapan hasil (ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 473",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-legislatif-3x24",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Peserta pemilu anggota DPR/DPD/DPRD mengajukan permohonan ke MK paling lama…",
+    "options": [
+      "7 hari sejak hari pemungutan suara",
+      "3 x 24 jam sejak KPU umumkan perolehan suara nasional",
+      "14 hari sejak sertifikat hasil penghitungan suara diterima saksi",
+      "3 hari kerja sejak penetapan hasil di provinsi"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pasal 474 ayat (2); perbaikan permohonan juga paling lama 3 x 24 jam (ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 474 ayat (2)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-pilpres-3",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Pasangan calon presiden mengajukan keberatan ke MK paling lama…",
+    "options": [
+      "14 hari setelah KPU menetapkan hasil",
+      "7 hari setelah pemungutan suara",
+      "3 hari setelah KPU menetapkan hasil",
+      "30 hari setelah pelantikan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 475 ayat (1).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 475 ayat (1)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-pilpres-14",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "MK memutus perselisihan hasil pilpres paling lama…",
+    "options": [
+      "30 hari sejak permohonan diregistrasi",
+      "7 hari sejak sidang pertama",
+      "60 hari kerja sejak permohonan diterima",
+      "14 hari sejak keberatan diterima"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 475 ayat (3). Putusan disampaikan antara lain kepada MPR, Presiden, KPU, pasangan calon, dan parpol pengusul (ayat (5)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 475 ayat (3), (5)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-pilpres-objek",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Keberatan hasil pilpres ke MK hanya terhadap hasil penghitungan suara yang…",
+    "options": [
+      "Memengaruhi terpilihnya paslon atau perlunya putaran kedua",
+      "Terjadi di lebih dari separuh provinsi",
+      "Berbeda lebih dari 1% dibandingkan hasil hitung cepat lembaga survei",
+      "Dipersoalkan oleh mayoritas pemilih"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pasal 475 ayat (2).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 475 ayat (2)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-pidana-24jam",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Laporan dugaan tindak pidana pemilu diteruskan Bawaslu ke kepolisian paling lama…",
+    "options": [
+      "14 hari setelah kajian",
+      "7 hari sejak kejadian",
+      "3 hari kerja sejak laporan diterima dan diregistrasi oleh pengawas",
+      "1 x 24 jam sejak dinyatakan sebagai dugaan"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 476 ayat (1); penetapan dugaannya dilakukan setelah koordinasi dengan Polri dan Kejaksaan dalam Gakkumdu (ayat (2)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 476 ayat (1)-(2)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-pn-7",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Pengadilan negeri memutus perkara tindak pidana pemilu paling lama…, dan putusan banding…",
+    "options": [
+      "30 hari; dapat diajukan PK",
+      "21 hari kerja; putusannya sudah final di tingkat pertama tanpa banding",
+      "14 hari; masih dapat dikasasi",
+      "7 hari; putusan banding terakhir dan mengikat"
+    ],
+    "answerIndex": 3,
+    "explanation": "Pasal 482 ayat (1), (4), (5): banding diajukan paling lama 3 hari, diputus pengadilan tinggi paling lama 7 hari, dan tidak ada upaya hukum lain.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 482",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-gakkumdu",
+    "type": "quiz",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "question": "Gakkumdu menurut Pasal 486 dibentuk oleh dan melekat pada…",
+    "options": [
+      "KPU dan Mahkamah Agung; melekat pada KPU di setiap tingkatan wilayah",
+      "Dibentuk MK; melekat pada kepaniteraan MK",
+      "Bawaslu, Polri, dan Kejaksaan Agung; melekat pada Bawaslu",
+      "Dibentuk DPR; melekat pada Komisi II"
+    ],
+    "answerIndex": 2,
+    "explanation": "Pasal 486 ayat (1)-(3): penyidik dari Polri dan penuntut dari Kejaksaan.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 486 ayat (1)-(3)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-humor-jalur",
+    "type": "humor",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "comic",
+      "title": "Salah loket",
+      "panels": [
+        {
+          "character": "cat",
+          "expression": "shock",
+          "text": "Caleg: saya dicoret dari DCT! Langsung ke MK!"
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pengawas: itu sengketa proses, ke Bawaslu dulu."
+        },
+        {
+          "character": "cat",
+          "expression": "smug",
+          "text": "Caleg: kalau kalah, MK kan?"
+        },
+        {
+          "character": "owl",
+          "expression": "happy",
+          "text": "Pengawas: PTUN. MK itu untuk hasil suara."
+        }
+      ]
+    },
+    "caption": "Salah loket bukan cuma terjadi di kantor kelurahan.",
+    "teaches": "Sengketa proses (akibat keputusan KPU, misalnya pencoretan dari DCT) diajukan ke Bawaslu; untuk DCT, verifikasi parpol, dan penetapan paslon dapat lanjut ke PTUN (Pasal 466-471 UU 7/2017). Perselisihan hasil suara ke MK (Pasal 473-475).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 466-475",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-humor-hitung-cepat",
+    "type": "humor",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "meme",
+      "top": "Kalah versi hitung cepat, langsung gugat ke MK",
+      "bottom": "Pasal 475: gugat hasil KPU, maks. 3 hari",
+      "character": "gecko",
+      "expression": "smug"
+    },
+    "caption": "Hitung cepat itu survei, bukan objek sengketa. Sabar, tunggu hasil resmi.",
+    "teaches": "Pasal 475 UU 7/2017: keberatan pilpres diajukan ke MK paling lama 3 hari setelah KPU menetapkan hasil, dan hanya terhadap hasil penghitungan yang memengaruhi terpilihnya pasangan calon atau putaran kedua.",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 475",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "pemilu-sp-humor-lapor-telat",
+    "type": "humor",
+    "topicId": "pemilu",
+    "subTopicId": "sengketa-pemilu",
+    "account": "kotak.suara",
+    "visual": {
+      "template": "comic",
+      "title": "Laporan vintage",
+      "panels": [
+        {
+          "character": "kancil",
+          "expression": "happy",
+          "text": "Warga: saya mau lapor politik uang pemilu kemarin."
+        },
+        {
+          "character": "owl",
+          "expression": "think",
+          "text": "Pengawas: kemarin kapan?"
+        },
+        {
+          "character": "kancil",
+          "expression": "smug",
+          "text": "Warga: pemilu lima tahun lalu."
+        },
+        {
+          "character": "owl",
+          "expression": "sad",
+          "text": "Pengawas: batas laporan 7 hari kerja sejak tahu."
+        }
+      ]
+    },
+    "caption": "Ingatan kuat, tenggat lewat.",
+    "teaches": "Pasal 454 ayat (6) UU 7/2017: laporan pelanggaran pemilu disampaikan paling lama 7 hari kerja sejak diketahui terjadinya dugaan pelanggaran. Pelapornya WNI yang punya hak pilih, peserta pemilu, dan pemantau (ayat (3)).",
+    "source": {
+      "title": "UU No. 7 Tahun 2017 tentang Pemilihan Umum (naskah terkonsolidasi; pasal yang dikutip belum diubah)",
+      "reference": "Pasal 454 ayat (3), (6)",
+      "url": "https://www.datahukum.com/peraturan/UU_7_Tahun_2017.html"
+    },
+    "needsVerification": true,
+    "status": "draft",
+    "createdAt": "2026-11-12"
   }
 ]
